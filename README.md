@@ -12,7 +12,7 @@ This is a collection of various GTA V data dumps mostly useful for modding &amp;
 - Animations (animDictsCompact.json) **16363** animation dictionaries & **168199** animations in total
 - Movement Clipsets (movementClipsetsCompact.json) **557** movement clipsets in total
 - (Walking) Movement Clipsets (movementClipsetsWalkingCompact.json) **207** movement clipsets in total
-
+- Navigation Meshes (navigationMeshes.msgpack) **4404** navmeshes with **6385890** polygons in total (See navigationmesh.md for the messagepack model)
 
 ---
 ## Please create an issue if you have any problems with the data, so I can improve my generator. You are also welcome to create issues for dumps you would like to see.

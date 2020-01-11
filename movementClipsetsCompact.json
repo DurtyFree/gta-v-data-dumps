@@ -1,0 +1,5433 @@
+[
+  {
+    "Name": "move_action@generic@2h_melee_weapon@idles@high_energy@a",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@generic@2h_melee_weapon@idles@high_energy@b",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@generic@2h_melee_weapon@idles@low_energy@a",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@generic@2h_melee_weapon@idles@low_energy@b",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@generic@2h_melee_weapon@trans@p_m_one",
+    "Clips": [
+      "action2idle",
+      "idle2action",
+      "stealth2action"
+    ]
+  },
+  {
+    "Name": "move_action@generic@2h_melee_weapon@trans@p_m_two",
+    "Clips": [
+      "action2idle",
+      "idle2action",
+      "stealth2action"
+    ]
+  },
+  {
+    "Name": "move_action@generic@2h_melee_weapon@trans@p_m_zero",
+    "Clips": [
+      "action2idle",
+      "idle2action",
+      "stealth2action"
+    ]
+  },
+  {
+    "Name": "move_action@generic@2h_melee_weapon@upper",
+    "Clips": [
+      "run",
+      "idle_intro",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_action@generic@ai_breakrun@1h",
+    "Clips": [
+      "ai_1h_breakrun_d",
+      "ai_1h_breakrun_c",
+      "ai_1h_breakrun_b",
+      "ai_1h_breakrun_a"
+    ]
+  },
+  {
+    "Name": "move_action@generic@ai_breakrun@2h",
+    "Clips": [
+      "ai_2h_breakrun_d",
+      "ai_2h_breakrun_c",
+      "ai_2h_breakrun_b",
+      "ai_2h_breakrun_a"
+    ]
+  },
+  {
+    "Name": "move_action@generic@core",
+    "Clips": [
+      "wstop_l_180",
+      "wstart_r_90",
+      "idle_intro",
+      "wstop_r_-90",
+      "run_turn_r3",
+      "rstart_r_90",
+      "run_turn_l3",
+      "wstart_l_0",
+      "walktorun_right",
+      "wstart_l_-90",
+      "run_turn_r2",
+      "run",
+      "rstart_l_-180",
+      "wstop_r_180",
+      "runtowalk_left",
+      "idle",
+      "wstart_r_0",
+      "wstart_l_-180",
+      "walk_down",
+      "idle_turn_r_90",
+      "walk",
+      "wstop_l_90",
+      "idle_turn_r_180",
+      "wstart_r_180",
+      "idle_turn_l_-180",
+      "wstop_l_0",
+      "run_down",
+      "idle_turn_l_-90",
+      "wstop_l_-180",
+      "idle_turn_l_0",
+      "runtowalk_right",
+      "run_turn_l2",
+      "rstop_l",
+      "walk_turn_l3",
+      "wstop_r_90",
+      "rstart_l_-90",
+      "wstop_r_-180",
+      "wstop_l_-90",
+      "walk_turn_r3",
+      "run_up",
+      "rstart_l_0",
+      "walk_up",
+      "walk_turn_l4",
+      "rstart_r_0",
+      "wstop_r_0",
+      "walk_turn_r4",
+      "rstop_r",
+      "rstart_r_180",
+      "idle_turn_r_0",
+      "walktorun_left"
+    ]
+  },
+  {
+    "Name": "move_action@generic@idle@variations",
+    "Clips": [
+      "idle_c",
+      "idle_b",
+      "idle_a"
+    ]
+  },
+  {
+    "Name": "move_action@generic@mini_gun@idles@high_energy@a",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@generic@mini_gun@idles@high_energy@b",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@generic@mini_gun@idles@low_energy@a",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@generic@mini_gun@idles@low_energy@b",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@generic@mini_gun@trans@mp_female",
+    "Clips": [
+      "action2idle",
+      "idle2action"
+    ]
+  },
+  {
+    "Name": "move_action@generic@mini_gun@trans@p_m_one",
+    "Clips": [
+      "action2idle",
+      "idle2action"
+    ]
+  },
+  {
+    "Name": "move_action@generic@mini_gun@trans@p_m_two",
+    "Clips": [
+      "action2idle",
+      "idle2action"
+    ]
+  },
+  {
+    "Name": "move_action@generic@mini_gun@trans@p_m_zero",
+    "Clips": [
+      "action2idle",
+      "idle2action"
+    ]
+  },
+  {
+    "Name": "move_action@generic@mini_gun@upper",
+    "Clips": [
+      "run",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_action@generic@trans@1h",
+    "Clips": [
+      "action2idle",
+      "idle2action",
+      "stealth2action"
+    ]
+  },
+  {
+    "Name": "move_action@generic@trans@2h",
+    "Clips": [
+      "action2idle",
+      "idle2action",
+      "stealth2action"
+    ]
+  },
+  {
+    "Name": "move_action@generic@trans@2h_melee",
+    "Clips": [
+      "action2idle",
+      "idle2action",
+      "stealth2action"
+    ]
+  },
+  {
+    "Name": "move_action@generic@trans@2h_short",
+    "Clips": [
+      "action2idle",
+      "idle2action",
+      "stealth2action"
+    ]
+  },
+  {
+    "Name": "move_action@generic@trans@unarmed",
+    "Clips": [
+      "action2idle",
+      "idle2action",
+      "stealth2action"
+    ]
+  },
+  {
+    "Name": "move_action@mp_female@armed@1h@trans",
+    "Clips": [
+      "action2idle",
+      "idle2action",
+      "stealth2action"
+    ]
+  },
+  {
+    "Name": "move_action@mp_female@armed@2h@trans",
+    "Clips": [
+      "action2idle",
+      "idle2action",
+      "stealth2action"
+    ]
+  },
+  {
+    "Name": "move_action@mp_female@armed@2h@upper",
+    "Clips": [
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_action@mp_female@armed@2h_melee@trans",
+    "Clips": [
+      "action2idle",
+      "idle2action",
+      "stealth2action"
+    ]
+  },
+  {
+    "Name": "move_action@mp_female@armed@2h_short@trans",
+    "Clips": [
+      "action2idle",
+      "idle2action",
+      "stealth2action"
+    ]
+  },
+  {
+    "Name": "move_action@mp_female@armed@2h_short@upper",
+    "Clips": [
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_action@mp_female@unarmed@core",
+    "Clips": [
+      "wstop_l_180",
+      "wstart_r_90",
+      "idle_intro",
+      "wstop_r_-90",
+      "rstart_r_90",
+      "wstart_l_0",
+      "walktorun_right",
+      "wstart_l_-90",
+      "run",
+      "rstart_l_-180",
+      "wstop_r_180",
+      "runtowalk_left",
+      "idle",
+      "wstart_r_0",
+      "wstart_l_-180",
+      "idle_turn_r_90",
+      "walk",
+      "wstop_l_90",
+      "idle_turn_r_180",
+      "wstart_r_180",
+      "idle_turn_l_-180",
+      "wstop_l_0",
+      "idle_turn_l_-90",
+      "wstop_l_-180",
+      "idle_turn_l_0",
+      "runtowalk_right",
+      "rstop_l",
+      "wstop_r_90",
+      "rstart_l_-90",
+      "wstop_r_-180",
+      "wstop_l_-90",
+      "rstart_l_0",
+      "rstart_r_0",
+      "wstop_r_0",
+      "rstop_r",
+      "rstart_r_180",
+      "idle_turn_r_0",
+      "walktorun_left"
+    ]
+  },
+  {
+    "Name": "move_action@mp_female@unarmed@idle@variations",
+    "Clips": [
+      "idle_c",
+      "idle_b",
+      "idle_a"
+    ]
+  },
+  {
+    "Name": "move_action@mp_female@unarmed@trans@",
+    "Clips": [
+      "action2idle",
+      "idle2action",
+      "stealth2action"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_one@armed@1h@idle@high_energy@a",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_one@armed@1h@idle@high_energy@b",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_one@armed@1h@idle@high_energy@c",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_one@armed@1h@idle@high_energy@d",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_one@armed@1h@idle@low_energy@a",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_one@armed@1h@idle@low_energy@b",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_one@armed@1h@idle@low_energy@c",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_one@armed@1h@idle@low_energy@d",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_one@armed@1h@trans@a",
+    "Clips": [
+      "action2idle",
+      "idle2action",
+      "stealth2action"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_one@armed@1h@upper",
+    "Clips": [
+      "run",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_one@armed@2h@idle@high_energy@a",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_one@armed@2h@idle@high_energy@b",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_one@armed@2h@idle@high_energy@c",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_one@armed@2h@idle@high_energy@d",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_one@armed@2h@idle@low_energy@a",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_one@armed@2h@idle@low_energy@b",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_one@armed@2h@idle@low_energy@c",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_one@armed@2h@idle@low_energy@d",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_one@armed@2h@trans@a",
+    "Clips": [
+      "action2idle",
+      "idle2action",
+      "stealth2action"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_one@armed@2h@upper",
+    "Clips": [
+      "run",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_one@armed@2h_short@idle@high_energy@a",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_one@armed@2h_short@idle@high_energy@b",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_one@armed@2h_short@idle@high_energy@c",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_one@armed@2h_short@idle@high_energy@d",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_one@armed@2h_short@idle@low_energy@a",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_one@armed@2h_short@idle@low_energy@b",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_one@armed@2h_short@idle@low_energy@c",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_one@armed@2h_short@idle@low_energy@d",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_one@armed@2h_short@trans@a",
+    "Clips": [
+      "action2idle",
+      "idle2action",
+      "stealth2action"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_one@armed@2h_short@upper",
+    "Clips": [
+      "run",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_one@armed@core",
+    "Clips": [
+      "run",
+      "idle_intro",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_one@holster",
+    "Clips": [
+      "mini_holster_unarmed",
+      "unarmed_holster_mini",
+      "mini_holster_2h",
+      "1h_holster_2h",
+      "2h_holster_2h_melee",
+      "mini_holster_2h_unarmed",
+      "1h_holster_mini",
+      "unarmed_holster_2h_melee",
+      "mini_holster_mini",
+      "2h_melee_holster_1h",
+      "mini_holster_1h",
+      "2h_holster_mini",
+      "2h_holster_1h",
+      "1h_holster_2h_melee",
+      "2h_melee_holster_2h_melee",
+      "unarmed_holster_2h",
+      "2h_melee_holster_unarmed",
+      "2h_melee_holster_mini",
+      "1h_holster_unarmed",
+      "2h_holster_2h",
+      "mini_holster_2h_melee",
+      "1h_holster_1h",
+      "unarmed_holster_unarmed",
+      "unarmed_holster_1h",
+      "2h_melee_holster_2h",
+      "2h_holster_unarmed"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_one@unarmed@core",
+    "Clips": [
+      "run",
+      "idle_intro",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_one@unarmed@idle@high_energy@a",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_one@unarmed@idle@high_energy@b",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_one@unarmed@idle@high_energy@c",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_one@unarmed@idle@high_energy@d",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_one@unarmed@idle@low_energy@a",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_one@unarmed@idle@low_energy@b",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_one@unarmed@idle@low_energy@c",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_one@unarmed@idle@low_energy@d",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_one@unarmed@idle@variations",
+    "Clips": [
+      "idle_c",
+      "idle_b",
+      "idle_a"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_one@unarmed@trans@a",
+    "Clips": [
+      "action2idle",
+      "idle2action",
+      "stealth2action"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_two@armed@1h@idle@high_energy@a",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_two@armed@1h@idle@high_energy@b",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_two@armed@1h@idle@high_energy@c",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_two@armed@1h@idle@high_energy@d",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_two@armed@1h@idle@low_energy@a",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_two@armed@1h@idle@low_energy@b",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_two@armed@1h@idle@low_energy@c",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_two@armed@1h@idle@low_energy@d",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_two@armed@1h@trans@a",
+    "Clips": [
+      "action2idle",
+      "idle2action",
+      "stealth2action"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_two@armed@1h@upper",
+    "Clips": [
+      "run",
+      "idle_intro",
+      "walk_turn_l4",
+      "walk_turn_r4",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_two@armed@2h@idle@high_energy@a",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_two@armed@2h@idle@high_energy@b",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_two@armed@2h@idle@high_energy@c",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_two@armed@2h@idle@high_energy@d",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_two@armed@2h@idle@low_energy@a",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_two@armed@2h@idle@low_energy@b",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_two@armed@2h@idle@low_energy@c",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_two@armed@2h@idle@low_energy@d",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_two@armed@2h@trans@a",
+    "Clips": [
+      "action2idle",
+      "idle2action",
+      "stealth2action"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_two@armed@2h@upper",
+    "Clips": [
+      "run_turn_l3",
+      "run",
+      "idle_intro",
+      "walk_turn_l4",
+      "run_turn_r3",
+      "walk_turn_r4",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_two@armed@2h_short@idle@high_energy@a",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_two@armed@2h_short@idle@high_energy@b",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_two@armed@2h_short@idle@high_energy@c",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_two@armed@2h_short@idle@high_energy@d",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_two@armed@2h_short@idle@low_energy@a",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_two@armed@2h_short@idle@low_energy@b",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_two@armed@2h_short@idle@low_energy@c",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_two@armed@2h_short@idle@low_energy@d",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_two@armed@2h_short@trans@a",
+    "Clips": [
+      "action2idle",
+      "idle2action",
+      "stealth2action"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_two@armed@2h_short@upper",
+    "Clips": [
+      "run",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_two@armed@core",
+    "Clips": [
+      "run",
+      "idle_intro",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_two@holster",
+    "Clips": [
+      "mini_holster_unarmed",
+      "unarmed_holster_mini",
+      "mini_holster_2h",
+      "1h_holster_2h",
+      "2h_holster_2h_melee",
+      "mini_holster_2h_unarmed",
+      "1h_holster_mini",
+      "unarmed_holster_2h_melee",
+      "mini_holster_mini",
+      "2h_melee_holster_1h",
+      "mini_holster_1h",
+      "2h_holster_mini",
+      "2h_holster_1h",
+      "1h_holster_2h_melee",
+      "2h_melee_holster_2h_melee",
+      "unarmed_holster_2h",
+      "2h_melee_holster_unarmed",
+      "2h_melee_holster_mini",
+      "1h_holster_unarmed",
+      "2h_holster_2h",
+      "mini_holster_2h_melee",
+      "1h_holster_1h",
+      "unarmed_holster_unarmed",
+      "unarmed_holster_1h",
+      "2h_melee_holster_2h",
+      "2h_holster_unarmed"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_two@unarmed@core",
+    "Clips": [
+      "run",
+      "idle_intro",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_two@unarmed@idle@high_energy@a",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_two@unarmed@idle@high_energy@b",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_two@unarmed@idle@high_energy@c",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_two@unarmed@idle@high_energy@d",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_two@unarmed@idle@low_energy@a",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_two@unarmed@idle@low_energy@b",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_two@unarmed@idle@low_energy@c",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_two@unarmed@idle@low_energy@d",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_two@unarmed@idle@variations",
+    "Clips": [
+      "idle_c",
+      "idle_b",
+      "idle_a"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_two@unarmed@trans@a",
+    "Clips": [
+      "action2idle",
+      "idle2action",
+      "stealth2action"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_zero@armed@1h@idle@high_energy@a",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_zero@armed@1h@idle@high_energy@b",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_zero@armed@1h@idle@high_energy@c",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_zero@armed@1h@idle@high_energy@d",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_zero@armed@1h@idle@low_energy@a",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_zero@armed@1h@idle@low_energy@b",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_zero@armed@1h@idle@low_energy@c",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_zero@armed@1h@idle@low_energy@d",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_zero@armed@1h@trans@a",
+    "Clips": [
+      "action2idle",
+      "idle2action",
+      "stealth2action"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_zero@armed@1h@upper",
+    "Clips": [
+      "run",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_zero@armed@2h@idle@high_energy@a",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_zero@armed@2h@idle@high_energy@b",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_zero@armed@2h@idle@high_energy@c",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_zero@armed@2h@idle@high_energy@d",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_zero@armed@2h@idle@low_energy@a",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_zero@armed@2h@idle@low_energy@b",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_zero@armed@2h@idle@low_energy@c",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_zero@armed@2h@idle@low_energy@d",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_zero@armed@2h@trans@a",
+    "Clips": [
+      "action2idle",
+      "idle2action",
+      "stealth2action"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_zero@armed@2h@upper",
+    "Clips": [
+      "run",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_zero@armed@2h_short@idle@high_energy@a",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_zero@armed@2h_short@idle@high_energy@b",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_zero@armed@2h_short@idle@high_energy@c",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_zero@armed@2h_short@idle@high_energy@d",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_zero@armed@2h_short@idle@low_energy@a",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_zero@armed@2h_short@idle@low_energy@b",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_zero@armed@2h_short@idle@low_energy@c",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_zero@armed@2h_short@idle@low_energy@d",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_zero@armed@2h_short@trans@a",
+    "Clips": [
+      "action2idle",
+      "idle2action",
+      "stealth2action"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_zero@armed@2h_short@upper",
+    "Clips": [
+      "run",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_zero@armed@core",
+    "Clips": [
+      "run",
+      "idle_intro",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_zero@holster",
+    "Clips": [
+      "unarmed_holster_mini",
+      "mini_holster_2h",
+      "1h_holster_2h",
+      "2h_holster_2h_melee",
+      "mini_holster_2h_unarmed",
+      "1h_holster_mini",
+      "unarmed_holster_2h_melee",
+      "mini_holster_mini",
+      "2h_melee_holster_1h",
+      "mini_holster_1h",
+      "2h_holster_mini",
+      "2h_holster_1h",
+      "1h_holster_2h_melee",
+      "2h_melee_holster_2h_melee",
+      "unarmed_holster_2h",
+      "2h_melee_holster_unarmed",
+      "2h_melee_holster_mini",
+      "1h_holster_unarmed",
+      "2h_holster_2h",
+      "mini_holster_2h_melee",
+      "1h_holster_1h",
+      "unarmed_holster_unarmed",
+      "unarmed_holster_1h",
+      "2h_melee_holster_2h",
+      "2h_holster_unarmed"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_zero@unarmed@core",
+    "Clips": [
+      "run",
+      "idle_intro",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_zero@unarmed@idle@high_energy@a",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_zero@unarmed@idle@high_energy@b",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_zero@unarmed@idle@high_energy@c",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_zero@unarmed@idle@high_energy@d",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_zero@unarmed@idle@low_energy@a",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_zero@unarmed@idle@low_energy@b",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_zero@unarmed@idle@low_energy@c",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_zero@unarmed@idle@low_energy@d",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_zero@unarmed@idle@variations",
+    "Clips": [
+      "idle_c",
+      "idle_b",
+      "idle_a"
+    ]
+  },
+  {
+    "Name": "move_action@p_m_zero@unarmed@trans@a",
+    "Clips": [
+      "action2idle",
+      "idle2action",
+      "stealth2action"
+    ]
+  },
+  {
+    "Name": "move_aim_strafe_crouch_2h",
+    "Clips": [
+      "idle_turn_right_fast_intro",
+      "run_bwd_-135_loop",
+      "walk_fwd_45_loop",
+      "walk_fwd_90_loop",
+      "walk_fwd_0_loop",
+      "run_bwd_135_loop",
+      "walk_bwd_135_loop",
+      "run_fwd_90_loop",
+      "run_fwd_-45_loop",
+      "idle",
+      "run_fwd_0_loop",
+      "idle_turn_left_fast",
+      "walk_bwd_-135_loop",
+      "walk_fwd_135_loop",
+      "run_bwd_-90_loop",
+      "idle_transition",
+      "idle_turn_left_slow",
+      "idle_turn_right_slow",
+      "walk_bwd_-45_loop",
+      "run_fwd_135_loop",
+      "idle_turn_stop",
+      "walk_bwd_-90_loop",
+      "run_fwd_45_loop",
+      "idle_turn_left_fast_intro",
+      "idle_turn_right_fast",
+      "walk_fwd_-45_loop",
+      "walk_bwd_180_loop",
+      "run_bwd_-45_loop",
+      "run_bwd_180_loop"
+    ]
+  },
+  {
+    "Name": "move_avoidance@generic_m",
+    "Clips": [
+      "react_front_dive_right",
+      "react_back_dive_right",
+      "react_right_side_dive_back",
+      "react_right_side_dive_front",
+      "react_back_dive_left",
+      "react_left_side_dive_front",
+      "react_front_dive_left",
+      "react_left_side_dive_back"
+    ]
+  },
+  {
+    "Name": "move_ballistic",
+    "Clips": [
+      "run_turn_180_r",
+      "wstop_l_180",
+      "wstart_r_90",
+      "idle_intro",
+      "wstop_r_-90",
+      "run_turn_r3",
+      "rstart_r_90",
+      "sprint_turn_r",
+      "run_turn_l3",
+      "wstart_l_0",
+      "walktorun_right",
+      "wstart_l_-90",
+      "run_turn_r2",
+      "run",
+      "rstart_l_-180",
+      "wstop_r_180",
+      "runtowalk_left",
+      "idle",
+      "wstart_r_0",
+      "wstart_l_-180",
+      "idle_turn_r_90",
+      "run_turn_180_l",
+      "walk",
+      "wstop_l_90",
+      "idle_turn_r_180",
+      "wstart_r_180",
+      "idle_turn_l_-180",
+      "wstop_l_0",
+      "sprint",
+      "idle_turn_l_-90",
+      "wstop_l_-180",
+      "idle_turn_l_0",
+      "runtowalk_right",
+      "run_turn_l2",
+      "rstop_l",
+      "walk_turn_l3",
+      "wstop_r_90",
+      "rstart_l_-90",
+      "walk_turn_180_l",
+      "wstop_r_-180",
+      "wstop_l_-90",
+      "walk_turn_r3",
+      "rstart_l_0",
+      "walk_turn_l4",
+      "rstart_r_0",
+      "wstop_r_0",
+      "walk_turn_r4",
+      "rstop_r",
+      "rstart_r_180",
+      "idle_turn_r_0",
+      "walktorun_left",
+      "walk_turn_180_r",
+      "sprint_turn_l"
+    ]
+  },
+  {
+    "Name": "move_ballistic_2h",
+    "Clips": [
+      "run",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_ballistic_minigun",
+    "Clips": [
+      "run",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_bucket",
+    "Clips": [
+      "run",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_bucket_arms",
+    "Clips": [
+      "walk_bucket",
+      "run",
+      "idle",
+      "walk",
+      "idle_bucket"
+    ]
+  },
+  {
+    "Name": "move_characters@amanda@bag",
+    "Clips": [
+      "additive_fat"
+    ]
+  },
+  {
+    "Name": "move_characters@ballas@core",
+    "Clips": [
+      "sprint"
+    ]
+  },
+  {
+    "Name": "move_characters@ballas@flee",
+    "Clips": [
+      "sprint_frantic",
+      "sprint_turn_left",
+      "sprint_turn_right"
+    ]
+  },
+  {
+    "Name": "move_characters@casey@nervous",
+    "Clips": [
+      "idle_intro",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_characters@dave_n@core@",
+    "Clips": [
+      "run",
+      "idle_intro",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_characters@floyd@core@",
+    "Clips": [
+      "run",
+      "idle_intro",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_characters@franklin@fire",
+    "Clips": [
+      "run",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_characters@jimmy@core@",
+    "Clips": [
+      "run",
+      "idle_intro",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_characters@jimmy@nervous@",
+    "Clips": [
+      "idle_intro",
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_characters@jimmy@slow@",
+    "Clips": [
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_characters@lamar@core",
+    "Clips": [
+      "run",
+      "idle_intro",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_characters@lester@std",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_characters@lester@std_caneup",
+    "Clips": [
+      "idle_turn_r_0",
+      "wstop_l_0",
+      "idle_turn_l_0",
+      "wstart_l_-90",
+      "idle_turn_r_90",
+      "idle_intro",
+      "idle",
+      "idle_turn_l_-90",
+      "run_up",
+      "idle_turn_l_-180",
+      "idle_outro",
+      "rstart_r_0",
+      "walk_up",
+      "rstart_l_0",
+      "walk",
+      "wstart_l_0",
+      "wstart_r_0",
+      "rstop_l",
+      "wstart_r_90",
+      "run",
+      "rstop_r",
+      "idle_turn_r_180",
+      "wstop_r_0"
+    ]
+  },
+  {
+    "Name": "move_characters@lester@waiting",
+    "Clips": [
+      "lester_waitidle_e",
+      "lester_waitidle_d",
+      "lester_waitidle_c",
+      "lester_waitidle_b",
+      "lester_waitidle_a",
+      "lester_waitidle_base"
+    ]
+  },
+  {
+    "Name": "move_characters@lester@waiting_caneup",
+    "Clips": [
+      "idle_c",
+      "idle_b",
+      "idle_a"
+    ]
+  },
+  {
+    "Name": "move_characters@michael@fire",
+    "Clips": [
+      "run",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_characters@michael@gay",
+    "Clips": [
+      "gaycouple_walk_player0"
+    ]
+  },
+  {
+    "Name": "move_characters@orleans@core@",
+    "Clips": [
+      "sprint",
+      "additive_fat",
+      "walktorun_left",
+      "runtowalk_right",
+      "run_turn_l2",
+      "idle_intro",
+      "idle",
+      "sprint_turn_r",
+      "run_turn_r2",
+      "run_turn_l3",
+      "runtowalk_left",
+      "rstart_r_0",
+      "rstart_l_0",
+      "walk",
+      "wstart_l_0",
+      "sprint_turn_l",
+      "wstart_r_0",
+      "walktorun_right",
+      "run_turn_r3",
+      "run",
+      "rstop_l",
+      "rstop_r"
+    ]
+  },
+  {
+    "Name": "move_characters@patricia@core@",
+    "Clips": [
+      "run",
+      "idle_intro",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_characters@peter@core",
+    "Clips": [
+      "run",
+      "idle_intro",
+      "walk_start_r",
+      "walk_start_l",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_characters@peter@waiting",
+    "Clips": [
+      "wait_c",
+      "wait_b",
+      "wait_a"
+    ]
+  },
+  {
+    "Name": "move_characters@ron@core@",
+    "Clips": [
+      "run",
+      "idle_intro",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_characters@sandy@core",
+    "Clips": [
+      "sandy_walk"
+    ]
+  },
+  {
+    "Name": "move_characters@sandy@texting",
+    "Clips": [
+      "sandy_saybye",
+      "sandy_text_loop_a",
+      "sandy_text_loop_base"
+    ]
+  },
+  {
+    "Name": "move_characters@tracey@core@",
+    "Clips": [
+      "run",
+      "idle_intro",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_characters@trevor@cough_run",
+    "Clips": [
+      "cough_run"
+    ]
+  },
+  {
+    "Name": "move_characters@trevor@gay",
+    "Clips": [
+      "gaycouple_walk_player2"
+    ]
+  },
+  {
+    "Name": "move_climb",
+    "Clips": [
+      "runclimbup_220_angled_20",
+      "standvault_exit",
+      "runclimbup_80_low",
+      "runclimbup_180_high",
+      "clamberpose_fall",
+      "standclimbup_220_high_angled_20",
+      "run_climbup_80_r_close",
+      "run_climbup_20_l_close",
+      "clamberpose_to_skydive",
+      "runclimbup_220_high",
+      "standvault_20",
+      "clamberpose_fall_wide",
+      "standclimbup_295_low",
+      "runclimbup_140_low",
+      "clamberpose_stand_angled_20",
+      "standclimbup_80",
+      "run_climbup_20_l",
+      "clamberpose_fall_low",
+      "standclimbup_180_high_angled_20",
+      "bonnet_slide_l_in",
+      "runclimbup_80_angled_20",
+      "runclimbup_140_high",
+      "bonnet_slide_r_out",
+      "clamberpose_to_skydive_angled_20",
+      "clamberpose_fall_low_angled_20",
+      "run_climbup_exit_r",
+      "run_climbup_20_r_close",
+      "runclimbup_180_low_angled_20",
+      "clamberpose_walk_angled",
+      "runclimbup_180_high_angled_20",
+      "clamberpose_to_dive",
+      "standclimbup_140_high",
+      "clamberpose_walk",
+      "clamberpose_run_angled_20",
+      "standclimbup_80_low",
+      "standclimbup_180_low",
+      "runclimbup_295_low_angled_20",
+      "clamberpose_fall_wide_angled_20",
+      "standclimbup_220",
+      "bonnet_slide_l_out",
+      "standclimbup_exit_walk",
+      "standvaultclose_80",
+      "clamberpose_to_dive_angled_20",
+      "walkclimbup_80",
+      "bonnet_slide_l_slide",
+      "standclimbupclose_80_low",
+      "standclimbup_80_angled_20",
+      "runclimbup_220",
+      "standclimbup_180_high",
+      "runclimbup_140_low_angled_20",
+      "standclimbup_220_angled_20",
+      "run_climbup_20_r",
+      "runclimbup_295_low",
+      "run_climbup_80_l",
+      "runclimbup_220_high_angled_20",
+      "standvault_80",
+      "runclimbup_20",
+      "standclimbup_140_low",
+      "clamberpose_fall_xtrawide_angled_20",
+      "runclimbup_140_high_angled_20",
+      "standclimbup_180_low_angled_20",
+      "clamberpose_run",
+      "walkclimbup_140_low",
+      "bonnet_slide_r_in",
+      "run_climbup_80_r",
+      "clamberpose_stand",
+      "standclimbup_220_high",
+      "runclimbup_180_low",
+      "bonnet_slide_r_slide",
+      "standclimbup_140_high_angled_20",
+      "standvaultclose_20",
+      "run_vault_exit_r",
+      "standclimbup_exit",
+      "run_vault_exit_l",
+      "standclimbup_295_low_angled_20",
+      "run_climbup_exit_l",
+      "standclimbupclose_20",
+      "bh1_props_combo0110_79_lod",
+      "run_climbup_80_l_close",
+      "clamberpose_fall_xtrawide",
+      "standclimbup_20",
+      "clamberpose_fall_angled_20",
+      "runclimbup_80"
+    ]
+  },
+  {
+    "Name": "move_clown@generic",
+    "Clips": [
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_clown@generic_idles@",
+    "Clips": [
+      "fidget_look_around_a",
+      "fidget_look_at_oufit_a",
+      "fidget_look_at_oufit_b"
+    ]
+  },
+  {
+    "Name": "move_clown@p_m_one",
+    "Clips": [
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_clown@p_m_one_idles@",
+    "Clips": [
+      "fidget_look_at_outfit_02",
+      "fidget_look_at_outfit_01",
+      "fidget_look_around"
+    ]
+  },
+  {
+    "Name": "move_clown@p_m_two",
+    "Clips": [
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_clown@p_m_two_idles@",
+    "Clips": [
+      "fidget_short_dance",
+      "fidget_look_at_outfit",
+      "fidget_adjust_nose"
+    ]
+  },
+  {
+    "Name": "move_clown@p_m_zero",
+    "Clips": [
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_clown@p_m_zero_idles@",
+    "Clips": [
+      "fidget_short_dance",
+      "fidget_look_at_oufit_a",
+      "fidget_look_at_oufit_b"
+    ]
+  },
+  {
+    "Name": "move_cop@action",
+    "Clips": [
+      "run",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_crawl",
+    "Clips": [
+      "onfront_bwd",
+      "onback_fwd",
+      "onfront_fwd",
+      "onback_bwd"
+    ]
+  },
+  {
+    "Name": "move_crawlprone2crawlback",
+    "Clips": [
+      "back",
+      "back_armsdown"
+    ]
+  },
+  {
+    "Name": "move_crawlprone2crawlfront",
+    "Clips": [
+      "front",
+      "front_armsdown",
+      "left",
+      "back",
+      "back_armsdown",
+      "right"
+    ]
+  },
+  {
+    "Name": "move_crouch_proto",
+    "Clips": [
+      "runtowalk_right",
+      "idle_turn_r_-90",
+      "run_turn_l2",
+      "walk",
+      "wstop_r_0",
+      "rstart_r_180",
+      "rstart_r_0",
+      "wstart_r_-90",
+      "wstop_r_90",
+      "wstop_r_180",
+      "rstart_r_-90",
+      "walktorun_left",
+      "rstart_l_0",
+      "walk_turn_l4",
+      "run_turn_180_r",
+      "idle_turn_r_90",
+      "wstop_l_0",
+      "rstop_l",
+      "wstop_l_180",
+      "walk_turn_r3",
+      "rstop_r",
+      "run_turn_180_l",
+      "idle_turn_r_-180",
+      "run_turn_r3",
+      "rstart_l_180",
+      "wstart_l_-180",
+      "rstart_r_90",
+      "wstart_l_0",
+      "walk_turn_r4",
+      "wstart_l_-90",
+      "run",
+      "idle_turn_r_180",
+      "idle_turn_l_-180",
+      "idle_transition",
+      "sprint",
+      "idle_turn_l_0",
+      "rstart_r_-180",
+      "idle",
+      "wstart_l_180",
+      "wstop_r_-90",
+      "walk_turn_180_r",
+      "wstop_l_-90",
+      "idle_turn_l_180",
+      "sprint_turn_r",
+      "wstop_l_-180",
+      "wstop_r_-180",
+      "idle_turn_r_0",
+      "walk_turn_l3",
+      "walktorun_right",
+      "runtowalk_left",
+      "sprint_turn_l",
+      "idle_intro",
+      "run_turn_r2",
+      "rstart_l_-90",
+      "wstop_l_90",
+      "idle_turn_l_90",
+      "wstart_r_-180",
+      "rstart_l_-180",
+      "wstart_r_180",
+      "wstart_r_90",
+      "wstart_r_0",
+      "rstart_l_90",
+      "walk_turn_180_l",
+      "idle_turn_l_-90",
+      "run_turn_l3",
+      "wstart_l_90"
+    ]
+  },
+  {
+    "Name": "move_drop",
+    "Clips": [
+      "wdrop_r_small",
+      "wdrop_l_small",
+      "walk_drop",
+      "run_drop_l",
+      "walk_drop_l",
+      "run_drop"
+    ]
+  },
+  {
+    "Name": "move_drunk_m",
+    "Clips": [
+      "idle_intro",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_duck_for_cover",
+    "Clips": [
+      "enter",
+      "exit",
+      "loop"
+    ]
+  },
+  {
+    "Name": "move_f@arrogant@a",
+    "Clips": [
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_f@arrogant@b",
+    "Clips": [
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_f@arrogant@c",
+    "Clips": [
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_f@business@a",
+    "Clips": [
+      "run",
+      "rstop_r",
+      "rstart_l_0",
+      "rstop_l",
+      "wstart_l_0",
+      "idle",
+      "wstop_r_0",
+      "wstop_l_0",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_f@chichi",
+    "Clips": [
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_f@chubby@a",
+    "Clips": [
+      "run",
+      "idle_intro",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_f@depressed@a",
+    "Clips": [
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_f@depressed@b",
+    "Clips": [
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_f@depressed@c",
+    "Clips": [
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_f@drunk@a",
+    "Clips": [
+      "run",
+      "idle_intro",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_f@exhausted",
+    "Clips": [
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_f@fat@a",
+    "Clips": [
+      "run",
+      "idle_intro",
+      "idle",
+      "additive_fat",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_f@femme@",
+    "Clips": [
+      "wstart_r_0",
+      "idle_intro",
+      "wstart_l_0",
+      "idle",
+      "wstop_r_0",
+      "wstop_l_0",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_f@film_reel",
+    "Clips": [
+      "run",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_f@film_reel_arms",
+    "Clips": [
+      "run",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_f@flee@a",
+    "Clips": [
+      "run"
+    ]
+  },
+  {
+    "Name": "move_f@flee@b",
+    "Clips": [
+      "run"
+    ]
+  },
+  {
+    "Name": "move_f@flee@c",
+    "Clips": [
+      "run"
+    ]
+  },
+  {
+    "Name": "move_f@flee@generic",
+    "Clips": [
+      "run_turn_l3",
+      "run_turn_r2",
+      "run_turn_r3",
+      "run_turn_l2"
+    ]
+  },
+  {
+    "Name": "move_f@gangster@ng",
+    "Clips": [
+      "wstart_r_0",
+      "idle_intro",
+      "wstart_l_0",
+      "idle",
+      "wstop_r_0",
+      "wstop_l_0",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_f@generic",
+    "Clips": [
+      "runtowalk_right",
+      "run_turn_l2",
+      "walk",
+      "wstop_r_0",
+      "rstart_r_180",
+      "rstart_r_0",
+      "wstop_r_90",
+      "wstop_r_180",
+      "walktorun_left",
+      "rstart_l_0",
+      "walk_turn_l4",
+      "run_turn_180_r",
+      "rstop_quick_r",
+      "idle_turn_r_90",
+      "wstop_l_0",
+      "rstop_l",
+      "wstop_l_180",
+      "walk_turn_r3",
+      "rstop_r",
+      "run_turn_180_l",
+      "run_turn_r3",
+      "walk_up",
+      "wstart_l_-180",
+      "rstart_r_90",
+      "wstart_l_0",
+      "walk_turn_r4",
+      "wstart_l_-90",
+      "run",
+      "idle_turn_r_180",
+      "idle_turn_l_-180",
+      "sprint",
+      "rstop_quick_l",
+      "wstop_quick_r_0",
+      "idle_turn_l_0",
+      "idle",
+      "wstop_r_-90",
+      "trans_male_to_female",
+      "walk_turn_180_r",
+      "wstop_l_-90",
+      "run_down",
+      "sprint_turn_r",
+      "wstop_l_-180",
+      "wstop_r_-180",
+      "idle_turn_r_0",
+      "walk_turn_l3",
+      "run_up",
+      "wstop_quick_l_0",
+      "walktorun_right",
+      "runtowalk_left",
+      "sprint_turn_l",
+      "idle_intro",
+      "run_turn_r2",
+      "walk_down",
+      "rstart_l_-90",
+      "wstop_l_90",
+      "rstart_l_-180",
+      "wstart_r_180",
+      "wstart_r_90",
+      "wstart_r_0",
+      "walk_turn_180_l",
+      "idle_turn_l_-90",
+      "run_turn_l3"
+    ]
+  },
+  {
+    "Name": "move_f@generic_idles@std",
+    "Clips": [
+      "idle_c",
+      "idle_d",
+      "idle_b",
+      "idle_a"
+    ]
+  },
+  {
+    "Name": "move_f@handbag",
+    "Clips": [
+      "additive_fat"
+    ]
+  },
+  {
+    "Name": "move_f@heels@c",
+    "Clips": [
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_f@heels@d",
+    "Clips": [
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_f@hiking",
+    "Clips": [
+      "idle_intro",
+      "base",
+      "idle_exit",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_f@hurry@a",
+    "Clips": [
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_f@hurry@b",
+    "Clips": [
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_f@injured",
+    "Clips": [
+      "run",
+      "idle_intro",
+      "walk_turn_l4",
+      "walk_turn_l3",
+      "sprint",
+      "walk_turn_r4",
+      "idle",
+      "walk_turn_r3",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_f@jogger",
+    "Clips": [
+      "run",
+      "jogging",
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_f@maneater",
+    "Clips": [
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_f@multiplayer",
+    "Clips": [
+      "wstop_l_180",
+      "wstart_r_90",
+      "idle_intro",
+      "wstop_r_-90",
+      "sprint_turn_r",
+      "wstart_l_0",
+      "walktorun_right",
+      "wstart_l_-90",
+      "run",
+      "wstop_r_180",
+      "walk_down_slope",
+      "runtowalk_left",
+      "idle",
+      "wstart_r_0",
+      "wstart_l_-180",
+      "walk_down",
+      "idle_turn_r_90",
+      "walk",
+      "wstop_l_90",
+      "idle_turn_r_180",
+      "wstart_r_180",
+      "idle_turn_l_-180",
+      "wstop_l_0",
+      "sprint",
+      "run_down",
+      "idle_turn_l_-90",
+      "wstop_l_-180",
+      "idle_turn_l_0",
+      "runtowalk_right",
+      "rstop_l",
+      "walk_turn_l3",
+      "wstop_r_90",
+      "walk_turn_180_l",
+      "wstop_r_-180",
+      "wstop_l_-90",
+      "walk_turn_r3",
+      "run_up",
+      "rstart_l_0",
+      "walk_up",
+      "walk_turn_l4",
+      "run_down_slope",
+      "run_up_slope",
+      "rstart_r_0",
+      "wstop_r_0",
+      "walk_turn_r4",
+      "rstop_r",
+      "walk_up_slope",
+      "idle_turn_r_0",
+      "walktorun_left",
+      "walk_turn_180_r",
+      "sprint_turn_l"
+    ]
+  },
+  {
+    "Name": "move_f@posh@",
+    "Clips": [
+      "wstart_r_0",
+      "idle_intro",
+      "wstart_l_0",
+      "idle",
+      "wstop_r_0",
+      "wstop_l_0",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_f@runner",
+    "Clips": [
+      "sprint",
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_f@sad@a",
+    "Clips": [
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_f@sad@b",
+    "Clips": [
+      "move_f_sad_b",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_f@sassy",
+    "Clips": [
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_f@scared@a",
+    "Clips": [
+      "run",
+      "idle_intro",
+      "idle_turn_l_0",
+      "idle_turn_l_-90",
+      "idle_turn_r_90",
+      "idle_turn_r_180",
+      "idle_turn_r_0",
+      "idle",
+      "walk",
+      "idle_turn_l_-180"
+    ]
+  },
+  {
+    "Name": "move_f@sexy",
+    "Clips": [
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_f@sexy@a",
+    "Clips": [
+      "idle_intro",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_f@shy@a",
+    "Clips": [
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_f@shy@b",
+    "Clips": [
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_f@shy@c",
+    "Clips": [
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_f@shy@d",
+    "Clips": [
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_f@tool_belt@a",
+    "Clips": [
+      "idle_intro",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_f@tough_guy@",
+    "Clips": [
+      "wstart_r_0",
+      "idle_intro",
+      "wstart_l_0",
+      "idle",
+      "wstop_r_0",
+      "wstop_l_0",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_fall",
+    "Clips": [
+      "low_land_stand",
+      "low_land_run",
+      "clamber_land_run",
+      "fall_med",
+      "clamber_land_walk",
+      "land_roll",
+      "high_land_stand",
+      "fall_clamber",
+      "dive_loop_oc",
+      "land_fall",
+      "fall_high",
+      "dive_loop",
+      "low_land_walk",
+      "high_land_walk",
+      "clamber_land_stand",
+      "high_land_run"
+    ]
+  },
+  {
+    "Name": "move_fall@weapons@2h_melee",
+    "Clips": [
+      "land_stand_arms",
+      "land_walk_arms",
+      "fall_med_arms",
+      "land_run_arms"
+    ]
+  },
+  {
+    "Name": "move_fall@weapons@jerrycan",
+    "Clips": [
+      "land_stand_arms",
+      "land_walk_arms",
+      "fall_med_arms",
+      "land_run_arms"
+    ]
+  },
+  {
+    "Name": "move_fall@weapons@pistol",
+    "Clips": [
+      "hand_grip"
+    ]
+  },
+  {
+    "Name": "move_fall@weapons@rifle",
+    "Clips": [
+      "land_stand_arms",
+      "land_walk_arms",
+      "fall_med_arms",
+      "land_run_arms"
+    ]
+  },
+  {
+    "Name": "move_fall@weapons@rpg",
+    "Clips": [
+      "land_stand_arms",
+      "land_walk_arms",
+      "fall_med_arms",
+      "land_run_arms"
+    ]
+  },
+  {
+    "Name": "move_franklin@sneak",
+    "Clips": [
+      "wstart_r_0",
+      "idle_intro",
+      "walk_turn_l3",
+      "wstart_l_0",
+      "idle",
+      "wstop_r_0",
+      "wstop_l_0",
+      "walk_turn_r3",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_injured_generic",
+    "Clips": [
+      "run_turn_180_r",
+      "wstop_l_180",
+      "wstart_r_90",
+      "idle_intro",
+      "wstop_r_-90",
+      "run_turn_r3",
+      "idle_turn_r_-180",
+      "run_turn_l3",
+      "wstart_l_0",
+      "walktorun_right",
+      "wstart_l_-90",
+      "run_turn_r2",
+      "run",
+      "wstop_r_180",
+      "runtowalk_left",
+      "idle",
+      "wstart_r_0",
+      "wstart_l_-180",
+      "idle_turn_r_90",
+      "idle_turn_l_180",
+      "run_turn_180_l",
+      "walk",
+      "wstop_l_90",
+      "idle_turn_r_180",
+      "wstart_r_180",
+      "idle_turn_l_-180",
+      "wstop_l_0",
+      "sprint",
+      "idle_turn_l_-90",
+      "wstop_l_-180",
+      "idle_turn_l_0",
+      "runtowalk_right",
+      "run_turn_l2",
+      "rstop_l",
+      "walk_turn_l3",
+      "wstop_r_90",
+      "idle_turn_l_90",
+      "walk_turn_180_l",
+      "wstop_r_-180",
+      "wstop_l_-90",
+      "walk_turn_r3",
+      "rstart_l_0",
+      "walk_turn_l4",
+      "rstart_r_0",
+      "wstop_r_0",
+      "walk_turn_r4",
+      "rstop_r",
+      "idle_turn_r_-90",
+      "idle_turn_r_0",
+      "walktorun_left",
+      "walk_turn_180_r"
+    ]
+  },
+  {
+    "Name": "move_injured_ground",
+    "Clips": [
+      "back_outro",
+      "sider_intro",
+      "sidel_loop",
+      "front_outro",
+      "back_intro",
+      "sider_loop",
+      "back_loop",
+      "front_intro",
+      "front_loop",
+      "sider_outro",
+      "sidel_intro",
+      "sidel_outro"
+    ]
+  },
+  {
+    "Name": "move_jump",
+    "Clips": [
+      "land_stop_r",
+      "jump_launch_long_high_r",
+      "jump_land_l",
+      "jump_launch_r",
+      "jump_launch_high_r",
+      "land_stop_l",
+      "jump_launch_long_r",
+      "jump_launch_long_high_l",
+      "dive_start_run",
+      "jump_launch_high_l",
+      "jump_launch_l",
+      "jump_launch_r_to_skydive",
+      "jump_launch_long_l",
+      "jump_land_r",
+      "jump_launch_l_to_skydive"
+    ]
+  },
+  {
+    "Name": "move_jump@weapons@1h_meleecrowbar",
+    "Clips": [
+      "jump_crowbar"
+    ]
+  },
+  {
+    "Name": "move_jump@weapons@1h_meleehammer",
+    "Clips": [
+      "jump_hammer"
+    ]
+  },
+  {
+    "Name": "move_jump@weapons@1h_meleehatchet",
+    "Clips": [
+      "jump_hatchet"
+    ]
+  },
+  {
+    "Name": "move_jump@weapons@1h_meleeknife",
+    "Clips": [
+      "jump_knife"
+    ]
+  },
+  {
+    "Name": "move_jump@weapons@1h_meleenightstick",
+    "Clips": [
+      "jump_nightstick"
+    ]
+  },
+  {
+    "Name": "move_jump@weapons@2h_melee",
+    "Clips": [
+      "jump_launch_r_arms",
+      "jump_land_l_arms",
+      "jump_land_r_arms",
+      "land_stop_r_arms",
+      "land_stop_l_arms",
+      "jump_launch_l_arms"
+    ]
+  },
+  {
+    "Name": "move_jump@weapons@jerrycan",
+    "Clips": [
+      "jump_launch_r_arms",
+      "jump_land_l_arms",
+      "jump_land_r_arms",
+      "land_stop_r_arms",
+      "land_stop_l_arms",
+      "jump_launch_l_arms"
+    ]
+  },
+  {
+    "Name": "move_jump@weapons@pistol",
+    "Clips": [
+      "hand_grip"
+    ]
+  },
+  {
+    "Name": "move_jump@weapons@rifle",
+    "Clips": [
+      "jump_launch_r_arms",
+      "jump_land_l_arms",
+      "jump_land_r_arms",
+      "land_stop_r_arms",
+      "land_stop_l_arms",
+      "jump_launch_l_arms"
+    ]
+  },
+  {
+    "Name": "move_jump@weapons@rpg",
+    "Clips": [
+      "jump_launch_r_arms",
+      "jump_land_l_arms",
+      "jump_land_r_arms",
+      "land_stop_r_arms",
+      "land_stop_l_arms",
+      "jump_launch_l_arms"
+    ]
+  },
+  {
+    "Name": "move_lemar@alley",
+    "Clips": [
+      "run",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@_idles@out_of_breath",
+    "Clips": [
+      "idle_c",
+      "idle_b",
+      "idle_a"
+    ]
+  },
+  {
+    "Name": "move_m@_idles@shake_off",
+    "Clips": [
+      "shakeoff_6",
+      "shakeoff_5",
+      "shakeoff_4",
+      "shakeoff_3",
+      "shakeoff_2",
+      "shakeoff_1",
+      "shakeoff_7"
+    ]
+  },
+  {
+    "Name": "move_m@_idles@wet",
+    "Clips": [
+      "fidget_wet"
+    ]
+  },
+  {
+    "Name": "move_m@alien",
+    "Clips": [
+      "run",
+      "alien_run",
+      "sprint",
+      "alien_sprint"
+    ]
+  },
+  {
+    "Name": "move_m@bail_bond",
+    "Clips": [
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@brave",
+    "Clips": [
+      "run",
+      "idle_intro",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@brave@a",
+    "Clips": [
+      "run",
+      "idle_intro",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@brave@b",
+    "Clips": [
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@brave@fallback",
+    "Clips": [
+      "idle_turn_l_0",
+      "idle_turn_l_-90",
+      "idle_turn_r_90",
+      "idle_turn_r_180",
+      "idle_turn_r_0",
+      "idle_turn_l_-180"
+    ]
+  },
+  {
+    "Name": "move_m@brave@idle_a",
+    "Clips": [
+      "idle_c",
+      "idle_b",
+      "idle_a"
+    ]
+  },
+  {
+    "Name": "move_m@brave@idle_b",
+    "Clips": [
+      "idle_f",
+      "idle_e",
+      "idle_d"
+    ]
+  },
+  {
+    "Name": "move_m@breathe",
+    "Clips": [
+      "breathe_additive"
+    ]
+  },
+  {
+    "Name": "move_m@business@a",
+    "Clips": [
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@business@b",
+    "Clips": [
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@business@c",
+    "Clips": [
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@buzzed",
+    "Clips": [
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@casual@a",
+    "Clips": [
+      "run",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@casual@b",
+    "Clips": [
+      "run",
+      "idle_intro",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@casual@c",
+    "Clips": [
+      "run",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@casual@d",
+    "Clips": [
+      "run",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@casual@e",
+    "Clips": [
+      "run",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@casual@f",
+    "Clips": [
+      "run",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@caution",
+    "Clips": [
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@chubby@a",
+    "Clips": [
+      "run",
+      "idle_intro",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@clipboard",
+    "Clips": [
+      "run",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@confident",
+    "Clips": [
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@copchase1",
+    "Clips": [
+      "run"
+    ]
+  },
+  {
+    "Name": "move_m@copchase2",
+    "Clips": [
+      "run"
+    ]
+  },
+  {
+    "Name": "move_m@coward",
+    "Clips": [
+      "idle_turn_l_0",
+      "idle_turn_l_-90",
+      "idle_turn_r_90",
+      "idle_turn_r_180",
+      "idle_turn_r_0",
+      "idle",
+      "idle_turn_l_-180"
+    ]
+  },
+  {
+    "Name": "move_m@crazy",
+    "Clips": [
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@depressed@a",
+    "Clips": [
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@depressed@b",
+    "Clips": [
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@depressed@c",
+    "Clips": [
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@depressed@d",
+    "Clips": [
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@drunk@a",
+    "Clips": [
+      "run",
+      "idle_intro",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@drunk@moderatedrunk",
+    "Clips": [
+      "run_turn_180_r",
+      "wstop_l_180",
+      "wstart_r_90",
+      "idle_intro",
+      "wstop_r_-90",
+      "run_turn_r3",
+      "idle_turn_r_-180",
+      "run_turn_l3",
+      "wstart_l_0",
+      "walktorun_right",
+      "wstart_l_-90",
+      "run_turn_r2",
+      "run",
+      "wstop_r_180",
+      "runtowalk_left",
+      "idle",
+      "wstart_r_0",
+      "wstart_l_-180",
+      "idle_turn_r_90",
+      "idle_turn_l_180",
+      "run_turn_180_l",
+      "walk",
+      "wstop_l_90",
+      "idle_turn_r_180",
+      "wstart_r_180",
+      "idle_turn_l_-180",
+      "wstop_l_0",
+      "sprint",
+      "idle_turn_l_-90",
+      "wstop_l_-180",
+      "idle_turn_l_0",
+      "runtowalk_right",
+      "run_turn_l2",
+      "rstop_l",
+      "walk_turn_l3",
+      "wstop_r_90",
+      "idle_turn_l_90",
+      "walk_turn_180_l",
+      "wstop_r_-180",
+      "wstop_l_-90",
+      "walk_turn_r3",
+      "rstart_l_0",
+      "walk_turn_l4",
+      "rstart_r_0",
+      "wstop_r_0",
+      "walk_turn_r4",
+      "rstop_r",
+      "idle_turn_r_-90",
+      "idle_turn_r_0",
+      "walktorun_left",
+      "walk_turn_180_r"
+    ]
+  },
+  {
+    "Name": "move_m@drunk@moderatedrunk_head_up",
+    "Clips": [
+      "idle_intro",
+      "idle_turn_l_0",
+      "idle_turn_l_-90",
+      "idle_turn_r_90",
+      "idle_turn_r_180",
+      "idle_turn_r_0",
+      "idle",
+      "idle_turn_l_-180"
+    ]
+  },
+  {
+    "Name": "move_m@drunk@moderatedrunk_idles@",
+    "Clips": [
+      "flinch_a",
+      "flinch_f",
+      "flinch_e",
+      "flinch_d",
+      "flinch_c",
+      "flinch_b"
+    ]
+  },
+  {
+    "Name": "move_m@drunk@slightlydrunk",
+    "Clips": [
+      "run",
+      "idle_intro",
+      "sprint",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@drunk@slightlydrunk_idles@",
+    "Clips": [
+      "fidgit_04",
+      "fidgit_03",
+      "fidgit_02",
+      "fidgit_01"
+    ]
+  },
+  {
+    "Name": "move_m@drunk@transitions",
+    "Clips": [
+      "slightly_to_idle",
+      "moderate_to_slightly",
+      "very_to_moderate"
+    ]
+  },
+  {
+    "Name": "move_m@drunk@verydrunk",
+    "Clips": [
+      "wstart_r_0",
+      "idle_intro",
+      "wstart_l_0",
+      "idle",
+      "wstop_r_0",
+      "wstop_l_0",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@drunk@verydrunk_idles@",
+    "Clips": [
+      "fidget_09",
+      "fidget_08",
+      "fidget_07",
+      "fidget_10",
+      "fidget_06",
+      "fidget_05",
+      "fidget_04",
+      "fidget_03",
+      "fidget_02",
+      "fidget_01"
+    ]
+  },
+  {
+    "Name": "move_m@fat@a",
+    "Clips": [
+      "run",
+      "idle_intro",
+      "idle",
+      "additive_fat",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@favor_right_foot",
+    "Clips": [
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@femme@",
+    "Clips": [
+      "wstart_r_0",
+      "idle_intro",
+      "wstart_l_0",
+      "idle",
+      "wstop_r_0",
+      "wstop_l_0",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@fire",
+    "Clips": [
+      "run",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@flee@a",
+    "Clips": [
+      "run"
+    ]
+  },
+  {
+    "Name": "move_m@flee@b",
+    "Clips": [
+      "run"
+    ]
+  },
+  {
+    "Name": "move_m@flee@c",
+    "Clips": [
+      "run"
+    ]
+  },
+  {
+    "Name": "move_m@flee@generic",
+    "Clips": [
+      "run_turn_l3",
+      "run_turn_r2",
+      "run_turn_r3",
+      "run_turn_l2"
+    ]
+  },
+  {
+    "Name": "move_m@gangster@a",
+    "Clips": [
+      "run",
+      "idle_intro",
+      "sprint",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@gangster@generic",
+    "Clips": [
+      "run",
+      "sprint",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@gangster@ng",
+    "Clips": [
+      "wstart_r_0",
+      "idle_intro",
+      "wstart_l_0",
+      "idle",
+      "wstop_r_0",
+      "wstop_l_0",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@generic",
+    "Clips": [
+      "walk_up_slope",
+      "runtowalk_right",
+      "run_turn_l2",
+      "walk",
+      "wstop_r_0",
+      "run_up_slope",
+      "rstart_r_180",
+      "rstart_r_0",
+      "wstop_r_90",
+      "wstop_r_180",
+      "walktorun_left",
+      "rstart_l_0",
+      "walk_turn_l4",
+      "run_turn_180_r",
+      "rstop_quick_r",
+      "idle_turn_r_90",
+      "wstop_l_0",
+      "rstop_l",
+      "wstop_l_180",
+      "walk_turn_r3",
+      "rstop_r",
+      "walk_down_slope",
+      "run_turn_180_l",
+      "run_turn_r3",
+      "walk_up",
+      "wstart_l_-180",
+      "rstart_r_90",
+      "wstart_l_0",
+      "walk_turn_r4",
+      "wstart_l_-90",
+      "run",
+      "idle_turn_r_180",
+      "idle_turn_l_-180",
+      "idle_transition",
+      "sprint",
+      "rstop_quick_l",
+      "wstop_quick_r_0",
+      "idle_turn_l_0",
+      "idle",
+      "wstop_r_-90",
+      "walk_turn_180_r",
+      "run_down_slope",
+      "wstop_l_-90",
+      "run_down",
+      "sprint_turn_r",
+      "wstop_l_-180",
+      "wstop_r_-180",
+      "idle_turn_r_0",
+      "walk_turn_l3",
+      "run_up",
+      "wstop_quick_l_0",
+      "walktorun_right",
+      "runtowalk_left",
+      "sprint_turn_l",
+      "idle_intro",
+      "run_turn_r2",
+      "walk_down",
+      "rstart_l_-90",
+      "wstop_l_90",
+      "rstart_l_-180",
+      "wstart_r_180",
+      "wstart_r_90",
+      "wstart_r_0",
+      "walk_turn_180_l",
+      "idle_turn_l_-90",
+      "run_turn_l3"
+    ]
+  },
+  {
+    "Name": "move_m@generic_idles@std",
+    "Clips": [
+      "idle_c",
+      "idle_e",
+      "idle_d",
+      "idle_b",
+      "idle_a"
+    ]
+  },
+  {
+    "Name": "move_m@generic_variations@idle@a",
+    "Clips": [
+      "idle_c",
+      "idle_d",
+      "idle_b",
+      "idle_a"
+    ]
+  },
+  {
+    "Name": "move_m@generic_variations@idle@b",
+    "Clips": [
+      "idle_i",
+      "idle_h",
+      "idle_g",
+      "idle_f",
+      "idle_e"
+    ]
+  },
+  {
+    "Name": "move_m@generic_variations@run",
+    "Clips": [
+      "run_b",
+      "run_a"
+    ]
+  },
+  {
+    "Name": "move_m@generic_variations@walk",
+    "Clips": [
+      "walk_c",
+      "walk_b",
+      "walk_a",
+      "walk_f",
+      "walk_e",
+      "walk_d"
+    ]
+  },
+  {
+    "Name": "move_m@golfer@",
+    "Clips": [
+      "run",
+      "idle",
+      "golf_walk",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@hiking",
+    "Clips": [
+      "idle_intro",
+      "idle_exit",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@hipster@a",
+    "Clips": [
+      "run",
+      "sprint",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@hobo@a",
+    "Clips": [
+      "run"
+    ]
+  },
+  {
+    "Name": "move_m@hobo@b",
+    "Clips": [
+      "run"
+    ]
+  },
+  {
+    "Name": "move_m@hurry@a",
+    "Clips": [
+      "run",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@hurry@b",
+    "Clips": [
+      "run",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@hurry@c",
+    "Clips": [
+      "run",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@hurry_butch@a",
+    "Clips": [
+      "run",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@hurry_butch@b",
+    "Clips": [
+      "run",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@hurry_butch@c",
+    "Clips": [
+      "run",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@injured",
+    "Clips": [
+      "run_turn_180_r",
+      "idle_intro",
+      "wstart_l_0",
+      "walktorun_right",
+      "run",
+      "runtowalk_left",
+      "idle",
+      "wstart_r_0",
+      "idle_turn_r_90",
+      "run_turn_180_l",
+      "walk",
+      "idle_turn_r_180",
+      "idle_turn_l_-180",
+      "wstop_l_0",
+      "sprint",
+      "idle_turn_l_-90",
+      "idle_turn_l_0",
+      "runtowalk_right",
+      "rstop_l",
+      "walk_turn_l3",
+      "walk_turn_180_l",
+      "walk_turn_r3",
+      "rstart_l_0",
+      "walk_turn_l4",
+      "rstart_r_0",
+      "wstop_r_0",
+      "walk_turn_r4",
+      "rstop_r",
+      "idle_turn_r_0",
+      "walktorun_left",
+      "walk_turn_180_r"
+    ]
+  },
+  {
+    "Name": "move_m@intimidation@1h",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_m@intimidation@cop@unarmed",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_m@intimidation@idle_a",
+    "Clips": [
+      "idle_a"
+    ]
+  },
+  {
+    "Name": "move_m@intimidation@unarmed",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_m@janitor",
+    "Clips": [
+      "additive_fat"
+    ]
+  },
+  {
+    "Name": "move_m@jog@",
+    "Clips": [
+      "run"
+    ]
+  },
+  {
+    "Name": "move_m@jogger",
+    "Clips": [
+      "rstart_l_-180",
+      "idle_turn_r_0",
+      "rstart_l_90",
+      "rstart_r_-180",
+      "idle_turn_l_0",
+      "run_turn_l2",
+      "rstart_l_-90",
+      "idle_turn_r_90",
+      "idle_turn_l_90",
+      "rstart_r_180",
+      "idle",
+      "idle_turn_l_-90",
+      "idle_turn_l_-180",
+      "run_turn_r2",
+      "run_turn_l3",
+      "rstart_r_0",
+      "rstart_l_0",
+      "idle_turn_r_-180",
+      "idle_turn_l_180",
+      "idle_turn_r_-90",
+      "rstart_r_-90",
+      "rstart_r_90",
+      "rstart_l_180",
+      "rstop_l",
+      "run_turn_r3",
+      "run",
+      "rstop_r",
+      "idle_turn_r_180"
+    ]
+  },
+  {
+    "Name": "move_m@joy@a",
+    "Clips": [
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@leaf_blower",
+    "Clips": [
+      "run",
+      "wstart_r_0",
+      "idle_intro",
+      "wstart_l_0",
+      "idle",
+      "wstop_r_0",
+      "wstop_l_0",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@melee",
+    "Clips": [
+      "run",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@money",
+    "Clips": [
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@multiplayer",
+    "Clips": [
+      "run"
+    ]
+  },
+  {
+    "Name": "move_m@muscle@a",
+    "Clips": [
+      "run",
+      "idle_intro",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@non_chalant",
+    "Clips": [
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@plodding",
+    "Clips": [
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@posh@",
+    "Clips": [
+      "wstart_r_0",
+      "idle_intro",
+      "wstart_l_0",
+      "idle",
+      "wstop_r_0",
+      "wstop_l_0",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@power",
+    "Clips": [
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@powerwalk",
+    "Clips": [
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@quick",
+    "Clips": [
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@sad@a",
+    "Clips": [
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@sad@b",
+    "Clips": [
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@sad@c",
+    "Clips": [
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@sassy",
+    "Clips": [
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@scared@a",
+    "Clips": [
+      "run",
+      "idle_intro",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@shadyped@a",
+    "Clips": [
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@shocked@a",
+    "Clips": [
+      "idle_turn_l_0",
+      "idle_turn_l_-90",
+      "idle_turn_r_90",
+      "idle_turn_r_180",
+      "idle_turn_r_0",
+      "idle_turn_l_-180"
+    ]
+  },
+  {
+    "Name": "move_m@shy@a",
+    "Clips": [
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@shy@b",
+    "Clips": [
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@shy@c",
+    "Clips": [
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@shy@d",
+    "Clips": [
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@shy@e",
+    "Clips": [
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@strung_out@",
+    "Clips": [
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@swagger",
+    "Clips": [
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@swagger@b",
+    "Clips": [
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@tired",
+    "Clips": [
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@tool_belt@a",
+    "Clips": [
+      "idle_intro",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@tough_guy@",
+    "Clips": [
+      "wstart_r_0",
+      "idle_intro",
+      "wstart_l_0",
+      "idle",
+      "wstop_r_0",
+      "wstop_l_0",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@wading",
+    "Clips": [
+      "idle_intro",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_mop",
+    "Clips": [
+      "idle_scrub",
+      "idle_scrub_small_mop",
+      "sprint",
+      "idle_scrub_mop",
+      "run_turn_l2",
+      "idle",
+      "sprint_turn_r",
+      "run_turn_r2",
+      "run_turn_l3",
+      "walk",
+      "sprint_turn_l",
+      "run_turn_r3",
+      "idle_scrub_small_player",
+      "run",
+      "idle_scrub_small"
+    ]
+  },
+  {
+    "Name": "move_mop_arms",
+    "Clips": [
+      "run",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_p_m_one",
+    "Clips": [
+      "sprint",
+      "walktorun_left",
+      "runtowalk_right",
+      "idle_intro",
+      "idle",
+      "runtowalk_left",
+      "rstart_r_0",
+      "rstart_l_0",
+      "walk",
+      "walktorun_right",
+      "run"
+    ]
+  },
+  {
+    "Name": "move_p_m_one_briefcase",
+    "Clips": [
+      "run_down",
+      "walk_up",
+      "walk_down",
+      "run_up"
+    ]
+  },
+  {
+    "Name": "move_p_m_one_fire",
+    "Clips": [
+      "run",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_p_m_one_idles@generic",
+    "Clips": [
+      "fidget_rub_chin",
+      "fidget_impatient",
+      "fidget_arm_swing",
+      "fidget_check_shoes",
+      "fidget_rub_hands",
+      "fidget_look_around"
+    ]
+  },
+  {
+    "Name": "move_p_m_two",
+    "Clips": [
+      "run",
+      "idle_intro",
+      "sprint",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_p_m_two_idles@generic",
+    "Clips": [
+      "fidget_rub_face",
+      "fidget_worked_up",
+      "fidget_sniff_fingers",
+      "fidget_scratch_balls",
+      "fidget_agitated",
+      "fidget_pick_at_face",
+      "fidget_blow_snot",
+      "fidget_look_around"
+    ]
+  },
+  {
+    "Name": "move_p_m_zero",
+    "Clips": [
+      "wstop_l_0",
+      "sprint",
+      "wstop_quick_l_0",
+      "walktorun_left",
+      "runtowalk_right",
+      "idle_intro",
+      "idle",
+      "wstop_quick_r_0",
+      "runtowalk_left",
+      "walk",
+      "wstart_l_0",
+      "wstart_r_0",
+      "sprint_cam",
+      "walktorun_right",
+      "run",
+      "wstop_r_0"
+    ]
+  },
+  {
+    "Name": "move_p_m_zero@first_person",
+    "Clips": [
+      "run",
+      "sprint",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_p_m_zero_fire",
+    "Clips": [
+      "run",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_p_m_zero_idles@generic",
+    "Clips": [
+      "fidget_rub_chin",
+      "fidget_impatient",
+      "fidget_step_around",
+      "fidget_stretch_neck",
+      "fidget_look_around"
+    ]
+  },
+  {
+    "Name": "move_p_m_zero_rucksack",
+    "Clips": [
+      "walk_rucksack_rightarm",
+      "run",
+      "sprint",
+      "walk_rucksack",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_p_m_zero_slow",
+    "Clips": [
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_slipping",
+    "Clips": [
+      "slip_face_uphill_long_outro",
+      "slip_face_downhill_long",
+      "slip_face_uphill_long",
+      "slip_face_downhill_long_outro"
+    ]
+  },
+  {
+    "Name": "move_stealth@generic@2h_melee_weapon@p_m_one",
+    "Clips": [
+      "idle2stealth",
+      "stealth2idle",
+      "action2stealth"
+    ]
+  },
+  {
+    "Name": "move_stealth@generic@2h_melee_weapon@p_m_two",
+    "Clips": [
+      "idle2stealth",
+      "stealth2idle",
+      "action2stealth"
+    ]
+  },
+  {
+    "Name": "move_stealth@generic@2h_melee_weapon@p_m_zero",
+    "Clips": [
+      "idle2stealth",
+      "stealth2idle",
+      "action2stealth"
+    ]
+  },
+  {
+    "Name": "move_stealth@generic@core",
+    "Clips": [
+      "walk_fwd_45_loop",
+      "run_turn_r2",
+      "walk_fwd_90_loop",
+      "walk_fwd_0_loop",
+      "walk_bwd_135_loop",
+      "idle",
+      "idle_turn_r_90",
+      "idle_turn_left_fast",
+      "stand_intro_turn180r",
+      "idle_turn_r_180",
+      "walk_bwd_-135_loop",
+      "idle_turn_l_-180",
+      "walk_fwd_135_loop",
+      "idle_turn_l_-90",
+      "stand_intro_turn0r",
+      "idle_turn_l_0",
+      "idle_turn_left_slow",
+      "run_turn_l2",
+      "idle_turn_right_slow",
+      "walk_turn_l3",
+      "walk_bwd_-45_loop",
+      "walk_bwd_-90_loop",
+      "walk_turn_r3",
+      "walk_turn_l4",
+      "stand_intro_turn0l",
+      "stand_intro_turn-180l",
+      "idle_turn_right_fast",
+      "walk_fwd_-45_loop",
+      "walk_bwd_180_loop",
+      "walk_turn_r4",
+      "idle_turn_r_0",
+      "idle_turn_stop"
+    ]
+  },
+  {
+    "Name": "move_stealth@generic@trans@1h",
+    "Clips": [
+      "idle2stealth",
+      "stealth2idle",
+      "action2stealth"
+    ]
+  },
+  {
+    "Name": "move_stealth@generic@trans@2h",
+    "Clips": [
+      "idle2stealth",
+      "stealth2idle",
+      "action2stealth"
+    ]
+  },
+  {
+    "Name": "move_stealth@generic@trans@2h_melee",
+    "Clips": [
+      "idle2stealth",
+      "stealth2idle",
+      "action2stealth"
+    ]
+  },
+  {
+    "Name": "move_stealth@generic@trans@2h_short",
+    "Clips": [
+      "idle2stealth",
+      "stealth2idle",
+      "action2stealth"
+    ]
+  },
+  {
+    "Name": "move_stealth@generic@trans@unarmed",
+    "Clips": [
+      "idle2stealth",
+      "stealth2idle",
+      "action2stealth"
+    ]
+  },
+  {
+    "Name": "move_stealth@mp_female@1h@trans",
+    "Clips": [
+      "idle2stealth",
+      "stealth2idle",
+      "action2stealth"
+    ]
+  },
+  {
+    "Name": "move_stealth@mp_female@2h@trans",
+    "Clips": [
+      "idle2stealth",
+      "stealth2idle",
+      "action2stealth"
+    ]
+  },
+  {
+    "Name": "move_stealth@mp_female@2h@upper",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_stealth@mp_female@2h_melee@trans",
+    "Clips": [
+      "idle2stealth",
+      "stealth2idle",
+      "action2stealth"
+    ]
+  },
+  {
+    "Name": "move_stealth@mp_female@2h_short@trans",
+    "Clips": [
+      "idle2stealth",
+      "stealth2idle",
+      "action2stealth"
+    ]
+  },
+  {
+    "Name": "move_stealth@mp_female@2h_short@upper",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_stealth@mp_female@unarmed@trans",
+    "Clips": [
+      "idle2stealth",
+      "stealth2idle",
+      "action2stealth"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_one@1h@idle@a",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_one@1h@idle@b",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_one@1h@idle@c",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_one@1h@idle@d",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_one@1h@trans@a",
+    "Clips": [
+      "idle2stealth",
+      "stealth2idle",
+      "action2stealth"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_one@1h@upper",
+    "Clips": [
+      "run",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_one@2h@idle@a",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_one@2h@idle@b",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_one@2h@idle@c",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_one@2h@idle@d",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_one@2h@trans@a",
+    "Clips": [
+      "idle2stealth",
+      "stealth2idle",
+      "action2stealth"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_one@2h@upper",
+    "Clips": [
+      "run",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_one@2h_short@idle@a",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_one@2h_short@idle@b",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_one@2h_short@idle@c",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_one@2h_short@idle@d",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_one@2h_short@trans",
+    "Clips": [
+      "idle2stealth",
+      "stealth2idle",
+      "action2stealth"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_one@2h_short@upper",
+    "Clips": [
+      "run",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_one@holster",
+    "Clips": [
+      "unarmed_holster_1h",
+      "2h_holster_unarmed",
+      "2h_holster_2h",
+      "1h_holster_unarmed",
+      "unarmed_holster_unarmed",
+      "1h_holster_2h",
+      "2h_holster_1h",
+      "1h_holster_1h",
+      "unarmed_holster_2h"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_one@unarmed@core",
+    "Clips": [
+      "run",
+      "idle_intro",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_one@unarmed@idle@a",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_one@unarmed@idle@b",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_one@unarmed@idle@c",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_one@unarmed@idle@d",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_one@unarmed@trans@a",
+    "Clips": [
+      "idle2stealth",
+      "stealth2idle",
+      "action2stealth"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_one@unarmed@upper",
+    "Clips": [
+      "run",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_two@1h@idle@a",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_two@1h@idle@b",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_two@1h@idle@c",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_two@1h@idle@d",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_two@1h@trans@a",
+    "Clips": [
+      "idle2stealth",
+      "stealth2idle",
+      "action2stealth"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_two@1h@upper",
+    "Clips": [
+      "run",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_two@2h@idle@a",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_two@2h@idle@b",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_two@2h@idle@c",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_two@2h@idle@d",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_two@2h@trans@a",
+    "Clips": [
+      "idle2stealth",
+      "stealth2idle",
+      "action2stealth"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_two@2h@upper",
+    "Clips": [
+      "run",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_two@2h_short@idle@a",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_two@2h_short@idle@b",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_two@2h_short@idle@c",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_two@2h_short@idle@d",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_two@2h_short@trans",
+    "Clips": [
+      "idle2stealth",
+      "stealth2idle",
+      "action2stealth"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_two@2h_short@upper",
+    "Clips": [
+      "run",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_two@holster",
+    "Clips": [
+      "unarmed_holster_1h",
+      "2h_holster_unarmed",
+      "2h_holster_2h",
+      "1h_holster_unarmed",
+      "unarmed_holster_unarmed",
+      "1h_holster_2h",
+      "2h_holster_1h",
+      "1h_holster_1h",
+      "unarmed_holster_2h"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_two@unarmed@core",
+    "Clips": [
+      "run",
+      "idle_intro",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_two@unarmed@idle@a",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_two@unarmed@idle@b",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_two@unarmed@idle@c",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_two@unarmed@idle@d",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_two@unarmed@trans@a",
+    "Clips": [
+      "idle2stealth",
+      "stealth2idle",
+      "action2stealth"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_two@unarmed@upper",
+    "Clips": [
+      "run",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_zero@1h@idle@a",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_zero@1h@idle@b",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_zero@1h@idle@c",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_zero@1h@idle@d",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_zero@1h@trans@a",
+    "Clips": [
+      "idle2stealth",
+      "stealth2idle",
+      "action2stealth"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_zero@1h@upper",
+    "Clips": [
+      "run",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_zero@2h@idle@a",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_zero@2h@idle@b",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_zero@2h@idle@c",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_zero@2h@idle@d",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_zero@2h@trans@a",
+    "Clips": [
+      "idle2stealth",
+      "stealth2idle",
+      "action2stealth"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_zero@2h@upper",
+    "Clips": [
+      "run",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_zero@2h_short@idle@a",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_zero@2h_short@idle@b",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_zero@2h_short@idle@c",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_zero@2h_short@idle@d",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_zero@2h_short@trans",
+    "Clips": [
+      "idle2stealth",
+      "stealth2idle",
+      "action2stealth"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_zero@2h_short@upper",
+    "Clips": [
+      "run",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_zero@holster",
+    "Clips": [
+      "unarmed_holster_1h",
+      "2h_holster_unarmed",
+      "2h_holster_2h",
+      "1h_holster_unarmed",
+      "unarmed_holster_unarmed",
+      "1h_holster_2h",
+      "2h_holster_1h",
+      "1h_holster_1h",
+      "unarmed_holster_2h"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_zero@unarmed@core",
+    "Clips": [
+      "run",
+      "idle_intro",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_zero@unarmed@idle@a",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_zero@unarmed@idle@b",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_zero@unarmed@idle@c",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_zero@unarmed@idle@d",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_zero@unarmed@trans@a",
+    "Clips": [
+      "idle2stealth",
+      "stealth2idle",
+      "action2stealth"
+    ]
+  },
+  {
+    "Name": "move_stealth@p_m_zero@unarmed@upper",
+    "Clips": [
+      "run",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_strafe@ballistic",
+    "Clips": [
+      "walk_fwd_90_loop",
+      "walk_bwd_135_loop",
+      "walk_bwd_-45_loop",
+      "run_fwd_135_loop",
+      "run_fwd_0_loop",
+      "run_bwd_135_loop",
+      "run_bwd_-135_loop",
+      "run_bwd_-45_loop",
+      "walk_bwd_-135_loop",
+      "walk_fwd_135_loop",
+      "walk_fwd_-45_loop",
+      "idle",
+      "walk_fwd_45_loop",
+      "run_fwd_-45_loop",
+      "idle_turn_left_slow",
+      "walk_bwd_180_loop",
+      "run_fwd_45_loop",
+      "idle_turn_left_fast",
+      "run_bwd_180_loop",
+      "run_fwd_90_loop",
+      "walk_bwd_-90_loop",
+      "idle_turn_right_fast",
+      "walk_fwd_0_loop",
+      "run_bwd_-90_loop",
+      "idle_turn_right_slow"
+    ]
+  },
+  {
+    "Name": "move_strafe@cop",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_strafe@first_person@drunk",
+    "Clips": [
+      "walk_fwd_90_loop",
+      "run_fwd_0_loop",
+      "walk_bwd_180_stop_l",
+      "walk_fwd_90_stop_r",
+      "run_bwd_-90_start",
+      "run_fwd_0_start",
+      "walk_fwd_0_stop_r",
+      "idle",
+      "walk_fwd_0_start",
+      "run_fwd_90_start",
+      "walk_bwd_-90_stop_r",
+      "walk_fwd_0_stop_l",
+      "walk_bwd_180_loop",
+      "run_bwd_180_start",
+      "walk_bwd_-90_stop_l",
+      "idle_turn_stop",
+      "idle_turn_left_fast",
+      "run_bwd_180_loop",
+      "idle_turn_left_fast_intro",
+      "run_fwd_90_loop",
+      "walk_bwd_180_stop_r",
+      "idle_turn_right_fast_intro",
+      "walk_fwd_90_stop_l",
+      "walk_bwd_180_start",
+      "walk_bwd_-90_loop",
+      "idle_turn_right_fast",
+      "walk_fwd_0_loop",
+      "run_bwd_-90_loop"
+    ]
+  },
+  {
+    "Name": "move_strafe@first_person@generic",
+    "Clips": [
+      "stand_intro_turn180r",
+      "run_fwd_135_stop_r",
+      "walk_trans_fwd_90_rf_bwd_-90",
+      "walk_bwd_-45_loop",
+      "walk_bwd_-90_stop_l",
+      "run_trans_bwd_-45_rf_fwd_-45",
+      "walk_fwd_-45_stop_r",
+      "walk_bwd_-135_loop",
+      "walk_fwd_135_start",
+      "run_fwd_90_loop",
+      "walk_bwd_-45_start",
+      "run_fwd_0_loop",
+      "walk_trans_bwd_180_lf_fwd_0",
+      "run_fwd_45_stop_r",
+      "run_bwd_180_stop_l",
+      "run_bwd_-135_stop_l",
+      "walk_trans_bwd_135_lf_fwd_135",
+      "stand_outro",
+      "stand_intro_turn0r",
+      "walk_fwd_45_loop",
+      "walk_trans_fwd_0_lf_bwd_180",
+      "walk_bwd_135_start",
+      "run_trans_bwd_135_lf_fwd_135",
+      "walk_trans_bwd_-45_rf_fwd_-45",
+      "walk_bwd_-90_loop",
+      "run_bwd_-45_start",
+      "walk_bwd_135_stop_l",
+      "run_bwd_180_stop_r",
+      "idle_turn_stop",
+      "walk_trans_fwd_135_lf_bwd_135",
+      "walk_bwd_180_stop_l",
+      "walk_trans_bwd_135_lf_fwd_0",
+      "run_trans_fwd_-90_rf_bwd_-180",
+      "run_trans_bwd_180_lf_fwd_0",
+      "run_fwd_45_loop",
+      "walk_fwd_0_loop",
+      "walk_fwd_-45_start",
+      "run_fwd_90_stop_r",
+      "run_fwd_-45_loop",
+      "walk_fwd_-45_loop",
+      "walk_bwd_-90_stop_r",
+      "walk_fwd_135_stop_l",
+      "walk_fwd_0_stop_r",
+      "run_trans_bwd_180_rf_fwd_0",
+      "idle_turn_left_slow",
+      "walk_fwd_-45_stop_l",
+      "idle",
+      "idle_turn_right_slow",
+      "idle_turn_right_fast_intro",
+      "run_trans_fwd_0_lf_bwd_180",
+      "run_bwd_180_loop",
+      "walk_fwd_90_stop_r",
+      "stand_intro_turn0l",
+      "run_trans_fwd_90_rf_bwd_-90",
+      "run_bwd_135_start",
+      "run_trans_bwd_-90_rf_fwd_90",
+      "run_bwd_-135_stop_r",
+      "walk_fwd_135_loop",
+      "run_fwd_-45_stop_l",
+      "walk_trans_fwd_0_rf_bwd_180",
+      "run_trans_fwd_135_lf_bwd_-90",
+      "run_bwd_-90_start",
+      "walk_fwd_0_start",
+      "stand_intro_turn-180l",
+      "run_trans_bwd_135_lf_fwd_0",
+      "run_fwd_45_start",
+      "walk_bwd_-135_start",
+      "run_fwd_90_stop_l",
+      "run_fwd_0_start",
+      "run_trans_bwd_-90_lf_fwd_90",
+      "run_bwd_135_loop",
+      "walk_bwd_135_loop",
+      "run_fwd_135_start",
+      "run_bwd_135_stop_r",
+      "run_bwd_-135_loop",
+      "run_trans_fwd_0_rf_bwd_180",
+      "run_fwd_135_stop_l",
+      "walk_bwd_135_stop_r",
+      "run_fwd_-45_start",
+      "run_trans_fwd_-45_rf_bwd_-45",
+      "walk_trans_bwd_-90_rf_fwd_90",
+      "run_bwd_135_stop_l",
+      "walk_trans_fwd_-90_rf_bwd_-180",
+      "idle_turn_left_fast",
+      "walk_fwd_90_stop_l",
+      "walk_bwd_-45_stop_l",
+      "run_fwd_0_stop_l",
+      "walk_trans_fwd_-45_rf_bwd_-45",
+      "walk_bwd_-90_start",
+      "walk_trans_bwd_-90_lf_fwd_90",
+      "run_fwd_-45_stop_r",
+      "walk_trans_fwd_135_lf_bwd_-90",
+      "run_trans_fwd_90_lf_bwd_-90",
+      "run_bwd_-90_stop_r",
+      "run_bwd_-135_start",
+      "run_fwd_0_stop_r",
+      "walk_bwd_180_loop",
+      "run_fwd_135_loop",
+      "walk_bwd_180_stop_r",
+      "walk_bwd_180_start",
+      "run_fwd_90_start",
+      "walk_fwd_135_stop_r",
+      "run_bwd_-45_loop",
+      "walk_trans_bwd_-45_rf_fwd_90",
+      "run_bwd_180_start",
+      "run_trans_fwd_135_lf_bwd_135",
+      "idle_turn_left_fast_intro",
+      "walk_fwd_0_stop_l",
+      "run_bwd_-45_stop_l",
+      "idle_turn_right_fast",
+      "walk_trans_fwd_90_lf_bwd_-90",
+      "walk_fwd_90_start",
+      "walk_bwd_-135_stop_l",
+      "walk_trans_bwd_180_rf_fwd_0",
+      "walk_fwd_45_start",
+      "run_bwd_-90_loop",
+      "run_bwd_-45_stop_r",
+      "walk_bwd_-135_stop_r",
+      "run_bwd_-90_stop_l",
+      "run_fwd_45_stop_l",
+      "walk_fwd_90_loop",
+      "walk_bwd_-45_stop_r",
+      "run_trans_bwd_-45_rf_fwd_90"
+    ]
+  },
+  {
+    "Name": "move_strafe@first_person@mp_female",
+    "Clips": [
+      "run_fwd_0_loop",
+      "walk_fwd_0_loop"
+    ]
+  },
+  {
+    "Name": "move_strafe@first_person@p_m_one",
+    "Clips": [
+      "run_fwd_0_loop",
+      "walk_fwd_0_loop"
+    ]
+  },
+  {
+    "Name": "move_strafe@first_person@p_m_two",
+    "Clips": [
+      "run_fwd_0_loop",
+      "walk_fwd_0_loop"
+    ]
+  },
+  {
+    "Name": "move_strafe@first_person@p_m_zero",
+    "Clips": [
+      "run_fwd_0_loop",
+      "walk_trans_fwd_-45_rf_bwd_-45",
+      "walk_fwd_0_loop",
+      "walk_fwd_45_loop",
+      "walk_bwd_-45_loop",
+      "walk_fwd_-45_loop",
+      "walk_trans_bwd_-45_rf_fwd_-45"
+    ]
+  },
+  {
+    "Name": "move_strafe@gang",
+    "Clips": [
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_strafe@generic",
+    "Clips": [
+      "stand_intro_turn180r",
+      "walk_trans_fwd_90_rf_bwd_-90",
+      "walk_bwd_-45_loop",
+      "walk_bwd_-90_stop_l",
+      "run_trans_bwd_-45_rf_fwd_-45",
+      "walk_fwd_-45_stop_r",
+      "walk_bwd_-135_loop",
+      "walk_fwd_135_start",
+      "run_fwd_90_loop",
+      "walk_bwd_-45_start",
+      "run_fwd_0_loop",
+      "walk_trans_bwd_180_lf_fwd_0",
+      "walk_trans_bwd_135_lf_fwd_135",
+      "stand_outro",
+      "stand_intro_turn0r",
+      "walk_fwd_45_loop",
+      "walk_trans_fwd_0_lf_bwd_180",
+      "walk_bwd_135_start",
+      "walk_trans_bwd_135_rf_fwd_135",
+      "run_trans_bwd_135_lf_fwd_135",
+      "walk_trans_bwd_-45_rf_fwd_-45",
+      "walk_bwd_-90_loop",
+      "run_trans_bwd_-45_lf_fwd_-45",
+      "run_bwd_-45_start",
+      "walk_bwd_135_stop_l",
+      "idle_turn_stop",
+      "walk_trans_fwd_135_lf_bwd_135",
+      "walk_bwd_180_stop_l",
+      "walk_trans_bwd_135_lf_fwd_0",
+      "run_trans_fwd_-90_rf_bwd_-180",
+      "walk_trans_bwd_-45_lf_fwd_-45",
+      "run_trans_bwd_180_lf_fwd_0",
+      "run_fwd_45_loop",
+      "walk_fwd_0_loop",
+      "walk_fwd_-45_start",
+      "stand_intro_turn180l",
+      "run_fwd_-45_loop",
+      "walk_fwd_-45_loop",
+      "walk_bwd_-90_stop_r",
+      "walk_fwd_135_stop_l",
+      "walk_fwd_0_stop_r",
+      "run_trans_bwd_180_rf_fwd_0",
+      "idle_turn_left_slow",
+      "walk_fwd_-45_stop_l",
+      "idle",
+      "idle_turn_right_slow",
+      "idle_turn_right_fast_intro",
+      "run_trans_fwd_0_lf_bwd_180",
+      "run_bwd_180_loop",
+      "walk_fwd_90_stop_r",
+      "stand_intro_turn0l",
+      "run_trans_fwd_90_rf_bwd_-90",
+      "run_bwd_135_start",
+      "run_trans_bwd_-90_rf_fwd_90",
+      "run_trans_fwd_-45_lf_bwd_-45",
+      "walk_fwd_135_loop",
+      "walk_trans_fwd_0_rf_bwd_180",
+      "run_trans_fwd_135_lf_bwd_-90",
+      "run_bwd_-90_start",
+      "walk_fwd_0_start",
+      "stand_intro_turn-180l",
+      "run_trans_bwd_135_lf_fwd_0",
+      "walk_trans_fwd_135_rf_bwd_135",
+      "walk_bwd_-135_start",
+      "run_fwd_0_start",
+      "run_trans_bwd_-90_lf_fwd_90",
+      "run_bwd_135_loop",
+      "walk_bwd_135_loop",
+      "run_fwd_135_start",
+      "run_bwd_-135_loop",
+      "run_trans_fwd_0_rf_bwd_180",
+      "run_trans_bwd_135_rf_fwd_135",
+      "walk_bwd_135_stop_r",
+      "run_fwd_-45_start",
+      "run_trans_fwd_-45_rf_bwd_-45",
+      "walk_trans_bwd_-90_rf_fwd_90",
+      "run_trans_fwd_135_rf_bwd_135",
+      "walk_trans_fwd_-90_rf_bwd_-180",
+      "idle_turn_left_fast",
+      "walk_fwd_90_stop_l",
+      "walk_bwd_-45_stop_l",
+      "walk_trans_fwd_-45_rf_bwd_-45",
+      "walk_bwd_-90_start",
+      "walk_trans_bwd_-90_lf_fwd_90",
+      "walk_trans_fwd_135_lf_bwd_-90",
+      "walk_trans_fwd_-45_lf_bwd_-45",
+      "run_trans_fwd_90_lf_bwd_-90",
+      "stand_intro_turn90l",
+      "run_bwd_-135_start",
+      "walk_bwd_180_loop",
+      "run_fwd_135_loop",
+      "walk_bwd_180_stop_r",
+      "walk_bwd_180_start",
+      "run_fwd_90_start",
+      "walk_fwd_135_stop_r",
+      "run_bwd_-45_loop",
+      "walk_trans_bwd_-45_rf_fwd_90",
+      "run_bwd_180_start",
+      "run_trans_fwd_135_lf_bwd_135",
+      "idle_turn_left_fast_intro",
+      "walk_fwd_0_stop_l",
+      "idle_turn_right_fast",
+      "walk_trans_fwd_90_lf_bwd_-90",
+      "walk_fwd_90_start",
+      "walk_bwd_-135_stop_l",
+      "walk_trans_bwd_180_rf_fwd_0",
+      "stand_intro_turn-90l",
+      "run_bwd_-90_loop",
+      "walk_bwd_-135_stop_r",
+      "walk_fwd_90_loop",
+      "walk_bwd_-45_stop_r",
+      "run_trans_bwd_-45_rf_fwd_90"
+    ]
+  },
+  {
+    "Name": "move_strafe@grenade",
+    "Clips": [
+      "run_fwd_0_loop",
+      "walk_fwd_0_loop"
+    ]
+  },
+  {
+    "Name": "move_strafe@injured",
+    "Clips": [
+      "walk_fwd_90_loop",
+      "walk_bwd_135_loop",
+      "walk_bwd_-45_loop",
+      "run_fwd_135_loop",
+      "run_fwd_0_loop",
+      "run_bwd_135_loop",
+      "run_bwd_-135_loop",
+      "run_bwd_-45_loop",
+      "walk_bwd_-135_loop",
+      "walk_fwd_135_loop",
+      "walk_fwd_-45_loop",
+      "idle",
+      "walk_fwd_45_loop",
+      "run_fwd_-45_loop",
+      "idle_turn_left_slow",
+      "walk_bwd_180_loop",
+      "run_fwd_45_loop",
+      "idle_turn_left_fast",
+      "run_bwd_180_loop",
+      "run_fwd_90_loop",
+      "walk_bwd_-90_loop",
+      "idle_turn_right_fast",
+      "walk_fwd_0_loop",
+      "run_bwd_-90_loop",
+      "idle_turn_right_slow"
+    ]
+  },
+  {
+    "Name": "move_strafe@melee_knife",
+    "Clips": [
+      "run",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_strafe@melee_knife_fps",
+    "Clips": [
+      "run",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_strafe@melee_large_weapon",
+    "Clips": [
+      "run",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_strafe@melee_large_weapon_fps",
+    "Clips": [
+      "run",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_strafe@melee_large_weapon_fps_gclub",
+    "Clips": [
+      "run",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_strafe@melee_small_weapon",
+    "Clips": [
+      "run",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_strafe@melee_small_weapon_fps",
+    "Clips": [
+      "run",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_strafe@reposition",
+    "Clips": [
+      "step_long_-90_face_0",
+      "step_short_-90_face_-90",
+      "step_long_180_face_180",
+      "step_short_0r_face_0r",
+      "step_short_180_face_0",
+      "step_short_180_face_180",
+      "step_short_90_face_90",
+      "step_short_-180_face_0",
+      "step_long_-90_face_-90",
+      "step_long_-180_face_0",
+      "step_long_90_face_0",
+      "step_long_180_face_0",
+      "step_long_90_face_90",
+      "step_short_-180_face_-180",
+      "step_short_-90_face_0",
+      "step_short_90_face_0",
+      "step_long_-180_face_-180",
+      "step_short_0l_face_0l",
+      "step_long_0r_face_0r",
+      "step_long_0l_face_0l"
+    ]
+  },
+  {
+    "Name": "move_strafe@reposition_2",
+    "Clips": [
+      "step_long_0r_face_180",
+      "step_long_90_face_180",
+      "step_short_0r_face_180",
+      "step_long_90_face_-90",
+      "step_long_0r_face_-90",
+      "step_short_90_face_-180",
+      "step_short_0r_face_-180",
+      "step_short_90_face_90",
+      "step_short_0r_face_90",
+      "step_long_0r_face_-180",
+      "step_long_90_face_0",
+      "step_long_90_face_-180",
+      "step_long_90_face_90",
+      "step_long_0r_face_0",
+      "step_short_90_face_0",
+      "step_long_0r_face_90",
+      "step_short_0r_face_0",
+      "step_short_0r_face_-90",
+      "step_short_90_face_180",
+      "step_short_90_face_-90"
+    ]
+  },
+  {
+    "Name": "move_strafe@roll",
+    "Clips": [
+      "combatroll_bwd_p1_-45",
+      "combatroll_bwd_p1_-90",
+      "combatroll_fwd_p1_135",
+      "combatroll_bwd_p2_-135",
+      "combatroll_fwd_p2_45",
+      "combatroll_bwd_p2_-90",
+      "combatroll_fwd_p1_90",
+      "combatroll_fwd_p1_45",
+      "combatroll_bwd_p1_135",
+      "combatroll_fwd_p1_00",
+      "combatroll_bwd_p2_-45",
+      "combatroll_bwd_p1_180",
+      "combatroll_fwd_p2_90",
+      "combatroll_bwd_p2_180",
+      "combatroll_bwd_p1_-135",
+      "combatroll_bwd_p2_135",
+      "combatroll_fwd_p1_-45",
+      "combatroll_fwd_p2_00",
+      "combatroll_fwd_p2_135",
+      "combatroll_fwd_p2_-45"
+    ]
+  },
+  {
+    "Name": "move_strafe@roll_fps",
+    "Clips": [
+      "combatroll_bwd_p1_-45",
+      "combatroll_bwd_p1_-90",
+      "combatroll_fwd_p1_135",
+      "combatroll_bwd_p2_-135",
+      "combatroll_fwd_p2_45",
+      "combatroll_bwd_p2_-90",
+      "combatroll_fwd_p1_90",
+      "combatroll_fwd_p1_45",
+      "combatroll_bwd_p1_135",
+      "combatroll_fwd_p1_00",
+      "combatroll_bwd_p2_-45",
+      "combatroll_bwd_p1_180",
+      "combatroll_fwd_p2_90",
+      "combatroll_bwd_p2_180",
+      "combatroll_bwd_p1_-135",
+      "combatroll_bwd_p2_135",
+      "combatroll_fwd_p1_-45",
+      "combatroll_fwd_p2_00",
+      "combatroll_fwd_p2_135",
+      "combatroll_fwd_p2_-45"
+    ]
+  },
+  {
+    "Name": "move_strafe@stealth",
+    "Clips": [
+      "walk_bwd_180_loop",
+      "run_fwd_90_loop",
+      "run_fwd_45_loop",
+      "run_fwd_0_loop",
+      "run_bwd_180_loop",
+      "walk_fwd_0_loop",
+      "run_bwd_-90_loop",
+      "run_bwd_-135_loop",
+      "idle"
+    ]
+  },
+  {
+    "Name": "move_strafe@transitions@run",
+    "Clips": [
+      "strafe_bwd_switch_to_run_ccw_lf_-45",
+      "strafe_bwd_switch_to_run_cw_rf_180",
+      "strafe_bwd_switch_to_run_cw_lf_135",
+      "strafe_bwd_switch_to_run_cw_rf_135",
+      "run_switch_to_strafe_bwd_cw_lf_180",
+      "strafe_bwd_switch_to_run_ccw_lf_180",
+      "strafe_bwd_switch_to_run_ccw_rf_180",
+      "strafe_bwd_switch_to_run_ccw_lf_-90",
+      "run_switch_to_strafe_bwd_ccw_lf_135",
+      "run_switch_to_strafe_bwd_cw_rf_180",
+      "run_switch_to_strafe_bwd_cw_rf_-90",
+      "strafe_bwd_switch_to_run_ccw_rf_-90",
+      "strafe_bwd_switch_to_run_ccw_rf_-45",
+      "run_switch_to_strafe_bwd_ccw_rf_180",
+      "run_switch_to_strafe_bwd_ccw_lf_180",
+      "strafe_bwd_switch_to_run_cw_lf_180",
+      "run_switch_to_strafe_bwd_ccw_rf_135",
+      "run_switch_to_strafe_bwd_cw_lf_-90",
+      "run_switch_to_strafe_bwd_cw_rf_-45",
+      "run_switch_to_strafe_bwd_cw_lf_-45"
+    ]
+  },
+  {
+    "Name": "move_strafe@transitions@walk",
+    "Clips": [
+      "walk_switch_to_strafe_bwd_cw_rf_180",
+      "strafe_bwd_switch_to_walk_ccw_rf_180",
+      "strafe_bwd_switch_to_walk_ccw_rf_-90",
+      "strafe_bwd_switch_to_walk_ccw_lf_180",
+      "walk_switch_to_strafe_bwd_ccw_rf_180",
+      "strafe_bwd_switch_to_walk_cw_lf_135",
+      "walk_switch_to_strafe_bwd_cw_rf_-45",
+      "walk_switch_to_strafe_bwd_cw_lf_-90",
+      "strafe_bwd_switch_to_walk_ccw_lf_-45",
+      "walk_switch_to_strafe_bwd_ccw_lf_180",
+      "walk_switch_to_strafe_bwd_cw_rf_-90",
+      "strafe_bwd_switch_to_walk_cw_rf_180",
+      "walk_switch_to_strafe_bwd_cw_lf_-45",
+      "strafe_bwd_switch_to_walk_cw_lf_180",
+      "walk_switch_to_strafe_bwd_ccw_lf_135",
+      "strafe_bwd_switch_to_walk_cw_rf_135",
+      "walk_switch_to_strafe_bwd_ccw_rf_135",
+      "walk_switch_to_strafe_bwd_cw_lf_180",
+      "strafe_bwd_switch_to_walk_ccw_lf_-90",
+      "strafe_bwd_switch_to_walk_ccw_rf_-45"
+    ]
+  },
+  {
+    "Name": "move_strafe@unarmed",
+    "Clips": [
+      "run",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_strafe_melee_unarmed",
+    "Clips": [
+      "run_bwd_-135_loop",
+      "walk_fwd_45_loop",
+      "walk_fwd_90_loop",
+      "idle_turn_left_very_fast",
+      "walk_fwd_0_loop",
+      "stand_intro_turn90l",
+      "run_bwd_135_loop",
+      "walk_bwd_135_loop",
+      "run_fwd_90_loop",
+      "stand_intro_turn-90l",
+      "run_fwd_-45_loop",
+      "idle",
+      "run_fwd_0_loop",
+      "idle_turn_left_fast",
+      "walk_bwd_-135_loop",
+      "walk_fwd_135_loop",
+      "run_bwd_-90_loop",
+      "stand_intro_turn180l",
+      "idle_turn_left_slow",
+      "idle_turn_right_slow",
+      "walk_bwd_-45_loop",
+      "run_fwd_135_loop",
+      "walk_bwd_-90_loop",
+      "idle_turn_right_very_fast",
+      "run_fwd_45_loop",
+      "stand_intro_turn0l",
+      "stand_intro_turn-180l",
+      "idle_turn_right_fast",
+      "walk_fwd_-45_loop",
+      "walk_bwd_180_loop",
+      "run_bwd_-45_loop",
+      "run_bwd_180_loop"
+    ]
+  },
+  {
+    "Name": "move_strafe_melee_unarmed_fps",
+    "Clips": [
+      "walk_fwd_90_loop",
+      "walk_bwd_135_loop",
+      "walk_bwd_-45_loop",
+      "run_fwd_135_loop",
+      "run_fwd_0_loop",
+      "idle_turn_left_very_fast",
+      "run_bwd_135_loop",
+      "run_bwd_-135_loop",
+      "run_bwd_-45_loop",
+      "walk_bwd_-135_loop",
+      "walk_fwd_135_loop",
+      "walk_fwd_-45_loop",
+      "idle",
+      "walk_fwd_45_loop",
+      "run_fwd_-45_loop",
+      "idle_turn_left_slow",
+      "walk_bwd_180_loop",
+      "run_fwd_45_loop",
+      "idle_turn_left_fast",
+      "run_bwd_180_loop",
+      "idle_turn_right_very_fast",
+      "run_fwd_90_loop",
+      "walk_bwd_-90_loop",
+      "idle_turn_right_fast",
+      "walk_fwd_0_loop",
+      "run_bwd_-90_loop",
+      "idle_turn_right_slow"
+    ]
+  },
+  {
+    "Name": "move_weapon@jerrycan@generic",
+    "Clips": [
+      "run",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_weapon@pistol@copa",
+    "Clips": [
+      "run",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_weapon@pistol@copb",
+    "Clips": [
+      "run",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_weapon@pistol@copc",
+    "Clips": [
+      "run",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_weapon@pistol@copd",
+    "Clips": [
+      "run",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_weapon@pistol@cope",
+    "Clips": [
+      "run",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_weapon@pistol@generic",
+    "Clips": [
+      "run",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_weapon@rifle@generic",
+    "Clips": [
+      "run",
+      "idle_crouch",
+      "run_crouch",
+      "sprint",
+      "walk_crouch",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_jump@weapons@1h_melee@crowbar",
+    "Clips": [
+      "hand_grip"
+    ]
+  },
+  {
+    "Name": "move_jump@weapons@1h_melee@hammer",
+    "Clips": [
+      "hand_grip"
+    ]
+  },
+  {
+    "Name": "move_jump@weapons@1h_melee@hatchet",
+    "Clips": [
+      "hand_grip"
+    ]
+  },
+  {
+    "Name": "move_jump@weapons@1h_melee@knife",
+    "Clips": [
+      "hand_grip"
+    ]
+  },
+  {
+    "Name": "move_jump@weapons@1h_melee@nightstick",
+    "Clips": [
+      "hand_grip"
+    ]
+  },
+  {
+    "Name": "move_jump@weapons@projectile@ball",
+    "Clips": [
+      "hand_grip"
+    ]
+  },
+  {
+    "Name": "move_jump@weapons@projectile@flare",
+    "Clips": [
+      "hand_grip"
+    ]
+  },
+  {
+    "Name": "move_jump@weapons@projectile@grenade",
+    "Clips": [
+      "hand_grip",
+      "w_hand_grip"
+    ]
+  },
+  {
+    "Name": "move_jump@weapons@projectile@molotov",
+    "Clips": [
+      "hand_grip"
+    ]
+  },
+  {
+    "Name": "move_jump@weapons@projectile@sticky_bomb",
+    "Clips": [
+      "hand_grip"
+    ]
+  },
+  {
+    "Name": "move_jump@weapons@projectile@tear_gas",
+    "Clips": [
+      "hand_grip",
+      "w_hand_grip"
+    ]
+  },
+  {
+    "Name": "move_strafe@first_person@mp_male",
+    "Clips": [
+      "run_fwd_90_loop",
+      "run_fwd_45_loop",
+      "run_bwd_-45_loop",
+      "run_fwd_-45_loop",
+      "run_bwd_180_loop",
+      "run_bwd_-90_loop",
+      "run_bwd_-135_loop",
+      "run_fwd_135_loop",
+      "run_bwd_135_loop",
+      "run_bwd_180_start"
+    ]
+  },
+  {
+    "Name": "move_fat_2h",
+    "Clips": [
+      "run",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_female_2h",
+    "Clips": [
+      "run",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_m@fat@bulky",
+    "Clips": [
+      "additive_fat"
+    ]
+  },
+  {
+    "Name": "move_superfat_2h",
+    "Clips": [
+      "run",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_superfat_rpg",
+    "Clips": [
+      "run",
+      "idle",
+      "walk"
+    ]
+  },
+  {
+    "Name": "move_fall@beastjump",
+    "Clips": [
+      "low_land_walk",
+      "low_land_run",
+      "high_land_run",
+      "fall_high",
+      "fall_med",
+      "high_land_walk",
+      "low_land_stand",
+      "land_roll",
+      "high_land_stand"
+    ]
+  },
+  {
+    "Name": "move_jump@beastjump",
+    "Clips": [
+      "jump_launch_r",
+      "jump_launch_l"
+    ]
+  }
+]

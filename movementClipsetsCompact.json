@@ -1573,10 +1573,10 @@
       "wstart_l_0",
       "sprint_turn_l",
       "wstart_r_0",
+      "rstop_l",
       "walktorun_right",
       "run_turn_r3",
       "run",
-      "rstop_l",
       "rstop_r"
     ]
   },
@@ -3882,6 +3882,7 @@
       "idle_turn_right_slow",
       "walk_turn_l3",
       "walk_bwd_-45_loop",
+      "idle_turn_stop",
       "walk_bwd_-90_loop",
       "walk_turn_r3",
       "walk_turn_l4",
@@ -3891,8 +3892,7 @@
       "walk_fwd_-45_loop",
       "walk_bwd_180_loop",
       "walk_turn_r4",
-      "idle_turn_r_0",
-      "idle_turn_stop"
+      "idle_turn_r_0"
     ]
   },
   {

@@ -466,10 +466,10 @@
       "wstart_l_0",
       "sprint_turn_l",
       "wstart_r_0",
+      "rstop_l",
       "walktorun_right",
       "run_turn_r3",
       "run",
-      "rstop_l",
       "rstop_r"
     ]
   },

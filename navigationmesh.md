@@ -3,6 +3,43 @@ Exported data is from GTA V *.ynv files in compressed (Lz4BlockArray) messagepac
 
 For C# I recommend using following NuGet package to deserialize the dump: https://www.nuget.org/packages/messagepack
 
+## System.NotSupportedException: A non-collectible assembly may not reference a collectible assembly.
+If you receive that exception on loading, the reason is that probably the MessagePack NuGet package is written for .NET Standard 2. You can work around this by setting the following environment in your project properties:
+`CSHARP_MODULE_DISABLE_COLLECTIBLE = true`
+
+Changing this will disable the possibility for resource hot-reloading (on runtime).
+
+## C# Example on loading the data
+```csharp
+private TDumpType LoadDataFromDumpFile<TDumpType>(string dumpFileName)
+    where TDumpType : new()
+{
+    TDumpType dumpResult = default;
+    string filePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "resources", yourResourceName, "data", dumpFileName);
+    if (!File.Exists(filePath))
+    {
+        Alt.Log($"Could not find dump file at {filePath}");
+        return default;
+    }
+
+    try
+    {
+        MessagePackSerializerOptions lz4Options = MessagePackSerializerOptions.Standard.WithCompression(MessagePackCompression.Lz4BlockArray);
+        dumpResult = MessagePackSerializer.Deserialize<TDumpType>(File.ReadAllBytes(filePath), lz4Options);
+        Alt.Log($"Successfully loaded dump file {dumpFileName}.");
+    }
+    catch (Exception e)
+    {
+        Alt.Log($"Failed loading dump: {e}");
+    }
+
+    return dumpResult;
+}
+```
+```csharp
+List<NavigationMesh> navigationMeshes = LoadDataFromDumpFile<List<NavigationMesh>>("navigationmeshes.json");
+```
+
 ## Models (C#)
 Export contains a List of NavigationMesh model.
 

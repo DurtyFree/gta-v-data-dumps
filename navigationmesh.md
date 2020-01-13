@@ -4,7 +4,7 @@ Exported data is from GTA V *.ynv files in compressed (Lz4BlockArray) messagepac
 For C# I recommend using following NuGet package to deserialize the dump: https://www.nuget.org/packages/messagepack
 
 ## System.NotSupportedException: A non-collectible assembly may not reference a collectible assembly.
-If you receive that exception on loading, the reason is that probably the MessagePack NuGet package is written for .NET Standard 2. You can work around this by setting the following environment in your project properties:
+If you receive that exception on loading, the reason is that probably the MessagePack NuGet package is written for .NET Standard 2. You can work around this by setting the following environment in your project properties or on windows environment variables:
 `CSHARP_MODULE_DISABLE_COLLECTIBLE = true`
 
 Changing this will disable the possibility for resource hot-reloading (on runtime).
@@ -150,6 +150,22 @@ public class NavigationMeshPoly
 
     [Key(27)]
     public List<WorldVector3> Vertices { get; set; }
+    
+    [Key(28)]
+    public List<NavigationMeshPolyEdge> Edges { get; set; }
+}
+```
+
+### NavigationMeshPolyEdge
+```csharp
+[MessagePackObject]
+public class NavigationMeshPolyEdge
+{
+    [Key(0)]
+    public uint AreaId { get; set; }
+
+    [Key(1)]
+    public uint PolyIndex { get; set; }
 }
 ```
 

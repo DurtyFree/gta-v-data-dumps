@@ -1,0 +1,486 @@
+[
+  {
+    "Name": "EXP_TAG_GRENADE",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_GRENADELAUNCHER",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_STICKYBOMB",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_MOLOTOV",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_ROCKET",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_TANKSHELL",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_HI_OCTANE",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_CAR",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_PLANE",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_PETROL_PUMP",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_BIKE",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_DIR_STEAM",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_DIR_FLAME",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_DIR_WATER_HYDRANT",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_DIR_GAS_CANISTER",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_BOAT",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_SHIP_DESTROY",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_TRUCK",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_BULLET",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_SMOKEGRENADELAUNCHER",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_SMOKEGRENADE",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_BZGAS",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_FLARE",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_GAS_CANISTER",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_EXTINGUISHER",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_PROGRAMMABLEAR",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_TRAIN",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_BARREL",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_PROPANE",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_BLIMP",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_DIR_FLAME_EXPLODE",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_TANKER",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_PLANE_ROCKET",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_VEHICLE_BULLET",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_GAS_TANK",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_BIRD_CRAP",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_GRENADE",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_GRENADELAUNCHER",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_STICKYBOMB",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_MOLOTOV",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_ROCKET",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_TANKSHELL",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_HI_OCTANE",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_CAR",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_PLANE",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_PETROL_PUMP",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_BIKE",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_DIR_STEAM",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_DIR_FLAME",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_DIR_WATER_HYDRANT",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_DIR_GAS_CANISTER",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_BOAT",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_SHIP_DESTROY",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_TRUCK",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_BULLET",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_SMOKEGRENADELAUNCHER",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_SMOKEGRENADE",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_BZGAS",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_FLARE",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_GAS_CANISTER",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_EXTINGUISHER",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_PROGRAMMABLEAR",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_TRAIN",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_BARREL",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_PROPANE",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_BLIMP",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_DIR_FLAME_EXPLODE",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_TANKER",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_PLANE_ROCKET",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_VEHICLE_BULLET",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_GAS_TANK",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_BIRD_CRAP",
+    "DlcName": null
+  },
+  {
+    "Name": "EXP_TAG_FIREWORK",
+    "DlcName": "mpindependence"
+  },
+  {
+    "Name": "EXP_TAG_BLIMP2",
+    "DlcName": "spupgrade"
+  },
+  {
+    "Name": "EXP_TAG_RAILGUN",
+    "DlcName": "spupgrade"
+  },
+  {
+    "Name": "EXP_TAG_BOMB_CLUSTER",
+    "DlcName": "mpsmuggler"
+  },
+  {
+    "Name": "EXP_TAG_BOMB_CLUSTER_SECONDARY",
+    "DlcName": "mpsmuggler"
+  },
+  {
+    "Name": "EXP_TAG_BOMB_GAS",
+    "DlcName": "mpsmuggler"
+  },
+  {
+    "Name": "EXP_TAG_BOMB_INCENDIARY",
+    "DlcName": "mpsmuggler"
+  },
+  {
+    "Name": "EXP_TAG_BOMB_STANDARD",
+    "DlcName": "mpsmuggler"
+  },
+  {
+    "Name": "EXP_TAG_BOMBUSHKA_CANNON",
+    "DlcName": "mpsmuggler"
+  },
+  {
+    "Name": "EXP_TAG_HUNTER_BARRAGE",
+    "DlcName": "mpsmuggler"
+  },
+  {
+    "Name": "EXP_TAG_HUNTER_CANNON",
+    "DlcName": "mpsmuggler"
+  },
+  {
+    "Name": "EXP_TAG_ROGUE_CANNON",
+    "DlcName": "mpsmuggler"
+  },
+  {
+    "Name": "EXP_TAG_BLIMP2",
+    "DlcName": "spupgrade"
+  },
+  {
+    "Name": "EXP_TAG_RAILGUN",
+    "DlcName": "spupgrade"
+  },
+  {
+    "Name": "EXP_TAG_AIR_DEFENCE",
+    "DlcName": "mpapartment"
+  },
+  {
+    "Name": "EXP_TAG_OPPRESSOR2_CANNON",
+    "DlcName": "mpbattle"
+  },
+  {
+    "Name": "EXP_TAG_PIPEBOMB",
+    "DlcName": "mpbiker"
+  },
+  {
+    "Name": "EXP_TAG_PROXMINE",
+    "DlcName": "mpchristmas2"
+  },
+  {
+    "Name": "EXP_TAG_SNOWBALL",
+    "DlcName": "mpchristmas2"
+  },
+  {
+    "Name": "EXP_TAG_TORPEDO",
+    "DlcName": "mpchristmas2017"
+  },
+  {
+    "Name": "EXP_TAG_TORPEDO_UNDERWATER",
+    "DlcName": "mpchristmas2017"
+  },
+  {
+    "Name": "EXP_TAG_MINE_UNDERWATER",
+    "DlcName": "mpchristmas2017"
+  },
+  {
+    "Name": "EXP_TAG_ORBITAL_CANNON",
+    "DlcName": "mpchristmas2017"
+  },
+  {
+    "Name": "EXP_TAG_BOMB_STANDARD_WIDE",
+    "DlcName": "mpchristmas2017"
+  },
+  {
+    "Name": "EXP_TAG_EXPLOSIVEAMMO_SHOTGUN",
+    "DlcName": "mpchristmas2017"
+  },
+  {
+    "Name": "EXP_TAG_MORTAR_KINETIC",
+    "DlcName": "mpchristmas2018"
+  },
+  {
+    "Name": "EXP_TAG_VEHICLEMINE_KINETIC",
+    "DlcName": "mpchristmas2018"
+  },
+  {
+    "Name": "EXP_TAG_VEHICLEMINE_EMP",
+    "DlcName": "mpchristmas2018"
+  },
+  {
+    "Name": "EXP_TAG_VEHICLEMINE_SPIKE",
+    "DlcName": "mpchristmas2018"
+  },
+  {
+    "Name": "EXP_TAG_VEHICLEMINE_SLICK",
+    "DlcName": "mpchristmas2018"
+  },
+  {
+    "Name": "EXP_TAG_VEHICLEMINE_TAR",
+    "DlcName": "mpchristmas2018"
+  },
+  {
+    "Name": "EXP_TAG_SCRIPT_DRONE",
+    "DlcName": "mpchristmas2018"
+  },
+  {
+    "Name": "EXP_TAG_SCRIPT_MISSILE",
+    "DlcName": "mpchristmas2018"
+  },
+  {
+    "Name": "EXP_TAG_RAYGUN",
+    "DlcName": "mpchristmas2018"
+  },
+  {
+    "Name": "EXP_TAG_BURIEDMINE",
+    "DlcName": "mpchristmas2018"
+  },
+  {
+    "Name": "EXP_TAG_VEHICLEMINE",
+    "DlcName": "mpgunrunning"
+  },
+  {
+    "Name": "EXP_TAG_EXPLOSIVEAMMO",
+    "DlcName": "mpgunrunning"
+  },
+  {
+    "Name": "EXP_TAG_APCSHELL",
+    "DlcName": "mpgunrunning"
+  },
+  {
+    "Name": "EXP_TAG_VALKYRIE_CANNON",
+    "DlcName": "mpheist"
+  },
+  {
+    "Name": "EXP_TAG_RCTANK_ROCKET",
+    "DlcName": "mpheist3"
+  },
+  {
+    "Name": "EXP_TAG_BOMB_CLUSTER",
+    "DlcName": "mpsmuggler"
+  },
+  {
+    "Name": "EXP_TAG_BOMB_CLUSTER_SECONDARY",
+    "DlcName": "mpsmuggler"
+  },
+  {
+    "Name": "EXP_TAG_BOMB_GAS",
+    "DlcName": "mpsmuggler"
+  },
+  {
+    "Name": "EXP_TAG_BOMB_INCENDIARY",
+    "DlcName": "mpsmuggler"
+  },
+  {
+    "Name": "EXP_TAG_BOMB_STANDARD",
+    "DlcName": "mpsmuggler"
+  },
+  {
+    "Name": "EXP_TAG_BOMBUSHKA_CANNON",
+    "DlcName": "mpsmuggler"
+  },
+  {
+    "Name": "EXP_TAG_HUNTER_BARRAGE",
+    "DlcName": "mpsmuggler"
+  },
+  {
+    "Name": "EXP_TAG_HUNTER_CANNON",
+    "DlcName": "mpsmuggler"
+  },
+  {
+    "Name": "EXP_TAG_ROGUE_CANNON",
+    "DlcName": "mpsmuggler"
+  }
+]

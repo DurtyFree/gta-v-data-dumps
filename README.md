@@ -18,6 +18,7 @@ If you are in search for an easy way to browse those GTA V data ingame, feel fre
 - Navigation Meshes (navigationMeshes.msgpack) **4404** navmeshes with **6385890** polygons in total (See navigationmesh.md for the messagepack model)
 - Ped Overlay Collections (pedOverlayCollections.json) **30** ped overlay collections with **3223** overlays in total (Usable tattos/badges with ped decoration native)
 - Timecycle Modifiers (timecycleModifiers.json) **2806** timecycle modifiers in total (Usable with timecycle modifier natives)
-- Explosion Types (explosionTypesCompact.json) **121** explosion types in total (Usable with add explosion native)
+- Explosion Types (Names) (explosionTypesCompact.json) **121** explosion types in total (Usable with add explosion native)
+- Cam Shake Types (Names) (camShakeTypesCompact.json) **21** cam shake types in total (Usable with shake cam & shake gameplay cam natives)
 ---
 ## Please create an issue if you have any problems with the data, so I can improve my generator. You are also welcome to create issues for dumps you would like to see.

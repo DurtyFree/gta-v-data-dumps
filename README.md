@@ -21,6 +21,6 @@ If you are in search for an easy way to browse those GTA V data ingame, feel fre
 - Explosion Types (Names) (explosionTypesCompact.json) **74** explosion types in total (Usable with ADD EXPLOSION native)
 - Cam Shake Types (Names) (camShakeTypesCompact.json) **21** cam shake types in total (Usable with SHAKE CAM & SHAKE GAMEPLAY cam natives)
 - Audio / Sound names & ref names (soundNames.json) **1906** audio names from a total of **62** unique audio refs (Usable with PLAY_SOUND natives)
-- Pickup Tpyes (Names) (pickupTypes.json) **150** pickup types in total (Usable with CREATE PICKUP natives)
+- Pickup Types (Names) (pickupTypes.json) **150** pickup types in total (Usable with CREATE PICKUP natives)
 ---
 ## Please create an issue if you have any problems with the data, so I can improve my generator. You are also welcome to create issues for dumps you would like to see.

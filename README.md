@@ -11,7 +11,7 @@ If you are in search for an easy way to browse those GTA V data ingame, feel fre
 - Speech Voices (speeches.json) **1018** speech voices with **150055** speeches in total (Usable with PLAY AMBIENT SPEECH natives)
 - Particle Effects (particleEffectsCompact.json) **273** particle effect dictionaries & **1287** particle effects in total (Usable with START PARTICLE FX natives)
 - Scenarios (Ped) (scenariosCompact.json) **239** scenarios in total (Usable with scenario related natives)
-- Animations (animDictsCompact.json) **16363** animation dictionaries & **168199** animations in total (Usable with TASK PLAY ANIM native)
+- Animations (animDictsCompact.json) **16363** animation dictionaries & **167929** animations in total (Usable with TASK PLAY ANIM native)
 - Movement Clipsets (movementClipsetsCompact.json) **557** movement clipsets in total (Usable with SET PED MOVEMENT CLIPSET native)
 - (Walking) Movement Clipsets (movementClipsetsWalkingCompact.json) **207** movement clipsets in total (Usable with SET PED MOVEMENT CLIPSET native)
 - (Navigation) Nodes (nodes.json) **259** node cells with **77991** nodes in total (Mostly useful for vehicle navigation, see navigation meshes dump for ped navigation data)

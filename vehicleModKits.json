@@ -6,7 +6,103 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 0,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "btype",
+      "terbyte",
+      "raptor",
+      "stromberg",
+      "phantom3",
+      "Hauler2",
+      "faction",
+      "moonbeam",
+      "virgo3",
+      "toro",
+      "cog55",
+      "cog552",
+      "cognoscenti",
+      "cognoscenti2",
+      "limo2",
+      "baller3",
+      "baller4",
+      "baller5",
+      "baller6",
+      "toro2",
+      "xls",
+      "xls2",
+      "brickade",
+      "rumpo3",
+      "casco",
+      "technical",
+      "insurgent",
+      "insurgent2",
+      "diablous",
+      "blazer5",
+      "ruiner2",
+      "phantom2",
+      "boxville5",
+      "wastelander",
+      "ruiner3",
+      "furoregt",
+      "contender",
+      "dukes2",
+      "gauntlet2",
+      "stalion",
+      "stalion2",
+      "emperor",
+      "fq2",
+      "radi",
+      "romero",
+      "asterope",
+      "gburrito",
+      "minivan",
+      "speedo",
+      "washington",
+      "blazer2",
+      "pony",
+      "lguard",
+      "ingot",
+      "stratum",
+      "dloader",
+      "trflat",
+      "tornado3",
+      "burrito2",
+      "dune",
+      "policet",
+      "speedo2",
+      "regina",
+      "police2",
+      "stretch",
+      "double",
+      "sadler2",
+      "tornado4",
+      "BfInjection",
+      "Bison3",
+      "Burrito",
+      "Burrito4",
+      "AMBULANCE",
+      "pRanger",
+      "SHERIFF",
+      "blazer",
+      "emperor3",
+      "Emperor2",
+      "Surfer2",
+      "Towtruck2",
+      "SURFER",
+      "rancherxl2",
+      "burrito3",
+      "police4",
+      "sheriff2",
+      "police",
+      "taxi",
+      "rumpo2",
+      "pony2",
+      "FBI",
+      "FBI2",
+      "Mule2",
+      "burrito5",
+      "blazer3"
+    ]
   },
   {
     "Id": 1,
@@ -15,7 +111,11 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 0,
     "StatModsCount": 74,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "dilettante",
+      "dilettante2"
+    ]
   },
   {
     "Id": 2,
@@ -24,7 +124,15 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 0,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "jb700",
+      "stinger",
+      "superd",
+      "bullet",
+      "stingergt",
+      "adder"
+    ]
   },
   {
     "Id": 3,
@@ -33,7 +141,13 @@
     "Type": "MKT_SPORT",
     "VisibleModsCount": 0,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "cogcabrio",
+      "oracle",
+      "f620",
+      "exemplar"
+    ]
   },
   {
     "Id": 4,
@@ -42,7 +156,22 @@
     "Type": "MKT_SUV",
     "VisibleModsCount": 0,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "rocoto",
+      "rebel2",
+      "Sadler",
+      "Bison2",
+      "GRANGER",
+      "bobcatXL",
+      "baller2",
+      "cavalcade2",
+      "MESA",
+      "Seminole",
+      "RancherXL",
+      "bison",
+      "MESA3"
+    ]
   },
   {
     "Id": 5,
@@ -51,7 +180,12 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 0,
     "StatModsCount": 76,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "felon2",
+      "monroe",
+      "Gauntlet"
+    ]
   },
   {
     "Id": 6,
@@ -60,7 +194,17 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 0,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "dune4",
+      "dune5",
+      "technical2",
+      "voodoo2",
+      "picador",
+      "habanero",
+      "stanier",
+      "fugitive"
+    ]
   },
   {
     "Id": 7,
@@ -69,7 +213,21 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 0,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "monster",
+      "sovereign",
+      "faggio",
+      "lectro",
+      "innovation",
+      "hakuchou",
+      "hexer",
+      "bati",
+      "nemesis",
+      "Vader",
+      "faggio2",
+      "carbonrs"
+    ]
   },
   {
     "Id": 8,
@@ -78,7 +236,10 @@
     "Type": "MKT_SUV",
     "VisibleModsCount": 23,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "dubsta"
+    ]
   },
   {
     "Id": 9,
@@ -87,7 +248,10 @@
     "Type": "MKT_SPORT",
     "VisibleModsCount": 30,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "futo"
+    ]
   },
   {
     "Id": 10,
@@ -96,7 +260,10 @@
     "Type": "MKT_SPORT",
     "VisibleModsCount": 6,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "feltzer2"
+    ]
   },
   {
     "Id": 11,
@@ -105,7 +272,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 2,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "akuma"
+    ]
   },
   {
     "Id": 12,
@@ -114,7 +284,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 36,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "tailgater"
+    ]
   },
   {
     "Id": 13,
@@ -123,7 +296,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 5,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "buffalo"
+    ]
   },
   {
     "Id": 14,
@@ -132,7 +308,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 26,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "Bodhi2"
+    ]
   },
   {
     "Id": 15,
@@ -141,7 +320,10 @@
     "Type": "MKT_SUV",
     "VisibleModsCount": 7,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "cavalcade"
+    ]
   },
   {
     "Id": 16,
@@ -150,7 +332,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 13,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "police3"
+    ]
   },
   {
     "Id": 17,
@@ -159,7 +344,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 5,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "ruffian"
+    ]
   },
   {
     "Id": 18,
@@ -168,7 +356,10 @@
     "Type": "MKT_SPORT",
     "VisibleModsCount": 9,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "ninef2"
+    ]
   },
   {
     "Id": 19,
@@ -177,7 +368,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 8,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "daemon"
+    ]
   },
   {
     "Id": 20,
@@ -186,7 +380,10 @@
     "Type": "MKT_SPORT",
     "VisibleModsCount": 5,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "Ztype"
+    ]
   },
   {
     "Id": 21,
@@ -195,7 +392,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 2,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "double"
+    ]
   },
   {
     "Id": 22,
@@ -204,7 +404,10 @@
     "Type": "MKT_SUV",
     "VisibleModsCount": 5,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "Baller"
+    ]
   },
   {
     "Id": 23,
@@ -213,7 +416,10 @@
     "Type": "MKT_SUV",
     "VisibleModsCount": 8,
     "StatModsCount": 76,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "youga"
+    ]
   },
   {
     "Id": 24,
@@ -222,7 +428,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 13,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "asea"
+    ]
   },
   {
     "Id": 25,
@@ -231,7 +440,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 9,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "buccaneer"
+    ]
   },
   {
     "Id": 26,
@@ -240,7 +452,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 4,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "surge"
+    ]
   },
   {
     "Id": 27,
@@ -249,7 +464,10 @@
     "Type": "MKT_SUV",
     "VisibleModsCount": 21,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "ratloader"
+    ]
   },
   {
     "Id": 28,
@@ -258,7 +476,10 @@
     "Type": "MKT_SPORT",
     "VisibleModsCount": 8,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "Surano"
+    ]
   },
   {
     "Id": 29,
@@ -267,7 +488,10 @@
     "Type": "MKT_SPORT",
     "VisibleModsCount": 8,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "jackal"
+    ]
   },
   {
     "Id": 30,
@@ -276,7 +500,10 @@
     "Type": "MKT_SUV",
     "VisibleModsCount": 9,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "dubsta2"
+    ]
   },
   {
     "Id": 31,
@@ -285,7 +512,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 12,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "Phoenix"
+    ]
   },
   {
     "Id": 32,
@@ -294,7 +524,10 @@
     "Type": "MKT_SPORT",
     "VisibleModsCount": 6,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "ninef"
+    ]
   },
   {
     "Id": 33,
@@ -303,7 +536,10 @@
     "Type": "MKT_SPORT",
     "VisibleModsCount": 12,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "Dominator"
+    ]
   },
   {
     "Id": 34,
@@ -312,7 +548,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 6,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "felon"
+    ]
   },
   {
     "Id": 35,
@@ -321,7 +560,10 @@
     "Type": "MKT_SPORT",
     "VisibleModsCount": 29,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "penumbra"
+    ]
   },
   {
     "Id": 36,
@@ -330,7 +572,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 5,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "blista"
+    ]
   },
   {
     "Id": 37,
@@ -339,7 +584,10 @@
     "Type": "MKT_SPORT",
     "VisibleModsCount": 23,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "elegy2"
+    ]
   },
   {
     "Id": 38,
@@ -348,7 +596,10 @@
     "Type": "MKT_SPORT",
     "VisibleModsCount": 7,
     "StatModsCount": 74,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "voltic"
+    ]
   },
   {
     "Id": 39,
@@ -357,7 +608,10 @@
     "Type": "MKT_SUV",
     "VisibleModsCount": 5,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "gresley"
+    ]
   },
   {
     "Id": 40,
@@ -366,7 +620,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 5,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "issi2"
+    ]
   },
   {
     "Id": 41,
@@ -375,7 +632,10 @@
     "Type": "MKT_SUV",
     "VisibleModsCount": 3,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "BjXL"
+    ]
   },
   {
     "Id": 42,
@@ -384,7 +644,10 @@
     "Type": "MKT_SUV",
     "VisibleModsCount": 4,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "landstalker"
+    ]
   },
   {
     "Id": 43,
@@ -393,7 +656,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 5,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "premier"
+    ]
   },
   {
     "Id": 44,
@@ -402,7 +668,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 23,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "ruiner"
+    ]
   },
   {
     "Id": 45,
@@ -411,7 +680,10 @@
     "Type": "MKT_SPORT",
     "VisibleModsCount": 14,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "sultan"
+    ]
   },
   {
     "Id": 46,
@@ -420,7 +692,10 @@
     "Type": "MKT_SUV",
     "VisibleModsCount": 7,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "serrano"
+    ]
   },
   {
     "Id": 47,
@@ -429,7 +704,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 9,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "pcj"
+    ]
   },
   {
     "Id": 48,
@@ -438,7 +716,10 @@
     "Type": "MKT_SUV",
     "VisibleModsCount": 7,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "Rebel"
+    ]
   },
   {
     "Id": 49,
@@ -447,7 +728,10 @@
     "Type": "MKT_SPORT",
     "VisibleModsCount": 10,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "fusilade"
+    ]
   },
   {
     "Id": 50,
@@ -456,7 +740,10 @@
     "Type": "MKT_SPORT",
     "VisibleModsCount": 14,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "sentinel"
+    ]
   },
   {
     "Id": 51,
@@ -465,7 +752,10 @@
     "Type": "MKT_SPORT",
     "VisibleModsCount": 8,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "banshee"
+    ]
   },
   {
     "Id": 52,
@@ -474,7 +764,10 @@
     "Type": "MKT_SPORT",
     "VisibleModsCount": 18,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "schafter2"
+    ]
   },
   {
     "Id": 53,
@@ -483,7 +776,10 @@
     "Type": "MKT_SPORT",
     "VisibleModsCount": 8,
     "StatModsCount": 74,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "khamelion"
+    ]
   },
   {
     "Id": 54,
@@ -492,7 +788,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 11,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "primo"
+    ]
   },
   {
     "Id": 55,
@@ -501,7 +800,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 47,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "prairie"
+    ]
   },
   {
     "Id": 56,
@@ -510,7 +812,10 @@
     "Type": "MKT_SPORT",
     "VisibleModsCount": 7,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "comet2"
+    ]
   },
   {
     "Id": 57,
@@ -519,7 +824,10 @@
     "Type": "MKT_SPORT",
     "VisibleModsCount": 10,
     "StatModsCount": 76,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "vigero"
+    ]
   },
   {
     "Id": 58,
@@ -528,7 +836,10 @@
     "Type": "MKT_SPORT",
     "VisibleModsCount": 17,
     "StatModsCount": 76,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "schwarzer"
+    ]
   },
   {
     "Id": 59,
@@ -537,7 +848,10 @@
     "Type": "MKT_SUV",
     "VisibleModsCount": 13,
     "StatModsCount": 78,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "sandking"
+    ]
   },
   {
     "Id": 60,
@@ -546,7 +860,10 @@
     "Type": "MKT_SUV",
     "VisibleModsCount": 13,
     "StatModsCount": 78,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "sandking2"
+    ]
   },
   {
     "Id": 61,
@@ -555,7 +872,10 @@
     "Type": "MKT_SPORT",
     "VisibleModsCount": 11,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "sentinel2"
+    ]
   },
   {
     "Id": 62,
@@ -564,7 +884,10 @@
     "Type": "MKT_SPORT",
     "VisibleModsCount": 3,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "hotknife"
+    ]
   },
   {
     "Id": 63,
@@ -573,7 +896,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 10,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "bagger"
+    ]
   },
   {
     "Id": 64,
@@ -582,7 +908,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 12,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "manana"
+    ]
   },
   {
     "Id": 65,
@@ -591,7 +920,11 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 12,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "tornado",
+      "tornado2"
+    ]
   },
   {
     "Id": 66,
@@ -600,7 +933,10 @@
     "Type": "MKT_SPORT",
     "VisibleModsCount": 30,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "buffalo2"
+    ]
   },
   {
     "Id": 67,
@@ -609,7 +945,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 15,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "peyote"
+    ]
   },
   {
     "Id": 68,
@@ -618,7 +957,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 7,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "entityxf"
+    ]
   },
   {
     "Id": 69,
@@ -627,7 +969,10 @@
     "Type": "MKT_SPORT",
     "VisibleModsCount": 27,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "coquette"
+    ]
   },
   {
     "Id": 70,
@@ -636,7 +981,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 6,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "cheetah"
+    ]
   },
   {
     "Id": 71,
@@ -645,7 +993,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 19,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "sabregt"
+    ]
   },
   {
     "Id": 72,
@@ -654,7 +1005,10 @@
     "Type": "MKT_SPORT",
     "VisibleModsCount": 3,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "oracle2"
+    ]
   },
   {
     "Id": 73,
@@ -663,7 +1017,10 @@
     "Type": "MKT_SPORT",
     "VisibleModsCount": 10,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "zion"
+    ]
   },
   {
     "Id": 74,
@@ -672,7 +1029,10 @@
     "Type": "MKT_SPORT",
     "VisibleModsCount": 9,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "zion2"
+    ]
   },
   {
     "Id": 75,
@@ -681,7 +1041,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 5,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "intruder"
+    ]
   },
   {
     "Id": 76,
@@ -690,7 +1053,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 4,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "carbonizzare"
+    ]
   },
   {
     "Id": 77,
@@ -699,7 +1065,10 @@
     "Type": "MKT_SPORT",
     "VisibleModsCount": 5,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "RapidGT"
+    ]
   },
   {
     "Id": 78,
@@ -708,7 +1077,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 5,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "vacca"
+    ]
   },
   {
     "Id": 79,
@@ -717,7 +1089,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 3,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "infernus"
+    ]
   },
   {
     "Id": 80,
@@ -726,7 +1101,10 @@
     "Type": "MKT_SPORT",
     "VisibleModsCount": 4,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "RapidGT2"
+    ]
   },
   {
     "Id": 81,
@@ -752,6 +1130,9 @@
         "Name": "BATI_lV4",
         "Hash": 3985691022
       }
+    ],
+    "VehicleModels": [
+      "bati2"
     ]
   },
   {
@@ -782,6 +1163,10 @@
         "Name": "SANC_lV5",
         "Hash": 761718926
       }
+    ],
+    "VehicleModels": [
+      "Sanchez",
+      "sanchez2"
     ]
   },
   {
@@ -804,6 +1189,9 @@
         "Name": "STNT_lv3",
         "Hash": 1997494044
       }
+    ],
+    "VehicleModels": [
+      "Stunt"
     ]
   },
   {
@@ -830,6 +1218,9 @@
         "Name": "SHML_lv4",
         "Hash": 3877363894
       }
+    ],
+    "VehicleModels": [
+      "Shamal"
     ]
   },
   {
@@ -848,6 +1239,9 @@
         "Name": "RUMP_lv2",
         "Hash": 1651084834
       }
+    ],
+    "VehicleModels": [
+      "rumpo"
     ]
   },
   {
@@ -866,6 +1260,9 @@
         "Name": "PLMV_lv2",
         "Hash": 910412394
       }
+    ],
+    "VehicleModels": [
+      "polmav"
     ]
   },
   {
@@ -875,7 +1272,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 10,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "bifta"
+    ]
   },
   {
     "Id": 88,
@@ -884,7 +1284,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 6,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "kalahari"
+    ]
   },
   {
     "Id": 89,
@@ -910,6 +1313,9 @@
         "Name": "SSS_OCTOPUS",
         "Hash": 4051151014
       }
+    ],
+    "VehicleModels": [
+      "paradise"
     ]
   },
   {
@@ -919,7 +1325,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 18,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "zentorno"
+    ]
   },
   {
     "Id": 91,
@@ -928,7 +1337,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 20,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "massacro"
+    ]
   },
   {
     "Id": 92,
@@ -937,7 +1349,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 18,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "jester"
+    ]
   },
   {
     "Id": 93,
@@ -946,7 +1361,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 6,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "turismor"
+    ]
   },
   {
     "Id": 94,
@@ -955,7 +1373,10 @@
     "Type": "MKT_SPORT",
     "VisibleModsCount": 9,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "huntley"
+    ]
   },
   {
     "Id": 95,
@@ -964,7 +1385,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 10,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "alpha"
+    ]
   },
   {
     "Id": 96,
@@ -973,7 +1397,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 3,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "thrust"
+    ]
   },
   {
     "Id": 97,
@@ -982,7 +1409,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 11,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "rhapsody"
+    ]
   },
   {
     "Id": 98,
@@ -991,7 +1421,10 @@
     "Type": "MKT_SPORT",
     "VisibleModsCount": 24,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "warrener"
+    ]
   },
   {
     "Id": 99,
@@ -1000,7 +1433,10 @@
     "Type": "MKT_SPORT",
     "VisibleModsCount": 11,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "blade"
+    ]
   },
   {
     "Id": 100,
@@ -1009,7 +1445,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 16,
     "StatModsCount": 79,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "glendale"
+    ]
   },
   {
     "Id": 101,
@@ -1018,7 +1457,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 58,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "rapidgt3"
+    ]
   },
   {
     "Id": 102,
@@ -1027,7 +1469,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 30,
     "StatModsCount": 78,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "panto"
+    ]
   },
   {
     "Id": 103,
@@ -1036,7 +1481,10 @@
     "Type": "MKT_SUV",
     "VisibleModsCount": 17,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "dubsta3"
+    ]
   },
   {
     "Id": 104,
@@ -1045,7 +1493,10 @@
     "Type": "MKT_SPORT",
     "VisibleModsCount": 10,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "pigalle"
+    ]
   },
   {
     "Id": 105,
@@ -1054,7 +1505,10 @@
     "Type": "MKT_SPORT",
     "VisibleModsCount": 27,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "coquette2"
+    ]
   },
   {
     "Id": 106,
@@ -1072,6 +1526,10 @@
         "Name": "SWIFT_lv2",
         "Hash": 749674228
       }
+    ],
+    "VehicleModels": [
+      "swift2",
+      "swift"
     ]
   },
   {
@@ -1081,7 +1539,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 15,
     "StatModsCount": 78,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "gburrito2"
+    ]
   },
   {
     "Id": 108,
@@ -1090,7 +1551,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 1,
     "StatModsCount": 78,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "guardian"
+    ]
   },
   {
     "Id": 109,
@@ -1099,7 +1563,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 2,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "enduro"
+    ]
   },
   {
     "Id": 110,
@@ -1108,7 +1575,11 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 18,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "kuruma",
+      "kuruma2"
+    ]
   },
   {
     "Id": 111,
@@ -1117,7 +1588,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 30,
     "StatModsCount": 78,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "visione"
+    ]
   },
   {
     "Id": 112,
@@ -1126,7 +1600,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 198,
     "StatModsCount": 78,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "voodoo"
+    ]
   },
   {
     "Id": 113,
@@ -1135,7 +1612,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 225,
     "StatModsCount": 78,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "tornado5"
+    ]
   },
   {
     "Id": 114,
@@ -1144,7 +1624,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 203,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "primo2"
+    ]
   },
   {
     "Id": 115,
@@ -1153,7 +1636,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 183,
     "StatModsCount": 79,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "moonbeam2"
+    ]
   },
   {
     "Id": 116,
@@ -1162,7 +1648,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 57,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "lurcher"
+    ]
   },
   {
     "Id": 117,
@@ -1171,7 +1660,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 191,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "chino2"
+    ]
   },
   {
     "Id": 118,
@@ -1180,7 +1672,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 51,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "btype2"
+    ]
   },
   {
     "Id": 119,
@@ -1226,6 +1721,9 @@
         "Name": "VGO2_LIV_8",
         "Hash": 2947054498
       }
+    ],
+    "VehicleModels": [
+      "virgo2"
     ]
   },
   {
@@ -1235,7 +1733,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 1,
     "StatModsCount": 78,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "vigilante"
+    ]
   },
   {
     "Id": 121,
@@ -1244,7 +1745,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 26,
     "StatModsCount": 76,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "verlierer2"
+    ]
   },
   {
     "Id": 122,
@@ -1253,7 +1757,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 15,
     "StatModsCount": 76,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "nightshade"
+    ]
   },
   {
     "Id": 123,
@@ -1262,7 +1769,10 @@
     "Type": "MKT_SPORT",
     "VisibleModsCount": 17,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "schafter3"
+    ]
   },
   {
     "Id": 124,
@@ -1271,7 +1781,10 @@
     "Type": "MKT_SPORT",
     "VisibleModsCount": 17,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "schafter4"
+    ]
   },
   {
     "Id": 125,
@@ -1280,7 +1793,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 16,
     "StatModsCount": 76,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "mamba"
+    ]
   },
   {
     "Id": 126,
@@ -1289,7 +1805,10 @@
     "Type": "MKT_SPORT",
     "VisibleModsCount": 17,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "schafter5"
+    ]
   },
   {
     "Id": 127,
@@ -1298,7 +1817,10 @@
     "Type": "MKT_SPORT",
     "VisibleModsCount": 17,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "schafter6"
+    ]
   },
   {
     "Id": 128,
@@ -1307,7 +1829,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 21,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "tampa"
+    ]
   },
   {
     "Id": 129,
@@ -1316,7 +1841,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 12,
     "StatModsCount": 12,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "howard"
+    ]
   },
   {
     "Id": 130,
@@ -1325,7 +1853,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 217,
     "StatModsCount": 79,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "sultanrs"
+    ]
   },
   {
     "Id": 131,
@@ -1334,7 +1865,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 141,
     "StatModsCount": 76,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "banshee2"
+    ]
   },
   {
     "Id": 132,
@@ -1343,7 +1877,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 186,
     "StatModsCount": 79,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "minivan2"
+    ]
   },
   {
     "Id": 133,
@@ -1352,7 +1889,10 @@
     "Type": "MKT_SPORT",
     "VisibleModsCount": 12,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "bestiagts"
+    ]
   },
   {
     "Id": 134,
@@ -1361,7 +1901,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 13,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "pfister811"
+    ]
   },
   {
     "Id": 135,
@@ -1370,7 +1913,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 10,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "prototipo"
+    ]
   },
   {
     "Id": 136,
@@ -1379,7 +1925,10 @@
     "Type": "MKT_SPORT",
     "VisibleModsCount": 0,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "windsor2"
+    ]
   },
   {
     "Id": 137,
@@ -1388,7 +1937,10 @@
     "Type": "MKT_SPORT",
     "VisibleModsCount": 8,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "SEVEN70"
+    ]
   },
   {
     "Id": 138,
@@ -1397,7 +1949,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 12,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "fmj"
+    ]
   },
   {
     "Id": 139,
@@ -1406,7 +1961,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 3,
     "StatModsCount": 76,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "reaper"
+    ]
   },
   {
     "Id": 140,
@@ -1415,7 +1973,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 14,
     "StatModsCount": 76,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "brioso"
+    ]
   },
   {
     "Id": 141,
@@ -1424,7 +1985,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 5,
     "StatModsCount": 76,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "omnis"
+    ]
   },
   {
     "Id": 142,
@@ -1433,7 +1997,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 25,
     "StatModsCount": 78,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "lynx"
+    ]
   },
   {
     "Id": 143,
@@ -1442,7 +2009,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 2,
     "StatModsCount": 78,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "tampa2"
+    ]
   },
   {
     "Id": 144,
@@ -1451,7 +2021,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 2,
     "StatModsCount": 78,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "trophytruck"
+    ]
   },
   {
     "Id": 145,
@@ -1460,7 +2033,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 9,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "tropos"
+    ]
   },
   {
     "Id": 146,
@@ -1469,7 +2045,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 7,
     "StatModsCount": 76,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "tyrus"
+    ]
   },
   {
     "Id": 147,
@@ -1478,7 +2057,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 176,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "faction3"
+    ]
   },
   {
     "Id": 148,
@@ -1487,7 +2069,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 26,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "btype3"
+    ]
   },
   {
     "Id": 149,
@@ -1597,6 +2182,9 @@
         "Name": "DUKES_ROOF26",
         "Hash": 225274807
       }
+    ],
+    "VehicleModels": [
+      "marshall"
     ]
   },
   {
@@ -1606,7 +2194,10 @@
     "Type": "MKT_SPORT",
     "VisibleModsCount": 30,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "buffalo3"
+    ]
   },
   {
     "Id": 151,
@@ -1615,7 +2206,10 @@
     "Type": "MKT_SPORT",
     "VisibleModsCount": 12,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "dominator2"
+    ]
   },
   {
     "Id": 152,
@@ -1624,7 +2218,10 @@
     "Type": "MKT_SPORT",
     "VisibleModsCount": 38,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "dukes"
+    ]
   },
   {
     "Id": 153,
@@ -1633,7 +2230,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 198,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "buccaneer2"
+    ]
   },
   {
     "Id": 154,
@@ -1642,7 +2242,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 11,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "blista2"
+    ]
   },
   {
     "Id": 155,
@@ -1651,7 +2254,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 11,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "blista3"
+    ]
   },
   {
     "Id": 156,
@@ -1660,7 +2266,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 18,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "jester2"
+    ]
   },
   {
     "Id": 157,
@@ -1669,7 +2278,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 20,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "massacro2"
+    ]
   },
   {
     "Id": 158,
@@ -1678,7 +2290,10 @@
     "Type": "MKT_SUV",
     "VisibleModsCount": 15,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "ratloader2"
+    ]
   },
   {
     "Id": 159,
@@ -1687,7 +2302,11 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 0,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "slamvan",
+      "slamvan2"
+    ]
   },
   {
     "Id": 160,
@@ -1696,7 +2315,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 16,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "osiris"
+    ]
   },
   {
     "Id": 161,
@@ -1705,7 +2327,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 11,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "t20"
+    ]
   },
   {
     "Id": 162,
@@ -1714,7 +2339,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 8,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "vindicator"
+    ]
   },
   {
     "Id": 163,
@@ -1723,7 +2351,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 8,
     "StatModsCount": 78,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "brawler"
+    ]
   },
   {
     "Id": 164,
@@ -1732,7 +2363,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 10,
     "StatModsCount": 76,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "virgo"
+    ]
   },
   {
     "Id": 165,
@@ -1741,7 +2375,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 30,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "deluxo"
+    ]
   },
   {
     "Id": 166,
@@ -1750,7 +2387,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 13,
     "StatModsCount": 76,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "coquette3"
+    ]
   },
   {
     "Id": 167,
@@ -1796,6 +2436,9 @@
         "Name": "WINDSOR_LV9",
         "Hash": 151382633
       }
+    ],
+    "VehicleModels": [
+      "windsor"
     ]
   },
   {
@@ -1805,7 +2448,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 9,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "feltzer3"
+    ]
   },
   {
     "Id": 169,
@@ -1814,7 +2460,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 80,
     "StatModsCount": 76,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "savestra"
+    ]
   },
   {
     "Id": 170,
@@ -1823,7 +2472,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 176,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "faction2"
+    ]
   },
   {
     "Id": 171,
@@ -1869,6 +2521,9 @@
         "Name": "SLVAN3_SIGN8",
         "Hash": 2380985567
       }
+    ],
+    "VehicleModels": [
+      "slamvan3"
     ]
   },
   {
@@ -1878,7 +2533,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 204,
     "StatModsCount": 81,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "sabregt2"
+    ]
   },
   {
     "Id": 173,
@@ -1887,7 +2545,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 2,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "gargoyle"
+    ]
   },
   {
     "Id": 174,
@@ -1896,7 +2557,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 2,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "bf400"
+    ]
   },
   {
     "Id": 175,
@@ -1905,7 +2569,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 2,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "cliffhanger"
+    ]
   },
   {
     "Id": 176,
@@ -1914,7 +2581,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 2,
     "StatModsCount": 78,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "trophytruck2"
+    ]
   },
   {
     "Id": 177,
@@ -1923,7 +2593,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 2,
     "StatModsCount": 78,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "rallytruck"
+    ]
   },
   {
     "Id": 178,
@@ -1932,7 +2605,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 4,
     "StatModsCount": 76,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "le7b"
+    ]
   },
   {
     "Id": 179,
@@ -1941,7 +2617,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 14,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "sheava"
+    ]
   },
   {
     "Id": 180,
@@ -1950,7 +2629,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 74,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "zombiea"
+    ]
   },
   {
     "Id": 181,
@@ -1959,7 +2641,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 74,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "zombieb"
+    ]
   },
   {
     "Id": 182,
@@ -1968,7 +2653,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 55,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "avarus"
+    ]
   },
   {
     "Id": 183,
@@ -1977,7 +2665,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 29,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "defiler"
+    ]
   },
   {
     "Id": 185,
@@ -1986,7 +2677,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 30,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "nightblade"
+    ]
   },
   {
     "Id": 186,
@@ -1995,7 +2689,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 79,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "daemon2"
+    ]
   },
   {
     "Id": 187,
@@ -2004,7 +2701,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 59,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "ratbike"
+    ]
   },
   {
     "Id": 188,
@@ -2013,7 +2713,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 61,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "chimera"
+    ]
   },
   {
     "Id": 189,
@@ -2022,7 +2725,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 77,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "wolfsbane"
+    ]
   },
   {
     "Id": 190,
@@ -2031,7 +2737,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 34,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "vortex"
+    ]
   },
   {
     "Id": 191,
@@ -2040,7 +2749,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 26,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "hakuchou2"
+    ]
   },
   {
     "Id": 192,
@@ -2049,7 +2761,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 38,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "blazer4"
+    ]
   },
   {
     "Id": 193,
@@ -2058,7 +2773,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 25,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "manchez"
+    ]
   },
   {
     "Id": 194,
@@ -2067,7 +2785,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 53,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "sanctus"
+    ]
   },
   {
     "Id": 195,
@@ -2076,7 +2797,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 31,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "esskey"
+    ]
   },
   {
     "Id": 196,
@@ -2085,7 +2809,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 3,
     "StatModsCount": 74,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "tornado6"
+    ]
   },
   {
     "Id": 197,
@@ -2094,7 +2821,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 81,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "faggio3"
+    ]
   },
   {
     "Id": 198,
@@ -2103,7 +2833,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 17,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "youga2"
+    ]
   },
   {
     "Id": 199,
@@ -2112,7 +2845,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 1,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "shotaro"
+    ]
   },
   {
     "Id": 201,
@@ -2121,7 +2857,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 9,
     "StatModsCount": 76,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "chino"
+    ]
   },
   {
     "Id": 202,
@@ -2130,7 +2869,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 8,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "fcr"
+    ]
   },
   {
     "Id": 204,
@@ -2139,7 +2881,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 82,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "fcr2"
+    ]
   },
   {
     "Id": 205,
@@ -2148,7 +2893,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 46,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "penetrator"
+    ]
   },
   {
     "Id": 206,
@@ -2157,7 +2905,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 12,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "nero"
+    ]
   },
   {
     "Id": 207,
@@ -2166,7 +2917,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 53,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "italigtb"
+    ]
   },
   {
     "Id": 208,
@@ -2175,7 +2929,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 125,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "italigtb2"
+    ]
   },
   {
     "Id": 209,
@@ -2184,7 +2941,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 96,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "diablous2"
+    ]
   },
   {
     "Id": 210,
@@ -2193,7 +2953,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 22,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "tempesta"
+    ]
   },
   {
     "Id": 211,
@@ -2202,7 +2965,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 200,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "elegy"
+    ]
   },
   {
     "Id": 212,
@@ -2211,7 +2977,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 70,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "nero2"
+    ]
   },
   {
     "Id": 213,
@@ -2220,7 +2989,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 141,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "comet3"
+    ]
   },
   {
     "Id": 214,
@@ -2229,7 +3001,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 115,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "SPECTER2"
+    ]
   },
   {
     "Id": 215,
@@ -2238,7 +3013,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 0,
     "StatModsCount": 16,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "voltic2"
+    ]
   },
   {
     "Id": 216,
@@ -2247,7 +3025,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 5,
     "StatModsCount": 76,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "SPECTER"
+    ]
   },
   {
     "Id": 217,
@@ -2256,7 +3037,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 34,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "ruston"
+    ]
   },
   {
     "Id": 218,
@@ -2265,7 +3049,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 49,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "cheetah2"
+    ]
   },
   {
     "Id": 219,
@@ -2274,7 +3061,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 50,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "tampa3"
+    ]
   },
   {
     "Id": 220,
@@ -2283,7 +3073,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 64,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "ardent"
+    ]
   },
   {
     "Id": 221,
@@ -2292,7 +3085,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 31,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "infernus2"
+    ]
   },
   {
     "Id": 222,
@@ -2301,7 +3097,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 45,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "insurgent3"
+    ]
   },
   {
     "Id": 223,
@@ -2310,7 +3109,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 83,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "gp1"
+    ]
   },
   {
     "Id": 224,
@@ -2319,7 +3121,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 32,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "torero"
+    ]
   },
   {
     "Id": 225,
@@ -2328,7 +3133,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 35,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "turismo2"
+    ]
   },
   {
     "Id": 226,
@@ -2337,7 +3145,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 42,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "apc"
+    ]
   },
   {
     "Id": 227,
@@ -2346,7 +3157,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 45,
     "StatModsCount": 70,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "halftrack"
+    ]
   },
   {
     "Id": 228,
@@ -2355,7 +3169,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 47,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "dune3"
+    ]
   },
   {
     "Id": 229,
@@ -2364,7 +3181,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 40,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "chernobog"
+    ]
   },
   {
     "Id": 230,
@@ -2373,7 +3193,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 50,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "technical3"
+    ]
   },
   {
     "Id": 232,
@@ -2382,7 +3205,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 48,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "oppressor"
+    ]
   },
   {
     "Id": 233,
@@ -2391,7 +3217,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 42,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "trailersmall2"
+    ]
   },
   {
     "Id": 234,
@@ -2400,7 +3229,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 11,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "trailerlarge"
+    ]
   },
   {
     "Id": 235,
@@ -2409,7 +3241,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 73,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "nightshark"
+    ]
   },
   {
     "Id": 236,
@@ -2418,7 +3253,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 22,
     "StatModsCount": 78,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "vagner"
+    ]
   },
   {
     "Id": 237,
@@ -2427,7 +3265,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 85,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "xa21"
+    ]
   },
   {
     "Id": 238,
@@ -2436,7 +3277,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 11,
     "StatModsCount": 12,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "havok"
+    ]
   },
   {
     "Id": 239,
@@ -2445,7 +3289,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 19,
     "StatModsCount": 12,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "rogue"
+    ]
   },
   {
     "Id": 240,
@@ -2454,7 +3301,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 17,
     "StatModsCount": 12,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "mogul"
+    ]
   },
   {
     "Id": 241,
@@ -2463,7 +3313,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 18,
     "StatModsCount": 13,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "starling"
+    ]
   },
   {
     "Id": 242,
@@ -2472,7 +3325,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 10,
     "StatModsCount": 12,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "alphaz1"
+    ]
   },
   {
     "Id": 243,
@@ -2481,7 +3337,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 19,
     "StatModsCount": 12,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "bombushka"
+    ]
   },
   {
     "Id": 244,
@@ -2490,7 +3349,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 17,
     "StatModsCount": 12,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "tula"
+    ]
   },
   {
     "Id": 245,
@@ -2499,7 +3361,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 15,
     "StatModsCount": 12,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "seabreeze"
+    ]
   },
   {
     "Id": 246,
@@ -2508,7 +3373,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 13,
     "StatModsCount": 12,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "pyro"
+    ]
   },
   {
     "Id": 247,
@@ -2517,7 +3385,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 15,
     "StatModsCount": 12,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "hunter"
+    ]
   },
   {
     "Id": 248,
@@ -2526,7 +3397,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 14,
     "StatModsCount": 12,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "nokota"
+    ]
   },
   {
     "Id": 249,
@@ -2535,7 +3409,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 24,
     "StatModsCount": 12,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "molotok"
+    ]
   },
   {
     "Id": 250,
@@ -2544,7 +3421,34 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 0,
     "StatModsCount": 0,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "supervolito",
+      "supervolito2",
+      "vestra",
+      "nimbus",
+      "volatus",
+      "velum2",
+      "savage",
+      "hydra",
+      "valkyrie",
+      "luxor2",
+      "Miljet",
+      "besra",
+      "dodo",
+      "buzzard",
+      "titan",
+      "annihilator",
+      "duster",
+      "luxor",
+      "Frogger",
+      "maverick",
+      "Cargobob",
+      "mammatus",
+      "velum",
+      "cargobob2",
+      "Lazer"
+    ]
   },
   {
     "Id": 251,
@@ -2553,7 +3457,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 4,
     "StatModsCount": 0,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "cuban800"
+    ]
   },
   {
     "Id": 252,
@@ -2562,7 +3469,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 31,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "retinue"
+    ]
   },
   {
     "Id": 253,
@@ -2571,7 +3481,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 15,
     "StatModsCount": 12,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "microlight"
+    ]
   },
   {
     "Id": 254,
@@ -2580,7 +3493,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 25,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "cyclone"
+    ]
   },
   {
     "Id": 256,
@@ -2589,7 +3505,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 47,
     "StatModsCount": 12,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "akula"
+    ]
   },
   {
     "Id": 257,
@@ -2598,7 +3517,11 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 48,
     "StatModsCount": 12,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "avenger",
+      "avenger2"
+    ]
   },
   {
     "Id": 258,
@@ -2607,7 +3530,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 63,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "yosemite"
+    ]
   },
   {
     "Id": 259,
@@ -2616,7 +3542,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 41,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "riot2"
+    ]
   },
   {
     "Id": 260,
@@ -2625,7 +3554,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 45,
     "StatModsCount": 12,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "thruster"
+    ]
   },
   {
     "Id": 261,
@@ -2634,7 +3566,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 30,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "neon"
+    ]
   },
   {
     "Id": 262,
@@ -2643,7 +3578,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 102,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "comet4"
+    ]
   },
   {
     "Id": 263,
@@ -2652,7 +3590,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 169,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "barrage"
+    ]
   },
   {
     "Id": 264,
@@ -2661,7 +3602,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 15,
     "StatModsCount": 76,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "gt500"
+    ]
   },
   {
     "Id": 265,
@@ -2670,7 +3614,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 44,
     "StatModsCount": 70,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "khanjali"
+    ]
   },
   {
     "Id": 266,
@@ -2679,7 +3626,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 87,
     "StatModsCount": 76,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "sentinel3"
+    ]
   },
   {
     "Id": 267,
@@ -2688,7 +3638,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 15,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "streiter"
+    ]
   },
   {
     "Id": 268,
@@ -2697,7 +3650,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 23,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "hermes"
+    ]
   },
   {
     "Id": 269,
@@ -2706,7 +3662,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 41,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "revolter"
+    ]
   },
   {
     "Id": 270,
@@ -2715,7 +3674,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 54,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "autarch"
+    ]
   },
   {
     "Id": 272,
@@ -2724,7 +3686,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 31,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "hustler"
+    ]
   },
   {
     "Id": 273,
@@ -2733,7 +3698,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 51,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "riata"
+    ]
   },
   {
     "Id": 274,
@@ -2742,7 +3710,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 46,
     "StatModsCount": 76,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "pariah"
+    ]
   },
   {
     "Id": 276,
@@ -2751,7 +3722,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 163,
     "StatModsCount": 76,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "z190"
+    ]
   },
   {
     "Id": 277,
@@ -2760,7 +3734,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 23,
     "StatModsCount": 76,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "sc1"
+    ]
   },
   {
     "Id": 278,
@@ -2769,7 +3746,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 44,
     "StatModsCount": 76,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "viseris"
+    ]
   },
   {
     "Id": 279,
@@ -2778,7 +3758,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 27,
     "StatModsCount": 76,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "comet5"
+    ]
   },
   {
     "Id": 280,
@@ -2787,7 +3770,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 18,
     "StatModsCount": 74,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "raiden"
+    ]
   },
   {
     "Id": 281,
@@ -2796,7 +3782,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 16,
     "StatModsCount": 12,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "volatol"
+    ]
   },
   {
     "Id": 282,
@@ -2805,7 +3794,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 65,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "kamacho"
+    ]
   },
   {
     "Id": 283,
@@ -2814,7 +3806,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 42,
     "StatModsCount": 78,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "gb200"
+    ]
   },
   {
     "Id": 284,
@@ -2823,7 +3818,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 53,
     "StatModsCount": 78,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "fagaloa"
+    ]
   },
   {
     "Id": 285,
@@ -2832,7 +3830,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 47,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "michelli"
+    ]
   },
   {
     "Id": 286,
@@ -2841,7 +3842,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 23,
     "StatModsCount": 76,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "ellie"
+    ]
   },
   {
     "Id": 287,
@@ -2850,7 +3854,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 102,
     "StatModsCount": 76,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "issi3"
+    ]
   },
   {
     "Id": 290,
@@ -2859,7 +3866,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 30,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "hotring"
+    ]
   },
   {
     "Id": 291,
@@ -2868,7 +3878,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 32,
     "StatModsCount": 70,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "tezeract"
+    ]
   },
   {
     "Id": 292,
@@ -2877,7 +3890,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 21,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "caracara"
+    ]
   },
   {
     "Id": 293,
@@ -2886,7 +3902,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 48,
     "StatModsCount": 78,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "flashgt"
+    ]
   },
   {
     "Id": 294,
@@ -2895,7 +3914,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 52,
     "StatModsCount": 78,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "cheburek"
+    ]
   },
   {
     "Id": 295,
@@ -2904,7 +3926,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 2,
     "StatModsCount": 78,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "seasparrow"
+    ]
   },
   {
     "Id": 296,
@@ -2913,7 +3938,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 104,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "dominator3"
+    ]
   },
   {
     "Id": 297,
@@ -2922,7 +3950,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 8,
     "StatModsCount": 76,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "tyrant"
+    ]
   },
   {
     "Id": 298,
@@ -2931,7 +3962,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 38,
     "StatModsCount": 76,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "taipan"
+    ]
   },
   {
     "Id": 299,
@@ -2940,7 +3974,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 21,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "entity2"
+    ]
   },
   {
     "Id": 300,
@@ -2949,7 +3986,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 66,
     "StatModsCount": 78,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "jester3"
+    ]
   },
   {
     "Id": 301,
@@ -2958,7 +3998,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 39,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "pounder2"
+    ]
   },
   {
     "Id": 302,
@@ -2967,7 +4010,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 37,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "mule4"
+    ]
   },
   {
     "Id": 303,
@@ -2976,7 +4022,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 37,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "speedo4"
+    ]
   },
   {
     "Id": 304,
@@ -2985,7 +4034,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 22,
     "StatModsCount": 0,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "blimp3"
+    ]
   },
   {
     "Id": 305,
@@ -2994,7 +4046,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 48,
     "StatModsCount": 76,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "swinger"
+    ]
   },
   {
     "Id": 306,
@@ -3003,7 +4058,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 47,
     "StatModsCount": 76,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "patriot2"
+    ]
   },
   {
     "Id": 307,
@@ -3012,7 +4070,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 115,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "menacer"
+    ]
   },
   {
     "Id": 308,
@@ -3021,7 +4082,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 17,
     "StatModsCount": 12,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "strikeforce"
+    ]
   },
   {
     "Id": 309,
@@ -3030,7 +4094,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 35,
     "StatModsCount": 12,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "oppressor2"
+    ]
   },
   {
     "Id": 310,
@@ -3039,7 +4106,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 10,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "stafford"
+    ]
   },
   {
     "Id": 311,
@@ -3048,7 +4118,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 52,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "freecrawler"
+    ]
   },
   {
     "Id": 312,
@@ -3057,7 +4130,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 40,
     "StatModsCount": 76,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "patriot"
+    ]
   },
   {
     "Id": 313,
@@ -3066,7 +4142,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 10,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "pbus2"
+    ]
   },
   {
     "Id": 314,
@@ -3075,7 +4154,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 10,
     "StatModsCount": 74,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "scramjet"
+    ]
   },
   {
     "Id": 315,
@@ -3084,7 +4166,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 32,
     "StatModsCount": 79,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "impaler"
+    ]
   },
   {
     "Id": 316,
@@ -3093,7 +4178,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 41,
     "StatModsCount": 74,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "deveste"
+    ]
   },
   {
     "Id": 317,
@@ -3102,7 +4190,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 35,
     "StatModsCount": 79,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "clique"
+    ]
   },
   {
     "Id": 318,
@@ -3111,7 +4202,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 75,
     "StatModsCount": 70,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "scarab"
+    ]
   },
   {
     "Id": 319,
@@ -3120,7 +4214,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 84,
     "StatModsCount": 79,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "toros"
+    ]
   },
   {
     "Id": 320,
@@ -3129,7 +4226,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 74,
     "StatModsCount": 79,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "schlagen"
+    ]
   },
   {
     "Id": 321,
@@ -3138,7 +4238,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 57,
     "StatModsCount": 79,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "deviant"
+    ]
   },
   {
     "Id": 322,
@@ -3147,7 +4250,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 57,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "vamos"
+    ]
   },
   {
     "Id": 324,
@@ -3156,7 +4262,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 39,
     "StatModsCount": 79,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "tulip"
+    ]
   },
   {
     "Id": 325,
@@ -3165,7 +4274,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 48,
     "StatModsCount": 74,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "impaler2"
+    ]
   },
   {
     "Id": 326,
@@ -3174,7 +4286,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 51,
     "StatModsCount": 79,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "dominator4"
+    ]
   },
   {
     "Id": 327,
@@ -3183,7 +4298,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 68,
     "StatModsCount": 79,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "italigto"
+    ]
   },
   {
     "Id": 328,
@@ -3192,7 +4310,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 54,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "imperator"
+    ]
   },
   {
     "Id": 329,
@@ -3201,7 +4322,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 61,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "bruiser"
+    ]
   },
   {
     "Id": 330,
@@ -3210,7 +4334,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 63,
     "StatModsCount": 79,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "cerberus"
+    ]
   },
   {
     "Id": 331,
@@ -3219,7 +4346,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 16,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "deathbike"
+    ]
   },
   {
     "Id": 332,
@@ -3228,7 +4358,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 81,
     "StatModsCount": 79,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "issi4"
+    ]
   },
   {
     "Id": 334,
@@ -3237,7 +4370,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 34,
     "StatModsCount": 70,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "rcbandito"
+    ]
   },
   {
     "Id": 335,
@@ -3246,7 +4382,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 48,
     "StatModsCount": 74,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "zr380"
+    ]
   },
   {
     "Id": 336,
@@ -3255,7 +4394,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 45,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "slamvan4"
+    ]
   },
   {
     "Id": 338,
@@ -3264,7 +4406,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 42,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "monster3"
+    ]
   },
   {
     "Id": 339,
@@ -3273,7 +4418,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 55,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "imperator2"
+    ]
   },
   {
     "Id": 340,
@@ -3282,7 +4430,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 56,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "brutus"
+    ]
   },
   {
     "Id": 341,
@@ -3291,7 +4442,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 49,
     "StatModsCount": 79,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "dominator5"
+    ]
   },
   {
     "Id": 342,
@@ -3300,7 +4454,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 54,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "imperator3"
+    ]
   },
   {
     "Id": 343,
@@ -3309,7 +4466,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 48,
     "StatModsCount": 74,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "impaler4"
+    ]
   },
   {
     "Id": 344,
@@ -3318,7 +4478,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 16,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "deathbike3"
+    ]
   },
   {
     "Id": 345,
@@ -3327,7 +4490,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 33,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "deathbike2"
+    ]
   },
   {
     "Id": 346,
@@ -3336,7 +4502,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 51,
     "StatModsCount": 79,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "dominator6"
+    ]
   },
   {
     "Id": 347,
@@ -3345,7 +4514,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 68,
     "StatModsCount": 74,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "zr3802"
+    ]
   },
   {
     "Id": 348,
@@ -3354,7 +4526,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 63,
     "StatModsCount": 74,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "cerberus3"
+    ]
   },
   {
     "Id": 349,
@@ -3363,7 +4538,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 47,
     "StatModsCount": 74,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "zr3803"
+    ]
   },
   {
     "Id": 350,
@@ -3372,7 +4550,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 80,
     "StatModsCount": 79,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "issi6"
+    ]
   },
   {
     "Id": 351,
@@ -3381,7 +4562,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 67,
     "StatModsCount": 74,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "cerberus2"
+    ]
   },
   {
     "Id": 352,
@@ -3390,7 +4574,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 45,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "slamvan6"
+    ]
   },
   {
     "Id": 353,
@@ -3399,7 +4586,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 42,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "monster5"
+    ]
   },
   {
     "Id": 354,
@@ -3408,7 +4598,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 52,
     "StatModsCount": 79,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "impaler3"
+    ]
   },
   {
     "Id": 355,
@@ -3417,7 +4610,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 75,
     "StatModsCount": 70,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "scarab3"
+    ]
   },
   {
     "Id": 356,
@@ -3426,7 +4622,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 56,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "brutus3"
+    ]
   },
   {
     "Id": 357,
@@ -3435,7 +4634,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 61,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "bruiser3"
+    ]
   },
   {
     "Id": 358,
@@ -3444,7 +4646,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 51,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "slamvan5"
+    ]
   },
   {
     "Id": 359,
@@ -3453,7 +4658,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 63,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "bruiser2"
+    ]
   },
   {
     "Id": 360,
@@ -3462,7 +4670,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 50,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "monster4"
+    ]
   },
   {
     "Id": 361,
@@ -3471,7 +4682,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 93,
     "StatModsCount": 70,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "scarab2"
+    ]
   },
   {
     "Id": 362,
@@ -3480,7 +4694,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 105,
     "StatModsCount": 79,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "issi5"
+    ]
   },
   {
     "Id": 363,
@@ -3489,7 +4706,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 53,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "brutus2"
+    ]
   },
   {
     "Id": 364,
@@ -3498,7 +4718,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 66,
     "StatModsCount": 78,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "zion3"
+    ]
   },
   {
     "Id": 365,
@@ -3507,7 +4730,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 82,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "hellion"
+    ]
   },
   {
     "Id": 366,
@@ -3516,7 +4742,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 70,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "thrax"
+    ]
   },
   {
     "Id": 367,
@@ -3525,7 +4754,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 63,
     "StatModsCount": 78,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "issi7"
+    ]
   },
   {
     "Id": 368,
@@ -3534,7 +4766,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 56,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "locust"
+    ]
   },
   {
     "Id": 369,
@@ -3543,7 +4778,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 31,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "zorrusso"
+    ]
   },
   {
     "Id": 370,
@@ -3552,7 +4790,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 45,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "Novak"
+    ]
   },
   {
     "Id": 371,
@@ -3561,7 +4802,10 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 70,
     "StatModsCount": 78,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "Dynasty"
+    ]
   },
   {
     "Id": 372,
@@ -3570,7 +4814,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 49,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "nebula"
+    ]
   },
   {
     "Id": 373,
@@ -3579,7 +4826,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 59,
     "StatModsCount": 79,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "drafter"
+    ]
   },
   {
     "Id": 374,
@@ -3588,7 +4838,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 72,
     "StatModsCount": 78,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "gauntlet3"
+    ]
   },
   {
     "Id": 375,
@@ -3597,7 +4850,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 49,
     "StatModsCount": 79,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "caracara2"
+    ]
   },
   {
     "Id": 376,
@@ -3606,7 +4862,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 26,
     "StatModsCount": 74,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "s80"
+    ]
   },
   {
     "Id": 377,
@@ -3615,7 +4874,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 74,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "gauntlet4"
+    ]
   },
   {
     "Id": 378,
@@ -3624,7 +4886,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 33,
     "StatModsCount": 74,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "krieger"
+    ]
   },
   {
     "Id": 379,
@@ -3633,7 +4898,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 85,
     "StatModsCount": 74,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "neo"
+    ]
   },
   {
     "Id": 380,
@@ -3642,7 +4910,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 48,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "peyote2"
+    ]
   },
   {
     "Id": 381,
@@ -3651,7 +4922,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 66,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "emerus"
+    ]
   },
   {
     "Id": 382,
@@ -3660,7 +4934,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 14,
     "StatModsCount": 74,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "rrocket"
+    ]
   },
   {
     "Id": 383,
@@ -3669,7 +4946,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 44,
     "StatModsCount": 78,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "jugular"
+    ]
   },
   {
     "Id": 384,
@@ -3678,7 +4958,11 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 60,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "paragon",
+      "paragon2"
+    ]
   },
   {
     "Id": 385,
@@ -3687,7 +4971,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 131,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "kanjo"
+    ]
   },
   {
     "Id": 386,
@@ -3696,7 +4983,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 116,
     "StatModsCount": 76,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "imorgon"
+    ]
   },
   {
     "Id": 387,
@@ -3705,7 +4995,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 82,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "asbo"
+    ]
   },
   {
     "Id": 388,
@@ -3714,7 +5007,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 82,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "rebla"
+    ]
   },
   {
     "Id": 389,
@@ -3723,7 +5019,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 105,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "komoda"
+    ]
   },
   {
     "Id": 390,
@@ -3732,7 +5031,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 90,
     "StatModsCount": 78,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "Sugoi"
+    ]
   },
   {
     "Id": 401,
@@ -3741,7 +5043,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 71,
     "StatModsCount": 76,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "vstr"
+    ]
   },
   {
     "Id": 402,
@@ -3750,7 +5055,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 89,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "sultan2"
+    ]
   },
   {
     "Id": 403,
@@ -3759,7 +5067,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 78,
     "StatModsCount": 72,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "zhaba"
+    ]
   },
   {
     "Id": 404,
@@ -3768,7 +5079,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 3,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "jb7002"
+    ]
   },
   {
     "Id": 405,
@@ -3777,7 +5091,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 41,
     "StatModsCount": 75,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "formula"
+    ]
   },
   {
     "Id": 406,
@@ -3786,7 +5103,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 74,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "everon"
+    ]
   },
   {
     "Id": 407,
@@ -3795,7 +5115,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 20,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "outlaw"
+    ]
   },
   {
     "Id": 408,
@@ -3804,7 +5127,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 20,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "Stryder"
+    ]
   },
   {
     "Id": 409,
@@ -3813,7 +5139,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 13,
     "StatModsCount": 71,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "minitank"
+    ]
   },
   {
     "Id": 410,
@@ -3822,7 +5151,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 53,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "retinue2"
+    ]
   },
   {
     "Id": 411,
@@ -3831,7 +5163,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 75,
     "StatModsCount": 75,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "furia"
+    ]
   },
   {
     "Id": 412,
@@ -3840,7 +5175,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 52,
     "StatModsCount": 73,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "vagrant"
+    ]
   },
   {
     "Id": 413,
@@ -3849,7 +5187,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 34,
     "StatModsCount": 75,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "formula2"
+    ]
   },
   {
     "Id": 414,
@@ -3858,7 +5199,10 @@
     "Type": "MKT_SPECIAL",
     "VisibleModsCount": 60,
     "StatModsCount": 77,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": [
+      "yosemite2"
+    ]
   },
   {
     "Id": 999,
@@ -3867,6 +5211,7 @@
     "Type": "MKT_STANDARD",
     "VisibleModsCount": 0,
     "StatModsCount": 81,
-    "Liveries": []
+    "Liveries": [],
+    "VehicleModels": []
   }
 ]

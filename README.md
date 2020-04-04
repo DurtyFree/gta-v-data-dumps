@@ -17,12 +17,12 @@ If you are in search for an easy way to browse those GTA V data ingame, feel fre
 - (Walking) Movement Clipsets (movementClipsetsWalkingCompact.json) **207** movement clipsets in total (Usable with SET PED MOVEMENT CLIPSET native)
 - (Navigation) Nodes (nodes.json) **259** node cells with **77991** nodes in total (Mostly useful for vehicle navigation, see navigation meshes dump for ped navigation data)
 - Navigation Meshes (navigationMeshes.msgpack) **4404** navmeshes with **6384911** polygons in total (See navigationmesh.md for the messagepack model)
-- Ped Overlay Collections (pedOverlayCollections.json) **30** ped overlay collections with **3223** overlays in total (Usable tattos/badges with ped decoration native)
+- Ped Overlay Collections (pedOverlayCollections.json) **29** ped overlay collections with **2676** overlays in total (Usable tattos/badges with ped decoration native)
 - Timecycle Modifiers (timecycleModifiers.json) **2806** timecycle modifiers in total (Usable with TIMECYCLE MODIFIER natives)
 - Explosion Types (Names) (explosionTypesCompact.json) **74** explosion types in total (Usable with ADD EXPLOSION native)
 - Cam Shake Types (Names) (camShakeTypesCompact.json) **21** cam shake types in total (Usable with SHAKE CAM & SHAKE GAMEPLAY cam natives)
 - Audio / Sound names & ref names (soundNames.json) **1906** audio names from a total of **62** unique audio refs (Usable with PLAY_SOUND natives)
-- Pickup Types (Names) (pickupTypes.json) **150** pickup types in total (Usable with CREATE PICKUP natives)
+- Pickup Types (Names) (pickupTypes.json) **113** pickup types in total (Usable with CREATE PICKUP natives)
 - Vehicle Mod Kits (vehicleModKits.json) **394** vehicle mod kits in total (Usable with SET_VEHICLE_MOD_KIT & SET_VEHICLE_LIVERY natives)
 ---
 ## Please create an issue if you have any problems with the data, so I can improve my generator. You are also welcome to create issues for dumps you would like to see.

@@ -1295,9 +1295,9 @@
       "ent_amb_shower_steam",
       "scr_sh_lighter_flame",
       "scr_sh_cig_exhale_mouth",
-      "scr_mp_int_fireplace_sml",
       "scr_sh_lighter_sparks",
-      "scr_sh_bong_smoke"
+      "scr_sh_bong_smoke",
+      "scr_mp_int_fireplace_sml"
     ]
   },
   {
@@ -1847,6 +1847,16 @@
     ]
   },
   {
+    "DictionaryName": "cut_humane_key",
+    "EffectNames": [
+      "bul_concrete",
+      "bul_carmetal",
+      "blood_entry",
+      "eject_pistol",
+      "muz_pistol"
+    ]
+  },
+  {
     "DictionaryName": "scr_ie_export",
     "EffectNames": [
       "scr_ie_export_fire_ring",
@@ -1909,7 +1919,8 @@
   {
     "DictionaryName": "weap_ie_vehicle_mg",
     "EffectNames": [
-      "muz_ie_vehicle_mg"
+      "muz_ie_vehicle_mg",
+      "bullet_tracer_ie_vehicle_mg"
     ]
   },
   {
@@ -1975,7 +1986,6 @@
   {
     "DictionaryName": "weap_sm_bom",
     "EffectNames": [
-      "proj_rpg_barrage_trail",
       "veh_vent_plane_bom",
       "eject_sm_bom_twinmg",
       "muz_sm_bom_cannon",

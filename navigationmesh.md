@@ -150,7 +150,7 @@ public class NavigationMeshPoly
 
     [Key(27)]
     public List<WorldVector3> Vertices { get; set; }
-    
+
     [Key(28)]
     public List<NavigationMeshPolyEdge> Edges { get; set; }
 }

@@ -1,0 +1,3872 @@
+[
+  {
+    "Id": 0,
+    "Name": "0_default_modkit",
+    "DlcName": null,
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 0,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 1,
+    "Name": "0_cvtgeabox_modkit",
+    "DlcName": null,
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 0,
+    "StatModsCount": 74,
+    "Liveries": []
+  },
+  {
+    "Id": 2,
+    "Name": "0_hiend_modkit",
+    "DlcName": null,
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 0,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 3,
+    "Name": "0_sport_modkit",
+    "DlcName": null,
+    "Type": "MKT_SPORT",
+    "VisibleModsCount": 0,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 4,
+    "Name": "0_suv_modkit",
+    "DlcName": null,
+    "Type": "MKT_SUV",
+    "VisibleModsCount": 0,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 5,
+    "Name": "0_lowcar_modkit",
+    "DlcName": null,
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 0,
+    "StatModsCount": 76,
+    "Liveries": []
+  },
+  {
+    "Id": 6,
+    "Name": "0_default_no_lower",
+    "DlcName": null,
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 0,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 7,
+    "Name": "0_bike_modkit",
+    "DlcName": null,
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 0,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 8,
+    "Name": "1_dubsta_modkit",
+    "DlcName": null,
+    "Type": "MKT_SUV",
+    "VisibleModsCount": 23,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 9,
+    "Name": "2_futo_modkit",
+    "DlcName": null,
+    "Type": "MKT_SPORT",
+    "VisibleModsCount": 30,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 10,
+    "Name": "3_feltzer2_modkit",
+    "DlcName": null,
+    "Type": "MKT_SPORT",
+    "VisibleModsCount": 6,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 11,
+    "Name": "4_akuma_modkit",
+    "DlcName": null,
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 2,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 12,
+    "Name": "5_tailgater_modkit",
+    "DlcName": null,
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 36,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 13,
+    "Name": "6_buffalo_modkit",
+    "DlcName": null,
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 5,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 14,
+    "Name": "7_bodhi2_modkit",
+    "DlcName": null,
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 26,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 15,
+    "Name": "8_cavalcade_modkit",
+    "DlcName": null,
+    "Type": "MKT_SUV",
+    "VisibleModsCount": 7,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 16,
+    "Name": "9_police3_modkit",
+    "DlcName": null,
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 13,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 17,
+    "Name": "10_barbarian_modkit",
+    "DlcName": null,
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 5,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 18,
+    "Name": "11_ninef2_modkit",
+    "DlcName": null,
+    "Type": "MKT_SPORT",
+    "VisibleModsCount": 9,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 19,
+    "Name": "12_daemon_modkit",
+    "DlcName": null,
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 8,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 20,
+    "Name": "13_ztype_modkit",
+    "DlcName": null,
+    "Type": "MKT_SPORT",
+    "VisibleModsCount": 5,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 21,
+    "Name": "14_double_modkit",
+    "DlcName": null,
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 2,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 22,
+    "Name": "15_baller_modkit",
+    "DlcName": null,
+    "Type": "MKT_SUV",
+    "VisibleModsCount": 5,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 23,
+    "Name": "16_youga_modkit",
+    "DlcName": null,
+    "Type": "MKT_SUV",
+    "VisibleModsCount": 8,
+    "StatModsCount": 76,
+    "Liveries": []
+  },
+  {
+    "Id": 24,
+    "Name": "17_asea_modkit",
+    "DlcName": null,
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 13,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 25,
+    "Name": "18_buccaneer_modkit",
+    "DlcName": null,
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 9,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 26,
+    "Name": "19_surge_modkit",
+    "DlcName": null,
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 4,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 27,
+    "Name": "20_ratloader_modkit",
+    "DlcName": null,
+    "Type": "MKT_SUV",
+    "VisibleModsCount": 21,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 28,
+    "Name": "21_surano_modkit",
+    "DlcName": null,
+    "Type": "MKT_SPORT",
+    "VisibleModsCount": 8,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 29,
+    "Name": "22_jackal_modkit",
+    "DlcName": null,
+    "Type": "MKT_SPORT",
+    "VisibleModsCount": 8,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 30,
+    "Name": "23_dubsta2_modkit",
+    "DlcName": null,
+    "Type": "MKT_SUV",
+    "VisibleModsCount": 9,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 31,
+    "Name": "24_phoenix_modkit",
+    "DlcName": null,
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 12,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 32,
+    "Name": "26_ninef_modkit",
+    "DlcName": null,
+    "Type": "MKT_SPORT",
+    "VisibleModsCount": 6,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 33,
+    "Name": "27_dominator_modkit",
+    "DlcName": null,
+    "Type": "MKT_SPORT",
+    "VisibleModsCount": 12,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 34,
+    "Name": "28_felon_modkit",
+    "DlcName": null,
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 6,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 35,
+    "Name": "29_penumbra_modkit",
+    "DlcName": null,
+    "Type": "MKT_SPORT",
+    "VisibleModsCount": 29,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 36,
+    "Name": "30_blista_modkit",
+    "DlcName": null,
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 5,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 37,
+    "Name": "31_elegy2_modkit",
+    "DlcName": null,
+    "Type": "MKT_SPORT",
+    "VisibleModsCount": 23,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 38,
+    "Name": "32_voltic_modkit",
+    "DlcName": null,
+    "Type": "MKT_SPORT",
+    "VisibleModsCount": 7,
+    "StatModsCount": 74,
+    "Liveries": []
+  },
+  {
+    "Id": 39,
+    "Name": "33_gresley_modkit",
+    "DlcName": null,
+    "Type": "MKT_SUV",
+    "VisibleModsCount": 5,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 40,
+    "Name": "34_issi2_modkit",
+    "DlcName": null,
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 5,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 41,
+    "Name": "35_bjxl_modkit",
+    "DlcName": null,
+    "Type": "MKT_SUV",
+    "VisibleModsCount": 3,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 42,
+    "Name": "36_landstalker_modkit",
+    "DlcName": null,
+    "Type": "MKT_SUV",
+    "VisibleModsCount": 4,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 43,
+    "Name": "37_premier_modkit",
+    "DlcName": null,
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 5,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 44,
+    "Name": "38_ruiner_modkit",
+    "DlcName": null,
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 23,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 45,
+    "Name": "39_sultan_modkit",
+    "DlcName": null,
+    "Type": "MKT_SPORT",
+    "VisibleModsCount": 14,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 46,
+    "Name": "40_serrano_modkit",
+    "DlcName": null,
+    "Type": "MKT_SUV",
+    "VisibleModsCount": 7,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 47,
+    "Name": "42_pcj_modkit",
+    "DlcName": null,
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 9,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 48,
+    "Name": "43_rebel_modkit",
+    "DlcName": null,
+    "Type": "MKT_SUV",
+    "VisibleModsCount": 7,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 49,
+    "Name": "44_fusilade_modkit",
+    "DlcName": null,
+    "Type": "MKT_SPORT",
+    "VisibleModsCount": 10,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 50,
+    "Name": "45_sentinel_modkit",
+    "DlcName": null,
+    "Type": "MKT_SPORT",
+    "VisibleModsCount": 14,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 51,
+    "Name": "46_banshee_modkit",
+    "DlcName": null,
+    "Type": "MKT_SPORT",
+    "VisibleModsCount": 8,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 52,
+    "Name": "47_schafter2_modkit",
+    "DlcName": null,
+    "Type": "MKT_SPORT",
+    "VisibleModsCount": 18,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 53,
+    "Name": "48_khamelion_modkit",
+    "DlcName": null,
+    "Type": "MKT_SPORT",
+    "VisibleModsCount": 8,
+    "StatModsCount": 74,
+    "Liveries": []
+  },
+  {
+    "Id": 54,
+    "Name": "49_primo_modkit",
+    "DlcName": null,
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 11,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 55,
+    "Name": "50_prairie_modkit",
+    "DlcName": null,
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 47,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 56,
+    "Name": "51_comet2_modkit",
+    "DlcName": null,
+    "Type": "MKT_SPORT",
+    "VisibleModsCount": 7,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 57,
+    "Name": "52_vigero_modkit",
+    "DlcName": null,
+    "Type": "MKT_SPORT",
+    "VisibleModsCount": 10,
+    "StatModsCount": 76,
+    "Liveries": []
+  },
+  {
+    "Id": 58,
+    "Name": "53_schwarzer_modkit",
+    "DlcName": null,
+    "Type": "MKT_SPORT",
+    "VisibleModsCount": 17,
+    "StatModsCount": 76,
+    "Liveries": []
+  },
+  {
+    "Id": 59,
+    "Name": "54_sandking_modkit",
+    "DlcName": null,
+    "Type": "MKT_SUV",
+    "VisibleModsCount": 13,
+    "StatModsCount": 78,
+    "Liveries": []
+  },
+  {
+    "Id": 60,
+    "Name": "55_sandking2_modkit",
+    "DlcName": null,
+    "Type": "MKT_SUV",
+    "VisibleModsCount": 13,
+    "StatModsCount": 78,
+    "Liveries": []
+  },
+  {
+    "Id": 61,
+    "Name": "56_sentinel2_modkit",
+    "DlcName": null,
+    "Type": "MKT_SPORT",
+    "VisibleModsCount": 11,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 62,
+    "Name": "57_hotknife_modkit",
+    "DlcName": null,
+    "Type": "MKT_SPORT",
+    "VisibleModsCount": 3,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 63,
+    "Name": "58_bagger_modkit",
+    "DlcName": null,
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 10,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 64,
+    "Name": "59_manana_modkit",
+    "DlcName": null,
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 12,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 65,
+    "Name": "60_tornado_modkit",
+    "DlcName": null,
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 12,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 66,
+    "Name": "61_buffalo2_modkit",
+    "DlcName": null,
+    "Type": "MKT_SPORT",
+    "VisibleModsCount": 30,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 67,
+    "Name": "62_peyote_modkit",
+    "DlcName": null,
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 15,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 68,
+    "Name": "63_entityxf_modkit",
+    "DlcName": null,
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 7,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 69,
+    "Name": "64_coquette_modkit",
+    "DlcName": null,
+    "Type": "MKT_SPORT",
+    "VisibleModsCount": 27,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 70,
+    "Name": "66_cheetah_modkit",
+    "DlcName": null,
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 6,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 71,
+    "Name": "67_sabregt_modkit",
+    "DlcName": null,
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 19,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 72,
+    "Name": "68_oracle2_modkit",
+    "DlcName": null,
+    "Type": "MKT_SPORT",
+    "VisibleModsCount": 3,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 73,
+    "Name": "69_zion_modkit",
+    "DlcName": null,
+    "Type": "MKT_SPORT",
+    "VisibleModsCount": 10,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 74,
+    "Name": "70_zion2_modkit",
+    "DlcName": null,
+    "Type": "MKT_SPORT",
+    "VisibleModsCount": 9,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 75,
+    "Name": "71_intruder_modkit",
+    "DlcName": null,
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 5,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 76,
+    "Name": "72_carbonizzare_modkit",
+    "DlcName": null,
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 4,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 77,
+    "Name": "73_rapidgt_modkit",
+    "DlcName": null,
+    "Type": "MKT_SPORT",
+    "VisibleModsCount": 5,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 78,
+    "Name": "74_vacca_modkit",
+    "DlcName": null,
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 5,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 79,
+    "Name": "75_infernus_modkit",
+    "DlcName": null,
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 3,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 80,
+    "Name": "76_rapidgt2_modkit",
+    "DlcName": null,
+    "Type": "MKT_SPORT",
+    "VisibleModsCount": 4,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 81,
+    "Name": "77_bati2_modkit",
+    "DlcName": null,
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 0,
+    "StatModsCount": 73,
+    "Liveries": [
+      {
+        "Name": "BATI_lV1",
+        "Hash": 639943353
+      },
+      {
+        "Name": "BATI_lV2",
+        "Hash": 939353706
+      },
+      {
+        "Name": "BATI_lV3",
+        "Hash": 3806706744
+      },
+      {
+        "Name": "BATI_lV4",
+        "Hash": 3985691022
+      }
+    ]
+  },
+  {
+    "Id": 82,
+    "Name": "78_sanchez_modkit",
+    "DlcName": null,
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 0,
+    "StatModsCount": 73,
+    "Liveries": [
+      {
+        "Name": "SANC_lV1",
+        "Hash": 3363380916
+      },
+      {
+        "Name": "SANC_lV2",
+        "Hash": 3593189913
+      },
+      {
+        "Name": "SANC_lV3",
+        "Hash": 201860561
+      },
+      {
+        "Name": "SANC_lV4",
+        "Hash": 3652272420
+      },
+      {
+        "Name": "SANC_lV5",
+        "Hash": 761718926
+      }
+    ]
+  },
+  {
+    "Id": 83,
+    "Name": "79_Stunt_modkit",
+    "DlcName": null,
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 0,
+    "StatModsCount": 0,
+    "Liveries": [
+      {
+        "Name": "STNT_lv1",
+        "Hash": 3900684771
+      },
+      {
+        "Name": "STNT_lv1",
+        "Hash": 3900684771
+      },
+      {
+        "Name": "STNT_lv3",
+        "Hash": 1997494044
+      }
+    ]
+  },
+  {
+    "Id": 84,
+    "Name": "80_Shamal_modkit",
+    "DlcName": null,
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 0,
+    "StatModsCount": 0,
+    "Liveries": [
+      {
+        "Name": "SHML_lv1",
+        "Hash": 2909826396
+      },
+      {
+        "Name": "SHML_lv2",
+        "Hash": 3323469483
+      },
+      {
+        "Name": "SHML_lv3",
+        "Hash": 3486331413
+      },
+      {
+        "Name": "SHML_lv4",
+        "Hash": 3877363894
+      }
+    ]
+  },
+  {
+    "Id": 85,
+    "Name": "81_rumpo_modkit",
+    "DlcName": null,
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 0,
+    "StatModsCount": 77,
+    "Liveries": [
+      {
+        "Name": "RUMP_lv1",
+        "Hash": 1889544847
+      },
+      {
+        "Name": "RUMP_lv2",
+        "Hash": 1651084834
+      }
+    ]
+  },
+  {
+    "Id": 86,
+    "Name": "82_polmav_modkit",
+    "DlcName": null,
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 0,
+    "StatModsCount": 0,
+    "Liveries": [
+      {
+        "Name": "PLMV_lv1",
+        "Hash": 2312728980
+      },
+      {
+        "Name": "PLMV_lv2",
+        "Hash": 910412394
+      }
+    ]
+  },
+  {
+    "Id": 87,
+    "Name": "83_bifta_modkit",
+    "DlcName": "mpbeach",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 10,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 88,
+    "Name": "84_kalahari_modkit",
+    "DlcName": "mpbeach",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 6,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 89,
+    "Name": "85_paradise_modkit",
+    "DlcName": "mpbeach",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 0,
+    "StatModsCount": 77,
+    "Liveries": [
+      {
+        "Name": "SSS_SURF",
+        "Hash": 4193839024
+      },
+      {
+        "Name": "SSS_SHARK",
+        "Hash": 1683705181
+      },
+      {
+        "Name": "SSS_LOGGER",
+        "Hash": 4147740408
+      },
+      {
+        "Name": "SSS_OCTOPUS",
+        "Hash": 4051151014
+      }
+    ]
+  },
+  {
+    "Id": 90,
+    "Name": "89_zentorno_modkit",
+    "DlcName": "mpbusiness2",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 18,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 91,
+    "Name": "87_massacaro_modkit",
+    "DlcName": "mpbusiness2",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 20,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 92,
+    "Name": "86_jester_modkit",
+    "DlcName": "mpbusiness",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 18,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 93,
+    "Name": "88_turismor_modkit",
+    "DlcName": "mpbusiness",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 6,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 94,
+    "Name": "90_huntley_modkit",
+    "DlcName": "mpbusiness2",
+    "Type": "MKT_SPORT",
+    "VisibleModsCount": 9,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 95,
+    "Name": "91_alpha_modkit",
+    "DlcName": "mpbusiness",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 10,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 96,
+    "Name": "96_thrust_modkit",
+    "DlcName": "mpbusiness2",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 3,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 97,
+    "Name": "97_rhapsody_modkit",
+    "DlcName": "mphipster",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 11,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 98,
+    "Name": "98_warrener_modkit",
+    "DlcName": "mphipster",
+    "Type": "MKT_SPORT",
+    "VisibleModsCount": 24,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 99,
+    "Name": "99_blade_modkit",
+    "DlcName": "mphipster",
+    "Type": "MKT_SPORT",
+    "VisibleModsCount": 11,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 100,
+    "Name": "100_glendale_modkit",
+    "DlcName": "mphipster",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 16,
+    "StatModsCount": 79,
+    "Liveries": []
+  },
+  {
+    "Id": 101,
+    "Name": "260_rapidgt3_modkit",
+    "DlcName": "mpsmuggler",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 58,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 102,
+    "Name": "102_panto_modkit",
+    "DlcName": "mphipster",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 30,
+    "StatModsCount": 78,
+    "Liveries": []
+  },
+  {
+    "Id": 103,
+    "Name": "103_dubsta3_modkit",
+    "DlcName": "mphipster",
+    "Type": "MKT_SUV",
+    "VisibleModsCount": 17,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 104,
+    "Name": "104_pigalle_modkit",
+    "DlcName": "mphipster",
+    "Type": "MKT_SPORT",
+    "VisibleModsCount": 10,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 105,
+    "Name": "105_coquette2_modkit",
+    "DlcName": "mppilot",
+    "Type": "MKT_SPORT",
+    "VisibleModsCount": 27,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 106,
+    "Name": "106_swift_modkit",
+    "DlcName": "mppilot",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 0,
+    "StatModsCount": 0,
+    "Liveries": [
+      {
+        "Name": "SWIFT_lv1",
+        "Hash": 1843044682
+      },
+      {
+        "Name": "SWIFT_lv2",
+        "Hash": 749674228
+      }
+    ]
+  },
+  {
+    "Id": 107,
+    "Name": "107_gburrito2_modkit",
+    "DlcName": "mpheist",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 15,
+    "StatModsCount": 78,
+    "Liveries": []
+  },
+  {
+    "Id": 108,
+    "Name": "108_guardian_modkit",
+    "DlcName": "mpheist",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 1,
+    "StatModsCount": 78,
+    "Liveries": []
+  },
+  {
+    "Id": 109,
+    "Name": "109_enduro_modkit",
+    "DlcName": "mpheist",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 2,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 110,
+    "Name": "110_kuruma_modkit",
+    "DlcName": "mpheist",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 18,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 111,
+    "Name": "111_visione_modkit",
+    "DlcName": "mpsmuggler",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 30,
+    "StatModsCount": 78,
+    "Liveries": []
+  },
+  {
+    "Id": 112,
+    "Name": "112_voodoo_modkit",
+    "DlcName": "mplowrider",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 198,
+    "StatModsCount": 78,
+    "Liveries": []
+  },
+  {
+    "Id": 113,
+    "Name": "113_tornado5_modkit",
+    "DlcName": "mplowrider2",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 225,
+    "StatModsCount": 78,
+    "Liveries": []
+  },
+  {
+    "Id": 114,
+    "Name": "114_primo2_modkit",
+    "DlcName": "mplowrider",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 203,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 115,
+    "Name": "115_moonbeam2_modkit",
+    "DlcName": "mplowrider",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 183,
+    "StatModsCount": 79,
+    "Liveries": []
+  },
+  {
+    "Id": 116,
+    "Name": "116_lurcher_modkit",
+    "DlcName": "mphalloween",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 57,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 117,
+    "Name": "117_chino2_modkit",
+    "DlcName": "mplowrider",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 191,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 118,
+    "Name": "118_btype2_modkit",
+    "DlcName": "mphalloween",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 51,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 119,
+    "Name": "119_virgo2_modkit",
+    "DlcName": "mplowrider2",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 194,
+    "StatModsCount": 77,
+    "Liveries": [
+      {
+        "Name": "VGO2_LIV_0",
+        "Hash": 626812688
+      },
+      {
+        "Name": "VGO2_LIV_1",
+        "Hash": 830766940
+      },
+      {
+        "Name": "cs4_roadsb_4_04_lod",
+        "Hash": 439767232
+      },
+      {
+        "Name": "VGO2_LIV_3",
+        "Hash": 1275212887
+      },
+      {
+        "Name": "VGO2_LIV_4",
+        "Hash": 917178793
+      },
+      {
+        "Name": "VGO2_LIV_5",
+        "Hash": 1757179339
+      },
+      {
+        "Name": "VGO2_LIV_6",
+        "Hash": 1375354951
+      },
+      {
+        "Name": "VGO2_LIV_7",
+        "Hash": 2238129952
+      },
+      {
+        "Name": "VGO2_LIV_8",
+        "Hash": 2947054498
+      }
+    ]
+  },
+  {
+    "Id": 120,
+    "Name": "120_vigilante_modkit",
+    "DlcName": "mpsmuggler",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 1,
+    "StatModsCount": 78,
+    "Liveries": []
+  },
+  {
+    "Id": 121,
+    "Name": "121_verlierer2_modkit",
+    "DlcName": "mpapartment",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 26,
+    "StatModsCount": 76,
+    "Liveries": []
+  },
+  {
+    "Id": 122,
+    "Name": "122_nightshade_modkit",
+    "DlcName": "mpapartment",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 15,
+    "StatModsCount": 76,
+    "Liveries": []
+  },
+  {
+    "Id": 123,
+    "Name": "123_schafter3_modkit",
+    "DlcName": "mpapartment",
+    "Type": "MKT_SPORT",
+    "VisibleModsCount": 17,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 124,
+    "Name": "124_schafter4_modkit",
+    "DlcName": "mpapartment",
+    "Type": "MKT_SPORT",
+    "VisibleModsCount": 17,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 125,
+    "Name": "125_mamba_modkit",
+    "DlcName": "mpapartment",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 16,
+    "StatModsCount": 76,
+    "Liveries": []
+  },
+  {
+    "Id": 126,
+    "Name": "126_schafter5_modkit",
+    "DlcName": "mpapartment",
+    "Type": "MKT_SPORT",
+    "VisibleModsCount": 17,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 127,
+    "Name": "127_schafter6_modkit",
+    "DlcName": "mpapartment",
+    "Type": "MKT_SPORT",
+    "VisibleModsCount": 17,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 128,
+    "Name": "25_tampa_modkit",
+    "DlcName": "mpxmas_604490",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 21,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 129,
+    "Name": "129_howard_modkit",
+    "DlcName": "mpsmuggler",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 12,
+    "StatModsCount": 12,
+    "Liveries": []
+  },
+  {
+    "Id": 130,
+    "Name": "130_sultanrs_modkit",
+    "DlcName": "mpjanuary2016",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 217,
+    "StatModsCount": 79,
+    "Liveries": []
+  },
+  {
+    "Id": 131,
+    "Name": "131_banshee2_modkit",
+    "DlcName": "mpjanuary2016",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 141,
+    "StatModsCount": 76,
+    "Liveries": []
+  },
+  {
+    "Id": 132,
+    "Name": "132_minivan2_modkit",
+    "DlcName": "mplowrider2",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 186,
+    "StatModsCount": 79,
+    "Liveries": []
+  },
+  {
+    "Id": 133,
+    "Name": "133_bestia_modkit",
+    "DlcName": "mpexecutive",
+    "Type": "MKT_SPORT",
+    "VisibleModsCount": 12,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 134,
+    "Name": "134_811_modkit",
+    "DlcName": "mpexecutive",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 13,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 135,
+    "Name": "135_prototipo_modkit",
+    "DlcName": "mpexecutive",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 10,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 136,
+    "Name": "136_windsor2_modkit",
+    "DlcName": "mpexecutive",
+    "Type": "MKT_SPORT",
+    "VisibleModsCount": 0,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 137,
+    "Name": "137_seven70_modkit",
+    "DlcName": "mpexecutive",
+    "Type": "MKT_SPORT",
+    "VisibleModsCount": 8,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 138,
+    "Name": "138_fmj_modkit",
+    "DlcName": "mpexecutive",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 12,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 139,
+    "Name": "139_reaper_modkit",
+    "DlcName": "mpexecutive",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 3,
+    "StatModsCount": 76,
+    "Liveries": []
+  },
+  {
+    "Id": 140,
+    "Name": "140_brioso_modkit",
+    "DlcName": "mpstunt",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 14,
+    "StatModsCount": 76,
+    "Liveries": []
+  },
+  {
+    "Id": 141,
+    "Name": "141_omnis_modkit",
+    "DlcName": "mpstunt",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 5,
+    "StatModsCount": 76,
+    "Liveries": []
+  },
+  {
+    "Id": 142,
+    "Name": "142_lynx_modkit",
+    "DlcName": "mpstunt",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 25,
+    "StatModsCount": 78,
+    "Liveries": []
+  },
+  {
+    "Id": 143,
+    "Name": "143_tampa2_modkit",
+    "DlcName": "mpstunt",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 2,
+    "StatModsCount": 78,
+    "Liveries": []
+  },
+  {
+    "Id": 144,
+    "Name": "144_trophytruck_modkit",
+    "DlcName": "mpstunt",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 2,
+    "StatModsCount": 78,
+    "Liveries": []
+  },
+  {
+    "Id": 145,
+    "Name": "145_tropos_modkit",
+    "DlcName": "mpstunt",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 9,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 146,
+    "Name": "146_tyrus_modkit",
+    "DlcName": "mpstunt",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 7,
+    "StatModsCount": 76,
+    "Liveries": []
+  },
+  {
+    "Id": 147,
+    "Name": "147_faction3_modkit",
+    "DlcName": "mplowrider2",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 176,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 148,
+    "Name": "148_btype3_modkit",
+    "DlcName": "mpvalentines2",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 26,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 149,
+    "Name": "149_marshall_modkit",
+    "DlcName": "spupgrade",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 0,
+    "StatModsCount": 0,
+    "Liveries": [
+      {
+        "Name": "DUKES_ROOF2",
+        "Hash": 250370100
+      },
+      {
+        "Name": "DUKES_ROOF3",
+        "Hash": 578813787
+      },
+      {
+        "Name": "DUKES_ROOF4",
+        "Hash": 3964244719
+      },
+      {
+        "Name": "DUKES_ROOF5",
+        "Hash": 4229968540
+      },
+      {
+        "Name": "DUKES_ROOF6",
+        "Hash": 1305957897
+      },
+      {
+        "Name": "DUKES_ROOF7",
+        "Hash": 1501392213
+      },
+      {
+        "Name": "DUKES_ROOF8",
+        "Hash": 591069393
+      },
+      {
+        "Name": "DUKES_ROOF9",
+        "Hash": 2428361685
+      },
+      {
+        "Name": "DUKES_ROOF10",
+        "Hash": 2406444693
+      },
+      {
+        "Name": "DUKES_ROOF11",
+        "Hash": 3232223481
+      },
+      {
+        "Name": "DUKES_ROOF12",
+        "Hash": 2992190556
+      },
+      {
+        "Name": "DUKES_ROOF13",
+        "Hash": 1490747757
+      },
+      {
+        "Name": "DUKES_ROOF14",
+        "Hash": 1259890152
+      },
+      {
+        "Name": "DUKES_ROOF15",
+        "Hash": 2086652022
+      },
+      {
+        "Name": "DUKES_ROOF16",
+        "Hash": 1772462850
+      },
+      {
+        "Name": "DUKES_ROOF17",
+        "Hash": 337213415
+      },
+      {
+        "Name": "DUKES_ROOF18",
+        "Hash": 4251077241
+      },
+      {
+        "Name": "DUKES_ROOF19",
+        "Hash": 931806924
+      },
+      {
+        "Name": "DUKES_ROOF20",
+        "Hash": 3799291334
+      },
+      {
+        "Name": "DUKES_ROOF21",
+        "Hash": 2863507001
+      },
+      {
+        "Name": "DUKES_ROOF22",
+        "Hash": 3103277774
+      },
+      {
+        "Name": "DUKES_ROOF23",
+        "Hash": 446137871
+      },
+      {
+        "Name": "DUKES_ROOF24",
+        "Hash": 685646492
+      },
+      {
+        "Name": "DUKES_ROOF25",
+        "Hash": 4281192248
+      },
+      {
+        "Name": "DUKES_ROOF26",
+        "Hash": 225274807
+      }
+    ]
+  },
+  {
+    "Id": 150,
+    "Name": "150_buffalo3_modkit",
+    "DlcName": "spupgrade",
+    "Type": "MKT_SPORT",
+    "VisibleModsCount": 30,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 151,
+    "Name": "151_dominator2_modkit",
+    "DlcName": "spupgrade",
+    "Type": "MKT_SPORT",
+    "VisibleModsCount": 12,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 152,
+    "Name": "152_dukes_modkit",
+    "DlcName": "spupgrade",
+    "Type": "MKT_SPORT",
+    "VisibleModsCount": 38,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 153,
+    "Name": "153_buccaneer_modkit",
+    "DlcName": "mplowrider",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 198,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 154,
+    "Name": "154_blista2_modkit",
+    "DlcName": "spupgrade",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 11,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 155,
+    "Name": "155_blista3_modkit",
+    "DlcName": "spupgrade",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 11,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 156,
+    "Name": "156_jester2_modkit",
+    "DlcName": "mpchristmas2",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 18,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 157,
+    "Name": "157_massacaro2_modkit",
+    "DlcName": "mpchristmas2",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 20,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 158,
+    "Name": "158_ratloader2_modkit",
+    "DlcName": "mpchristmas2",
+    "Type": "MKT_SUV",
+    "VisibleModsCount": 15,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 159,
+    "Name": "159_slamvan_modkit",
+    "DlcName": "mpchristmas2",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 0,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 160,
+    "Name": "160_osiris_modkit",
+    "DlcName": "mpluxe",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 16,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 161,
+    "Name": "161_t20_modkit",
+    "DlcName": "mpluxe2",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 11,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 162,
+    "Name": "162_vindicator_modkit",
+    "DlcName": "mpluxe2",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 8,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 163,
+    "Name": "163_brawler_modkit",
+    "DlcName": "mpluxe2",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 8,
+    "StatModsCount": 78,
+    "Liveries": []
+  },
+  {
+    "Id": 164,
+    "Name": "164_virgo_modkit",
+    "DlcName": "mpluxe",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 10,
+    "StatModsCount": 76,
+    "Liveries": []
+  },
+  {
+    "Id": 165,
+    "Name": "165_deluxo_modkit",
+    "DlcName": "mpchristmas2017",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 30,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 166,
+    "Name": "166_coquette3_modkit",
+    "DlcName": "mpluxe2",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 13,
+    "StatModsCount": 76,
+    "Liveries": []
+  },
+  {
+    "Id": 167,
+    "Name": "167_windsor_modkit",
+    "DlcName": "mpluxe",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 0,
+    "StatModsCount": 77,
+    "Liveries": [
+      {
+        "Name": "WINDSOR_LV1",
+        "Hash": 2235589376
+      },
+      {
+        "Name": "WINDSOR_LV2",
+        "Hash": 2002896707
+      },
+      {
+        "Name": "WINDSOR_LV3",
+        "Hash": 590487233
+      },
+      {
+        "Name": "WINDSOR_LV4",
+        "Hash": 821606990
+      },
+      {
+        "Name": "WINDSOR_LV5",
+        "Hash": 1184884124
+      },
+      {
+        "Name": "WINDSOR_LV6",
+        "Hash": 3564667215
+      },
+      {
+        "Name": "WINDSOR_LV7",
+        "Hash": 3928665267
+      },
+      {
+        "Name": "WINDSOR_LV8",
+        "Hash": 4159391796
+      },
+      {
+        "Name": "WINDSOR_LV9",
+        "Hash": 151382633
+      }
+    ]
+  },
+  {
+    "Id": 168,
+    "Name": "168_feltzer3_modkit",
+    "DlcName": "mpluxe",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 9,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 169,
+    "Name": "169_savestra_modkit",
+    "DlcName": "mpchristmas2017",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 80,
+    "StatModsCount": 76,
+    "Liveries": []
+  },
+  {
+    "Id": 170,
+    "Name": "111_faction2_modkit",
+    "DlcName": "mplowrider",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 176,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 171,
+    "Name": "171_slamvan3_modkit",
+    "DlcName": "mplowrider2",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 200,
+    "StatModsCount": 81,
+    "Liveries": [
+      {
+        "Name": "SLVAN3_SIGN0",
+        "Hash": 139225508
+      },
+      {
+        "Name": "SLVAN3_SIGN1",
+        "Hash": 4137633354
+      },
+      {
+        "Name": "SLVAN3_SIGN2",
+        "Hash": 3184940321
+      },
+      {
+        "Name": "SLVAN3_SIGN3",
+        "Hash": 2544371909
+      },
+      {
+        "Name": "SLVAN3_SIGN4",
+        "Hash": 1185113681
+      },
+      {
+        "Name": "SLVAN3_SIGN5",
+        "Hash": 888783614
+      },
+      {
+        "Name": "SLVAN3_SIGN6",
+        "Hash": 3946262394
+      },
+      {
+        "Name": "SLVAN3_SIGN7",
+        "Hash": 3647376345
+      },
+      {
+        "Name": "SLVAN3_SIGN8",
+        "Hash": 2380985567
+      }
+    ]
+  },
+  {
+    "Id": 172,
+    "Name": "172_sab2_modkit",
+    "DlcName": "mplowrider2",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 204,
+    "StatModsCount": 81,
+    "Liveries": []
+  },
+  {
+    "Id": 173,
+    "Name": "173_gargoyle_modkit",
+    "DlcName": "mpstunt",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 2,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 174,
+    "Name": "174_bf400_modkit",
+    "DlcName": "mpstunt",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 2,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 175,
+    "Name": "175_cliffhanger_modkit",
+    "DlcName": "mpstunt",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 2,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 176,
+    "Name": "176_trophytruck2_modkit",
+    "DlcName": "mpstunt",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 2,
+    "StatModsCount": 78,
+    "Liveries": []
+  },
+  {
+    "Id": 177,
+    "Name": "177_rallytruck_modkit",
+    "DlcName": "mpstunt",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 2,
+    "StatModsCount": 78,
+    "Liveries": []
+  },
+  {
+    "Id": 178,
+    "Name": "178_le7b_modkit",
+    "DlcName": "mpstunt",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 4,
+    "StatModsCount": 76,
+    "Liveries": []
+  },
+  {
+    "Id": 179,
+    "Name": "179_sheava_modkit",
+    "DlcName": "mpstunt",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 14,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 180,
+    "Name": "180_zombiea_modkit",
+    "DlcName": "mpbiker",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 74,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 181,
+    "Name": "181_zombieb_modkit",
+    "DlcName": "mpbiker",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 74,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 182,
+    "Name": "182_avarus_modkit",
+    "DlcName": "mpbiker",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 55,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 183,
+    "Name": "183_defiler_modkit",
+    "DlcName": "mpbiker",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 29,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 185,
+    "Name": "185_nightblade_modkit",
+    "DlcName": "mpbiker",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 30,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 186,
+    "Name": "186_daemon2_modkit",
+    "DlcName": "mpbiker",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 79,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 187,
+    "Name": "187_ratbike_modkit",
+    "DlcName": "mpbiker",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 59,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 188,
+    "Name": "188_chimera_modkit",
+    "DlcName": "mpbiker",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 61,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 189,
+    "Name": "189_wolfsbane_modkit",
+    "DlcName": "mpbiker",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 77,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 190,
+    "Name": "190_vortex_modkit",
+    "DlcName": "mpbiker",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 34,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 191,
+    "Name": "191_hakuchou2_modkit",
+    "DlcName": "mpbiker",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 26,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 192,
+    "Name": "192_blazer4_modkit",
+    "DlcName": "mpbiker",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 38,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 193,
+    "Name": "193_manchez_modkit",
+    "DlcName": "mpbiker",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 25,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 194,
+    "Name": "194_sanctus_modkit",
+    "DlcName": "mpbiker",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 53,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 195,
+    "Name": "195_esskey_modkit",
+    "DlcName": "mpbiker",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 31,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 196,
+    "Name": "196_tornado6_modkit",
+    "DlcName": "mpbiker",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 3,
+    "StatModsCount": 74,
+    "Liveries": []
+  },
+  {
+    "Id": 197,
+    "Name": "197_faggio3_modkit",
+    "DlcName": "mpbiker",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 81,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 198,
+    "Name": "198_youga2_modkit",
+    "DlcName": "mpbiker",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 17,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 199,
+    "Name": "199_shotaro_modkit",
+    "DlcName": "mpbiker",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 1,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 201,
+    "Name": "165_chino_modkit",
+    "DlcName": "mpluxe2",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 9,
+    "StatModsCount": 76,
+    "Liveries": []
+  },
+  {
+    "Id": 202,
+    "Name": "202_fcr_modkit",
+    "DlcName": "mpimportexport",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 8,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 204,
+    "Name": "204_fcr2_modkit",
+    "DlcName": "mpimportexport",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 82,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 205,
+    "Name": "205_penetrator_modkit",
+    "DlcName": "mpimportexport",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 46,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 206,
+    "Name": "206_nero_modkit",
+    "DlcName": "mpimportexport",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 12,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 207,
+    "Name": "207_italigtb_modkit",
+    "DlcName": "mpimportexport",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 53,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 208,
+    "Name": "208_italigtb2_modkit",
+    "DlcName": "mpimportexport",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 125,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 209,
+    "Name": "209_diablous2_modkit",
+    "DlcName": "mpimportexport",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 96,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 210,
+    "Name": "210_tempesta_modkit",
+    "DlcName": "mpimportexport",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 22,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 211,
+    "Name": "211_elegy1_modkit",
+    "DlcName": "mpimportexport",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 200,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 212,
+    "Name": "212_nero2_modkit",
+    "DlcName": "mpimportexport",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 70,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 213,
+    "Name": "213_comet3_modkit",
+    "DlcName": "mpimportexport",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 141,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 214,
+    "Name": "214_specter2_modkit",
+    "DlcName": "mpimportexport",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 115,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 215,
+    "Name": "215_voltic2_modkit",
+    "DlcName": "mpimportexport",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 0,
+    "StatModsCount": 16,
+    "Liveries": []
+  },
+  {
+    "Id": 216,
+    "Name": "216_specter_modkit",
+    "DlcName": "mpimportexport",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 5,
+    "StatModsCount": 76,
+    "Liveries": []
+  },
+  {
+    "Id": 217,
+    "Name": "217_ruston_modkit",
+    "DlcName": "mpspecialraces",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 34,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 218,
+    "Name": "218_cheetah2_modkit",
+    "DlcName": "mpgunrunning",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 49,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 219,
+    "Name": "219_tampa3_modkit",
+    "DlcName": "mpgunrunning",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 50,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 220,
+    "Name": "220_ardent_modkit",
+    "DlcName": "mpgunrunning",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 64,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 221,
+    "Name": "221_infernus2_modkit",
+    "DlcName": "mpspecialraces",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 31,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 222,
+    "Name": "222_insurgent3_modkit",
+    "DlcName": "mpgunrunning",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 45,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 223,
+    "Name": "223_gp1_modkit",
+    "DlcName": "mpspecialraces",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 83,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 224,
+    "Name": "224_torero_modkit",
+    "DlcName": "mpgunrunning",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 32,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 225,
+    "Name": "225_turismo2_modkit",
+    "DlcName": "mpspecialraces",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 35,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 226,
+    "Name": "226_apc_modkit",
+    "DlcName": "mpgunrunning",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 42,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 227,
+    "Name": "227_halftrack_modkit",
+    "DlcName": "mpgunrunning",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 45,
+    "StatModsCount": 70,
+    "Liveries": []
+  },
+  {
+    "Id": 228,
+    "Name": "228_dune3_modkit",
+    "DlcName": "mpgunrunning",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 47,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 229,
+    "Name": "231_chernobog_modkit",
+    "DlcName": "mpchristmas2017",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 40,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 230,
+    "Name": "230_technical3_modkit",
+    "DlcName": "mpgunrunning",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 50,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 232,
+    "Name": "232_oppressor_modkit",
+    "DlcName": "mpgunrunning",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 48,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 233,
+    "Name": "233_trsmall2_modkit",
+    "DlcName": "mpgunrunning",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 42,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 234,
+    "Name": "234_trailerlarge_modkit",
+    "DlcName": "mpgunrunning",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 11,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 235,
+    "Name": "235_nightshark_modkit",
+    "DlcName": "mpgunrunning",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 73,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 236,
+    "Name": "236_vagner_modkit",
+    "DlcName": "mpgunrunning",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 22,
+    "StatModsCount": 78,
+    "Liveries": []
+  },
+  {
+    "Id": 237,
+    "Name": "237_xa21_modkit",
+    "DlcName": "mpgunrunning",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 85,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 238,
+    "Name": "238_havok_modkit",
+    "DlcName": "mpsmuggler",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 11,
+    "StatModsCount": 12,
+    "Liveries": []
+  },
+  {
+    "Id": 239,
+    "Name": "239_rogue_modkit",
+    "DlcName": "mpsmuggler",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 19,
+    "StatModsCount": 12,
+    "Liveries": []
+  },
+  {
+    "Id": 240,
+    "Name": "240_mogul_modkit",
+    "DlcName": "mpsmuggler",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 17,
+    "StatModsCount": 12,
+    "Liveries": []
+  },
+  {
+    "Id": 241,
+    "Name": "241_starling_modkit",
+    "DlcName": "mpsmuggler",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 18,
+    "StatModsCount": 13,
+    "Liveries": []
+  },
+  {
+    "Id": 242,
+    "Name": "242_alphaz1_modkit",
+    "DlcName": "mpsmuggler",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 10,
+    "StatModsCount": 12,
+    "Liveries": []
+  },
+  {
+    "Id": 243,
+    "Name": "243_bombushka_modkit",
+    "DlcName": "mpsmuggler",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 19,
+    "StatModsCount": 12,
+    "Liveries": []
+  },
+  {
+    "Id": 244,
+    "Name": "244_tula_modkit",
+    "DlcName": "mpsmuggler",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 17,
+    "StatModsCount": 12,
+    "Liveries": []
+  },
+  {
+    "Id": 245,
+    "Name": "245_seabreeze_modkit",
+    "DlcName": "mpsmuggler",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 15,
+    "StatModsCount": 12,
+    "Liveries": []
+  },
+  {
+    "Id": 246,
+    "Name": "246_pyro_modkit",
+    "DlcName": "mpsmuggler",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 13,
+    "StatModsCount": 12,
+    "Liveries": []
+  },
+  {
+    "Id": 247,
+    "Name": "247_hunter_modkit",
+    "DlcName": "mpsmuggler",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 15,
+    "StatModsCount": 12,
+    "Liveries": []
+  },
+  {
+    "Id": 248,
+    "Name": "248_nokota_modkit",
+    "DlcName": "mpsmuggler",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 14,
+    "StatModsCount": 12,
+    "Liveries": []
+  },
+  {
+    "Id": 249,
+    "Name": "249_molotok_modkit",
+    "DlcName": "mpsmuggler",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 24,
+    "StatModsCount": 12,
+    "Liveries": []
+  },
+  {
+    "Id": 250,
+    "Name": "0_defaultspraypatch",
+    "DlcName": null,
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 0,
+    "StatModsCount": 0,
+    "Liveries": []
+  },
+  {
+    "Id": 251,
+    "Name": "251_cuban800_modkit",
+    "DlcName": null,
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 4,
+    "StatModsCount": 0,
+    "Liveries": []
+  },
+  {
+    "Id": 252,
+    "Name": "252_retinue_modkit",
+    "DlcName": "mpsmuggler",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 31,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 253,
+    "Name": "253_microlight_modkit",
+    "DlcName": "mpsmuggler",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 15,
+    "StatModsCount": 12,
+    "Liveries": []
+  },
+  {
+    "Id": 254,
+    "Name": "254_cyclone_modkit",
+    "DlcName": "mpsmuggler",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 25,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 256,
+    "Name": "256_akula_modkit",
+    "DlcName": "mpchristmas2017",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 47,
+    "StatModsCount": 12,
+    "Liveries": []
+  },
+  {
+    "Id": 257,
+    "Name": "257_avenger_modkit",
+    "DlcName": "mpchristmas2017",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 48,
+    "StatModsCount": 12,
+    "Liveries": []
+  },
+  {
+    "Id": 258,
+    "Name": "258_yosemite_modkit",
+    "DlcName": "mpchristmas2017",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 63,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 259,
+    "Name": "259_riot2_modkit",
+    "DlcName": "mpchristmas2017",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 41,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 260,
+    "Name": "260_thruster_modkit",
+    "DlcName": "mpchristmas2017",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 45,
+    "StatModsCount": 12,
+    "Liveries": []
+  },
+  {
+    "Id": 261,
+    "Name": "261_neon_modkit",
+    "DlcName": "mpchristmas2017",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 30,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 262,
+    "Name": "262_comet4_modkit",
+    "DlcName": "mpchristmas2017",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 102,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 263,
+    "Name": "263_barrage_modkit",
+    "DlcName": "mpchristmas2017",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 169,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 264,
+    "Name": "264_gt500_modkit",
+    "DlcName": "mpchristmas2017",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 15,
+    "StatModsCount": 76,
+    "Liveries": []
+  },
+  {
+    "Id": 265,
+    "Name": "265_khanjali_modkit",
+    "DlcName": "mpchristmas2017",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 44,
+    "StatModsCount": 70,
+    "Liveries": []
+  },
+  {
+    "Id": 266,
+    "Name": "266_sentinel3_modkit",
+    "DlcName": "mpchristmas2017",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 87,
+    "StatModsCount": 76,
+    "Liveries": []
+  },
+  {
+    "Id": 267,
+    "Name": "267_streiter_modkit",
+    "DlcName": "mpchristmas2017",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 15,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 268,
+    "Name": "268_hermes_modkit",
+    "DlcName": "mpchristmas2017",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 23,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 269,
+    "Name": "269_revolter_modkit",
+    "DlcName": "mpchristmas2017",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 41,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 270,
+    "Name": "270_autarch_modkit",
+    "DlcName": "mpchristmas2017",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 54,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 272,
+    "Name": "272_hustler_modkit",
+    "DlcName": "mpchristmas2017",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 31,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 273,
+    "Name": "273_riata_modkit",
+    "DlcName": "mpchristmas2017",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 51,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 274,
+    "Name": "274_pariah_modkit",
+    "DlcName": "mpchristmas2017",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 46,
+    "StatModsCount": 76,
+    "Liveries": []
+  },
+  {
+    "Id": 276,
+    "Name": "276_z190_modkit",
+    "DlcName": "mpchristmas2017",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 163,
+    "StatModsCount": 76,
+    "Liveries": []
+  },
+  {
+    "Id": 277,
+    "Name": "277_sc1_modkit",
+    "DlcName": "mpchristmas2017",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 23,
+    "StatModsCount": 76,
+    "Liveries": []
+  },
+  {
+    "Id": 278,
+    "Name": "278_viseris_modkit",
+    "DlcName": "mpchristmas2017",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 44,
+    "StatModsCount": 76,
+    "Liveries": []
+  },
+  {
+    "Id": 279,
+    "Name": "279_comet5_modkit",
+    "DlcName": "mpchristmas2017",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 27,
+    "StatModsCount": 76,
+    "Liveries": []
+  },
+  {
+    "Id": 280,
+    "Name": "280_raiden_modkit",
+    "DlcName": "mpchristmas2017",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 18,
+    "StatModsCount": 74,
+    "Liveries": []
+  },
+  {
+    "Id": 281,
+    "Name": "281_volatol_modkit",
+    "DlcName": "mpchristmas2017",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 16,
+    "StatModsCount": 12,
+    "Liveries": []
+  },
+  {
+    "Id": 282,
+    "Name": "282_kamacho_modkit",
+    "DlcName": "mpchristmas2017",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 65,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 283,
+    "Name": "283_gb200_modkit",
+    "DlcName": "mpassault",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 42,
+    "StatModsCount": 78,
+    "Liveries": []
+  },
+  {
+    "Id": 284,
+    "Name": "284_fagaloa_modkit",
+    "DlcName": "mpassault",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 53,
+    "StatModsCount": 78,
+    "Liveries": []
+  },
+  {
+    "Id": 285,
+    "Name": "285_michelli_modkit",
+    "DlcName": "mpassault",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 47,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 286,
+    "Name": "286_ellie_modkit",
+    "DlcName": "mpassault",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 23,
+    "StatModsCount": 76,
+    "Liveries": []
+  },
+  {
+    "Id": 287,
+    "Name": "287_issi3_modkit",
+    "DlcName": "mpassault",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 102,
+    "StatModsCount": 76,
+    "Liveries": []
+  },
+  {
+    "Id": 290,
+    "Name": "290_hotring_modkit",
+    "DlcName": "mpassault",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 30,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 291,
+    "Name": "291_tezeract_modkit",
+    "DlcName": "mpassault",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 32,
+    "StatModsCount": 70,
+    "Liveries": []
+  },
+  {
+    "Id": 292,
+    "Name": "292_caracara_modkit",
+    "DlcName": "mpassault",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 21,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 293,
+    "Name": "293_flashgt_modkit",
+    "DlcName": "mpassault",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 48,
+    "StatModsCount": 78,
+    "Liveries": []
+  },
+  {
+    "Id": 294,
+    "Name": "294_cheburek_modkit",
+    "DlcName": "mpassault",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 52,
+    "StatModsCount": 78,
+    "Liveries": []
+  },
+  {
+    "Id": 295,
+    "Name": "295_seasparrow_modkit",
+    "DlcName": "mpassault",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 2,
+    "StatModsCount": 78,
+    "Liveries": []
+  },
+  {
+    "Id": 296,
+    "Name": "296_dominator3_modkit",
+    "DlcName": "mpassault",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 104,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 297,
+    "Name": "297_tyrant_modkit",
+    "DlcName": "mpassault",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 8,
+    "StatModsCount": 76,
+    "Liveries": []
+  },
+  {
+    "Id": 298,
+    "Name": "298_taipan_modkit",
+    "DlcName": "mpassault",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 38,
+    "StatModsCount": 76,
+    "Liveries": []
+  },
+  {
+    "Id": 299,
+    "Name": "299_entity2_modkit",
+    "DlcName": "mpassault",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 21,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 300,
+    "Name": "300_jester3_modkit",
+    "DlcName": "mpassault",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 66,
+    "StatModsCount": 78,
+    "Liveries": []
+  },
+  {
+    "Id": 301,
+    "Name": "301_pounder2_modkit",
+    "DlcName": "mpbattle",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 39,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 302,
+    "Name": "302_mule4_modkit",
+    "DlcName": "mpbattle",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 37,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 303,
+    "Name": "303_speedo4_modkit",
+    "DlcName": "mpbattle",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 37,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 304,
+    "Name": "304_blimp3_modkit",
+    "DlcName": "mpbattle",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 22,
+    "StatModsCount": 0,
+    "Liveries": []
+  },
+  {
+    "Id": 305,
+    "Name": "305_swinger_modkit",
+    "DlcName": "mpbattle",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 48,
+    "StatModsCount": 76,
+    "Liveries": []
+  },
+  {
+    "Id": 306,
+    "Name": "306_patriot2_modkit",
+    "DlcName": "mpbattle",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 47,
+    "StatModsCount": 76,
+    "Liveries": []
+  },
+  {
+    "Id": 307,
+    "Name": "307_menacer_modkit",
+    "DlcName": "mpbattle",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 115,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 308,
+    "Name": "308_strikeforce_modkit",
+    "DlcName": "mpbattle",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 17,
+    "StatModsCount": 12,
+    "Liveries": []
+  },
+  {
+    "Id": 309,
+    "Name": "309_oppressor2_modkit",
+    "DlcName": "mpbattle",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 35,
+    "StatModsCount": 12,
+    "Liveries": []
+  },
+  {
+    "Id": 310,
+    "Name": "310_stafford_modkit",
+    "DlcName": "mpbattle",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 10,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 311,
+    "Name": "311_freecrawler_modkit",
+    "DlcName": "mpbattle",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 52,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 312,
+    "Name": "312_patriot_modkit",
+    "DlcName": null,
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 40,
+    "StatModsCount": 76,
+    "Liveries": []
+  },
+  {
+    "Id": 313,
+    "Name": "313_pbus2_modkit",
+    "DlcName": "mpbattle",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 10,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 314,
+    "Name": "314_scramjet_modkit",
+    "DlcName": "mpbattle",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 10,
+    "StatModsCount": 74,
+    "Liveries": []
+  },
+  {
+    "Id": 315,
+    "Name": "315_impaler_modkit",
+    "DlcName": "mpchristmas2018",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 32,
+    "StatModsCount": 79,
+    "Liveries": []
+  },
+  {
+    "Id": 316,
+    "Name": "316_deveste_modkit",
+    "DlcName": "mpchristmas2018",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 41,
+    "StatModsCount": 74,
+    "Liveries": []
+  },
+  {
+    "Id": 317,
+    "Name": "317_clique_modkit",
+    "DlcName": "mpchristmas2018",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 35,
+    "StatModsCount": 79,
+    "Liveries": []
+  },
+  {
+    "Id": 318,
+    "Name": "318_scarab_modkit",
+    "DlcName": "mpchristmas2018",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 75,
+    "StatModsCount": 70,
+    "Liveries": []
+  },
+  {
+    "Id": 319,
+    "Name": "319_toros_modkit",
+    "DlcName": "mpchristmas2018",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 84,
+    "StatModsCount": 79,
+    "Liveries": []
+  },
+  {
+    "Id": 320,
+    "Name": "320_schlagen_modkit",
+    "DlcName": "mpchristmas2018",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 74,
+    "StatModsCount": 79,
+    "Liveries": []
+  },
+  {
+    "Id": 321,
+    "Name": "321_deviant_modkit",
+    "DlcName": "mpchristmas2018",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 57,
+    "StatModsCount": 79,
+    "Liveries": []
+  },
+  {
+    "Id": 322,
+    "Name": "322_vamos_modkit",
+    "DlcName": "mpchristmas2018",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 57,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 324,
+    "Name": "324_tulip_modkit",
+    "DlcName": "mpchristmas2018",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 39,
+    "StatModsCount": 79,
+    "Liveries": []
+  },
+  {
+    "Id": 325,
+    "Name": "325_impaler2_modkit",
+    "DlcName": "mpchristmas2018",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 48,
+    "StatModsCount": 74,
+    "Liveries": []
+  },
+  {
+    "Id": 326,
+    "Name": "326_dominator4_modkit",
+    "DlcName": "mpchristmas2018",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 51,
+    "StatModsCount": 79,
+    "Liveries": []
+  },
+  {
+    "Id": 327,
+    "Name": "327_italigto_modkit",
+    "DlcName": "mpchristmas2018",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 68,
+    "StatModsCount": 79,
+    "Liveries": []
+  },
+  {
+    "Id": 328,
+    "Name": "328_imperator_modkit",
+    "DlcName": "mpchristmas2018",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 54,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 329,
+    "Name": "329_bruiser_modkit",
+    "DlcName": "mpchristmas2018",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 61,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 330,
+    "Name": "330_cerberus_modkit",
+    "DlcName": "mpchristmas2018",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 63,
+    "StatModsCount": 79,
+    "Liveries": []
+  },
+  {
+    "Id": 331,
+    "Name": "331_deathbike_modkit",
+    "DlcName": "mpchristmas2018",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 16,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 332,
+    "Name": "332_issi4_modkit",
+    "DlcName": "mpchristmas2018",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 81,
+    "StatModsCount": 79,
+    "Liveries": []
+  },
+  {
+    "Id": 334,
+    "Name": "334_rcbandito_modkit",
+    "DlcName": "mpchristmas2018",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 34,
+    "StatModsCount": 70,
+    "Liveries": []
+  },
+  {
+    "Id": 335,
+    "Name": "335_zr380_modkit",
+    "DlcName": "mpchristmas2018",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 48,
+    "StatModsCount": 74,
+    "Liveries": []
+  },
+  {
+    "Id": 336,
+    "Name": "336_slamvan4_modkit",
+    "DlcName": "mpchristmas2018",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 45,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 338,
+    "Name": "338_monster3_modkit",
+    "DlcName": "mpchristmas2018",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 42,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 339,
+    "Name": "339_imperator2_modkit",
+    "DlcName": "mpchristmas2018",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 55,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 340,
+    "Name": "340_brutus_modkit",
+    "DlcName": "mpchristmas2018",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 56,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 341,
+    "Name": "341_dominator5_modkit",
+    "DlcName": "mpchristmas2018",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 49,
+    "StatModsCount": 79,
+    "Liveries": []
+  },
+  {
+    "Id": 342,
+    "Name": "342_imperator3_modkit",
+    "DlcName": "mpchristmas2018",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 54,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 343,
+    "Name": "343_impaler4_modkit",
+    "DlcName": "mpchristmas2018",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 48,
+    "StatModsCount": 74,
+    "Liveries": []
+  },
+  {
+    "Id": 344,
+    "Name": "344_deathbike3_modkit",
+    "DlcName": "mpchristmas2018",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 16,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 345,
+    "Name": "345_deathbike2_modkit",
+    "DlcName": "mpchristmas2018",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 33,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 346,
+    "Name": "346_dominator6_modkit",
+    "DlcName": "mpchristmas2018",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 51,
+    "StatModsCount": 79,
+    "Liveries": []
+  },
+  {
+    "Id": 347,
+    "Name": "347_zr3802_modkit",
+    "DlcName": "mpchristmas2018",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 68,
+    "StatModsCount": 74,
+    "Liveries": []
+  },
+  {
+    "Id": 348,
+    "Name": "348_cerberus3_modkit",
+    "DlcName": "mpchristmas2018",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 63,
+    "StatModsCount": 74,
+    "Liveries": []
+  },
+  {
+    "Id": 349,
+    "Name": "349_zr3803_modkit",
+    "DlcName": "mpchristmas2018",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 47,
+    "StatModsCount": 74,
+    "Liveries": []
+  },
+  {
+    "Id": 350,
+    "Name": "350_issi6_modkit",
+    "DlcName": "mpchristmas2018",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 80,
+    "StatModsCount": 79,
+    "Liveries": []
+  },
+  {
+    "Id": 351,
+    "Name": "351_cerberus2_modkit",
+    "DlcName": "mpchristmas2018",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 67,
+    "StatModsCount": 74,
+    "Liveries": []
+  },
+  {
+    "Id": 352,
+    "Name": "352_slamvan6_modkit",
+    "DlcName": "mpchristmas2018",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 45,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 353,
+    "Name": "353_monster5_modkit",
+    "DlcName": "mpchristmas2018",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 42,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 354,
+    "Name": "354_impaler3_modkit",
+    "DlcName": "mpchristmas2018",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 52,
+    "StatModsCount": 79,
+    "Liveries": []
+  },
+  {
+    "Id": 355,
+    "Name": "355_scarab3_modkit",
+    "DlcName": "mpchristmas2018",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 75,
+    "StatModsCount": 70,
+    "Liveries": []
+  },
+  {
+    "Id": 356,
+    "Name": "356_brutus3_modkit",
+    "DlcName": "mpchristmas2018",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 56,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 357,
+    "Name": "357_bruiser3_modkit",
+    "DlcName": "mpchristmas2018",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 61,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 358,
+    "Name": "358_slamvan5_modkit",
+    "DlcName": "mpchristmas2018",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 51,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 359,
+    "Name": "359_bruiser2_modkit",
+    "DlcName": "mpchristmas2018",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 63,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 360,
+    "Name": "360_monster4_modkit",
+    "DlcName": "mpchristmas2018",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 50,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 361,
+    "Name": "361_scarab2_modkit",
+    "DlcName": "mpchristmas2018",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 93,
+    "StatModsCount": 70,
+    "Liveries": []
+  },
+  {
+    "Id": 362,
+    "Name": "362_issi5_modkit",
+    "DlcName": "mpchristmas2018",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 105,
+    "StatModsCount": 79,
+    "Liveries": []
+  },
+  {
+    "Id": 363,
+    "Name": "363_brutus2_modkit",
+    "DlcName": "mpchristmas2018",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 53,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 364,
+    "Name": "364_zion3_modkit",
+    "DlcName": "mpvinewood",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 66,
+    "StatModsCount": 78,
+    "Liveries": []
+  },
+  {
+    "Id": 365,
+    "Name": "365_hellion_modkit",
+    "DlcName": "mpvinewood",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 82,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 366,
+    "Name": "366_thrax_modkit",
+    "DlcName": "mpvinewood",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 70,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 367,
+    "Name": "367_issi7_modkit",
+    "DlcName": "mpvinewood",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 63,
+    "StatModsCount": 78,
+    "Liveries": []
+  },
+  {
+    "Id": 368,
+    "Name": "368_locust_modkit",
+    "DlcName": "mpvinewood",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 56,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 369,
+    "Name": "369_zorrusso_modkit",
+    "DlcName": "mpvinewood",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 31,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 370,
+    "Name": "370_novak_modkit",
+    "DlcName": "mpvinewood",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 45,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 371,
+    "Name": "371_Dynasty_modkit",
+    "DlcName": "mpvinewood",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 70,
+    "StatModsCount": 78,
+    "Liveries": []
+  },
+  {
+    "Id": 372,
+    "Name": "372_nebula_modkit",
+    "DlcName": "mpvinewood",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 49,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 373,
+    "Name": "373_drafter_modkit",
+    "DlcName": "mpvinewood",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 59,
+    "StatModsCount": 79,
+    "Liveries": []
+  },
+  {
+    "Id": 374,
+    "Name": "374_gauntlet3_modkit",
+    "DlcName": "mpvinewood",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 72,
+    "StatModsCount": 78,
+    "Liveries": []
+  },
+  {
+    "Id": 375,
+    "Name": "375_caracara2_modkit",
+    "DlcName": "mpvinewood",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 49,
+    "StatModsCount": 79,
+    "Liveries": []
+  },
+  {
+    "Id": 376,
+    "Name": "376_s80_modkit",
+    "DlcName": "mpvinewood",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 26,
+    "StatModsCount": 74,
+    "Liveries": []
+  },
+  {
+    "Id": 377,
+    "Name": "377_gauntlet4_modkit",
+    "DlcName": "mpvinewood",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 74,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 378,
+    "Name": "378_krieger_modkit",
+    "DlcName": "mpvinewood",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 33,
+    "StatModsCount": 74,
+    "Liveries": []
+  },
+  {
+    "Id": 379,
+    "Name": "379_neo_modkit",
+    "DlcName": "mpvinewood",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 85,
+    "StatModsCount": 74,
+    "Liveries": []
+  },
+  {
+    "Id": 380,
+    "Name": "380_peyote2_modkit",
+    "DlcName": "mpvinewood",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 48,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 381,
+    "Name": "381_emerus_modkit",
+    "DlcName": "mpvinewood",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 66,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 382,
+    "Name": "382_rrocket_modkit",
+    "DlcName": "mpvinewood",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 14,
+    "StatModsCount": 74,
+    "Liveries": []
+  },
+  {
+    "Id": 383,
+    "Name": "383_jugular_modkit",
+    "DlcName": "mpvinewood",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 44,
+    "StatModsCount": 78,
+    "Liveries": []
+  },
+  {
+    "Id": 384,
+    "Name": "384_paragon_modkit",
+    "DlcName": "mpvinewood",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 60,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 385,
+    "Name": "385_kanjo_modkit",
+    "DlcName": "mpheist3",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 131,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 386,
+    "Name": "386_imorgon_modkit",
+    "DlcName": "mpheist3",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 116,
+    "StatModsCount": 76,
+    "Liveries": []
+  },
+  {
+    "Id": 387,
+    "Name": "387_asbo_modkit",
+    "DlcName": "mpheist3",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 82,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 388,
+    "Name": "388_rebla_modkit",
+    "DlcName": "mpheist3",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 82,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 389,
+    "Name": "389_komoda_modkit",
+    "DlcName": "mpheist3",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 105,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 390,
+    "Name": "390_Sugoi_modkit",
+    "DlcName": "mpheist3",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 90,
+    "StatModsCount": 78,
+    "Liveries": []
+  },
+  {
+    "Id": 401,
+    "Name": "401_vstr_modkit",
+    "DlcName": "mpheist3",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 71,
+    "StatModsCount": 76,
+    "Liveries": []
+  },
+  {
+    "Id": 402,
+    "Name": "402_sultan2_modkit",
+    "DlcName": "mpheist3",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 89,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 403,
+    "Name": "403_zhaba_modkit",
+    "DlcName": "mpheist3",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 78,
+    "StatModsCount": 72,
+    "Liveries": []
+  },
+  {
+    "Id": 404,
+    "Name": "404_jb7002_modkit",
+    "DlcName": "mpheist3",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 3,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 405,
+    "Name": "405_formula_modkit",
+    "DlcName": "mpheist3",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 41,
+    "StatModsCount": 75,
+    "Liveries": []
+  },
+  {
+    "Id": 406,
+    "Name": "406_everon_modkit",
+    "DlcName": "mpheist3",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 74,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 407,
+    "Name": "407_outlaw_modkit",
+    "DlcName": "mpheist3",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 20,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 408,
+    "Name": "408_Stryder_modkit",
+    "DlcName": "mpheist3",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 20,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 409,
+    "Name": "409_minitank_modkit",
+    "DlcName": "mpheist3",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 13,
+    "StatModsCount": 71,
+    "Liveries": []
+  },
+  {
+    "Id": 410,
+    "Name": "410_retinue2_modkit",
+    "DlcName": "mpheist3",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 53,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 411,
+    "Name": "411_furia_modkit",
+    "DlcName": "mpheist3",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 75,
+    "StatModsCount": 75,
+    "Liveries": []
+  },
+  {
+    "Id": 412,
+    "Name": "412_vagrant_modkit",
+    "DlcName": "mpheist3",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 52,
+    "StatModsCount": 73,
+    "Liveries": []
+  },
+  {
+    "Id": 413,
+    "Name": "413_formula2_modkit",
+    "DlcName": "mpheist3",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 34,
+    "StatModsCount": 75,
+    "Liveries": []
+  },
+  {
+    "Id": 414,
+    "Name": "414_yosemite2_modkit",
+    "DlcName": "mpheist3",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 60,
+    "StatModsCount": 77,
+    "Liveries": []
+  },
+  {
+    "Id": 999,
+    "Name": "999_placeholderhydraulic_modkit",
+    "DlcName": "mplowrider2",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 0,
+    "StatModsCount": 81,
+    "Liveries": []
+  }
+]

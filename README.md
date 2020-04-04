@@ -1,9 +1,10 @@
 # GTA-V Extracted Data Dumps
 This is a collection of various GTA V data dumps mostly useful for modding &amp; scripting. All of these are auto generated and some are enhanced with data from my GTA V researches.
 
+[![Durty Map Editor Logo](https://i.imgur.com/WsRJv3u.png)](https://discord.gg/hgSutAU)
 If you are in search for an easy way to browse those GTA V data ingame, feel free to join my Map Editor Discord: https://discord.gg/hgSutAU
 
-## All data up2date as of GTA V update: **v1868 (Online 1.50)**
+## All data up2date as of GTA V update: **v1868.1 (Online 1.50)**
 
 ---
 ## **Featured dumps**

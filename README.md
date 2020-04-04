@@ -8,7 +8,7 @@ If you are in search for an easy way to browse those GTA V data ingame, feel fre
 
 ---
 ## **Featured dumps**
-- IPLs (ipls.json) **1018** ipls, **537** interiors & **4973** interior entity sets in total (Usable with IPL & entity set natives)
+- IPLs (ipls.json) **1018** ipls, **537** interiors & **4973** interior entity sets in total (Usable with IPL & entity / interior set natives)
 - Speech Voices (speeches.json) **1018** speech voices with **150055** speeches in total (Usable with PLAY AMBIENT SPEECH natives)
 - Particle Effects (particleEffectsCompact.json) **273** particle effect dictionaries & **1286** particle effects in total (Usable with START PARTICLE FX natives)
 - Scenarios (Ped) (scenariosCompact.json) **239** scenarios in total (Usable with scenario related natives)

@@ -25,5 +25,6 @@ If you are in search for an easy way to browse those GTA V data ingame, feel fre
 - Pickup Types (Names) (pickupTypes.json) **113** pickup types in total (Usable with CREATE PICKUP natives)
 - Vehicle Mod Kits (vehicleModKits.json) **394** vehicle mod kit infos in total (Usable with SET_VEHICLE_MOD_KIT & SET_VEHICLE_LIVERY natives)
 - Vehicles (vehicles.json) **687** vehicle infos in total (Usable with VEHICLE natives)
+- AnimpostFX names (animPostFxNamesCompact.json) **147** animpostfx names in total (Usable with ANIMPOSTFX natives)
 ---
 ## Please create an issue if you have any problems with the data, so I can improve my generator. You are also welcome to create issues for dumps you would like to see.

@@ -27,6 +27,8 @@ If you are in search for an easy way to browse those GTA V data ingame, feel fre
 - Vehicle Mod Kits (vehicleModKits.json) **394** vehicle mod kit infos in total (Usable with SET_VEHICLE_MOD_KIT & SET_VEHICLE_LIVERY natives)
 - Vehicles (vehicles.json) **687** vehicle infos in total (Usable with VEHICLE natives)
 - AnimpostFX names (animPostFxNamesCompact.json) **147** animpostfx names in total (Usable with ANIMPOSTFX natives)
+- Ped Component Variations (pedComponentVariations.json) **19958** component variations & **2986** ped props from a total of **58** ped component variation collections (Usable with COMPONENT VARIATION & PED PROP natives)
+- Ped Apparel Restriction tag names (animPostFxNamesCompact.json) **375** ped apparel restriction tags in total (Usable with PED RESTRICTION natives)
 
 ## **Featured objects location dumps**
 Object location dumps contain positions of various objects of a specific type, on the GTA V map (including all interiors / MLOs).

@@ -41,3 +41,4 @@ Object location dumps contain positions of various objects of a specific type, o
 - News Paper Dispenser (worldNewsPaperDispensers.json) **796** in total ([Click for more info](https://forum.altv.mp/topic/343-all-gta-v-news-paper-dispenser-prop-positions-rotations/))
 - ATMs (worldAtms.json) **121** in total ([Click for more info](https://forum.altv.mp/topic/340-all-gta-v-atm-prop-positions-rotations/))
 - Public Phones (worldPublicPhones.json & worldExtraPhones.json) **432** public phones in total & **294** extra phones in total ([Click for more info](https://forum.altv.mp/topic/341-all-gta-v-public-phone-prop-positions-rotations/))
+- Radio Towers (worldRadioTowers.json) **86** in total ([Click for more info](https://forum.altv.mp/topic/570-all-gta-v-radio-tower-prop-positions-rotations/))

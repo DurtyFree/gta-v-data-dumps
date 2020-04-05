@@ -30,6 +30,7 @@ If you are in search for an easy way to browse those GTA V data ingame, feel fre
 - Ped Component Variations (pedComponentVariations.json) **19958** component variations & **2986** ped props from a total of **58** ped component variation collections (Usable with COMPONENT VARIATION & PED PROP natives)
 - Ped Apparel Restriction tag names (animPostFxNamesCompact.json) **375** ped apparel restriction tags in total (Usable with PED RESTRICTION natives)
 - Waypoint recording names (waypointRecordings.json) **791** waypoint recording infos in total (Usable with WAYPOINT RECORDING natives)
+- Garages (garages.json) **16** garage infos in total (Usable with GARAGE natives)
 
 ## **Featured objects location dumps**
 Object location dumps contain positions of various objects of a specific type, on the GTA V map (including all interiors / MLOs).

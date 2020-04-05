@@ -1,0 +1,210 @@
+[
+  {
+    "Name": "Michael - Beverly Hills",
+    "Hash": 360562957,
+    "Position": {
+      "X": -814.3945,
+      "Y": 183.2831,
+      "Z": 71.48192
+    },
+    "Type": "GARAGE_SAFEHOUSE_PARKING_ZONE",
+    "PermittedVehicleType": -1,
+    "IsMultiplayerGarage": false,
+    "IsEnclosed": true
+  },
+  {
+    "Name": "Trevor - Countryside",
+    "Hash": 2175093583,
+    "Position": {
+      "X": 1964.172,
+      "Y": 3815.871,
+      "Z": 31.22636
+    },
+    "Type": "GARAGE_SAFEHOUSE_PARKING_ZONE",
+    "PermittedVehicleType": -1,
+    "IsMultiplayerGarage": false,
+    "IsEnclosed": false
+  },
+  {
+    "Name": "Trevor - City",
+    "Hash": 3774828611,
+    "Position": {
+      "X": -1146.003,
+      "Y": -1542.443,
+      "Z": 1.725995
+    },
+    "Type": "GARAGE_SAFEHOUSE_PARKING_ZONE",
+    "PermittedVehicleType": -1,
+    "IsMultiplayerGarage": false,
+    "IsEnclosed": false
+  },
+  {
+    "Name": "Trevor - Stripclub",
+    "Hash": 1066626361,
+    "Position": {
+      "X": 142.5931,
+      "Y": -1290.528,
+      "Z": 27.89992
+    },
+    "Type": "GARAGE_SAFEHOUSE_PARKING_ZONE",
+    "PermittedVehicleType": -1,
+    "IsMultiplayerGarage": false,
+    "IsEnclosed": false
+  },
+  {
+    "Name": "Franklin - Aunt",
+    "Hash": 4019785634,
+    "Position": {
+      "X": -27.77285,
+      "Y": -1430.651,
+      "Z": 28.82552
+    },
+    "Type": "GARAGE_SAFEHOUSE_PARKING_ZONE",
+    "PermittedVehicleType": -1,
+    "IsMultiplayerGarage": false,
+    "IsEnclosed": true
+  },
+  {
+    "Name": "Franklin - Hills",
+    "Hash": 2393745202,
+    "Position": {
+      "X": 24.48181,
+      "Y": 539.1935,
+      "Z": 174.4461
+    },
+    "Type": "GARAGE_SAFEHOUSE_PARKING_ZONE",
+    "PermittedVehicleType": -1,
+    "IsMultiplayerGarage": false,
+    "IsEnclosed": false
+  },
+  {
+    "Name": "Lockup_PSY_01",
+    "Hash": 1335986502,
+    "Position": {
+      "X": 2337.553,
+      "Y": 3122.498,
+      "Z": 45.925
+    },
+    "Type": "GARAGE_SAFEHOUSE_PARKING_ZONE",
+    "PermittedVehicleType": 5,
+    "IsMultiplayerGarage": false,
+    "IsEnclosed": false
+  },
+  {
+    "Name": "Lockup_PSY_02",
+    "Hash": 800999792,
+    "Position": {
+      "X": 2337.553,
+      "Y": 3122.498,
+      "Z": 45.925
+    },
+    "Type": "GARAGE_SAFEHOUSE_PARKING_ZONE",
+    "PermittedVehicleType": 5,
+    "IsMultiplayerGarage": false,
+    "IsEnclosed": false
+  },
+  {
+    "Name": "Lockup_PSY_03",
+    "Hash": 577351367,
+    "Position": {
+      "X": 2337.553,
+      "Y": 3122.498,
+      "Z": 45.925
+    },
+    "Type": "GARAGE_SAFEHOUSE_PARKING_ZONE",
+    "PermittedVehicleType": 5,
+    "IsMultiplayerGarage": false,
+    "IsEnclosed": false
+  },
+  {
+    "Name": "Lockup_CSY_01",
+    "Hash": 843505453,
+    "Position": {
+      "X": 1550.639,
+      "Y": -2183.628,
+      "Z": 75.66188
+    },
+    "Type": "GARAGE_SAFEHOUSE_PARKING_ZONE",
+    "PermittedVehicleType": -1,
+    "IsMultiplayerGarage": false,
+    "IsEnclosed": false
+  },
+  {
+    "Name": "Lockup_CSY_02",
+    "Hash": 320774365,
+    "Position": {
+      "X": 1550.639,
+      "Y": -2183.628,
+      "Z": 75.66188
+    },
+    "Type": "GARAGE_SAFEHOUSE_PARKING_ZONE",
+    "PermittedVehicleType": -1,
+    "IsMultiplayerGarage": false,
+    "IsEnclosed": false
+  },
+  {
+    "Name": "Lockup_CSY_03",
+    "Hash": 80217136,
+    "Position": {
+      "X": 1550.639,
+      "Y": -2183.628,
+      "Z": 75.66188
+    },
+    "Type": "GARAGE_SAFEHOUSE_PARKING_ZONE",
+    "PermittedVehicleType": -1,
+    "IsMultiplayerGarage": false,
+    "IsEnclosed": false
+  },
+  {
+    "Name": "Lockup_CMS_01",
+    "Hash": 3782144472,
+    "Position": {
+      "X": 1196.265,
+      "Y": 2663.245,
+      "Z": 35.72999
+    },
+    "Type": "GARAGE_SAFEHOUSE_PARKING_ZONE",
+    "PermittedVehicleType": -1,
+    "IsMultiplayerGarage": false,
+    "IsEnclosed": false
+  },
+  {
+    "Name": "Lockup_CMS_02",
+    "Hash": 4093351613,
+    "Position": {
+      "X": 1196.265,
+      "Y": 2663.245,
+      "Z": 35.72999
+    },
+    "Type": "GARAGE_SAFEHOUSE_PARKING_ZONE",
+    "PermittedVehicleType": -1,
+    "IsMultiplayerGarage": false,
+    "IsEnclosed": false
+  },
+  {
+    "Name": "Lockup_CMS_03",
+    "Hash": 1029581185,
+    "Position": {
+      "X": 1196.265,
+      "Y": 2663.245,
+      "Z": 35.72999
+    },
+    "Type": "GARAGE_SAFEHOUSE_PARKING_ZONE",
+    "PermittedVehicleType": -1,
+    "IsMultiplayerGarage": false,
+    "IsEnclosed": false
+  },
+  {
+    "Name": "MP_GAR_SIMEON",
+    "Hash": 1215605247,
+    "Position": {
+      "X": 1196.665,
+      "Y": -3123.383,
+      "Z": 2.987583
+    },
+    "Type": "GARAGE_FOR_SCRIPT_TO_OPEN_AND_CLOSE",
+    "PermittedVehicleType": -1,
+    "IsMultiplayerGarage": true,
+    "IsEnclosed": false
+  }
+]

@@ -31,6 +31,7 @@ If you are in search for an easy way to browse those GTA V data ingame, feel fre
 - Ped Apparel Restriction tag names (animPostFxNamesCompact.json) **375** ped apparel restriction tags in total (Usable with PED RESTRICTION natives)
 - Waypoint recording names (waypointRecordings.json) **791** waypoint recording infos in total (Usable with WAYPOINT RECORDING natives)
 - Garages (garages.json) **16** garage infos in total (Usable with GARAGE natives)
+- Vehicle Handling Infos (vehicleHandlings.json) **611** vehicle handling infos in total (Shared for all existing vehicles, see handling id in vehicles dump)
 
 ## **Featured objects location dumps**
 Object location dumps contain positions of various objects of a specific type, on the GTA V map (including all interiors / MLOs).

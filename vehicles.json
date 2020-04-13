@@ -2842,7 +2842,6 @@
     "HasConvertibleRoof": false,
     "HasSirens": false,
     "ModKits": [
-      "0_default_modkit",
       "0_default_modkit"
     ]
   },
@@ -4082,8 +4081,8 @@
     "HasConvertibleRoof": false,
     "HasSirens": false,
     "ModKits": [
-      "1039161037",
-      "0_default_modkit"
+      "0_default_modkit",
+      "105_speedo2_modkit"
     ]
   },
   {
@@ -5149,8 +5148,8 @@
     "HasConvertibleRoof": false,
     "HasSirens": false,
     "ModKits": [
-      "14_double_modkit",
-      "0_default_modkit"
+      "0_default_modkit",
+      "14_double_modkit"
     ]
   },
   {

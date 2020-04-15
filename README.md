@@ -48,3 +48,9 @@ Object location dumps contain positions of various objects of a specific type, o
 - **ATMs** (worldAtms.json) **121** in total ([Click for more info](https://forum.altv.mp/topic/340-all-gta-v-atm-prop-positions-rotations/))
 - **Public Phones** (worldPublicPhones.json & worldExtraPhones.json) **432** public phones in total & **294** extra phones in total ([Click for more info](https://forum.altv.mp/topic/341-all-gta-v-public-phone-prop-positions-rotations/))
 - **Radio Towers** (worldRadioTowers.json) **86** in total ([Click for more info](https://forum.altv.mp/topic/570-all-gta-v-radio-tower-prop-positions-rotations/))
+- **Antennas** (worldAntennas.json) **5** in total
+- **Mobile Masts** (worldMobileMasts.json) **8** in total
+- **Air Masts** (worldAirMasts.json) **16** in total
+- **Fire Hydrants, Hoses & Drisers** (worldFireHydrantDriser.json) **1425** in total
+- **Post Boxes** (worldPostBoxes.json) **195** in total
+- **Letter Boxes** (worldLetterBoxes.json) **379** in total

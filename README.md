@@ -54,4 +54,5 @@ Object location dumps contain positions of various objects of a specific type, o
 - **Fire Hydrants, Hoses & Drisers** (worldFireHydrantDriser.json) **1425** in total
 - **Post Boxes** (worldPostBoxes.json) **195** in total
 - **Letter Boxes** (worldLetterBoxes.json) **379** in total
-- **Harvest fields** (orange trees, vine grapes, weed, salad, pumpkin, tomatoes) (worldHarvestFields.json) **623** in total
+- **Harvest fields** (orange trees, vine grapes, corns, salad, pumpkin, tomatoes) (worldHarvestFields.json) **623** in total
+- **Fruit stands** (worldFruitStands.json) **13** in total

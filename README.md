@@ -13,7 +13,7 @@ If you are in search for an easy way to browse those GTA V data ingame, feel fre
 - **Speech Voices** (speeches.json) **1018** speech voices with **150055** speeches in total (Usable with PLAY AMBIENT SPEECH natives)
 - **Particle Effects** (particleEffectsCompact.json) **273** particle effect dictionaries & **1286** particle effects in total (Usable with START PARTICLE FX natives)
 - **(Ped) Scenarios** (scenariosCompact.json) **239** scenarios in total (Usable with scenario related natives)
-- **Animations** (animDictsCompact.json) **16363** animation dictionaries & **167929** animations in total (Usable with TASK PLAY ANIM native)
+- **Animations** (animDictsCompact.json) **16363** animation dictionaries & **167315** animations in total (Usable with TASK PLAY ANIM native)
 - **Movement Clipsets** (movementClipsetsCompact.json) **557** movement clipsets in total (Usable with SET PED MOVEMENT CLIPSET native)
 - **(Walking) Movement Clipsets** (movementClipsetsWalkingCompact.json) **207** movement clipsets in total (Usable with SET PED MOVEMENT CLIPSET native)
 - **(Navigation) Nodes** (nodes.json) **259** node cells with **77991** nodes in total (Mostly useful for vehicle navigation, see navigation meshes dump for ped navigation data)
@@ -23,7 +23,7 @@ If you are in search for an easy way to browse those GTA V data ingame, feel fre
 - **Explosion Types (Names)** (explosionTypesCompact.json) **74** explosion types in total (Usable with ADD EXPLOSION native)
 - **Cam Shake Types (Names)** (camShakeTypesCompact.json) **21** cam shake types in total (Usable with SHAKE CAM & SHAKE GAMEPLAY cam natives)
 - **Audio / Sound names & ref names** (soundNames.json) **1906** audio names from a total of **62** unique audio refs (Usable with PLAY_SOUND natives)
-- **Pickup Types (Names)** (pickupTypes.json) **113** pickup types in total (Usable with CREATE PICKUP natives)
+- **Pickup Types (Names)** (pickupTypes.json) **150** pickup types in total (Usable with CREATE PICKUP natives)
 - **Vehicle Mod Kits** (vehicleModKits.json) **394** vehicle mod kit infos in total (Usable with SET_VEHICLE_MOD_KIT & SET_VEHICLE_LIVERY natives)
 - **Vehicles** (vehicles.json) **687** vehicle infos in total (Usable with VEHICLE natives)
 - **AnimpostFX names** (animPostFxNamesCompact.json) **147** animpostfx names in total (Usable with ANIMPOSTFX natives)
@@ -32,7 +32,7 @@ If you are in search for an easy way to browse those GTA V data ingame, feel fre
 - **Waypoint recording names** (waypointRecordings.json) **791** waypoint recording infos in total (Usable with WAYPOINT RECORDING natives)
 - **Garages** (garages.json) **16** garage infos in total (Usable with GARAGE natives)
 - **Vehicle Handlings** (vehicleHandlings.json) **611** vehicle handling infos in total (Shared for all existing vehicles, see handling id in vehicles dump)
-- **Zones** (vehicleHandlings.json) **97** zone infos in total (Usable with some ZONE natives, contains all bounds coords for the zones, u)
+- **Zones** (vehicleHandlings.json) **96** zone infos in total (Usable with some ZONE natives, contains all bounds coords for the zones)
 
 ## **Featured objects location dumps**
 Object location dumps contain positions of various objects of a specific type, on the GTA V map (including all interiors / MLOs).

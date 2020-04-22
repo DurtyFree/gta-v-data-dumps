@@ -56,3 +56,4 @@ Object location dumps contain positions of various objects of a specific type, o
 - **Letter Boxes** (worldLetterBoxes.json) **379** in total
 - **Harvest fields** (orange trees, vine grapes, corns, salad, pumpkin, tomatoes) (worldHarvestFields.json) **623** in total
 - **Fruit stands** (worldFruitStands.json) **13** in total
+- **Seats** (Benches, Chairs etc.) (worldSeats.json) **7651** in total

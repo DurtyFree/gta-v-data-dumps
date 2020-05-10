@@ -7657,7 +7657,7 @@
     "AmbientEmitters": null
   },
   {
-    "Name": "hash_8C42B41C",
+    "Name": "AZ_COUNTRYSIDE_CHILEAD_CABLE_CAR_LINE",
     "Shape": "Box",
     "Flags0": "0xAA800424",
     "Flags1": "0x00000000",
@@ -7880,7 +7880,7 @@
     ]
   },
   {
-    "Name": "hash_B5735807",
+    "Name": "AZ_COUNTRY_MAJESTIC_QUARRY_PIT",
     "Shape": "Box",
     "Flags0": "0xAA800424",
     "Flags1": "0x00000000",
@@ -8809,7 +8809,7 @@
     ]
   },
   {
-    "Name": "hash_219C71CC",
+    "Name": "AZ_AFB_ALARM_SPEECH",
     "Shape": "Box",
     "Flags0": "0xAA800420",
     "Flags1": "0x00000000",
@@ -9603,7 +9603,7 @@
     ]
   },
   {
-    "Name": "hash_CE860623",
+    "Name": "AZ_COUNTRYSIDE_PRISON_01_ANNOUNCER_GENERAL",
     "Shape": "Sphere",
     "Flags0": "0xAA800424",
     "Flags1": "0x00000000",
@@ -9633,7 +9633,7 @@
     ]
   },
   {
-    "Name": "hash_36CB9103",
+    "Name": "AZ_COUNTRYSIDE_PRISON_01_ANNOUNCER_WARNING",
     "Shape": "Sphere",
     "Flags0": "0xAA800420",
     "Flags1": "0x00000000",
@@ -9663,7 +9663,7 @@
     ]
   },
   {
-    "Name": "hash_97665013",
+    "Name": "AZ_COUNTRYSIDE_PRISON_01_ANNOUNCER_ALARM",
     "Shape": "Sphere",
     "Flags0": "0xAA800420",
     "Flags1": "0x00000000",
@@ -10750,7 +10750,7 @@
     ]
   },
   {
-    "Name": "hash_4A778D6B",
+    "Name": "AZ_COUNTRY_SAWMILL",
     "Shape": "Box",
     "Flags0": "0xAA800424",
     "Flags1": "0x00000000",
@@ -10793,7 +10793,7 @@
     ]
   },
   {
-    "Name": "hash_35E4EDE8",
+    "Name": "AZ_SAWMILL_CONVEYOR_01",
     "Shape": "Box",
     "Flags0": "0xAA800424",
     "Flags1": "0x00000000",
@@ -10855,7 +10855,7 @@
     ]
   },
   {
-    "Name": "hash_FA1F31C3",
+    "Name": "AZ_DISTANT_SASQUATCH",
     "Shape": "Box",
     "Flags0": "0xAA800424",
     "Flags1": "0x00000000",
@@ -10885,7 +10885,7 @@
     ]
   },
   {
-    "Name": "hash_A840AD6A",
+    "Name": "AZ_DISTANT_VEHICLES_CITY_CENTRE",
     "Shape": "Box",
     "Flags0": "0xAA800524",
     "Flags1": "0x00000000",
@@ -10916,7 +10916,7 @@
     ]
   },
   {
-    "Name": "hash_A1538D52",
+    "Name": "AZ_COUNTRYSIDE_DISTANT_CARS_ZONE_02",
     "Shape": "Box",
     "Flags0": "0xAA800424",
     "Flags1": "0x00000000",
@@ -10946,7 +10946,7 @@
     ]
   },
   {
-    "Name": "hash_4A0A5EC1",
+    "Name": "AZ_COUNTRYSIDE_DISTANT_CARS_ZONE_01",
     "Shape": "Box",
     "Flags0": "0xAA800424",
     "Flags1": "0x00000000",
@@ -10976,7 +10976,7 @@
     ]
   },
   {
-    "Name": "hash_CBB2E210",
+    "Name": "AZ_COUNTRYSIDE_DISTANT_CARS_ZONE_03",
     "Shape": "Box",
     "Flags0": "0xAA800424",
     "Flags1": "0x00000000",
@@ -11982,7 +11982,7 @@
     ]
   },
   {
-    "Name": "hash_F26B4E31",
+    "Name": "IZ_v_fib01_V_FIB01_jan_offc2",
     "Shape": "Box",
     "Flags0": "0xAA800425",
     "Flags1": "0x00000000",
@@ -12015,7 +12015,7 @@
     ]
   },
   {
-    "Name": "hash_11F08F06",
+    "Name": "IZ_v_fib01_V_FIB01_jan_comm2",
     "Shape": "Box",
     "Flags0": "0xAA800425",
     "Flags1": "0x00000000",
@@ -12045,7 +12045,7 @@
     ]
   },
   {
-    "Name": "hash_AF5349D1",
+    "Name": "IZ_V_FIB01_V_FIB01_JAN_COMM1",
     "Shape": "Box",
     "Flags0": "0xAA800425",
     "Flags1": "0x00000000",
@@ -12076,7 +12076,7 @@
     ]
   },
   {
-    "Name": "hash_00B0EABC",
+    "Name": "IZ_V_FIB01_V_FIB01_JAN_OFFC1",
     "Shape": "Box",
     "Flags0": "0xAA800425",
     "Flags1": "0x00000000",
@@ -12109,7 +12109,7 @@
     ]
   },
   {
-    "Name": "hash_DC3621C7",
+    "Name": "IZ_V_FIB01_V_FIB01_JAN_OFFC3",
     "Shape": "Box",
     "Flags0": "0xAA800425",
     "Flags1": "0x00000000",
@@ -12141,7 +12141,7 @@
     ]
   },
   {
-    "Name": "hash_2C1F53AF",
+    "Name": "IZ_V_FIB01_V_FIB01_JAN_PNTRY",
     "Shape": "Box",
     "Flags0": "0xAA800425",
     "Flags1": "0x00000000",
@@ -12173,7 +12173,7 @@
     ]
   },
   {
-    "Name": "hash_260EB06B",
+    "Name": "AZ_FIB_HEIST_JANITOR_WALKIE_TALKIE",
     "Shape": "Box",
     "Flags0": "0xAA800421",
     "Flags1": "0x00000000",
@@ -13441,7 +13441,7 @@
     ]
   },
   {
-    "Name": "hash_428AA144",
+    "Name": "AZ_FBI_HEIST_SPRINKLER_FIRES_A_01",
     "Shape": "Box",
     "Flags0": "0xAA800420",
     "Flags1": "0x00000000",
@@ -15873,7 +15873,7 @@
     ]
   },
   {
-    "Name": "hash_E431926A",
+    "Name": "AZ_strp3stge_SP",
     "Shape": "Box",
     "Flags0": "0xAA800524",
     "Flags1": "0x00000000",
@@ -30411,7 +30411,7 @@
     ]
   },
   {
-    "Name": "hash_FAF3D672",
+    "Name": "AZ_BARRY_02_AMBIENCE",
     "Shape": "Box",
     "Flags0": "0xAA800420",
     "Flags1": "0x00000000",
@@ -30444,7 +30444,7 @@
     ]
   },
   {
-    "Name": "hash_4F69983E",
+    "Name": "AZ_BARRY_01_AMBIENCE",
     "Shape": "Box",
     "Flags0": "0xAA800420",
     "Flags1": "0x00000000",
@@ -30735,7 +30735,7 @@
     ]
   },
   {
-    "Name": "hash_BCC33AFF",
+    "Name": "AZ_BIKER_CAMP_TRAILER_06",
     "Shape": "Box",
     "Flags0": "0xAA800424",
     "Flags1": "0x00000000",
@@ -30796,7 +30796,7 @@
     ]
   },
   {
-    "Name": "hash_1EEBFF3F",
+    "Name": "AZ_BIKER_CAMP_TRAILER_03",
     "Shape": "Box",
     "Flags0": "0xAA800424",
     "Flags1": "0x00000000",
@@ -31036,7 +31036,7 @@
     ]
   },
   {
-    "Name": "hash_1ECFFDBF",
+    "Name": "AZ_BIKER_CAMP_TRAILER_11",
     "Shape": "Box",
     "Flags0": "0xAA800424",
     "Flags1": "0x00000000",
@@ -31066,7 +31066,7 @@
     ]
   },
   {
-    "Name": "hash_E81E905D",
+    "Name": "AZ_BIKER_CAMP_TRAILER_12",
     "Shape": "Box",
     "Flags0": "0xAA800424",
     "Flags1": "0x00000000",
@@ -31126,7 +31126,7 @@
     ]
   },
   {
-    "Name": "hash_C5E1CBD4",
+    "Name": "AZ_BIKER_CAMP_TRAILER_14",
     "Shape": "Box",
     "Flags0": "0xAA800424",
     "Flags1": "0x00000000",
@@ -31366,7 +31366,7 @@
     ]
   },
   {
-    "Name": "hash_94C1430C",
+    "Name": "AZ_EPSILONISM_01_HILLS",
     "Shape": "Box",
     "Flags0": "0xAA800424",
     "Flags1": "0x00000000",
@@ -32165,7 +32165,7 @@
     ]
   },
   {
-    "Name": "hash_C34B2AAF",
+    "Name": "AZ_YANKTON_CEMETARY",
     "Shape": "Box",
     "Flags0": "0xAA800420",
     "Flags1": "0x00000000",
@@ -32202,7 +32202,7 @@
     ]
   },
   {
-    "Name": "hash_4280C0CB",
+    "Name": "AZ_PAPARAZZO_02_AMBIENCE",
     "Shape": "Box",
     "Flags0": "0xAA800420",
     "Flags1": "0x00000000",
@@ -32274,7 +32274,7 @@
     ]
   },
   {
-    "Name": "hash_E9E28AA9",
+    "Name": "AZ_PORT_OF_LS_UNDERWATER_CREAKS",
     "Shape": "Box",
     "Flags0": "0xAA800420",
     "Flags1": "0x00000000",
@@ -32412,7 +32412,7 @@
     ]
   },
   {
-    "Name": "hash_16DA2F5F",
+    "Name": "AZ_SOL_1_FACTORY_AREA_CONSTRUCTIONS",
     "Shape": "Box",
     "Flags0": "0xAA800520",
     "Flags1": "0x00000000",
@@ -32506,7 +32506,7 @@
     ]
   },
   {
-    "Name": "hash_8EB279E5",
+    "Name": "AZ_SPECIAL_UFO_01",
     "Shape": "Sphere",
     "Flags0": "0xAA800420",
     "Flags1": "0x00000000",
@@ -32536,7 +32536,7 @@
     ]
   },
   {
-    "Name": "hash_925C8141",
+    "Name": "AZ_SPECIAL_UFO_02",
     "Shape": "Sphere",
     "Flags0": "0xAA800420",
     "Flags1": "0x00000000",
@@ -32566,7 +32566,7 @@
     ]
   },
   {
-    "Name": "hash_A42224CC",
+    "Name": "AZ_SPECIAL_UFO_03",
     "Shape": "Sphere",
     "Flags0": "0xAA800420",
     "Flags1": "0x00000000",
@@ -32934,7 +32934,7 @@
     "AmbientEmitters": null
   },
   {
-    "Name": "hash_A9199774",
+    "Name": "AZ_UNDERWATER_EXILE_01_PLANE_WRECK",
     "Shape": "Box",
     "Flags0": "0xAA800420",
     "Flags1": "0x00000000",
@@ -33201,7 +33201,7 @@
     ]
   },
   {
-    "Name": "az_dmod_trailer_01",
+    "Name": "AZ_DMOD_TRAILER_01",
     "Shape": "Box",
     "Flags0": "0xAA800420",
     "Flags1": "0x00000000",
@@ -33686,7 +33686,7 @@
     ]
   },
   {
-    "Name": "az_dlc_heist_police_station_boost",
+    "Name": "AZ_DLC_HEIST_POLICE_STATION_BOOST",
     "Shape": "Box",
     "Flags0": "0xAA800420",
     "Flags1": "0x00000000",
@@ -33917,7 +33917,7 @@
     ]
   },
   {
-    "Name": "az_dlc_heists_biolab",
+    "Name": "AZ_DLC_HEISTS_BIOLAB",
     "Shape": "Box",
     "Flags0": "0xAA800420",
     "Flags1": "0x00000000",
@@ -33977,7 +33977,7 @@
     ]
   },
   {
-    "Name": "az_dlc_heist_biolab_garage",
+    "Name": "AZ_DLC_HEIST_BIOLAB_GARAGE",
     "Shape": "Box",
     "Flags0": "0xAA800420",
     "Flags1": "0x00000000",
@@ -34958,7 +34958,7 @@
     ]
   },
   {
-    "Name": "iz_ex_int_office_front_rm_zone",
+    "Name": "IZ_ex_int_office_FRONT_RM_Zone",
     "Shape": "Box",
     "Flags0": "0xAA800421",
     "Flags1": "0x00000000",
@@ -35071,7 +35071,7 @@
     ]
   },
   {
-    "Name": "az_dlc_biker_meth_warehouse_normal",
+    "Name": "AZ_DLC_Biker_Meth_Warehouse_Normal",
     "Shape": "Box",
     "Flags0": "0xAA800420",
     "Flags1": "0x00000000",
@@ -35113,7 +35113,7 @@
     ]
   },
   {
-    "Name": "az_dlc_biker_meth_warehouse_upgraded",
+    "Name": "AZ_DLC_Biker_Meth_Warehouse_Upgraded",
     "Shape": "Box",
     "Flags0": "0xAA800420",
     "Flags1": "0x00000000",
@@ -35157,7 +35157,7 @@
     ]
   },
   {
-    "Name": "az_dlc_biker_weed_warehouse_normal",
+    "Name": "AZ_DLC_BIKER_Weed_Warehouse_Normal",
     "Shape": "Box",
     "Flags0": "0xAA800420",
     "Flags1": "0x00000000",
@@ -35193,7 +35193,7 @@
     ]
   },
   {
-    "Name": "az_dlc_biker_weed_warehouse_upgraded",
+    "Name": "AZ_DLC_BIKER_Weed_Warehouse_Upgraded",
     "Shape": "Box",
     "Flags0": "0xAA800420",
     "Flags1": "0x00000000",
@@ -35228,7 +35228,7 @@
     ]
   },
   {
-    "Name": "az_dlc_biker_crack_warehouse_normal",
+    "Name": "AZ_DLC_Biker_Crack_Warehouse_Normal",
     "Shape": "Box",
     "Flags0": "0xAA800420",
     "Flags1": "0x00000000",
@@ -35263,7 +35263,7 @@
     ]
   },
   {
-    "Name": "az_dlc_biker_crack_warehouse_upgraded",
+    "Name": "AZ_DLC_Biker_Crack_Warehouse_Upgraded",
     "Shape": "Box",
     "Flags0": "0xAA800420",
     "Flags1": "0x00000000",
@@ -35301,7 +35301,7 @@
     ]
   },
   {
-    "Name": "az_dlc_biker_cash_warehouse_normal",
+    "Name": "AZ_DLC_Biker_Cash_Warehouse_Normal",
     "Shape": "Box",
     "Flags0": "0xAA800420",
     "Flags1": "0x00000000",
@@ -35337,7 +35337,7 @@
     ]
   },
   {
-    "Name": "az_dlc_biker_cash_warehouse_upgraded",
+    "Name": "AZ_DLC_Biker_Cash_Warehouse_Upgraded",
     "Shape": "Box",
     "Flags0": "0xAA800420",
     "Flags1": "0x00000000",
@@ -35375,7 +35375,7 @@
     ]
   },
   {
-    "Name": "az_dlc_biker_fakeid_warehouse_normal",
+    "Name": "AZ_DLC_Biker_FakeID_Warehouse_Normal",
     "Shape": "Box",
     "Flags0": "0xAA800420",
     "Flags1": "0x00000000",
@@ -35413,7 +35413,7 @@
     ]
   },
   {
-    "Name": "az_dlc_biker_fakeid_warehouse_upgraded",
+    "Name": "AZ_DLC_Biker_FakeID_Warehouse_Upgraded",
     "Shape": "Box",
     "Flags0": "0xAA800420",
     "Flags1": "0x00000000",
@@ -35639,7 +35639,7 @@
     ]
   },
   {
-    "Name": "az_dlc_gr_moc_b3_empty",
+    "Name": "AZ_DLC_GR_MOC_B3_Empty",
     "Shape": "Box",
     "Flags0": "0xAA800420",
     "Flags1": "0x00000000",
@@ -35669,7 +35669,7 @@
     ]
   },
   {
-    "Name": "az_dlc_gr_moc_b2_weapons",
+    "Name": "AZ_DLC_GR_MOC_B2_Weapons",
     "Shape": "Box",
     "Flags0": "0xAA800420",
     "Flags1": "0x00000000",
@@ -35699,7 +35699,7 @@
     ]
   },
   {
-    "Name": "az_dlc_gr_moc_b2_living",
+    "Name": "AZ_DLC_GR_MOC_B2_Living",
     "Shape": "Box",
     "Flags0": "0xAA800420",
     "Flags1": "0x00000000",
@@ -35729,7 +35729,7 @@
     ]
   },
   {
-    "Name": "az_dlc_gr_moc_b2_empty",
+    "Name": "AZ_DLC_GR_MOC_B2_Empty",
     "Shape": "Box",
     "Flags0": "0xAA800420",
     "Flags1": "0x00000000",
@@ -35759,7 +35759,7 @@
     ]
   },
   {
-    "Name": "az_dlc_gr_moc_b1_living",
+    "Name": "AZ_DLC_GR_MOC_B1_Living",
     "Shape": "Box",
     "Flags0": "0xAA800420",
     "Flags1": "0x00000000",
@@ -35789,7 +35789,7 @@
     ]
   },
   {
-    "Name": "az_dlc_gr_moc_b1_command",
+    "Name": "AZ_DLC_GR_MOC_B1_Command",
     "Shape": "Box",
     "Flags0": "0xAA800420",
     "Flags1": "0x00000000",
@@ -35821,7 +35821,7 @@
     ]
   },
   {
-    "Name": "az_dlc_gr_moc_b2_b3_weapons_vehicle",
+    "Name": "AZ_DLC_GR_MOC_B2_B3_Weapons_Vehicle",
     "Shape": "Box",
     "Flags0": "0xAA800420",
     "Flags1": "0x00000000",
@@ -35851,7 +35851,7 @@
     ]
   },
   {
-    "Name": "az_dlc_gr_moc_b3_vehicle",
+    "Name": "AZ_DLC_GR_MOC_B3_Vehicle",
     "Shape": "Box",
     "Flags0": "0xAA800420",
     "Flags1": "0x00000000",
@@ -35911,7 +35911,7 @@
     ]
   },
   {
-    "Name": "az_dlc_gr_moc_b3_living",
+    "Name": "AZ_DLC_GR_MOC_B3_Living",
     "Shape": "Box",
     "Flags0": "0xAA800420",
     "Flags1": "0x00000000",
@@ -35941,7 +35941,7 @@
     ]
   },
   {
-    "Name": "az_dlc_gr_moc_b3_weapons",
+    "Name": "AZ_DLC_GR_MOC_B3_Weapons",
     "Shape": "Box",
     "Flags0": "0xAA800420",
     "Flags1": "0x00000000",
@@ -35971,7 +35971,7 @@
     ]
   },
   {
-    "Name": "az_dlc_gr_bunker_zone_00",
+    "Name": "AZ_DLC_GR_Bunker_Zone_00",
     "Shape": "Box",
     "Flags0": "0xAA800420",
     "Flags1": "0x00000000",
@@ -36003,7 +36003,7 @@
     ]
   },
   {
-    "Name": "az_dlc_gr_bunker_zone_01",
+    "Name": "AZ_DLC_GR_Bunker_Zone_01",
     "Shape": "Box",
     "Flags0": "0xAA800420",
     "Flags1": "0x00000000",
@@ -36035,7 +36035,7 @@
     ]
   },
   {
-    "Name": "az_dlc_gr_bunker_zone_02",
+    "Name": "AZ_DLC_GR_Bunker_Zone_02",
     "Shape": "Box",
     "Flags0": "0xAA800424",
     "Flags1": "0x00000000",
@@ -36067,7 +36067,7 @@
     ]
   },
   {
-    "Name": "az_dlc_gr_bunker_zone_03",
+    "Name": "AZ_DLC_GR_Bunker_Zone_03",
     "Shape": "Box",
     "Flags0": "0xAA800420",
     "Flags1": "0x00000000",
@@ -36189,7 +36189,7 @@
     ]
   },
   {
-    "Name": "az_dlc_gr_bunker_machinery_zone",
+    "Name": "AZ_DLC_GR_Bunker_Machinery_Zone",
     "Shape": "Box",
     "Flags0": "0xAA800424",
     "Flags1": "0x00000000",
@@ -36997,7 +36997,7 @@
     ]
   },
   {
-    "Name": "az_xm_int_02_base_screen_sounds_zone",
+    "Name": "AZ_xm_int_02_base_screen_sounds_zone",
     "Shape": "Box",
     "Flags0": "0xAA800420",
     "Flags1": "0x00000000",
@@ -38529,7 +38529,7 @@
     ]
   },
   {
-    "Name": "az_dlc_xm_heist_aql_barge_north_chumash",
+    "Name": "AZ_dlc_xm_heist_aql_barge_north_chumash",
     "Shape": "Box",
     "Flags0": "0xAA800420",
     "Flags1": "0x00000000",
@@ -38561,7 +38561,7 @@
     ]
   },
   {
-    "Name": "az_dlc_xm_heist_aql_barge_procopio",
+    "Name": "AZ_dlc_xm_heist_aql_barge_procopio",
     "Shape": "Box",
     "Flags0": "0xAA800420",
     "Flags1": "0x00000000",
@@ -38593,7 +38593,7 @@
     ]
   },
   {
-    "Name": "az_dlc_xm_heist_aql_barge_chumash",
+    "Name": "AZ_dlc_xm_heist_aql_barge_chumash",
     "Shape": "Box",
     "Flags0": "0xAA800420",
     "Flags1": "0x00000000",
@@ -38625,7 +38625,7 @@
     ]
   },
   {
-    "Name": "az_dlc_xm_heist_aql_barge_palomino",
+    "Name": "AZ_dlc_xm_heist_aql_barge_palomino",
     "Shape": "Box",
     "Flags0": "0xAA800420",
     "Flags1": "0x00000000",
@@ -38657,7 +38657,7 @@
     ]
   },
   {
-    "Name": "az_dlc_xm_heist_aql_barge_chianski",
+    "Name": "AZ_dlc_xm_heist_aql_barge_chianski",
     "Shape": "Box",
     "Flags0": "0xAA800420",
     "Flags1": "0x00000000",
@@ -38689,7 +38689,7 @@
     ]
   },
   {
-    "Name": "az_dlc_xm_heist_aql_barge_vespucci",
+    "Name": "AZ_dlc_xm_heist_aql_barge_vespucci",
     "Shape": "Box",
     "Flags0": "0xAA800420",
     "Flags1": "0x00000000",
@@ -38721,7 +38721,7 @@
     ]
   },
   {
-    "Name": "az_dlc_xm_heist_aql_barge_pacific",
+    "Name": "AZ_dlc_xm_heist_aql_barge_pacific",
     "Shape": "Box",
     "Flags0": "0xAA800420",
     "Flags1": "0x00000000",
@@ -38753,7 +38753,7 @@
     ]
   },
   {
-    "Name": "az_dlc_xm_heist_aql_barge_paleto",
+    "Name": "AZ_dlc_xm_heist_aql_barge_paleto",
     "Shape": "Box",
     "Flags0": "0xAA800420",
     "Flags1": "0x00000000",
@@ -38785,7 +38785,7 @@
     ]
   },
   {
-    "Name": "az_dlc_xm_heist_aql_barge_elysian_01",
+    "Name": "AZ_dlc_xm_heist_aql_barge_elysian_01",
     "Shape": "Box",
     "Flags0": "0xAA800420",
     "Flags1": "0x00000000",
@@ -38817,7 +38817,7 @@
     ]
   },
   {
-    "Name": "az_dlc_xm_heist_aql_barge_elysian_02",
+    "Name": "AZ_dlc_xm_heist_aql_barge_elysian_02",
     "Shape": "Box",
     "Flags0": "0xAA800420",
     "Flags1": "0x00000000",
@@ -38849,7 +38849,7 @@
     ]
   },
   {
-    "Name": "iz_ba_dlc_int_01_ba_int_01_main_area",
+    "Name": "IZ_ba_dlc_int_01_ba_Int_01_main_area",
     "Shape": "Box",
     "Flags0": "0xAA800525",
     "Flags1": "0x00000000",
@@ -39284,7 +39284,7 @@
     ]
   },
   {
-    "Name": "iz_vw_dlc_casino_apart_apart_arcade_room_party",
+    "Name": "IZ_vw_dlc_casino_apart_Apart_Arcade_Room_Party",
     "Shape": "Box",
     "Flags0": "0xAA800421",
     "Flags1": "0x00000000",
@@ -40177,7 +40177,7 @@
     ]
   },
   {
-    "Name": "iz_ch_dlc_casino_heist_rm_gamingfloor_01",
+    "Name": "IZ_ch_dlc_casino_heist_rm_GamingFloor_01",
     "Shape": "Box",
     "Flags0": "0xAA800421",
     "Flags1": "0x00000000",
@@ -40209,7 +40209,7 @@
     ]
   },
   {
-    "Name": "iz_ch_dlc_casino_heist_rm_gamingfloor_02",
+    "Name": "IZ_ch_dlc_casino_heist_rm_GamingFloor_02",
     "Shape": "Box",
     "Flags0": "0xAA800421",
     "Flags1": "0x00000000",
@@ -40440,7 +40440,7 @@
     ]
   },
   {
-    "Name": "az_dlc_ch_plan_drone_station",
+    "Name": "AZ_dlc_ch_plan_Drone_Station",
     "Shape": "Box",
     "Flags0": "0xAA800420",
     "Flags1": "0x00000000",
@@ -40470,7 +40470,7 @@
     ]
   },
   {
-    "Name": "az_dlc_ch_plan_master_control",
+    "Name": "AZ_dlc_ch_plan_Master_Control",
     "Shape": "Box",
     "Flags0": "0xAA800420",
     "Flags1": "0x00000000",
@@ -40531,7 +40531,7 @@
     "AmbientEmitters": null
   },
   {
-    "Name": "az_dlc_ch_plan_hacker_area",
+    "Name": "AZ_dlc_ch_plan_Hacker_Area",
     "Shape": "Box",
     "Flags0": "0xAA800420",
     "Flags1": "0x00000000",
@@ -40562,7 +40562,7 @@
     ]
   },
   {
-    "Name": "az_h3_casino_alarm_zone_01_exterior",
+    "Name": "AZ_H3_Casino_Alarm_Zone_01_Exterior",
     "Shape": "Sphere",
     "Flags0": "0xAA800420",
     "Flags1": "0x00000000",
@@ -40592,7 +40592,7 @@
     ]
   },
   {
-    "Name": "az_h3_casino_alarm_zone_02_interior",
+    "Name": "AZ_H3_Casino_Alarm_Zone_02_Interior",
     "Shape": "Sphere",
     "Flags0": "0xAA800420",
     "Flags1": "0x00000000",
@@ -40682,7 +40682,7 @@
     ]
   },
   {
-    "Name": "az_dlc_heists_biolab",
+    "Name": "AZ_DLC_HEISTS_BIOLAB",
     "Shape": "Box",
     "Flags0": "0xAA800424",
     "Flags1": "0x00000000",

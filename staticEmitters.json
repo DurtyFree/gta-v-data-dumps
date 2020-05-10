@@ -897,7 +897,7 @@
     "Flags": "0xAA041101",
     "Interior": "v_shop_247",
     "Room": "hash_A6953108",
-    "RadioStation": "hash_4F95BAD7"
+    "RadioStation": "HIDDEN_RADIO_02_POP"
   },
   {
     "Name": "collision_8onfnzt",
@@ -933,7 +933,7 @@
     "Flags": "0xAA001401",
     "Interior": "v_carmod",
     "Room": "V_CarModRoom",
-    "RadioStation": "hash_B0962EE0"
+    "RadioStation": "HIDDEN_RADIO_03_HIPHOP_NEW"
   },
   {
     "Name": "collision_6iftp35",
@@ -945,7 +945,7 @@
     "Flags": "0xAA001401",
     "Interior": "v_carmod3",
     "Room": "hash_47C8E3C8",
-    "RadioStation": "hash_C1400C2E"
+    "RadioStation": "HIDDEN_RADIO_04_PUNK"
   },
   {
     "Name": "collision_4xxqoxy",
@@ -957,7 +957,7 @@
     "Flags": "0xAA001401",
     "Interior": "v_carmod",
     "Room": "V_CarModRoom",
-    "RadioStation": "hash_B0962EE0"
+    "RadioStation": "HIDDEN_RADIO_03_HIPHOP_NEW"
   },
   {
     "Name": "collision_3o2ykcd",
@@ -969,7 +969,7 @@
     "Flags": "0xAA001411",
     "Interior": "v_carmod3",
     "Room": "hash_47C8E3C8",
-    "RadioStation": "hash_B0962EE0"
+    "RadioStation": "HIDDEN_RADIO_03_HIPHOP_NEW"
   },
   {
     "Name": "collision_3o2ykce",
@@ -981,7 +981,7 @@
     "Flags": "0xAA001411",
     "Interior": "v_carmod3",
     "Room": "hash_47C8E3C8",
-    "RadioStation": "hash_B0962EE0"
+    "RadioStation": "HIDDEN_RADIO_03_HIPHOP_NEW"
   },
   {
     "Name": "collision_9m13c9w",
@@ -1101,7 +1101,7 @@
     "Flags": "0xAA041101",
     "Interior": "v_gasstation",
     "Room": "hash_6F6654AA",
-    "RadioStation": "hash_4F95BAD7"
+    "RadioStation": "HIDDEN_RADIO_02_POP"
   },
   {
     "Name": "collision_7phqh1y",
@@ -1125,7 +1125,7 @@
     "Flags": "0xAA041501",
     "Interior": "v_gun2",
     "Room": "hash_31586F03",
-    "RadioStation": "hash_C343DA28"
+    "RadioStation": "HIDDEN_RADIO_06_COUNTRY"
   },
   {
     "Name": "collision_7cbbai",
@@ -1137,7 +1137,7 @@
     "Flags": "0xAA041501",
     "Interior": "v_gun2",
     "Room": "hash_31586F03",
-    "RadioStation": "hash_C4749814"
+    "RadioStation": "HIDDEN_RADIO_01_CLASS_ROCK"
   },
   {
     "Name": "collision_8vnj3e5",
@@ -1149,7 +1149,7 @@
     "Flags": "0xAA041501",
     "Interior": "v_gun2",
     "Room": "hash_31586F03",
-    "RadioStation": "hash_C1400C2E"
+    "RadioStation": "HIDDEN_RADIO_04_PUNK"
   },
   {
     "Name": "collision_9nljumi",
@@ -1161,7 +1161,7 @@
     "Flags": "0xAA041501",
     "Interior": "v_gun2",
     "Room": "hash_31586F03",
-    "RadioStation": "hash_C1400C2E"
+    "RadioStation": "HIDDEN_RADIO_04_PUNK"
   },
   {
     "Name": "collision_8kajsg8",
@@ -1173,7 +1173,7 @@
     "Flags": "0xAA041501",
     "Interior": "v_gun2",
     "Room": "hash_31586F03",
-    "RadioStation": "hash_C4749814"
+    "RadioStation": "HIDDEN_RADIO_01_CLASS_ROCK"
   },
   {
     "Name": "collision_9f7v5lx",
@@ -1197,7 +1197,7 @@
     "Flags": "0xAA041501",
     "Interior": "v_gun2",
     "Room": "hash_31586F03",
-    "RadioStation": "hash_C343DA28"
+    "RadioStation": "HIDDEN_RADIO_06_COUNTRY"
   },
   {
     "Name": "collision_9rr1w2q",
@@ -1209,7 +1209,7 @@
     "Flags": "0xAA041501",
     "Interior": "v_gun2",
     "Room": "hash_31586F03",
-    "RadioStation": "hash_C4749814"
+    "RadioStation": "HIDDEN_RADIO_01_CLASS_ROCK"
   },
   {
     "Name": "collision_7egukuo",
@@ -1221,7 +1221,7 @@
     "Flags": "0xAA041501",
     "Interior": "v_gun2",
     "Room": "hash_31586F03",
-    "RadioStation": "hash_C1400C2E"
+    "RadioStation": "HIDDEN_RADIO_04_PUNK"
   },
   {
     "Name": "collision_t9hkty",
@@ -1257,7 +1257,7 @@
     "Flags": "0xAA041411",
     "Interior": "v_barbers",
     "Room": "hash_020AD218",
-    "RadioStation": "hash_90EFE3FA"
+    "RadioStation": "HIDDEN_RADIO_15_MOTOWN"
   },
   {
     "Name": "collision_mxmsqq",
@@ -1269,7 +1269,7 @@
     "Flags": "0xAA041411",
     "Interior": "v_barbers",
     "Room": "hash_020AD218",
-    "RadioStation": "hash_C343DA28"
+    "RadioStation": "HIDDEN_RADIO_06_COUNTRY"
   },
   {
     "Name": "collision_973wfxw",
@@ -1281,7 +1281,7 @@
     "Flags": "0xAA041411",
     "Interior": "v_barbers",
     "Room": "hash_020AD218",
-    "RadioStation": "hash_C343DA28"
+    "RadioStation": "HIDDEN_RADIO_06_COUNTRY"
   },
   {
     "Name": "collision_9o760jw",
@@ -1293,7 +1293,7 @@
     "Flags": "0xAA041411",
     "Interior": "v_barbers",
     "Room": "hash_020AD218",
-    "RadioStation": "hash_90EFE3FA"
+    "RadioStation": "HIDDEN_RADIO_15_MOTOWN"
   },
   {
     "Name": "collision_3idc4y8",
@@ -1305,7 +1305,7 @@
     "Flags": "0xAA041401",
     "Interior": "v_hairdresser",
     "Room": "hash_70EDE2B3",
-    "RadioStation": "hash_4F95BAD7"
+    "RadioStation": "HIDDEN_RADIO_02_POP"
   },
   {
     "Name": "collision_8qmxpk1",
@@ -1329,7 +1329,7 @@
     "Flags": "0xAA041501",
     "Interior": "v_clotheshi",
     "Room": "hash_4AFC9331",
-    "RadioStation": "hash_4F95BAD7"
+    "RadioStation": "HIDDEN_RADIO_02_POP"
   },
   {
     "Name": "collision_yalnt5",
@@ -1341,7 +1341,7 @@
     "Flags": "0xAA041501",
     "Interior": "v_clotheshi",
     "Room": "hash_4AFC9331",
-    "RadioStation": "hash_4F95BAD7"
+    "RadioStation": "HIDDEN_RADIO_02_POP"
   },
   {
     "Name": "collision_03qx2f",
@@ -1353,7 +1353,7 @@
     "Flags": "0xAA041501",
     "Interior": "v_clotheshi",
     "Room": "hash_4AFC9331",
-    "RadioStation": "hash_4F95BAD7"
+    "RadioStation": "HIDDEN_RADIO_02_POP"
   },
   {
     "Name": "collision_8ugi1qu",
@@ -1389,7 +1389,7 @@
     "Flags": "0xAA041100",
     "Interior": "v_jewel2",
     "Room": "hash_63747A2E",
-    "RadioStation": "hash_90EFE3FA"
+    "RadioStation": "HIDDEN_RADIO_15_MOTOWN"
   },
   {
     "Name": "collision_yazqb9",
@@ -1413,7 +1413,7 @@
     "Flags": "0xAA041101",
     "Interior": "v_gen_liquor",
     "Room": "liquor_front",
-    "RadioStation": "hash_C4749814"
+    "RadioStation": "HIDDEN_RADIO_01_CLASS_ROCK"
   },
   {
     "Name": "collision_4xxqoxz",
@@ -1425,7 +1425,7 @@
     "Flags": "0xAA001401",
     "Interior": "v_lockup",
     "Room": "hash_2CCC5BEF",
-    "RadioStation": "hash_B0962EE0"
+    "RadioStation": "HIDDEN_RADIO_03_HIPHOP_NEW"
   },
   {
     "Name": "collision_8aoabav",
@@ -1449,7 +1449,7 @@
     "Flags": "0xAA041501",
     "Interior": "v_clotheslo",
     "Room": "hash_C6BF12B9",
-    "RadioStation": "hash_170FC52E"
+    "RadioStation": "HIDDEN_RADIO_16_SILVERLAKE"
   },
   {
     "Name": "collision_yun7rv",
@@ -1461,7 +1461,7 @@
     "Flags": "0xAA041501",
     "Interior": "v_clotheslo",
     "Room": "hash_C6BF12B9",
-    "RadioStation": "hash_170FC52E"
+    "RadioStation": "HIDDEN_RADIO_16_SILVERLAKE"
   },
   {
     "Name": "collision_vpiwey",
@@ -1473,7 +1473,7 @@
     "Flags": "0xAA041501",
     "Interior": "v_clotheslo",
     "Room": "hash_C6BF12B9",
-    "RadioStation": "hash_170FC52E"
+    "RadioStation": "HIDDEN_RADIO_16_SILVERLAKE"
   },
   {
     "Name": "collision_y431uxs",
@@ -1485,7 +1485,7 @@
     "Flags": "0xAA041501",
     "Interior": "v_clotheslo",
     "Room": "hash_C6BF12B9",
-    "RadioStation": "hash_C4749814"
+    "RadioStation": "HIDDEN_RADIO_01_CLASS_ROCK"
   },
   {
     "Name": "collision_9e648jo",
@@ -1497,7 +1497,7 @@
     "Flags": "0xAA041501",
     "Interior": "v_clotheslo",
     "Room": "hash_C6BF12B9",
-    "RadioStation": "hash_C343DA28"
+    "RadioStation": "HIDDEN_RADIO_06_COUNTRY"
   },
   {
     "Name": "collision_3y7plf",
@@ -1509,7 +1509,7 @@
     "Flags": "0xAA041501",
     "Interior": "v_clotheslo",
     "Room": "hash_C6BF12B9",
-    "RadioStation": "hash_C343DA28"
+    "RadioStation": "HIDDEN_RADIO_06_COUNTRY"
   },
   {
     "Name": "collision_721ctit",
@@ -1521,7 +1521,7 @@
     "Flags": "0xAA041501",
     "Interior": "v_clotheslo",
     "Room": "hash_C6BF12B9",
-    "RadioStation": "hash_C343DA28"
+    "RadioStation": "HIDDEN_RADIO_06_COUNTRY"
   },
   {
     "Name": "collision_3lgh4o",
@@ -1545,7 +1545,7 @@
     "Flags": "0xAA041501",
     "Interior": "v_gun",
     "Room": "V_7_GunSHopRm",
-    "RadioStation": "hash_C1400C2E"
+    "RadioStation": "HIDDEN_RADIO_04_PUNK"
   },
   {
     "Name": "collision_80v4tgd",
@@ -1557,7 +1557,7 @@
     "Flags": "0xAA041501",
     "Interior": "v_gun",
     "Room": "V_7_GunSHopRm",
-    "RadioStation": "hash_C1400C2E"
+    "RadioStation": "HIDDEN_RADIO_04_PUNK"
   },
   {
     "Name": "LOS_SANTOS_AMMUNATION_GUN_RANGE",
@@ -1569,7 +1569,7 @@
     "Flags": "0xAA041501",
     "Interior": "v_gun",
     "Room": "V_7_ShootRm",
-    "RadioStation": "hash_C1400C2E"
+    "RadioStation": "HIDDEN_RADIO_04_PUNK"
   },
   {
     "Name": "SE_AMMUNATION_CYPRESS_FLATS_GUN_RANGE",
@@ -1581,7 +1581,7 @@
     "Flags": "0xAA041501",
     "Interior": "v_gun",
     "Room": "V_7_ShootRm",
-    "RadioStation": "hash_C1400C2E"
+    "RadioStation": "HIDDEN_RADIO_04_PUNK"
   },
   {
     "Name": "collision_84th0u7",
@@ -1629,7 +1629,7 @@
     "Flags": "0xAA041411",
     "Interior": "v_garages",
     "Room": "hash_0340C0D5",
-    "RadioStation": "hash_B0962EE0"
+    "RadioStation": "HIDDEN_RADIO_03_HIPHOP_NEW"
   },
   {
     "Name": "SE_MP_GARAGE_L_RADIO",
@@ -1641,7 +1641,7 @@
     "Flags": "0xAA041501",
     "Interior": "v_garagel",
     "Room": "hash_40AED2F9",
-    "RadioStation": "hash_B0962EE0"
+    "RadioStation": "HIDDEN_RADIO_03_HIPHOP_NEW"
   },
   {
     "Name": "collision_xdxxya",
@@ -1653,7 +1653,7 @@
     "Flags": "0xAA041101",
     "Interior": "v_clothesmid",
     "Room": "hash_6BE26F02",
-    "RadioStation": "hash_170FC52E"
+    "RadioStation": "HIDDEN_RADIO_16_SILVERLAKE"
   },
   {
     "Name": "collision_vf6662",
@@ -1665,7 +1665,7 @@
     "Flags": "0xAA041501",
     "Interior": "v_clothesmid",
     "Room": "hash_6BE26F02",
-    "RadioStation": "hash_170FC52E"
+    "RadioStation": "HIDDEN_RADIO_16_SILVERLAKE"
   },
   {
     "Name": "collision_e4cikt",
@@ -1677,7 +1677,7 @@
     "Flags": "0xAA041101",
     "Interior": "v_clothesmid",
     "Room": "hash_6BE26F02",
-    "RadioStation": "hash_170FC52E"
+    "RadioStation": "HIDDEN_RADIO_16_SILVERLAKE"
   },
   {
     "Name": "collision_volqdo",
@@ -1689,7 +1689,7 @@
     "Flags": "0xAA041101",
     "Interior": "v_clothesmid",
     "Room": "hash_6BE26F02",
-    "RadioStation": "hash_170FC52E"
+    "RadioStation": "HIDDEN_RADIO_16_SILVERLAKE"
   },
   {
     "Name": "collision_9qv4ecm",
@@ -1701,7 +1701,7 @@
     "Flags": "0xAA141001",
     "Interior": "v_rockclub",
     "Room": "hash_186685A5",
-    "RadioStation": "hash_C1400C2E"
+    "RadioStation": "HIDDEN_RADIO_04_PUNK"
   },
   {
     "Name": "collision_xcmphu",
@@ -1749,7 +1749,7 @@
     "Flags": "0xAA041501",
     "Interior": "v_tattoo",
     "Room": "MainTatRm",
-    "RadioStation": "hash_C1400C2E"
+    "RadioStation": "HIDDEN_RADIO_04_PUNK"
   },
   {
     "Name": "collision_zyo5rz",
@@ -1761,7 +1761,7 @@
     "Flags": "0xAA041501",
     "Interior": "v_tattoo2",
     "Room": "hash_21A4052F",
-    "RadioStation": "hash_C1400C2E"
+    "RadioStation": "HIDDEN_RADIO_04_PUNK"
   },
   {
     "Name": "collision_4gamuf4",
@@ -1893,7 +1893,7 @@
     "Flags": "0xAA041411",
     "Interior": "v_hicksbar",
     "Room": "hash_14C45596",
-    "RadioStation": "hash_C343DA28"
+    "RadioStation": "HIDDEN_RADIO_06_COUNTRY"
   },
   {
     "Name": "collision_95dkvjn",
@@ -1905,7 +1905,7 @@
     "Flags": "0xAA041000",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_C343DA28"
+    "RadioStation": "HIDDEN_RADIO_06_COUNTRY"
   },
   {
     "Name": "SE_LS_DOCKS_RADIO_01",
@@ -2085,7 +2085,7 @@
     "Flags": "0xAA041001",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_4F95BAD7"
+    "RadioStation": "HIDDEN_RADIO_02_POP"
   },
   {
     "Name": "collision_9zhp4y3",
@@ -2109,7 +2109,7 @@
     "Flags": "0xAA041001",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_4F95BAD7"
+    "RadioStation": "HIDDEN_RADIO_02_POP"
   },
   {
     "Name": "collision_8cue4t1",
@@ -2181,7 +2181,7 @@
     "Flags": "0xAA041001",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_4F95BAD7"
+    "RadioStation": "HIDDEN_RADIO_02_POP"
   },
   {
     "Name": "collision_327tw45",
@@ -2205,7 +2205,7 @@
     "Flags": "0xAA041001",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_C4749814"
+    "RadioStation": "HIDDEN_RADIO_01_CLASS_ROCK"
   },
   {
     "Name": "collision_6wo2nkd",
@@ -2217,7 +2217,7 @@
     "Flags": "0xAA041001",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_4F95BAD7"
+    "RadioStation": "HIDDEN_RADIO_02_POP"
   },
   {
     "Name": "collision_92n5k2",
@@ -2265,7 +2265,7 @@
     "Flags": "0xAA041001",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_4F95BAD7"
+    "RadioStation": "HIDDEN_RADIO_02_POP"
   },
   {
     "Name": "collision_8oipn8g",
@@ -2325,7 +2325,7 @@
     "Flags": "0xAA041001",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_4F95BAD7"
+    "RadioStation": "HIDDEN_RADIO_02_POP"
   },
   {
     "Name": "SE_RESTAURANTS_SUNSET_13",
@@ -2337,7 +2337,7 @@
     "Flags": "0xAA041001",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_4F95BAD7"
+    "RadioStation": "HIDDEN_RADIO_02_POP"
   },
   {
     "Name": "collision_9yjl1lb",
@@ -2445,7 +2445,7 @@
     "Flags": "0xAA041001",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_C4749814"
+    "RadioStation": "HIDDEN_RADIO_01_CLASS_ROCK"
   },
   {
     "Name": "collision_8i1gio0",
@@ -2469,7 +2469,7 @@
     "Flags": "0xAA041001",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_4F95BAD7"
+    "RadioStation": "HIDDEN_RADIO_02_POP"
   },
   {
     "Name": "collision_8i1gio6",
@@ -2517,7 +2517,7 @@
     "Flags": "0xAA041001",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_C4749814"
+    "RadioStation": "HIDDEN_RADIO_01_CLASS_ROCK"
   },
   {
     "Name": "collision_9n5r229",
@@ -2553,7 +2553,7 @@
     "Flags": "0xAA041001",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_170FC52E"
+    "RadioStation": "HIDDEN_RADIO_16_SILVERLAKE"
   },
   {
     "Name": "collision_9n5r233",
@@ -2577,7 +2577,7 @@
     "Flags": "0xAA041001",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_C4749814"
+    "RadioStation": "HIDDEN_RADIO_01_CLASS_ROCK"
   },
   {
     "Name": "collision_9n5r245",
@@ -2673,7 +2673,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_46279298"
+    "RadioStation": "HIDDEN_RADIO_ADVERTS"
   },
   {
     "Name": "collision_0qkz84",
@@ -2685,7 +2685,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_46279298"
+    "RadioStation": "HIDDEN_RADIO_ADVERTS"
   },
   {
     "Name": "collision_9ddk1ea",
@@ -2697,7 +2697,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_46279298"
+    "RadioStation": "HIDDEN_RADIO_ADVERTS"
   },
   {
     "Name": "collision_8eq2r57",
@@ -2709,7 +2709,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_90EFE3FA"
+    "RadioStation": "HIDDEN_RADIO_15_MOTOWN"
   },
   {
     "Name": "collision_6rjjl43",
@@ -2757,7 +2757,7 @@
     "Flags": "0xAA041001",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_C4749814"
+    "RadioStation": "HIDDEN_RADIO_01_CLASS_ROCK"
   },
   {
     "Name": "collision_9mcyt0m",
@@ -2769,7 +2769,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_90EFE3FA"
+    "RadioStation": "HIDDEN_RADIO_15_MOTOWN"
   },
   {
     "Name": "collision_95u4yhh",
@@ -2865,7 +2865,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_170FC52E"
+    "RadioStation": "HIDDEN_RADIO_16_SILVERLAKE"
   },
   {
     "Name": "collision_tw7p12",
@@ -2901,7 +2901,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_90EFE3FA"
+    "RadioStation": "HIDDEN_RADIO_15_MOTOWN"
   },
   {
     "Name": "collision_jtz75d",
@@ -2913,7 +2913,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_90EFE3FA"
+    "RadioStation": "HIDDEN_RADIO_15_MOTOWN"
   },
   {
     "Name": "collision_8k5km34",
@@ -2925,7 +2925,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_90EFE3FA"
+    "RadioStation": "HIDDEN_RADIO_15_MOTOWN"
   },
   {
     "Name": "collision_w9vvmt",
@@ -2937,7 +2937,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_C4749814"
+    "RadioStation": "HIDDEN_RADIO_01_CLASS_ROCK"
   },
   {
     "Name": "collision_9xbp6ga",
@@ -2973,7 +2973,7 @@
     "Flags": "0xAA041001",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_90EFE3FA"
+    "RadioStation": "HIDDEN_RADIO_15_MOTOWN"
   },
   {
     "Name": "collision_43hbbl1",
@@ -2997,7 +2997,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_90EFE3FA"
+    "RadioStation": "HIDDEN_RADIO_15_MOTOWN"
   },
   {
     "Name": "collision_nwon2z",
@@ -3009,7 +3009,7 @@
     "Flags": "0xAA041001",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_4F95BAD7"
+    "RadioStation": "HIDDEN_RADIO_02_POP"
   },
   {
     "Name": "collision_7uebc93",
@@ -3021,7 +3021,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_90EFE3FA"
+    "RadioStation": "HIDDEN_RADIO_15_MOTOWN"
   },
   {
     "Name": "collision_8m36851",
@@ -3045,7 +3045,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_C1400C2E"
+    "RadioStation": "HIDDEN_RADIO_04_PUNK"
   },
   {
     "Name": "TREVOR1_TRAILER_PARK_MAIN_TRAILER_RADIO_01",
@@ -3057,7 +3057,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_C1400C2E"
+    "RadioStation": "HIDDEN_RADIO_04_PUNK"
   },
   {
     "Name": "TREVOR1_TRAILER_PARK_MAIN_TRAILER_RADIO_02",
@@ -3069,7 +3069,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_C1400C2E"
+    "RadioStation": "HIDDEN_RADIO_04_PUNK"
   },
   {
     "Name": "TREVOR1_TRAILER_PARK_MAIN_TRAILER_RADIO_03",
@@ -3081,7 +3081,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_C1400C2E"
+    "RadioStation": "HIDDEN_RADIO_04_PUNK"
   },
   {
     "Name": "SE_FAMILY_2_BOAT_RADIO",
@@ -3093,7 +3093,7 @@
     "Flags": "0xAA040410",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_4F95BAD7"
+    "RadioStation": "HIDDEN_RADIO_02_POP"
   },
   {
     "Name": "collision_9o6wr2t",
@@ -3129,7 +3129,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_E3D9C5EC"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV"
   },
   {
     "Name": "collision_mzd5e",
@@ -3141,7 +3141,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_FBDF3747"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV_BRIGHT"
   },
   {
     "Name": "collision_mzd5f",
@@ -3153,7 +3153,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_FBDF3747"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV_BRIGHT"
   },
   {
     "Name": "collision_mzd5g",
@@ -3165,7 +3165,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_FBDF3747"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV_BRIGHT"
   },
   {
     "Name": "collision_mzd5h",
@@ -3177,7 +3177,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_FBDF3747"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV_BRIGHT"
   },
   {
     "Name": "collision_mzd5i",
@@ -3189,7 +3189,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_FBDF3747"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV_BRIGHT"
   },
   {
     "Name": "collision_mzd5j",
@@ -3201,7 +3201,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_FBDF3747"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV_BRIGHT"
   },
   {
     "Name": "collision_mzd5k",
@@ -3213,7 +3213,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_FBDF3747"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV_BRIGHT"
   },
   {
     "Name": "collision_mzd5l",
@@ -3225,7 +3225,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_FBDF3747"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV_BRIGHT"
   },
   {
     "Name": "collision_mzd5m",
@@ -3237,7 +3237,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_FBDF3747"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV_BRIGHT"
   },
   {
     "Name": "collision_fy3qkg",
@@ -3249,7 +3249,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_FBDF3747"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV_BRIGHT"
   },
   {
     "Name": "collision_fy3qkh",
@@ -3261,7 +3261,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_FBDF3747"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV_BRIGHT"
   },
   {
     "Name": "collision_fy3qki",
@@ -3273,7 +3273,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_FBDF3747"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV_BRIGHT"
   },
   {
     "Name": "collision_fy3qkj",
@@ -3285,7 +3285,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_E3D9C5EC"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV"
   },
   {
     "Name": "collision_fy3qkk",
@@ -3297,7 +3297,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_E3D9C5EC"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV"
   },
   {
     "Name": "collision_fy3qkl",
@@ -3309,7 +3309,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_E3D9C5EC"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV"
   },
   {
     "Name": "collision_fy3qkm",
@@ -3321,7 +3321,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_E3D9C5EC"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV"
   },
   {
     "Name": "collision_fy3qkn",
@@ -3333,7 +3333,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_E3D9C5EC"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV"
   },
   {
     "Name": "collision_fy3qko",
@@ -3345,7 +3345,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_E3D9C5EC"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV"
   },
   {
     "Name": "collision_fy3qkp",
@@ -3357,7 +3357,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_E3D9C5EC"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV"
   },
   {
     "Name": "collision_5xc7hvk",
@@ -3369,7 +3369,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_E3D9C5EC"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV"
   },
   {
     "Name": "collision_5xc7hvl",
@@ -3381,7 +3381,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_E3D9C5EC"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV"
   },
   {
     "Name": "collision_5xc7hvm",
@@ -3393,7 +3393,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_E3D9C5EC"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV"
   },
   {
     "Name": "collision_5xc7hvn",
@@ -3405,7 +3405,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_E3D9C5EC"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV"
   },
   {
     "Name": "collision_5xc7hvo",
@@ -3417,7 +3417,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_FBDF3747"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV_BRIGHT"
   },
   {
     "Name": "collision_5xc7hvp",
@@ -3429,7 +3429,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_FBDF3747"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV_BRIGHT"
   },
   {
     "Name": "collision_5xc7hvq",
@@ -3441,7 +3441,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_FBDF3747"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV_BRIGHT"
   },
   {
     "Name": "collision_5xc7hvr",
@@ -3453,7 +3453,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_FBDF3747"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV_BRIGHT"
   },
   {
     "Name": "collision_5xc7hvs",
@@ -3465,7 +3465,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_FBDF3747"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV_BRIGHT"
   },
   {
     "Name": "collision_5xc7hvt",
@@ -3477,7 +3477,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_FBDF3747"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV_BRIGHT"
   },
   {
     "Name": "collision_fy3qms",
@@ -3489,7 +3489,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_FBDF3747"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV_BRIGHT"
   },
   {
     "Name": "collision_fy3qmt",
@@ -3501,7 +3501,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_FBDF3747"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV_BRIGHT"
   },
   {
     "Name": "collision_fy3qmu",
@@ -3513,7 +3513,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_FBDF3747"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV_BRIGHT"
   },
   {
     "Name": "collision_fy3qmv",
@@ -3525,7 +3525,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_FBDF3747"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV_BRIGHT"
   },
   {
     "Name": "collision_fy3qmw",
@@ -3537,7 +3537,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_FBDF3747"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV_BRIGHT"
   },
   {
     "Name": "collision_fy3qmx",
@@ -3549,7 +3549,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_FBDF3747"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV_BRIGHT"
   },
   {
     "Name": "collision_fy3qmy",
@@ -3561,7 +3561,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_FBDF3747"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV_BRIGHT"
   },
   {
     "Name": "collision_fy3qmz",
@@ -3573,7 +3573,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_FBDF3747"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV_BRIGHT"
   },
   {
     "Name": "collision_947g9sq",
@@ -3585,7 +3585,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_FBDF3747"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV_BRIGHT"
   },
   {
     "Name": "collision_tr34f0",
@@ -3597,7 +3597,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_FBDF3747"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV_BRIGHT"
   },
   {
     "Name": "collision_uqc35r",
@@ -3609,7 +3609,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_FBDF3747"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV_BRIGHT"
   },
   {
     "Name": "collision_uqc35s",
@@ -3621,7 +3621,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_E3D9C5EC"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV"
   },
   {
     "Name": "collision_uqc35t",
@@ -3633,7 +3633,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_E3D9C5EC"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV"
   },
   {
     "Name": "collision_uqc35u",
@@ -3645,7 +3645,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_E3D9C5EC"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV"
   },
   {
     "Name": "collision_853iha",
@@ -3657,7 +3657,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_E3D9C5EC"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV"
   },
   {
     "Name": "collision_853ihb",
@@ -3669,7 +3669,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_E3D9C5EC"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV"
   },
   {
     "Name": "collision_853ihc",
@@ -3681,7 +3681,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_E3D9C5EC"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV"
   },
   {
     "Name": "collision_853ihd",
@@ -3693,7 +3693,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_E3D9C5EC"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV"
   },
   {
     "Name": "collision_853ihe",
@@ -3705,7 +3705,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_E3D9C5EC"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV"
   },
   {
     "Name": "collision_853ihf",
@@ -3717,7 +3717,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_E3D9C5EC"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV"
   },
   {
     "Name": "collision_zk2kwl",
@@ -3729,7 +3729,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_E3D9C5EC"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV"
   },
   {
     "Name": "collision_zk2kwm",
@@ -3741,7 +3741,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_E3D9C5EC"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV"
   },
   {
     "Name": "collision_zk2kwn",
@@ -3753,7 +3753,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_E3D9C5EC"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV"
   },
   {
     "Name": "collision_6rnqaa",
@@ -3765,7 +3765,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_E3D9C5EC"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV"
   },
   {
     "Name": "collision_6rnqab",
@@ -3777,7 +3777,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_E3D9C5EC"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV"
   },
   {
     "Name": "collision_6rnqac",
@@ -3789,7 +3789,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_E3D9C5EC"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV"
   },
   {
     "Name": "collision_6rnqad",
@@ -3801,7 +3801,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_E3D9C5EC"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV"
   },
   {
     "Name": "collision_6rnqae",
@@ -3813,7 +3813,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_E3D9C5EC"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV"
   },
   {
     "Name": "collision_6rnqaf",
@@ -3825,7 +3825,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_E3D9C5EC"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV"
   },
   {
     "Name": "collision_6rnqag",
@@ -3837,7 +3837,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_E3D9C5EC"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV"
   },
   {
     "Name": "collision_zk2kxf",
@@ -3849,7 +3849,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_E3D9C5EC"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV"
   },
   {
     "Name": "collision_zk2kxg",
@@ -3861,7 +3861,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_E3D9C5EC"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV"
   },
   {
     "Name": "collision_zk2kxh",
@@ -3873,7 +3873,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_E3D9C5EC"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV"
   },
   {
     "Name": "collision_zk2kxi",
@@ -3885,7 +3885,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_E3D9C5EC"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV"
   },
   {
     "Name": "collision_zk2kxj",
@@ -3897,7 +3897,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_E3D9C5EC"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV"
   },
   {
     "Name": "collision_zk2kxk",
@@ -3909,7 +3909,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_E3D9C5EC"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV"
   },
   {
     "Name": "collision_zk2kxl",
@@ -3921,7 +3921,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_E3D9C5EC"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV"
   },
   {
     "Name": "collision_zk2kxm",
@@ -3933,7 +3933,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_E3D9C5EC"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV"
   },
   {
     "Name": "collision_zk2kxn",
@@ -3945,7 +3945,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_E3D9C5EC"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV"
   },
   {
     "Name": "collision_zk2kxo",
@@ -3957,7 +3957,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_E3D9C5EC"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV"
   },
   {
     "Name": "collision_6rnqcf",
@@ -3969,7 +3969,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_E3D9C5EC"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV"
   },
   {
     "Name": "collision_7mj39vq",
@@ -3981,7 +3981,7 @@
     "Flags": "0xAA041411",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_B0962EE0"
+    "RadioStation": "HIDDEN_RADIO_03_HIPHOP_NEW"
   },
   {
     "Name": "collision_7mj39vr",
@@ -3993,7 +3993,7 @@
     "Flags": "0xAA041411",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_B0962EE0"
+    "RadioStation": "HIDDEN_RADIO_03_HIPHOP_NEW"
   },
   {
     "Name": "collision_7mj39vs",
@@ -4005,7 +4005,7 @@
     "Flags": "0xAA041411",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_B0962EE0"
+    "RadioStation": "HIDDEN_RADIO_03_HIPHOP_NEW"
   },
   {
     "Name": "collision_7mj39vt",
@@ -4017,7 +4017,7 @@
     "Flags": "0xAA041411",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_4F95BAD7"
+    "RadioStation": "HIDDEN_RADIO_02_POP"
   },
   {
     "Name": "collision_7mj39vu",
@@ -4041,7 +4041,7 @@
     "Flags": "0xAA041411",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_4F95BAD7"
+    "RadioStation": "HIDDEN_RADIO_02_POP"
   },
   {
     "Name": "collision_7mj39vw",
@@ -4053,7 +4053,7 @@
     "Flags": "0xAA041411",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_170FC52E"
+    "RadioStation": "HIDDEN_RADIO_16_SILVERLAKE"
   },
   {
     "Name": "collision_7mj39vx",
@@ -4065,7 +4065,7 @@
     "Flags": "0xAA040411",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_90D167B0"
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
   },
   {
     "Name": "collision_a4btnw",
@@ -4089,7 +4089,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_C4749814"
+    "RadioStation": "HIDDEN_RADIO_01_CLASS_ROCK"
   },
   {
     "Name": "collision_53y66pl",
@@ -4101,7 +4101,7 @@
     "Flags": "0xAA041411",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_C343DA28"
+    "RadioStation": "HIDDEN_RADIO_06_COUNTRY"
   },
   {
     "Name": "collision_2vtimb",
@@ -4113,7 +4113,7 @@
     "Flags": "0xAA040401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_3A75F2AC"
+    "RadioStation": "HIDDEN_RADIO_12_REGGAE"
   },
   {
     "Name": "collision_2vtimc",
@@ -4125,7 +4125,7 @@
     "Flags": "0xAA040401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_3A75F2AC"
+    "RadioStation": "HIDDEN_RADIO_12_REGGAE"
   },
   {
     "Name": "collision_2vtimd",
@@ -4137,7 +4137,7 @@
     "Flags": "0xAA040411",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_3A75F2AC"
+    "RadioStation": "HIDDEN_RADIO_12_REGGAE"
   },
   {
     "Name": "collision_2vtime",
@@ -4149,7 +4149,7 @@
     "Flags": "0xAA040411",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_3A75F2AC"
+    "RadioStation": "HIDDEN_RADIO_12_REGGAE"
   },
   {
     "Name": "collision_2vtimf",
@@ -4161,7 +4161,7 @@
     "Flags": "0xAA040411",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_3A75F2AC"
+    "RadioStation": "HIDDEN_RADIO_12_REGGAE"
   },
   {
     "Name": "collision_2vtimg",
@@ -4173,7 +4173,7 @@
     "Flags": "0xAA040011",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_3A75F2AC"
+    "RadioStation": "HIDDEN_RADIO_12_REGGAE"
   },
   {
     "Name": "collision_88bf4l1",
@@ -4185,7 +4185,7 @@
     "Flags": "0xAA040011",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_3A75F2AC"
+    "RadioStation": "HIDDEN_RADIO_12_REGGAE"
   },
   {
     "Name": "collision_86sspd5",
@@ -4197,7 +4197,7 @@
     "Flags": "0xAA040011",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_170FC52E"
+    "RadioStation": "HIDDEN_RADIO_16_SILVERLAKE"
   },
   {
     "Name": "collision_9pfs63w",
@@ -4209,7 +4209,7 @@
     "Flags": "0xAA040011",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_90D167B0"
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
   },
   {
     "Name": "COUNTRYSIDE_ALTRUIST_CULT_01",
@@ -4233,7 +4233,7 @@
     "Flags": "0xAA040011",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_C1400C2E"
+    "RadioStation": "HIDDEN_RADIO_04_PUNK"
   },
   {
     "Name": "collision_c3ehz9",
@@ -4269,7 +4269,7 @@
     "Flags": "0xAA040401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_C343DA28"
+    "RadioStation": "HIDDEN_RADIO_06_COUNTRY"
   },
   {
     "Name": "collision_wndwn",
@@ -4377,7 +4377,7 @@
     "Flags": "0xAA040401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_E3D9C5EC"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV"
   },
   {
     "Name": "collision_wndxk",
@@ -4461,7 +4461,7 @@
     "Flags": "0xAA040401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_E3D9C5EC"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV"
   },
   {
     "Name": "collision_8rw4f7i",
@@ -4509,7 +4509,7 @@
     "Flags": "0xAA040401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_E3D9C5EC"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV"
   },
   {
     "Name": "collision_8rw4f7m",
@@ -4557,7 +4557,7 @@
     "Flags": "0xAA040401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_E3D9C5EC"
+    "RadioStation": "HIDDEN_RADIO_AMBIENT_TV"
   },
   {
     "Name": "collision_9acrnsb",
@@ -4605,7 +4605,7 @@
     "Flags": "0xAA040401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_C343DA28"
+    "RadioStation": "HIDDEN_RADIO_06_COUNTRY"
   },
   {
     "Name": "collision_88cg5zm",
@@ -4629,7 +4629,7 @@
     "Flags": "0xAA040411",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_C4749814"
+    "RadioStation": "HIDDEN_RADIO_01_CLASS_ROCK"
   },
   {
     "Name": "collision_88cg5zo",
@@ -4665,7 +4665,7 @@
     "Flags": "0xAA040401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_C4749814"
+    "RadioStation": "HIDDEN_RADIO_01_CLASS_ROCK"
   },
   {
     "Name": "collision_9acrnsf",
@@ -4677,7 +4677,7 @@
     "Flags": "0xAA040401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_C343DA28"
+    "RadioStation": "HIDDEN_RADIO_06_COUNTRY"
   },
   {
     "Name": "collision_88cg5zq",
@@ -4689,7 +4689,7 @@
     "Flags": "0xAA040011",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_170FC52E"
+    "RadioStation": "HIDDEN_RADIO_16_SILVERLAKE"
   },
   {
     "Name": "collision_88cg5zr",
@@ -4701,7 +4701,7 @@
     "Flags": "0xAA040001",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_170FC52E"
+    "RadioStation": "HIDDEN_RADIO_16_SILVERLAKE"
   },
   {
     "Name": "collision_wndxp",
@@ -4713,7 +4713,7 @@
     "Flags": "0xAA040411",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_B0962EE0"
+    "RadioStation": "HIDDEN_RADIO_03_HIPHOP_NEW"
   },
   {
     "Name": "collision_627hspy",
@@ -4761,7 +4761,7 @@
     "Flags": "0xAA041501",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_C1400C2E"
+    "RadioStation": "HIDDEN_RADIO_04_PUNK"
   },
   {
     "Name": "collision_6elxuh0",
@@ -4773,7 +4773,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_C4749814"
+    "RadioStation": "HIDDEN_RADIO_01_CLASS_ROCK"
   },
   {
     "Name": "collision_8mkftuq",
@@ -4905,7 +4905,7 @@
     "Flags": "0xAA040411",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_4F95BAD7"
+    "RadioStation": "HIDDEN_RADIO_02_POP"
   },
   {
     "Name": "collision_c3dnin",
@@ -4917,7 +4917,7 @@
     "Flags": "0xAA040011",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_C1400C2E"
+    "RadioStation": "HIDDEN_RADIO_04_PUNK"
   },
   {
     "Name": "collision_95zsukb",
@@ -4941,7 +4941,7 @@
     "Flags": "0xAA041001",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_90EFE3FA"
+    "RadioStation": "HIDDEN_RADIO_15_MOTOWN"
   },
   {
     "Name": "collision_9z0kcdh",
@@ -4977,7 +4977,7 @@
     "Flags": "0xAA040011",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_4F95BAD7"
+    "RadioStation": "HIDDEN_RADIO_02_POP"
   },
   {
     "Name": "collision_9z0kcdk",
@@ -4989,7 +4989,7 @@
     "Flags": "0xAA040011",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_B0962EE0"
+    "RadioStation": "HIDDEN_RADIO_03_HIPHOP_NEW"
   },
   {
     "Name": "collision_9z0kcdl",
@@ -5025,7 +5025,7 @@
     "Flags": "0xAA041511",
     "Interior": "hash_D75A9538",
     "Room": "hash_AF207CBF",
-    "RadioStation": "hash_170FC52E"
+    "RadioStation": "HIDDEN_RADIO_16_SILVERLAKE"
   },
   {
     "Name": "collision_9z0kcdn",
@@ -5037,7 +5037,7 @@
     "Flags": "0xAA040011",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_170FC52E"
+    "RadioStation": "HIDDEN_RADIO_16_SILVERLAKE"
   },
   {
     "Name": "collision_hmsij4",
@@ -5061,7 +5061,7 @@
     "Flags": "0xAA040011",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_B0962EE0"
+    "RadioStation": "HIDDEN_RADIO_03_HIPHOP_NEW"
   },
   {
     "Name": "collision_6dtg2l",
@@ -5073,7 +5073,7 @@
     "Flags": "0xAA040011",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_B0962EE0"
+    "RadioStation": "HIDDEN_RADIO_03_HIPHOP_NEW"
   },
   {
     "Name": "collision_81mlf9u",
@@ -5097,7 +5097,7 @@
     "Flags": "0xAA041001",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_170FC52E"
+    "RadioStation": "HIDDEN_RADIO_16_SILVERLAKE"
   },
   {
     "Name": "collision_8kqqgre",
@@ -5121,7 +5121,7 @@
     "Flags": "0xAA044411",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_C4749814"
+    "RadioStation": "HIDDEN_RADIO_01_CLASS_ROCK"
   },
   {
     "Name": "MP_ARM_WRESTLING_RADIO_02",
@@ -5133,7 +5133,7 @@
     "Flags": "0xAA044411",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_C343DA28"
+    "RadioStation": "HIDDEN_RADIO_06_COUNTRY"
   },
   {
     "Name": "MP_ARM_WRESTLING_RADIO_03",
@@ -5145,7 +5145,7 @@
     "Flags": "0xAA044411",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_C343DA28"
+    "RadioStation": "HIDDEN_RADIO_06_COUNTRY"
   },
   {
     "Name": "MP_ARM_WRESTLING_RADIO_04",
@@ -5157,7 +5157,7 @@
     "Flags": "0xAA044411",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_C1400C2E"
+    "RadioStation": "HIDDEN_RADIO_04_PUNK"
   },
   {
     "Name": "MP_ARM_WRESTLING_RADIO_05",
@@ -5169,7 +5169,7 @@
     "Flags": "0xAA044411",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_C4749814"
+    "RadioStation": "HIDDEN_RADIO_01_CLASS_ROCK"
   },
   {
     "Name": "MP_ARM_WRESTLING_RADIO_06",
@@ -5181,7 +5181,7 @@
     "Flags": "0xAA044411",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_C4749814"
+    "RadioStation": "HIDDEN_RADIO_01_CLASS_ROCK"
   },
   {
     "Name": "MP_ARM_WRESTLING_RADIO_07",
@@ -5193,7 +5193,7 @@
     "Flags": "0xAA044411",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_C4749814"
+    "RadioStation": "HIDDEN_RADIO_01_CLASS_ROCK"
   },
   {
     "Name": "MP_ARM_WRESTLING_RADIO_08",
@@ -5205,7 +5205,7 @@
     "Flags": "0xAA044411",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_C4749814"
+    "RadioStation": "HIDDEN_RADIO_01_CLASS_ROCK"
   },
   {
     "Name": "MP_ARM_WRESTLING_RADIO_09",
@@ -5217,7 +5217,7 @@
     "Flags": "0xAA044411",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_C4749814"
+    "RadioStation": "HIDDEN_RADIO_01_CLASS_ROCK"
   },
   {
     "Name": "MP_ARM_WRESTLING_RADIO_10",
@@ -5229,7 +5229,7 @@
     "Flags": "0xAA044411",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_C343DA28"
+    "RadioStation": "HIDDEN_RADIO_06_COUNTRY"
   },
   {
     "Name": "collision_pcu29l",
@@ -5301,7 +5301,7 @@
     "Flags": "0xAA040011",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_90D167B0"
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
   },
   {
     "Name": "collision_qyy0jp",
@@ -5313,7 +5313,7 @@
     "Flags": "0xAA040011",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_90D167B0"
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
   },
   {
     "Name": "SE_Script_Placed_Prop_Emitter_Boombox",
@@ -5325,7 +5325,7 @@
     "Flags": "0xAA040011",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_90D167B0"
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
   },
   {
     "Name": "SE_LR_Car_Park_Radio_01",
@@ -6165,7 +6165,7 @@
     "Flags": "0xAA045501",
     "Interior": "hei_dlc_garage_high_new",
     "Room": "hash_912E2612",
-    "RadioStation": "hash_B0962EE0"
+    "RadioStation": "HIDDEN_RADIO_03_HIPHOP_NEW"
   },
   {
     "Name": "collision_0hwahp",
@@ -6189,7 +6189,7 @@
     "Flags": "0xAA041501",
     "Interior": "milo_replay",
     "Room": "milo_replay_milo_room_replay",
-    "RadioStation": "hash_4F95BAD7"
+    "RadioStation": "HIDDEN_RADIO_02_POP"
   },
   {
     "Name": "se_dmod_trailer_radio",
@@ -6201,7 +6201,7 @@
     "Flags": "0xAA041501",
     "Interior": "milo_replay",
     "Room": "milo_replay_milo_room_replay",
-    "RadioStation": "hash_4F95BAD7"
+    "RadioStation": "HIDDEN_RADIO_02_POP"
   },
   {
     "Name": "se_supermod_01",
@@ -6429,7 +6429,7 @@
     "Flags": "0xAA045501",
     "Interior": "ex_int_office_01a_dlc",
     "Room": "ex_int_office_01a_dlc_office_front_rm",
-    "RadioStation": "hash_4F95BAD7"
+    "RadioStation": "HIDDEN_RADIO_02_POP"
   },
   {
     "Name": "se_ex_int_office_01b_radio_01",
@@ -6441,7 +6441,7 @@
     "Flags": "0xAA045501",
     "Interior": "ex_int_office_01b_dlc",
     "Room": "ex_int_office_01b_dlc_office_front_rm",
-    "RadioStation": "hash_4F95BAD7"
+    "RadioStation": "HIDDEN_RADIO_02_POP"
   },
   {
     "Name": "se_ex_int_office_01c_radio_01",
@@ -6453,7 +6453,7 @@
     "Flags": "0xAA045501",
     "Interior": "ex_int_office_01c_dlc",
     "Room": "ex_int_office_01c_dlc_office_front_rm",
-    "RadioStation": "hash_4F95BAD7"
+    "RadioStation": "HIDDEN_RADIO_02_POP"
   },
   {
     "Name": "se_ex_int_office_02a_radio_01",
@@ -6465,7 +6465,7 @@
     "Flags": "0xAA045501",
     "Interior": "ex_int_office_02a_dlc",
     "Room": "ex_int_office_02a_dlc_office_front_rm",
-    "RadioStation": "hash_4F95BAD7"
+    "RadioStation": "HIDDEN_RADIO_02_POP"
   },
   {
     "Name": "se_ex_int_office_02b_radio_01",
@@ -6477,7 +6477,7 @@
     "Flags": "0xAA045501",
     "Interior": "ex_int_office_02b_dlc",
     "Room": "ex_int_office_02b_dlc_office_front_rm",
-    "RadioStation": "hash_4F95BAD7"
+    "RadioStation": "HIDDEN_RADIO_02_POP"
   },
   {
     "Name": "se_ex_int_office_02c_radio_01",
@@ -6489,7 +6489,7 @@
     "Flags": "0xAA045501",
     "Interior": "ex_int_office_02c_dlc",
     "Room": "ex_int_office_02c_dlc_office_front_rm",
-    "RadioStation": "hash_4F95BAD7"
+    "RadioStation": "HIDDEN_RADIO_02_POP"
   },
   {
     "Name": "se_ex_int_office_03a_radio_01",
@@ -6501,7 +6501,7 @@
     "Flags": "0xAA045501",
     "Interior": "ex_int_office_03a_dlc",
     "Room": "ex_int_office_03a_dlc_office_front_rm",
-    "RadioStation": "hash_4F95BAD7"
+    "RadioStation": "HIDDEN_RADIO_02_POP"
   },
   {
     "Name": "se_ex_int_office_03b_radio_01",
@@ -6513,7 +6513,7 @@
     "Flags": "0xAA045501",
     "Interior": "ex_int_office_03b_dlc",
     "Room": "ex_int_office_03b_dlc_office_front_rm",
-    "RadioStation": "hash_4F95BAD7"
+    "RadioStation": "HIDDEN_RADIO_02_POP"
   },
   {
     "Name": "se_ex_int_office_03c_radio_01",
@@ -6525,7 +6525,7 @@
     "Flags": "0xAA045501",
     "Interior": "ex_int_office_03c_dlc",
     "Room": "ex_int_office_03c_dlc_office_front_rm",
-    "RadioStation": "hash_4F95BAD7"
+    "RadioStation": "HIDDEN_RADIO_02_POP"
   },
   {
     "Name": "se_exec_wh_s_radio",
@@ -6537,7 +6537,7 @@
     "Flags": "0xAA045411",
     "Interior": "ex_int_warehouse_s_dlc",
     "Room": "ex_int_warehouse_s_dlc_warehouse_small",
-    "RadioStation": "hash_B0962EE0"
+    "RadioStation": "HIDDEN_RADIO_03_HIPHOP_NEW"
   },
   {
     "Name": "se_exec_wh_m_radio",
@@ -6549,7 +6549,7 @@
     "Flags": "0xAA045411",
     "Interior": "ex_int_warehouse_m_dlc",
     "Room": "ex_int_warehouse_m_dlc_warehouse_medium",
-    "RadioStation": "hash_B0962EE0"
+    "RadioStation": "HIDDEN_RADIO_03_HIPHOP_NEW"
   },
   {
     "Name": "se_exec_wh_l_radio",
@@ -6561,7 +6561,7 @@
     "Flags": "0xAA045411",
     "Interior": "ex_int_warehouse_l_dlc",
     "Room": "ex_int_warehouse_l_dlc_warehouse_large",
-    "RadioStation": "hash_4F95BAD7"
+    "RadioStation": "HIDDEN_RADIO_02_POP"
   },
   {
     "Name": "se_dlc_biker_tequilala_exterior_emitter",
@@ -6573,7 +6573,7 @@
     "Flags": "0xAA045401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_C1400C2E"
+    "RadioStation": "HIDDEN_RADIO_04_PUNK"
   },
   {
     "Name": "se_bkr_biker_dlc_int_01_bar",
@@ -6645,7 +6645,7 @@
     "Flags": "0xAA041501",
     "Interior": "bkr_biker_dlc_int_03",
     "Room": "bkr_biker_dlc_int_03_frontrm",
-    "RadioStation": "hash_C1400C2E"
+    "RadioStation": "HIDDEN_RADIO_04_PUNK"
   },
   {
     "Name": "se_dlc_biker_lost_mc_clubhouse_02",
@@ -6657,7 +6657,7 @@
     "Flags": "0xAA041501",
     "Interior": "bkr_biker_dlc_int_03",
     "Room": "bkr_biker_dlc_int_03_gamesrm",
-    "RadioStation": "hash_C1400C2E"
+    "RadioStation": "HIDDEN_RADIO_04_PUNK"
   },
   {
     "Name": "se_dlc_biker_vagos_clubhouse_01",
@@ -6801,7 +6801,7 @@
     "Flags": "0xAA045401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_90D167B0"
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
   },
   {
     "Name": "dlc_ie_steal_pool_party_lake_vine_radio_emitter",
@@ -6813,7 +6813,7 @@
     "Flags": "0xAA044411",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_90D167B0"
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
   },
   {
     "Name": "dlc_ie_steal_pool_party_milton_rd__radio_emitter",
@@ -6825,7 +6825,7 @@
     "Flags": "0xAA044411",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_4F95BAD7"
+    "RadioStation": "HIDDEN_RADIO_02_POP"
   },
   {
     "Name": "dlc_ie_steal_tow_sandy_shores_radio_emitter",
@@ -6837,7 +6837,7 @@
     "Flags": "0xAA044401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_C1400C2E"
+    "RadioStation": "HIDDEN_RADIO_04_PUNK"
   },
   {
     "Name": "dlc_ie_steal_tow_mirror_park_radio_emitter",
@@ -6873,7 +6873,7 @@
     "Flags": "0xAA045501",
     "Interior": "imp_impexp_int_01",
     "Room": "imp_impexp_int_01_mainroom001",
-    "RadioStation": "hash_90D167B0"
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
   },
   {
     "Name": "dlc_ie_office_garage_mod_shop_radio_01",
@@ -6885,7 +6885,7 @@
     "Flags": "0xAA045501",
     "Interior": "imp_imptexp_mod_int_01",
     "Room": "imp_imptexp_mod_int_01_mainroom",
-    "RadioStation": "hash_90D167B0"
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
   },
   {
     "Name": "se_dlc_gr_moc_radio_01",
@@ -6993,7 +6993,7 @@
     "Flags": "0xAA041001",
     "Interior": "sm_smugdlc_int_01",
     "Room": "sm_smugdlc_int_01_gtamloroom001",
-    "RadioStation": "hash_C4749814"
+    "RadioStation": "HIDDEN_RADIO_01_CLASS_ROCK"
   },
   {
     "Name": "se_dlc_sm_hangar_radio_office_01",
@@ -7005,7 +7005,7 @@
     "Flags": "0xAA041001",
     "Interior": "sm_smugdlc_int_01",
     "Room": "sm_smugdlc_int_01_gtamloroom001",
-    "RadioStation": "hash_C4749814"
+    "RadioStation": "HIDDEN_RADIO_01_CLASS_ROCK"
   },
   {
     "Name": "se_dlc_sm_hangar_radio_office_02",
@@ -7017,7 +7017,7 @@
     "Flags": "0xAA041001",
     "Interior": "sm_smugdlc_int_01",
     "Room": "sm_smugdlc_int_01_gtamloroom001",
-    "RadioStation": "hash_C4749814"
+    "RadioStation": "HIDDEN_RADIO_01_CLASS_ROCK"
   },
   {
     "Name": "se_dlc_sm_hangar_radio_office_03",
@@ -7029,7 +7029,7 @@
     "Flags": "0xAA041001",
     "Interior": "sm_smugdlc_int_01",
     "Room": "sm_smugdlc_int_01_gtamloroom001",
-    "RadioStation": "hash_C4749814"
+    "RadioStation": "HIDDEN_RADIO_01_CLASS_ROCK"
   },
   {
     "Name": "se_dlc_sm_hangar_radio_office_04",
@@ -7041,7 +7041,7 @@
     "Flags": "0xAA041001",
     "Interior": "sm_smugdlc_int_01",
     "Room": "sm_smugdlc_int_01_gtamloroom001",
-    "RadioStation": "hash_C4749814"
+    "RadioStation": "HIDDEN_RADIO_01_CLASS_ROCK"
   },
   {
     "Name": "se_dlc_sm_hangar_radio_living_quarters_01",
@@ -7053,7 +7053,7 @@
     "Flags": "0xAA041001",
     "Interior": "sm_smugdlc_int_01",
     "Room": "sm_smugdlc_int_01_gtamloroom001",
-    "RadioStation": "hash_C4749814"
+    "RadioStation": "HIDDEN_RADIO_01_CLASS_ROCK"
   },
   {
     "Name": "se_dlc_sm_hangar_radio_living_quarters_02",
@@ -7065,7 +7065,7 @@
     "Flags": "0xAA041001",
     "Interior": "sm_smugdlc_int_01",
     "Room": "sm_smugdlc_int_01_gtamloroom001",
-    "RadioStation": "hash_C4749814"
+    "RadioStation": "HIDDEN_RADIO_01_CLASS_ROCK"
   },
   {
     "Name": "se_mp_garage_m_radio",
@@ -7281,7 +7281,7 @@
     "Flags": "0xAA040411",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_90D167B0"
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
   },
   {
     "Name": "se_dlc_aw_arena_crowd_background_main",
@@ -7701,7 +7701,7 @@
     "Flags": "0xAA045411",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_C343DA28"
+    "RadioStation": "HIDDEN_RADIO_06_COUNTRY"
   },
   {
     "Name": "dlc_h3_fm_cashier_radio_01",
@@ -7713,7 +7713,7 @@
     "Flags": "0xAA045411",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_90D167B0"
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
   },
   {
     "Name": "dlc_h3_fm_cashier_radio_02",
@@ -7725,7 +7725,7 @@
     "Flags": "0xAA045411",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_90D167B0"
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
   },
   {
     "Name": "dlc_h3_fm_cashier_radio_03",
@@ -7737,7 +7737,7 @@
     "Flags": "0xAA045411",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_90D167B0"
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
   },
   {
     "Name": "dlc_h3_fm_cashier_radio_04",
@@ -7749,7 +7749,7 @@
     "Flags": "0xAA045411",
     "Interior": null,
     "Room": null,
-    "RadioStation": "hash_90D167B0"
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
   },
   {
     "Name": "se_mp_apt_1_1",

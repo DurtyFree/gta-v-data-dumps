@@ -932,7 +932,7 @@
     },
     "Flags": "0xAA001401",
     "Interior": "v_carmod",
-    "Room": "hash_79E0751C",
+    "Room": "V_CarModRoom",
     "RadioStation": "hash_B0962EE0"
   },
   {
@@ -956,7 +956,7 @@
     },
     "Flags": "0xAA001401",
     "Interior": "v_carmod",
-    "Room": "hash_79E0751C",
+    "Room": "V_CarModRoom",
     "RadioStation": "hash_B0962EE0"
   },
   {
@@ -1076,7 +1076,7 @@
     },
     "Flags": "0xAA041411",
     "Interior": "v_franklins",
-    "Room": "hash_BFFC40F9",
+    "Room": "V_57_FrontRM",
     "RadioStation": "hash_FA17DE37"
   },
   {
@@ -1088,7 +1088,7 @@
     },
     "Flags": "0xAA041411",
     "Interior": "v_franklins",
-    "Room": "hash_6A601770",
+    "Room": "V_57_FrnkRM",
     "RadioStation": "hash_FA17DE37"
   },
   {
@@ -1544,7 +1544,7 @@
     },
     "Flags": "0xAA041501",
     "Interior": "v_gun",
-    "Room": "hash_2CB1B929",
+    "Room": "V_7_GunSHopRm",
     "RadioStation": "hash_C1400C2E"
   },
   {
@@ -1556,7 +1556,7 @@
     },
     "Flags": "0xAA041501",
     "Interior": "v_gun",
-    "Room": "hash_2CB1B929",
+    "Room": "V_7_GunSHopRm",
     "RadioStation": "hash_C1400C2E"
   },
   {
@@ -1568,7 +1568,7 @@
     },
     "Flags": "0xAA041501",
     "Interior": "v_gun",
-    "Room": "hash_F3525C29",
+    "Room": "V_7_ShootRm",
     "RadioStation": "hash_C1400C2E"
   },
   {
@@ -1580,7 +1580,7 @@
     },
     "Flags": "0xAA041501",
     "Interior": "v_gun",
-    "Room": "hash_F3525C29",
+    "Room": "V_7_ShootRm",
     "RadioStation": "hash_C1400C2E"
   },
   {
@@ -1604,7 +1604,7 @@
     },
     "Flags": "0xAA041411",
     "Interior": "v_michael",
-    "Room": "hash_03C7FA8B",
+    "Room": "v_michael_g_lounge",
     "RadioStation": "hash_908F83E2"
   },
   {
@@ -1712,7 +1712,7 @@
     },
     "Flags": "0xAA041501",
     "Interior": "v_tattoo",
-    "Room": "hash_38B3E7A8",
+    "Room": "MainTatRm",
     "RadioStation": "hash_719B0AFB"
   },
   {
@@ -1724,7 +1724,7 @@
     },
     "Flags": "0xAA041501",
     "Interior": "v_tattoo",
-    "Room": "hash_38B3E7A8",
+    "Room": "MainTatRm",
     "RadioStation": "hash_719B0AFB"
   },
   {
@@ -1736,7 +1736,7 @@
     },
     "Flags": "0xAA041501",
     "Interior": "v_tattoo",
-    "Room": "hash_38B3E7A8",
+    "Room": "MainTatRm",
     "RadioStation": "hash_719B0AFB"
   },
   {
@@ -1748,7 +1748,7 @@
     },
     "Flags": "0xAA041501",
     "Interior": "v_tattoo",
-    "Room": "hash_38B3E7A8",
+    "Room": "MainTatRm",
     "RadioStation": "hash_C1400C2E"
   },
   {
@@ -1808,7 +1808,7 @@
     },
     "Flags": "0xAA041401",
     "Interior": "v_trevors",
-    "Room": "hash_5BE54791",
+    "Room": "rm_Lounge",
     "RadioStation": "hash_09E34587"
   },
   {

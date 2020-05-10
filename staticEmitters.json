@@ -1,0 +1,8570 @@
+[
+  {
+    "Name": "hash_B217FE2C",
+    "Position": {
+      "X": 1823.44,
+      "Y": 2571.38,
+      "Z": 48.09
+    },
+    "Flags": "0xAA040001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_40C59B89",
+    "Position": {
+      "X": 1824.86,
+      "Y": 2619.75,
+      "Z": 48.57
+    },
+    "Flags": "0xAA040001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_4BA4B147",
+    "Position": {
+      "X": 1848.97,
+      "Y": 2697.72,
+      "Z": 48.02
+    },
+    "Flags": "0xAA040001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_5C6A52D2",
+    "Position": {
+      "X": 1773.65,
+      "Y": 2762.57,
+      "Z": 47.1
+    },
+    "Flags": "0xAA040001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_D7CD497E",
+    "Position": {
+      "X": 1650.94,
+      "Y": 2759.82,
+      "Z": 48.05
+    },
+    "Flags": "0xAA040001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_E50F6402",
+    "Position": {
+      "X": 1570.34,
+      "Y": 2681.58,
+      "Z": 46.96
+    },
+    "Flags": "0xAA040001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_74DC03B5",
+    "Position": {
+      "X": 1534.32,
+      "Y": 2587.76,
+      "Z": 48.43
+    },
+    "Flags": "0xAA040001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_A2955F27",
+    "Position": {
+      "X": 1540.1,
+      "Y": 2470.68,
+      "Z": 47.87
+    },
+    "Flags": "0xAA040001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_201EDA20",
+    "Position": {
+      "X": 1658.87,
+      "Y": 2393.52,
+      "Z": 46.1
+    },
+    "Flags": "0xAA040001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_F76B780A",
+    "Position": {
+      "X": 1761.11,
+      "Y": 2411.12,
+      "Z": 45.5
+    },
+    "Flags": "0xAA040001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_9F41C7B4",
+    "Position": {
+      "X": 1823.97,
+      "Y": 2475.94,
+      "Z": 47.3
+    },
+    "Flags": "0xAA040001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_35E60A15",
+    "Position": {
+      "X": 105.1,
+      "Y": -739.8,
+      "Z": 53.0
+    },
+    "Flags": "0xAA040001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_2CB3F7B1",
+    "Position": {
+      "X": 132.7,
+      "Y": -762.7,
+      "Z": 236.2
+    },
+    "Flags": "0xAA040001",
+    "Interior": "v_fib01",
+    "Room": "hash_DB0FF15F",
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_1A69531C",
+    "Position": {
+      "X": 117.9,
+      "Y": -744.6,
+      "Z": 236.5
+    },
+    "Flags": "0xAA040001",
+    "Interior": "v_fib01",
+    "Room": "hash_453AAB08",
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_0F223C8E",
+    "Position": {
+      "X": 122.5,
+      "Y": -729.8,
+      "Z": 236.5
+    },
+    "Flags": "0xAA040001",
+    "Interior": "v_fib01",
+    "Room": "hash_EF9E154E",
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_6DBA5D2B",
+    "Position": {
+      "X": 127.6,
+      "Y": -763.6,
+      "Z": 235.6
+    },
+    "Flags": "0xAA040001",
+    "Interior": "v_fib01",
+    "Room": "hash_730A06A6",
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_5C00B9B8",
+    "Position": {
+      "X": 123.4,
+      "Y": -729.1,
+      "Z": 234.4
+    },
+    "Flags": "0xAA040001",
+    "Interior": "v_fib01",
+    "Room": "hash_EF9E154E",
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_F3D1695B",
+    "Position": {
+      "X": 129.0,
+      "Y": -732.2,
+      "Z": 260.2
+    },
+    "Flags": "0xAA040001",
+    "Interior": "v_fib04",
+    "Room": "hash_0D8B6DA4",
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_D3AC45A3",
+    "Position": {
+      "X": 144.0,
+      "Y": -751.4,
+      "Z": 255.6
+    },
+    "Flags": "0xAA040001",
+    "Interior": "v_fib03",
+    "Room": "hash_9F2428C4",
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_C4FE2847",
+    "Position": {
+      "X": 132.3,
+      "Y": -732.5,
+      "Z": 252.0
+    },
+    "Flags": "0xAA040001",
+    "Interior": "v_fib02",
+    "Room": "hash_E9968296",
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_BAEE1427",
+    "Position": {
+      "X": 157.2,
+      "Y": -761.4,
+      "Z": 251.7
+    },
+    "Flags": "0xAA040001",
+    "Interior": "v_fib02",
+    "Room": "hash_13256446",
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_E99754E7",
+    "Position": {
+      "X": 150.1,
+      "Y": -773.9,
+      "Z": 251.5
+    },
+    "Flags": "0xAA040001",
+    "Interior": "v_fib02",
+    "Room": "hash_78161107",
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_AC4B76E2",
+    "Position": {
+      "X": 137.4,
+      "Y": -737.5,
+      "Z": 247.0
+    },
+    "Flags": "0xAA040001",
+    "Interior": "v_fib02",
+    "Room": "hash_AFF50330",
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_9CE6C618",
+    "Position": {
+      "X": 142.0,
+      "Y": -732.6,
+      "Z": 42.8
+    },
+    "Flags": "0xAA040001",
+    "Interior": "v_office_lobby",
+    "Room": "hash_0C6DF9BA",
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_8F38AABC",
+    "Position": {
+      "X": 124.1,
+      "Y": -760.2,
+      "Z": 42.2
+    },
+    "Flags": "0xAA040001",
+    "Interior": "v_office_lobby",
+    "Room": "hash_6A869F13",
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_C2F9EB48",
+    "Position": {
+      "X": 152.7,
+      "Y": -762.6,
+      "Z": 260.1
+    },
+    "Flags": "0xAA040001",
+    "Interior": "v_fib03",
+    "Room": "hash_E9E5765F",
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_616AA929",
+    "Position": {
+      "X": 114.4,
+      "Y": -739.3,
+      "Z": 260.2
+    },
+    "Flags": "0xAA040001",
+    "Interior": "v_fib03",
+    "Room": "hash_24C257C8",
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_0F6C2090",
+    "Position": {
+      "X": 135.4,
+      "Y": -745.9,
+      "Z": 251.8
+    },
+    "Flags": "0xAA040001",
+    "Interior": "v_fib02",
+    "Room": "hash_3AA9B34E",
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_04AD0B12",
+    "Position": {
+      "X": 146.5,
+      "Y": -754.5,
+      "Z": 247.6
+    },
+    "Flags": "0xAA040001",
+    "Interior": "v_fib02",
+    "Room": "hash_3AA9B34E",
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_DCC43B3D",
+    "Position": {
+      "X": 149.9,
+      "Y": -767.5,
+      "Z": 247.7
+    },
+    "Flags": "0xAA040001",
+    "Interior": "v_fib02",
+    "Room": "hash_68F33514",
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_B2FBE7AD",
+    "Position": {
+      "X": 144.0,
+      "Y": -760.0,
+      "Z": 250.0
+    },
+    "Flags": "0xAA040001",
+    "Interior": "v_fib02",
+    "Room": "hash_9C3B5A30",
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_1E37AA72",
+    "Position": {
+      "X": -2.86,
+      "Y": -684.81,
+      "Z": 18.44
+    },
+    "Flags": "0xAA041401",
+    "Interior": "v_finalebank",
+    "Room": "hash_A7CFA9A5",
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_2CF1C7E6",
+    "Position": {
+      "X": 6.5,
+      "Y": -659.0,
+      "Z": 19.0
+    },
+    "Flags": "0xAA041401",
+    "Interior": "v_finalebank",
+    "Room": "hash_A7CFA9A5",
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_51E9062F",
+    "Position": {
+      "X": 2.0,
+      "Y": -664.1,
+      "Z": 16.5
+    },
+    "Flags": "0xAA041401",
+    "Interior": "v_finalebank",
+    "Room": "hash_A7CFA9A5",
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_2C77A47A",
+    "Position": {
+      "X": 0.03,
+      "Y": -685.0,
+      "Z": 17.0
+    },
+    "Flags": "0xAA041401",
+    "Interior": "v_finalebank",
+    "Room": "hash_A7CFA9A5",
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_61CBC0CA",
+    "Position": {
+      "X": -630.89,
+      "Y": -239.31,
+      "Z": 40.51
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_8E7EF599",
+    "Position": {
+      "X": 154.0,
+      "Y": -3089.0,
+      "Z": 10.0
+    },
+    "Flags": "0xAA041401",
+    "Interior": "po1_08_warehouseint1",
+    "Room": "hash_F555A261",
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_1F84978E",
+    "Position": {
+      "X": 120.0,
+      "Y": -3100.0,
+      "Z": 10.0
+    },
+    "Flags": "0xAA041401",
+    "Interior": "po1_08_warehouseint1",
+    "Room": "hash_F555A261",
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_51FFD80E",
+    "Position": {
+      "X": -109.78,
+      "Y": 6467.47,
+      "Z": 33.15
+    },
+    "Flags": "0xAA041401",
+    "Interior": "v_bank4",
+    "Room": "hash_A987B9D8",
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_8B51CAA5",
+    "Position": {
+      "X": -110.59,
+      "Y": 6482.32,
+      "Z": 34.07
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_76445A0F",
+    "Position": {
+      "X": -150.38,
+      "Y": 6139.9,
+      "Z": 34.82
+    },
+    "Flags": "0xAA040001",
+    "Interior": "v_factory4",
+    "Room": "hash_EFA5B1FB",
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_651A37BB",
+    "Position": {
+      "X": -124.21,
+      "Y": 6166.76,
+      "Z": 33.67
+    },
+    "Flags": "0xAA040001",
+    "Interior": "v_factory3",
+    "Room": "hash_3F3B2D99",
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_52C69314",
+    "Position": {
+      "X": -74.02,
+      "Y": 6218.28,
+      "Z": 33.63
+    },
+    "Flags": "0xAA040001",
+    "Interior": "v_factory1",
+    "Room": "hash_0E876C9F",
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_3FA56CD2",
+    "Position": {
+      "X": -113.0,
+      "Y": 6204.0,
+      "Z": 33.1
+    },
+    "Flags": "0xAA040001",
+    "Interior": "v_factory2",
+    "Room": "hash_CFF672B7",
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_0CD43BD6",
+    "Position": {
+      "X": -2356.0,
+      "Y": 3249.0,
+      "Z": 108.5
+    },
+    "Flags": "0xAA040001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_B8D693DC",
+    "Position": {
+      "X": -2151.0,
+      "Y": 3233.0,
+      "Z": 57.0
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_EA957759",
+    "Position": {
+      "X": -2020.0,
+      "Y": 3158.0,
+      "Z": 57.0
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_90F24414",
+    "Position": {
+      "X": -1853.0,
+      "Y": 2912.0,
+      "Z": 57.0
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_37A10C7B",
+    "Position": {
+      "X": -222.02,
+      "Y": -2375.55,
+      "Z": 15.79
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_65AAE88E",
+    "Position": {
+      "X": -186.01,
+      "Y": -2374.71,
+      "Z": 11.24
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_2D1E7776",
+    "Position": {
+      "X": -126.52,
+      "Y": -2374.5,
+      "Z": 11.23
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_1B58D3EB",
+    "Position": {
+      "X": -81.21,
+      "Y": -2366.13,
+      "Z": 21.22
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_04BA0E8A",
+    "Position": {
+      "X": -1590.0,
+      "Y": 2795.0,
+      "Z": 24.0
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_90317F30",
+    "Position": {
+      "X": -2303.0,
+      "Y": 3387.9,
+      "Z": 39.0
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_DA1FDC53",
+    "Position": {
+      "X": 268.59,
+      "Y": -1358.68,
+      "Z": 26.23
+    },
+    "Flags": "0xAA041401",
+    "Interior": "v_coroner",
+    "Room": "hash_A50BFBEB",
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_8B2A0C9E",
+    "Position": {
+      "X": 252.22,
+      "Y": -1366.08,
+      "Z": 31.05
+    },
+    "Flags": "0xAA041401",
+    "Interior": "v_coroner",
+    "Room": "hash_9E22BB08",
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_A1F01E55",
+    "Position": {
+      "X": 251.97,
+      "Y": -1366.04,
+      "Z": 25.31
+    },
+    "Flags": "0xAA041401",
+    "Interior": "v_coroner",
+    "Room": "hash_CCBF0AD2",
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_24DC71CB",
+    "Position": {
+      "X": 256.73,
+      "Y": -1371.51,
+      "Z": 41.34
+    },
+    "Flags": "0xAA041401",
+    "Interior": "v_coroner",
+    "Room": "hash_1D8A36F5",
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_D6E409EE",
+    "Position": {
+      "X": 3535.31,
+      "Y": 3670.61,
+      "Z": 22.25
+    },
+    "Flags": "0xAA041401",
+    "Interior": "v_lab",
+    "Room": "hash_B97726AC",
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_CBFFF426",
+    "Position": {
+      "X": 3528.79,
+      "Y": 3665.51,
+      "Z": 29.63
+    },
+    "Flags": "0xAA041401",
+    "Interior": "v_lab",
+    "Room": "hash_C9A08508",
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_BA9A515B",
+    "Position": {
+      "X": 3538.67,
+      "Y": 3646.39,
+      "Z": 30.0
+    },
+    "Flags": "0xAA041401",
+    "Interior": "v_lab",
+    "Room": "hash_4B6F3232",
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_736D4302",
+    "Position": {
+      "X": 3548.36,
+      "Y": 3657.23,
+      "Z": 29.31
+    },
+    "Flags": "0xAA041401",
+    "Interior": "v_lab",
+    "Room": "hash_AB3D93AA",
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_9E2C9880",
+    "Position": {
+      "X": 3556.87,
+      "Y": 3680.78,
+      "Z": 30.54
+    },
+    "Flags": "0xAA041401",
+    "Interior": "v_lab",
+    "Room": "hash_68E94830",
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_571A8A5D",
+    "Position": {
+      "X": 3568.63,
+      "Y": 3694.53,
+      "Z": 29.67
+    },
+    "Flags": "0xAA041401",
+    "Interior": "v_lab",
+    "Room": "hash_7F75129B",
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_85E0E7E9",
+    "Position": {
+      "X": 3586.14,
+      "Y": 3679.97,
+      "Z": 29.6
+    },
+    "Flags": "0xAA041401",
+    "Interior": "v_lab",
+    "Room": "hash_8B8609BF",
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_3AD9D1D4",
+    "Position": {
+      "X": 3584.92,
+      "Y": 3699.92,
+      "Z": 30.7
+    },
+    "Flags": "0xAA041401",
+    "Interior": "v_lab",
+    "Room": "hash_125DEFEF",
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_68852D32",
+    "Position": {
+      "X": 3595.6,
+      "Y": 3729.0,
+      "Z": 31.27
+    },
+    "Flags": "0xAA041401",
+    "Interior": "v_lab",
+    "Room": "hash_9C96799B",
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_D13CA19F",
+    "Position": {
+      "X": 3602.07,
+      "Y": 3700.76,
+      "Z": 31.3
+    },
+    "Flags": "0xAA041401",
+    "Interior": "v_lab",
+    "Room": "hash_05B699B5",
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_C31D0560",
+    "Position": {
+      "X": 3611.31,
+      "Y": 3728.94,
+      "Z": 32.26
+    },
+    "Flags": "0xAA041401",
+    "Interior": "v_lab",
+    "Room": "hash_550F6788",
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_9CBF8F45",
+    "Position": {
+      "X": 5308.0,
+      "Y": -5197.8,
+      "Z": 83.5
+    },
+    "Flags": "0xAA041401",
+    "Interior": "v_cashdepot",
+    "Room": "hash_B1325FE7",
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_512BA76D",
+    "Position": {
+      "X": -154.0,
+      "Y": -962.0,
+      "Z": 255.0
+    },
+    "Flags": "0xAA041411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_E9B53E42",
+    "Position": {
+      "X": -3022.1,
+      "Y": 40.25,
+      "Z": 11.22
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_5F076ABF"
+  },
+  {
+    "Name": "hash_390C08B1",
+    "Position": {
+      "X": -1880.0,
+      "Y": 2072.0,
+      "Z": 144.0
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_5A254955"
+  },
+  {
+    "Name": "hash_B8620352",
+    "Position": {
+      "X": -553.0,
+      "Y": 5293.0,
+      "Z": 81.0
+    },
+    "Flags": "0xAA010401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_81F843D3",
+    "Position": {
+      "X": 373.0,
+      "Y": 328.0,
+      "Z": 104.0
+    },
+    "Flags": "0xAA041101",
+    "Interior": "v_shop_247",
+    "Room": "hash_A6953108",
+    "RadioStation": "hash_4F95BAD7"
+  },
+  {
+    "Name": "hash_007BDA96",
+    "Position": {
+      "X": -44.73,
+      "Y": -1097.77,
+      "Z": 27.0
+    },
+    "Flags": "0xAA041101",
+    "Interior": "v_carshowroom",
+    "Room": "hash_19D5B83E",
+    "RadioStation": "hash_908F83E2"
+  },
+  {
+    "Name": "hash_0958F6AB",
+    "Position": {
+      "X": 987.0,
+      "Y": -98.0,
+      "Z": 75.08
+    },
+    "Flags": "0xAA041101",
+    "Interior": "v_70_bikerbar",
+    "Room": "hash_391911F4",
+    "RadioStation": "hash_719B0AFB"
+  },
+  {
+    "Name": "hash_87D35570",
+    "Position": {
+      "X": -1144.89,
+      "Y": -2002.78,
+      "Z": 13.76
+    },
+    "Flags": "0xAA001401",
+    "Interior": "v_carmod",
+    "Room": "hash_79E0751C",
+    "RadioStation": "hash_B0962EE0"
+  },
+  {
+    "Name": "hash_B5796624",
+    "Position": {
+      "X": 960.79,
+      "Y": -105.2,
+      "Z": 75.51
+    },
+    "Flags": "0xAA001401",
+    "Interior": "v_carmod3",
+    "Room": "hash_47C8E3C8",
+    "RadioStation": "hash_C1400C2E"
+  },
+  {
+    "Name": "hash_725246F6",
+    "Position": {
+      "X": -345.8,
+      "Y": -128.95,
+      "Z": 39.81
+    },
+    "Flags": "0xAA001401",
+    "Interior": "v_carmod",
+    "Room": "hash_79E0751C",
+    "RadioStation": "hash_B0962EE0"
+  },
+  {
+    "Name": "hash_7D74DD2B",
+    "Position": {
+      "X": 1175.64,
+      "Y": 2634.94,
+      "Z": 39.03
+    },
+    "Flags": "0xAA001411",
+    "Interior": "v_carmod3",
+    "Room": "hash_47C8E3C8",
+    "RadioStation": "hash_B0962EE0"
+  },
+  {
+    "Name": "hash_AC06BA4E",
+    "Position": {
+      "X": 106.17,
+      "Y": 6629.88,
+      "Z": 33.07
+    },
+    "Flags": "0xAA001411",
+    "Interior": "v_carmod3",
+    "Room": "hash_47C8E3C8",
+    "RadioStation": "hash_B0962EE0"
+  },
+  {
+    "Name": "hash_E61C9906",
+    "Position": {
+      "X": 472.63,
+      "Y": -1314.52,
+      "Z": 29.84
+    },
+    "Flags": "0xAA041401",
+    "Interior": "v_chopshop",
+    "Room": "hash_0F40A2EA",
+    "RadioStation": "hash_FA17DE37"
+  },
+  {
+    "Name": "hash_7BA2B2E9",
+    "Position": {
+      "X": 2494.5,
+      "Y": 4973.1,
+      "Z": 44.0
+    },
+    "Flags": "0xAA041411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_2CA9169F"
+  },
+  {
+    "Name": "hash_2BCCD587",
+    "Position": {
+      "X": 154.21,
+      "Y": -3080.24,
+      "Z": 6.19
+    },
+    "Flags": "0xAA041411",
+    "Interior": "po1_08_warehouseint1",
+    "Room": "hash_F555A261",
+    "RadioStation": "hash_7BF74DA2"
+  },
+  {
+    "Name": "hash_5CF47030",
+    "Position": {
+      "X": -114.07,
+      "Y": -10.12,
+      "Z": 70.58
+    },
+    "Flags": "0xAA041401",
+    "Interior": "v_janitor",
+    "Room": "hash_CA8A237C",
+    "RadioStation": "hash_5E61F5CF"
+  },
+  {
+    "Name": "hash_41E9371B",
+    "Position": {
+      "X": -84.75,
+      "Y": -9.65,
+      "Z": 75.52
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_00572C04"
+  },
+  {
+    "Name": "hash_F1042A54",
+    "Position": {
+      "X": -3.1,
+      "Y": 534.0,
+      "Z": 175.6
+    },
+    "Flags": "0xAA041401",
+    "Interior": "v_franklinshouse",
+    "Room": "hash_3C185098",
+    "RadioStation": "hash_FA17DE37"
+  },
+  {
+    "Name": "hash_E2ED8E27",
+    "Position": {
+      "X": 1.07,
+      "Y": 527.99,
+      "Z": 170.77
+    },
+    "Flags": "0xAA041411",
+    "Interior": "v_franklinshouse",
+    "Room": "hash_A1384C41",
+    "RadioStation": "hash_FA17DE37"
+  },
+  {
+    "Name": "hash_6C9A5D92",
+    "Position": {
+      "X": -8.2,
+      "Y": -1440.4,
+      "Z": 31.0
+    },
+    "Flags": "0xAA041411",
+    "Interior": "v_franklins",
+    "Room": "hash_BFFC40F9",
+    "RadioStation": "hash_FA17DE37"
+  },
+  {
+    "Name": "hash_3257690D",
+    "Position": {
+      "X": -16.1,
+      "Y": -1440.7,
+      "Z": 31.6
+    },
+    "Flags": "0xAA041411",
+    "Interior": "v_franklins",
+    "Room": "hash_6A601770",
+    "RadioStation": "hash_FA17DE37"
+  },
+  {
+    "Name": "hash_76423035",
+    "Position": {
+      "X": -47.7,
+      "Y": -1759.6,
+      "Z": 30.0
+    },
+    "Flags": "0xAA041101",
+    "Interior": "v_gasstation",
+    "Room": "hash_6F6654AA",
+    "RadioStation": "hash_4F95BAD7"
+  },
+  {
+    "Name": "hash_4E527A3C",
+    "Position": {
+      "X": 1165.0,
+      "Y": -322.0,
+      "Z": 71.0
+    },
+    "Flags": "0xAA041101",
+    "Interior": "v_gasstation",
+    "Room": "hash_6F6654AA",
+    "RadioStation": "hash_406F56EC"
+  },
+  {
+    "Name": "hash_9CEB51DE",
+    "Position": {
+      "X": -1117.3,
+      "Y": 2701.08,
+      "Z": 19.95
+    },
+    "Flags": "0xAA041501",
+    "Interior": "v_gun2",
+    "Room": "hash_31586F03",
+    "RadioStation": "hash_C343DA28"
+  },
+  {
+    "Name": "hash_52E5B56A",
+    "Position": {
+      "X": 840.65,
+      "Y": -1035.37,
+      "Z": 29.75
+    },
+    "Flags": "0xAA041501",
+    "Interior": "v_gun2",
+    "Room": "hash_31586F03",
+    "RadioStation": "hash_C4749814"
+  },
+  {
+    "Name": "hash_486225ED",
+    "Position": {
+      "X": -3172.9,
+      "Y": 1090.58,
+      "Z": 22.25
+    },
+    "Flags": "0xAA041501",
+    "Interior": "v_gun2",
+    "Room": "hash_31586F03",
+    "RadioStation": "hash_C1400C2E"
+  },
+  {
+    "Name": "hash_D8EC4CF7",
+    "Position": {
+      "X": -659.79,
+      "Y": -932.78,
+      "Z": 23.06
+    },
+    "Flags": "0xAA041501",
+    "Interior": "v_gun2",
+    "Room": "hash_31586F03",
+    "RadioStation": "hash_C1400C2E"
+  },
+  {
+    "Name": "hash_E4DFC99F",
+    "Position": {
+      "X": -1304.24,
+      "Y": -397.49,
+      "Z": 38.48
+    },
+    "Flags": "0xAA041501",
+    "Interior": "v_gun2",
+    "Room": "hash_31586F03",
+    "RadioStation": "hash_C4749814"
+  },
+  {
+    "Name": "hash_2AE6202A",
+    "Position": {
+      "X": -330.09,
+      "Y": 6087.13,
+      "Z": 32.84
+    },
+    "Flags": "0xAA041501",
+    "Interior": "v_gun2",
+    "Room": "hash_31586F03",
+    "RadioStation": "hash_E6598737"
+  },
+  {
+    "Name": "hash_D1FA9836",
+    "Position": {
+      "X": 1694.06,
+      "Y": 3762.35,
+      "Z": 36.07
+    },
+    "Flags": "0xAA041501",
+    "Interior": "v_gun2",
+    "Room": "hash_31586F03",
+    "RadioStation": "hash_C343DA28"
+  },
+  {
+    "Name": "hash_0FC5184D",
+    "Position": {
+      "X": 253.53,
+      "Y": -53.12,
+      "Z": 71.16
+    },
+    "Flags": "0xAA041501",
+    "Interior": "v_gun2",
+    "Room": "hash_31586F03",
+    "RadioStation": "hash_C4749814"
+  },
+  {
+    "Name": "hash_A33AC22F",
+    "Position": {
+      "X": 2565.46,
+      "Y": 292.22,
+      "Z": 110.65
+    },
+    "Flags": "0xAA041501",
+    "Interior": "v_gun2",
+    "Room": "hash_31586F03",
+    "RadioStation": "hash_C1400C2E"
+  },
+  {
+    "Name": "hash_E721CA90",
+    "Position": {
+      "X": 136.4,
+      "Y": -1705.3,
+      "Z": 30.8
+    },
+    "Flags": "0xAA041401",
+    "Interior": "v_barbers",
+    "Room": "hash_020AD218",
+    "RadioStation": "hash_908F83E2"
+  },
+  {
+    "Name": "hash_4BECE727",
+    "Position": {
+      "X": -1280.88,
+      "Y": -1115.44,
+      "Z": 8.34
+    },
+    "Flags": "0xAA041411",
+    "Interior": "v_barbers",
+    "Room": "hash_020AD218",
+    "RadioStation": "hash_7BF74DA2"
+  },
+  {
+    "Name": "hash_87945A80",
+    "Position": {
+      "X": 1215.0,
+      "Y": -471.8,
+      "Z": 67.0
+    },
+    "Flags": "0xAA041411",
+    "Interior": "v_barbers",
+    "Room": "hash_020AD218",
+    "RadioStation": "hash_90EFE3FA"
+  },
+  {
+    "Name": "hash_90528584",
+    "Position": {
+      "X": 1928.7,
+      "Y": 3731.4,
+      "Z": 34.0
+    },
+    "Flags": "0xAA041411",
+    "Interior": "v_barbers",
+    "Room": "hash_020AD218",
+    "RadioStation": "hash_C343DA28"
+  },
+  {
+    "Name": "hash_B53C0C80",
+    "Position": {
+      "X": -274.6,
+      "Y": 6227.5,
+      "Z": 33.0
+    },
+    "Flags": "0xAA041411",
+    "Interior": "v_barbers",
+    "Room": "hash_020AD218",
+    "RadioStation": "hash_C343DA28"
+  },
+  {
+    "Name": "hash_965775E4",
+    "Position": {
+      "X": -32.0,
+      "Y": -155.0,
+      "Z": 58.0
+    },
+    "Flags": "0xAA041411",
+    "Interior": "v_barbers",
+    "Room": "hash_020AD218",
+    "RadioStation": "hash_90EFE3FA"
+  },
+  {
+    "Name": "hash_2F24ACEC",
+    "Position": {
+      "X": -815.3,
+      "Y": -184.0,
+      "Z": 40.1
+    },
+    "Flags": "0xAA041401",
+    "Interior": "v_hairdresser",
+    "Room": "hash_70EDE2B3",
+    "RadioStation": "hash_4F95BAD7"
+  },
+  {
+    "Name": "hash_90F7828D",
+    "Position": {
+      "X": 720.83,
+      "Y": -959.53,
+      "Z": 31.29
+    },
+    "Flags": "0xAA041411",
+    "Interior": "v_sweat",
+    "Room": "hash_333B0BE4",
+    "RadioStation": "hash_AEB03A8F"
+  },
+  {
+    "Name": "hash_4BFF29F5",
+    "Position": {
+      "X": -158.6,
+      "Y": -305.0,
+      "Z": 42.2
+    },
+    "Flags": "0xAA041501",
+    "Interior": "v_clotheshi",
+    "Room": "hash_4AFC9331",
+    "RadioStation": "hash_4F95BAD7"
+  },
+  {
+    "Name": "hash_D170E139",
+    "Position": {
+      "X": -1453.7,
+      "Y": -234.2,
+      "Z": 52.5
+    },
+    "Flags": "0xAA041501",
+    "Interior": "v_clotheshi",
+    "Room": "hash_4AFC9331",
+    "RadioStation": "hash_4F95BAD7"
+  },
+  {
+    "Name": "hash_702F5A4D",
+    "Position": {
+      "X": -714.1,
+      "Y": -155.3,
+      "Z": 39.9
+    },
+    "Flags": "0xAA041501",
+    "Interior": "v_clotheshi",
+    "Room": "hash_4AFC9331",
+    "RadioStation": "hash_4F95BAD7"
+  },
+  {
+    "Name": "hash_AB4C671F",
+    "Position": {
+      "X": -123.87,
+      "Y": -1453.93,
+      "Z": 37.79
+    },
+    "Flags": "0xAA041001",
+    "Interior": "hash_76E135A0",
+    "Room": "hash_97856154",
+    "RadioStation": "hash_908F83E2"
+  },
+  {
+    "Name": "hash_C6FC6A6F",
+    "Position": {
+      "X": -124.33,
+      "Y": -1475.12,
+      "Z": 37.56
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_00572C04"
+  },
+  {
+    "Name": "hash_7CB9D53E",
+    "Position": {
+      "X": -622.65,
+      "Y": -231.88,
+      "Z": 41.3
+    },
+    "Flags": "0xAA041100",
+    "Interior": "v_jewel2",
+    "Room": "hash_63747A2E",
+    "RadioStation": "hash_90EFE3FA"
+  },
+  {
+    "Name": "hash_021275A2",
+    "Position": {
+      "X": -1052.7,
+      "Y": -231.1,
+      "Z": 44.2
+    },
+    "Flags": "0xAA041101",
+    "Interior": "v_faceoffice",
+    "Room": "hash_9838270A",
+    "RadioStation": "hash_5E61F5CF"
+  },
+  {
+    "Name": "hash_C1EDDBBE",
+    "Position": {
+      "X": -1222.25,
+      "Y": -907.8,
+      "Z": 13.48
+    },
+    "Flags": "0xAA041101",
+    "Interior": "v_gen_liquor",
+    "Room": "liquor_front",
+    "RadioStation": "hash_C4749814"
+  },
+  {
+    "Name": "hash_A0792343",
+    "Position": {
+      "X": 738.34,
+      "Y": -1080.27,
+      "Z": 22.96
+    },
+    "Flags": "0xAA001401",
+    "Interior": "v_lockup",
+    "Room": "hash_2CCC5BEF",
+    "RadioStation": "hash_B0962EE0"
+  },
+  {
+    "Name": "hash_03DD73BA",
+    "Position": {
+      "X": -590.37,
+      "Y": -1617.0,
+      "Z": 32.96
+    },
+    "Flags": "0xAA041411",
+    "Interior": "v_recycle",
+    "Room": "v_recycle_door",
+    "RadioStation": "hash_5E61F5CF"
+  },
+  {
+    "Name": "hash_EDDE6124",
+    "Position": {
+      "X": 73.59,
+      "Y": -1391.21,
+      "Z": 30.0
+    },
+    "Flags": "0xAA041501",
+    "Interior": "v_clotheslo",
+    "Room": "hash_C6BF12B9",
+    "RadioStation": "hash_170FC52E"
+  },
+  {
+    "Name": "hash_26A6A7B5",
+    "Position": {
+      "X": 427.3,
+      "Y": -808.0,
+      "Z": 30.8
+    },
+    "Flags": "0xAA041501",
+    "Interior": "v_clotheslo",
+    "Room": "hash_C6BF12B9",
+    "RadioStation": "hash_170FC52E"
+  },
+  {
+    "Name": "hash_9A4A2B3C",
+    "Position": {
+      "X": -821.0,
+      "Y": -1071.0,
+      "Z": 12.6
+    },
+    "Flags": "0xAA041501",
+    "Interior": "v_clotheslo",
+    "Room": "hash_C6BF12B9",
+    "RadioStation": "hash_170FC52E"
+  },
+  {
+    "Name": "hash_01BBBEBB",
+    "Position": {
+      "X": 1696.1,
+      "Y": 4821.0,
+      "Z": 43.2
+    },
+    "Flags": "0xAA041501",
+    "Interior": "v_clotheslo",
+    "Room": "hash_C6BF12B9",
+    "RadioStation": "hash_C4749814"
+  },
+  {
+    "Name": "hash_3EA2464D",
+    "Position": {
+      "X": -1101.2,
+      "Y": 2713.3,
+      "Z": 20.5
+    },
+    "Flags": "0xAA041501",
+    "Interior": "v_clotheslo",
+    "Room": "hash_C6BF12B9",
+    "RadioStation": "hash_C343DA28"
+  },
+  {
+    "Name": "hash_8FFBAAAB",
+    "Position": {
+      "X": 4.8,
+      "Y": 6509.6,
+      "Z": 33.2
+    },
+    "Flags": "0xAA041501",
+    "Interior": "v_clotheslo",
+    "Room": "hash_C6BF12B9",
+    "RadioStation": "hash_C343DA28"
+  },
+  {
+    "Name": "hash_4D5ADBC9",
+    "Position": {
+      "X": 1198.2,
+      "Y": 2712.3,
+      "Z": 39.6
+    },
+    "Flags": "0xAA041501",
+    "Interior": "v_clotheslo",
+    "Room": "hash_C6BF12B9",
+    "RadioStation": "hash_C343DA28"
+  },
+  {
+    "Name": "hash_AE896A87",
+    "Position": {
+      "X": -714.1,
+      "Y": -155.3,
+      "Z": 39.9
+    },
+    "Flags": "0xAA041400",
+    "Interior": "v_clotheshi",
+    "Room": "hash_4AFC9331",
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_29757DCB",
+    "Position": {
+      "X": 18.9,
+      "Y": -1104.0,
+      "Z": 31.65
+    },
+    "Flags": "0xAA041501",
+    "Interior": "v_gun",
+    "Room": "hash_2CB1B929",
+    "RadioStation": "hash_C1400C2E"
+  },
+  {
+    "Name": "hash_21937E47",
+    "Position": {
+      "X": 814.4,
+      "Y": -2159.2,
+      "Z": 32.0
+    },
+    "Flags": "0xAA041501",
+    "Interior": "v_gun",
+    "Room": "hash_2CB1B929",
+    "RadioStation": "hash_C1400C2E"
+  },
+  {
+    "Name": "hash_4DB97A83",
+    "Position": {
+      "X": 12.8,
+      "Y": -1098.0,
+      "Z": 32.0
+    },
+    "Flags": "0xAA041501",
+    "Interior": "v_gun",
+    "Room": "hash_F3525C29",
+    "RadioStation": "hash_C1400C2E"
+  },
+  {
+    "Name": "hash_85B2BBDD",
+    "Position": {
+      "X": 821.9,
+      "Y": -2162.0,
+      "Z": 32.0
+    },
+    "Flags": "0xAA041501",
+    "Interior": "v_gun",
+    "Room": "hash_F3525C29",
+    "RadioStation": "hash_C1400C2E"
+  },
+  {
+    "Name": "hash_12ABB14A",
+    "Position": {
+      "X": 1396.4,
+      "Y": 3605.8,
+      "Z": 39.1
+    },
+    "Flags": "0xAA041411",
+    "Interior": "v_methlab",
+    "Room": "hash_3B24D4C4",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "hash_24197376",
+    "Position": {
+      "X": -805.2,
+      "Y": 177.8,
+      "Z": 72.5
+    },
+    "Flags": "0xAA041411",
+    "Interior": "v_michael",
+    "Room": "hash_03C7FA8B",
+    "RadioStation": "hash_908F83E2"
+  },
+  {
+    "Name": "se_mp_garage_m_radio",
+    "Position": {
+      "X": 202.23,
+      "Y": -994.03,
+      "Z": -98.65
+    },
+    "Flags": "0xAA041411",
+    "Interior": "v_garagem",
+    "Room": "v_garagem_gtamloroom002",
+    "RadioStation": "hash_FA17DE37"
+  },
+  {
+    "Name": "hash_034F8C71",
+    "Position": {
+      "X": 175.85,
+      "Y": -999.35,
+      "Z": -98.53
+    },
+    "Flags": "0xAA041411",
+    "Interior": "v_garages",
+    "Room": "hash_0340C0D5",
+    "RadioStation": "hash_B0962EE0"
+  },
+  {
+    "Name": "hash_313F2B77",
+    "Position": {
+      "X": 227.16,
+      "Y": -985.95,
+      "Z": -98.29
+    },
+    "Flags": "0xAA041501",
+    "Interior": "v_garagel",
+    "Room": "hash_40AED2F9",
+    "RadioStation": "hash_B0962EE0"
+  },
+  {
+    "Name": "hash_E25DE3D3",
+    "Position": {
+      "X": -1198.6,
+      "Y": -776.2,
+      "Z": 19.0
+    },
+    "Flags": "0xAA041101",
+    "Interior": "v_clothesmid",
+    "Room": "hash_6BE26F02",
+    "RadioStation": "hash_170FC52E"
+  },
+  {
+    "Name": "hash_A2754082",
+    "Position": {
+      "X": 127.8,
+      "Y": -224.0,
+      "Z": 57.0
+    },
+    "Flags": "0xAA041501",
+    "Interior": "v_clothesmid",
+    "Room": "hash_6BE26F02",
+    "RadioStation": "hash_170FC52E"
+  },
+  {
+    "Name": "hash_ACD64AEB",
+    "Position": {
+      "X": 618.4,
+      "Y": 2754.1,
+      "Z": 44.4
+    },
+    "Flags": "0xAA041101",
+    "Interior": "v_clothesmid",
+    "Room": "hash_6BE26F02",
+    "RadioStation": "hash_170FC52E"
+  },
+  {
+    "Name": "hash_DC419C55",
+    "Position": {
+      "X": -3170.2,
+      "Y": 1052.9,
+      "Z": 22.7
+    },
+    "Flags": "0xAA041101",
+    "Interior": "v_clothesmid",
+    "Room": "hash_6BE26F02",
+    "RadioStation": "hash_170FC52E"
+  },
+  {
+    "Name": "hash_9265073B",
+    "Position": {
+      "X": -550.23,
+      "Y": 284.41,
+      "Z": 82.88
+    },
+    "Flags": "0xAA141001",
+    "Interior": "v_rockclub",
+    "Room": "hash_186685A5",
+    "RadioStation": "hash_C1400C2E"
+  },
+  {
+    "Name": "hash_F6758124",
+    "Position": {
+      "X": 325.55,
+      "Y": 182.3,
+      "Z": 104.58
+    },
+    "Flags": "0xAA041501",
+    "Interior": "v_tattoo",
+    "Room": "hash_38B3E7A8",
+    "RadioStation": "hash_719B0AFB"
+  },
+  {
+    "Name": "hash_EA3053C2",
+    "Position": {
+      "X": -1154.0,
+      "Y": -1424.0,
+      "Z": 5.6
+    },
+    "Flags": "0xAA041501",
+    "Interior": "v_tattoo",
+    "Room": "hash_38B3E7A8",
+    "RadioStation": "hash_719B0AFB"
+  },
+  {
+    "Name": "hash_1A75125E",
+    "Position": {
+      "X": -3170.15,
+      "Y": 1080.01,
+      "Z": 22.02
+    },
+    "Flags": "0xAA041501",
+    "Interior": "v_tattoo",
+    "Room": "hash_38B3E7A8",
+    "RadioStation": "hash_719B0AFB"
+  },
+  {
+    "Name": "hash_458BBE13",
+    "Position": {
+      "X": 1321.0,
+      "Y": -1656.6,
+      "Z": 54.0
+    },
+    "Flags": "0xAA041501",
+    "Interior": "v_tattoo",
+    "Room": "hash_38B3E7A8",
+    "RadioStation": "hash_C1400C2E"
+  },
+  {
+    "Name": "hash_5536D6AB",
+    "Position": {
+      "X": 1865.4,
+      "Y": 3744.8,
+      "Z": 33.0
+    },
+    "Flags": "0xAA041501",
+    "Interior": "v_tattoo2",
+    "Room": "hash_21A4052F",
+    "RadioStation": "hash_C1400C2E"
+  },
+  {
+    "Name": "hash_8B642694",
+    "Position": {
+      "X": -294.0,
+      "Y": 6201.0,
+      "Z": 32.0
+    },
+    "Flags": "0xAA041501",
+    "Interior": "v_tattoo2",
+    "Room": "hash_21A4052F",
+    "RadioStation": "hash_719B0AFB"
+  },
+  {
+    "Name": "hash_CA9117F0",
+    "Position": {
+      "X": 147.6,
+      "Y": -2202.3,
+      "Z": 5.6
+    },
+    "Flags": "0xAA000401",
+    "Interior": "v_torture",
+    "Room": "hash_B85B15D9",
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_D91363BF",
+    "Position": {
+      "X": -1142.0,
+      "Y": -1539.0,
+      "Z": 10.15
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "hash_B172ECEB",
+    "Position": {
+      "X": -1154.25,
+      "Y": -1523.76,
+      "Z": 10.69
+    },
+    "Flags": "0xAA041401",
+    "Interior": "v_trevors",
+    "Room": "hash_5BE54791",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "hash_ABC8E2ED",
+    "Position": {
+      "X": 1976.5,
+      "Y": 3822.3,
+      "Z": 33.4
+    },
+    "Flags": "0xAA041411",
+    "Interior": "v_trailer",
+    "Room": "hash_52834FBD",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "hash_25963B06",
+    "Position": {
+      "X": 978.5,
+      "Y": -1844.1,
+      "Z": 30.0
+    },
+    "Flags": "0xAA041401",
+    "Interior": "v_carmod2",
+    "Room": "hash_8350182D",
+    "RadioStation": "hash_AEB03A8F"
+  },
+  {
+    "Name": "hash_90132792",
+    "Position": {
+      "X": 112.3,
+      "Y": -1287.3,
+      "Z": 31.0
+    },
+    "Flags": "0xAA040001",
+    "Interior": "v_strip3",
+    "Room": "strp3mainrm",
+    "RadioStation": "hash_3B91F5CC"
+  },
+  {
+    "Name": "hash_D93C5A4C",
+    "Position": {
+      "X": 125.94,
+      "Y": -1281.97,
+      "Z": 31.25
+    },
+    "Flags": "0xAA040001",
+    "Interior": "v_strip3",
+    "Room": "strp3mainrm",
+    "RadioStation": "hash_3B91F5CC"
+  },
+  {
+    "Name": "hash_0B25A4E1",
+    "Position": {
+      "X": 112.56,
+      "Y": -1303.59,
+      "Z": 30.96
+    },
+    "Flags": "0xAA040001",
+    "Interior": "v_strip3",
+    "Room": "strp3privrooms",
+    "RadioStation": "hash_3B91F5CC"
+  },
+  {
+    "Name": "hash_51346D54",
+    "Position": {
+      "X": 118.4,
+      "Y": -1285.0,
+      "Z": 30.0
+    },
+    "Flags": "0xAA040101",
+    "Interior": "v_strip3",
+    "Room": "strp3mainrm",
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_95ABC47F",
+    "Position": {
+      "X": 1987.91,
+      "Y": 3051.69,
+      "Z": 48.08
+    },
+    "Flags": "0xAA041411",
+    "Interior": "v_hicksbar",
+    "Room": "hash_14C45596",
+    "RadioStation": "hash_C343DA28"
+  },
+  {
+    "Name": "hash_73BF2FCC",
+    "Position": {
+      "X": 1990.7,
+      "Y": 3053.8,
+      "Z": 48.8
+    },
+    "Flags": "0xAA041000",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_C343DA28"
+  },
+  {
+    "Name": "hash_E4617B5E",
+    "Position": {
+      "X": 52.73,
+      "Y": -2501.58,
+      "Z": 7.0
+    },
+    "Flags": "0xAA005401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_719B0AFB"
+  },
+  {
+    "Name": "hash_D69CDFD5",
+    "Position": {
+      "X": -3.13,
+      "Y": -2462.22,
+      "Z": 8.19
+    },
+    "Flags": "0xAA005401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_719B0AFB"
+  },
+  {
+    "Name": "hash_4DA84E0E",
+    "Position": {
+      "X": -48.37,
+      "Y": -2451.2,
+      "Z": 7.37
+    },
+    "Flags": "0xAA005401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_719B0AFB"
+  },
+  {
+    "Name": "hash_5BE1EA81",
+    "Position": {
+      "X": -119.81,
+      "Y": -2451.84,
+      "Z": 8.82
+    },
+    "Flags": "0xAA005401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_719B0AFB"
+  },
+  {
+    "Name": "hash_6A440745",
+    "Position": {
+      "X": -202.27,
+      "Y": -2427.57,
+      "Z": 8.34
+    },
+    "Flags": "0xAA005401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_719B0AFB"
+  },
+  {
+    "Name": "hash_7884A3C6",
+    "Position": {
+      "X": -95.49,
+      "Y": -2505.86,
+      "Z": 7.22
+    },
+    "Flags": "0xAA005401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_719B0AFB"
+  },
+  {
+    "Name": "hash_9561DD80",
+    "Position": {
+      "X": 22.23,
+      "Y": -2523.84,
+      "Z": 6.22
+    },
+    "Flags": "0xAA005401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_719B0AFB"
+  },
+  {
+    "Name": "hash_A2C1783F",
+    "Position": {
+      "X": -140.0,
+      "Y": -2383.0,
+      "Z": 6.0
+    },
+    "Flags": "0xAA005401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_719B0AFB"
+  },
+  {
+    "Name": "hash_5128C530",
+    "Position": {
+      "X": 465.0,
+      "Y": -794.0,
+      "Z": 24.0
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_B5DD6F19"
+  },
+  {
+    "Name": "hash_1854D389",
+    "Position": {
+      "X": 448.0,
+      "Y": -738.9,
+      "Z": 28.0
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_AEB03A8F"
+  },
+  {
+    "Name": "hash_34960C0B",
+    "Position": {
+      "X": 448.0,
+      "Y": -711.9,
+      "Z": 28.0
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "hash_77C945E0",
+    "Position": {
+      "X": 297.2,
+      "Y": 197.2,
+      "Z": 115.0
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_AEB03A8F"
+  },
+  {
+    "Name": "hash_6A91BD99",
+    "Position": {
+      "X": -418.8,
+      "Y": -2179.5,
+      "Z": 14.0
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_719B0AFB"
+  },
+  {
+    "Name": "hash_BBC25800",
+    "Position": {
+      "X": -236.1,
+      "Y": -776.6,
+      "Z": 34.3
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_5A254955"
+  },
+  {
+    "Name": "hash_AF8CBF95",
+    "Position": {
+      "X": 274.6,
+      "Y": -966.5,
+      "Z": 30.5
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_4F95BAD7"
+  },
+  {
+    "Name": "hash_FB6C9A4C",
+    "Position": {
+      "X": 502.2,
+      "Y": 115.3,
+      "Z": 98.0
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_5A254955"
+  },
+  {
+    "Name": "hash_1490CC94",
+    "Position": {
+      "X": 98.9,
+      "Y": 206.6,
+      "Z": 109.7
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_4F95BAD7"
+  },
+  {
+    "Name": "hash_B8861B80",
+    "Position": {
+      "X": 14.3,
+      "Y": -167.8,
+      "Z": 56.6
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_908F83E2"
+  },
+  {
+    "Name": "hash_A1D4EE1A",
+    "Position": {
+      "X": 386.7,
+      "Y": -322.2,
+      "Z": 48.0
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_AEB03A8F"
+  },
+  {
+    "Name": "hash_2EEDA44E",
+    "Position": {
+      "X": 797.0,
+      "Y": -735.5,
+      "Z": 29.1
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_908F83E2"
+  },
+  {
+    "Name": "hash_25DF923A",
+    "Position": {
+      "X": 1093.1,
+      "Y": -360.7,
+      "Z": 68.1
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_AEB03A8F"
+  },
+  {
+    "Name": "hash_380B3691",
+    "Position": {
+      "X": 1237.1,
+      "Y": -355.5,
+      "Z": 70.2
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_00572C04"
+  },
+  {
+    "Name": "hash_408D837C",
+    "Position": {
+      "X": -796.3,
+      "Y": -631.9,
+      "Z": 30.2
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_4F95BAD7"
+  },
+  {
+    "Name": "hash_AAAAD7F5",
+    "Position": {
+      "X": -657.9,
+      "Y": -679.5,
+      "Z": 32.6
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_AEB03A8F"
+  },
+  {
+    "Name": "hash_872190E3",
+    "Position": {
+      "X": -524.3,
+      "Y": -683.1,
+      "Z": 35.1
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_C4749814"
+  },
+  {
+    "Name": "hash_3DB57DE4",
+    "Position": {
+      "X": -638.5,
+      "Y": -1248.6,
+      "Z": 13.4
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_4F95BAD7"
+  },
+  {
+    "Name": "hash_D85F38FD",
+    "Position": {
+      "X": -3414.1,
+      "Y": 960.3,
+      "Z": 8.6
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_5A254955"
+  },
+  {
+    "Name": "hash_F7ED961E",
+    "Position": {
+      "X": -1346.0,
+      "Y": -654.3,
+      "Z": 29.4
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_5A254955"
+  },
+  {
+    "Name": "hash_CC653F1E",
+    "Position": {
+      "X": -1386.5,
+      "Y": -741.0,
+      "Z": 25.9
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_5A254955"
+  },
+  {
+    "Name": "hash_C8E3B733",
+    "Position": {
+      "X": -1261.7,
+      "Y": -764.6,
+      "Z": 23.0
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_4F95BAD7"
+  },
+  {
+    "Name": "hash_7203B82B",
+    "Position": {
+      "X": 129.6,
+      "Y": -1535.2,
+      "Z": 30.4
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_908F83E2"
+  },
+  {
+    "Name": "hash_606294E9",
+    "Position": {
+      "X": 160.5,
+      "Y": -1435.9,
+      "Z": 30.7
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_5A254955"
+  },
+  {
+    "Name": "hash_7988C841",
+    "Position": {
+      "X": 440.9,
+      "Y": -1467.1,
+      "Z": 30.5
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_AEB03A8F"
+  },
+  {
+    "Name": "hash_07D964DC",
+    "Position": {
+      "X": 171.1,
+      "Y": -1636.5,
+      "Z": 30.4
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_00572C04"
+  },
+  {
+    "Name": "hash_B87AF0A7",
+    "Position": {
+      "X": -212.1,
+      "Y": -37.5,
+      "Z": 51.5
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_4F95BAD7"
+  },
+  {
+    "Name": "hash_95F72A78",
+    "Position": {
+      "X": -1.1,
+      "Y": 234.2,
+      "Z": 110.0
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_4F95BAD7"
+  },
+  {
+    "Name": "hash_A712CB97",
+    "Position": {
+      "X": -719.8,
+      "Y": 258.9,
+      "Z": 80.8
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_5A254955"
+  },
+  {
+    "Name": "hash_C2A582BC",
+    "Position": {
+      "X": -375.7,
+      "Y": 268.6,
+      "Z": 87.0
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_2CA9169F"
+  },
+  {
+    "Name": "hash_0EF71B4A",
+    "Position": {
+      "X": -242.1,
+      "Y": 282.2,
+      "Z": 92.8
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_5E61F5CF"
+  },
+  {
+    "Name": "hash_BBFFC566",
+    "Position": {
+      "X": -1390.2,
+      "Y": -919.9,
+      "Z": 12.0
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_5A254955"
+  },
+  {
+    "Name": "hash_D36D70E9",
+    "Position": {
+      "X": -1218.6,
+      "Y": -1096.2,
+      "Z": 8.8
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_5A254955"
+  },
+  {
+    "Name": "hash_DCEA050E",
+    "Position": {
+      "X": -1268.6,
+      "Y": -1201.7,
+      "Z": 5.6
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_5F076ABF"
+  },
+  {
+    "Name": "hash_EB1BA171",
+    "Position": {
+      "X": -1232.5,
+      "Y": -1183.9,
+      "Z": 8.8
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_908F83E2"
+  },
+  {
+    "Name": "hash_49875E47",
+    "Position": {
+      "X": -1238.0,
+      "Y": -1244.8,
+      "Z": 7.5
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_719B0AFB"
+  },
+  {
+    "Name": "hash_FAF1F2A5",
+    "Position": {
+      "X": -1347.8,
+      "Y": -1219.0,
+      "Z": 6.4
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_C4749814"
+  },
+  {
+    "Name": "hash_1C9535EB",
+    "Position": {
+      "X": -1332.7,
+      "Y": -1281.9,
+      "Z": 5.4
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_5E61F5CF"
+  },
+  {
+    "Name": "hash_0FA21C05",
+    "Position": {
+      "X": -1306.4,
+      "Y": -1348.4,
+      "Z": 5.2
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_4F95BAD7"
+  },
+  {
+    "Name": "hash_9935AF46",
+    "Position": {
+      "X": -1166.3,
+      "Y": -1266.2,
+      "Z": 6.8
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_AEB03A8F"
+  },
+  {
+    "Name": "hash_A89B4F35",
+    "Position": {
+      "X": -861.0,
+      "Y": -1138.1,
+      "Z": 7.4
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_2CA9169F"
+  },
+  {
+    "Name": "hash_CBA59549",
+    "Position": {
+      "X": -1120.4,
+      "Y": -1343.1,
+      "Z": 6.0
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_5A254955"
+  },
+  {
+    "Name": "hash_DB593494",
+    "Position": {
+      "X": -1128.9,
+      "Y": -1373.0,
+      "Z": 6.0
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_C4749814"
+  },
+  {
+    "Name": "hash_CD1C181A",
+    "Position": {
+      "X": -1184.9,
+      "Y": -1408.2,
+      "Z": 4.6
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_5A254955"
+  },
+  {
+    "Name": "hash_FFC6FD6F",
+    "Position": {
+      "X": -1113.7,
+      "Y": -1455.5,
+      "Z": 5.3
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_5F076ABF"
+  },
+  {
+    "Name": "hash_128D22FB",
+    "Position": {
+      "X": -1169.5,
+      "Y": -1438.1,
+      "Z": 4.4
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_170FC52E"
+  },
+  {
+    "Name": "hash_0D9495B2",
+    "Position": {
+      "X": -1176.5,
+      "Y": -1532.7,
+      "Z": 4.4
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_5E61F5CF"
+  },
+  {
+    "Name": "hash_A6CB4821",
+    "Position": {
+      "X": -2210.9,
+      "Y": -382.2,
+      "Z": 15.1
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_C4749814"
+  },
+  {
+    "Name": "hash_3CE47599",
+    "Position": {
+      "X": -806.0,
+      "Y": -1354.0,
+      "Z": 8.0
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_5A254955"
+  },
+  {
+    "Name": "hash_58E5AD9F",
+    "Position": {
+      "X": -1028.0,
+      "Y": -1379.0,
+      "Z": 6.0
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_5A254955"
+  },
+  {
+    "Name": "hash_0ECEE5D8",
+    "Position": {
+      "X": 155.5,
+      "Y": -1720.0,
+      "Z": 28.8
+    },
+    "Flags": "0xAA041411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_00572C04"
+  },
+  {
+    "Name": "hash_4D3849FD",
+    "Position": {
+      "X": 143.0,
+      "Y": -833.0,
+      "Z": 32.0
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_5A254955"
+  },
+  {
+    "Name": "hash_AB6DCC73",
+    "Position": {
+      "X": -262.9,
+      "Y": 6291.5,
+      "Z": 31.0
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "hash_C1939387",
+    "Position": {
+      "X": -119.5,
+      "Y": 6385.0,
+      "Z": 31.0
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_2CA9169F"
+  },
+  {
+    "Name": "hash_B801D624",
+    "Position": {
+      "X": 1591.0,
+      "Y": 6451.0,
+      "Z": 26.0
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_2CA9169F"
+  },
+  {
+    "Name": "hash_792EC355",
+    "Position": {
+      "X": 300.8,
+      "Y": 133.9,
+      "Z": 105.2
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_46279298"
+  },
+  {
+    "Name": "hash_C24FB4AE",
+    "Position": {
+      "X": 339.3,
+      "Y": 183.0,
+      "Z": 104.0
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_46279298"
+  },
+  {
+    "Name": "hash_E0B86476",
+    "Position": {
+      "X": 407.6,
+      "Y": 88.8,
+      "Z": 101.8
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_46279298"
+  },
+  {
+    "Name": "hash_2BB33887",
+    "Position": {
+      "X": 414.5,
+      "Y": 155.9,
+      "Z": 103.7
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_90EFE3FA"
+  },
+  {
+    "Name": "hash_F54FDB7D",
+    "Position": {
+      "X": 49.7,
+      "Y": -180.0,
+      "Z": 55.6
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "hash_1E4DAE4D",
+    "Position": {
+      "X": 208.0,
+      "Y": -189.0,
+      "Z": 55.0
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_B827A5D2"
+  },
+  {
+    "Name": "hash_51B97E83",
+    "Position": {
+      "X": -553.0,
+      "Y": -606.0,
+      "Z": 37.0
+    },
+    "Flags": "0xAA000001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_8D641553",
+    "Position": {
+      "X": -1595.7,
+      "Y": -985.9,
+      "Z": 17.0
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_C4749814"
+  },
+  {
+    "Name": "hash_D898A8A2",
+    "Position": {
+      "X": 398.3,
+      "Y": 175.8,
+      "Z": 104.5
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_90EFE3FA"
+  },
+  {
+    "Name": "hash_2583167F",
+    "Position": {
+      "X": -257.0,
+      "Y": 241.0,
+      "Z": 97.0
+    },
+    "Flags": "0xAA040001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_C7A2843A"
+  },
+  {
+    "Name": "hash_81FAD01D",
+    "Position": {
+      "X": -1122.465,
+      "Y": -1647.694,
+      "Z": 5.3793
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "hash_569AC7C2",
+    "Position": {
+      "X": -1143.612,
+      "Y": -1618.197,
+      "Z": 5.8687
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_5E61F5CF"
+  },
+  {
+    "Name": "hash_E8FD2E57",
+    "Position": {
+      "X": -1172.0,
+      "Y": -1573.0,
+      "Z": 4.5
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_00572C04"
+  },
+  {
+    "Name": "hash_0CF23314",
+    "Position": {
+      "X": -1227.464,
+      "Y": -1478.784,
+      "Z": 6.1092
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "hash_2FFEA0F0",
+    "Position": {
+      "X": -1257.565,
+      "Y": -1443.328,
+      "Z": 6.1869
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_5E61F5CF"
+  },
+  {
+    "Name": "hash_787D87E9",
+    "Position": {
+      "X": -1299.072,
+      "Y": -1378.825,
+      "Z": 5.638
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_5E61F5CF"
+  },
+  {
+    "Name": "hash_A2460BC8",
+    "Position": {
+      "X": -1484.628,
+      "Y": -946.4939,
+      "Z": 11.0855
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_170FC52E"
+  },
+  {
+    "Name": "hash_0C819F5B",
+    "Position": {
+      "X": -1519.297,
+      "Y": -918.0931,
+      "Z": 10.9531
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_5E61F5CF"
+  },
+  {
+    "Name": "hash_5CB3D291",
+    "Position": {
+      "X": -1533.774,
+      "Y": -904.6111,
+      "Z": 10.9189
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_5E61F5CF"
+  },
+  {
+    "Name": "hash_9ED288AD",
+    "Position": {
+      "X": -1654.433,
+      "Y": -1036.862,
+      "Z": 14.0206
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_90EFE3FA"
+  },
+  {
+    "Name": "hash_8CD2DFC9",
+    "Position": {
+      "X": -1685.081,
+      "Y": -1070.414,
+      "Z": 15.2082
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_90EFE3FA"
+  },
+  {
+    "Name": "hash_B5FB4583",
+    "Position": {
+      "X": -1687.953,
+      "Y": -1093.378,
+      "Z": 17.3954
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_90EFE3FA"
+  },
+  {
+    "Name": "hash_0940C719",
+    "Position": {
+      "X": -1662.0,
+      "Y": -988.0,
+      "Z": 10.0
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_C4749814"
+  },
+  {
+    "Name": "hash_F52E4240",
+    "Position": {
+      "X": -1204.0,
+      "Y": -1563.0,
+      "Z": 4.5
+    },
+    "Flags": "0xAA041451",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_00572C04"
+  },
+  {
+    "Name": "hash_8ACF3383",
+    "Position": {
+      "X": -1213.0,
+      "Y": -1516.0,
+      "Z": 5.0
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "hash_2600E275",
+    "Position": {
+      "X": -1214.5,
+      "Y": -829.0,
+      "Z": 17.0
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_90EFE3FA"
+  },
+  {
+    "Name": "hash_C75F063B",
+    "Position": {
+      "X": -1109.73,
+      "Y": -1692.99,
+      "Z": 4.73
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "hash_816F78F5",
+    "Position": {
+      "X": -1649.6,
+      "Y": -1124.8,
+      "Z": 24.3
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_90EFE3FA"
+  },
+  {
+    "Name": "hash_113B8640",
+    "Position": {
+      "X": -1562.0,
+      "Y": -951.0,
+      "Z": 18.0
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_4F95BAD7"
+  },
+  {
+    "Name": "hash_1226A709",
+    "Position": {
+      "X": -1830.0,
+      "Y": -1194.0,
+      "Z": 17.0
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_90EFE3FA"
+  },
+  {
+    "Name": "hash_B9E6398D",
+    "Position": {
+      "X": -1100.0,
+      "Y": -1616.0,
+      "Z": 9.0
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_AEB03A8F"
+  },
+  {
+    "Name": "hash_09BA824F",
+    "Position": {
+      "X": 79.0,
+      "Y": 3706.0,
+      "Z": 42.0
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_C1400C2E"
+  },
+  {
+    "Name": "hash_49411236",
+    "Position": {
+      "X": 15.26,
+      "Y": 3691.25,
+      "Z": 44.2
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_C1400C2E"
+  },
+  {
+    "Name": "hash_CDDC1B6E",
+    "Position": {
+      "X": 50.68,
+      "Y": 3744.5,
+      "Z": 44.2
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_C1400C2E"
+  },
+  {
+    "Name": "hash_E38C46CE",
+    "Position": {
+      "X": 97.79,
+      "Y": 3679.35,
+      "Z": 44.2
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_C1400C2E"
+  },
+  {
+    "Name": "hash_A9A6BEB1",
+    "Position": {
+      "X": -2032.5,
+      "Y": -1032.3,
+      "Z": 5.4
+    },
+    "Flags": "0xAA040410",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_4F95BAD7"
+  },
+  {
+    "Name": "hash_7D96DD23",
+    "Position": {
+      "X": -145.0,
+      "Y": -970.0,
+      "Z": 114.8
+    },
+    "Flags": "0xAA041411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_AEB03A8F"
+  },
+  {
+    "Name": "hash_8BE479BE",
+    "Position": {
+      "X": -154.0,
+      "Y": -962.0,
+      "Z": 255.0
+    },
+    "Flags": "0xAA041411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_AEB03A8F"
+  },
+  {
+    "Name": "hash_DF53A11F",
+    "Position": {
+      "X": 560.0,
+      "Y": -1751.0,
+      "Z": 30.0
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_E3D9C5EC"
+  },
+  {
+    "Name": "hash_C2A7C889",
+    "Position": {
+      "X": -1178.1,
+      "Y": 303.0,
+      "Z": 74.4
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_FBDF3747"
+  },
+  {
+    "Name": "hash_9A3B77B1",
+    "Position": {
+      "X": -823.6,
+      "Y": 107.0,
+      "Z": 60.3
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_FBDF3747"
+  },
+  {
+    "Name": "hash_74642C03",
+    "Position": {
+      "X": -980.7,
+      "Y": 131.3,
+      "Z": 62.3
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_FBDF3747"
+  },
+  {
+    "Name": "hash_BDA03E7A",
+    "Position": {
+      "X": -659.8,
+      "Y": 466.5,
+      "Z": 114.8
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_FBDF3747"
+  },
+  {
+    "Name": "hash_8BD25ADF",
+    "Position": {
+      "X": -886.3,
+      "Y": -52.3,
+      "Z": 43.7
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_FBDF3747"
+  },
+  {
+    "Name": "hash_6D069D50",
+    "Position": {
+      "X": -3117.7,
+      "Y": 288.9,
+      "Z": 12.6
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_FBDF3747"
+  },
+  {
+    "Name": "hash_767CB03C",
+    "Position": {
+      "X": -810.3,
+      "Y": 245.6,
+      "Z": 83.8
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_FBDF3747"
+  },
+  {
+    "Name": "hash_81934669",
+    "Position": {
+      "X": 239.0,
+      "Y": 771.6,
+      "Z": 205.8
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_FBDF3747"
+  },
+  {
+    "Name": "hash_9B4279C7",
+    "Position": {
+      "X": -414.1,
+      "Y": 644.5,
+      "Z": 166.5
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_FBDF3747"
+  },
+  {
+    "Name": "hash_C2F89D0B",
+    "Position": {
+      "X": 183.3,
+      "Y": 565.7,
+      "Z": 184.3
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_FBDF3747"
+  },
+  {
+    "Name": "hash_D1353984",
+    "Position": {
+      "X": -298.2,
+      "Y": 467.6,
+      "Z": 117.5
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_FBDF3747"
+  },
+  {
+    "Name": "hash_DE7B5410",
+    "Position": {
+      "X": 13.4,
+      "Y": 467.2,
+      "Z": 147.1
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_FBDF3747"
+  },
+  {
+    "Name": "hash_ECC0F09B",
+    "Position": {
+      "X": -1125.1,
+      "Y": -1076.0,
+      "Z": 9.3
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_E3D9C5EC"
+  },
+  {
+    "Name": "hash_88DD28D9",
+    "Position": {
+      "X": -34.5,
+      "Y": -1442.5,
+      "Z": 32.2
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_E3D9C5EC"
+  },
+  {
+    "Name": "hash_9820475F",
+    "Position": {
+      "X": -77.1,
+      "Y": -1505.9,
+      "Z": 37.2
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_E3D9C5EC"
+  },
+  {
+    "Name": "hash_A651E3C2",
+    "Position": {
+      "X": -998.2,
+      "Y": -1096.9,
+      "Z": 8.0
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_E3D9C5EC"
+  },
+  {
+    "Name": "hash_439D1E5A",
+    "Position": {
+      "X": -1120.7,
+      "Y": -1553.2,
+      "Z": 9.9
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_E3D9C5EC"
+  },
+  {
+    "Name": "hash_4F9B3656",
+    "Position": {
+      "X": -1121.8,
+      "Y": -1508.2,
+      "Z": 8.6
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_E3D9C5EC"
+  },
+  {
+    "Name": "hash_5F00D521",
+    "Position": {
+      "X": -1132.8,
+      "Y": -1469.2,
+      "Z": 8.9
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_E3D9C5EC"
+  },
+  {
+    "Name": "hash_7C2A8C20",
+    "Position": {
+      "X": -1068.4,
+      "Y": -1549.2,
+      "Z": 9.3
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_E3D9C5EC"
+  },
+  {
+    "Name": "hash_91F9B7BE",
+    "Position": {
+      "X": -1050.5,
+      "Y": -1654.7,
+      "Z": 8.5
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_E3D9C5EC"
+  },
+  {
+    "Name": "hash_A54ADE58",
+    "Position": {
+      "X": -971.6,
+      "Y": -1565.0,
+      "Z": 9.5
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_E3D9C5EC"
+  },
+  {
+    "Name": "hash_779382EA",
+    "Position": {
+      "X": -1072.3,
+      "Y": -1517.1,
+      "Z": 12.5
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_E3D9C5EC"
+  },
+  {
+    "Name": "hash_88DF2581",
+    "Position": {
+      "X": -1175.5,
+      "Y": -386.3,
+      "Z": 43.3
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_FBDF3747"
+  },
+  {
+    "Name": "hash_5A20C805",
+    "Position": {
+      "X": -1628.7,
+      "Y": 12.1,
+      "Z": 67.7
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_FBDF3747"
+  },
+  {
+    "Name": "hash_6A33682A",
+    "Position": {
+      "X": -1481.2,
+      "Y": -47.2,
+      "Z": 58.6
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_FBDF3747"
+  },
+  {
+    "Name": "hash_3C8D8CDF",
+    "Position": {
+      "X": -856.0,
+      "Y": 557.4,
+      "Z": 101.7
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_FBDF3747"
+  },
+  {
+    "Name": "hash_51D5B76F",
+    "Position": {
+      "X": -1979.6,
+      "Y": 246.0,
+      "Z": 92.4
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_FBDF3747"
+  },
+  {
+    "Name": "hash_240D5BDB",
+    "Position": {
+      "X": -2000.9,
+      "Y": 595.9,
+      "Z": 124.0
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_FBDF3747"
+  },
+  {
+    "Name": "hash_78908600",
+    "Position": {
+      "X": -1935.6,
+      "Y": 451.7,
+      "Z": 107.2
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_FBDF3747"
+  },
+  {
+    "Name": "hash_86DA2293",
+    "Position": {
+      "X": -1717.7,
+      "Y": 376.0,
+      "Z": 91.0
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_FBDF3747"
+  },
+  {
+    "Name": "hash_9D2C4F37",
+    "Position": {
+      "X": -2800.6,
+      "Y": 1444.7,
+      "Z": 102.6
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_FBDF3747"
+  },
+  {
+    "Name": "hash_AB34EB48",
+    "Position": {
+      "X": -2988.2,
+      "Y": 714.1,
+      "Z": 34.2
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_FBDF3747"
+  },
+  {
+    "Name": "hash_7249F973",
+    "Position": {
+      "X": -3237.8,
+      "Y": 920.2,
+      "Z": 15.5
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_FBDF3747"
+  },
+  {
+    "Name": "hash_408095E1",
+    "Position": {
+      "X": 321.4,
+      "Y": 466.5,
+      "Z": 152.8
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_FBDF3747"
+  },
+  {
+    "Name": "hash_08B0A63E",
+    "Position": {
+      "X": -3209.0,
+      "Y": 1282.9,
+      "Z": 14.2
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_FBDF3747"
+  },
+  {
+    "Name": "hash_56ECC2B9",
+    "Position": {
+      "X": -105.6,
+      "Y": 978.0,
+      "Z": 240.5
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_FBDF3747"
+  },
+  {
+    "Name": "hash_2B446B65",
+    "Position": {
+      "X": -657.2,
+      "Y": 868.3,
+      "Z": 229.0
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_FBDF3747"
+  },
+  {
+    "Name": "hash_F80104DF",
+    "Position": {
+      "X": -1581.5,
+      "Y": 780.6,
+      "Z": 191.4
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_FBDF3747"
+  },
+  {
+    "Name": "hash_06F01F51",
+    "Position": {
+      "X": -1351.2,
+      "Y": 441.3,
+      "Z": 106.9
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_FBDF3747"
+  },
+  {
+    "Name": "hash_155DBC2C",
+    "Position": {
+      "X": 28.4,
+      "Y": 6598.5,
+      "Z": 33.5
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_E3D9C5EC"
+  },
+  {
+    "Name": "hash_E26A5646",
+    "Position": {
+      "X": 2223.5,
+      "Y": 5615.1,
+      "Z": 55.3
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_E3D9C5EC"
+  },
+  {
+    "Name": "hash_F0ACF2CB",
+    "Position": {
+      "X": -697.9,
+      "Y": 5760.5,
+      "Z": 17.6
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_E3D9C5EC"
+  },
+  {
+    "Name": "hash_ADD66D23",
+    "Position": {
+      "X": 3685.5,
+      "Y": 4564.2,
+      "Z": 25.3
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_E3D9C5EC"
+  },
+  {
+    "Name": "hash_BC3209D6",
+    "Position": {
+      "X": 2388.0,
+      "Y": 3343.2,
+      "Z": 49.1
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_E3D9C5EC"
+  },
+  {
+    "Name": "hash_95D43D1F",
+    "Position": {
+      "X": 1435.1,
+      "Y": 3629.1,
+      "Z": 36.2
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_E3D9C5EC"
+  },
+  {
+    "Name": "hash_A411D99A",
+    "Position": {
+      "X": 1727.3,
+      "Y": 3854.1,
+      "Z": 34.8
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_E3D9C5EC"
+  },
+  {
+    "Name": "hash_714E7414",
+    "Position": {
+      "X": 1934.2,
+      "Y": 3896.4,
+      "Z": 33.0
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_E3D9C5EC"
+  },
+  {
+    "Name": "hash_7F851081",
+    "Position": {
+      "X": 1934.2,
+      "Y": 3896.4,
+      "Z": 33.0
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_E3D9C5EC"
+  },
+  {
+    "Name": "hash_A3975075",
+    "Position": {
+      "X": 567.2,
+      "Y": 2597.7,
+      "Z": 45.5
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_E3D9C5EC"
+  },
+  {
+    "Name": "hash_B9EA7D1B",
+    "Position": {
+      "X": 986.5,
+      "Y": 2723.7,
+      "Z": 39.9
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_E3D9C5EC"
+  },
+  {
+    "Name": "hash_48BB1ABE",
+    "Position": {
+      "X": -123.5,
+      "Y": -1560.9,
+      "Z": 38.6
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_E3D9C5EC"
+  },
+  {
+    "Name": "hash_4EB326AE",
+    "Position": {
+      "X": -200.8,
+      "Y": -1598.8,
+      "Z": 39.2
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_E3D9C5EC"
+  },
+  {
+    "Name": "hash_5C81C24B",
+    "Position": {
+      "X": -93.8,
+      "Y": -1639.8,
+      "Z": 36.2
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_E3D9C5EC"
+  },
+  {
+    "Name": "hash_7356EFF5",
+    "Position": {
+      "X": 277.2,
+      "Y": -1697.7,
+      "Z": 30.3
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_E3D9C5EC"
+  },
+  {
+    "Name": "hash_15B134A7",
+    "Position": {
+      "X": 277.2,
+      "Y": -1697.7,
+      "Z": 30.3
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_E3D9C5EC"
+  },
+  {
+    "Name": "hash_2377D034",
+    "Position": {
+      "X": 287.9,
+      "Y": -1777.9,
+      "Z": 29.5
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_E3D9C5EC"
+  },
+  {
+    "Name": "hash_1A03BD50",
+    "Position": {
+      "X": 337.3,
+      "Y": -1830.9,
+      "Z": 29.5
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_E3D9C5EC"
+  },
+  {
+    "Name": "hash_282F59A7",
+    "Position": {
+      "X": 337.3,
+      "Y": -1830.9,
+      "Z": 29.5
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_E3D9C5EC"
+  },
+  {
+    "Name": "hash_8C8DB10A",
+    "Position": {
+      "X": 276.8,
+      "Y": -1901.6,
+      "Z": 28.2
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_E3D9C5EC"
+  },
+  {
+    "Name": "hash_7A5A8CA4",
+    "Position": {
+      "X": 152.6,
+      "Y": -1862.6,
+      "Z": 25.3
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_E3D9C5EC"
+  },
+  {
+    "Name": "hash_8A142BFB",
+    "Position": {
+      "X": 20.3,
+      "Y": -1891.3,
+      "Z": 23.8
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_E3D9C5EC"
+  },
+  {
+    "Name": "hash_76620497",
+    "Position": {
+      "X": 385.0,
+      "Y": -1878.3,
+      "Z": 26.2
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_E3D9C5EC"
+  },
+  {
+    "Name": "hash_E5B7635C",
+    "Position": {
+      "X": 468.0,
+      "Y": -1731.9,
+      "Z": 29.9
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_E3D9C5EC"
+  },
+  {
+    "Name": "hash_D3703ECE",
+    "Position": {
+      "X": 256.5,
+      "Y": -1738.3,
+      "Z": 30.2
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_E3D9C5EC"
+  },
+  {
+    "Name": "hash_C1199A21",
+    "Position": {
+      "X": 974.8,
+      "Y": -702.6,
+      "Z": 59.8
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_E3D9C5EC"
+  },
+  {
+    "Name": "hash_30CBF984",
+    "Position": {
+      "X": 961.3,
+      "Y": -542.4,
+      "Z": 60.2
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_E3D9C5EC"
+  },
+  {
+    "Name": "hash_1E80D4EE",
+    "Position": {
+      "X": 1023.9,
+      "Y": -411.6,
+      "Z": 67.9
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_E3D9C5EC"
+  },
+  {
+    "Name": "hash_0C47307B",
+    "Position": {
+      "X": 1322.5,
+      "Y": -585.7,
+      "Z": 74.5
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_E3D9C5EC"
+  },
+  {
+    "Name": "hash_575F48AE",
+    "Position": {
+      "X": 1232.0,
+      "Y": -729.0,
+      "Z": 61.2
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_E3D9C5EC"
+  },
+  {
+    "Name": "hash_F5E5E9E5",
+    "Position": {
+      "X": -1348.0,
+      "Y": -1658.0,
+      "Z": 1.5
+    },
+    "Flags": "0xAA041411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_B0962EE0"
+  },
+  {
+    "Name": "hash_E8384E8A",
+    "Position": {
+      "X": -1492.0,
+      "Y": -1283.0,
+      "Z": 1.5
+    },
+    "Flags": "0xAA041411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_B0962EE0"
+  },
+  {
+    "Name": "hash_DA11323C",
+    "Position": {
+      "X": -1537.0,
+      "Y": -1216.0,
+      "Z": 1.0
+    },
+    "Flags": "0xAA041411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_B0962EE0"
+  },
+  {
+    "Name": "hash_CCBE9797",
+    "Position": {
+      "X": -1784.0,
+      "Y": -889.0,
+      "Z": 6.0
+    },
+    "Flags": "0xAA041411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_4F95BAD7"
+  },
+  {
+    "Name": "hash_115DA0D8",
+    "Position": {
+      "X": -2045.0,
+      "Y": -552.0,
+      "Z": 7.0
+    },
+    "Flags": "0xAA041411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_5F076ABF"
+  },
+  {
+    "Name": "hash_032D0477",
+    "Position": {
+      "X": -1534.2,
+      "Y": -1226.2,
+      "Z": 1.5
+    },
+    "Flags": "0xAA041411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_4F95BAD7"
+  },
+  {
+    "Name": "hash_F5BAE993",
+    "Position": {
+      "X": -3079.7,
+      "Y": 531.4,
+      "Z": 2.4
+    },
+    "Flags": "0xAA041411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_170FC52E"
+  },
+  {
+    "Name": "hash_E5ADC979",
+    "Position": {
+      "X": 2829.3,
+      "Y": -629.3,
+      "Z": 1.1
+    },
+    "Flags": "0xAA040411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_90D167B0"
+  },
+  {
+    "Name": "hash_30E776FF",
+    "Position": {
+      "X": -1113.13,
+      "Y": -499.88,
+      "Z": 35.94
+    },
+    "Flags": "0xAA041501",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_908F83E2"
+  },
+  {
+    "Name": "hash_09D6E45D",
+    "Position": {
+      "X": -2193.0,
+      "Y": 4290.0,
+      "Z": 51.4
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_C4749814"
+  },
+  {
+    "Name": "hash_D9F9E0C1",
+    "Position": {
+      "X": -1209.06,
+      "Y": 3853.23,
+      "Z": 489.12
+    },
+    "Flags": "0xAA041411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_C343DA28"
+  },
+  {
+    "Name": "hash_6A6B57B2",
+    "Position": {
+      "X": 2335.6,
+      "Y": 2571.6,
+      "Z": 47.9
+    },
+    "Flags": "0xAA040401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_3A75F2AC"
+  },
+  {
+    "Name": "hash_858A8DF0",
+    "Position": {
+      "X": 2351.4,
+      "Y": 2521.1,
+      "Z": 48.1
+    },
+    "Flags": "0xAA040401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_3A75F2AC"
+  },
+  {
+    "Name": "hash_B5E06E9B",
+    "Position": {
+      "X": 2342.7,
+      "Y": 2592.7,
+      "Z": 46.7
+    },
+    "Flags": "0xAA040411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_3A75F2AC"
+  },
+  {
+    "Name": "hash_5349296A",
+    "Position": {
+      "X": 2338.9,
+      "Y": 2554.0,
+      "Z": 46.5
+    },
+    "Flags": "0xAA040411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_3A75F2AC"
+  },
+  {
+    "Name": "hash_417E05D4",
+    "Position": {
+      "X": 2367.1,
+      "Y": 2542.5,
+      "Z": 46.6
+    },
+    "Flags": "0xAA040411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_3A75F2AC"
+  },
+  {
+    "Name": "hash_6ECCE071",
+    "Position": {
+      "X": 2355.0,
+      "Y": 2611.7,
+      "Z": 46.2
+    },
+    "Flags": "0xAA040011",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_3A75F2AC"
+  },
+  {
+    "Name": "hash_196B66FC",
+    "Position": {
+      "X": 2445.7,
+      "Y": 3779.6,
+      "Z": 40.4
+    },
+    "Flags": "0xAA040011",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_3A75F2AC"
+  },
+  {
+    "Name": "hash_3D228BDB",
+    "Position": {
+      "X": 184.3,
+      "Y": 7055.6,
+      "Z": 4.0
+    },
+    "Flags": "0xAA040011",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_170FC52E"
+  },
+  {
+    "Name": "hash_AEC30941",
+    "Position": {
+      "X": -2599.0,
+      "Y": 3577.5,
+      "Z": 4.7
+    },
+    "Flags": "0xAA040011",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_90D167B0"
+  },
+  {
+    "Name": "hash_D0A4AB92",
+    "Position": {
+      "X": -1116.0,
+      "Y": 4925.0,
+      "Z": 225.595
+    },
+    "Flags": "0xAA455001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_50B93792",
+    "Position": {
+      "X": -937.9,
+      "Y": 1724.8,
+      "Z": 181.6
+    },
+    "Flags": "0xAA040011",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_C1400C2E"
+  },
+  {
+    "Name": "hash_5C065FD0",
+    "Position": {
+      "X": -2637.5,
+      "Y": 1869.6,
+      "Z": 160.1
+    },
+    "Flags": "0xAA040011",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_5A254955"
+  },
+  {
+    "Name": "hash_192683AC",
+    "Position": {
+      "X": 1394.5,
+      "Y": 3607.8,
+      "Z": 35.2
+    },
+    "Flags": "0xAA041411",
+    "Interior": "v_methlab",
+    "Room": "hash_8D82049D",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "hash_9B06E6DC",
+    "Position": {
+      "X": 723.1,
+      "Y": 2523.2,
+      "Z": 75.1
+    },
+    "Flags": "0xAA040401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_C343DA28"
+  },
+  {
+    "Name": "hash_F1CEBFFA",
+    "Position": {
+      "X": 1386.3,
+      "Y": 3661.2,
+      "Z": 34.9
+    },
+    "Flags": "0xAA040411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_2CA9169F"
+  },
+  {
+    "Name": "hash_BF88DB6F",
+    "Position": {
+      "X": 1504.6,
+      "Y": 3698.0,
+      "Z": 39.2
+    },
+    "Flags": "0xAA040411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_719B0AFB"
+  },
+  {
+    "Name": "hash_0CE27621",
+    "Position": {
+      "X": 1425.9,
+      "Y": 3668.6,
+      "Z": 40.1
+    },
+    "Flags": "0xAA040411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_E6598737"
+  },
+  {
+    "Name": "hash_E0A41DA5",
+    "Position": {
+      "X": 1632.1,
+      "Y": 3727.5,
+      "Z": 34.0
+    },
+    "Flags": "0xAA040401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "hash_28682D24",
+    "Position": {
+      "X": 1647.4,
+      "Y": 3810.3,
+      "Z": 38.9
+    },
+    "Flags": "0xAA040411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_E6598737"
+  },
+  {
+    "Name": "hash_F6824961",
+    "Position": {
+      "X": 1983.2,
+      "Y": 3705.1,
+      "Z": 32.9
+    },
+    "Flags": "0xAA040411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_2CA9169F"
+  },
+  {
+    "Name": "hash_4455E4FF",
+    "Position": {
+      "X": 1781.4,
+      "Y": 3638.5,
+      "Z": 35.3
+    },
+    "Flags": "0xAA040401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_719B0AFB"
+  },
+  {
+    "Name": "hash_138B036A",
+    "Position": {
+      "X": 1703.8,
+      "Y": 3590.0,
+      "Z": 37.1
+    },
+    "Flags": "0xAA040411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_719B0AFB"
+  },
+  {
+    "Name": "hash_5F019A56",
+    "Position": {
+      "X": 1923.6,
+      "Y": 3827.2,
+      "Z": 32.8
+    },
+    "Flags": "0xAA040401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_E3D9C5EC"
+  },
+  {
+    "Name": "hash_067165D7",
+    "Position": {
+      "X": 1777.0,
+      "Y": 3745.1,
+      "Z": 34.4
+    },
+    "Flags": "0xAA040401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_719B0AFB"
+  },
+  {
+    "Name": "hash_DA6F0DD3",
+    "Position": {
+      "X": 1878.2,
+      "Y": 3927.3,
+      "Z": 32.5
+    },
+    "Flags": "0xAA040411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_2CA9169F"
+  },
+  {
+    "Name": "hash_E829A948",
+    "Position": {
+      "X": 1779.4,
+      "Y": 3905.5,
+      "Z": 39.2
+    },
+    "Flags": "0xAA040411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_719B0AFB"
+  },
+  {
+    "Name": "hash_2F233732",
+    "Position": {
+      "X": 1776.5,
+      "Y": 3807.5,
+      "Z": 38.0
+    },
+    "Flags": "0xAA040411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_2CA9169F"
+  },
+  {
+    "Name": "hash_3D6CD3C5",
+    "Position": {
+      "X": 1745.9,
+      "Y": 3865.9,
+      "Z": 34.5
+    },
+    "Flags": "0xAA040411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_719B0AFB"
+  },
+  {
+    "Name": "hash_5857EC45",
+    "Position": {
+      "X": 2727.1,
+      "Y": 4146.0,
+      "Z": 44.1
+    },
+    "Flags": "0xAA040411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_2CA9169F"
+  },
+  {
+    "Name": "hash_49074DF8",
+    "Position": {
+      "X": 2579.0,
+      "Y": 3172.8,
+      "Z": 50.4
+    },
+    "Flags": "0xAA040401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_E3D9C5EC"
+  },
+  {
+    "Name": "hash_5B457274",
+    "Position": {
+      "X": 2170.7,
+      "Y": 3335.2,
+      "Z": 46.0
+    },
+    "Flags": "0xAA040411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_719B0AFB"
+  },
+  {
+    "Name": "hash_2C5B94A1",
+    "Position": {
+      "X": 909.9,
+      "Y": 3565.8,
+      "Z": 34.2
+    },
+    "Flags": "0xAA040401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_719B0AFB"
+  },
+  {
+    "Name": "hash_3E7CB8E3",
+    "Position": {
+      "X": 2183.6,
+      "Y": 3492.4,
+      "Z": 46.6
+    },
+    "Flags": "0xAA040401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_2CA9169F"
+  },
+  {
+    "Name": "hash_93A46331",
+    "Position": {
+      "X": 2412.2,
+      "Y": 4020.2,
+      "Z": 36.4
+    },
+    "Flags": "0xAA040401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_E3D9C5EC"
+  },
+  {
+    "Name": "hash_65EE87C6",
+    "Position": {
+      "X": 2659.0,
+      "Y": 3289.7,
+      "Z": 55.0
+    },
+    "Flags": "0xAA040411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_2CA9169F"
+  },
+  {
+    "Name": "hash_7710AA0A",
+    "Position": {
+      "X": 2637.0,
+      "Y": 4244.3,
+      "Z": 44.1
+    },
+    "Flags": "0xAA040411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_E6598737"
+  },
+  {
+    "Name": "hash_C6C8C929",
+    "Position": {
+      "X": 2637.0,
+      "Y": 4282.8,
+      "Z": 48.3
+    },
+    "Flags": "0xAA040410",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_2CA9169F"
+  },
+  {
+    "Name": "hash_3B8935EC",
+    "Position": {
+      "X": 252.3,
+      "Y": 3173.7,
+      "Z": 42.7
+    },
+    "Flags": "0xAA040401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_E3D9C5EC"
+  },
+  {
+    "Name": "hash_29339141",
+    "Position": {
+      "X": 513.0,
+      "Y": 3092.9,
+      "Z": 40.4
+    },
+    "Flags": "0xAA040411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_2CA9169F"
+  },
+  {
+    "Name": "hash_08034EE1",
+    "Position": {
+      "X": 852.0,
+      "Y": 2853.3,
+      "Z": 57.7
+    },
+    "Flags": "0xAA040411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_719B0AFB"
+  },
+  {
+    "Name": "hash_F594AA04",
+    "Position": {
+      "X": 1580.5,
+      "Y": 2911.1,
+      "Z": 56.8
+    },
+    "Flags": "0xAA040411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "hash_F72AB3D2",
+    "Position": {
+      "X": -64.4,
+      "Y": 6522.8,
+      "Z": 31.7
+    },
+    "Flags": "0xAA040401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_C343DA28"
+  },
+  {
+    "Name": "hash_1172E862",
+    "Position": {
+      "X": 1.3,
+      "Y": 6612.5,
+      "Z": 31.2
+    },
+    "Flags": "0xAA040411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_2CA9169F"
+  },
+  {
+    "Name": "hash_CCEFDF5D",
+    "Position": {
+      "X": -181.5,
+      "Y": 6405.0,
+      "Z": 31.8
+    },
+    "Flags": "0xAA040411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_C4749814"
+  },
+  {
+    "Name": "hash_774033FF",
+    "Position": {
+      "X": -195.4,
+      "Y": 6387.1,
+      "Z": 33.0
+    },
+    "Flags": "0xAA040411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_908F83E2"
+  },
+  {
+    "Name": "hash_A01105A0",
+    "Position": {
+      "X": -107.3,
+      "Y": 6332.2,
+      "Z": 36.0
+    },
+    "Flags": "0xAA040401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_2CA9169F"
+  },
+  {
+    "Name": "hash_52C9E499",
+    "Position": {
+      "X": -158.4,
+      "Y": 6322.6,
+      "Z": 32.4
+    },
+    "Flags": "0xAA040401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_C4749814"
+  },
+  {
+    "Name": "hash_608B801C",
+    "Position": {
+      "X": 2475.4,
+      "Y": 4099.7,
+      "Z": 40.0
+    },
+    "Flags": "0xAA040401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_C343DA28"
+  },
+  {
+    "Name": "hash_DAAB7AD4",
+    "Position": {
+      "X": -373.2,
+      "Y": 6273.1,
+      "Z": 31.4
+    },
+    "Flags": "0xAA040011",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_170FC52E"
+  },
+  {
+    "Name": "hash_2DCB2116",
+    "Position": {
+      "X": -369.3,
+      "Y": 6265.6,
+      "Z": 32.4
+    },
+    "Flags": "0xAA040001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_170FC52E"
+  },
+  {
+    "Name": "hash_91777BD9",
+    "Position": {
+      "X": 1923.3,
+      "Y": 3986.0,
+      "Z": 31.4
+    },
+    "Flags": "0xAA040411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_B0962EE0"
+  },
+  {
+    "Name": "hash_13AECA72",
+    "Position": {
+      "X": -1184.3,
+      "Y": -884.7,
+      "Z": 15.0
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_00572C04"
+  },
+  {
+    "Name": "hash_28FF428D",
+    "Position": {
+      "X": 82.13,
+      "Y": -1958.58,
+      "Z": 22.0
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_00572C04"
+  },
+  {
+    "Name": "hash_C1623099",
+    "Position": {
+      "X": 294.0,
+      "Y": -2033.0,
+      "Z": 21.0
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_FA17DE37"
+  },
+  {
+    "Name": "hash_FCDCBF86",
+    "Position": {
+      "X": -1458.0,
+      "Y": -660.0,
+      "Z": 35.0
+    },
+    "Flags": "0xAA041501",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_C1400C2E"
+  },
+  {
+    "Name": "hash_6DB39486",
+    "Position": {
+      "X": -1740.0,
+      "Y": 227.0,
+      "Z": 65.0
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_C4749814"
+  },
+  {
+    "Name": "hash_94C67CAE",
+    "Position": {
+      "X": -162.6,
+      "Y": -1849.7,
+      "Z": 0.8
+    },
+    "Flags": "0xAA040011",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_00572C04"
+  },
+  {
+    "Name": "hash_CECA0390",
+    "Position": {
+      "X": -1334.0,
+      "Y": 369.0,
+      "Z": 66.0
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_908F83E2"
+  },
+  {
+    "Name": "hash_3BE2DDC0",
+    "Position": {
+      "X": -1368.0,
+      "Y": 354.0,
+      "Z": 66.0
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_908F83E2"
+  },
+  {
+    "Name": "hash_233FA3FC",
+    "Position": {
+      "X": -702.6,
+      "Y": 68.0,
+      "Z": 67.0
+    },
+    "Flags": "0xAA441401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_742327CA",
+    "Position": {
+      "X": -1516.2,
+      "Y": 127.4,
+      "Z": 57.52
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_B827A5D2"
+  },
+  {
+    "Name": "hash_149CFCC9",
+    "Position": {
+      "X": -1458.96,
+      "Y": 178.47,
+      "Z": 58.92
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_B827A5D2"
+  },
+  {
+    "Name": "hash_CCCB2E8D",
+    "Position": {
+      "X": -1433.92,
+      "Y": 207.83,
+      "Z": 60.73
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_B827A5D2"
+  },
+  {
+    "Name": "hash_52993737",
+    "Position": {
+      "X": -1378.3,
+      "Y": 496.5,
+      "Z": 119.7
+    },
+    "Flags": "0xAA040011",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_00572C04"
+  },
+  {
+    "Name": "hash_20C55390",
+    "Position": {
+      "X": -1152.1,
+      "Y": 625.3,
+      "Z": 106.0
+    },
+    "Flags": "0xAA040011",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_B827A5D2"
+  },
+  {
+    "Name": "hash_2D0C6C1E",
+    "Position": {
+      "X": -911.7,
+      "Y": 746.2,
+      "Z": 181.9
+    },
+    "Flags": "0xAA040011",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_B5DD6F19"
+  },
+  {
+    "Name": "hash_019B6701",
+    "Position": {
+      "X": 61.7,
+      "Y": 539.5,
+      "Z": 175.0
+    },
+    "Flags": "0xAA040411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_4F95BAD7"
+  },
+  {
+    "Name": "hash_18A53CB8",
+    "Position": {
+      "X": 275.4,
+      "Y": -198.9,
+      "Z": 65.7
+    },
+    "Flags": "0xAA040011",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_C1400C2E"
+  },
+  {
+    "Name": "hash_13403CDD",
+    "Position": {
+      "X": 445.9,
+      "Y": -1241.3,
+      "Z": 31.0
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_AEB03A8F"
+  },
+  {
+    "Name": "hash_426C5258",
+    "Position": {
+      "X": 493.1,
+      "Y": -1540.9,
+      "Z": 29.9
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_90EFE3FA"
+  },
+  {
+    "Name": "hash_6D4888A4",
+    "Position": {
+      "X": -1715.1,
+      "Y": 4956.3,
+      "Z": 7.3
+    },
+    "Flags": "0xAA040011",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_5E61F5CF"
+  },
+  {
+    "Name": "hash_5F06EC21",
+    "Position": {
+      "X": -3225.2,
+      "Y": 1233.9,
+      "Z": 3.4
+    },
+    "Flags": "0xAA040011",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_5E61F5CF"
+  },
+  {
+    "Name": "hash_52C6D3A1",
+    "Position": {
+      "X": -3241.8,
+      "Y": 1197.1,
+      "Z": 2.0
+    },
+    "Flags": "0xAA040011",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_4F95BAD7"
+  },
+  {
+    "Name": "hash_D2955348",
+    "Position": {
+      "X": -3273.9,
+      "Y": 1018.1,
+      "Z": 4.5
+    },
+    "Flags": "0xAA040011",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_B0962EE0"
+  },
+  {
+    "Name": "hash_C4D0B7BF",
+    "Position": {
+      "X": -3280.5,
+      "Y": 986.2,
+      "Z": 4.3
+    },
+    "Flags": "0xAA040011",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_FA17DE37"
+  },
+  {
+    "Name": "hash_B60A9A33",
+    "Position": {
+      "X": -2944.0,
+      "Y": -5.4,
+      "Z": 5.9
+    },
+    "Flags": "0xAA040011",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_B5DD6F19"
+  },
+  {
+    "Name": "hash_B603F7E0",
+    "Position": {
+      "X": -571.0,
+      "Y": 288.9,
+      "Z": 79.5
+    },
+    "Flags": "0xAA041511",
+    "Interior": "hash_D75A9538",
+    "Room": "hash_AF207CBF",
+    "RadioStation": "hash_170FC52E"
+  },
+  {
+    "Name": "hash_A81EFE50",
+    "Position": {
+      "X": -2959.9,
+      "Y": -8.6,
+      "Z": 4.9
+    },
+    "Flags": "0xAA040011",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_170FC52E"
+  },
+  {
+    "Name": "hash_6026B454",
+    "Position": {
+      "X": -705.1,
+      "Y": -912.6,
+      "Z": 21.3
+    },
+    "Flags": "0xAA040001",
+    "Interior": "v_gasstation",
+    "Room": "hash_6F6654AA",
+    "RadioStation": "hash_5A254955"
+  },
+  {
+    "Name": "hash_B4267B5A",
+    "Position": {
+      "X": 1450.8,
+      "Y": -2606.6,
+      "Z": 48.5
+    },
+    "Flags": "0xAA040011",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_B0962EE0"
+  },
+  {
+    "Name": "hash_410C9E98",
+    "Position": {
+      "X": -202.3,
+      "Y": -1498.6,
+      "Z": 30.7
+    },
+    "Flags": "0xAA040011",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_B0962EE0"
+  },
+  {
+    "Name": "hash_54AAF264",
+    "Position": {
+      "X": 205.5,
+      "Y": -1640.8,
+      "Z": 30.9
+    },
+    "Flags": "0xAA040411",
+    "Interior": "v_firedept",
+    "Room": "hash_23FF3EE1",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "hash_97BFEAE0",
+    "Position": {
+      "X": -987.2,
+      "Y": -248.3,
+      "Z": 44.4
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_170FC52E"
+  },
+  {
+    "Name": "hash_4706DD4F",
+    "Position": {
+      "X": 1341.8,
+      "Y": -764.4,
+      "Z": 67.4
+    },
+    "Flags": "0xAA040011",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_40A4DECC"
+  },
+  {
+    "Name": "hash_B05F9144",
+    "Position": {
+      "X": -188.1,
+      "Y": 6272.7,
+      "Z": 31.9
+    },
+    "Flags": "0xAA044411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_C4749814"
+  },
+  {
+    "Name": "hash_5F6FEF62",
+    "Position": {
+      "X": 1682.9,
+      "Y": 4971.7,
+      "Z": 43.6
+    },
+    "Flags": "0xAA044411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_C343DA28"
+  },
+  {
+    "Name": "hash_4D3B4AF9",
+    "Position": {
+      "X": 1220.8,
+      "Y": 2727.4,
+      "Z": 37.3
+    },
+    "Flags": "0xAA044411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_C343DA28"
+  },
+  {
+    "Name": "hash_77E3A04D",
+    "Position": {
+      "X": 1048.9,
+      "Y": 2662.0,
+      "Z": 40.3
+    },
+    "Flags": "0xAA044411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_C1400C2E"
+  },
+  {
+    "Name": "hash_69B603F2",
+    "Position": {
+      "X": 268.9,
+      "Y": 2599.2,
+      "Z": 44.4
+    },
+    "Flags": "0xAA044411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_C4749814"
+  },
+  {
+    "Name": "hash_2902028B",
+    "Position": {
+      "X": 2342.1,
+      "Y": 3127.2,
+      "Z": 48.6
+    },
+    "Flags": "0xAA044411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_C4749814"
+  },
+  {
+    "Name": "hash_1E7CED81",
+    "Position": {
+      "X": 898.5,
+      "Y": -173.4,
+      "Z": 73.1
+    },
+    "Flags": "0xAA044411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_C4749814"
+  },
+  {
+    "Name": "hash_5563DB4E",
+    "Position": {
+      "X": -81.4,
+      "Y": -1323.7,
+      "Z": 28.9
+    },
+    "Flags": "0xAA044411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_C4749814"
+  },
+  {
+    "Name": "hash_3B11A6AA",
+    "Position": {
+      "X": 369.9,
+      "Y": -2447.5,
+      "Z": 6.1
+    },
+    "Flags": "0xAA044411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_C4749814"
+  },
+  {
+    "Name": "hash_32509448",
+    "Position": {
+      "X": 1435.9,
+      "Y": -2222.9,
+      "Z": 60.9
+    },
+    "Flags": "0xAA044411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_C343DA28"
+  },
+  {
+    "Name": "hash_8A9113C6",
+    "Position": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "Flags": "0xAA041400",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_4566DBC1",
+    "Position": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_44260862",
+    "Position": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_B3951400",
+    "Position": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_6962ED4C",
+    "Position": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": null
+  },
+  {
+    "Name": "hash_B8C81654",
+    "Position": {
+      "X": 500.0,
+      "Y": 0.0,
+      "Z": -200.0
+    },
+    "Flags": "0xAA040011",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_90D167B0"
+  },
+  {
+    "Name": "hash_74CF6ED7",
+    "Position": {
+      "X": 205.0,
+      "Y": 0.0,
+      "Z": -200.0
+    },
+    "Flags": "0xAA040011",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_90D167B0"
+  },
+  {
+    "Name": "hash_C871FDC4",
+    "Position": {
+      "X": -100.0,
+      "Y": 0.0,
+      "Z": -200.0
+    },
+    "Flags": "0xAA040011",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_90D167B0"
+  },
+  {
+    "Name": "hash_800FCF7E",
+    "Position": {
+      "X": -803.5,
+      "Y": -2381.0,
+      "Z": 14.0
+    },
+    "Flags": "0xAA044001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_8437AAEC"
+  },
+  {
+    "Name": "se_mp_apt_1_1",
+    "Position": {
+      "X": -794.9223,
+      "Y": 335.2936,
+      "Z": 201.6748
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_510C92D6",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_10_1",
+    "Position": {
+      "X": -911.0636,
+      "Y": -442.4949,
+      "Z": 115.6061
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_510C92D6",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_11_1",
+    "Position": {
+      "X": -896.4674,
+      "Y": -432.5596,
+      "Z": 89.5326
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_510C92D6",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_12_1",
+    "Position": {
+      "X": -36.7097,
+      "Y": -580.7258,
+      "Z": 83.8723
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_510C92D6",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_13_1",
+    "Position": {
+      "X": -14.6156,
+      "Y": -589.1295,
+      "Z": 94.1579
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_510C92D6",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_14_1",
+    "Position": {
+      "X": -902.5886,
+      "Y": -372.8203,
+      "Z": 79.4551
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_510C92D6",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_15_1",
+    "Position": {
+      "X": -927.3589,
+      "Y": -378.412,
+      "Z": 103.3495
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_510C92D6",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_16_1",
+    "Position": {
+      "X": -617.0798,
+      "Y": 60.2634,
+      "Z": 102.1335
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_510C92D6",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_17_1",
+    "Position": {
+      "X": -584.1865,
+      "Y": 47.1539,
+      "Z": 87.5992
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_510C92D6",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_2_1",
+    "Position": {
+      "X": -760.9844,
+      "Y": 322.1198,
+      "Z": 170.7925
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_510C92D6",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_3_1",
+    "Position": {
+      "X": -761.1333,
+      "Y": 322.093,
+      "Z": 217.3184
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_510C92D6",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_4_1",
+    "Position": {
+      "X": -795.3694,
+      "Y": 335.5568,
+      "Z": 153.9465
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_510C92D6",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_5_1",
+    "Position": {
+      "X": -262.3579,
+      "Y": -949.122,
+      "Z": 71.2616
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_510C92D6",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_6_1",
+    "Position": {
+      "X": -280.8582,
+      "Y": -959.214,
+      "Z": 86.4584
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_510C92D6",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_7_1",
+    "Position": {
+      "X": -1469.336,
+      "Y": -534.425,
+      "Z": 63.5293
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_510C92D6",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_8_1",
+    "Position": {
+      "X": -1469.288,
+      "Y": -534.4252,
+      "Z": 50.8548
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_510C92D6",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_9_1",
+    "Position": {
+      "X": -887.3753,
+      "Y": -447.638,
+      "Z": 120.5694
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_510C92D6",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_1_2",
+    "Position": {
+      "X": -800.4615,
+      "Y": 325.5955,
+      "Z": 206.1602
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_423A729F",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_10_2",
+    "Position": {
+      "X": -911.6201,
+      "Y": -453.4501,
+      "Z": 120.2421
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_423A729F",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_11_2",
+    "Position": {
+      "X": -907.5391,
+      "Y": -431.8744,
+      "Z": 94.0568
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_423A729F",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_12_2",
+    "Position": {
+      "X": -44.9845,
+      "Y": -587.6182,
+      "Z": 88.7372
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_423A729F",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_13_2",
+    "Position": {
+      "X": -21.7007,
+      "Y": -580.7242,
+      "Z": 98.8429
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_423A729F",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_14_2",
+    "Position": {
+      "X": -902.1055,
+      "Y": -361.618,
+      "Z": 84.1714
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_423A729F",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_15_2",
+    "Position": {
+      "X": -927.8866,
+      "Y": -389.6428,
+      "Z": 108.124
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_423A729F",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_16_2",
+    "Position": {
+      "X": -622.583,
+      "Y": 50.7034,
+      "Z": 106.716
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_423A729F",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_17_2",
+    "Position": {
+      "X": -578.6264,
+      "Y": 56.7979,
+      "Z": 92.1833
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_423A729F",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_2_2",
+    "Position": {
+      "X": -755.5387,
+      "Y": 331.7519,
+      "Z": 175.3368
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_423A729F",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_3_2",
+    "Position": {
+      "X": -755.7,
+      "Y": 331.5,
+      "Z": 221.9
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_423A729F",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_4_2",
+    "Position": {
+      "X": -800.8968,
+      "Y": 325.9796,
+      "Z": 158.5876
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_423A729F",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_5_2",
+    "Position": {
+      "X": -269.4216,
+      "Y": -940.7886,
+      "Z": 75.9659
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_423A729F",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_6_2",
+    "Position": {
+      "X": -273.7138,
+      "Y": -967.5828,
+      "Z": 91.2162
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_423A729F",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_7_2",
+    "Position": {
+      "X": -1468.316,
+      "Y": -545.2313,
+      "Z": 68.2274
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_423A729F",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_8_2",
+    "Position": {
+      "X": -1468.404,
+      "Y": -545.4297,
+      "Z": 55.5886
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_423A729F",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_9_2",
+    "Position": {
+      "X": -886.9307,
+      "Y": -436.4989,
+      "Z": 125.217
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_423A729F",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_1_3",
+    "Position": {
+      "X": -777.6,
+      "Y": 332.2,
+      "Z": 207.6
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_E8D0452C",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_10_3",
+    "Position": {
+      "X": -894.2,
+      "Y": -437.2,
+      "Z": 121.6
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_E8D0452C",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_11_3",
+    "Position": {
+      "X": -891.3,
+      "Y": -449.4,
+      "Z": 95.7
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_E8D0452C",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_12_3",
+    "Position": {
+      "X": -21.3,
+      "Y": -589.4,
+      "Z": 90.5
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_E8D0452C",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_13_3",
+    "Position": {
+      "X": -23.4,
+      "Y": -604.3,
+      "Z": 100.5
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_E8D0452C",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_14_3",
+    "Position": {
+      "X": -919.6,
+      "Y": -378.3,
+      "Z": 85.5
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_E8D0452C",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_15_3",
+    "Position": {
+      "X": -910.6,
+      "Y": -372.9,
+      "Z": 109.4
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_E8D0452C",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_16_3",
+    "Position": {
+      "X": -599.8,
+      "Y": 57.3,
+      "Z": 108.0
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_E8D0452C",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_17_3",
+    "Position": {
+      "X": -601.4,
+      "Y": 50.1,
+      "Z": 94.0
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_E8D0452C",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_3_3",
+    "Position": {
+      "X": -778.5,
+      "Y": 325.1,
+      "Z": 223.3
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_E8D0452C",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_4_3",
+    "Position": {
+      "X": -778.1,
+      "Y": 332.5,
+      "Z": 160.0
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_E8D0452C",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_5_3",
+    "Position": {
+      "X": -271.0,
+      "Y": -964.4,
+      "Z": 77.4
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_E8D0452C",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_6_3",
+    "Position": {
+      "X": -272.3,
+      "Y": -944.0,
+      "Z": 92.8
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_E8D0452C",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_7_3",
+    "Position": {
+      "X": -1453.4,
+      "Y": -526.8,
+      "Z": 69.5
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_E8D0452C",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_8_3",
+    "Position": {
+      "X": -1453.3,
+      "Y": -526.8,
+      "Z": 56.8
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_E8D0452C",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_9_3",
+    "Position": {
+      "X": -903.8,
+      "Y": -452.7,
+      "Z": 126.8
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_E8D0452C",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_2_3",
+    "Position": {
+      "X": -778.6,
+      "Y": 325.0,
+      "Z": 176.8
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_E8D0452C",
+    "RadioStation": "hash_B5DD6F19"
+  },
+  {
+    "Name": "se_mp_apt_new_1_2",
+    "Position": {
+      "X": -1465.8,
+      "Y": -546.3,
+      "Z": 76.1
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high2_new",
+    "Room": "hash_7EE8F0B8",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_new_2_2",
+    "Position": {
+      "X": -909.7,
+      "Y": -379.2,
+      "Z": 115.9
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high2_new",
+    "Room": "hash_7EE8F0B8",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_new_3_2",
+    "Position": {
+      "X": -605.5,
+      "Y": 44.6,
+      "Z": 99.6
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high2_new",
+    "Room": "hash_7EE8F0B8",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_new_4_2",
+    "Position": {
+      "X": -782.4,
+      "Y": 338.4,
+      "Z": 212.5
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high2_new",
+    "Room": "hash_7EE8F0B8",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_new_5_2",
+    "Position": {
+      "X": -23.6,
+      "Y": -582.8,
+      "Z": 82.2
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high2_new",
+    "Room": "hash_7EE8F0B8",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_new_1_1",
+    "Position": {
+      "X": -1458.129,
+      "Y": -550.5645,
+      "Z": 71.884
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high2_new",
+    "Room": "hash_2ABF79E0",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_new_2_1",
+    "Position": {
+      "X": -903.7225,
+      "Y": -371.8464,
+      "Z": 112.0
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high2_new",
+    "Room": "hash_2ABF79E0",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_new_3_1",
+    "Position": {
+      "X": -598.2443,
+      "Y": 48.7751,
+      "Z": 96.0
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high2_new",
+    "Room": "hash_2ABF79E0",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_new_4_1",
+    "Position": {
+      "X": -789.8164,
+      "Y": 334.0169,
+      "Z": 209.8369
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high2_new",
+    "Room": "hash_2ABF79E0",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_new_5_1",
+    "Position": {
+      "X": -32.2672,
+      "Y": -583.5913,
+      "Z": 77.8706
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high2_new",
+    "Room": "hash_2ABF79E0",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_new_4_3",
+    "Position": {
+      "X": -764.1,
+      "Y": 326.6,
+      "Z": 211.5
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high2_new",
+    "Room": "hash_FDC63627",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_new_1_3",
+    "Position": {
+      "X": -1466.6,
+      "Y": -525.1,
+      "Z": 73.5
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high2_new",
+    "Room": "hash_FDC63627",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_new_2_3",
+    "Position": {
+      "X": -929.9,
+      "Y": -377.2,
+      "Z": 113.8
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high2_new",
+    "Room": "hash_FDC63627",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_new_3_3",
+    "Position": {
+      "X": -624.1,
+      "Y": 56.0,
+      "Z": 97.8
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high2_new",
+    "Room": "hash_FDC63627",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_new_5_3",
+    "Position": {
+      "X": -10.6,
+      "Y": -599.4,
+      "Z": 80.01
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high2_new",
+    "Room": "hash_FDC63627",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_ap_rad_v_apart_midspaz_lounge",
+    "Position": {
+      "X": 341.5,
+      "Y": -1001.0,
+      "Z": -98.8
+    },
+    "Flags": "0xAA045401",
+    "Interior": "v_apart_midspaz",
+    "Room": "v_apart_midspaz_rm_mid_lounge",
+    "RadioStation": "hash_FA17DE37"
+  },
+  {
+    "Name": "se_mp_ap_rad_v_studio_lo_living",
+    "Position": {
+      "X": 263.5,
+      "Y": -994.8,
+      "Z": -98.8
+    },
+    "Flags": "0xAA045401",
+    "Interior": "v_studio_lo",
+    "Room": "v_studio_lo_rm_living",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "hash_313F2B77",
+    "Position": {
+      "X": 230.9,
+      "Y": -975.5,
+      "Z": -98.0
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_garage_high_new",
+    "Room": "hash_912E2612",
+    "RadioStation": "hash_B0962EE0"
+  },
+  {
+    "Name": "hash_07CBBCD9",
+    "Position": {
+      "X": 118.4,
+      "Y": -1285.0,
+      "Z": 30.0
+    },
+    "Flags": "0xAA040101",
+    "Interior": "v_strip3",
+    "Room": "strp3mainrm",
+    "RadioStation": null
+  },
+  {
+    "Name": "se_dmod_trailer_radio",
+    "Position": {
+      "X": -17.8,
+      "Y": -19.9,
+      "Z": 500.0
+    },
+    "Flags": "0xAA041501",
+    "Interior": "milo_replay",
+    "Room": "milo_replay_milo_room_replay",
+    "RadioStation": "hash_4F95BAD7"
+  },
+  {
+    "Name": "se_dmod_trailer_radio",
+    "Position": {
+      "X": -17.8,
+      "Y": -19.9,
+      "Z": 500.0
+    },
+    "Flags": "0xAA041501",
+    "Interior": "milo_replay",
+    "Room": "milo_replay_milo_room_replay",
+    "RadioStation": "hash_4F95BAD7"
+  },
+  {
+    "Name": "se_supermod_01",
+    "Position": {
+      "X": -204.5,
+      "Y": -1317.8,
+      "Z": 30.9
+    },
+    "Flags": "0xAA001405",
+    "Interior": "lr_supermod_int",
+    "Room": "lr_supermod_int_modroom1",
+    "RadioStation": "hash_8437AAEC"
+  },
+  {
+    "Name": "se_dlc_apt_yacht_bar",
+    "Position": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": -200.0
+    },
+    "Flags": "0xAA041511",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_C7A2843A"
+  },
+  {
+    "Name": "se_dlc_apt_yacht_bedroom",
+    "Position": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": -200.0
+    },
+    "Flags": "0xAA041511",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_C7A2843A"
+  },
+  {
+    "Name": "se_dlc_apt_yacht_exterior_01",
+    "Position": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": -200.0
+    },
+    "Flags": "0xAA041411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_C7A2843A"
+  },
+  {
+    "Name": "se_dlc_apt_yacht_exterior_02",
+    "Position": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": -200.0
+    },
+    "Flags": "0xAA041411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_C7A2843A"
+  },
+  {
+    "Name": "se_dlc_apt_yacht_exterior_03",
+    "Position": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": -200.0
+    },
+    "Flags": "0xAA041411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_C7A2843A"
+  },
+  {
+    "Name": "se_dlc_apt_yacht_exterior_04",
+    "Position": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": -200.0
+    },
+    "Flags": "0xAA041411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_C7A2843A"
+  },
+  {
+    "Name": "se_dlc_apt_yacht_bedroom_02",
+    "Position": {
+      "X": 50.0,
+      "Y": 50.0,
+      "Z": -200.0
+    },
+    "Flags": "0xAA041511",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_C7A2843A"
+  },
+  {
+    "Name": "se_dlc_apt_yacht_bedroom_03",
+    "Position": {
+      "X": 50.0,
+      "Y": 100.0,
+      "Z": -200.0
+    },
+    "Flags": "0xAA041511",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_C7A2843A"
+  },
+  {
+    "Name": "se_dlc_apt_custom_bedroom",
+    "Position": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": -200.0
+    },
+    "Flags": "0xAA041511",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_C7A2843A"
+  },
+  {
+    "Name": "se_dlc_apt_custom_heist_room",
+    "Position": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": -200.0
+    },
+    "Flags": "0xAA041511",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_C7A2843A"
+  },
+  {
+    "Name": "se_dlc_apt_custom_living_room",
+    "Position": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": -200.0
+    },
+    "Flags": "0xAA041511",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_C7A2843A"
+  },
+  {
+    "Name": "se_dlc_apt_stilts_a_living_room",
+    "Position": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": -200.0
+    },
+    "Flags": "0xAA041511",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_C7A2843A"
+  },
+  {
+    "Name": "se_dlc_apt_stilts_a_bedroom",
+    "Position": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": -200.0
+    },
+    "Flags": "0xAA041511",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_C7A2843A"
+  },
+  {
+    "Name": "se_dlc_apt_stilts_a_heist_room",
+    "Position": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": -200.0
+    },
+    "Flags": "0xAA041511",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_C7A2843A"
+  },
+  {
+    "Name": "se_dlc_apt_stilts_b_living_room",
+    "Position": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": -200.0
+    },
+    "Flags": "0xAA041511",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_C7A2843A"
+  },
+  {
+    "Name": "se_dlc_apt_stilts_b_heist_room",
+    "Position": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": -200.0
+    },
+    "Flags": "0xAA041511",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_C7A2843A"
+  },
+  {
+    "Name": "se_dlc_apt_stilts_b_bedroom",
+    "Position": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": -200.0
+    },
+    "Flags": "0xAA041511",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_C7A2843A"
+  },
+  {
+    "Name": "se_ex_int_office_01a_radio_01",
+    "Position": {
+      "X": -1370.74,
+      "Y": -476.02,
+      "Z": 79.0
+    },
+    "Flags": "0xAA045501",
+    "Interior": "ex_int_office_01a_dlc",
+    "Room": "ex_int_office_01a_dlc_office_front_rm",
+    "RadioStation": "hash_4F95BAD7"
+  },
+  {
+    "Name": "se_ex_int_office_01b_radio_01",
+    "Position": {
+      "X": -1370.74,
+      "Y": -476.02,
+      "Z": 79.2
+    },
+    "Flags": "0xAA045501",
+    "Interior": "ex_int_office_01b_dlc",
+    "Room": "ex_int_office_01b_dlc_office_front_rm",
+    "RadioStation": "hash_4F95BAD7"
+  },
+  {
+    "Name": "se_ex_int_office_01c_radio_01",
+    "Position": {
+      "X": -1370.74,
+      "Y": -476.02,
+      "Z": 79.4
+    },
+    "Flags": "0xAA045501",
+    "Interior": "ex_int_office_01c_dlc",
+    "Room": "ex_int_office_01c_dlc_office_front_rm",
+    "RadioStation": "hash_4F95BAD7"
+  },
+  {
+    "Name": "se_ex_int_office_02a_radio_01",
+    "Position": {
+      "X": -1370.74,
+      "Y": -476.02,
+      "Z": 79.6
+    },
+    "Flags": "0xAA045501",
+    "Interior": "ex_int_office_02a_dlc",
+    "Room": "ex_int_office_02a_dlc_office_front_rm",
+    "RadioStation": "hash_4F95BAD7"
+  },
+  {
+    "Name": "se_ex_int_office_02b_radio_01",
+    "Position": {
+      "X": -1370.74,
+      "Y": -476.02,
+      "Z": 79.8
+    },
+    "Flags": "0xAA045501",
+    "Interior": "ex_int_office_02b_dlc",
+    "Room": "ex_int_office_02b_dlc_office_front_rm",
+    "RadioStation": "hash_4F95BAD7"
+  },
+  {
+    "Name": "se_ex_int_office_02c_radio_01",
+    "Position": {
+      "X": -1370.74,
+      "Y": -476.02,
+      "Z": 80.0
+    },
+    "Flags": "0xAA045501",
+    "Interior": "ex_int_office_02c_dlc",
+    "Room": "ex_int_office_02c_dlc_office_front_rm",
+    "RadioStation": "hash_4F95BAD7"
+  },
+  {
+    "Name": "se_ex_int_office_03a_radio_01",
+    "Position": {
+      "X": -1370.74,
+      "Y": -476.02,
+      "Z": 80.2
+    },
+    "Flags": "0xAA045501",
+    "Interior": "ex_int_office_03a_dlc",
+    "Room": "ex_int_office_03a_dlc_office_front_rm",
+    "RadioStation": "hash_4F95BAD7"
+  },
+  {
+    "Name": "se_ex_int_office_03b_radio_01",
+    "Position": {
+      "X": -1370.74,
+      "Y": -476.02,
+      "Z": 80.4
+    },
+    "Flags": "0xAA045501",
+    "Interior": "ex_int_office_03b_dlc",
+    "Room": "ex_int_office_03b_dlc_office_front_rm",
+    "RadioStation": "hash_4F95BAD7"
+  },
+  {
+    "Name": "se_ex_int_office_03c_radio_01",
+    "Position": {
+      "X": -1370.74,
+      "Y": -476.02,
+      "Z": 80.6
+    },
+    "Flags": "0xAA045501",
+    "Interior": "ex_int_office_03c_dlc",
+    "Room": "ex_int_office_03c_dlc_office_front_rm",
+    "RadioStation": "hash_4F95BAD7"
+  },
+  {
+    "Name": "se_exec_wh_s_radio",
+    "Position": {
+      "X": 1103.2,
+      "Y": -3101.2,
+      "Z": -39.0
+    },
+    "Flags": "0xAA045411",
+    "Interior": "ex_int_warehouse_s_dlc",
+    "Room": "ex_int_warehouse_s_dlc_warehouse_small",
+    "RadioStation": "hash_B0962EE0"
+  },
+  {
+    "Name": "se_exec_wh_m_radio",
+    "Position": {
+      "X": 1048.45,
+      "Y": -3100.01,
+      "Z": -39.07
+    },
+    "Flags": "0xAA045411",
+    "Interior": "ex_int_warehouse_m_dlc",
+    "Room": "ex_int_warehouse_m_dlc_warehouse_medium",
+    "RadioStation": "hash_B0962EE0"
+  },
+  {
+    "Name": "se_exec_wh_l_radio",
+    "Position": {
+      "X": 995.45,
+      "Y": -3097.59,
+      "Z": -38.88
+    },
+    "Flags": "0xAA045411",
+    "Interior": "ex_int_warehouse_l_dlc",
+    "Room": "ex_int_warehouse_l_dlc_warehouse_large",
+    "RadioStation": "hash_4F95BAD7"
+  },
+  {
+    "Name": "se_dlc_biker_tequilala_exterior_emitter",
+    "Position": {
+      "X": -564.5,
+      "Y": 274.4,
+      "Z": 85.0
+    },
+    "Flags": "0xAA045401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_C1400C2E"
+  },
+  {
+    "Name": "se_bkr_biker_dlc_int_01_bar",
+    "Position": {
+      "X": 1123.0,
+      "Y": -3148.0,
+      "Z": -36.0
+    },
+    "Flags": "0xAA041501",
+    "Interior": "bkr_biker_dlc_int_01",
+    "Room": "bkr_biker_dlc_int_01_bikerdlc_int01_barrm",
+    "RadioStation": "hidden_radio_biker_classic_rock"
+  },
+  {
+    "Name": "se_bkr_biker_dlc_int_01_rec",
+    "Position": {
+      "X": 1115.0,
+      "Y": -3155.0,
+      "Z": -35.7
+    },
+    "Flags": "0xAA041501",
+    "Interior": "bkr_biker_dlc_int_01",
+    "Room": "bkr_biker_dlc_int_01_bikerdlc_int01_recrm",
+    "RadioStation": "hidden_radio_biker_classic_rock"
+  },
+  {
+    "Name": "se_bkr_biker_dlc_int_01_grg",
+    "Position": {
+      "X": 1103.0,
+      "Y": -3156.0,
+      "Z": -36.5
+    },
+    "Flags": "0xAA041501",
+    "Interior": "bkr_biker_dlc_int_01",
+    "Room": "bkr_biker_dlc_int_01_bikerdlc_int01_grgrm",
+    "RadioStation": "hidden_radio_biker_classic_rock"
+  },
+  {
+    "Name": "se_bkr_biker_dlc_int_02_rec",
+    "Position": {
+      "X": 1005.2,
+      "Y": -3166.3,
+      "Z": -33.0
+    },
+    "Flags": "0xAA041501",
+    "Interior": "bkr_biker_dlc_int_02",
+    "Room": "bkr_biker_dlc_int_02_int02_recarearm",
+    "RadioStation": "hidden_radio_biker_classic_rock"
+  },
+  {
+    "Name": "se_bkr_biker_dlc_int_02_grg",
+    "Position": {
+      "X": 1005.3,
+      "Y": -3160.2,
+      "Z": -37.1
+    },
+    "Flags": "0xAA041501",
+    "Interior": "bkr_biker_dlc_int_02",
+    "Room": "bkr_biker_dlc_int_02_int02_mainrm",
+    "RadioStation": "hidden_radio_biker_classic_rock"
+  },
+  {
+    "Name": "se_dlc_biker_lost_mc_clubhouse_01",
+    "Position": {
+      "X": 986.3,
+      "Y": -98.7,
+      "Z": 76.0
+    },
+    "Flags": "0xAA041501",
+    "Interior": "bkr_biker_dlc_int_03",
+    "Room": "bkr_biker_dlc_int_03_frontrm",
+    "RadioStation": "hash_C1400C2E"
+  },
+  {
+    "Name": "se_dlc_biker_lost_mc_clubhouse_02",
+    "Position": {
+      "X": 976.3,
+      "Y": -97.38,
+      "Z": 76.0
+    },
+    "Flags": "0xAA041501",
+    "Interior": "bkr_biker_dlc_int_03",
+    "Room": "bkr_biker_dlc_int_03_gamesrm",
+    "RadioStation": "hash_C1400C2E"
+  },
+  {
+    "Name": "se_dlc_biker_vagos_clubhouse_01",
+    "Position": {
+      "X": 971.33,
+      "Y": -1843.08,
+      "Z": 33.61
+    },
+    "Flags": "0xAA041401",
+    "Interior": "bkr_biker_dlc_int_04",
+    "Room": "bkr_biker_dlc_int_04_mainrm",
+    "RadioStation": "hash_AEB03A8F"
+  },
+  {
+    "Name": "se_dlc_biker_vagos_clubhouse_02",
+    "Position": {
+      "X": 972.77,
+      "Y": -1836.41,
+      "Z": 36.88
+    },
+    "Flags": "0xAA041501",
+    "Interior": "bkr_biker_dlc_int_04",
+    "Room": "bkr_biker_dlc_int_04_recarearm",
+    "RadioStation": "hash_AEB03A8F"
+  },
+  {
+    "Name": "se_dlc_biker_meth_warehouse_radio",
+    "Position": {
+      "X": 1002.0,
+      "Y": -3193.95,
+      "Z": -38.91
+    },
+    "Flags": "0xAA041401",
+    "Interior": "bkr_biker_dlc_int_ware01",
+    "Room": "bkr_biker_dlc_int_ware01_methmain",
+    "RadioStation": "hash_B827A5D2"
+  },
+  {
+    "Name": "se_dlc_biker_weed_warehouse_radio",
+    "Position": {
+      "X": 1030.82,
+      "Y": -3204.5,
+      "Z": -38.21
+    },
+    "Flags": "0xAA041401",
+    "Interior": "bkr_biker_dlc_int_ware02",
+    "Room": "bkr_biker_dlc_int_ware02_weed_dry_rm",
+    "RadioStation": "hash_5F076ABF"
+  },
+  {
+    "Name": "se_dlc_biker_crack_warehouse_radio",
+    "Position": {
+      "X": 1086.0,
+      "Y": -3195.56,
+      "Z": -37.39
+    },
+    "Flags": "0xAA041501",
+    "Interior": "bkr_biker_dlc_int_ware03",
+    "Room": "bkr_biker_dlc_int_ware03_warehouse_small",
+    "RadioStation": "hash_00572C04"
+  },
+  {
+    "Name": "se_dlc_biker_cash_warehouse_radio",
+    "Position": {
+      "X": 1130.1,
+      "Y": -3193.3,
+      "Z": -40.0
+    },
+    "Flags": "0xAA041501",
+    "Interior": "bkr_biker_dlc_int_ware04",
+    "Room": "bkr_biker_dlc_int_ware04_cunt_fact_rm",
+    "RadioStation": "hash_908F83E2"
+  },
+  {
+    "Name": "se_dlc_biker_fakeid_warehouse_radio",
+    "Position": {
+      "X": 1156.2,
+      "Y": -3196.4,
+      "Z": -37.4
+    },
+    "Flags": "0xAA041401",
+    "Interior": "bkr_biker_dlc_int_ware05",
+    "Room": "bkr_biker_dlc_int_ware05_office",
+    "RadioStation": "hash_B5DD6F19"
+  },
+  {
+    "Name": "dlc_ie_steal_photo_shoot_radio_emitter",
+    "Position": {
+      "X": 642.3,
+      "Y": 3004.4,
+      "Z": 43.9
+    },
+    "Flags": "0xAA045401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_3B91F5CC"
+  },
+  {
+    "Name": "dlc_ie_steal_photo_shoot_wind_farm_radio_emitter",
+    "Position": {
+      "X": 2166.0,
+      "Y": 2111.0,
+      "Z": 126.7
+    },
+    "Flags": "0xAA045411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_3B91F5CC"
+  },
+  {
+    "Name": "dlc_ie_steal_photo_shoot_pier_radio_emitter",
+    "Position": {
+      "X": -1709.3,
+      "Y": -1000.0,
+      "Z": 6.9
+    },
+    "Flags": "0xAA045411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_3B91F5CC"
+  },
+  {
+    "Name": "dlc_ie_steal_photo_shoot_sonora_desert_radio_emitter",
+    "Position": {
+      "X": 642.3,
+      "Y": 3004.4,
+      "Z": 43.9
+    },
+    "Flags": "0xAA045411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_3B91F5CC"
+  },
+  {
+    "Name": "dlc_ie_steal_pool_party_default_radio_emitter",
+    "Position": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "Flags": "0xAA045401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_90D167B0"
+  },
+  {
+    "Name": "dlc_ie_steal_pool_party_lake_vine_radio_emitter",
+    "Position": {
+      "X": -138.0,
+      "Y": 869.0,
+      "Z": 233.0
+    },
+    "Flags": "0xAA044411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_90D167B0"
+  },
+  {
+    "Name": "dlc_ie_steal_pool_party_milton_rd__radio_emitter",
+    "Position": {
+      "X": -667.0,
+      "Y": 861.0,
+      "Z": 225.0
+    },
+    "Flags": "0xAA044411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_4F95BAD7"
+  },
+  {
+    "Name": "dlc_ie_steal_tow_sandy_shores_radio_emitter",
+    "Position": {
+      "X": 914.9,
+      "Y": 3557.9,
+      "Z": 34.1
+    },
+    "Flags": "0xAA044401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_C1400C2E"
+  },
+  {
+    "Name": "dlc_ie_steal_tow_mirror_park_radio_emitter",
+    "Position": {
+      "X": 1138.0,
+      "Y": -786.5,
+      "Z": 57.7
+    },
+    "Flags": "0xAA044401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_00572C04"
+  },
+  {
+    "Name": "dlc_ie_warehouse_radio_01",
+    "Position": {
+      "X": 970.9,
+      "Y": -3003.0,
+      "Z": -39.6
+    },
+    "Flags": "0xAA041501",
+    "Interior": "imp_impexp_intwaremed",
+    "Room": "imp_impexp_intwaremed_intwaremed_room",
+    "RadioStation": "hash_C7A2843A"
+  },
+  {
+    "Name": "dlc_ie_office_garage_radio_01",
+    "Position": {
+      "X": -82.1,
+      "Y": -826.5,
+      "Z": 222.0
+    },
+    "Flags": "0xAA045501",
+    "Interior": "imp_impexp_int_01",
+    "Room": "imp_impexp_int_01_mainroom001",
+    "RadioStation": "hash_90D167B0"
+  },
+  {
+    "Name": "dlc_ie_office_garage_mod_shop_radio_01",
+    "Position": {
+      "X": -73.3,
+      "Y": -823.6,
+      "Z": 285.0
+    },
+    "Flags": "0xAA045501",
+    "Interior": "imp_imptexp_mod_int_01",
+    "Room": "imp_imptexp_mod_int_01_mainroom",
+    "RadioStation": "hash_90D167B0"
+  },
+  {
+    "Name": "se_dlc_gr_moc_radio_01",
+    "Position": {
+      "X": 1102.0,
+      "Y": -2990.0,
+      "Z": -39.0
+    },
+    "Flags": "0xAA045101",
+    "Interior": "gr_grdlc_int_01",
+    "Room": "gr_grdlc_int_01_gtamloroom001",
+    "RadioStation": null
+  },
+  {
+    "Name": "se_dlc_gr_bunker_radio_01",
+    "Position": {
+      "X": 900.18,
+      "Y": -3222.28,
+      "Z": -96.12
+    },
+    "Flags": "0xAA041101",
+    "Interior": "gr_grdlc_int_02",
+    "Room": "gr_grdlc_int_02_bunker_factory",
+    "RadioStation": null
+  },
+  {
+    "Name": "se_dlc_gr_bunker_radio_02",
+    "Position": {
+      "X": 874.2026,
+      "Y": -3244.895,
+      "Z": -94.48377
+    },
+    "Flags": "0xAA041101",
+    "Interior": "gr_grdlc_int_02",
+    "Room": "gr_grdlc_int_02_bunker_bigbit",
+    "RadioStation": null
+  },
+  {
+    "Name": "se_dlc_gr_bunker_radio_03",
+    "Position": {
+      "X": 967.9625,
+      "Y": -3245.394,
+      "Z": -88.24039
+    },
+    "Flags": "0xAA041101",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": null
+  },
+  {
+    "Name": "se_dlc_gr_bunker_radio_04",
+    "Position": {
+      "X": 841.4431,
+      "Y": -3238.174,
+      "Z": -93.599
+    },
+    "Flags": "0xAA041101",
+    "Interior": "gr_grdlc_int_02",
+    "Room": "gr_grdlc_int_02_bunker_modroom",
+    "RadioStation": null
+  },
+  {
+    "Name": "se_dlc_gr_bunker_radio_05",
+    "Position": {
+      "X": 894.2596,
+      "Y": -3178.375,
+      "Z": -94.73158
+    },
+    "Flags": "0xAA041101",
+    "Interior": "gr_grdlc_int_02",
+    "Room": "gr_grdlc_int_02_bunker_shooter",
+    "RadioStation": null
+  },
+  {
+    "Name": "se_dlc_gr_bunker_radio_06",
+    "Position": {
+      "X": 933.3492,
+      "Y": -3215.027,
+      "Z": -97.03413
+    },
+    "Flags": "0xAA041101",
+    "Interior": "gr_grdlc_int_02",
+    "Room": "gr_grdlc_int_02_bunker_storage",
+    "RadioStation": null
+  },
+  {
+    "Name": "se_dlc_gr_bunker_radio_07",
+    "Position": {
+      "X": 871.2695,
+      "Y": -3215.538,
+      "Z": -95.38543
+    },
+    "Flags": "0xAA041101",
+    "Interior": "gr_grdlc_int_02",
+    "Room": "gr_grdlc_int_02_bunker_tunnels",
+    "RadioStation": null
+  },
+  {
+    "Name": "se_dlc_sm_hangar_radio_mechanic",
+    "Position": {
+      "X": -1298.94,
+      "Y": -3012.248,
+      "Z": -47.43714
+    },
+    "Flags": "0xAA041001",
+    "Interior": "sm_smugdlc_int_01",
+    "Room": "sm_smugdlc_int_01_gtamloroom001",
+    "RadioStation": "hash_C4749814"
+  },
+  {
+    "Name": "se_dlc_sm_hangar_radio_office_01",
+    "Position": {
+      "X": -1234.37,
+      "Y": -3015.63,
+      "Z": -41.09
+    },
+    "Flags": "0xAA041001",
+    "Interior": "sm_smugdlc_int_01",
+    "Room": "sm_smugdlc_int_01_gtamloroom001",
+    "RadioStation": "hash_C4749814"
+  },
+  {
+    "Name": "se_dlc_sm_hangar_radio_office_02",
+    "Position": {
+      "X": -1241.23,
+      "Y": -3015.65,
+      "Z": -41.11
+    },
+    "Flags": "0xAA041001",
+    "Interior": "sm_smugdlc_int_01",
+    "Room": "sm_smugdlc_int_01_gtamloroom001",
+    "RadioStation": "hash_C4749814"
+  },
+  {
+    "Name": "se_dlc_sm_hangar_radio_office_03",
+    "Position": {
+      "X": -1241.29,
+      "Y": -3000.52,
+      "Z": -41.12
+    },
+    "Flags": "0xAA041001",
+    "Interior": "sm_smugdlc_int_01",
+    "Room": "sm_smugdlc_int_01_gtamloroom001",
+    "RadioStation": "hash_C4749814"
+  },
+  {
+    "Name": "se_dlc_sm_hangar_radio_office_04",
+    "Position": {
+      "X": -1234.49,
+      "Y": -3000.43,
+      "Z": -41.16
+    },
+    "Flags": "0xAA041001",
+    "Interior": "sm_smugdlc_int_01",
+    "Room": "sm_smugdlc_int_01_gtamloroom001",
+    "RadioStation": "hash_C4749814"
+  },
+  {
+    "Name": "se_dlc_sm_hangar_radio_living_quarters_01",
+    "Position": {
+      "X": -1241.74,
+      "Y": -2982.49,
+      "Z": -39.05
+    },
+    "Flags": "0xAA041001",
+    "Interior": "sm_smugdlc_int_01",
+    "Room": "sm_smugdlc_int_01_gtamloroom001",
+    "RadioStation": "hash_C4749814"
+  },
+  {
+    "Name": "se_dlc_sm_hangar_radio_living_quarters_02",
+    "Position": {
+      "X": -1232.39,
+      "Y": -2986.74,
+      "Z": -39.03
+    },
+    "Flags": "0xAA041001",
+    "Interior": "sm_smugdlc_int_01",
+    "Room": "sm_smugdlc_int_01_gtamloroom001",
+    "RadioStation": "hash_C4749814"
+  },
+  {
+    "Name": "se_mp_garage_m_radio",
+    "Position": {
+      "X": 202.23,
+      "Y": -994.03,
+      "Z": -98.65
+    },
+    "Flags": "0xAA041411",
+    "Interior": "v_garagem",
+    "Room": "v_garagem_gtamloroom002",
+    "RadioStation": "hash_FA17DE37"
+  },
+  {
+    "Name": "se_xm_int_01_avngr_radio",
+    "Position": {
+      "X": 520.0,
+      "Y": 4748.0,
+      "Z": -69.0
+    },
+    "Flags": "0xAA041501",
+    "Interior": "xm_x17dlc_int_01",
+    "Room": "xm_x17dlc_int_01_gtamloroom001",
+    "RadioStation": "radio_21_dlc_xm17"
+  },
+  {
+    "Name": "se_xm_int_02_lounge_radio",
+    "Position": {
+      "X": 361.0,
+      "Y": 4840.0,
+      "Z": -59.0
+    },
+    "Flags": "0xAA041411",
+    "Interior": "xm_x17dlc_int_02",
+    "Room": "xm_x17dlc_int_02_int02_base_data",
+    "RadioStation": "radio_21_dlc_xm17"
+  },
+  {
+    "Name": "se_xm_int_02_bedroom_radio",
+    "Position": {
+      "X": 368.0,
+      "Y": 4823.0,
+      "Z": -59.0
+    },
+    "Flags": "0xAA041511",
+    "Interior": "xm_x17dlc_int_02",
+    "Room": "xm_x17dlc_int_02_int02_base_bedrom",
+    "RadioStation": "radio_21_dlc_xm17"
+  },
+  {
+    "Name": "se_xm_x17dlc_int_sub_stream",
+    "Position": {
+      "X": 513.0,
+      "Y": 4861.5,
+      "Z": -62.6
+    },
+    "Flags": "0xAA044101",
+    "Interior": "xm_x17dlc_int_sub",
+    "Room": "xm_x17dlc_int_sub_rm_command",
+    "RadioStation": null
+  },
+  {
+    "Name": "se_ba_dlc_int_01_bars",
+    "Position": {
+      "X": -1579.0,
+      "Y": -3012.1,
+      "Z": -78.0
+    },
+    "Flags": "0xAA040501",
+    "Interior": "ba_dlc_int_01_ba",
+    "Room": null,
+    "RadioStation": "radio_22_dlc_battle_mix1_club"
+  },
+  {
+    "Name": "se_ba_dlc_int_01_entry_hall",
+    "Position": {
+      "X": -1569.3,
+      "Y": -3005.8,
+      "Z": -74.8
+    },
+    "Flags": "0xAA040501",
+    "Interior": "ba_dlc_int_01_ba",
+    "Room": "ba_dlc_int_01_ba_int_01_entry_hall",
+    "RadioStation": "radio_22_dlc_battle_mix1_club"
+  },
+  {
+    "Name": "se_ba_dlc_int_01_entry_stairs",
+    "Position": {
+      "X": -1573.8,
+      "Y": -3003.4,
+      "Z": -76.6
+    },
+    "Flags": "0xAA040501",
+    "Interior": "ba_dlc_int_01_ba",
+    "Room": "ba_dlc_int_01_ba_int_01_entry_stairs",
+    "RadioStation": "radio_22_dlc_battle_mix1_club"
+  },
+  {
+    "Name": "se_ba_dlc_int_01_garage",
+    "Position": {
+      "X": -1623.0,
+      "Y": -2998.0,
+      "Z": -77.0
+    },
+    "Flags": "0xAA040501",
+    "Interior": "ba_dlc_int_01_ba",
+    "Room": "ba_dlc_int_01_ba_int_01_garage",
+    "RadioStation": "radio_22_dlc_battle_mix1_club"
+  },
+  {
+    "Name": "se_ba_dlc_int_01_main_area",
+    "Position": {
+      "X": -1601.2,
+      "Y": -3012.6,
+      "Z": -77.0
+    },
+    "Flags": "0xAA040501",
+    "Interior": "ba_dlc_int_01_ba",
+    "Room": "ba_dlc_int_01_ba_int_01_main_area",
+    "RadioStation": "radio_22_dlc_battle_mix1_club"
+  },
+  {
+    "Name": "se_ba_dlc_int_01_office",
+    "Position": {
+      "X": -1607.8,
+      "Y": -3014.0,
+      "Z": -74.0
+    },
+    "Flags": "0xAA040501",
+    "Interior": "ba_dlc_int_01_ba",
+    "Room": "ba_dlc_int_01_ba_int_01_orifice",
+    "RadioStation": "radio_22_dlc_battle_mix1_club"
+  },
+  {
+    "Name": "se_ba_dlc_int_01_rear_l_corridor",
+    "Position": {
+      "X": -1607.9,
+      "Y": -3006.1,
+      "Z": -77.9
+    },
+    "Flags": "0xAA040501",
+    "Interior": "ba_dlc_int_01_ba",
+    "Room": "ba_dlc_int_01_ba_int_01_rear_l_corridor",
+    "RadioStation": "radio_22_dlc_battle_mix1_club"
+  },
+  {
+    "Name": "se_ba_dlc_club_exterior",
+    "Position": {
+      "X": 762.0,
+      "Y": -1332.0,
+      "Z": 26.0
+    },
+    "Flags": "0xAA044401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "radio_22_dlc_battle_mix1_club"
+  },
+  {
+    "Name": "se_ba_dlc_int_01_bogs",
+    "Position": {
+      "X": -1609.6,
+      "Y": -3007.2,
+      "Z": -78.2
+    },
+    "Flags": "0xAA040501",
+    "Interior": "ba_dlc_int_01_ba",
+    "Room": "ba_dlc_int_01_ba_int_01_bogs",
+    "RadioStation": "radio_22_dlc_battle_mix1_club"
+  },
+  {
+    "Name": "se_ba_dlc_int_01_main_area_2",
+    "Position": {
+      "X": -1577.0,
+      "Y": -3003.6,
+      "Z": -77.0
+    },
+    "Flags": "0xAA040501",
+    "Interior": "ba_dlc_int_01_ba",
+    "Room": "ba_dlc_int_01_ba_int_01_main_area",
+    "RadioStation": "radio_22_dlc_battle_mix1_club"
+  },
+  {
+    "Name": "se_ba_int_02_ba_workshop_radio",
+    "Position": {
+      "X": -1517.0,
+      "Y": -3043.0,
+      "Z": -78.9
+    },
+    "Flags": "0xAA041401",
+    "Interior": "ba_dlc_int_02_ba",
+    "Room": "ba_dlc_int_02_ba_int_02_room1",
+    "RadioStation": "radio_22_dlc_battle_mix1_radio"
+  },
+  {
+    "Name": "se_ba_int_03_ba_hktrk_radio",
+    "Position": {
+      "X": -1420.0,
+      "Y": -3013.0,
+      "Z": -77.8
+    },
+    "Flags": "0xAA041501",
+    "Interior": "ba_dlc_int_03_ba",
+    "Room": "ba_dlc_int_03_ba_int_03_room1",
+    "RadioStation": "radio_22_dlc_battle_mix1_radio"
+  },
+  {
+    "Name": "se_dlc_btl_yacht_exterior_01",
+    "Position": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": -200.0
+    },
+    "Flags": "0xAA040411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_90D167B0"
+  },
+  {
+    "Name": "se_dlc_aw_arena_crowd_background_main",
+    "Position": {
+      "X": 2800.0,
+      "Y": -3800.0,
+      "Z": 190.0
+    },
+    "Flags": "0xAA004401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": null
+  },
+  {
+    "Name": "se_dlc_aw_arena_crowd_exterior_lobby",
+    "Position": {
+      "X": -119.0,
+      "Y": -2243.0,
+      "Z": 70.0
+    },
+    "Flags": "0xAA004401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": null
+  },
+  {
+    "Name": "se_dlc_aw_arena_crowd_interior_lobby",
+    "Position": {
+      "X": 204.8,
+      "Y": 5162.03,
+      "Z": -85.0
+    },
+    "Flags": "0xAA004401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": null
+  },
+  {
+    "Name": "se_dlc_aw_xs_arena_vip_radio",
+    "Position": {
+      "X": 2802.0,
+      "Y": -3941.0,
+      "Z": 186.0
+    },
+    "Flags": "0xAA041501",
+    "Interior": "xs_arena_vip",
+    "Room": "xs_arena_vip_vip_room",
+    "RadioStation": "hash_C7A2843A"
+  },
+  {
+    "Name": "se_dlc_aw_xs_x18_int_mod_garage_radio",
+    "Position": {
+      "X": 202.5,
+      "Y": 5186.4,
+      "Z": -88.5
+    },
+    "Flags": "0xAA041401",
+    "Interior": "xs_x18_int_mod",
+    "Room": "xs_x18_int_mod_arena_mod_rm",
+    "RadioStation": "hash_C7A2843A"
+  },
+  {
+    "Name": "se_dlc_aw_arena_construction_01",
+    "Position": {
+      "X": 231.2,
+      "Y": 5180.0,
+      "Z": -85.3
+    },
+    "Flags": "0xAA000401",
+    "Interior": "xs_x18_int_mod",
+    "Room": "xs_x18_int_mod_arena_mod_rm",
+    "RadioStation": null
+  },
+  {
+    "Name": "se_dlc_aw_xs_x18_int_mod_garage_office_theme",
+    "Position": {
+      "X": 206.5,
+      "Y": 5162.0,
+      "Z": -85.0
+    },
+    "Flags": "0xAA041401",
+    "Interior": "xs_x18_int_mod",
+    "Room": "xs_x18_int_mod_arena_office_rm",
+    "RadioStation": null
+  },
+  {
+    "Name": "se_dlc_aw_xs_x18_int_mod2_garage_radio",
+    "Position": {
+      "X": 172.9,
+      "Y": 5198.5,
+      "Z": 12.0
+    },
+    "Flags": "0xAA041501",
+    "Interior": "xs_x18_int_mod2",
+    "Room": "xs_x18_int_mod2_mod2_room",
+    "RadioStation": "hash_C7A2843A"
+  },
+  {
+    "Name": "se_vw_dlc_casino_apart_apart_default_room_radio",
+    "Position": {
+      "X": 969.2,
+      "Y": 72.8,
+      "Z": 118.4
+    },
+    "Flags": "0xAA041401",
+    "Interior": "vw_dlc_casino_apart",
+    "Room": "vw_dlc_casino_apart_apart_default_room",
+    "RadioStation": "hash_C7A2843A"
+  },
+  {
+    "Name": "se_vw_dlc_casino_apart_apart_lounge_room_radio",
+    "Position": {
+      "X": 962.0,
+      "Y": 49.5,
+      "Z": 118.4
+    },
+    "Flags": "0xAA041401",
+    "Interior": "vw_dlc_casino_apart",
+    "Room": "vw_dlc_casino_apart_apart_lounge_room",
+    "RadioStation": "hash_C7A2843A"
+  },
+  {
+    "Name": "se_vw_dlc_casino_apart_apart_arcade_room_radio",
+    "Position": {
+      "X": 946.5,
+      "Y": 16.0,
+      "Z": 119.5
+    },
+    "Flags": "0xAA041401",
+    "Interior": "vw_dlc_casino_apart",
+    "Room": "vw_dlc_casino_apart_apart_arcade_room",
+    "RadioStation": "hash_C7A2843A"
+  },
+  {
+    "Name": "se_vw_dlc_casino_apart_apart_spa_room_water",
+    "Position": {
+      "X": 949.7,
+      "Y": 13.6,
+      "Z": 118.0
+    },
+    "Flags": "0xAA041401",
+    "Interior": "vw_dlc_casino_apart",
+    "Room": "vw_dlc_casino_apart_apart_spa_room",
+    "RadioStation": null
+  },
+  {
+    "Name": "se_vw_dlc_casino_apart_apart_party_music_01",
+    "Position": {
+      "X": 946.5,
+      "Y": 16.0,
+      "Z": 119.5
+    },
+    "Flags": "0xAA045501",
+    "Interior": "vw_dlc_casino_apart",
+    "Room": "vw_dlc_casino_apart_apart_arcade_room",
+    "RadioStation": "hidden_radio_casino_penthouse_p"
+  },
+  {
+    "Name": "se_vw_dlc_casino_apart_apart_party_music_02",
+    "Position": {
+      "X": 953.2,
+      "Y": 11.1,
+      "Z": 117.4
+    },
+    "Flags": "0xAA045501",
+    "Interior": "vw_dlc_casino_apart",
+    "Room": "vw_dlc_casino_apart_apart_spa_room",
+    "RadioStation": "hidden_radio_casino_penthouse_p"
+  },
+  {
+    "Name": "se_vw_dlc_casino_apart_apart_party_music_03",
+    "Position": {
+      "X": 965.0,
+      "Y": 36.0,
+      "Z": 120.0
+    },
+    "Flags": "0xAA045501",
+    "Interior": "vw_dlc_casino_apart",
+    "Room": "vw_dlc_casino_apart_apart_lounge_room",
+    "RadioStation": "hidden_radio_casino_penthouse_p"
+  },
+  {
+    "Name": "se_vw_dlc_casino_exterior_main_entrance",
+    "Position": {
+      "X": 924.6,
+      "Y": 46.6,
+      "Z": 83.8
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hidden_radio_casino"
+  },
+  {
+    "Name": "se_vw_dlc_casino_exterior_terrace_01",
+    "Position": {
+      "X": 946.8,
+      "Y": 50.9,
+      "Z": 114.5
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_53EDC72C"
+  },
+  {
+    "Name": "se_vw_dlc_casino_exterior_terrace_02",
+    "Position": {
+      "X": 934.4,
+      "Y": 31.4,
+      "Z": 114.5
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_53EDC72C"
+  },
+  {
+    "Name": "se_vw_dlc_casino_exterior_terrace_03",
+    "Position": {
+      "X": 912.2,
+      "Y": 3.3,
+      "Z": 112.0
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_53EDC72C"
+  },
+  {
+    "Name": "se_vw_dlc_casino_exterior_terrace_bar",
+    "Position": {
+      "X": 958.6,
+      "Y": 72.7,
+      "Z": 114.5
+    },
+    "Flags": "0xAA041001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_53EDC72C"
+  },
+  {
+    "Name": "se_vw_dlc_casino_main_rm_shop_radio",
+    "Position": {
+      "X": 1096.6,
+      "Y": 197.6,
+      "Z": -46.8
+    },
+    "Flags": "0xAA041401",
+    "Interior": "vw_dlc_casino_main",
+    "Room": "vw_dlc_casino_main_rm_shop",
+    "RadioStation": "hidden_radio_casino"
+  },
+  {
+    "Name": "se_vw_dlc_casino_main_rm_lounge_02_radio",
+    "Position": {
+      "X": 1132.2,
+      "Y": 241.7,
+      "Z": -48.1
+    },
+    "Flags": "0xAA041401",
+    "Interior": "vw_dlc_casino_main",
+    "Room": "vw_dlc_casino_main_rm_lounge_02",
+    "RadioStation": "hidden_radio_casino"
+  },
+  {
+    "Name": "se_vw_dlc_casino_main_rm_lounge_01_radio",
+    "Position": {
+      "X": 1124.1,
+      "Y": 250.0,
+      "Z": -47.5
+    },
+    "Flags": "0xAA041401",
+    "Interior": "vw_dlc_casino_main",
+    "Room": "vw_dlc_casino_main_rm_lounge_01",
+    "RadioStation": "hidden_radio_casino"
+  },
+  {
+    "Name": "se_vw_dlc_casino_main_rm_gamingfloor_02_slots_radio",
+    "Position": {
+      "X": 1135.5,
+      "Y": 253.0,
+      "Z": -48.5
+    },
+    "Flags": "0xAA041401",
+    "Interior": "vw_dlc_casino_main",
+    "Room": "vw_dlc_casino_main_rm_gamingfloor_02",
+    "RadioStation": "hidden_radio_casino"
+  },
+  {
+    "Name": "se_vw_dlc_casino_main_rm_gamingfloor_01_slots_radio",
+    "Position": {
+      "X": 1111.05,
+      "Y": 229.5,
+      "Z": -43.28
+    },
+    "Flags": "0xAA041401",
+    "Interior": "vw_dlc_casino_main",
+    "Room": "vw_dlc_casino_main_rm_gamingfloor_01",
+    "RadioStation": "hidden_radio_casino"
+  },
+  {
+    "Name": "se_vw_dlc_casino_main_rm_gamingfloor_01_bar_radio",
+    "Position": {
+      "X": 1112.1,
+      "Y": 208.0,
+      "Z": -45.1
+    },
+    "Flags": "0xAA041401",
+    "Interior": "vw_dlc_casino_main",
+    "Room": "vw_dlc_casino_main_rm_gamingfloor_01",
+    "RadioStation": "hidden_radio_casino"
+  },
+  {
+    "Name": "se_vw_dlc_casino_main_rm_reception_radio",
+    "Position": {
+      "X": 1089.2,
+      "Y": 221.4,
+      "Z": -46.2
+    },
+    "Flags": "0xAA041401",
+    "Interior": "vw_dlc_casino_main",
+    "Room": "vw_dlc_casino_main_rm_reception",
+    "RadioStation": "hidden_radio_casino"
+  },
+  {
+    "Name": "se_vw_dlc_casino_main_rm_toilet_02_radio",
+    "Position": {
+      "X": 1161.2,
+      "Y": 249.6,
+      "Z": -49.0
+    },
+    "Flags": "0xAA041501",
+    "Interior": "vw_dlc_casino_main",
+    "Room": "vw_dlc_casino_main_rm_toilet_02",
+    "RadioStation": null
+  },
+  {
+    "Name": "se_vw_dlc_casino_main_rm_toilet_01_radio",
+    "Position": {
+      "X": 1131.4,
+      "Y": 279.8,
+      "Z": -49.2
+    },
+    "Flags": "0xAA041501",
+    "Interior": "vw_dlc_casino_main",
+    "Room": "vw_dlc_casino_main_rm_toilet_01",
+    "RadioStation": null
+  },
+  {
+    "Name": "se_vw_dlc_casino_main_rm_bettingroom_radio",
+    "Position": {
+      "X": 1106.0,
+      "Y": 251.2,
+      "Z": -47.8
+    },
+    "Flags": "0xAA041401",
+    "Interior": "vw_dlc_casino_main",
+    "Room": "vw_dlc_casino_main_rm_bettingroom",
+    "RadioStation": "hidden_radio_casino"
+  },
+  {
+    "Name": "se_vw_dlc_casino_main_rm_gamingfloor_03_slots_radio",
+    "Position": {
+      "X": 1147.9,
+      "Y": 265.4,
+      "Z": -47.1
+    },
+    "Flags": "0xAA041401",
+    "Interior": "vw_dlc_casino_main",
+    "Room": "vw_dlc_casino_main_rm_gamingfloor_03",
+    "RadioStation": "hidden_radio_casino"
+  },
+  {
+    "Name": "se_vw_dlc_casino_main_rm_bettingroom_main_floor_radio",
+    "Position": {
+      "X": 1097.3,
+      "Y": 260.3,
+      "Z": -47.0
+    },
+    "Flags": "0xAA041401",
+    "Interior": "vw_dlc_casino_main",
+    "Room": "vw_dlc_casino_main_rm_bettingroom",
+    "RadioStation": "hidden_radio_casino"
+  },
+  {
+    "Name": "dlc_h3_arcade_main_area_music_emitter",
+    "Position": {
+      "X": 2721.0,
+      "Y": -381.0,
+      "Z": -48.0
+    },
+    "Flags": "0xAA041501",
+    "Interior": "ch_dlc_arcade",
+    "Room": "ch_dlc_arcade_mainw_rm",
+    "RadioStation": "hidden_radio_arcade_edm"
+  },
+  {
+    "Name": "dlc_h3_arcade_planning_room_radio_emitter",
+    "Position": {
+      "X": 2717.0,
+      "Y": -363.0,
+      "Z": -53.3
+    },
+    "Flags": "0xAA041401",
+    "Interior": "ch_dlc_plan",
+    "Room": "ch_dlc_plan_main_rm",
+    "RadioStation": "hidden_radio_arcade_edm"
+  },
+  {
+    "Name": "dlc_h3_fm_prep_explosives_radio",
+    "Position": {
+      "X": 1742.0,
+      "Y": 3863.0,
+      "Z": 36.0
+    },
+    "Flags": "0xAA045411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_C343DA28"
+  },
+  {
+    "Name": "dlc_h3_fm_cashier_radio_01",
+    "Position": {
+      "X": -1226.0,
+      "Y": 622.0,
+      "Z": 138.0
+    },
+    "Flags": "0xAA045411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_90D167B0"
+  },
+  {
+    "Name": "dlc_h3_fm_cashier_radio_02",
+    "Position": {
+      "X": -1221.0,
+      "Y": 628.0,
+      "Z": 138.0
+    },
+    "Flags": "0xAA045411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_90D167B0"
+  },
+  {
+    "Name": "dlc_h3_fm_cashier_radio_03",
+    "Position": {
+      "X": -1985.0,
+      "Y": 246.0,
+      "Z": 87.0
+    },
+    "Flags": "0xAA045411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_90D167B0"
+  },
+  {
+    "Name": "dlc_h3_fm_cashier_radio_04",
+    "Position": {
+      "X": -1984.0,
+      "Y": 228.0,
+      "Z": 87.0
+    },
+    "Flags": "0xAA045411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hash_90D167B0"
+  },
+  {
+    "Name": "se_mp_apt_1_1",
+    "Position": {
+      "X": -794.9223,
+      "Y": 335.2936,
+      "Z": 201.6748
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_510C92D6",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_10_1",
+    "Position": {
+      "X": -911.0636,
+      "Y": -442.4949,
+      "Z": 115.6061
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_510C92D6",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_11_1",
+    "Position": {
+      "X": -896.4674,
+      "Y": -432.5596,
+      "Z": 89.5326
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_510C92D6",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_12_1",
+    "Position": {
+      "X": -36.7097,
+      "Y": -580.7258,
+      "Z": 83.8723
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_510C92D6",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_13_1",
+    "Position": {
+      "X": -14.6156,
+      "Y": -589.1295,
+      "Z": 94.1579
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_510C92D6",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_14_1",
+    "Position": {
+      "X": -902.5886,
+      "Y": -372.8203,
+      "Z": 79.4551
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_510C92D6",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_15_1",
+    "Position": {
+      "X": -927.3589,
+      "Y": -378.412,
+      "Z": 103.3495
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_510C92D6",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_16_1",
+    "Position": {
+      "X": -617.0798,
+      "Y": 60.2634,
+      "Z": 102.1335
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_510C92D6",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_17_1",
+    "Position": {
+      "X": -584.1865,
+      "Y": 47.1539,
+      "Z": 87.5992
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_510C92D6",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_2_1",
+    "Position": {
+      "X": -760.9844,
+      "Y": 322.1198,
+      "Z": 170.7925
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_510C92D6",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_3_1",
+    "Position": {
+      "X": -761.1333,
+      "Y": 322.093,
+      "Z": 217.3184
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_510C92D6",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_4_1",
+    "Position": {
+      "X": -795.3694,
+      "Y": 335.5568,
+      "Z": 153.9465
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_510C92D6",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_5_1",
+    "Position": {
+      "X": -262.3579,
+      "Y": -949.122,
+      "Z": 71.2616
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_510C92D6",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_6_1",
+    "Position": {
+      "X": -280.8582,
+      "Y": -959.214,
+      "Z": 86.4584
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_510C92D6",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_7_1",
+    "Position": {
+      "X": -1469.336,
+      "Y": -534.425,
+      "Z": 63.5293
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_510C92D6",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_8_1",
+    "Position": {
+      "X": -1469.288,
+      "Y": -534.4252,
+      "Z": 50.8548
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_510C92D6",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_9_1",
+    "Position": {
+      "X": -887.3753,
+      "Y": -447.638,
+      "Z": 120.5694
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_510C92D6",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_1_2",
+    "Position": {
+      "X": -800.4615,
+      "Y": 325.5955,
+      "Z": 206.1602
+    },
+    "Flags": "0xAA045511",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_051D0372",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_10_2",
+    "Position": {
+      "X": -911.6201,
+      "Y": -453.4501,
+      "Z": 120.2421
+    },
+    "Flags": "0xAA045511",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_051D0372",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_11_2",
+    "Position": {
+      "X": -907.5391,
+      "Y": -431.8744,
+      "Z": 94.0568
+    },
+    "Flags": "0xAA045511",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_051D0372",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_12_2",
+    "Position": {
+      "X": -44.9845,
+      "Y": -587.6182,
+      "Z": 88.7372
+    },
+    "Flags": "0xAA045511",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_051D0372",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_13_2",
+    "Position": {
+      "X": -21.7007,
+      "Y": -580.7242,
+      "Z": 98.8429
+    },
+    "Flags": "0xAA045511",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_051D0372",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_14_2",
+    "Position": {
+      "X": -902.1055,
+      "Y": -361.618,
+      "Z": 84.1714
+    },
+    "Flags": "0xAA045511",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_051D0372",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_15_2",
+    "Position": {
+      "X": -927.8866,
+      "Y": -389.6428,
+      "Z": 108.124
+    },
+    "Flags": "0xAA045511",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_051D0372",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_16_2",
+    "Position": {
+      "X": -622.583,
+      "Y": 50.7034,
+      "Z": 106.716
+    },
+    "Flags": "0xAA045511",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_051D0372",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_17_2",
+    "Position": {
+      "X": -578.6264,
+      "Y": 56.7979,
+      "Z": 92.1833
+    },
+    "Flags": "0xAA045511",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_051D0372",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_2_2",
+    "Position": {
+      "X": -755.5387,
+      "Y": 331.7519,
+      "Z": 175.3368
+    },
+    "Flags": "0xAA045511",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_051D0372",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_3_2",
+    "Position": {
+      "X": -755.7,
+      "Y": 331.5,
+      "Z": 221.9
+    },
+    "Flags": "0xAA045511",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_051D0372",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_4_2",
+    "Position": {
+      "X": -800.8968,
+      "Y": 325.9796,
+      "Z": 158.5876
+    },
+    "Flags": "0xAA045511",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_051D0372",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_5_2",
+    "Position": {
+      "X": -269.4216,
+      "Y": -940.7886,
+      "Z": 75.9659
+    },
+    "Flags": "0xAA045511",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_051D0372",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_6_2",
+    "Position": {
+      "X": -273.7138,
+      "Y": -967.5828,
+      "Z": 91.2162
+    },
+    "Flags": "0xAA045511",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_051D0372",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_7_2",
+    "Position": {
+      "X": -1468.316,
+      "Y": -545.2313,
+      "Z": 68.2274
+    },
+    "Flags": "0xAA045511",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_051D0372",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_8_2",
+    "Position": {
+      "X": -1468.404,
+      "Y": -545.4297,
+      "Z": 55.5886
+    },
+    "Flags": "0xAA045511",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_051D0372",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_9_2",
+    "Position": {
+      "X": -886.9307,
+      "Y": -436.4989,
+      "Z": 125.217
+    },
+    "Flags": "0xAA045511",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_051D0372",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_1_3",
+    "Position": {
+      "X": -777.6,
+      "Y": 332.2,
+      "Z": 207.6
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_E8D0452C",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_10_3",
+    "Position": {
+      "X": -894.2,
+      "Y": -437.2,
+      "Z": 121.6
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_E8D0452C",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_11_3",
+    "Position": {
+      "X": -891.3,
+      "Y": -449.4,
+      "Z": 95.7
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_E8D0452C",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_12_3",
+    "Position": {
+      "X": -21.3,
+      "Y": -589.4,
+      "Z": 90.5
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_E8D0452C",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_13_3",
+    "Position": {
+      "X": -23.4,
+      "Y": -604.3,
+      "Z": 100.5
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_E8D0452C",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_14_3",
+    "Position": {
+      "X": -919.6,
+      "Y": -378.3,
+      "Z": 85.5
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_E8D0452C",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_15_3",
+    "Position": {
+      "X": -910.6,
+      "Y": -372.9,
+      "Z": 109.4
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_E8D0452C",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_16_3",
+    "Position": {
+      "X": -599.8,
+      "Y": 57.3,
+      "Z": 108.0
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_E8D0452C",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_17_3",
+    "Position": {
+      "X": -601.4,
+      "Y": 50.1,
+      "Z": 94.0
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_E8D0452C",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_3_3",
+    "Position": {
+      "X": -778.5,
+      "Y": 325.1,
+      "Z": 223.3
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_E8D0452C",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_4_3",
+    "Position": {
+      "X": -778.1,
+      "Y": 332.5,
+      "Z": 160.0
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_E8D0452C",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_5_3",
+    "Position": {
+      "X": -271.0,
+      "Y": -964.4,
+      "Z": 77.4
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_E8D0452C",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_6_3",
+    "Position": {
+      "X": -272.3,
+      "Y": -944.0,
+      "Z": 92.8
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_E8D0452C",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_7_3",
+    "Position": {
+      "X": -1453.4,
+      "Y": -526.8,
+      "Z": 69.5
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_E8D0452C",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_8_3",
+    "Position": {
+      "X": -1453.3,
+      "Y": -526.8,
+      "Z": 56.8
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_E8D0452C",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_9_3",
+    "Position": {
+      "X": -903.8,
+      "Y": -452.7,
+      "Z": 126.8
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_E8D0452C",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_2_3",
+    "Position": {
+      "X": -778.6,
+      "Y": 325.0,
+      "Z": 176.8
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "hash_E8D0452C",
+    "RadioStation": "hash_B5DD6F19"
+  },
+  {
+    "Name": "se_mp_apt_new_1_2",
+    "Position": {
+      "X": -1463.221,
+      "Y": -549.78,
+      "Z": 72.2442
+    },
+    "Flags": "0xAA045501",
+    "Interior": "v_mp_apt_h_01",
+    "Room": "hash_7EE8F0B8",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_new_2_2",
+    "Position": {
+      "X": -904.9166,
+      "Y": -377.3337,
+      "Z": 114.0
+    },
+    "Flags": "0xAA045501",
+    "Interior": "v_mp_apt_h_01",
+    "Room": "hash_7EE8F0B8",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_new_3_2",
+    "Position": {
+      "X": -601.3,
+      "Y": 44.7,
+      "Z": 98.0
+    },
+    "Flags": "0xAA045501",
+    "Interior": "v_mp_apt_h_01",
+    "Room": "hash_7EE8F0B8",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_new_4_2",
+    "Position": {
+      "X": -786.3643,
+      "Y": 338.007,
+      "Z": 210.197
+    },
+    "Flags": "0xAA045501",
+    "Interior": "v_mp_apt_h_01",
+    "Room": "hash_7EE8F0B8",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_new_5_2",
+    "Position": {
+      "X": -27.7171,
+      "Y": -581.4523,
+      "Z": 78.2307
+    },
+    "Flags": "0xAA045501",
+    "Interior": "v_mp_apt_h_01",
+    "Room": "hash_7EE8F0B8",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_new_1_1",
+    "Position": {
+      "X": -1458.2,
+      "Y": -550.5645,
+      "Z": 71.884
+    },
+    "Flags": "0xAA045501",
+    "Interior": "v_mp_apt_h_01",
+    "Room": "hash_2ABF79E0",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_new_2_1",
+    "Position": {
+      "X": -903.7225,
+      "Y": -371.8464,
+      "Z": 112.0
+    },
+    "Flags": "0xAA045501",
+    "Interior": "v_mp_apt_h_01",
+    "Room": "hash_2ABF79E0",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_new_3_1",
+    "Position": {
+      "X": -598.2443,
+      "Y": 48.7751,
+      "Z": 96.0
+    },
+    "Flags": "0xAA045501",
+    "Interior": "v_mp_apt_h_01",
+    "Room": "hash_2ABF79E0",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_new_4_1",
+    "Position": {
+      "X": -789.8164,
+      "Y": 334.0169,
+      "Z": 209.8369
+    },
+    "Flags": "0xAA045501",
+    "Interior": "v_mp_apt_h_01",
+    "Room": "hash_2ABF79E0",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_new_5_1",
+    "Position": {
+      "X": -32.2672,
+      "Y": -583.5913,
+      "Z": 77.8706
+    },
+    "Flags": "0xAA045501",
+    "Interior": "v_mp_apt_h_01",
+    "Room": "hash_2ABF79E0",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_new_4_3",
+    "Position": {
+      "X": -764.1,
+      "Y": 326.6,
+      "Z": 211.5
+    },
+    "Flags": "0xAA045501",
+    "Interior": "v_mp_apt_h_01",
+    "Room": "hash_FDC63627",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_new_1_3",
+    "Position": {
+      "X": -1466.6,
+      "Y": -525.1,
+      "Z": 73.5
+    },
+    "Flags": "0xAA045501",
+    "Interior": "v_mp_apt_h_01",
+    "Room": "hash_FDC63627",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_new_2_3",
+    "Position": {
+      "X": -929.9,
+      "Y": -377.2,
+      "Z": 113.8
+    },
+    "Flags": "0xAA045501",
+    "Interior": "v_mp_apt_h_01",
+    "Room": "hash_FDC63627",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_new_3_3",
+    "Position": {
+      "X": -624.1,
+      "Y": 56.0,
+      "Z": 97.8
+    },
+    "Flags": "0xAA045501",
+    "Interior": "v_mp_apt_h_01",
+    "Room": "hash_FDC63627",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_apt_new_5_3",
+    "Position": {
+      "X": -10.6,
+      "Y": -599.4,
+      "Z": 80.01
+    },
+    "Flags": "0xAA045501",
+    "Interior": "v_mp_apt_h_01",
+    "Room": "hash_FDC63627",
+    "RadioStation": "hash_09E34587"
+  },
+  {
+    "Name": "se_mp_ap_rad_v_apart_midspaz_lounge",
+    "Position": {
+      "X": 341.5,
+      "Y": -1001.0,
+      "Z": -98.8
+    },
+    "Flags": "0xAA045401",
+    "Interior": "v_apart_midspaz",
+    "Room": "v_apart_midspaz_rm_mid_lounge",
+    "RadioStation": "hash_FA17DE37"
+  },
+  {
+    "Name": "se_mp_ap_rad_v_studio_lo_living",
+    "Position": {
+      "X": 263.5,
+      "Y": -994.8,
+      "Z": -98.8
+    },
+    "Flags": "0xAA045401",
+    "Interior": "v_studio_lo",
+    "Room": "v_studio_lo_rm_living",
+    "RadioStation": "hash_09E34587"
+  }
+]

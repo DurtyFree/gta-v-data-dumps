@@ -32,7 +32,9 @@ If you are in search for an easy way to browse those GTA V data ingame, feel fre
 - **Waypoint recording names** (waypointRecordings.json) **791** waypoint recording infos in total (Usable with WAYPOINT RECORDING natives)
 - **Garages** (garages.json) **16** garage infos in total (Usable with GARAGE natives)
 - **Vehicle Handlings** (vehicleHandlings.json) **611** vehicle handling infos in total (Shared for all existing vehicles, see handling id in vehicles dump)
-- **Zones** (vehicleHandlings.json) **96** zone infos in total (Usable with some ZONE natives, contains all bounds coords for the zones)
+- **Zones** (zones.json) **96** zone infos in total (Usable with some ZONE natives, contains all bounds coords for the zones)
+- **Static Emitters** (staticEmitters.json) **714** static emitter infos in total (Usable with STATIC_EMITTER natives)
+- **Ambient Zones** (ambientZones.json) **1202** ambient zone infos in total (Usable with AMBIENT_ZONE natives)
 
 ## **Featured objects location dumps**
 Object location dumps contain positions of various objects of a specific type, on the GTA V map (including all interiors / MLOs).

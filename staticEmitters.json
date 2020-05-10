@@ -876,7 +876,7 @@
     "RadioStation": "hash_5A254955"
   },
   {
-    "Name": "hash_B8620352",
+    "Name": "SE_COUNTRY_SAWMILL_MAIN_BUILDING",
     "Position": {
       "X": -553.0,
       "Y": 5293.0,
@@ -1044,7 +1044,7 @@
     "RadioStation": "hash_00572C04"
   },
   {
-    "Name": "hash_F1042A54",
+    "Name": "SE_FRANKLIN_HILLS_HOUSE_RADIO_01",
     "Position": {
       "X": -3.1,
       "Y": 534.0,
@@ -1068,7 +1068,7 @@
     "RadioStation": "hash_FA17DE37"
   },
   {
-    "Name": "hash_6C9A5D92",
+    "Name": "SE_FRANKLIN_AUNT_HOUSE_RADIO_01",
     "Position": {
       "X": -8.2,
       "Y": -1440.4,
@@ -1560,7 +1560,7 @@
     "RadioStation": "hash_C1400C2E"
   },
   {
-    "Name": "hash_4DB97A83",
+    "Name": "LOS_SANTOS_AMMUNATION_GUN_RANGE",
     "Position": {
       "X": 12.8,
       "Y": -1098.0,
@@ -1572,7 +1572,7 @@
     "RadioStation": "hash_C1400C2E"
   },
   {
-    "Name": "hash_85B2BBDD",
+    "Name": "SE_AMMUNATION_CYPRESS_FLATS_GUN_RANGE",
     "Position": {
       "X": 821.9,
       "Y": -2162.0,
@@ -1596,7 +1596,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "hash_24197376",
+    "Name": "SE_MICHAELS_HOUSE_RADIO",
     "Position": {
       "X": -805.2,
       "Y": 177.8,
@@ -1608,7 +1608,7 @@
     "RadioStation": "hash_908F83E2"
   },
   {
-    "Name": "se_mp_garage_m_radio",
+    "Name": "SE_MP_GARAGE_M_RADIO",
     "Position": {
       "X": 202.23,
       "Y": -994.03,
@@ -1620,7 +1620,7 @@
     "RadioStation": "hash_FA17DE37"
   },
   {
-    "Name": "hash_034F8C71",
+    "Name": "SE_MP_GARAGE_S_RADIO",
     "Position": {
       "X": 175.85,
       "Y": -999.35,
@@ -1632,7 +1632,7 @@
     "RadioStation": "hash_B0962EE0"
   },
   {
-    "Name": "hash_313F2B77",
+    "Name": "SE_MP_GARAGE_L_RADIO",
     "Position": {
       "X": 227.16,
       "Y": -985.95,
@@ -1800,7 +1800,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "hash_B172ECEB",
+    "Name": "TREVOR_APARTMENT_RADIO",
     "Position": {
       "X": -1154.25,
       "Y": -1523.76,
@@ -1812,7 +1812,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "hash_ABC8E2ED",
+    "Name": "SE_TREVOR_TRAILER_RADIO_01",
     "Position": {
       "X": 1976.5,
       "Y": 3822.3,
@@ -1836,7 +1836,7 @@
     "RadioStation": "hash_AEB03A8F"
   },
   {
-    "Name": "hash_90132792",
+    "Name": "LOS_SANTOS_VANILLA_UNICORN_01_STAGE",
     "Position": {
       "X": 112.3,
       "Y": -1287.3,
@@ -1848,7 +1848,7 @@
     "RadioStation": "hash_3B91F5CC"
   },
   {
-    "Name": "hash_D93C5A4C",
+    "Name": "LOS_SANTOS_VANILLA_UNICORN_02_MAIN_ROOM",
     "Position": {
       "X": 125.94,
       "Y": -1281.97,
@@ -1860,7 +1860,7 @@
     "RadioStation": "hash_3B91F5CC"
   },
   {
-    "Name": "hash_0B25A4E1",
+    "Name": "LOS_SANTOS_VANILLA_UNICORN_03_BACK_ROOM",
     "Position": {
       "X": 112.56,
       "Y": -1303.59,
@@ -1908,7 +1908,7 @@
     "RadioStation": "hash_C343DA28"
   },
   {
-    "Name": "hash_E4617B5E",
+    "Name": "SE_LS_DOCKS_RADIO_01",
     "Position": {
       "X": 52.73,
       "Y": -2501.58,
@@ -1920,7 +1920,7 @@
     "RadioStation": "hash_719B0AFB"
   },
   {
-    "Name": "hash_D69CDFD5",
+    "Name": "SE_LS_DOCKS_RADIO_02",
     "Position": {
       "X": -3.13,
       "Y": -2462.22,
@@ -1932,7 +1932,7 @@
     "RadioStation": "hash_719B0AFB"
   },
   {
-    "Name": "hash_4DA84E0E",
+    "Name": "SE_LS_DOCKS_RADIO_03",
     "Position": {
       "X": -48.37,
       "Y": -2451.2,
@@ -1944,7 +1944,7 @@
     "RadioStation": "hash_719B0AFB"
   },
   {
-    "Name": "hash_5BE1EA81",
+    "Name": "SE_LS_DOCKS_RADIO_04",
     "Position": {
       "X": -119.81,
       "Y": -2451.84,
@@ -1956,7 +1956,7 @@
     "RadioStation": "hash_719B0AFB"
   },
   {
-    "Name": "hash_6A440745",
+    "Name": "SE_LS_DOCKS_RADIO_05",
     "Position": {
       "X": -202.27,
       "Y": -2427.57,
@@ -1968,7 +1968,7 @@
     "RadioStation": "hash_719B0AFB"
   },
   {
-    "Name": "hash_7884A3C6",
+    "Name": "SE_LS_DOCKS_RADIO_06",
     "Position": {
       "X": -95.49,
       "Y": -2505.86,
@@ -1980,7 +1980,7 @@
     "RadioStation": "hash_719B0AFB"
   },
   {
-    "Name": "hash_9561DD80",
+    "Name": "SE_LS_DOCKS_RADIO_07",
     "Position": {
       "X": 22.23,
       "Y": -2523.84,
@@ -1992,7 +1992,7 @@
     "RadioStation": "hash_719B0AFB"
   },
   {
-    "Name": "hash_A2C1783F",
+    "Name": "SE_LS_DOCKS_RADIO_08",
     "Position": {
       "X": -140.0,
       "Y": -2383.0,
@@ -2328,7 +2328,7 @@
     "RadioStation": "hash_4F95BAD7"
   },
   {
-    "Name": "hash_95F72A78",
+    "Name": "SE_RESTAURANTS_SUNSET_13",
     "Position": {
       "X": -1.1,
       "Y": 234.2,
@@ -3036,7 +3036,7 @@
     "RadioStation": "hash_AEB03A8F"
   },
   {
-    "Name": "hash_09BA824F",
+    "Name": "TREVOR1_TRAILER_PARK_MAIN_STAGE_RADIO",
     "Position": {
       "X": 79.0,
       "Y": 3706.0,
@@ -3048,7 +3048,7 @@
     "RadioStation": "hash_C1400C2E"
   },
   {
-    "Name": "hash_49411236",
+    "Name": "TREVOR1_TRAILER_PARK_MAIN_TRAILER_RADIO_01",
     "Position": {
       "X": 15.26,
       "Y": 3691.25,
@@ -3060,7 +3060,7 @@
     "RadioStation": "hash_C1400C2E"
   },
   {
-    "Name": "hash_CDDC1B6E",
+    "Name": "TREVOR1_TRAILER_PARK_MAIN_TRAILER_RADIO_02",
     "Position": {
       "X": 50.68,
       "Y": 3744.5,
@@ -3072,7 +3072,7 @@
     "RadioStation": "hash_C1400C2E"
   },
   {
-    "Name": "hash_E38C46CE",
+    "Name": "TREVOR1_TRAILER_PARK_MAIN_TRAILER_RADIO_03",
     "Position": {
       "X": 97.79,
       "Y": 3679.35,
@@ -3084,7 +3084,7 @@
     "RadioStation": "hash_C1400C2E"
   },
   {
-    "Name": "hash_A9A6BEB1",
+    "Name": "SE_FAMILY_2_BOAT_RADIO",
     "Position": {
       "X": -2032.5,
       "Y": -1032.3,
@@ -4212,7 +4212,7 @@
     "RadioStation": "hash_90D167B0"
   },
   {
-    "Name": "hash_D0A4AB92",
+    "Name": "COUNTRYSIDE_ALTRUIST_CULT_01",
     "Position": {
       "X": -1116.0,
       "Y": 4925.0,
@@ -4812,7 +4812,7 @@
     "RadioStation": "hash_908F83E2"
   },
   {
-    "Name": "hash_233FA3FC",
+    "Name": "SE_LOS_SANTOS_EPSILONISM_BUILDING_01",
     "Position": {
       "X": -702.6,
       "Y": 68.0,
@@ -5112,7 +5112,7 @@
     "RadioStation": "hash_40A4DECC"
   },
   {
-    "Name": "hash_B05F9144",
+    "Name": "MP_ARM_WRESTLING_RADIO_01",
     "Position": {
       "X": -188.1,
       "Y": 6272.7,
@@ -5124,7 +5124,7 @@
     "RadioStation": "hash_C4749814"
   },
   {
-    "Name": "hash_5F6FEF62",
+    "Name": "MP_ARM_WRESTLING_RADIO_02",
     "Position": {
       "X": 1682.9,
       "Y": 4971.7,
@@ -5136,7 +5136,7 @@
     "RadioStation": "hash_C343DA28"
   },
   {
-    "Name": "hash_4D3B4AF9",
+    "Name": "MP_ARM_WRESTLING_RADIO_03",
     "Position": {
       "X": 1220.8,
       "Y": 2727.4,
@@ -5148,7 +5148,7 @@
     "RadioStation": "hash_C343DA28"
   },
   {
-    "Name": "hash_77E3A04D",
+    "Name": "MP_ARM_WRESTLING_RADIO_04",
     "Position": {
       "X": 1048.9,
       "Y": 2662.0,
@@ -5160,7 +5160,7 @@
     "RadioStation": "hash_C1400C2E"
   },
   {
-    "Name": "hash_69B603F2",
+    "Name": "MP_ARM_WRESTLING_RADIO_05",
     "Position": {
       "X": 268.9,
       "Y": 2599.2,
@@ -5172,7 +5172,7 @@
     "RadioStation": "hash_C4749814"
   },
   {
-    "Name": "hash_2902028B",
+    "Name": "MP_ARM_WRESTLING_RADIO_06",
     "Position": {
       "X": 2342.1,
       "Y": 3127.2,
@@ -5184,7 +5184,7 @@
     "RadioStation": "hash_C4749814"
   },
   {
-    "Name": "hash_1E7CED81",
+    "Name": "MP_ARM_WRESTLING_RADIO_07",
     "Position": {
       "X": 898.5,
       "Y": -173.4,
@@ -5196,7 +5196,7 @@
     "RadioStation": "hash_C4749814"
   },
   {
-    "Name": "hash_5563DB4E",
+    "Name": "MP_ARM_WRESTLING_RADIO_08",
     "Position": {
       "X": -81.4,
       "Y": -1323.7,
@@ -5208,7 +5208,7 @@
     "RadioStation": "hash_C4749814"
   },
   {
-    "Name": "hash_3B11A6AA",
+    "Name": "MP_ARM_WRESTLING_RADIO_09",
     "Position": {
       "X": 369.9,
       "Y": -2447.5,
@@ -5220,7 +5220,7 @@
     "RadioStation": "hash_C4749814"
   },
   {
-    "Name": "hash_32509448",
+    "Name": "MP_ARM_WRESTLING_RADIO_10",
     "Position": {
       "X": 1435.9,
       "Y": -2222.9,
@@ -5316,7 +5316,7 @@
     "RadioStation": "hash_90D167B0"
   },
   {
-    "Name": "hash_C871FDC4",
+    "Name": "SE_Script_Placed_Prop_Emitter_Boombox",
     "Position": {
       "X": -100.0,
       "Y": 0.0,
@@ -5328,7 +5328,7 @@
     "RadioStation": "hash_90D167B0"
   },
   {
-    "Name": "hash_800FCF7E",
+    "Name": "SE_LR_Car_Park_Radio_01",
     "Position": {
       "X": -803.5,
       "Y": -2381.0,
@@ -5340,7 +5340,7 @@
     "RadioStation": "hash_8437AAEC"
   },
   {
-    "Name": "se_mp_apt_1_1",
+    "Name": "SE_MP_APT_1_1",
     "Position": {
       "X": -794.9223,
       "Y": 335.2936,
@@ -5352,7 +5352,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_10_1",
+    "Name": "SE_MP_APT_10_1",
     "Position": {
       "X": -911.0636,
       "Y": -442.4949,
@@ -5364,7 +5364,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_11_1",
+    "Name": "SE_MP_APT_11_1",
     "Position": {
       "X": -896.4674,
       "Y": -432.5596,
@@ -5376,7 +5376,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_12_1",
+    "Name": "SE_MP_APT_12_1",
     "Position": {
       "X": -36.7097,
       "Y": -580.7258,
@@ -5388,7 +5388,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_13_1",
+    "Name": "SE_MP_APT_13_1",
     "Position": {
       "X": -14.6156,
       "Y": -589.1295,
@@ -5400,7 +5400,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_14_1",
+    "Name": "SE_MP_APT_14_1",
     "Position": {
       "X": -902.5886,
       "Y": -372.8203,
@@ -5412,7 +5412,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_15_1",
+    "Name": "SE_MP_APT_15_1",
     "Position": {
       "X": -927.3589,
       "Y": -378.412,
@@ -5424,7 +5424,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_16_1",
+    "Name": "SE_MP_APT_16_1",
     "Position": {
       "X": -617.0798,
       "Y": 60.2634,
@@ -5436,7 +5436,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_17_1",
+    "Name": "SE_MP_APT_17_1",
     "Position": {
       "X": -584.1865,
       "Y": 47.1539,
@@ -5448,7 +5448,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_2_1",
+    "Name": "SE_MP_APT_2_1",
     "Position": {
       "X": -760.9844,
       "Y": 322.1198,
@@ -5460,7 +5460,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_3_1",
+    "Name": "SE_MP_APT_3_1",
     "Position": {
       "X": -761.1333,
       "Y": 322.093,
@@ -5472,7 +5472,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_4_1",
+    "Name": "SE_MP_APT_4_1",
     "Position": {
       "X": -795.3694,
       "Y": 335.5568,
@@ -5484,7 +5484,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_5_1",
+    "Name": "SE_MP_APT_5_1",
     "Position": {
       "X": -262.3579,
       "Y": -949.122,
@@ -5496,7 +5496,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_6_1",
+    "Name": "SE_MP_APT_6_1",
     "Position": {
       "X": -280.8582,
       "Y": -959.214,
@@ -5508,7 +5508,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_7_1",
+    "Name": "SE_MP_APT_7_1",
     "Position": {
       "X": -1469.336,
       "Y": -534.425,
@@ -5520,7 +5520,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_8_1",
+    "Name": "SE_MP_APT_8_1",
     "Position": {
       "X": -1469.288,
       "Y": -534.4252,
@@ -5532,7 +5532,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_9_1",
+    "Name": "SE_MP_APT_9_1",
     "Position": {
       "X": -887.3753,
       "Y": -447.638,
@@ -5544,7 +5544,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_1_2",
+    "Name": "SE_MP_APT_1_2",
     "Position": {
       "X": -800.4615,
       "Y": 325.5955,
@@ -5556,7 +5556,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_10_2",
+    "Name": "SE_MP_APT_10_2",
     "Position": {
       "X": -911.6201,
       "Y": -453.4501,
@@ -5568,7 +5568,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_11_2",
+    "Name": "SE_MP_APT_11_2",
     "Position": {
       "X": -907.5391,
       "Y": -431.8744,
@@ -5580,7 +5580,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_12_2",
+    "Name": "SE_MP_APT_12_2",
     "Position": {
       "X": -44.9845,
       "Y": -587.6182,
@@ -5592,7 +5592,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_13_2",
+    "Name": "SE_MP_APT_13_2",
     "Position": {
       "X": -21.7007,
       "Y": -580.7242,
@@ -5604,7 +5604,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_14_2",
+    "Name": "SE_MP_APT_14_2",
     "Position": {
       "X": -902.1055,
       "Y": -361.618,
@@ -5616,7 +5616,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_15_2",
+    "Name": "SE_MP_APT_15_2",
     "Position": {
       "X": -927.8866,
       "Y": -389.6428,
@@ -5628,7 +5628,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_16_2",
+    "Name": "SE_MP_APT_16_2",
     "Position": {
       "X": -622.583,
       "Y": 50.7034,
@@ -5640,7 +5640,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_17_2",
+    "Name": "SE_MP_APT_17_2",
     "Position": {
       "X": -578.6264,
       "Y": 56.7979,
@@ -5652,7 +5652,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_2_2",
+    "Name": "SE_MP_APT_2_2",
     "Position": {
       "X": -755.5387,
       "Y": 331.7519,
@@ -5664,7 +5664,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_3_2",
+    "Name": "SE_MP_APT_3_2",
     "Position": {
       "X": -755.7,
       "Y": 331.5,
@@ -5676,7 +5676,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_4_2",
+    "Name": "SE_MP_APT_4_2",
     "Position": {
       "X": -800.8968,
       "Y": 325.9796,
@@ -5688,7 +5688,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_5_2",
+    "Name": "SE_MP_APT_5_2",
     "Position": {
       "X": -269.4216,
       "Y": -940.7886,
@@ -5700,7 +5700,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_6_2",
+    "Name": "SE_MP_APT_6_2",
     "Position": {
       "X": -273.7138,
       "Y": -967.5828,
@@ -5712,7 +5712,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_7_2",
+    "Name": "SE_MP_APT_7_2",
     "Position": {
       "X": -1468.316,
       "Y": -545.2313,
@@ -5724,7 +5724,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_8_2",
+    "Name": "SE_MP_APT_8_2",
     "Position": {
       "X": -1468.404,
       "Y": -545.4297,
@@ -5736,7 +5736,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_9_2",
+    "Name": "SE_MP_APT_9_2",
     "Position": {
       "X": -886.9307,
       "Y": -436.4989,
@@ -5748,7 +5748,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_1_3",
+    "Name": "SE_MP_APT_1_3",
     "Position": {
       "X": -777.6,
       "Y": 332.2,
@@ -5760,7 +5760,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_10_3",
+    "Name": "SE_MP_APT_10_3",
     "Position": {
       "X": -894.2,
       "Y": -437.2,
@@ -5772,7 +5772,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_11_3",
+    "Name": "SE_MP_APT_11_3",
     "Position": {
       "X": -891.3,
       "Y": -449.4,
@@ -5784,7 +5784,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_12_3",
+    "Name": "SE_MP_APT_12_3",
     "Position": {
       "X": -21.3,
       "Y": -589.4,
@@ -5796,7 +5796,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_13_3",
+    "Name": "SE_MP_APT_13_3",
     "Position": {
       "X": -23.4,
       "Y": -604.3,
@@ -5808,7 +5808,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_14_3",
+    "Name": "SE_MP_APT_14_3",
     "Position": {
       "X": -919.6,
       "Y": -378.3,
@@ -5820,7 +5820,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_15_3",
+    "Name": "SE_MP_APT_15_3",
     "Position": {
       "X": -910.6,
       "Y": -372.9,
@@ -5832,7 +5832,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_16_3",
+    "Name": "SE_MP_APT_16_3",
     "Position": {
       "X": -599.8,
       "Y": 57.3,
@@ -5844,7 +5844,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_17_3",
+    "Name": "SE_MP_APT_17_3",
     "Position": {
       "X": -601.4,
       "Y": 50.1,
@@ -5856,7 +5856,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_3_3",
+    "Name": "SE_MP_APT_3_3",
     "Position": {
       "X": -778.5,
       "Y": 325.1,
@@ -5868,7 +5868,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_4_3",
+    "Name": "SE_MP_APT_4_3",
     "Position": {
       "X": -778.1,
       "Y": 332.5,
@@ -5880,7 +5880,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_5_3",
+    "Name": "SE_MP_APT_5_3",
     "Position": {
       "X": -271.0,
       "Y": -964.4,
@@ -5892,7 +5892,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_6_3",
+    "Name": "SE_MP_APT_6_3",
     "Position": {
       "X": -272.3,
       "Y": -944.0,
@@ -5904,7 +5904,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_7_3",
+    "Name": "SE_MP_APT_7_3",
     "Position": {
       "X": -1453.4,
       "Y": -526.8,
@@ -5916,7 +5916,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_8_3",
+    "Name": "SE_MP_APT_8_3",
     "Position": {
       "X": -1453.3,
       "Y": -526.8,
@@ -5928,7 +5928,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_9_3",
+    "Name": "SE_MP_APT_9_3",
     "Position": {
       "X": -903.8,
       "Y": -452.7,
@@ -5940,7 +5940,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_2_3",
+    "Name": "SE_MP_APT_2_3",
     "Position": {
       "X": -778.6,
       "Y": 325.0,
@@ -5952,7 +5952,7 @@
     "RadioStation": "hash_B5DD6F19"
   },
   {
-    "Name": "se_mp_apt_new_1_2",
+    "Name": "SE_MP_APT_NEW_1_2",
     "Position": {
       "X": -1465.8,
       "Y": -546.3,
@@ -5964,7 +5964,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_new_2_2",
+    "Name": "SE_MP_APT_NEW_2_2",
     "Position": {
       "X": -909.7,
       "Y": -379.2,
@@ -5976,7 +5976,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_new_3_2",
+    "Name": "SE_MP_APT_NEW_3_2",
     "Position": {
       "X": -605.5,
       "Y": 44.6,
@@ -5988,7 +5988,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_new_4_2",
+    "Name": "SE_MP_APT_NEW_4_2",
     "Position": {
       "X": -782.4,
       "Y": 338.4,
@@ -6000,7 +6000,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_new_5_2",
+    "Name": "SE_MP_APT_NEW_5_2",
     "Position": {
       "X": -23.6,
       "Y": -582.8,
@@ -6012,7 +6012,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_new_1_1",
+    "Name": "SE_MP_APT_NEW_1_1",
     "Position": {
       "X": -1458.129,
       "Y": -550.5645,
@@ -6024,7 +6024,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_new_2_1",
+    "Name": "SE_MP_APT_NEW_2_1",
     "Position": {
       "X": -903.7225,
       "Y": -371.8464,
@@ -6036,7 +6036,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_new_3_1",
+    "Name": "SE_MP_APT_NEW_3_1",
     "Position": {
       "X": -598.2443,
       "Y": 48.7751,
@@ -6048,7 +6048,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_new_4_1",
+    "Name": "SE_MP_APT_NEW_4_1",
     "Position": {
       "X": -789.8164,
       "Y": 334.0169,
@@ -6060,7 +6060,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_new_5_1",
+    "Name": "SE_MP_APT_NEW_5_1",
     "Position": {
       "X": -32.2672,
       "Y": -583.5913,
@@ -6072,7 +6072,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_new_4_3",
+    "Name": "SE_MP_APT_NEW_4_3",
     "Position": {
       "X": -764.1,
       "Y": 326.6,
@@ -6084,7 +6084,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_new_1_3",
+    "Name": "SE_MP_APT_NEW_1_3",
     "Position": {
       "X": -1466.6,
       "Y": -525.1,
@@ -6096,7 +6096,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_new_2_3",
+    "Name": "SE_MP_APT_NEW_2_3",
     "Position": {
       "X": -929.9,
       "Y": -377.2,
@@ -6108,7 +6108,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_new_3_3",
+    "Name": "SE_MP_APT_NEW_3_3",
     "Position": {
       "X": -624.1,
       "Y": 56.0,
@@ -6120,7 +6120,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_new_5_3",
+    "Name": "SE_MP_APT_NEW_5_3",
     "Position": {
       "X": -10.6,
       "Y": -599.4,
@@ -6132,7 +6132,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_ap_rad_v_apart_midspaz_lounge",
+    "Name": "SE_MP_AP_RAD_v_apart_midspaz_lounge",
     "Position": {
       "X": 341.5,
       "Y": -1001.0,
@@ -6144,7 +6144,7 @@
     "RadioStation": "hash_FA17DE37"
   },
   {
-    "Name": "se_mp_ap_rad_v_studio_lo_living",
+    "Name": "SE_MP_AP_RAD_v_studio_lo_living",
     "Position": {
       "X": 263.5,
       "Y": -994.8,
@@ -6156,7 +6156,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "hash_313F2B77",
+    "Name": "SE_MP_GARAGE_L_RADIO",
     "Position": {
       "X": 230.9,
       "Y": -975.5,
@@ -6180,7 +6180,7 @@
     "RadioStation": null
   },
   {
-    "Name": "se_dmod_trailer_radio",
+    "Name": "SE_DMOD_Trailer_Radio",
     "Position": {
       "X": -17.8,
       "Y": -19.9,
@@ -6192,7 +6192,7 @@
     "RadioStation": "hash_4F95BAD7"
   },
   {
-    "Name": "se_dmod_trailer_radio",
+    "Name": "SE_DMOD_Trailer_Radio",
     "Position": {
       "X": -17.8,
       "Y": -19.9,
@@ -6216,7 +6216,7 @@
     "RadioStation": "hash_8437AAEC"
   },
   {
-    "Name": "se_dlc_apt_yacht_bar",
+    "Name": "SE_DLC_APT_Yacht_Bar",
     "Position": {
       "X": 0.0,
       "Y": 0.0,
@@ -6228,7 +6228,7 @@
     "RadioStation": "hash_C7A2843A"
   },
   {
-    "Name": "se_dlc_apt_yacht_bedroom",
+    "Name": "SE_DLC_APT_Yacht_Bedroom",
     "Position": {
       "X": 0.0,
       "Y": 0.0,
@@ -6240,7 +6240,7 @@
     "RadioStation": "hash_C7A2843A"
   },
   {
-    "Name": "se_dlc_apt_yacht_exterior_01",
+    "Name": "SE_DLC_APT_Yacht_Exterior_01",
     "Position": {
       "X": 0.0,
       "Y": 0.0,
@@ -6252,7 +6252,7 @@
     "RadioStation": "hash_C7A2843A"
   },
   {
-    "Name": "se_dlc_apt_yacht_exterior_02",
+    "Name": "SE_DLC_APT_Yacht_Exterior_02",
     "Position": {
       "X": 0.0,
       "Y": 0.0,
@@ -6264,7 +6264,7 @@
     "RadioStation": "hash_C7A2843A"
   },
   {
-    "Name": "se_dlc_apt_yacht_exterior_03",
+    "Name": "SE_DLC_APT_Yacht_Exterior_03",
     "Position": {
       "X": 0.0,
       "Y": 0.0,
@@ -6276,7 +6276,7 @@
     "RadioStation": "hash_C7A2843A"
   },
   {
-    "Name": "se_dlc_apt_yacht_exterior_04",
+    "Name": "SE_DLC_APT_Yacht_Exterior_04",
     "Position": {
       "X": 0.0,
       "Y": 0.0,
@@ -6288,7 +6288,7 @@
     "RadioStation": "hash_C7A2843A"
   },
   {
-    "Name": "se_dlc_apt_yacht_bedroom_02",
+    "Name": "SE_DLC_APT_Yacht_Bedroom_02",
     "Position": {
       "X": 50.0,
       "Y": 50.0,
@@ -6300,7 +6300,7 @@
     "RadioStation": "hash_C7A2843A"
   },
   {
-    "Name": "se_dlc_apt_yacht_bedroom_03",
+    "Name": "SE_DLC_APT_Yacht_Bedroom_03",
     "Position": {
       "X": 50.0,
       "Y": 100.0,
@@ -6312,7 +6312,7 @@
     "RadioStation": "hash_C7A2843A"
   },
   {
-    "Name": "se_dlc_apt_custom_bedroom",
+    "Name": "SE_DLC_APT_Custom_Bedroom",
     "Position": {
       "X": 0.0,
       "Y": 0.0,
@@ -6324,7 +6324,7 @@
     "RadioStation": "hash_C7A2843A"
   },
   {
-    "Name": "se_dlc_apt_custom_heist_room",
+    "Name": "SE_DLC_APT_Custom_Heist_Room",
     "Position": {
       "X": 0.0,
       "Y": 0.0,
@@ -6336,7 +6336,7 @@
     "RadioStation": "hash_C7A2843A"
   },
   {
-    "Name": "se_dlc_apt_custom_living_room",
+    "Name": "SE_DLC_APT_Custom_Living_Room",
     "Position": {
       "X": 0.0,
       "Y": 0.0,
@@ -6348,7 +6348,7 @@
     "RadioStation": "hash_C7A2843A"
   },
   {
-    "Name": "se_dlc_apt_stilts_a_living_room",
+    "Name": "SE_DLC_APT_Stilts_A_Living_Room",
     "Position": {
       "X": 0.0,
       "Y": 0.0,
@@ -6360,7 +6360,7 @@
     "RadioStation": "hash_C7A2843A"
   },
   {
-    "Name": "se_dlc_apt_stilts_a_bedroom",
+    "Name": "SE_DLC_APT_Stilts_A_Bedroom",
     "Position": {
       "X": 0.0,
       "Y": 0.0,
@@ -6372,7 +6372,7 @@
     "RadioStation": "hash_C7A2843A"
   },
   {
-    "Name": "se_dlc_apt_stilts_a_heist_room",
+    "Name": "SE_DLC_APT_Stilts_A_Heist_Room",
     "Position": {
       "X": 0.0,
       "Y": 0.0,
@@ -6384,7 +6384,7 @@
     "RadioStation": "hash_C7A2843A"
   },
   {
-    "Name": "se_dlc_apt_stilts_b_living_room",
+    "Name": "SE_DLC_APT_Stilts_B_Living_Room",
     "Position": {
       "X": 0.0,
       "Y": 0.0,
@@ -6396,7 +6396,7 @@
     "RadioStation": "hash_C7A2843A"
   },
   {
-    "Name": "se_dlc_apt_stilts_b_heist_room",
+    "Name": "SE_DLC_APT_Stilts_B_Heist_Room",
     "Position": {
       "X": 0.0,
       "Y": 0.0,
@@ -6408,7 +6408,7 @@
     "RadioStation": "hash_C7A2843A"
   },
   {
-    "Name": "se_dlc_apt_stilts_b_bedroom",
+    "Name": "SE_DLC_APT_Stilts_B_Bedroom",
     "Position": {
       "X": 0.0,
       "Y": 0.0,
@@ -6420,7 +6420,7 @@
     "RadioStation": "hash_C7A2843A"
   },
   {
-    "Name": "se_ex_int_office_01a_radio_01",
+    "Name": "SE_ex_int_office_01a_Radio_01",
     "Position": {
       "X": -1370.74,
       "Y": -476.02,
@@ -6432,7 +6432,7 @@
     "RadioStation": "hash_4F95BAD7"
   },
   {
-    "Name": "se_ex_int_office_01b_radio_01",
+    "Name": "SE_ex_int_office_01b_Radio_01",
     "Position": {
       "X": -1370.74,
       "Y": -476.02,
@@ -6444,7 +6444,7 @@
     "RadioStation": "hash_4F95BAD7"
   },
   {
-    "Name": "se_ex_int_office_01c_radio_01",
+    "Name": "SE_ex_int_office_01c_Radio_01",
     "Position": {
       "X": -1370.74,
       "Y": -476.02,
@@ -6456,7 +6456,7 @@
     "RadioStation": "hash_4F95BAD7"
   },
   {
-    "Name": "se_ex_int_office_02a_radio_01",
+    "Name": "SE_ex_int_office_02a_Radio_01",
     "Position": {
       "X": -1370.74,
       "Y": -476.02,
@@ -6468,7 +6468,7 @@
     "RadioStation": "hash_4F95BAD7"
   },
   {
-    "Name": "se_ex_int_office_02b_radio_01",
+    "Name": "SE_ex_int_office_02b_Radio_01",
     "Position": {
       "X": -1370.74,
       "Y": -476.02,
@@ -6480,7 +6480,7 @@
     "RadioStation": "hash_4F95BAD7"
   },
   {
-    "Name": "se_ex_int_office_02c_radio_01",
+    "Name": "SE_ex_int_office_02c_Radio_01",
     "Position": {
       "X": -1370.74,
       "Y": -476.02,
@@ -6492,7 +6492,7 @@
     "RadioStation": "hash_4F95BAD7"
   },
   {
-    "Name": "se_ex_int_office_03a_radio_01",
+    "Name": "SE_ex_int_office_03a_Radio_01",
     "Position": {
       "X": -1370.74,
       "Y": -476.02,
@@ -6504,7 +6504,7 @@
     "RadioStation": "hash_4F95BAD7"
   },
   {
-    "Name": "se_ex_int_office_03b_radio_01",
+    "Name": "SE_ex_int_office_03b_Radio_01",
     "Position": {
       "X": -1370.74,
       "Y": -476.02,
@@ -6516,7 +6516,7 @@
     "RadioStation": "hash_4F95BAD7"
   },
   {
-    "Name": "se_ex_int_office_03c_radio_01",
+    "Name": "SE_ex_int_office_03c_Radio_01",
     "Position": {
       "X": -1370.74,
       "Y": -476.02,
@@ -6528,7 +6528,7 @@
     "RadioStation": "hash_4F95BAD7"
   },
   {
-    "Name": "se_exec_wh_s_radio",
+    "Name": "SE_EXEC_WH_S_RADIO",
     "Position": {
       "X": 1103.2,
       "Y": -3101.2,
@@ -6540,7 +6540,7 @@
     "RadioStation": "hash_B0962EE0"
   },
   {
-    "Name": "se_exec_wh_m_radio",
+    "Name": "SE_EXEC_WH_M_RADIO",
     "Position": {
       "X": 1048.45,
       "Y": -3100.01,
@@ -6552,7 +6552,7 @@
     "RadioStation": "hash_B0962EE0"
   },
   {
-    "Name": "se_exec_wh_l_radio",
+    "Name": "SE_EXEC_WH_L_RADIO",
     "Position": {
       "X": 995.45,
       "Y": -3097.59,
@@ -6564,7 +6564,7 @@
     "RadioStation": "hash_4F95BAD7"
   },
   {
-    "Name": "se_dlc_biker_tequilala_exterior_emitter",
+    "Name": "SE_DLC_Biker_Tequilala_Exterior_Emitter",
     "Position": {
       "X": -564.5,
       "Y": 274.4,
@@ -6576,7 +6576,7 @@
     "RadioStation": "hash_C1400C2E"
   },
   {
-    "Name": "se_bkr_biker_dlc_int_01_bar",
+    "Name": "SE_bkr_biker_dlc_int_01_BAR",
     "Position": {
       "X": 1123.0,
       "Y": -3148.0,
@@ -6588,7 +6588,7 @@
     "RadioStation": "hidden_radio_biker_classic_rock"
   },
   {
-    "Name": "se_bkr_biker_dlc_int_01_rec",
+    "Name": "SE_bkr_biker_dlc_int_01_REC",
     "Position": {
       "X": 1115.0,
       "Y": -3155.0,
@@ -6600,7 +6600,7 @@
     "RadioStation": "hidden_radio_biker_classic_rock"
   },
   {
-    "Name": "se_bkr_biker_dlc_int_01_grg",
+    "Name": "SE_bkr_biker_dlc_int_01_GRG",
     "Position": {
       "X": 1103.0,
       "Y": -3156.0,
@@ -6612,7 +6612,7 @@
     "RadioStation": "hidden_radio_biker_classic_rock"
   },
   {
-    "Name": "se_bkr_biker_dlc_int_02_rec",
+    "Name": "SE_bkr_biker_dlc_int_02_REC",
     "Position": {
       "X": 1005.2,
       "Y": -3166.3,
@@ -6624,7 +6624,7 @@
     "RadioStation": "hidden_radio_biker_classic_rock"
   },
   {
-    "Name": "se_bkr_biker_dlc_int_02_grg",
+    "Name": "SE_bkr_biker_dlc_int_02_GRG",
     "Position": {
       "X": 1005.3,
       "Y": -3160.2,
@@ -6684,7 +6684,7 @@
     "RadioStation": "hash_AEB03A8F"
   },
   {
-    "Name": "se_dlc_biker_meth_warehouse_radio",
+    "Name": "SE_DLC_Biker_Meth_Warehouse_Radio",
     "Position": {
       "X": 1002.0,
       "Y": -3193.95,
@@ -6696,7 +6696,7 @@
     "RadioStation": "hash_B827A5D2"
   },
   {
-    "Name": "se_dlc_biker_weed_warehouse_radio",
+    "Name": "SE_DLC_Biker_Weed_Warehouse_Radio",
     "Position": {
       "X": 1030.82,
       "Y": -3204.5,
@@ -6708,7 +6708,7 @@
     "RadioStation": "hash_5F076ABF"
   },
   {
-    "Name": "se_dlc_biker_crack_warehouse_radio",
+    "Name": "SE_DLC_Biker_Crack_Warehouse_Radio",
     "Position": {
       "X": 1086.0,
       "Y": -3195.56,
@@ -6720,7 +6720,7 @@
     "RadioStation": "hash_00572C04"
   },
   {
-    "Name": "se_dlc_biker_cash_warehouse_radio",
+    "Name": "SE_DLC_Biker_Cash_Warehouse_Radio",
     "Position": {
       "X": 1130.1,
       "Y": -3193.3,
@@ -6732,7 +6732,7 @@
     "RadioStation": "hash_908F83E2"
   },
   {
-    "Name": "se_dlc_biker_fakeid_warehouse_radio",
+    "Name": "SE_DLC_Biker_FakeID_Warehouse_Radio",
     "Position": {
       "X": 1156.2,
       "Y": -3196.4,
@@ -6756,7 +6756,7 @@
     "RadioStation": "hash_3B91F5CC"
   },
   {
-    "Name": "dlc_ie_steal_photo_shoot_wind_farm_radio_emitter",
+    "Name": "DLC_IE_Steal_Photo_Shoot_Wind_Farm_Radio_Emitter",
     "Position": {
       "X": 2166.0,
       "Y": 2111.0,
@@ -6768,7 +6768,7 @@
     "RadioStation": "hash_3B91F5CC"
   },
   {
-    "Name": "dlc_ie_steal_photo_shoot_pier_radio_emitter",
+    "Name": "DLC_IE_Steal_Photo_Shoot_Pier_Radio_Emitter",
     "Position": {
       "X": -1709.3,
       "Y": -1000.0,
@@ -6780,7 +6780,7 @@
     "RadioStation": "hash_3B91F5CC"
   },
   {
-    "Name": "dlc_ie_steal_photo_shoot_sonora_desert_radio_emitter",
+    "Name": "DLC_IE_Steal_Photo_Shoot_Sonora_Desert_Radio_Emitter",
     "Position": {
       "X": 642.3,
       "Y": 3004.4,
@@ -6804,7 +6804,7 @@
     "RadioStation": "hash_90D167B0"
   },
   {
-    "Name": "dlc_ie_steal_pool_party_lake_vine_radio_emitter",
+    "Name": "DLC_IE_Steal_Pool_Party_Lake_Vine_Radio_Emitter",
     "Position": {
       "X": -138.0,
       "Y": 869.0,
@@ -6816,7 +6816,7 @@
     "RadioStation": "hash_90D167B0"
   },
   {
-    "Name": "dlc_ie_steal_pool_party_milton_rd__radio_emitter",
+    "Name": "DLC_IE_Steal_Pool_Party_Milton_Rd__Radio_Emitter",
     "Position": {
       "X": -667.0,
       "Y": 861.0,
@@ -6852,7 +6852,7 @@
     "RadioStation": "hash_00572C04"
   },
   {
-    "Name": "dlc_ie_warehouse_radio_01",
+    "Name": "DLC_IE_Warehouse_Radio_01",
     "Position": {
       "X": 970.9,
       "Y": -3003.0,
@@ -6864,7 +6864,7 @@
     "RadioStation": "hash_C7A2843A"
   },
   {
-    "Name": "dlc_ie_office_garage_radio_01",
+    "Name": "DLC_IE_Office_Garage_Radio_01",
     "Position": {
       "X": -82.1,
       "Y": -826.5,
@@ -6876,7 +6876,7 @@
     "RadioStation": "hash_90D167B0"
   },
   {
-    "Name": "dlc_ie_office_garage_mod_shop_radio_01",
+    "Name": "DLC_IE_Office_Garage_Mod_Shop_Radio_01",
     "Position": {
       "X": -73.3,
       "Y": -823.6,
@@ -6888,7 +6888,7 @@
     "RadioStation": "hash_90D167B0"
   },
   {
-    "Name": "se_dlc_gr_moc_radio_01",
+    "Name": "SE_DLC_GR_MOC_Radio_01",
     "Position": {
       "X": 1102.0,
       "Y": -2990.0,
@@ -6984,7 +6984,7 @@
     "RadioStation": null
   },
   {
-    "Name": "se_dlc_sm_hangar_radio_mechanic",
+    "Name": "SE_DLC_SM_Hangar_Radio_Mechanic",
     "Position": {
       "X": -1298.94,
       "Y": -3012.248,
@@ -6996,7 +6996,7 @@
     "RadioStation": "hash_C4749814"
   },
   {
-    "Name": "se_dlc_sm_hangar_radio_office_01",
+    "Name": "SE_DLC_SM_Hangar_Radio_Office_01",
     "Position": {
       "X": -1234.37,
       "Y": -3015.63,
@@ -7008,7 +7008,7 @@
     "RadioStation": "hash_C4749814"
   },
   {
-    "Name": "se_dlc_sm_hangar_radio_office_02",
+    "Name": "SE_DLC_SM_Hangar_Radio_Office_02",
     "Position": {
       "X": -1241.23,
       "Y": -3015.65,
@@ -7020,7 +7020,7 @@
     "RadioStation": "hash_C4749814"
   },
   {
-    "Name": "se_dlc_sm_hangar_radio_office_03",
+    "Name": "SE_DLC_SM_Hangar_Radio_Office_03",
     "Position": {
       "X": -1241.29,
       "Y": -3000.52,
@@ -7032,7 +7032,7 @@
     "RadioStation": "hash_C4749814"
   },
   {
-    "Name": "se_dlc_sm_hangar_radio_office_04",
+    "Name": "SE_DLC_SM_Hangar_Radio_Office_04",
     "Position": {
       "X": -1234.49,
       "Y": -3000.43,
@@ -7044,7 +7044,7 @@
     "RadioStation": "hash_C4749814"
   },
   {
-    "Name": "se_dlc_sm_hangar_radio_living_quarters_01",
+    "Name": "SE_DLC_SM_Hangar_Radio_Living_Quarters_01",
     "Position": {
       "X": -1241.74,
       "Y": -2982.49,
@@ -7056,7 +7056,7 @@
     "RadioStation": "hash_C4749814"
   },
   {
-    "Name": "se_dlc_sm_hangar_radio_living_quarters_02",
+    "Name": "SE_DLC_SM_Hangar_Radio_Living_Quarters_02",
     "Position": {
       "X": -1232.39,
       "Y": -2986.74,
@@ -7068,7 +7068,7 @@
     "RadioStation": "hash_C4749814"
   },
   {
-    "Name": "se_mp_garage_m_radio",
+    "Name": "SE_MP_GARAGE_M_RADIO",
     "Position": {
       "X": 202.23,
       "Y": -994.03,
@@ -7140,7 +7140,7 @@
     "RadioStation": "radio_22_dlc_battle_mix1_club"
   },
   {
-    "Name": "se_ba_dlc_int_01_entry_hall",
+    "Name": "SE_ba_dlc_int_01_Entry_Hall",
     "Position": {
       "X": -1569.3,
       "Y": -3005.8,
@@ -7152,7 +7152,7 @@
     "RadioStation": "radio_22_dlc_battle_mix1_club"
   },
   {
-    "Name": "se_ba_dlc_int_01_entry_stairs",
+    "Name": "SE_ba_dlc_int_01_Entry_Stairs",
     "Position": {
       "X": -1573.8,
       "Y": -3003.4,
@@ -7164,7 +7164,7 @@
     "RadioStation": "radio_22_dlc_battle_mix1_club"
   },
   {
-    "Name": "se_ba_dlc_int_01_garage",
+    "Name": "SE_ba_dlc_int_01_garage",
     "Position": {
       "X": -1623.0,
       "Y": -2998.0,
@@ -7176,7 +7176,7 @@
     "RadioStation": "radio_22_dlc_battle_mix1_club"
   },
   {
-    "Name": "se_ba_dlc_int_01_main_area",
+    "Name": "SE_ba_dlc_int_01_main_area",
     "Position": {
       "X": -1601.2,
       "Y": -3012.6,
@@ -7188,7 +7188,7 @@
     "RadioStation": "radio_22_dlc_battle_mix1_club"
   },
   {
-    "Name": "se_ba_dlc_int_01_office",
+    "Name": "SE_ba_dlc_int_01_office",
     "Position": {
       "X": -1607.8,
       "Y": -3014.0,
@@ -7200,7 +7200,7 @@
     "RadioStation": "radio_22_dlc_battle_mix1_club"
   },
   {
-    "Name": "se_ba_dlc_int_01_rear_l_corridor",
+    "Name": "SE_ba_dlc_int_01_rear_L_corridor",
     "Position": {
       "X": -1607.9,
       "Y": -3006.1,
@@ -7212,7 +7212,7 @@
     "RadioStation": "radio_22_dlc_battle_mix1_club"
   },
   {
-    "Name": "se_ba_dlc_club_exterior",
+    "Name": "SE_ba_dlc_club_exterior",
     "Position": {
       "X": 762.0,
       "Y": -1332.0,
@@ -7224,7 +7224,7 @@
     "RadioStation": "radio_22_dlc_battle_mix1_club"
   },
   {
-    "Name": "se_ba_dlc_int_01_bogs",
+    "Name": "SE_ba_dlc_int_01_Bogs",
     "Position": {
       "X": -1609.6,
       "Y": -3007.2,
@@ -7236,7 +7236,7 @@
     "RadioStation": "radio_22_dlc_battle_mix1_club"
   },
   {
-    "Name": "se_ba_dlc_int_01_main_area_2",
+    "Name": "SE_ba_dlc_int_01_main_area_2",
     "Position": {
       "X": -1577.0,
       "Y": -3003.6,
@@ -7272,7 +7272,7 @@
     "RadioStation": "radio_22_dlc_battle_mix1_radio"
   },
   {
-    "Name": "se_dlc_btl_yacht_exterior_01",
+    "Name": "SE_DLC_BTL_Yacht_Exterior_01",
     "Position": {
       "X": 0.0,
       "Y": 0.0,
@@ -7284,7 +7284,7 @@
     "RadioStation": "hash_90D167B0"
   },
   {
-    "Name": "se_dlc_aw_arena_crowd_background_main",
+    "Name": "SE_DLC_AW_Arena_Crowd_Background_Main",
     "Position": {
       "X": 2800.0,
       "Y": -3800.0,
@@ -7320,7 +7320,7 @@
     "RadioStation": null
   },
   {
-    "Name": "se_dlc_aw_xs_arena_vip_radio",
+    "Name": "SE_DLC_AW_xs_arena_VIP_Radio",
     "Position": {
       "X": 2802.0,
       "Y": -3941.0,
@@ -7332,7 +7332,7 @@
     "RadioStation": "hash_C7A2843A"
   },
   {
-    "Name": "se_dlc_aw_xs_x18_int_mod_garage_radio",
+    "Name": "SE_DLC_AW_xs_x18_int_mod_garage_radio",
     "Position": {
       "X": 202.5,
       "Y": 5186.4,
@@ -7368,7 +7368,7 @@
     "RadioStation": null
   },
   {
-    "Name": "se_dlc_aw_xs_x18_int_mod2_garage_radio",
+    "Name": "SE_DLC_AW_xs_x18_int_mod2_garage_radio",
     "Position": {
       "X": 172.9,
       "Y": 5198.5,
@@ -7380,7 +7380,7 @@
     "RadioStation": "hash_C7A2843A"
   },
   {
-    "Name": "se_vw_dlc_casino_apart_apart_default_room_radio",
+    "Name": "se_vw_dlc_casino_apart_Apart_Default_Room_radio",
     "Position": {
       "X": 969.2,
       "Y": 72.8,
@@ -7392,7 +7392,7 @@
     "RadioStation": "hash_C7A2843A"
   },
   {
-    "Name": "se_vw_dlc_casino_apart_apart_lounge_room_radio",
+    "Name": "se_vw_dlc_casino_apart_Apart_Lounge_Room_radio",
     "Position": {
       "X": 962.0,
       "Y": 49.5,
@@ -7404,7 +7404,7 @@
     "RadioStation": "hash_C7A2843A"
   },
   {
-    "Name": "se_vw_dlc_casino_apart_apart_arcade_room_radio",
+    "Name": "se_vw_dlc_casino_apart_Apart_Arcade_Room_radio",
     "Position": {
       "X": 946.5,
       "Y": 16.0,
@@ -7416,7 +7416,7 @@
     "RadioStation": "hash_C7A2843A"
   },
   {
-    "Name": "se_vw_dlc_casino_apart_apart_spa_room_water",
+    "Name": "se_vw_dlc_casino_apart_Apart_Spa_Room_Water",
     "Position": {
       "X": 949.7,
       "Y": 13.6,
@@ -7428,7 +7428,7 @@
     "RadioStation": null
   },
   {
-    "Name": "se_vw_dlc_casino_apart_apart_party_music_01",
+    "Name": "se_vw_dlc_casino_apart_Apart_Party_Music_01",
     "Position": {
       "X": 946.5,
       "Y": 16.0,
@@ -7440,7 +7440,7 @@
     "RadioStation": "hidden_radio_casino_penthouse_p"
   },
   {
-    "Name": "se_vw_dlc_casino_apart_apart_party_music_02",
+    "Name": "se_vw_dlc_casino_apart_Apart_Party_Music_02",
     "Position": {
       "X": 953.2,
       "Y": 11.1,
@@ -7452,7 +7452,7 @@
     "RadioStation": "hidden_radio_casino_penthouse_p"
   },
   {
-    "Name": "se_vw_dlc_casino_apart_apart_party_music_03",
+    "Name": "se_vw_dlc_casino_apart_Apart_Party_Music_03",
     "Position": {
       "X": 965.0,
       "Y": 36.0,
@@ -7668,7 +7668,7 @@
     "RadioStation": "hidden_radio_casino"
   },
   {
-    "Name": "dlc_h3_arcade_main_area_music_emitter",
+    "Name": "DLC_H3_Arcade_Main_Area_Music_Emitter",
     "Position": {
       "X": 2721.0,
       "Y": -381.0,
@@ -7680,7 +7680,7 @@
     "RadioStation": "hidden_radio_arcade_edm"
   },
   {
-    "Name": "dlc_h3_arcade_planning_room_radio_emitter",
+    "Name": "DLC_H3_Arcade_Planning_Room_Radio_Emitter",
     "Position": {
       "X": 2717.0,
       "Y": -363.0,
@@ -7692,7 +7692,7 @@
     "RadioStation": "hidden_radio_arcade_edm"
   },
   {
-    "Name": "dlc_h3_fm_prep_explosives_radio",
+    "Name": "DLC_H3_FM_Prep_Explosives_Radio",
     "Position": {
       "X": 1742.0,
       "Y": 3863.0,
@@ -7704,7 +7704,7 @@
     "RadioStation": "hash_C343DA28"
   },
   {
-    "Name": "dlc_h3_fm_cashier_radio_01",
+    "Name": "DLC_H3_FM_Cashier_Radio_01",
     "Position": {
       "X": -1226.0,
       "Y": 622.0,
@@ -7716,7 +7716,7 @@
     "RadioStation": "hash_90D167B0"
   },
   {
-    "Name": "dlc_h3_fm_cashier_radio_02",
+    "Name": "DLC_H3_FM_Cashier_Radio_02",
     "Position": {
       "X": -1221.0,
       "Y": 628.0,
@@ -7728,7 +7728,7 @@
     "RadioStation": "hash_90D167B0"
   },
   {
-    "Name": "dlc_h3_fm_cashier_radio_03",
+    "Name": "DLC_H3_FM_Cashier_Radio_03",
     "Position": {
       "X": -1985.0,
       "Y": 246.0,
@@ -7740,7 +7740,7 @@
     "RadioStation": "hash_90D167B0"
   },
   {
-    "Name": "dlc_h3_fm_cashier_radio_04",
+    "Name": "DLC_H3_FM_Cashier_Radio_04",
     "Position": {
       "X": -1984.0,
       "Y": 228.0,
@@ -7752,7 +7752,7 @@
     "RadioStation": "hash_90D167B0"
   },
   {
-    "Name": "se_mp_apt_1_1",
+    "Name": "SE_MP_APT_1_1",
     "Position": {
       "X": -794.9223,
       "Y": 335.2936,
@@ -7764,7 +7764,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_10_1",
+    "Name": "SE_MP_APT_10_1",
     "Position": {
       "X": -911.0636,
       "Y": -442.4949,
@@ -7776,7 +7776,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_11_1",
+    "Name": "SE_MP_APT_11_1",
     "Position": {
       "X": -896.4674,
       "Y": -432.5596,
@@ -7788,7 +7788,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_12_1",
+    "Name": "SE_MP_APT_12_1",
     "Position": {
       "X": -36.7097,
       "Y": -580.7258,
@@ -7800,7 +7800,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_13_1",
+    "Name": "SE_MP_APT_13_1",
     "Position": {
       "X": -14.6156,
       "Y": -589.1295,
@@ -7812,7 +7812,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_14_1",
+    "Name": "SE_MP_APT_14_1",
     "Position": {
       "X": -902.5886,
       "Y": -372.8203,
@@ -7824,7 +7824,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_15_1",
+    "Name": "SE_MP_APT_15_1",
     "Position": {
       "X": -927.3589,
       "Y": -378.412,
@@ -7836,7 +7836,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_16_1",
+    "Name": "SE_MP_APT_16_1",
     "Position": {
       "X": -617.0798,
       "Y": 60.2634,
@@ -7848,7 +7848,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_17_1",
+    "Name": "SE_MP_APT_17_1",
     "Position": {
       "X": -584.1865,
       "Y": 47.1539,
@@ -7860,7 +7860,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_2_1",
+    "Name": "SE_MP_APT_2_1",
     "Position": {
       "X": -760.9844,
       "Y": 322.1198,
@@ -7872,7 +7872,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_3_1",
+    "Name": "SE_MP_APT_3_1",
     "Position": {
       "X": -761.1333,
       "Y": 322.093,
@@ -7884,7 +7884,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_4_1",
+    "Name": "SE_MP_APT_4_1",
     "Position": {
       "X": -795.3694,
       "Y": 335.5568,
@@ -7896,7 +7896,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_5_1",
+    "Name": "SE_MP_APT_5_1",
     "Position": {
       "X": -262.3579,
       "Y": -949.122,
@@ -7908,7 +7908,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_6_1",
+    "Name": "SE_MP_APT_6_1",
     "Position": {
       "X": -280.8582,
       "Y": -959.214,
@@ -7920,7 +7920,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_7_1",
+    "Name": "SE_MP_APT_7_1",
     "Position": {
       "X": -1469.336,
       "Y": -534.425,
@@ -7932,7 +7932,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_8_1",
+    "Name": "SE_MP_APT_8_1",
     "Position": {
       "X": -1469.288,
       "Y": -534.4252,
@@ -7944,7 +7944,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_9_1",
+    "Name": "SE_MP_APT_9_1",
     "Position": {
       "X": -887.3753,
       "Y": -447.638,
@@ -7956,7 +7956,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_1_2",
+    "Name": "SE_MP_APT_1_2",
     "Position": {
       "X": -800.4615,
       "Y": 325.5955,
@@ -7968,7 +7968,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_10_2",
+    "Name": "SE_MP_APT_10_2",
     "Position": {
       "X": -911.6201,
       "Y": -453.4501,
@@ -7980,7 +7980,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_11_2",
+    "Name": "SE_MP_APT_11_2",
     "Position": {
       "X": -907.5391,
       "Y": -431.8744,
@@ -7992,7 +7992,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_12_2",
+    "Name": "SE_MP_APT_12_2",
     "Position": {
       "X": -44.9845,
       "Y": -587.6182,
@@ -8004,7 +8004,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_13_2",
+    "Name": "SE_MP_APT_13_2",
     "Position": {
       "X": -21.7007,
       "Y": -580.7242,
@@ -8016,7 +8016,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_14_2",
+    "Name": "SE_MP_APT_14_2",
     "Position": {
       "X": -902.1055,
       "Y": -361.618,
@@ -8028,7 +8028,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_15_2",
+    "Name": "SE_MP_APT_15_2",
     "Position": {
       "X": -927.8866,
       "Y": -389.6428,
@@ -8040,7 +8040,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_16_2",
+    "Name": "SE_MP_APT_16_2",
     "Position": {
       "X": -622.583,
       "Y": 50.7034,
@@ -8052,7 +8052,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_17_2",
+    "Name": "SE_MP_APT_17_2",
     "Position": {
       "X": -578.6264,
       "Y": 56.7979,
@@ -8064,7 +8064,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_2_2",
+    "Name": "SE_MP_APT_2_2",
     "Position": {
       "X": -755.5387,
       "Y": 331.7519,
@@ -8076,7 +8076,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_3_2",
+    "Name": "SE_MP_APT_3_2",
     "Position": {
       "X": -755.7,
       "Y": 331.5,
@@ -8088,7 +8088,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_4_2",
+    "Name": "SE_MP_APT_4_2",
     "Position": {
       "X": -800.8968,
       "Y": 325.9796,
@@ -8100,7 +8100,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_5_2",
+    "Name": "SE_MP_APT_5_2",
     "Position": {
       "X": -269.4216,
       "Y": -940.7886,
@@ -8112,7 +8112,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_6_2",
+    "Name": "SE_MP_APT_6_2",
     "Position": {
       "X": -273.7138,
       "Y": -967.5828,
@@ -8124,7 +8124,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_7_2",
+    "Name": "SE_MP_APT_7_2",
     "Position": {
       "X": -1468.316,
       "Y": -545.2313,
@@ -8136,7 +8136,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_8_2",
+    "Name": "SE_MP_APT_8_2",
     "Position": {
       "X": -1468.404,
       "Y": -545.4297,
@@ -8148,7 +8148,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_9_2",
+    "Name": "SE_MP_APT_9_2",
     "Position": {
       "X": -886.9307,
       "Y": -436.4989,
@@ -8160,7 +8160,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_1_3",
+    "Name": "SE_MP_APT_1_3",
     "Position": {
       "X": -777.6,
       "Y": 332.2,
@@ -8172,7 +8172,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_10_3",
+    "Name": "SE_MP_APT_10_3",
     "Position": {
       "X": -894.2,
       "Y": -437.2,
@@ -8184,7 +8184,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_11_3",
+    "Name": "SE_MP_APT_11_3",
     "Position": {
       "X": -891.3,
       "Y": -449.4,
@@ -8196,7 +8196,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_12_3",
+    "Name": "SE_MP_APT_12_3",
     "Position": {
       "X": -21.3,
       "Y": -589.4,
@@ -8208,7 +8208,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_13_3",
+    "Name": "SE_MP_APT_13_3",
     "Position": {
       "X": -23.4,
       "Y": -604.3,
@@ -8220,7 +8220,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_14_3",
+    "Name": "SE_MP_APT_14_3",
     "Position": {
       "X": -919.6,
       "Y": -378.3,
@@ -8232,7 +8232,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_15_3",
+    "Name": "SE_MP_APT_15_3",
     "Position": {
       "X": -910.6,
       "Y": -372.9,
@@ -8244,7 +8244,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_16_3",
+    "Name": "SE_MP_APT_16_3",
     "Position": {
       "X": -599.8,
       "Y": 57.3,
@@ -8256,7 +8256,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_17_3",
+    "Name": "SE_MP_APT_17_3",
     "Position": {
       "X": -601.4,
       "Y": 50.1,
@@ -8268,7 +8268,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_3_3",
+    "Name": "SE_MP_APT_3_3",
     "Position": {
       "X": -778.5,
       "Y": 325.1,
@@ -8280,7 +8280,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_4_3",
+    "Name": "SE_MP_APT_4_3",
     "Position": {
       "X": -778.1,
       "Y": 332.5,
@@ -8292,7 +8292,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_5_3",
+    "Name": "SE_MP_APT_5_3",
     "Position": {
       "X": -271.0,
       "Y": -964.4,
@@ -8304,7 +8304,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_6_3",
+    "Name": "SE_MP_APT_6_3",
     "Position": {
       "X": -272.3,
       "Y": -944.0,
@@ -8316,7 +8316,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_7_3",
+    "Name": "SE_MP_APT_7_3",
     "Position": {
       "X": -1453.4,
       "Y": -526.8,
@@ -8328,7 +8328,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_8_3",
+    "Name": "SE_MP_APT_8_3",
     "Position": {
       "X": -1453.3,
       "Y": -526.8,
@@ -8340,7 +8340,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_9_3",
+    "Name": "SE_MP_APT_9_3",
     "Position": {
       "X": -903.8,
       "Y": -452.7,
@@ -8352,7 +8352,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_2_3",
+    "Name": "SE_MP_APT_2_3",
     "Position": {
       "X": -778.6,
       "Y": 325.0,
@@ -8364,7 +8364,7 @@
     "RadioStation": "hash_B5DD6F19"
   },
   {
-    "Name": "se_mp_apt_new_1_2",
+    "Name": "SE_MP_APT_NEW_1_2",
     "Position": {
       "X": -1463.221,
       "Y": -549.78,
@@ -8376,7 +8376,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_new_2_2",
+    "Name": "SE_MP_APT_NEW_2_2",
     "Position": {
       "X": -904.9166,
       "Y": -377.3337,
@@ -8388,7 +8388,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_new_3_2",
+    "Name": "SE_MP_APT_NEW_3_2",
     "Position": {
       "X": -601.3,
       "Y": 44.7,
@@ -8400,7 +8400,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_new_4_2",
+    "Name": "SE_MP_APT_NEW_4_2",
     "Position": {
       "X": -786.3643,
       "Y": 338.007,
@@ -8412,7 +8412,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_new_5_2",
+    "Name": "SE_MP_APT_NEW_5_2",
     "Position": {
       "X": -27.7171,
       "Y": -581.4523,
@@ -8424,7 +8424,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_new_1_1",
+    "Name": "SE_MP_APT_NEW_1_1",
     "Position": {
       "X": -1458.2,
       "Y": -550.5645,
@@ -8436,7 +8436,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_new_2_1",
+    "Name": "SE_MP_APT_NEW_2_1",
     "Position": {
       "X": -903.7225,
       "Y": -371.8464,
@@ -8448,7 +8448,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_new_3_1",
+    "Name": "SE_MP_APT_NEW_3_1",
     "Position": {
       "X": -598.2443,
       "Y": 48.7751,
@@ -8460,7 +8460,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_new_4_1",
+    "Name": "SE_MP_APT_NEW_4_1",
     "Position": {
       "X": -789.8164,
       "Y": 334.0169,
@@ -8472,7 +8472,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_new_5_1",
+    "Name": "SE_MP_APT_NEW_5_1",
     "Position": {
       "X": -32.2672,
       "Y": -583.5913,
@@ -8484,7 +8484,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_new_4_3",
+    "Name": "SE_MP_APT_NEW_4_3",
     "Position": {
       "X": -764.1,
       "Y": 326.6,
@@ -8496,7 +8496,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_new_1_3",
+    "Name": "SE_MP_APT_NEW_1_3",
     "Position": {
       "X": -1466.6,
       "Y": -525.1,
@@ -8508,7 +8508,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_new_2_3",
+    "Name": "SE_MP_APT_NEW_2_3",
     "Position": {
       "X": -929.9,
       "Y": -377.2,
@@ -8520,7 +8520,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_new_3_3",
+    "Name": "SE_MP_APT_NEW_3_3",
     "Position": {
       "X": -624.1,
       "Y": 56.0,
@@ -8532,7 +8532,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_apt_new_5_3",
+    "Name": "SE_MP_APT_NEW_5_3",
     "Position": {
       "X": -10.6,
       "Y": -599.4,
@@ -8544,7 +8544,7 @@
     "RadioStation": "hash_09E34587"
   },
   {
-    "Name": "se_mp_ap_rad_v_apart_midspaz_lounge",
+    "Name": "SE_MP_AP_RAD_v_apart_midspaz_lounge",
     "Position": {
       "X": 341.5,
       "Y": -1001.0,
@@ -8556,7 +8556,7 @@
     "RadioStation": "hash_FA17DE37"
   },
   {
-    "Name": "se_mp_ap_rad_v_studio_lo_living",
+    "Name": "SE_MP_AP_RAD_v_studio_lo_living",
     "Position": {
       "X": 263.5,
       "Y": -994.8,

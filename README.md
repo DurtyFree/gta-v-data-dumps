@@ -13,7 +13,7 @@ If you are in search for an easy way to browse those GTA V data ingame, feel fre
 - **Speech Voices** (speeches.json) **1018** speech voices with **150055** speeches in total (Usable with PLAY AMBIENT SPEECH natives)
 - **Particle Effects** (particleEffectsCompact.json) **273** particle effect dictionaries & **1286** particle effects in total (Usable with START PARTICLE FX natives)
 - **(Ped) Scenarios** (scenariosCompact.json) **239** scenarios in total (Usable with scenario related natives)
-- **Animations** (animDictsCompact.json) **16363** animation dictionaries & **167315** animations in total (Usable with TASK PLAY ANIM native)
+- **Animations** (animDictsCompact.json) **16355** animation dictionaries & **167276** animations in total (Usable with TASK PLAY ANIM native)
 - **Movement Clipsets** (movementClipsetsCompact.json) **557** movement clipsets in total (Usable with SET PED MOVEMENT CLIPSET native)
 - **(Walking) Movement Clipsets** (movementClipsetsWalkingCompact.json) **207** movement clipsets in total (Usable with SET PED MOVEMENT CLIPSET native)
 - **(Vehicle Navigation) Nodes** (JSON Download: https://mega.nz/file/BYJlwI7Y#irDL_oKMHHjYwtn8YmZeBCIFsEliLZ4LCdidz9udraQ) **259** node cells with **77991** nodes in total (Mostly useful for vehicle navigation, see navigation meshes dump for ped navigation data)
@@ -40,7 +40,7 @@ If you are in search for an easy way to browse those GTA V data ingame, feel fre
 ## **Featured objects location dumps**
 Object location dumps contain positions of various objects of a specific type, on the GTA V map (including all interiors / MLOs).
 - **Vending Machines** (worldVendingMachines.json) **324** in total ([Click for more info](https://forum.altv.mp/topic/346-all-gta-v-vending-machine-prop-positions-rotations/))
-- **Bin/Dumpster/Recycle Bins** (worldBinsDumpsters.json & worldRecycleBins.json) **7601** bins/dumpsters in total & **127** recycle bins in total ([Click for more info](https://forum.altv.mp/topic/369-all-gta-v-bindumpsterrecycle-bin-prop-positions-rotations/))
+- **Bin/Dumpster/Recycle Bins** (worldBinsDumpsters.json & worldRecycleBins.json) **7600** bins/dumpsters in total & **127** recycle bins in total ([Click for more info](https://forum.altv.mp/topic/369-all-gta-v-bindumpsterrecycle-bin-prop-positions-rotations/))
 - **Gas Pump Stations** (worldGasPumps.json) **157** in total ([Click for more info](https://forum.altv.mp/topic/368-all-gta-v-gas-pump-prop-positions-rotations/))
 - **Jukeboxes** (worldJukeboxes.json) **6** in total ([Click for more info](https://forum.altv.mp/topic/365-all-gta-v-jukebox-prop-positions-rotations/))
 - **Dart Discs** (worldDartDiscs.json) **11** in total ([Click for more info](https://forum.altv.mp/topic/364-all-gta-v-dart-discs-positions-rotations/))
@@ -51,7 +51,7 @@ Object location dumps contain positions of various objects of a specific type, o
 - **ATMs** (worldAtms.json) **121** in total ([Click for more info](https://forum.altv.mp/topic/340-all-gta-v-atm-prop-positions-rotations/))
 - **Public Phones** (worldPublicPhones.json & worldExtraPhones.json) **432** public phones in total & **294** extra phones in total ([Click for more info](https://forum.altv.mp/topic/341-all-gta-v-public-phone-prop-positions-rotations/))
 - **Radio Towers** (worldRadioTowers.json) **86** in total ([Click for more info](https://forum.altv.mp/topic/570-all-gta-v-radio-tower-prop-positions-rotations/))
-- **Antennas** (worldAntennas.json) **5** in total
+- **Antennas** (worldAntennas.json) **4** in total
 - **Mobile Masts** (worldMobileMasts.json) **8** in total
 - **Air Masts** (worldAirMasts.json) **16** in total
 - **Fire Hydrants, Hoses & Drisers** (worldFireHydrantDriser.json) **1425** in total
@@ -59,5 +59,5 @@ Object location dumps contain positions of various objects of a specific type, o
 - **Letter Boxes** (worldLetterBoxes.json) **379** in total
 - **Harvest fields** (orange trees, vine grapes, corns, salad, pumpkin, tomatoes) (worldHarvestFields.json) **623** in total
 - **Fruit stands** (worldFruitStands.json) **13** in total
-- **Seats** (Benches, Chairs etc.) (worldSeats.json) **7651** in total
+- **Seats** (Benches, Chairs etc.) (worldSeats.json) **7647** in total
 - **Food stands** (Hotdogs & Burger) (worldFoodStands.json) **23** in total

@@ -1,0 +1,5084 @@
+[
+  {
+    "Name": "v_cashdepot",
+    "FileName": "prologueint.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -13.7071152,
+      "Y": -23.7500019,
+      "Z": -0.000492
+    },
+    "TotalEntitiesCount": 319
+  },
+  {
+    "Name": "metro_t_st_lg_30",
+    "FileName": "v_metro_sections.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -11.9494095,
+      "Y": -18.4752769,
+      "Z": -3.605225
+    },
+    "TotalEntitiesCount": 22
+  },
+  {
+    "Name": "metro_t_st_sl_bot",
+    "FileName": "v_metro_sections.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -9.85442352,
+      "Y": -15.1679869,
+      "Z": -4.928223
+    },
+    "TotalEntitiesCount": 23
+  },
+  {
+    "Name": "metro_t_st_sl_top",
+    "FileName": "v_metro_sections.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -9.854433,
+      "Y": -15.731864,
+      "Z": -4.837891
+    },
+    "TotalEntitiesCount": 18
+  },
+  {
+    "Name": "metro_t_stair",
+    "FileName": "v_metro_sections.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -9.79465,
+      "Y": -5.949811,
+      "Z": -3.605225
+    },
+    "TotalEntitiesCount": 11
+  },
+  {
+    "Name": "metro_t_stair2",
+    "FileName": "v_metro_sections.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -9.796823,
+      "Y": -5.496117,
+      "Z": -3.605225
+    },
+    "TotalEntitiesCount": 11
+  },
+  {
+    "Name": "metro_t_step",
+    "FileName": "v_metro_sections.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -9.794648,
+      "Y": -15.36269,
+      "Z": -3.170079
+    },
+    "TotalEntitiesCount": 23
+  },
+  {
+    "Name": "metro_t_step_20",
+    "FileName": "v_metro_sections.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -10.0589991,
+      "Y": -16.37748,
+      "Z": -3.605225
+    },
+    "TotalEntitiesCount": 19
+  },
+  {
+    "Name": "metro_topen_step",
+    "FileName": "v_metro_sections.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -7.78146362,
+      "Y": -15.4108505,
+      "Z": -3.665768
+    },
+    "TotalEntitiesCount": 23
+  },
+  {
+    "Name": "metro_tsidex",
+    "FileName": "v_metro_sections.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -40.06888,
+      "Y": -10.3614807,
+      "Z": -3.31968617
+    },
+    "TotalEntitiesCount": 32
+  },
+  {
+    "Name": "metrotest",
+    "FileName": "v_metro_sections.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -8.672951,
+      "Y": -15.3695068,
+      "Z": -4.10083
+    },
+    "TotalEntitiesCount": 9
+  },
+  {
+    "Name": "dt1_02_carpark",
+    "FileName": "dt1_02_interior_dt1_02_carpark.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -57.6620026,
+      "Y": -54.1520958,
+      "Z": -2.638535
+    },
+    "TotalEntitiesCount": 29
+  },
+  {
+    "Name": "metro_t_sl_top",
+    "FileName": "v_metro_sections.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -9.866034,
+      "Y": -15.4810734,
+      "Z": -4.599252
+    },
+    "TotalEntitiesCount": 18
+  },
+  {
+    "Name": "dt1_03_carpark",
+    "FileName": "dt1_03_interior_dt1_03_carpark.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -58.2377472,
+      "Y": -35.95295,
+      "Z": -2.97183561
+    },
+    "TotalEntitiesCount": 38
+  },
+  {
+    "Name": "dt1_05_int_undpass",
+    "FileName": "dt1_05_interior_dt1_05_int_undpass.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -11.01186,
+      "Y": -25.0238647,
+      "Z": -3.76929832
+    },
+    "TotalEntitiesCount": 8
+  },
+  {
+    "Name": "dt1_rd1_tun",
+    "FileName": "dt1_rd1_interior_dt1_rd1_tun.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -58.62903,
+      "Y": -38.1686859,
+      "Z": -2.68516684
+    },
+    "TotalEntitiesCount": 41
+  },
+  {
+    "Name": "dt1_rd1_tun2",
+    "FileName": "dt1_rd1_interior_dt1_rd1_tun2.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -17.4821777,
+      "Y": -15.3380156,
+      "Z": -3.5011158
+    },
+    "TotalEntitiesCount": 7
+  },
+  {
+    "Name": "dt1_rd1_tun3",
+    "FileName": "dt1_rd1_interior_dt1_rd1_tun3.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -58.8097878,
+      "Y": -38.0687943,
+      "Z": -5.415063
+    },
+    "TotalEntitiesCount": 8
+  },
+  {
+    "Name": "id1_11_tunnel1_int",
+    "FileName": "id1_11_interior_id1_11_tunnel1_int.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -28.7113361,
+      "Y": -53.9823265,
+      "Z": -2.59061861
+    },
+    "TotalEntitiesCount": 60
+  },
+  {
+    "Name": "id1_11_tunnel2_int",
+    "FileName": "id1_11_interior_id1_11_tunnel2_int.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -10.70737,
+      "Y": -52.4776764,
+      "Z": -3.510754
+    },
+    "TotalEntitiesCount": 52
+  },
+  {
+    "Name": "id1_11_tunnel3_int",
+    "FileName": "id1_11_interior_id1_11_tunnel3_int.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -102.483276,
+      "Y": -54.3940735,
+      "Z": -7.93087
+    },
+    "TotalEntitiesCount": 112
+  },
+  {
+    "Name": "id1_11_tunnel4_int",
+    "FileName": "id1_11_interior_id1_11_tunnel4_int.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -17.4765244,
+      "Y": -83.05475,
+      "Z": -4.98354673
+    },
+    "TotalEntitiesCount": 134
+  },
+  {
+    "Name": "id1_11_tunnel5_int",
+    "FileName": "id1_11_interior_id1_11_tunnel5_int.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -11.8492088,
+      "Y": -75.62813,
+      "Z": -3.83107567
+    },
+    "TotalEntitiesCount": 84
+  },
+  {
+    "Name": "id1_11_tunnel6_int",
+    "FileName": "id1_11_interior_id1_11_tunnel6_int.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -90.8322754,
+      "Y": -59.35962,
+      "Z": -22.3681488
+    },
+    "TotalEntitiesCount": 120
+  },
+  {
+    "Name": "id1_11_tunnel7_int",
+    "FileName": "id1_11_interior_id1_11_tunnel7_int.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -12.0624619,
+      "Y": -69.1742554,
+      "Z": -4.95434952
+    },
+    "TotalEntitiesCount": 66
+  },
+  {
+    "Name": "dt1_05_carpark",
+    "FileName": "dt1_05_interior_dt1_05_carpark.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -59.3978577,
+      "Y": -39.7121964,
+      "Z": -4.28625441
+    },
+    "TotalEntitiesCount": 91
+  },
+  {
+    "Name": "metro_t_sl_bot",
+    "FileName": "v_metro_sections.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -9.700956,
+      "Y": -15.2799206,
+      "Z": -4.466486
+    },
+    "TotalEntitiesCount": 18
+  },
+  {
+    "Name": "metro_t_lg_30",
+    "FileName": "v_metro_sections.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -10.1756268,
+      "Y": -19.8481445,
+      "Z": -4.005654
+    },
+    "TotalEntitiesCount": 19
+  },
+  {
+    "Name": "metro_t_join",
+    "FileName": "v_metro_sections.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -7.865621,
+      "Y": -6.755659,
+      "Z": -3.605225
+    },
+    "TotalEntitiesCount": 11
+  },
+  {
+    "Name": "metro_newwalk5",
+    "FileName": "v_int_metro_subway5.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -15.8711433,
+      "Y": -23.351799,
+      "Z": -2.98199677
+    },
+    "TotalEntitiesCount": 104
+  },
+  {
+    "Name": "metro_newwalk6",
+    "FileName": "v_int_metro_subway6.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -10.2675886,
+      "Y": -24.2974834,
+      "Z": -2.45106077
+    },
+    "TotalEntitiesCount": 92
+  },
+  {
+    "Name": "v_mugshot",
+    "FileName": "v_int_mugshot.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -5.717619,
+      "Y": -8.075644,
+      "Z": -0.404162
+    },
+    "TotalEntitiesCount": 22
+  },
+  {
+    "Name": "v_winningroom",
+    "FileName": "v_int_mugshot.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -11.9175215,
+      "Y": -23.4188156,
+      "Z": -0.004148
+    },
+    "TotalEntitiesCount": 3
+  },
+  {
+    "Name": "metro_30",
+    "FileName": "v_metro_sections.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -12.3471251,
+      "Y": -16.5817318,
+      "Z": -4.150877
+    },
+    "TotalEntitiesCount": 17
+  },
+  {
+    "Name": "metro_end",
+    "FileName": "v_metro_sections.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -8.672964,
+      "Y": -15.6691284,
+      "Z": -4.10083
+    },
+    "TotalEntitiesCount": 16
+  },
+  {
+    "Name": "metro_end_031",
+    "FileName": "v_metro_sections.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -11.8137617,
+      "Y": -23.5342827,
+      "Z": -5.73645
+    },
+    "TotalEntitiesCount": 26
+  },
+  {
+    "Name": "metro_end_30",
+    "FileName": "v_metro_sections.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -11.3022308,
+      "Y": -22.5358181,
+      "Z": -4.150879
+    },
+    "TotalEntitiesCount": 22
+  },
+  {
+    "Name": "metro_sl_bot",
+    "FileName": "v_metro_sections.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -8.575912,
+      "Y": -15.7958832,
+      "Z": -5.58667
+    },
+    "TotalEntitiesCount": 17
+  },
+  {
+    "Name": "metro_sl_top",
+    "FileName": "v_metro_sections.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -8.83655548,
+      "Y": -15.3695068,
+      "Z": -5.243601
+    },
+    "TotalEntitiesCount": 16
+  },
+  {
+    "Name": "metro_sm",
+    "FileName": "v_metro_sections.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -5.71170235,
+      "Y": -15.6135864,
+      "Z": -2.90691185
+    },
+    "TotalEntitiesCount": 10
+  },
+  {
+    "Name": "metro_sm_sl_bot",
+    "FileName": "v_metro_sections.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -5.775033,
+      "Y": -15.2895861,
+      "Z": -4.025329
+    },
+    "TotalEntitiesCount": 11
+  },
+  {
+    "Name": "metro_sm_sl_mid",
+    "FileName": "v_metro_sections.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -5.817478,
+      "Y": -15.1414118,
+      "Z": -3.710144
+    },
+    "TotalEntitiesCount": 9
+  },
+  {
+    "Name": "metro_sm_sl_top",
+    "FileName": "v_metro_sections.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -5.669979,
+      "Y": -15.024766,
+      "Z": -3.908071
+    },
+    "TotalEntitiesCount": 10
+  },
+  {
+    "Name": "metro_sm1",
+    "FileName": "v_metro_sections.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -5.74713135,
+      "Y": -15.6135864,
+      "Z": -2.90691185
+    },
+    "TotalEntitiesCount": 11
+  },
+  {
+    "Name": "metro_sm2",
+    "FileName": "v_metro_sections.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -5.33892441,
+      "Y": -15.6135864,
+      "Z": -2.90691185
+    },
+    "TotalEntitiesCount": 9
+  },
+  {
+    "Name": "metro_small_30",
+    "FileName": "v_metro_sections.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -8.606874,
+      "Y": -18.2057915,
+      "Z": -3.140137
+    },
+    "TotalEntitiesCount": 16
+  },
+  {
+    "Name": "metro_stat3join1",
+    "FileName": "v_metro_sections.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -13.291153,
+      "Y": -15.1748571,
+      "Z": -3.997375
+    },
+    "TotalEntitiesCount": 30
+  },
+  {
+    "Name": "metro_stat3join2",
+    "FileName": "v_metro_sections.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -13.4129791,
+      "Y": -17.9268627,
+      "Z": -3.361877
+    },
+    "TotalEntitiesCount": 27
+  },
+  {
+    "Name": "metro_stat3join3",
+    "FileName": "v_metro_sections.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -17.0364418,
+      "Y": -17.95144,
+      "Z": -3.361878
+    },
+    "TotalEntitiesCount": 29
+  },
+  {
+    "Name": "metro_stat3join4",
+    "FileName": "v_metro_sections.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -21.2321777,
+      "Y": -15.8009491,
+      "Z": -4.109279
+    },
+    "TotalEntitiesCount": 33
+  },
+  {
+    "Name": "metro_stat3special",
+    "FileName": "v_metro_sections.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -14.54665,
+      "Y": -23.78098,
+      "Z": -4.098267
+    },
+    "TotalEntitiesCount": 42
+  },
+  {
+    "Name": "metro_t_end",
+    "FileName": "v_metro_sections.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -8.672962,
+      "Y": -15.3383179,
+      "Z": -4.10083
+    },
+    "TotalEntitiesCount": 16
+  },
+  {
+    "Name": "metro_t_end_30",
+    "FileName": "v_metro_sections.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -11.508193,
+      "Y": -16.3081989,
+      "Z": -4.150877
+    },
+    "TotalEntitiesCount": 22
+  },
+  {
+    "Name": "metro_t_end2_30",
+    "FileName": "v_metro_sections.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -11.08568,
+      "Y": -22.3227444,
+      "Z": -4.15088
+    },
+    "TotalEntitiesCount": 24
+  },
+  {
+    "Name": "id1_11_tunnel8_int",
+    "FileName": "id1_11_interior_id1_11_tunnel8_int.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -33.17713,
+      "Y": -58.38504,
+      "Z": -2.18449736
+    },
+    "TotalEntitiesCount": 24
+  },
+  {
+    "Name": "metro_newwalk4",
+    "FileName": "v_int_metro_subway4.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -19.20293,
+      "Y": -16.3738766,
+      "Z": -3.68409634
+    },
+    "TotalEntitiesCount": 73
+  },
+  {
+    "Name": "id2_21_a_tun1",
+    "FileName": "id2_21_a_interior_id2_21_a_tun1.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -63.1871033,
+      "Y": -15.47403,
+      "Z": -5.03372574
+    },
+    "TotalEntitiesCount": 24
+  },
+  {
+    "Name": "id2_21_a_tun3",
+    "FileName": "id2_21_a_interior_id2_21_a_tun3.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -65.44083,
+      "Y": -95.11682,
+      "Z": -6.60938263
+    },
+    "TotalEntitiesCount": 20
+  },
+  {
+    "Name": "vbca_tunnel4",
+    "FileName": "vb_ca_interior_vbca_tunnel4.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -69.75615,
+      "Y": -37.8075,
+      "Z": -3.59314513
+    },
+    "TotalEntitiesCount": 16
+  },
+  {
+    "Name": "vbca_tunnel5",
+    "FileName": "vb_ca_interior_vbca_tunnel5.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -111.172333,
+      "Y": -34.6638641,
+      "Z": -3.593146
+    },
+    "TotalEntitiesCount": 16
+  },
+  {
+    "Name": "ch1_roadsdint_tun1",
+    "FileName": "ch1_roadsd_interior_ch1_roadsdint_tun1.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -22.41986,
+      "Y": -96.335144,
+      "Z": -2.55561066
+    },
+    "TotalEntitiesCount": 30
+  },
+  {
+    "Name": "ch1_roadsdint_tun2",
+    "FileName": "ch1_roadsd_interior_ch1_roadsdint_tun2.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -20.79242,
+      "Y": -89.8262939,
+      "Z": -3.65973234
+    },
+    "TotalEntitiesCount": 33
+  },
+  {
+    "Name": "ch3_01_trlr_int",
+    "FileName": "ch3_01_interior_ch3_01_trlr_int.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -6.32942772,
+      "Y": -8.861031,
+      "Z": -0.0106348991
+    },
+    "TotalEntitiesCount": 8
+  },
+  {
+    "Name": "ch3_08_dam_corr_milo",
+    "FileName": "ch3_08_interior_ch3_08_dam_corr_milo.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -6.551359,
+      "Y": -10.3534956,
+      "Z": -3.507481
+    },
+    "TotalEntitiesCount": 24
+  },
+  {
+    "Name": "cs1_12_tunnel01_int",
+    "FileName": "cs1_12_interior_cs1_12_tunnel01_int.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -83.5336151,
+      "Y": -53.2780457,
+      "Z": -5.1108
+    },
+    "TotalEntitiesCount": 2
+  },
+  {
+    "Name": "cs1_12_tunnel02_int",
+    "FileName": "cs1_12_interior_cs1_12_tunnel02_int.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -220.022659,
+      "Y": -136.145844,
+      "Z": -16.6142311
+    },
+    "TotalEntitiesCount": 5
+  },
+  {
+    "Name": "cs1_12_tunnel03_int",
+    "FileName": "cs1_12_interior_cs1_12_tunnel03_int.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -57.72487,
+      "Y": -48.5054359,
+      "Z": -9.83362
+    },
+    "TotalEntitiesCount": 2
+  },
+  {
+    "Name": "cs1_14brailway1",
+    "FileName": "cs1_railwyb_interior_cs1_14brailway1.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -10.1018076,
+      "Y": -50.0269661,
+      "Z": -4.36092567
+    },
+    "TotalEntitiesCount": 10
+  },
+  {
+    "Name": "cs1_14brailway2",
+    "FileName": "cs1_railwyb_interior_cs1_14brailway2.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -5.13683748,
+      "Y": -32.95874,
+      "Z": -4.765063
+    },
+    "TotalEntitiesCount": 8
+  },
+  {
+    "Name": "vbca_tunnel3",
+    "FileName": "vb_ca_interior_vbca_tunnel3.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -140.494324,
+      "Y": -69.79978,
+      "Z": -3.593146
+    },
+    "TotalEntitiesCount": 19
+  },
+  {
+    "Name": "cs1_14brailway3",
+    "FileName": "cs1_railwyb_interior_cs1_14brailway3.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -5.315024,
+      "Y": -53.7855949,
+      "Z": -5.52931166
+    },
+    "TotalEntitiesCount": 10
+  },
+  {
+    "Name": "cs1_14brailway5",
+    "FileName": "cs1_railwyb_interior_cs1_14brailway5.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -6.245258,
+      "Y": -45.58316,
+      "Z": -6.43647671
+    },
+    "TotalEntitiesCount": 9
+  },
+  {
+    "Name": "cs1_14brailway6",
+    "FileName": "cs1_railwyb_interior_cs1_14brailway6.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -6.800498,
+      "Y": -79.05324,
+      "Z": -6.1671896
+    },
+    "TotalEntitiesCount": 15
+  },
+  {
+    "Name": "cs2_roadsb_tunnel_01",
+    "FileName": "cs2_roadsb_interior_cs2_roadsb_tunnel_01.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -34.5440521,
+      "Y": -46.292572,
+      "Z": -2.89199781
+    },
+    "TotalEntitiesCount": 20
+  },
+  {
+    "Name": "cs2_roadsb_tunnel_02",
+    "FileName": "cs2_roadsb_interior_cs2_roadsb_tunnel_02.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -59.11226,
+      "Y": -71.2806854,
+      "Z": -4.09615469
+    },
+    "TotalEntitiesCount": 33
+  },
+  {
+    "Name": "cs2_roadsb_tunnel_03",
+    "FileName": "cs2_roadsb_interior_cs2_roadsb_tunnel_03.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -47.3944626,
+      "Y": -35.2451935,
+      "Z": -2.592493
+    },
+    "TotalEntitiesCount": 20
+  },
+  {
+    "Name": "cs3_03railtunnel_int1",
+    "FileName": "cs3_railway_interior_cs3_03railtunnel_int1.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -9.008088,
+      "Y": -25.631546,
+      "Z": -4.211525
+    },
+    "TotalEntitiesCount": 4
+  },
+  {
+    "Name": "cs3_03railtunnel_int2",
+    "FileName": "cs3_railway_interior_cs3_03railtunnel_int2.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -13.1781693,
+      "Y": -48.11702,
+      "Z": -2.624186
+    },
+    "TotalEntitiesCount": 7
+  },
+  {
+    "Name": "cs3_03railtunnel_int3",
+    "FileName": "cs3_railway_interior_cs3_03railtunnel_int3.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -14.40638,
+      "Y": -42.4902649,
+      "Z": -2.31166267
+    },
+    "TotalEntitiesCount": 8
+  },
+  {
+    "Name": "cs3_03railtunnel_int4",
+    "FileName": "cs3_railway_interior_cs3_03railtunnel_int4.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -11.335928,
+      "Y": -34.70511,
+      "Z": -1.9011116
+    },
+    "TotalEntitiesCount": 12
+  },
+  {
+    "Name": "cs4_rwayb_tunnelint",
+    "FileName": "cs4_railwayb_interior_cs4_rwayb_tunnelint.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -56.84099,
+      "Y": -25.3001328,
+      "Z": -4.87133741
+    },
+    "TotalEntitiesCount": 18
+  },
+  {
+    "Name": "cs6_08_mine_int",
+    "FileName": "cs6_08_interior_cs6_08_mine_int.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -5.28881836,
+      "Y": -195.157135,
+      "Z": -14.3577557
+    },
+    "TotalEntitiesCount": 96
+  },
+  {
+    "Name": "cs1_14brailway4",
+    "FileName": "cs1_railwyb_interior_cs1_14brailway4.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -5.37798452,
+      "Y": -60.460083,
+      "Z": -6.07913542
+    },
+    "TotalEntitiesCount": 10
+  },
+  {
+    "Name": "vbca_tunnel2",
+    "FileName": "vb_ca_interior_vbca_tunnel2.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -169.040161,
+      "Y": -83.89414,
+      "Z": -3.593146
+    },
+    "TotalEntitiesCount": 27
+  },
+  {
+    "Name": "vbca_tunnel1",
+    "FileName": "vb_ca_interior_vbca_tunnel1.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -70.33029,
+      "Y": -38.4956741,
+      "Z": -3.593146
+    },
+    "TotalEntitiesCount": 35
+  },
+  {
+    "Name": "vb_33_garage",
+    "FileName": "vb_33_interior_vb_33_garage.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -7.752438,
+      "Y": -7.02734,
+      "Z": -0.385266781
+    },
+    "TotalEntitiesCount": 54
+  },
+  {
+    "Name": "id2_21_a_tun4",
+    "FileName": "id2_21_a_interior_id2_21_a_tun4.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -22.3317566,
+      "Y": -114.800415,
+      "Z": -9.43145
+    },
+    "TotalEntitiesCount": 23
+  },
+  {
+    "Name": "id2_21_a_tun5",
+    "FileName": "id2_21_a_interior_id2_21_a_tun5.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -55.8777466,
+      "Y": -46.09896,
+      "Z": -10.7223511
+    },
+    "TotalEntitiesCount": 16
+  },
+  {
+    "Name": "po1_08_warehouseint1",
+    "FileName": "po1_08_interior_po1_08_warehouseint1.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -18.0750141,
+      "Y": -22.0807037,
+      "Z": -2.41611576
+    },
+    "TotalEntitiesCount": 136
+  },
+  {
+    "Name": "po1_08_warehouseint2",
+    "FileName": "po1_08_interior_po1_08_warehouseint2.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -17.6478615,
+      "Y": -23.813652,
+      "Z": -4.620996
+    },
+    "TotalEntitiesCount": 147
+  },
+  {
+    "Name": "sc1_rd_inttun1",
+    "FileName": "sc1_rd_interior_sc1_rd_inttun1.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -145.3718,
+      "Y": -60.7764435,
+      "Z": -7.2363143
+    },
+    "TotalEntitiesCount": 44
+  },
+  {
+    "Name": "sc1_rd_inttun2b",
+    "FileName": "sc1_rd_interior_sc1_rd_inttun2b.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -40.3316727,
+      "Y": -5.31331635,
+      "Z": -3.39257431
+    },
+    "TotalEntitiesCount": 15
+  },
+  {
+    "Name": "sc1_rd_inttun2b_end",
+    "FileName": "sc1_rd_interior_sc1_rd_inttun2b_end.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -12.47414,
+      "Y": -9.738007,
+      "Z": -3.02447033
+    },
+    "TotalEntitiesCount": 16
+  },
+  {
+    "Name": "sc1_rd_inttun3",
+    "FileName": "sc1_rd_interior_sc1_rd_inttun3.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -49.6448746,
+      "Y": -11.56208,
+      "Z": -4.041952
+    },
+    "TotalEntitiesCount": 12
+  },
+  {
+    "Name": "sc1_rd_inttun3b",
+    "FileName": "sc1_rd_interior_sc1_rd_inttun3b.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -42.1955261,
+      "Y": -23.2062645,
+      "Z": -3.5498333
+    },
+    "TotalEntitiesCount": 12
+  },
+  {
+    "Name": "sc1_rd_inttun3b_end",
+    "FileName": "sc1_rd_interior_sc1_rd_inttun3b_end.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -19.8723354,
+      "Y": -12.2542515,
+      "Z": -3.44208336
+    },
+    "TotalEntitiesCount": 15
+  },
+  {
+    "Name": "sc1_rd_inttunshort",
+    "FileName": "sc1_rd_interior_sc1_rd_inttunshort.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -23.1742134,
+      "Y": -62.15882,
+      "Z": -2.93184662
+    },
+    "TotalEntitiesCount": 14
+  },
+  {
+    "Name": "bt1_04_burton_subway",
+    "FileName": "bt1_04_interior_bt1_04_burton_subway.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -5.21869,
+      "Y": -11.66555,
+      "Z": -5.69963026
+    },
+    "TotalEntitiesCount": 9
+  },
+  {
+    "Name": "bt1_04_carpark",
+    "FileName": "bt1_04_interior_bt1_04_carpark.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -72.93889,
+      "Y": -52.6840744,
+      "Z": -7.074437
+    },
+    "TotalEntitiesCount": 73
+  },
+  {
+    "Name": "ap1_01_b_lsiaterm_subway",
+    "FileName": "ap1_01_b_interior_ap1_01_b_lsiaterm_subway.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -7.808206,
+      "Y": -10.7283068,
+      "Z": -6.010182
+    },
+    "TotalEntitiesCount": 13
+  },
+  {
+    "Name": "v_ap1_01_d_int",
+    "FileName": "ap1_01_d_interior_v_ap1_01_d_int.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -18.1105328,
+      "Y": -12.2512255,
+      "Z": -1.613065
+    },
+    "TotalEntitiesCount": 39
+  },
+  {
+    "Name": "ap1_03_lisapark_subway",
+    "FileName": "ap1_03_interior_ap1_03_lisapark_subway.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -15.5563469,
+      "Y": -7.62626648,
+      "Z": -7.720194
+    },
+    "TotalEntitiesCount": 32
+  },
+  {
+    "Name": "bh1_rd2_portola_subway",
+    "FileName": "bh1_rd_interior_bh1_rd2_portola_subway.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -26.9825859,
+      "Y": -16.2626648,
+      "Z": -2.024918
+    },
+    "TotalEntitiesCount": 52
+  },
+  {
+    "Name": "kt1_03_carpark_int",
+    "FileName": "kt1_03_interior_kt1_03_carpark_int.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -38.7357864,
+      "Y": -29.67532,
+      "Z": -3.22543049
+    },
+    "TotalEntitiesCount": 14
+  },
+  {
+    "Name": "kt1_04_roadtunnel_int",
+    "FileName": "kt1_04_interior_kt1_04_roadtunnel_int.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -64.3704453,
+      "Y": -47.1546669,
+      "Z": -1.71539879
+    },
+    "TotalEntitiesCount": 8
+  },
+  {
+    "Name": "kt1_09_seoul_subway",
+    "FileName": "kt1_09_interior_kt1_09_seoul_subway.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -5.15161,
+      "Y": -11.6068649,
+      "Z": -3.95014286
+    },
+    "TotalEntitiesCount": 8
+  },
+  {
+    "Name": "sm_15_delperro_subway",
+    "FileName": "sm_15_interior_sm_15_delperro_subway.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -9.551974,
+      "Y": -8.031423,
+      "Z": -3.939052
+    },
+    "TotalEntitiesCount": 9
+  },
+  {
+    "Name": "sm20_tun1",
+    "FileName": "sm_20_interior_sm20_tun1.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -75.18829,
+      "Y": -29.35083,
+      "Z": -5.09216928
+    },
+    "TotalEntitiesCount": 51
+  },
+  {
+    "Name": "sm20_tun2",
+    "FileName": "sm_20_interior_sm20_tun2.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -60.0431976,
+      "Y": -31.02343,
+      "Z": -5.29253149
+    },
+    "TotalEntitiesCount": 55
+  },
+  {
+    "Name": "sm20_tun3",
+    "FileName": "sm_20_interior_sm20_tun3.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -70.55946,
+      "Y": -61.8014,
+      "Z": -4.545752
+    },
+    "TotalEntitiesCount": 54
+  },
+  {
+    "Name": "sm20_tun4",
+    "FileName": "sm_20_interior_sm20_tun4.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -52.6494446,
+      "Y": -43.9084854,
+      "Z": -3.691543
+    },
+    "TotalEntitiesCount": 56
+  },
+  {
+    "Name": "id2_21_a_tun2",
+    "FileName": "id2_21_a_interior_id2_21_a_tun2.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -117.039032,
+      "Y": -51.3432,
+      "Z": -5.96467924
+    },
+    "TotalEntitiesCount": 27
+  },
+  {
+    "Name": "metro_newwalk3",
+    "FileName": "v_int_metro_subway3.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -10.1806746,
+      "Y": -21.7976456,
+      "Z": -2.45106077
+    },
+    "TotalEntitiesCount": 85
+  },
+  {
+    "Name": "sc1_rd_inttun2",
+    "FileName": "sc1_rd_interior_sc1_rd_inttun2.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -25.998764,
+      "Y": -28.3201218,
+      "Z": -4.65546036
+    },
+    "TotalEntitiesCount": 10
+  },
+  {
+    "Name": "metro_station_3_seoul",
+    "FileName": "v_int_metro_subway1.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -24.7291012,
+      "Y": -45.48174,
+      "Z": -5.808297
+    },
+    "TotalEntitiesCount": 251
+  },
+  {
+    "Name": "v_31_tun_07",
+    "FileName": "v_int_31.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -87.6421,
+      "Y": -14.1849842,
+      "Z": -0.465529442
+    },
+    "TotalEntitiesCount": 33
+  },
+  {
+    "Name": "v_31_tun_08",
+    "FileName": "v_int_31.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -61.2088242,
+      "Y": -34.8438454,
+      "Z": -8.981791
+    },
+    "TotalEntitiesCount": 28
+  },
+  {
+    "Name": "v_31_tun_09",
+    "FileName": "v_int_31.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -13.66997,
+      "Y": -31.9565887,
+      "Z": 0.9517008
+    },
+    "TotalEntitiesCount": 29
+  },
+  {
+    "Name": "v_31_tun_10",
+    "FileName": "v_int_31.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -47.9455223,
+      "Y": -14.6301975,
+      "Z": -11.8480225
+    },
+    "TotalEntitiesCount": 3
+  },
+  {
+    "Name": "v_31_tun_01",
+    "FileName": "v_int_31a.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -23.81266,
+      "Y": -35.589138,
+      "Z": -14.5184422
+    },
+    "TotalEntitiesCount": 49
+  },
+  {
+    "Name": "v_31_tun_02",
+    "FileName": "v_int_31a.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -22.46289,
+      "Y": -33.4350243,
+      "Z": -22.9068985
+    },
+    "TotalEntitiesCount": 112
+  },
+  {
+    "Name": "v_31_tun_03",
+    "FileName": "v_int_31a.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -21.7849236,
+      "Y": -58.40845,
+      "Z": -1.88563347
+    },
+    "TotalEntitiesCount": 124
+  },
+  {
+    "Name": "v_31_tun_04",
+    "FileName": "v_int_31a.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -32.7206573,
+      "Y": -111.045624,
+      "Z": -7.690155
+    },
+    "TotalEntitiesCount": 102
+  },
+  {
+    "Name": "v_31_tun_swap",
+    "FileName": "v_int_31a.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -22.4628983,
+      "Y": -33.4350243,
+      "Z": -22.9068985
+    },
+    "TotalEntitiesCount": 112
+  },
+  {
+    "Name": "v_31_newtun3",
+    "FileName": "v_int_31b.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -134.5946,
+      "Y": -45.7329559,
+      "Z": -8.148447
+    },
+    "TotalEntitiesCount": 36
+  },
+  {
+    "Name": "v_31_newtun4",
+    "FileName": "v_int_31b.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -127.5687,
+      "Y": -95.74411,
+      "Z": -24.87378
+    },
+    "TotalEntitiesCount": 29
+  },
+  {
+    "Name": "v_31_tun_06",
+    "FileName": "v_int_31.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -47.5948677,
+      "Y": 35.6044044,
+      "Z": -1.26363564
+    },
+    "TotalEntitiesCount": 39
+  },
+  {
+    "Name": "v_31_newtun4b",
+    "FileName": "v_int_31b.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -52.9736557,
+      "Y": -62.922,
+      "Z": -13.3360977
+    },
+    "TotalEntitiesCount": 6
+  },
+  {
+    "Name": "v_cia",
+    "FileName": "v_int_33.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -32.33062,
+      "Y": -6.00243,
+      "Z": -0.000627040863
+    },
+    "TotalEntitiesCount": 114
+  },
+  {
+    "Name": "v_factory1",
+    "FileName": "v_int_34.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -23.1049156,
+      "Y": -23.5857582,
+      "Z": 0.00104427338
+    },
+    "TotalEntitiesCount": 276
+  },
+  {
+    "Name": "v_factory2",
+    "FileName": "v_int_34.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -24.618721,
+      "Y": -9.666944,
+      "Z": -0.04503107
+    },
+    "TotalEntitiesCount": 147
+  },
+  {
+    "Name": "v_factory3",
+    "FileName": "v_int_34.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -26.4564819,
+      "Y": -6.893663,
+      "Z": -0.06709194
+    },
+    "TotalEntitiesCount": 61
+  },
+  {
+    "Name": "v_factory4",
+    "FileName": "v_int_34.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -14.2594633,
+      "Y": -22.22688,
+      "Z": 0.128248215
+    },
+    "TotalEntitiesCount": 148
+  },
+  {
+    "Name": "v_sweat",
+    "FileName": "v_int_35.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -13.7792053,
+      "Y": -1.03930187,
+      "Z": 0.0848999
+    },
+    "TotalEntitiesCount": 167
+  },
+  {
+    "Name": "v_sweatempty",
+    "FileName": "v_int_35.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -13.7920027,
+      "Y": -1.03930187,
+      "Z": 0.0848999
+    },
+    "TotalEntitiesCount": 56
+  },
+  {
+    "Name": "v_tattoo",
+    "FileName": "v_int_36.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -3.83562422,
+      "Y": -3.821804,
+      "Z": -0.006932974
+    },
+    "TotalEntitiesCount": 88
+  },
+  {
+    "Name": "v_hairdresser",
+    "FileName": "v_int_37.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -7.130257,
+      "Y": -5.268091,
+      "Z": -0.0118649006
+    },
+    "TotalEntitiesCount": 110
+  },
+  {
+    "Name": "v_barbers",
+    "FileName": "v_int_38.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -2.624477,
+      "Y": -6.162198,
+      "Z": -0.0156281
+    },
+    "TotalEntitiesCount": 80
+  },
+  {
+    "Name": "v_methlab",
+    "FileName": "v_int_39.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -4.660099,
+      "Y": -5.58044243,
+      "Z": -0.002999
+    },
+    "TotalEntitiesCount": 196
+  },
+  {
+    "Name": "v_hicksbar",
+    "FileName": "v_int_32.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -2.17068624,
+      "Y": -8.984594,
+      "Z": -0.1134541
+    },
+    "TotalEntitiesCount": 195
+  },
+  {
+    "Name": "v_31_tun_05",
+    "FileName": "v_int_31.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -48.03446,
+      "Y": -47.58616,
+      "Z": -2.351071
+    },
+    "TotalEntitiesCount": 144
+  },
+  {
+    "Name": "v_31_newtunnel1",
+    "FileName": "v_int_31.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -48.660717,
+      "Y": -13.9345512,
+      "Z": -10.1904621
+    },
+    "TotalEntitiesCount": 11
+  },
+  {
+    "Name": "v_31_newtun2",
+    "FileName": "v_int_31.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -79.8452759,
+      "Y": -131.5658,
+      "Z": -5.773997
+    },
+    "TotalEntitiesCount": 44
+  },
+  {
+    "Name": "metro_newwalk2",
+    "FileName": "v_int_metro_subway2.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -59.56723,
+      "Y": -37.48553,
+      "Z": -2.43547
+    },
+    "TotalEntitiesCount": 186
+  },
+  {
+    "Name": "v_firedept",
+    "FileName": "v_int_1.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -10.4424038,
+      "Y": -6.570562,
+      "Z": -0.003025
+    },
+    "TotalEntitiesCount": 106
+  },
+  {
+    "Name": "v_gen_liquor",
+    "FileName": "v_int_10.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -5.583787,
+      "Y": -4.669273,
+      "Z": -1.761459
+    },
+    "TotalEntitiesCount": 289
+  },
+  {
+    "Name": "v_genbank",
+    "FileName": "v_int_10.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -8.908637,
+      "Y": -3.44747114,
+      "Z": -0.3204479
+    },
+    "TotalEntitiesCount": 138
+  },
+  {
+    "Name": "v_abattoir",
+    "FileName": "v_int_11.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -38.2156639,
+      "Y": -29.162796,
+      "Z": 0.4720958
+    },
+    "TotalEntitiesCount": 406
+  },
+  {
+    "Name": "v_recycle",
+    "FileName": "v_int_13.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -38.5379944,
+      "Y": -14.484128,
+      "Z": -0.549627
+    },
+    "TotalEntitiesCount": 436
+  },
+  {
+    "Name": "v_carshowroom",
+    "FileName": "v_int_15.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -19.2616444,
+      "Y": -14.0269356,
+      "Z": -0.00780797
+    },
+    "TotalEntitiesCount": 170
+  },
+  {
+    "Name": "v_apart_midspaz",
+    "FileName": "v_int_16.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -5.8038516,
+      "Y": -16.0686321,
+      "Z": -0.208038181
+    },
+    "TotalEntitiesCount": 116
+  },
+  {
+    "Name": "v_apartment_high",
+    "FileName": "v_int_16.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -19.0950031,
+      "Y": -5.533566,
+      "Z": -0.00748586655
+    },
+    "TotalEntitiesCount": 188
+  },
+  {
+    "Name": "v_studio_lo",
+    "FileName": "v_int_16.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -6.643711,
+      "Y": -10.5381832,
+      "Z": -2.008721
+    },
+    "TotalEntitiesCount": 132
+  },
+  {
+    "Name": "v_strip3",
+    "FileName": "v_int_19.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -32.1083221,
+      "Y": -5.148117,
+      "Z": -0.6326308
+    },
+    "TotalEntitiesCount": 382
+  },
+  {
+    "Name": "v_coroner",
+    "FileName": "v_int_2.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -17.7446,
+      "Y": -16.1818714,
+      "Z": -12.2685032
+    },
+    "TotalEntitiesCount": 583
+  },
+  {
+    "Name": "v_policehub",
+    "FileName": "v_int_20.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -7.74453926,
+      "Y": -12.04671,
+      "Z": -4.211533
+    },
+    "TotalEntitiesCount": 309
+  },
+  {
+    "Name": "v_comedy",
+    "FileName": "v_int_21.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -6.829575,
+      "Y": -6.67729473,
+      "Z": -9.536743E-07
+    },
+    "TotalEntitiesCount": 121
+  },
+  {
+    "Name": "v_gun2",
+    "FileName": "v_int_22.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -3.78021,
+      "Y": -3.61752915,
+      "Z": -0.03840804
+    },
+    "TotalEntitiesCount": 99
+  },
+  {
+    "Name": "v_jewel2",
+    "FileName": "v_int_23.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -11.2619781,
+      "Y": -9.093567,
+      "Z": -0.164542913
+    },
+    "TotalEntitiesCount": 188
+  },
+  {
+    "Name": "v_franklinshouse",
+    "FileName": "v_int_24.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -20.9463158,
+      "Y": -11.8610744,
+      "Z": -0.009457588
+    },
+    "TotalEntitiesCount": 157
+  },
+  {
+    "Name": "v_tower",
+    "FileName": "v_int_25.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -7.82245255,
+      "Y": -20.8716469,
+      "Z": -0.0220680237
+    },
+    "TotalEntitiesCount": 242
+  },
+  {
+    "Name": "v_trailer",
+    "FileName": "v_int_26.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -5.8260107,
+      "Y": -2.452453,
+      "Z": 0.120198011
+    },
+    "TotalEntitiesCount": 146
+  },
+  {
+    "Name": "v_trailertidy",
+    "FileName": "v_int_26.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -5.826011,
+      "Y": -2.452453,
+      "Z": 0.120198011
+    },
+    "TotalEntitiesCount": 63
+  },
+  {
+    "Name": "v_trailertrash",
+    "FileName": "v_int_26.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -5.82600641,
+      "Y": -2.452453,
+      "Z": 0.120198011
+    },
+    "TotalEntitiesCount": 134
+  },
+  {
+    "Name": "v_epsilonism",
+    "FileName": "v_int_27.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -4.796079,
+      "Y": -10.0622435,
+      "Z": -0.820271
+    },
+    "TotalEntitiesCount": 38
+  },
+  {
+    "Name": "v_lab",
+    "FileName": "v_int_28.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -11.5966377,
+      "Y": -72.69473,
+      "Z": -32.621376
+    },
+    "TotalEntitiesCount": 733
+  },
+  {
+    "Name": "v_foundry",
+    "FileName": "v_int_29.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -29.631176,
+      "Y": -46.5905457,
+      "Z": -3.2773304
+    },
+    "TotalEntitiesCount": 212
+  },
+  {
+    "Name": "v_janitor",
+    "FileName": "v_int_3.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -2.65464783,
+      "Y": -3.00530052,
+      "Z": -0.008721113
+    },
+    "TotalEntitiesCount": 60
+  },
+  {
+    "Name": "v_methtrailer",
+    "FileName": "v_int_39.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": 3.40282347E+38,
+      "Y": 3.40282347E+38,
+      "Z": 3.40282347E+38
+    },
+    "TotalEntitiesCount": 39
+  },
+  {
+    "Name": "v_bahama",
+    "FileName": "v_int_4.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -6.63540268,
+      "Y": -13.3468695,
+      "Z": -0.4299574
+    },
+    "TotalEntitiesCount": 341
+  },
+  {
+    "Name": "v_31_newtun5",
+    "FileName": "v_int_31b.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -20.11911,
+      "Y": -8.526294,
+      "Z": -10.5924091
+    },
+    "TotalEntitiesCount": 6
+  },
+  {
+    "Name": "v_bank4",
+    "FileName": "v_int_41.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -8.231771,
+      "Y": -6.513619,
+      "Z": 0.193791
+    },
+    "TotalEntitiesCount": 184
+  },
+  {
+    "Name": "v_finalebank",
+    "FileName": "v_int_63.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -35.04538,
+      "Y": -21.5366745,
+      "Z": -32.1385727
+    },
+    "TotalEntitiesCount": 234
+  },
+  {
+    "Name": "v_rockclub",
+    "FileName": "v_int_64.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -19.4337788,
+      "Y": -9.975686,
+      "Z": -3.000351
+    },
+    "TotalEntitiesCount": 367
+  },
+  {
+    "Name": "v_psycheoffice",
+    "FileName": "v_int_65.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -5.809951,
+      "Y": -3.027277,
+      "Z": -6.2E-05
+    },
+    "TotalEntitiesCount": 108
+  },
+  {
+    "Name": "v_shop_247",
+    "FileName": "v_int_66.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -3.82900381,
+      "Y": -5.57812738,
+      "Z": -0.00390696526
+    },
+    "TotalEntitiesCount": 104
+  },
+  {
+    "Name": "v_gasstation",
+    "FileName": "v_int_68.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -5.516085,
+      "Y": -5.650986,
+      "Z": -0.00323092937
+    },
+    "TotalEntitiesCount": 111
+  },
+  {
+    "Name": "v_graboffice",
+    "FileName": "v_int_69.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -15.5239763,
+      "Y": -8.455959,
+      "Z": -9.4E-05
+    },
+    "TotalEntitiesCount": 259
+  },
+  {
+    "Name": "v_gun",
+    "FileName": "v_int_7.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -7.059165,
+      "Y": -6.67200661,
+      "Z": -0.184098125
+    },
+    "TotalEntitiesCount": 178
+  },
+  {
+    "Name": "v_70_bikerbar",
+    "FileName": "v_int_70.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": 3.40282347E+38,
+      "Y": 3.40282347E+38,
+      "Z": 3.40282347E+38
+    },
+    "TotalEntitiesCount": 76
+  },
+  {
+    "Name": "v_guardtower",
+    "FileName": "v_int_71.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -3.052172,
+      "Y": -3.051221,
+      "Z": 0.0
+    },
+    "TotalEntitiesCount": 26
+  },
+  {
+    "Name": "v_lockup",
+    "FileName": "v_int_71.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -8.954612,
+      "Y": -24.7266541,
+      "Z": -0.0868682861
+    },
+    "TotalEntitiesCount": 69
+  },
+  {
+    "Name": "v_garagel",
+    "FileName": "v_int_72.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -8.360964,
+      "Y": -15.01638,
+      "Z": 0.0
+    },
+    "TotalEntitiesCount": 124
+  },
+  {
+    "Name": "v_garagem",
+    "FileName": "v_int_72.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -10.2880135,
+      "Y": -8.421893,
+      "Z": 0.0
+    },
+    "TotalEntitiesCount": 135
+  },
+  {
+    "Name": "v_hospital",
+    "FileName": "v_int_40.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -13.6375542,
+      "Y": -11.5893135,
+      "Z": -0.651433945
+    },
+    "TotalEntitiesCount": 416
+  },
+  {
+    "Name": "v_garages",
+    "FileName": "v_int_72.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -4.981407,
+      "Y": -5.724914,
+      "Z": 0.0
+    },
+    "TotalEntitiesCount": 117
+  },
+  {
+    "Name": "v_fib01",
+    "FileName": "v_int_73.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -32.33135,
+      "Y": -5.995776,
+      "Z": -0.100260973
+    },
+    "TotalEntitiesCount": 648
+  },
+  {
+    "Name": "v_fib04",
+    "FileName": "v_int_73.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -1.91682339,
+      "Y": -1.75538707,
+      "Z": -177.339523
+    },
+    "TotalEntitiesCount": 37
+  },
+  {
+    "Name": "v_fib02",
+    "FileName": "v_int_74.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -20.5902538,
+      "Y": -22.3002014,
+      "Z": -0.00346755981
+    },
+    "TotalEntitiesCount": 308
+  },
+  {
+    "Name": "v_fib03",
+    "FileName": "v_int_74.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -22.6315041,
+      "Y": -22.6972351,
+      "Z": -4.00054073
+    },
+    "TotalEntitiesCount": 464
+  },
+  {
+    "Name": "int_dlc_surgery",
+    "FileName": "v_int_75.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": 3.40282347E+38,
+      "Y": 3.40282347E+38,
+      "Z": 3.40282347E+38
+    },
+    "TotalEntitiesCount": 0
+  },
+  {
+    "Name": "v_farmhouse",
+    "FileName": "v_int_8.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -27.3730659,
+      "Y": -9.772102,
+      "Z": -4.60242653
+    },
+    "TotalEntitiesCount": 475
+  },
+  {
+    "Name": "v_faceoffice",
+    "FileName": "v_int_9.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -20.53614,
+      "Y": -6.45599174,
+      "Z": 0.0242533684
+    },
+    "TotalEntitiesCount": 713
+  },
+  {
+    "Name": "metro_map_join_1",
+    "FileName": "v_int_metro_join1.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -27.12109,
+      "Y": -18.87512,
+      "Z": -3.52489662
+    },
+    "TotalEntitiesCount": 33
+  },
+  {
+    "Name": "metro_map_join_2",
+    "FileName": "v_int_metro_join2.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -10.3685341,
+      "Y": -10.6949158,
+      "Z": -4.21503
+    },
+    "TotalEntitiesCount": 38
+  },
+  {
+    "Name": "metro_map_end",
+    "FileName": "v_int_metro_join3.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -16.3988571,
+      "Y": -56.3576469,
+      "Z": -9.654703
+    },
+    "TotalEntitiesCount": 65
+  },
+  {
+    "Name": "metro_newwalk1",
+    "FileName": "v_int_metro_subway1.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -27.4605713,
+      "Y": -25.0600758,
+      "Z": -4.98097467
+    },
+    "TotalEntitiesCount": 150
+  },
+  {
+    "Name": "v_stadium",
+    "FileName": "v_int_62.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -30.4784336,
+      "Y": -15.4223623,
+      "Z": -5.46058226
+    },
+    "TotalEntitiesCount": 303
+  },
+  {
+    "Name": "v_trevors",
+    "FileName": "v_int_61.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -8.847024,
+      "Y": -4.347198,
+      "Z": -0.000517964363
+    },
+    "TotalEntitiesCount": 130
+  },
+  {
+    "Name": "v_garagem_sp",
+    "FileName": "v_int_72.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -10.3457489,
+      "Y": -8.421892,
+      "Z": -0.0577349663
+    },
+    "TotalEntitiesCount": 139
+  },
+  {
+    "Name": "v_dockcontrol",
+    "FileName": "v_int_59.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -17.2239037,
+      "Y": -5.93079329,
+      "Z": 0.004978895
+    },
+    "TotalEntitiesCount": 135
+  },
+  {
+    "Name": "969936335",
+    "FileName": "v_int_41.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -3.781421,
+      "Y": -3.781421,
+      "Z": 0.0
+    },
+    "TotalEntitiesCount": 2
+  },
+  {
+    "Name": "v_hanger",
+    "FileName": "v_int_60.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -69.26307,
+      "Y": -55.4793129,
+      "Z": -0.9582138
+    },
+    "TotalEntitiesCount": 363
+  },
+  {
+    "Name": "v_carmod2",
+    "FileName": "v_int_43.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": 3.40282347E+38,
+      "Y": 3.40282347E+38,
+      "Z": 3.40282347E+38
+    },
+    "TotalEntitiesCount": 133
+  },
+  {
+    "Name": "v_michael",
+    "FileName": "v_int_44.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -9.841717,
+      "Y": -8.592166,
+      "Z": -0.0105690956
+    },
+    "TotalEntitiesCount": 372
+  },
+  {
+    "Name": "v_michael_garage",
+    "FileName": "v_int_44.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -4.250299,
+      "Y": -6.27821732,
+      "Z": -0.126646161
+    },
+    "TotalEntitiesCount": 43
+  },
+  {
+    "Name": "v_chopshop",
+    "FileName": "v_int_45.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -10.9937449,
+      "Y": -5.6014123,
+      "Z": -0.0104250908
+    },
+    "TotalEntitiesCount": 262
+  },
+  {
+    "Name": "v_carmod3",
+    "FileName": "v_int_46.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -15.3177519,
+      "Y": -3.85436058,
+      "Z": -0.0181629658
+    },
+    "TotalEntitiesCount": 140
+  },
+  {
+    "Name": "v_refit",
+    "FileName": "v_int_47.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -12.2724457,
+      "Y": -5.053937,
+      "Z": -0.000415995717
+    },
+    "TotalEntitiesCount": 68
+  },
+  {
+    "Name": "v_sheriff",
+    "FileName": "v_int_47.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -5.09324169,
+      "Y": -3.202097,
+      "Z": -0.0005300045
+    },
+    "TotalEntitiesCount": 136
+  },
+  {
+    "Name": "v_sheriff2",
+    "FileName": "v_int_47.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -3.33278942,
+      "Y": -3.3298223,
+      "Z": -3.09944153E-06
+    },
+    "TotalEntitiesCount": 131
+  },
+  {
+    "Name": "v_office_lobby",
+    "FileName": "v_int_48.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -31.7799721,
+      "Y": -5.6943,
+      "Z": -4.000244
+    },
+    "TotalEntitiesCount": 91
+  },
+  {
+    "Name": "v_motel_mp",
+    "FileName": "v_int_49.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -1.94542718,
+      "Y": -4.063733,
+      "Z": -0.0870220661
+    },
+    "TotalEntitiesCount": 30
+  },
+  {
+    "Name": "v_carmod",
+    "FileName": "v_int_46.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -10.203022,
+      "Y": -11.6699591,
+      "Z": -0.11116004
+    },
+    "TotalEntitiesCount": 211
+  },
+  {
+    "Name": "v_tattoo2",
+    "FileName": "v_int_49.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -4.064858,
+      "Y": -2.84716988,
+      "Z": -0.0246139765
+    },
+    "TotalEntitiesCount": 55
+  },
+  {
+    "Name": "v_trialstad",
+    "FileName": "v_int_58.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": 3.40282347E+38,
+      "Y": 3.40282347E+38,
+      "Z": 3.40282347E+38
+    },
+    "TotalEntitiesCount": 0
+  },
+  {
+    "Name": "v_58_sol_office",
+    "FileName": "v_int_58.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -4.261629,
+      "Y": -4.215342,
+      "Z": -0.081583
+    },
+    "TotalEntitiesCount": 30
+  },
+  {
+    "Name": "v_franklins",
+    "FileName": "v_int_57.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -8.979471,
+      "Y": -5.187087,
+      "Z": -0.263390064
+    },
+    "TotalEntitiesCount": 221
+  },
+  {
+    "Name": "v_ranch",
+    "FileName": "v_int_56.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -9.360703,
+      "Y": -19.9975643,
+      "Z": -1.180768
+    },
+    "TotalEntitiesCount": 215
+  },
+  {
+    "Name": "v_torture",
+    "FileName": "v_int_55.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -12.9842567,
+      "Y": -8.842897,
+      "Z": 0.08518505
+    },
+    "TotalEntitiesCount": 25
+  },
+  {
+    "Name": "v_lesters",
+    "FileName": "v_int_54.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -2.7576232,
+      "Y": -1.762466,
+      "Z": 0.148905993
+    },
+    "TotalEntitiesCount": 59
+  },
+  {
+    "Name": "v_clotheshi",
+    "FileName": "v_int_53.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -8.429903,
+      "Y": -8.874565,
+      "Z": -2.45960331
+    },
+    "TotalEntitiesCount": 101
+  },
+  {
+    "Name": "v_clothesmid",
+    "FileName": "v_int_52.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -5.872291,
+      "Y": -12.0686016,
+      "Z": -0.178722858
+    },
+    "TotalEntitiesCount": 97
+  },
+  {
+    "Name": "v_clotheslo",
+    "FileName": "v_int_51.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -7.69533968,
+      "Y": -6.718801,
+      "Z": 0.106963992
+    },
+    "TotalEntitiesCount": 96
+  },
+  {
+    "Name": "v_cinema",
+    "FileName": "v_int_50.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -13.9333677,
+      "Y": -18.7365017,
+      "Z": -3.907013
+    },
+    "TotalEntitiesCount": 179
+  },
+  {
+    "Name": "v_bank",
+    "FileName": "v_int_5.ytyp",
+    "DlcName": "singleplayer",
+    "Position": {
+      "X": -16.3877869,
+      "Y": -10.4471359,
+      "Z": -4.60335255
+    },
+    "TotalEntitiesCount": 403
+  },
+  {
+    "Name": "dt1_03_carpark",
+    "FileName": "dt1_03_interior_dt1_03_carpark.ytyp",
+    "DlcName": "patchday1ng",
+    "Position": {
+      "X": -58.2377472,
+      "Y": -35.95295,
+      "Z": -2.97183561
+    },
+    "TotalEntitiesCount": 38
+  },
+  {
+    "Name": "cs1_12_tunnel01_int",
+    "FileName": "cs1_12_interior_cs1_12_tunnel01_int.ytyp",
+    "DlcName": "patchday1ng",
+    "Position": {
+      "X": -83.5336151,
+      "Y": -53.2780457,
+      "Z": -5.1108
+    },
+    "TotalEntitiesCount": 2
+  },
+  {
+    "Name": "dt1_02_carpark",
+    "FileName": "dt1_02_interior_dt1_02_carpark.ytyp",
+    "DlcName": "patchday1ng",
+    "Position": {
+      "X": -57.6620026,
+      "Y": -54.1520958,
+      "Z": -2.638535
+    },
+    "TotalEntitiesCount": 29
+  },
+  {
+    "Name": "bh1_rd2_portola_subway",
+    "FileName": "bh1_rd_interior_bh1_rd2_portola_subway.ytyp",
+    "DlcName": "patchday1ng",
+    "Position": {
+      "X": -26.9825859,
+      "Y": -16.2626648,
+      "Z": -2.024918
+    },
+    "TotalEntitiesCount": 52
+  },
+  {
+    "Name": "dt1_05_carpark",
+    "FileName": "dt1_05_interior_dt1_05_carpark.ytyp",
+    "DlcName": "patchday1ng",
+    "Position": {
+      "X": -59.3978577,
+      "Y": -39.7121964,
+      "Z": -4.28625441
+    },
+    "TotalEntitiesCount": 91
+  },
+  {
+    "Name": "cs1_12_tunnel02_int",
+    "FileName": "cs1_12_interior_cs1_12_tunnel02_int.ytyp",
+    "DlcName": "patchday1ng",
+    "Position": {
+      "X": -220.022659,
+      "Y": -136.145844,
+      "Z": -16.6142311
+    },
+    "TotalEntitiesCount": 5
+  },
+  {
+    "Name": "cs1_14brailway3",
+    "FileName": "cs1_railwyb_interior_cs1_14brailway3.ytyp",
+    "DlcName": "patchday1ng",
+    "Position": {
+      "X": -5.315024,
+      "Y": -53.7855949,
+      "Z": -5.52931166
+    },
+    "TotalEntitiesCount": 10
+  },
+  {
+    "Name": "cs1_14brailway1",
+    "FileName": "cs1_railwyb_interior_cs1_14brailway1.ytyp",
+    "DlcName": "patchday1ng",
+    "Position": {
+      "X": -10.1018076,
+      "Y": -50.0269661,
+      "Z": -4.36092567
+    },
+    "TotalEntitiesCount": 10
+  },
+  {
+    "Name": "cs1_14brailway2",
+    "FileName": "cs1_railwyb_interior_cs1_14brailway2.ytyp",
+    "DlcName": "patchday1ng",
+    "Position": {
+      "X": -5.13683748,
+      "Y": -32.95874,
+      "Z": -4.765063
+    },
+    "TotalEntitiesCount": 8
+  },
+  {
+    "Name": "cs1_14brailway6",
+    "FileName": "cs1_railwyb_interior_cs1_14brailway6.ytyp",
+    "DlcName": "patchday1ng",
+    "Position": {
+      "X": -6.800498,
+      "Y": -79.05324,
+      "Z": -6.1671896
+    },
+    "TotalEntitiesCount": 15
+  },
+  {
+    "Name": "cs1_14brailway4",
+    "FileName": "cs1_railwyb_interior_cs1_14brailway4.ytyp",
+    "DlcName": "patchday1ng",
+    "Position": {
+      "X": -5.37798452,
+      "Y": -60.460083,
+      "Z": -6.07913542
+    },
+    "TotalEntitiesCount": 10
+  },
+  {
+    "Name": "cs1_14brailway5",
+    "FileName": "cs1_railwyb_interior_cs1_14brailway5.ytyp",
+    "DlcName": "patchday1ng",
+    "Position": {
+      "X": -6.245258,
+      "Y": -45.58316,
+      "Z": -6.43647671
+    },
+    "TotalEntitiesCount": 9
+  },
+  {
+    "Name": "dt1_05_int_undpass",
+    "FileName": "dt1_05_interior_dt1_05_int_undpass.ytyp",
+    "DlcName": "patchday1ng",
+    "Position": {
+      "X": -11.01186,
+      "Y": -25.0238647,
+      "Z": -3.76929832
+    },
+    "TotalEntitiesCount": 8
+  },
+  {
+    "Name": "cs1_12_tunnel03_int",
+    "FileName": "cs1_12_interior_cs1_12_tunnel03_int.ytyp",
+    "DlcName": "patchday1ng",
+    "Position": {
+      "X": -57.72487,
+      "Y": -48.5054359,
+      "Z": -9.83362
+    },
+    "TotalEntitiesCount": 2
+  },
+  {
+    "Name": "dt1_rd1_tun",
+    "FileName": "dt1_rd1_interior_dt1_rd1_tun.ytyp",
+    "DlcName": "patchday1ng",
+    "Position": {
+      "X": -58.62903,
+      "Y": -38.1686859,
+      "Z": -2.68516684
+    },
+    "TotalEntitiesCount": 41
+  },
+  {
+    "Name": "sc1_rd_inttun3",
+    "FileName": "sc1_rd_interior_sc1_rd_inttun3.ytyp",
+    "DlcName": "patchday1ng",
+    "Position": {
+      "X": -49.6448746,
+      "Y": -11.56208,
+      "Z": -4.041952
+    },
+    "TotalEntitiesCount": 12
+  },
+  {
+    "Name": "dt1_rd1_tun3",
+    "FileName": "dt1_rd1_interior_dt1_rd1_tun3.ytyp",
+    "DlcName": "patchday1ng",
+    "Position": {
+      "X": -58.8097878,
+      "Y": -38.0687943,
+      "Z": -5.415063
+    },
+    "TotalEntitiesCount": 8
+  },
+  {
+    "Name": "id2_21_a_tun1",
+    "FileName": "id2_21_a_interior_id2_21_a_tun1.ytyp",
+    "DlcName": "patchday1ng",
+    "Position": {
+      "X": -63.1871033,
+      "Y": -15.47403,
+      "Z": -5.03372574
+    },
+    "TotalEntitiesCount": 24
+  },
+  {
+    "Name": "id2_21_a_tun2",
+    "FileName": "id2_21_a_interior_id2_21_a_tun2.ytyp",
+    "DlcName": "patchday1ng",
+    "Position": {
+      "X": -117.039032,
+      "Y": -51.3432,
+      "Z": -5.96467924
+    },
+    "TotalEntitiesCount": 27
+  },
+  {
+    "Name": "id2_21_a_tun3",
+    "FileName": "id2_21_a_interior_id2_21_a_tun3.ytyp",
+    "DlcName": "patchday1ng",
+    "Position": {
+      "X": -65.44083,
+      "Y": -95.11682,
+      "Z": -6.60938263
+    },
+    "TotalEntitiesCount": 20
+  },
+  {
+    "Name": "id2_21_a_tun4",
+    "FileName": "id2_21_a_interior_id2_21_a_tun4.ytyp",
+    "DlcName": "patchday1ng",
+    "Position": {
+      "X": -22.3317566,
+      "Y": -114.800415,
+      "Z": -9.43145
+    },
+    "TotalEntitiesCount": 23
+  },
+  {
+    "Name": "id2_21_a_tun5",
+    "FileName": "id2_21_a_interior_id2_21_a_tun5.ytyp",
+    "DlcName": "patchday1ng",
+    "Position": {
+      "X": -55.8777466,
+      "Y": -46.09896,
+      "Z": -10.7223511
+    },
+    "TotalEntitiesCount": 16
+  },
+  {
+    "Name": "sc1_rd_inttun1",
+    "FileName": "sc1_rd_interior_sc1_rd_inttun1.ytyp",
+    "DlcName": "patchday1ng",
+    "Position": {
+      "X": -145.3718,
+      "Y": -60.7764435,
+      "Z": -7.2363143
+    },
+    "TotalEntitiesCount": 44
+  },
+  {
+    "Name": "sc1_rd_inttun2",
+    "FileName": "sc1_rd_interior_sc1_rd_inttun2.ytyp",
+    "DlcName": "patchday1ng",
+    "Position": {
+      "X": -25.998764,
+      "Y": -28.3201218,
+      "Z": -4.65546036
+    },
+    "TotalEntitiesCount": 10
+  },
+  {
+    "Name": "sc1_rd_inttun2b",
+    "FileName": "sc1_rd_interior_sc1_rd_inttun2b.ytyp",
+    "DlcName": "patchday1ng",
+    "Position": {
+      "X": -40.3316727,
+      "Y": -5.31331635,
+      "Z": -3.39257431
+    },
+    "TotalEntitiesCount": 15
+  },
+  {
+    "Name": "sc1_rd_inttun2b_end",
+    "FileName": "sc1_rd_interior_sc1_rd_inttun2b_end.ytyp",
+    "DlcName": "patchday1ng",
+    "Position": {
+      "X": -12.47414,
+      "Y": -9.738007,
+      "Z": -3.02447033
+    },
+    "TotalEntitiesCount": 16
+  },
+  {
+    "Name": "sc1_rd_inttun3b",
+    "FileName": "sc1_rd_interior_sc1_rd_inttun3b.ytyp",
+    "DlcName": "patchday1ng",
+    "Position": {
+      "X": -42.1955261,
+      "Y": -23.2062645,
+      "Z": -3.5498333
+    },
+    "TotalEntitiesCount": 12
+  },
+  {
+    "Name": "sc1_rd_inttun3b_end",
+    "FileName": "sc1_rd_interior_sc1_rd_inttun3b_end.ytyp",
+    "DlcName": "patchday1ng",
+    "Position": {
+      "X": -19.8723354,
+      "Y": -12.2542515,
+      "Z": -3.44208336
+    },
+    "TotalEntitiesCount": 15
+  },
+  {
+    "Name": "sc1_rd_inttunshort",
+    "FileName": "sc1_rd_interior_sc1_rd_inttunshort.ytyp",
+    "DlcName": "patchday1ng",
+    "Position": {
+      "X": -23.1742134,
+      "Y": -62.15882,
+      "Z": -2.93184662
+    },
+    "TotalEntitiesCount": 14
+  },
+  {
+    "Name": "cs4_rwayb_tunnelint",
+    "FileName": "cs4_railwayb_interior_cs4_rwayb_tunnelint.ytyp",
+    "DlcName": "patchday1ng",
+    "Position": {
+      "X": -56.84099,
+      "Y": -25.3001328,
+      "Z": -4.87133741
+    },
+    "TotalEntitiesCount": 18
+  },
+  {
+    "Name": "dt1_rd1_tun2",
+    "FileName": "dt1_rd1_interior_dt1_rd1_tun2.ytyp",
+    "DlcName": "patchday1ng",
+    "Position": {
+      "X": -17.4821777,
+      "Y": -15.3380156,
+      "Z": -3.5011158
+    },
+    "TotalEntitiesCount": 7
+  },
+  {
+    "Name": "cs6_08_mine_int",
+    "FileName": "cs6_08_interior_cs6_08_mine_int.ytyp",
+    "DlcName": "patchday1ng",
+    "Position": {
+      "X": -5.28881836,
+      "Y": -195.157135,
+      "Z": -14.3577557
+    },
+    "TotalEntitiesCount": 96
+  },
+  {
+    "Name": "bt1_04_carpark",
+    "FileName": "bt1_04_interior_bt1_04_carpark.ytyp",
+    "DlcName": "patchday1ng",
+    "Position": {
+      "X": -72.93889,
+      "Y": -52.6840744,
+      "Z": -7.074437
+    },
+    "TotalEntitiesCount": 73
+  },
+  {
+    "Name": "bt1_04_burton_subway",
+    "FileName": "bt1_04_interior_bt1_04_burton_subway.ytyp",
+    "DlcName": "patchday1ng",
+    "Position": {
+      "X": -5.21869,
+      "Y": -11.66555,
+      "Z": -5.69963026
+    },
+    "TotalEntitiesCount": 9
+  },
+  {
+    "Name": "v_31_tun_01",
+    "FileName": "v_int_31a.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -23.81266,
+      "Y": -35.589138,
+      "Z": -14.5184422
+    },
+    "TotalEntitiesCount": 49
+  },
+  {
+    "Name": "id1_11_tunnel3_int",
+    "FileName": "id1_11_interior_id1_11_tunnel3_int.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -102.483276,
+      "Y": -54.3940735,
+      "Z": -7.93087
+    },
+    "TotalEntitiesCount": 112
+  },
+  {
+    "Name": "id1_11_tunnel4_int",
+    "FileName": "id1_11_interior_id1_11_tunnel4_int.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -17.4765244,
+      "Y": -83.05475,
+      "Z": -4.98354673
+    },
+    "TotalEntitiesCount": 134
+  },
+  {
+    "Name": "id1_11_tunnel5_int",
+    "FileName": "id1_11_interior_id1_11_tunnel5_int.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -11.8492088,
+      "Y": -75.62813,
+      "Z": -3.83107567
+    },
+    "TotalEntitiesCount": 84
+  },
+  {
+    "Name": "id1_11_tunnel6_int",
+    "FileName": "id1_11_interior_id1_11_tunnel6_int.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -90.8322754,
+      "Y": -59.35962,
+      "Z": -22.3681488
+    },
+    "TotalEntitiesCount": 120
+  },
+  {
+    "Name": "id1_11_tunnel7_int",
+    "FileName": "id1_11_interior_id1_11_tunnel7_int.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -12.0624619,
+      "Y": -69.1742554,
+      "Z": -4.95434952
+    },
+    "TotalEntitiesCount": 66
+  },
+  {
+    "Name": "v_31_tun_02",
+    "FileName": "v_int_31a.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -22.46289,
+      "Y": -33.4350243,
+      "Z": -22.9068985
+    },
+    "TotalEntitiesCount": 112
+  },
+  {
+    "Name": "id2_21_a_tun1",
+    "FileName": "id2_21_a_interior_id2_21_a_tun1.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -63.1871033,
+      "Y": -15.47403,
+      "Z": -5.03372574
+    },
+    "TotalEntitiesCount": 24
+  },
+  {
+    "Name": "id2_21_a_tun2",
+    "FileName": "id2_21_a_interior_id2_21_a_tun2.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -117.039032,
+      "Y": -51.3432,
+      "Z": -5.96467924
+    },
+    "TotalEntitiesCount": 27
+  },
+  {
+    "Name": "id2_21_a_tun3",
+    "FileName": "id2_21_a_interior_id2_21_a_tun3.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -65.44083,
+      "Y": -95.11682,
+      "Z": -6.60938263
+    },
+    "TotalEntitiesCount": 20
+  },
+  {
+    "Name": "id2_21_a_tun4",
+    "FileName": "id2_21_a_interior_id2_21_a_tun4.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -22.3317566,
+      "Y": -114.800415,
+      "Z": -9.43145
+    },
+    "TotalEntitiesCount": 23
+  },
+  {
+    "Name": "id2_21_a_tun5",
+    "FileName": "id2_21_a_interior_id2_21_a_tun5.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -55.8777466,
+      "Y": -46.09896,
+      "Z": -10.7223511
+    },
+    "TotalEntitiesCount": 16
+  },
+  {
+    "Name": "sc1_rd_inttun1",
+    "FileName": "sc1_rd_interior_sc1_rd_inttun1.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -145.3718,
+      "Y": -60.7764435,
+      "Z": -7.2363143
+    },
+    "TotalEntitiesCount": 44
+  },
+  {
+    "Name": "sc1_rd_inttun2",
+    "FileName": "sc1_rd_interior_sc1_rd_inttun2.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -25.998764,
+      "Y": -28.3201218,
+      "Z": -4.65546036
+    },
+    "TotalEntitiesCount": 10
+  },
+  {
+    "Name": "sc1_rd_inttun2b",
+    "FileName": "sc1_rd_interior_sc1_rd_inttun2b.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -40.3316727,
+      "Y": -5.31331635,
+      "Z": -3.39257431
+    },
+    "TotalEntitiesCount": 15
+  },
+  {
+    "Name": "id1_11_tunnel2_int",
+    "FileName": "id1_11_interior_id1_11_tunnel2_int.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -10.70737,
+      "Y": -52.4776764,
+      "Z": -3.510754
+    },
+    "TotalEntitiesCount": 52
+  },
+  {
+    "Name": "id1_11_tunnel1_int",
+    "FileName": "id1_11_interior_id1_11_tunnel1_int.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -28.7113361,
+      "Y": -53.9823265,
+      "Z": -2.59061861
+    },
+    "TotalEntitiesCount": 60
+  },
+  {
+    "Name": "dt1_rd1_tun3",
+    "FileName": "dt1_rd1_interior_dt1_rd1_tun3.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -58.8097878,
+      "Y": -38.0687943,
+      "Z": -5.415063
+    },
+    "TotalEntitiesCount": 8
+  },
+  {
+    "Name": "dt1_rd1_tun2",
+    "FileName": "dt1_rd1_interior_dt1_rd1_tun2.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -17.4821777,
+      "Y": -15.3380156,
+      "Z": -3.5011158
+    },
+    "TotalEntitiesCount": 7
+  },
+  {
+    "Name": "v_fib03",
+    "FileName": "v_int_74.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -22.6315041,
+      "Y": -22.6972351,
+      "Z": -4.00054073
+    },
+    "TotalEntitiesCount": 465
+  },
+  {
+    "Name": "v_fib02",
+    "FileName": "v_int_74.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -20.5902538,
+      "Y": -22.3002014,
+      "Z": -0.00346755981
+    },
+    "TotalEntitiesCount": 308
+  },
+  {
+    "Name": "v_fib04",
+    "FileName": "v_int_73.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -1.91682339,
+      "Y": -1.75538707,
+      "Z": -177.339523
+    },
+    "TotalEntitiesCount": 37
+  },
+  {
+    "Name": "v_fib01",
+    "FileName": "v_int_73.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -32.33135,
+      "Y": -5.995776,
+      "Z": -0.100260973
+    },
+    "TotalEntitiesCount": 648
+  },
+  {
+    "Name": "v_hanger",
+    "FileName": "v_int_60.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -69.26307,
+      "Y": -55.4793129,
+      "Z": -0.9582138
+    },
+    "TotalEntitiesCount": 363
+  },
+  {
+    "Name": "v_michael_garage",
+    "FileName": "v_int_44.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -4.250299,
+      "Y": -6.27821732,
+      "Z": -0.126646161
+    },
+    "TotalEntitiesCount": 43
+  },
+  {
+    "Name": "v_michael",
+    "FileName": "v_int_44.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -9.841717,
+      "Y": -8.592166,
+      "Z": -0.0105690956
+    },
+    "TotalEntitiesCount": 372
+  },
+  {
+    "Name": "v_31_tun_swap",
+    "FileName": "v_int_31a.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -22.4628983,
+      "Y": -33.4350243,
+      "Z": -22.9068985
+    },
+    "TotalEntitiesCount": 112
+  },
+  {
+    "Name": "v_31_tun_04",
+    "FileName": "v_int_31a.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -32.7206573,
+      "Y": -111.045624,
+      "Z": -7.690155
+    },
+    "TotalEntitiesCount": 102
+  },
+  {
+    "Name": "v_31_tun_03",
+    "FileName": "v_int_31a.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -21.7849236,
+      "Y": -58.40845,
+      "Z": -1.88563347
+    },
+    "TotalEntitiesCount": 124
+  },
+  {
+    "Name": "dt1_02_carpark",
+    "FileName": "dt1_02_interior_dt1_02_carpark.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -57.6620026,
+      "Y": -54.1520958,
+      "Z": -2.638535
+    },
+    "TotalEntitiesCount": 29
+  },
+  {
+    "Name": "dt1_03_carpark",
+    "FileName": "dt1_03_interior_dt1_03_carpark.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -58.2377472,
+      "Y": -35.95295,
+      "Z": -2.97183561
+    },
+    "TotalEntitiesCount": 38
+  },
+  {
+    "Name": "dt1_05_carpark",
+    "FileName": "dt1_05_interior_dt1_05_carpark.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -59.3978577,
+      "Y": -39.7121964,
+      "Z": -4.28625441
+    },
+    "TotalEntitiesCount": 91
+  },
+  {
+    "Name": "dt1_05_int_undpass",
+    "FileName": "dt1_05_interior_dt1_05_int_undpass.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -11.01186,
+      "Y": -25.0238647,
+      "Z": -3.76929832
+    },
+    "TotalEntitiesCount": 8
+  },
+  {
+    "Name": "dt1_rd1_tun",
+    "FileName": "dt1_rd1_interior_dt1_rd1_tun.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -58.62903,
+      "Y": -38.1686859,
+      "Z": -2.68516684
+    },
+    "TotalEntitiesCount": 41
+  },
+  {
+    "Name": "sc1_rd_inttun2b_end",
+    "FileName": "sc1_rd_interior_sc1_rd_inttun2b_end.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -12.47414,
+      "Y": -9.738007,
+      "Z": -3.02447033
+    },
+    "TotalEntitiesCount": 16
+  },
+  {
+    "Name": "sc1_rd_inttun3",
+    "FileName": "sc1_rd_interior_sc1_rd_inttun3.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -49.6448746,
+      "Y": -11.56208,
+      "Z": -4.041952
+    },
+    "TotalEntitiesCount": 12
+  },
+  {
+    "Name": "id1_11_tunnel8_int",
+    "FileName": "id1_11_interior_id1_11_tunnel8_int.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -33.17713,
+      "Y": -58.38504,
+      "Z": -2.18449736
+    },
+    "TotalEntitiesCount": 24
+  },
+  {
+    "Name": "sc1_rd_inttun3b_end",
+    "FileName": "sc1_rd_interior_sc1_rd_inttun3b_end.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -19.8723354,
+      "Y": -12.2542515,
+      "Z": -3.44208336
+    },
+    "TotalEntitiesCount": 15
+  },
+  {
+    "Name": "cs1_12_tunnel03_int",
+    "FileName": "cs1_12_interior_cs1_12_tunnel03_int.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -57.72487,
+      "Y": -48.5054359,
+      "Z": -9.83362
+    },
+    "TotalEntitiesCount": 2
+  },
+  {
+    "Name": "cs1_14brailway1",
+    "FileName": "cs1_railwyb_interior_cs1_14brailway1.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -10.1018076,
+      "Y": -50.0269661,
+      "Z": -4.36092567
+    },
+    "TotalEntitiesCount": 10
+  },
+  {
+    "Name": "cs1_14brailway2",
+    "FileName": "cs1_railwyb_interior_cs1_14brailway2.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -5.13683748,
+      "Y": -32.95874,
+      "Z": -4.765063
+    },
+    "TotalEntitiesCount": 8
+  },
+  {
+    "Name": "cs1_14brailway3",
+    "FileName": "cs1_railwyb_interior_cs1_14brailway3.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -5.315024,
+      "Y": -53.7855949,
+      "Z": -5.52931166
+    },
+    "TotalEntitiesCount": 10
+  },
+  {
+    "Name": "cs1_14brailway4",
+    "FileName": "cs1_railwyb_interior_cs1_14brailway4.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -5.37798452,
+      "Y": -60.460083,
+      "Z": -6.07913542
+    },
+    "TotalEntitiesCount": 10
+  },
+  {
+    "Name": "cs1_14brailway5",
+    "FileName": "cs1_railwyb_interior_cs1_14brailway5.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -6.245258,
+      "Y": -45.58316,
+      "Z": -6.43647671
+    },
+    "TotalEntitiesCount": 9
+  },
+  {
+    "Name": "cs1_14brailway6",
+    "FileName": "cs1_railwyb_interior_cs1_14brailway6.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -6.800498,
+      "Y": -79.05324,
+      "Z": -6.1671896
+    },
+    "TotalEntitiesCount": 15
+  },
+  {
+    "Name": "cs2_roadsb_tunnel_01",
+    "FileName": "cs2_roadsb_interior_cs2_roadsb_tunnel_01.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -34.5440521,
+      "Y": -46.292572,
+      "Z": -2.89199781
+    },
+    "TotalEntitiesCount": 20
+  },
+  {
+    "Name": "sc1_rd_inttun3b",
+    "FileName": "sc1_rd_interior_sc1_rd_inttun3b.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -42.1955261,
+      "Y": -23.2062645,
+      "Z": -3.5498333
+    },
+    "TotalEntitiesCount": 12
+  },
+  {
+    "Name": "cs2_roadsb_tunnel_03",
+    "FileName": "cs2_roadsb_interior_cs2_roadsb_tunnel_03.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -47.3944626,
+      "Y": -35.2451935,
+      "Z": -2.592493
+    },
+    "TotalEntitiesCount": 20
+  },
+  {
+    "Name": "cs3_03railtunnel_int1",
+    "FileName": "cs3_railway_interior_cs3_03railtunnel_int1.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -9.008088,
+      "Y": -25.631546,
+      "Z": -4.211525
+    },
+    "TotalEntitiesCount": 4
+  },
+  {
+    "Name": "cs3_03railtunnel_int2",
+    "FileName": "cs3_railway_interior_cs3_03railtunnel_int2.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -13.1781693,
+      "Y": -48.11702,
+      "Z": -2.624186
+    },
+    "TotalEntitiesCount": 7
+  },
+  {
+    "Name": "cs3_03railtunnel_int3",
+    "FileName": "cs3_railway_interior_cs3_03railtunnel_int3.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -14.40638,
+      "Y": -42.4902649,
+      "Z": -2.31166267
+    },
+    "TotalEntitiesCount": 8
+  },
+  {
+    "Name": "cs3_03railtunnel_int4",
+    "FileName": "cs3_railway_interior_cs3_03railtunnel_int4.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -11.335928,
+      "Y": -34.70511,
+      "Z": -1.9011116
+    },
+    "TotalEntitiesCount": 12
+  },
+  {
+    "Name": "cs6_08_mine_int",
+    "FileName": "cs6_08_interior_cs6_08_mine_int.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -5.28881836,
+      "Y": -195.157135,
+      "Z": -14.3577557
+    },
+    "TotalEntitiesCount": 96
+  },
+  {
+    "Name": "cs1_12_tunnel02_int",
+    "FileName": "cs1_12_interior_cs1_12_tunnel02_int.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -220.022659,
+      "Y": -136.145844,
+      "Z": -16.6142311
+    },
+    "TotalEntitiesCount": 5
+  },
+  {
+    "Name": "cs1_12_tunnel01_int",
+    "FileName": "cs1_12_interior_cs1_12_tunnel01_int.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -83.5336151,
+      "Y": -53.2780457,
+      "Z": -5.1108
+    },
+    "TotalEntitiesCount": 2
+  },
+  {
+    "Name": "cs2_roadsb_tunnel_02",
+    "FileName": "cs2_roadsb_interior_cs2_roadsb_tunnel_02.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -59.11226,
+      "Y": -71.2806854,
+      "Z": -4.09615469
+    },
+    "TotalEntitiesCount": 33
+  },
+  {
+    "Name": "ch3_01_trlr_int",
+    "FileName": "ch3_01_interior_ch3_01_trlr_int.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -6.32942772,
+      "Y": -8.861031,
+      "Z": -0.0106348991
+    },
+    "TotalEntitiesCount": 8
+  },
+  {
+    "Name": "sc1_rd_inttunshort",
+    "FileName": "sc1_rd_interior_sc1_rd_inttunshort.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -23.1742134,
+      "Y": -62.15882,
+      "Z": -2.93184662
+    },
+    "TotalEntitiesCount": 14
+  },
+  {
+    "Name": "bt1_04_burton_subway",
+    "FileName": "bt1_04_interior_bt1_04_burton_subway.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -5.21869,
+      "Y": -11.66555,
+      "Z": -5.69963026
+    },
+    "TotalEntitiesCount": 9
+  },
+  {
+    "Name": "bt1_04_carpark",
+    "FileName": "bt1_04_interior_bt1_04_carpark.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -72.93889,
+      "Y": -52.6840744,
+      "Z": -7.074437
+    },
+    "TotalEntitiesCount": 73
+  },
+  {
+    "Name": "bh1_rd2_portola_subway",
+    "FileName": "bh1_rd_interior_bh1_rd2_portola_subway.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -26.9825859,
+      "Y": -16.2626648,
+      "Z": -2.024918
+    },
+    "TotalEntitiesCount": 52
+  },
+  {
+    "Name": "sm_15_delperro_subway",
+    "FileName": "sm_15_interior_sm_15_delperro_subway.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -9.551974,
+      "Y": -8.031423,
+      "Z": -3.939052
+    },
+    "TotalEntitiesCount": 9
+  },
+  {
+    "Name": "ch3_08_dam_corr_milo",
+    "FileName": "ch3_08_interior_ch3_08_dam_corr_milo.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -6.551359,
+      "Y": -10.3534956,
+      "Z": -3.507481
+    },
+    "TotalEntitiesCount": 24
+  },
+  {
+    "Name": "sm20_tun2",
+    "FileName": "sm_20_interior_sm20_tun2.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -60.0431976,
+      "Y": -31.02343,
+      "Z": -5.29253149
+    },
+    "TotalEntitiesCount": 55
+  },
+  {
+    "Name": "sm20_tun1",
+    "FileName": "sm_20_interior_sm20_tun1.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -74.35826,
+      "Y": -29.35083,
+      "Z": -5.09216928
+    },
+    "TotalEntitiesCount": 51
+  },
+  {
+    "Name": "sm20_tun4",
+    "FileName": "sm_20_interior_sm20_tun4.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -52.6494446,
+      "Y": -43.9084854,
+      "Z": -3.691543
+    },
+    "TotalEntitiesCount": 56
+  },
+  {
+    "Name": "vb_33_garage",
+    "FileName": "vb_33_interior_vb_33_garage.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -7.752438,
+      "Y": -7.02734,
+      "Z": -0.385266781
+    },
+    "TotalEntitiesCount": 54
+  },
+  {
+    "Name": "vbca_tunnel1",
+    "FileName": "vb_ca_interior_vbca_tunnel1.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -70.33029,
+      "Y": -38.4956741,
+      "Z": -3.593146
+    },
+    "TotalEntitiesCount": 35
+  },
+  {
+    "Name": "vbca_tunnel2",
+    "FileName": "vb_ca_interior_vbca_tunnel2.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -169.040161,
+      "Y": -83.89414,
+      "Z": -3.593146
+    },
+    "TotalEntitiesCount": 27
+  },
+  {
+    "Name": "vbca_tunnel3",
+    "FileName": "vb_ca_interior_vbca_tunnel3.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -140.494324,
+      "Y": -69.79978,
+      "Z": -3.593146
+    },
+    "TotalEntitiesCount": 19
+  },
+  {
+    "Name": "vbca_tunnel4",
+    "FileName": "vb_ca_interior_vbca_tunnel4.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -69.75615,
+      "Y": -37.8075,
+      "Z": -3.59314513
+    },
+    "TotalEntitiesCount": 16
+  },
+  {
+    "Name": "vbca_tunnel5",
+    "FileName": "vb_ca_interior_vbca_tunnel5.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -111.172333,
+      "Y": -34.6638641,
+      "Z": -3.593146
+    },
+    "TotalEntitiesCount": 16
+  },
+  {
+    "Name": "sm20_tun3",
+    "FileName": "sm_20_interior_sm20_tun3.ytyp",
+    "DlcName": "patchday2ng",
+    "Position": {
+      "X": -70.55946,
+      "Y": -61.8014,
+      "Z": -4.545752
+    },
+    "TotalEntitiesCount": 54
+  },
+  {
+    "Name": "v_mp_apt_h_01",
+    "FileName": "int_mp_apt_h_01.ytyp",
+    "DlcName": "mpbusiness2",
+    "Position": {
+      "X": -11.8087177,
+      "Y": -17.1640778,
+      "Z": -0.600743055
+    },
+    "TotalEntitiesCount": 206
+  },
+  {
+    "Name": "v_mp_gar_h_01",
+    "FileName": "int_mp_gar_h_01.ytyp",
+    "DlcName": "mpbusiness2",
+    "Position": {
+      "X": -52.5419769,
+      "Y": -20.6903572,
+      "Z": -2.861023E-06
+    },
+    "TotalEntitiesCount": 14
+  },
+  {
+    "Name": "v_michael_garage",
+    "FileName": "v_int_44.ytyp",
+    "DlcName": "patchday3ng",
+    "Position": {
+      "X": -4.250299,
+      "Y": -6.27821732,
+      "Z": -0.126646161
+    },
+    "TotalEntitiesCount": 43
+  },
+  {
+    "Name": "v_michael",
+    "FileName": "v_int_44.ytyp",
+    "DlcName": "patchday3ng",
+    "Position": {
+      "X": -9.841717,
+      "Y": -8.592166,
+      "Z": -0.0105690956
+    },
+    "TotalEntitiesCount": 372
+  },
+  {
+    "Name": "v_carshowroom",
+    "FileName": "v_int_15.ytyp",
+    "DlcName": "patchday3ng",
+    "Position": {
+      "X": -19.2616444,
+      "Y": -14.0269356,
+      "Z": -0.00780797
+    },
+    "TotalEntitiesCount": 170
+  },
+  {
+    "Name": "milo_replay",
+    "FileName": "dlc_replayeditor_casting.ytyp",
+    "DlcName": "patchday3ng",
+    "Position": {
+      "X": -53.703125,
+      "Y": -58.0558777,
+      "Z": -3.65386629
+    },
+    "TotalEntitiesCount": 100
+  },
+  {
+    "Name": "cs2_roadsb_tunnel_01",
+    "FileName": "cs2_roadsb_interior_cs2_roadsb_tunnel_01.ytyp",
+    "DlcName": "patchday3ng",
+    "Position": {
+      "X": -34.5440521,
+      "Y": -46.292572,
+      "Z": -2.89199781
+    },
+    "TotalEntitiesCount": 20
+  },
+  {
+    "Name": "cs2_roadsb_tunnel_02",
+    "FileName": "cs2_roadsb_interior_cs2_roadsb_tunnel_02.ytyp",
+    "DlcName": "patchday3ng",
+    "Position": {
+      "X": -59.11226,
+      "Y": -71.2806854,
+      "Z": -4.09615469
+    },
+    "TotalEntitiesCount": 33
+  },
+  {
+    "Name": "cs2_roadsb_tunnel_03",
+    "FileName": "cs2_roadsb_interior_cs2_roadsb_tunnel_03.ytyp",
+    "DlcName": "patchday3ng",
+    "Position": {
+      "X": -47.3944626,
+      "Y": -35.2451935,
+      "Z": -2.592493
+    },
+    "TotalEntitiesCount": 20
+  },
+  {
+    "Name": "v_coroner",
+    "FileName": "v_int_2.ytyp",
+    "DlcName": "patchday3ng",
+    "Position": {
+      "X": -17.7446,
+      "Y": -16.1818714,
+      "Z": -12.2685032
+    },
+    "TotalEntitiesCount": 583
+  },
+  {
+    "Name": "metro_newwalk4",
+    "FileName": "v_int_metro_subway4.ytyp",
+    "DlcName": "patchday4ng",
+    "Position": {
+      "X": -19.20293,
+      "Y": -16.3738766,
+      "Z": -3.68409634
+    },
+    "TotalEntitiesCount": 73
+  },
+  {
+    "Name": "metro_newwalk3",
+    "FileName": "v_int_metro_subway3.ytyp",
+    "DlcName": "patchday4ng",
+    "Position": {
+      "X": -10.1806746,
+      "Y": -21.7976456,
+      "Z": -2.45106077
+    },
+    "TotalEntitiesCount": 85
+  },
+  {
+    "Name": "metro_newwalk2",
+    "FileName": "v_int_metro_subway2.ytyp",
+    "DlcName": "patchday4ng",
+    "Position": {
+      "X": -59.56723,
+      "Y": -37.48553,
+      "Z": -2.43547
+    },
+    "TotalEntitiesCount": 186
+  },
+  {
+    "Name": "metro_station_3_seoul",
+    "FileName": "v_int_metro_subway1.ytyp",
+    "DlcName": "patchday4ng",
+    "Position": {
+      "X": -24.7291012,
+      "Y": -45.48174,
+      "Z": -5.808297
+    },
+    "TotalEntitiesCount": 251
+  },
+  {
+    "Name": "v_torture",
+    "FileName": "v_int_55.ytyp",
+    "DlcName": "patchday4ng",
+    "Position": {
+      "X": -12.9842567,
+      "Y": -8.842897,
+      "Z": 0.08518505
+    },
+    "TotalEntitiesCount": 25
+  },
+  {
+    "Name": "v_31_tun_04",
+    "FileName": "v_int_31a.ytyp",
+    "DlcName": "patchday4ng",
+    "Position": {
+      "X": -32.7206573,
+      "Y": -111.045624,
+      "Z": -7.690155
+    },
+    "TotalEntitiesCount": 102
+  },
+  {
+    "Name": "v_31_tun_03",
+    "FileName": "v_int_31a.ytyp",
+    "DlcName": "patchday4ng",
+    "Position": {
+      "X": -21.7849236,
+      "Y": -58.40845,
+      "Z": -1.88563347
+    },
+    "TotalEntitiesCount": 124
+  },
+  {
+    "Name": "v_31_tun_02",
+    "FileName": "v_int_31a.ytyp",
+    "DlcName": "patchday4ng",
+    "Position": {
+      "X": -22.46289,
+      "Y": -33.4350243,
+      "Z": -22.9068985
+    },
+    "TotalEntitiesCount": 112
+  },
+  {
+    "Name": "v_31_tun_01",
+    "FileName": "v_int_31a.ytyp",
+    "DlcName": "patchday4ng",
+    "Position": {
+      "X": -23.81266,
+      "Y": -35.589138,
+      "Z": -14.5184422
+    },
+    "TotalEntitiesCount": 49
+  },
+  {
+    "Name": "v_cashdepot",
+    "FileName": "prologueint.ytyp",
+    "DlcName": "patchday4ng",
+    "Position": {
+      "X": -13.7071152,
+      "Y": -23.7500019,
+      "Z": -0.000492
+    },
+    "TotalEntitiesCount": 319
+  },
+  {
+    "Name": "metro_newwalk1",
+    "FileName": "v_int_metro_subway1.ytyp",
+    "DlcName": "patchday4ng",
+    "Position": {
+      "X": -27.4605713,
+      "Y": -25.0600758,
+      "Z": -4.98097467
+    },
+    "TotalEntitiesCount": 150
+  },
+  {
+    "Name": "v_31_tun_swap",
+    "FileName": "v_int_31a.ytyp",
+    "DlcName": "patchday4ng",
+    "Position": {
+      "X": -22.4628983,
+      "Y": -33.4350243,
+      "Z": -22.9068985
+    },
+    "TotalEntitiesCount": 112
+  },
+  {
+    "Name": "metro_newwalk6",
+    "FileName": "v_int_metro_subway6.ytyp",
+    "DlcName": "patchday4ng",
+    "Position": {
+      "X": -10.2675886,
+      "Y": -24.2974834,
+      "Z": -2.45106077
+    },
+    "TotalEntitiesCount": 92
+  },
+  {
+    "Name": "metro_newwalk5",
+    "FileName": "v_int_metro_subway5.ytyp",
+    "DlcName": "patchday4ng",
+    "Position": {
+      "X": -15.8711433,
+      "Y": -23.351799,
+      "Z": -2.98199677
+    },
+    "TotalEntitiesCount": 104
+  },
+  {
+    "Name": "hei_sm_13_carpark",
+    "FileName": "hei_sm_13_interior_0_sm_13_carpark.ytyp",
+    "DlcName": "mpheist",
+    "Position": {
+      "X": 3.40282347E+38,
+      "Y": 3.40282347E+38,
+      "Z": 3.40282347E+38
+    },
+    "TotalEntitiesCount": 2
+  },
+  {
+    "Name": "hei_gta_milo_bedrm",
+    "FileName": "hei_mpheist_yacht.ytyp",
+    "DlcName": "mpheist",
+    "Position": {
+      "X": -20.53491,
+      "Y": -7.200775,
+      "Z": -0.02118504
+    },
+    "TotalEntitiesCount": 196
+  },
+  {
+    "Name": "hei_gta_milo_bar",
+    "FileName": "hei_mpheist_yacht.ytyp",
+    "DlcName": "mpheist",
+    "Position": {
+      "X": -7.362962,
+      "Y": -7.948344,
+      "Z": -0.0611161
+    },
+    "TotalEntitiesCount": 151
+  },
+  {
+    "Name": "hei_heist_ornate_bank",
+    "FileName": "hei_heist_ornate_bank.ytyp",
+    "DlcName": "mpheist",
+    "Position": {
+      "X": -16.3877869,
+      "Y": -10.4471359,
+      "Z": -4.60335255
+    },
+    "TotalEntitiesCount": 412
+  },
+  {
+    "Name": "hei_int_mph_carrierupper",
+    "FileName": "hei_dlc_mpheist_carrier.ytyp",
+    "DlcName": "mpheist",
+    "Position": {
+      "X": -4.008282,
+      "Y": -14.7208691,
+      "Z": -2.59400177
+    },
+    "TotalEntitiesCount": 67
+  },
+  {
+    "Name": "hei_int_mph_carrierhang3",
+    "FileName": "hei_dlc_mpheist_carrier.ytyp",
+    "DlcName": "mpheist",
+    "Position": {
+      "X": -33.3909073,
+      "Y": -21.453146,
+      "Z": -2.257022
+    },
+    "TotalEntitiesCount": 64
+  },
+  {
+    "Name": "hei_int_mph_carrierhang2",
+    "FileName": "hei_dlc_mpheist_carrier.ytyp",
+    "DlcName": "mpheist",
+    "Position": {
+      "X": -40.0286255,
+      "Y": -25.3974419,
+      "Z": -2.19503784
+    },
+    "TotalEntitiesCount": 165
+  },
+  {
+    "Name": "hei_int_mph_carrierhang1",
+    "FileName": "hei_dlc_mpheist_carrier.ytyp",
+    "DlcName": "mpheist",
+    "Position": {
+      "X": -34.3295021,
+      "Y": -21.6226845,
+      "Z": -1.90930891
+    },
+    "TotalEntitiesCount": 146
+  },
+  {
+    "Name": "hei_int_mph_carriercontrol2",
+    "FileName": "hei_dlc_mpheist_carrier.ytyp",
+    "DlcName": "mpheist",
+    "Position": {
+      "X": -11.7819862,
+      "Y": -4.951304,
+      "Z": -0.280563
+    },
+    "TotalEntitiesCount": 85
+  },
+  {
+    "Name": "hei_int_mph_carriercontrol1",
+    "FileName": "hei_dlc_mpheist_carrier.ytyp",
+    "DlcName": "mpheist",
+    "Position": {
+      "X": -8.417776,
+      "Y": -7.92065334,
+      "Z": -0.280561566
+    },
+    "TotalEntitiesCount": 132
+  },
+  {
+    "Name": "hei_heist_police_dlc",
+    "FileName": "hei_dlc_heist_police.ytyp",
+    "DlcName": "mpheist",
+    "Position": {
+      "X": -7.74453926,
+      "Y": -29.4350166,
+      "Z": -5.970867
+    },
+    "TotalEntitiesCount": 515
+  },
+  {
+    "Name": "hei_generic_bank_dlc",
+    "FileName": "hei_dlc_generic_bank.ytyp",
+    "DlcName": "mpheist",
+    "Position": {
+      "X": -8.908637,
+      "Y": -3.44747114,
+      "Z": -0.3204479
+    },
+    "TotalEntitiesCount": 136
+  },
+  {
+    "Name": "hei_dlc_garage_high_new",
+    "FileName": "hei_dlc_garage_high_new.ytyp",
+    "DlcName": "mpheist",
+    "Position": {
+      "X": -8.360964,
+      "Y": -15.01638,
+      "Z": 0.0
+    },
+    "TotalEntitiesCount": 122
+  },
+  {
+    "Name": "hei_dlc_apart_high_new",
+    "FileName": "hei_dlc_apart_high_new.ytyp",
+    "DlcName": "mpheist",
+    "Position": {
+      "X": -19.0950031,
+      "Y": -5.533566,
+      "Z": -0.00748586655
+    },
+    "TotalEntitiesCount": 216
+  },
+  {
+    "Name": "hei_dlc_apart_high2_new",
+    "FileName": "hei_dlc_apart_high2_new.ytyp",
+    "DlcName": "mpheist",
+    "Position": {
+      "X": -11.8087177,
+      "Y": -17.1640778,
+      "Z": -0.600743055
+    },
+    "TotalEntitiesCount": 215
+  },
+  {
+    "Name": "hei_gta_milo_bridge",
+    "FileName": "hei_mpheist_yacht.ytyp",
+    "DlcName": "mpheist",
+    "Position": {
+      "X": -7.751813,
+      "Y": -5.053081,
+      "Z": -0.885441542
+    },
+    "TotalEntitiesCount": 57
+  },
+  {
+    "Name": "hei_gta_milo_lounge",
+    "FileName": "hei_mpheist_yacht.ytyp",
+    "DlcName": "mpheist",
+    "Position": {
+      "X": -5.58384132,
+      "Y": -5.455641,
+      "Z": -0.02762878
+    },
+    "TotalEntitiesCount": 50
+  },
+  {
+    "Name": "hei_gta_milo_enginrm",
+    "FileName": "hei_mpheist_yacht.ytyp",
+    "DlcName": "mpheist",
+    "Position": {
+      "X": -31.39666,
+      "Y": -7.51726,
+      "Z": -1.45105493
+    },
+    "TotalEntitiesCount": 73
+  },
+  {
+    "Name": "hei_dt1_11_carpark",
+    "FileName": "hei_dt1_11_interior_0_dt1_11_carpark.ytyp",
+    "DlcName": "mpheist",
+    "Position": {
+      "X": 3.40282347E+38,
+      "Y": 3.40282347E+38,
+      "Z": 3.40282347E+38
+    },
+    "TotalEntitiesCount": 2
+  },
+  {
+    "Name": "hei_sm_15_carpark",
+    "FileName": "hei_sm_15_interior_0_sm_15_carpark.ytyp",
+    "DlcName": "mpheist",
+    "Position": {
+      "X": 3.40282347E+38,
+      "Y": 3.40282347E+38,
+      "Z": 3.40282347E+38
+    },
+    "TotalEntitiesCount": 2
+  },
+  {
+    "Name": "hei_dt1_02_carpark",
+    "FileName": "hei_dt1_02_interior_dt1_02_carpark.ytyp",
+    "DlcName": "mpheist",
+    "Position": {
+      "X": -57.6620026,
+      "Y": -54.152092,
+      "Z": -2.638535
+    },
+    "TotalEntitiesCount": 38
+  },
+  {
+    "Name": "lr_supermod_int",
+    "FileName": "lr_supermod_garage_int.ytyp",
+    "DlcName": "mplowrider",
+    "Position": {
+      "X": -19.5374565,
+      "Y": -24.0339069,
+      "Z": -0.199119091
+    },
+    "TotalEntitiesCount": 277
+  },
+  {
+    "Name": "apa_v_mp_h_02",
+    "FileName": "apa_int_mp_h_02.ytyp",
+    "DlcName": "mpapartment",
+    "Position": {
+      "X": -21.1076088,
+      "Y": -7.629029,
+      "Z": -0.2853999
+    },
+    "TotalEntitiesCount": 208
+  },
+  {
+    "Name": "apa_v_mp_h_01",
+    "FileName": "apa_int_mp_h_01.ytyp",
+    "DlcName": "mpapartment",
+    "Position": {
+      "X": -21.1076088,
+      "Y": -7.629029,
+      "Z": -0.49327
+    },
+    "TotalEntitiesCount": 215
+  },
+  {
+    "Name": "apa_v_mp_h_03",
+    "FileName": "apa_int_mp_h_03.ytyp",
+    "DlcName": "mpapartment",
+    "Position": {
+      "X": -21.1076088,
+      "Y": -7.629029,
+      "Z": -0.2853999
+    },
+    "TotalEntitiesCount": 231
+  },
+  {
+    "Name": "apa_v_mp_h_04",
+    "FileName": "apa_int_mp_h_04.ytyp",
+    "DlcName": "mpapartment",
+    "Position": {
+      "X": -21.1076088,
+      "Y": -7.629029,
+      "Z": -0.2853999
+    },
+    "TotalEntitiesCount": 247
+  },
+  {
+    "Name": "apa_v_mp_h_05",
+    "FileName": "apa_int_mp_h_05.ytyp",
+    "DlcName": "mpapartment",
+    "Position": {
+      "X": -21.1076088,
+      "Y": -7.629029,
+      "Z": -0.2853999
+    },
+    "TotalEntitiesCount": 218
+  },
+  {
+    "Name": "apa_v_mp_h_07",
+    "FileName": "apa_int_mp_h_07.ytyp",
+    "DlcName": "mpapartment",
+    "Position": {
+      "X": -21.1076088,
+      "Y": -7.66817,
+      "Z": -0.2853999
+    },
+    "TotalEntitiesCount": 244
+  },
+  {
+    "Name": "apa_v_mp_h_08",
+    "FileName": "apa_int_mp_h_08.ytyp",
+    "DlcName": "mpapartment",
+    "Position": {
+      "X": -21.1076088,
+      "Y": -7.807265,
+      "Z": -0.2853999
+    },
+    "TotalEntitiesCount": 239
+  },
+  {
+    "Name": "apa_v_mp_stilts_a",
+    "FileName": "apa_int_mp_stilts_a.ytyp",
+    "DlcName": "mpapartment",
+    "Position": {
+      "X": -7.768695,
+      "Y": -3.48254013,
+      "Z": -7.406342
+    },
+    "TotalEntitiesCount": 299
+  },
+  {
+    "Name": "apa_v_mp_stilts_b",
+    "FileName": "apa_int_mp_stilts_b.ytyp",
+    "DlcName": "mpapartment",
+    "Position": {
+      "X": -10.0868225,
+      "Y": -3.48254013,
+      "Z": -7.372094
+    },
+    "TotalEntitiesCount": 301
+  },
+  {
+    "Name": "apa_mpapa_yacht",
+    "FileName": "apa_int_mp_yacht.ytyp",
+    "DlcName": "mpapartment",
+    "Position": {
+      "X": -13.0169487,
+      "Y": -7.407966,
+      "Z": -0.9909339
+    },
+    "TotalEntitiesCount": 446
+  },
+  {
+    "Name": "apa_v_mp_h_06",
+    "FileName": "apa_int_mp_h_06.ytyp",
+    "DlcName": "mpapartment",
+    "Position": {
+      "X": -21.1076088,
+      "Y": -7.629029,
+      "Z": -0.2853999
+    },
+    "TotalEntitiesCount": 210
+  },
+  {
+    "Name": "ex_int_office_03a_dlc",
+    "FileName": "ex_int_office_03_dlc.ytyp",
+    "DlcName": "mpexecutive",
+    "Position": {
+      "X": -16.9488373,
+      "Y": -13.1226664,
+      "Z": -4.30241966
+    },
+    "TotalEntitiesCount": 238
+  },
+  {
+    "Name": "ex_int_office_03b_dlc",
+    "FileName": "ex_int_office_03b_dlc.ytyp",
+    "DlcName": "mpexecutive",
+    "Position": {
+      "X": -16.9488373,
+      "Y": -13.1226654,
+      "Z": -4.30241966
+    },
+    "TotalEntitiesCount": 221
+  },
+  {
+    "Name": "ex_int_office_03c_dlc",
+    "FileName": "ex_int_office_03c_dlc.ytyp",
+    "DlcName": "mpexecutive",
+    "Position": {
+      "X": -16.9488373,
+      "Y": -13.1226664,
+      "Z": -4.30241966
+    },
+    "TotalEntitiesCount": 250
+  },
+  {
+    "Name": "ex_int_office_02c_dlc",
+    "FileName": "ex_int_office_02c_dlc.ytyp",
+    "DlcName": "mpexecutive",
+    "Position": {
+      "X": -16.9488373,
+      "Y": -13.1226625,
+      "Z": -4.30241966
+    },
+    "TotalEntitiesCount": 218
+  },
+  {
+    "Name": "ex_int_office_01c_dlc",
+    "FileName": "ex_int_office_01c_dlc.ytyp",
+    "DlcName": "mpexecutive",
+    "Position": {
+      "X": -16.9488373,
+      "Y": -14.0926695,
+      "Z": -3.53795886
+    },
+    "TotalEntitiesCount": 225
+  },
+  {
+    "Name": "ex_int_office_01b_dlc",
+    "FileName": "ex_int_office_01b_dlc.ytyp",
+    "DlcName": "mpexecutive",
+    "Position": {
+      "X": -16.9488373,
+      "Y": -13.1226692,
+      "Z": -3.53795886
+    },
+    "TotalEntitiesCount": 224
+  },
+  {
+    "Name": "ex_int_warehouse_l_dlc",
+    "FileName": "ex_int_warehouse_large_dlc.ytyp",
+    "DlcName": "mpexecutive",
+    "Position": {
+      "X": -18.1596565,
+      "Y": -13.5012875,
+      "Z": 0.0
+    },
+    "TotalEntitiesCount": 158
+  },
+  {
+    "Name": "ex_int_office_01a_dlc",
+    "FileName": "ex_int_office_01_dlc.ytyp",
+    "DlcName": "mpexecutive",
+    "Position": {
+      "X": -16.9488373,
+      "Y": -13.1226635,
+      "Z": -3.53795886
+    },
+    "TotalEntitiesCount": 229
+  },
+  {
+    "Name": "ex_int_office_02b_dlc",
+    "FileName": "ex_int_office_02b_dlc.ytyp",
+    "DlcName": "mpexecutive",
+    "Position": {
+      "X": -16.9488373,
+      "Y": -13.1226635,
+      "Z": -4.30241966
+    },
+    "TotalEntitiesCount": 222
+  },
+  {
+    "Name": "ex_int_warehouse_m_dlc",
+    "FileName": "ex_int_warehouse_medium_dlc.ytyp",
+    "DlcName": "mpexecutive",
+    "Position": {
+      "X": -12.41022,
+      "Y": -11.6405344,
+      "Z": 0.0
+    },
+    "TotalEntitiesCount": 63
+  },
+  {
+    "Name": "ex_int_office_02a_dlc",
+    "FileName": "ex_int_office_02_dlc.ytyp",
+    "DlcName": "mpexecutive",
+    "Position": {
+      "X": -16.9488373,
+      "Y": -13.1226625,
+      "Z": -4.30241966
+    },
+    "TotalEntitiesCount": 222
+  },
+  {
+    "Name": "ex_int_warehouse_s_dlc",
+    "FileName": "ex_int_warehouse_small_dlc.ytyp",
+    "DlcName": "mpexecutive",
+    "Position": {
+      "X": -7.967579,
+      "Y": -3.89076614,
+      "Z": 0.0
+    },
+    "TotalEntitiesCount": 41
+  },
+  {
+    "Name": "bkr_biker_dlc_int_01",
+    "FileName": "bkr_biker_dlc_int_01.ytyp",
+    "DlcName": "mpbiker",
+    "Position": {
+      "X": -7.70973873,
+      "Y": -12.6954422,
+      "Z": -0.8674388
+    },
+    "TotalEntitiesCount": 273
+  },
+  {
+    "Name": "bkr_biker_dlc_int_ware05",
+    "FileName": "bkr_biker_dlc_int_ware05.ytyp",
+    "DlcName": "mpbiker",
+    "Position": {
+      "X": -9.609007,
+      "Y": -4.053139,
+      "Z": -0.08147287
+    },
+    "TotalEntitiesCount": 62
+  },
+  {
+    "Name": "bkr_biker_dlc_int_ware04",
+    "FileName": "bkr_biker_dlc_int_ware04.ytyp",
+    "DlcName": "mpbiker",
+    "Position": {
+      "X": -9.556925,
+      "Y": -4.426757,
+      "Z": -1.409549
+    },
+    "TotalEntitiesCount": 71
+  },
+  {
+    "Name": "bkr_biker_dlc_int_ware03",
+    "FileName": "bkr_biker_dlc_int_ware03.ytyp",
+    "DlcName": "mpbiker",
+    "Position": {
+      "X": -7.838442,
+      "Y": -3.89076614,
+      "Z": 0.0
+    },
+    "TotalEntitiesCount": 29
+  },
+  {
+    "Name": "bkr_biker_dlc_int_ware02",
+    "FileName": "bkr_biker_dlc_int_ware02.ytyp",
+    "DlcName": "mpbiker",
+    "Position": {
+      "X": -28.8490753,
+      "Y": -7.439008,
+      "Z": -0.171838
+    },
+    "TotalEntitiesCount": 86
+  },
+  {
+    "Name": "bkr_biker_dlc_int_ware01",
+    "FileName": "bkr_biker_dlc_int_ware01.ytyp",
+    "DlcName": "mpbiker",
+    "Position": {
+      "X": -13.0841265,
+      "Y": -6.664588,
+      "Z": -0.0001180172
+    },
+    "TotalEntitiesCount": 40
+  },
+  {
+    "Name": "bkr_biker_dlc_int_03",
+    "FileName": "bkr_biker_dlc_int_03.ytyp",
+    "DlcName": "mpbiker",
+    "Position": {
+      "X": -12.5873756,
+      "Y": -7.161897,
+      "Z": -2.090548
+    },
+    "TotalEntitiesCount": 103
+  },
+  {
+    "Name": "bkr_biker_dlc_int_02",
+    "FileName": "bkr_biker_dlc_int_02.ytyp",
+    "DlcName": "mpbiker",
+    "Position": {
+      "X": -12.6044979,
+      "Y": -22.8224277,
+      "Z": -0.105291
+    },
+    "TotalEntitiesCount": 451
+  },
+  {
+    "Name": "imp_imptexp_mod_int_01",
+    "FileName": "imp_imptexp_mod_int_01.ytyp",
+    "DlcName": "mpimportexport",
+    "Position": {
+      "X": -12.5680351,
+      "Y": -14.1538744,
+      "Z": -0.500002146
+    },
+    "TotalEntitiesCount": 100
+  },
+  {
+    "Name": "imp_impexp_intwaremed",
+    "FileName": "imp_impexp_intwaremed.ytyp",
+    "DlcName": "mpimportexport",
+    "Position": {
+      "X": -25.1293812,
+      "Y": -45.2287636,
+      "Z": -2.696651
+    },
+    "TotalEntitiesCount": 425
+  },
+  {
+    "Name": "imp_impexp_int_02",
+    "FileName": "imp_impexp_interior_02.ytyp",
+    "DlcName": "mpimportexport",
+    "Position": {
+      "X": -15.0236006,
+      "Y": -60.7721672,
+      "Z": -1.19808
+    },
+    "TotalEntitiesCount": 81
+  },
+  {
+    "Name": "imp_impexp_int_01",
+    "FileName": "imp_impexp_interior_01.ytyp",
+    "DlcName": "mpimportexport",
+    "Position": {
+      "X": -12.6363411,
+      "Y": -22.32277,
+      "Z": -10.7184467
+    },
+    "TotalEntitiesCount": 32
+  },
+  {
+    "Name": "gr_grdlc_int_01",
+    "FileName": "gr_grdlc_int_01.ytyp",
+    "DlcName": "mpgunrunning",
+    "Position": {
+      "X": -5.0,
+      "Y": -14.5158768,
+      "Z": -0.2
+    },
+    "TotalEntitiesCount": 4
+  },
+  {
+    "Name": "gr_gta_milo_lounge",
+    "FileName": "gr_grdlc_yacht_int.ytyp",
+    "DlcName": "mpgunrunning",
+    "Position": {
+      "X": -5.58384132,
+      "Y": -5.455641,
+      "Z": -0.02762878
+    },
+    "TotalEntitiesCount": 50
+  },
+  {
+    "Name": "gr_gta_milo_enginrm",
+    "FileName": "gr_grdlc_yacht_int.ytyp",
+    "DlcName": "mpgunrunning",
+    "Position": {
+      "X": -31.39666,
+      "Y": -7.51726,
+      "Z": -1.45105493
+    },
+    "TotalEntitiesCount": 73
+  },
+  {
+    "Name": "gr_gta_milo_bridge",
+    "FileName": "gr_grdlc_yacht_int.ytyp",
+    "DlcName": "mpgunrunning",
+    "Position": {
+      "X": -7.751813,
+      "Y": -5.053081,
+      "Z": -0.885441542
+    },
+    "TotalEntitiesCount": 57
+  },
+  {
+    "Name": "gr_gta_milo_bedrm",
+    "FileName": "gr_grdlc_yacht_int.ytyp",
+    "DlcName": "mpgunrunning",
+    "Position": {
+      "X": -20.53491,
+      "Y": -7.200775,
+      "Z": -0.02118504
+    },
+    "TotalEntitiesCount": 196
+  },
+  {
+    "Name": "gr_gta_milo_bar",
+    "FileName": "gr_grdlc_yacht_int.ytyp",
+    "DlcName": "mpgunrunning",
+    "Position": {
+      "X": -7.362962,
+      "Y": -7.948344,
+      "Z": -0.0611161
+    },
+    "TotalEntitiesCount": 151
+  },
+  {
+    "Name": "gr_grdlc_int_02",
+    "FileName": "gr_grdlc_int_02.ytyp",
+    "DlcName": "mpgunrunning",
+    "Position": {
+      "X": -120.305443,
+      "Y": -131.88295,
+      "Z": -0.180721045
+    },
+    "TotalEntitiesCount": 302
+  },
+  {
+    "Name": "sm_smugdlc_int_01",
+    "FileName": "sm_smugdlc_int_01.ytyp",
+    "DlcName": "mpsmuggler",
+    "Position": {
+      "X": -15.5704832,
+      "Y": -35.0885162,
+      "Z": -17.6671753
+    },
+    "TotalEntitiesCount": 129
+  },
+  {
+    "Name": "xm_x17dlc_int_01",
+    "FileName": "xm_x17dlc_int_01.ytyp",
+    "DlcName": "mpchristmas2017",
+    "Position": {
+      "X": -0.426117,
+      "Y": -0.0402770042,
+      "Z": 5.486975
+    },
+    "TotalEntitiesCount": 16
+  },
+  {
+    "Name": "xm_x17dlc_int_02",
+    "FileName": "xm_x17dlc_int_02.ytyp",
+    "DlcName": "mpchristmas2017",
+    "Position": {
+      "X": -34.96138,
+      "Y": -88.67263,
+      "Z": -4.140951
+    },
+    "TotalEntitiesCount": 300
+  },
+  {
+    "Name": "xm_x17dlc_int_base_ent",
+    "FileName": "xm_x17dlc_int_base.ytyp",
+    "DlcName": "mpchristmas2017",
+    "Position": {
+      "X": -48.4370575,
+      "Y": -20.46585,
+      "Z": -9.035131
+    },
+    "TotalEntitiesCount": 16
+  },
+  {
+    "Name": "xm_x17dlc_int_base_loop",
+    "FileName": "xm_x17dlc_int_base.ytyp",
+    "DlcName": "mpchristmas2017",
+    "Position": {
+      "X": -18.90297,
+      "Y": -70.72862,
+      "Z": -2.84958076
+    },
+    "TotalEntitiesCount": 266
+  },
+  {
+    "Name": "xm_x17dlc_int_bse_tun",
+    "FileName": "xm_x17dlc_int_base.ytyp",
+    "DlcName": "mpchristmas2017",
+    "Position": {
+      "X": -142.950775,
+      "Y": -41.6137924,
+      "Z": -5.325432
+    },
+    "TotalEntitiesCount": 292
+  },
+  {
+    "Name": "xm_x17dlc_int_base",
+    "FileName": "xm_x17dlc_int_base.ytyp",
+    "DlcName": "mpchristmas2017",
+    "Position": {
+      "X": -39.1466827,
+      "Y": -66.3566,
+      "Z": -3.742218
+    },
+    "TotalEntitiesCount": 171
+  },
+  {
+    "Name": "xm_x17dlc_int_tun_30d_r",
+    "FileName": "xm_x17dlc_int_base.ytyp",
+    "DlcName": "mpchristmas2017",
+    "Position": {
+      "X": -58.20063,
+      "Y": -8.021407,
+      "Z": -11.49117
+    },
+    "TotalEntitiesCount": 11
+  },
+  {
+    "Name": "xm_x17dlc_int_tun_entry",
+    "FileName": "xm_x17dlc_int_base.ytyp",
+    "DlcName": "mpchristmas2017",
+    "Position": {
+      "X": -52.3325272,
+      "Y": -14.85978,
+      "Z": -3.41038513
+    },
+    "TotalEntitiesCount": 4
+  },
+  {
+    "Name": "xm_x17dlc_int_tun_flat_slope",
+    "FileName": "xm_x17dlc_int_base.ytyp",
+    "DlcName": "mpchristmas2017",
+    "Position": {
+      "X": -9.343172,
+      "Y": -11.4314957,
+      "Z": -5.7891283
+    },
+    "TotalEntitiesCount": 4
+  },
+  {
+    "Name": "xm_x17dlc_int_tun_slope_flat",
+    "FileName": "xm_x17dlc_int_base.ytyp",
+    "DlcName": "mpchristmas2017",
+    "Position": {
+      "X": -9.401947,
+      "Y": -10.07354,
+      "Z": -4.974256
+    },
+    "TotalEntitiesCount": 3
+  },
+  {
+    "Name": "xm_x17dlc_int_tun_straight",
+    "FileName": "xm_x17dlc_int_base.ytyp",
+    "DlcName": "mpchristmas2017",
+    "Position": {
+      "X": -47.3775558,
+      "Y": -18.2950516,
+      "Z": -5.64170742
+    },
+    "TotalEntitiesCount": 16
+  },
+  {
+    "Name": "xm_x17dlc_int_facility",
+    "FileName": "xm_x17dlc_int_facility.ytyp",
+    "DlcName": "mpchristmas2017",
+    "Position": {
+      "X": -40.62115,
+      "Y": -28.2801456,
+      "Z": -10.8074284
+    },
+    "TotalEntitiesCount": 1099
+  },
+  {
+    "Name": "xm_x17dlc_int_facility2",
+    "FileName": "xm_x17dlc_int_facility2.ytyp",
+    "DlcName": "mpchristmas2017",
+    "Position": {
+      "X": -191.541092,
+      "Y": -32.2663651,
+      "Z": 0.000119792356
+    },
+    "TotalEntitiesCount": 658
+  },
+  {
+    "Name": "xm_x17dlc_int_lab",
+    "FileName": "xm_x17dlc_int_lab.ytyp",
+    "DlcName": "mpchristmas2017",
+    "Position": {
+      "X": -45.7531,
+      "Y": -56.8254166,
+      "Z": -0.600165367
+    },
+    "TotalEntitiesCount": 1932
+  },
+  {
+    "Name": "xm_x17dlc_int_silo_01",
+    "FileName": "xm_x17dlc_int_silo.ytyp",
+    "DlcName": "mpchristmas2017",
+    "Position": {
+      "X": -7.457535,
+      "Y": -9.953454,
+      "Z": -2.070514
+    },
+    "TotalEntitiesCount": 446
+  },
+  {
+    "Name": "xm_x17dlc_int_silo_02",
+    "FileName": "xm_x17dlc_int_silo.ytyp",
+    "DlcName": "mpchristmas2017",
+    "Position": {
+      "X": -23.9209862,
+      "Y": -51.59539,
+      "Z": -1.7965678
+    },
+    "TotalEntitiesCount": 208
+  },
+  {
+    "Name": "xm_x17dlc_int_sub",
+    "FileName": "xm_x17dlc_int_sub.ytyp",
+    "DlcName": "mpchristmas2017",
+    "Position": {
+      "X": -4.32177925,
+      "Y": -35.63494,
+      "Z": -7.610353
+    },
+    "TotalEntitiesCount": 612
+  },
+  {
+    "Name": "xm_x17dlc_int_tun_30d_l",
+    "FileName": "xm_x17dlc_int_base.ytyp",
+    "DlcName": "mpchristmas2017",
+    "Position": {
+      "X": -51.7463379,
+      "Y": -16.64967,
+      "Z": -11.3473053
+    },
+    "TotalEntitiesCount": 5
+  },
+  {
+    "Name": "ba_dlc_int_02_ba",
+    "FileName": "ba_int_02_ba.ytyp",
+    "DlcName": "mpbattle",
+    "Position": {
+      "X": -16.7702122,
+      "Y": -33.31276,
+      "Z": -12.2437439
+    },
+    "TotalEntitiesCount": 131
+  },
+  {
+    "Name": "ba_dlc_int_03_ba",
+    "FileName": "ba_int_03_ba.ytyp",
+    "DlcName": "mpbattle",
+    "Position": {
+      "X": 3.40282347E+38,
+      "Y": 3.40282347E+38,
+      "Z": 3.40282347E+38
+    },
+    "TotalEntitiesCount": 17
+  },
+  {
+    "Name": "ba_dlc_int_01_ba",
+    "FileName": "ba_int_01_ba.ytyp",
+    "DlcName": "mpbattle",
+    "Position": {
+      "X": -42.1908264,
+      "Y": -9.630484,
+      "Z": -11.1066408
+    },
+    "TotalEntitiesCount": 243
+  },
+  {
+    "Name": "xs_x18_int_mod",
+    "FileName": "xs_x18dlc_int_mod.ytyp",
+    "DlcName": "mpchristmas2018",
+    "Position": {
+      "X": -84.12004,
+      "Y": -177.1221,
+      "Z": -74.52492
+    },
+    "TotalEntitiesCount": 224
+  },
+  {
+    "Name": "xs_x18_int_01",
+    "FileName": "xs_x18dlc_int_01.ytyp",
+    "DlcName": "mpchristmas2018",
+    "Position": {
+      "X": -290.901245,
+      "Y": -172.573959,
+      "Z": -15.1567116
+    },
+    "TotalEntitiesCount": 146
+  },
+  {
+    "Name": "xs_arena_vip",
+    "FileName": "xs_x18dlc_int_vip.ytyp",
+    "DlcName": "mpchristmas2018",
+    "Position": {
+      "X": -22.5921326,
+      "Y": -21.4397755,
+      "Z": -3.654646
+    },
+    "TotalEntitiesCount": 257
+  },
+  {
+    "Name": "xs_x18_int_mod2",
+    "FileName": "xs_x18dlc_int_mod.ytyp",
+    "DlcName": "mpchristmas2018",
+    "Position": {
+      "X": -21.2237625,
+      "Y": -31.02533,
+      "Z": -1.851181
+    },
+    "TotalEntitiesCount": 23
+  },
+  {
+    "Name": "vw_dlc_casino_apart",
+    "FileName": "vw_vwdlc_int_02.ytyp",
+    "DlcName": "mpvinewood",
+    "Position": {
+      "X": -65.42249,
+      "Y": -14.8674564,
+      "Z": -0.07751393
+    },
+    "TotalEntitiesCount": 363
+  },
+  {
+    "Name": "vw_dlc_casino_main",
+    "FileName": "vw_vwdlc_int_01.ytyp",
+    "DlcName": "mpvinewood",
+    "Position": {
+      "X": -18.5971737,
+      "Y": -29.83242,
+      "Z": -2.840944
+    },
+    "TotalEntitiesCount": 704
+  },
+  {
+    "Name": "vw_dlc_casino_carpark",
+    "FileName": "vw_vwdlc_int_05.ytyp",
+    "DlcName": "mpvinewood",
+    "Position": {
+      "X": -46.1412926,
+      "Y": -20.09937,
+      "Z": -0.4333222
+    },
+    "TotalEntitiesCount": 82
+  },
+  {
+    "Name": "vw_dlc_casino_garage",
+    "FileName": "vw_vwdlc_int_03.ytyp",
+    "DlcName": "mpvinewood",
+    "Position": {
+      "X": -45.91121,
+      "Y": -13.6531773,
+      "Z": -0.105589151
+    },
+    "TotalEntitiesCount": 80
+  },
+  {
+    "Name": "ch_dlc_casino_shaft",
+    "FileName": "ch_dlc_int_11_ch.ytyp",
+    "DlcName": "mpheist3",
+    "Position": {
+      "X": -3.779772,
+      "Y": -3.48660278,
+      "Z": -84.35372
+    },
+    "TotalEntitiesCount": 34
+  },
+  {
+    "Name": "ch_dlc_casino_vault",
+    "FileName": "ch_dlc_int_09_ch.ytyp",
+    "DlcName": "mpheist3",
+    "Position": {
+      "X": -68.5538,
+      "Y": -23.19476,
+      "Z": -1.128632
+    },
+    "TotalEntitiesCount": 327
+  },
+  {
+    "Name": "ch_dlc_casino_loading",
+    "FileName": "ch_dlc_int_08_ch.ytyp",
+    "DlcName": "mpheist3",
+    "Position": {
+      "X": -47.1049347,
+      "Y": -66.19461,
+      "Z": -6.000106
+    },
+    "TotalEntitiesCount": 216
+  },
+  {
+    "Name": "ch_dlc_plan",
+    "FileName": "ch_dlc_int_03_ch.ytyp",
+    "DlcName": "mpheist3",
+    "Position": {
+      "X": -29.2859116,
+      "Y": -61.57942,
+      "Z": -1.357604
+    },
+    "TotalEntitiesCount": 36
+  },
+  {
+    "Name": "ch_dlc_arcade",
+    "FileName": "ch_dlc_int_02_ch.ytyp",
+    "DlcName": "mpheist3",
+    "Position": {
+      "X": -4.005289,
+      "Y": 8.188584,
+      "Z": -3.123595
+    },
+    "TotalEntitiesCount": 23
+  },
+  {
+    "Name": "ch_dlc_casino_heist",
+    "FileName": "ch_dlc_int_01_ch.ytyp",
+    "DlcName": "mpheist3",
+    "Position": {
+      "X": -18.5971737,
+      "Y": -29.83242,
+      "Z": -2.840944
+    },
+    "TotalEntitiesCount": 703
+  },
+  {
+    "Name": "ch_dlc_casino_hotel",
+    "FileName": "ch_dlc_int_07_ch.ytyp",
+    "DlcName": "mpheist3",
+    "Position": {
+      "X": -20.4863815,
+      "Y": -36.7838974,
+      "Z": -19.60018
+    },
+    "TotalEntitiesCount": 246
+  },
+  {
+    "Name": "ch_dlc_casino_back",
+    "FileName": "ch_dlc_int_06_ch.ytyp",
+    "DlcName": "mpheist3",
+    "Position": {
+      "X": -23.8406143,
+      "Y": -33.24021,
+      "Z": -1.600003
+    },
+    "TotalEntitiesCount": 1117
+  },
+  {
+    "Name": "ch_dlc_tunnel",
+    "FileName": "ch_dlc_int_04_ch.ytyp",
+    "DlcName": "mpheist3",
+    "Position": {
+      "X": -22.5800533,
+      "Y": -17.4101734,
+      "Z": -0.310646057
+    },
+    "TotalEntitiesCount": 39
+  },
+  {
+    "Name": "ch_dlc_casino_utility",
+    "FileName": "ch_dlc_int_10_ch.ytyp",
+    "DlcName": "mpheist3",
+    "Position": {
+      "X": -7.134959,
+      "Y": -13.6183548,
+      "Z": -15.0079956
+    },
+    "TotalEntitiesCount": 183
+  },
+  {
+    "Name": "ch_mph3_carpark_int",
+    "FileName": "ch_dlc_int_12_ch.ytyp",
+    "DlcName": "mpheist3",
+    "Position": {
+      "X": -72.93889,
+      "Y": -54.22278,
+      "Z": -7.60336637
+    },
+    "TotalEntitiesCount": 82
+  }
+]

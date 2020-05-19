@@ -46,7 +46,8 @@
       "Y": 0.126995,
       "Z": 0.04744
     },
-    "BoundingSphereRadius": 2.463721
+    "BoundingSphereRadius": 2.463721,
+    "Rewards": null
   },
   {
     "Name": "ninef2",
@@ -95,7 +96,8 @@
       "Y": 0.133116,
       "Z": 0.048374
     },
-    "BoundingSphereRadius": 2.463145
+    "BoundingSphereRadius": 2.463145,
+    "Rewards": null
   },
   {
     "Name": "asea",
@@ -143,7 +145,8 @@
       "Y": -0.089979,
       "Z": 0.274388
     },
-    "BoundingSphereRadius": 2.454849
+    "BoundingSphereRadius": 2.454849,
+    "Rewards": null
   },
   {
     "Name": "boxville2",
@@ -194,7 +197,8 @@
       "Y": -0.664526,
       "Z": 0.520213
     },
-    "BoundingSphereRadius": 3.591855
+    "BoundingSphereRadius": 3.591855,
+    "Rewards": null
   },
   {
     "Name": "bulldozer",
@@ -245,7 +249,8 @@
       "Y": 0.615726,
       "Z": 1.295249
     },
-    "BoundingSphereRadius": 4.263521
+    "BoundingSphereRadius": 4.263521,
+    "Rewards": null
   },
   {
     "Name": "cheetah",
@@ -298,7 +303,8 @@
       "Y": 0.209811,
       "Z": 0.286975
     },
-    "BoundingSphereRadius": 2.606343
+    "BoundingSphereRadius": 2.606343,
+    "Rewards": null
   },
   {
     "Name": "cogcabrio",
@@ -347,7 +353,8 @@
       "Y": -0.023215,
       "Z": 0.267848
     },
-    "BoundingSphereRadius": 2.683115
+    "BoundingSphereRadius": 2.683115,
+    "Rewards": null
   },
   {
     "Name": "dubsta",
@@ -396,7 +403,8 @@
       "Y": -0.066204,
       "Z": 0.51109
     },
-    "BoundingSphereRadius": 2.664935
+    "BoundingSphereRadius": 2.664935,
+    "Rewards": null
   },
   {
     "Name": "dubsta2",
@@ -445,7 +453,8 @@
       "Y": -0.185216,
       "Z": 0.518901
     },
-    "BoundingSphereRadius": 2.772391
+    "BoundingSphereRadius": 2.772391,
+    "Rewards": null
   },
   {
     "Name": "emperor",
@@ -490,7 +499,8 @@
       "Y": -0.272863,
       "Z": 0.231304
     },
-    "BoundingSphereRadius": 2.943773
+    "BoundingSphereRadius": 2.943773,
+    "Rewards": null
   },
   {
     "Name": "entityxf",
@@ -541,7 +551,8 @@
       "Y": 0.013555,
       "Z": 0.197352
     },
-    "BoundingSphereRadius": 2.460748
+    "BoundingSphereRadius": 2.460748,
+    "Rewards": null
   },
   {
     "Name": "firetruk",
@@ -592,7 +603,8 @@
       "Y": 0.211056,
       "Z": 0.629437
     },
-    "BoundingSphereRadius": 4.676028
+    "BoundingSphereRadius": 4.676028,
+    "Rewards": null
   },
   {
     "Name": "fq2",
@@ -640,7 +652,8 @@
       "Y": -0.041504,
       "Z": 0.389646
     },
-    "BoundingSphereRadius": 2.749815
+    "BoundingSphereRadius": 2.749815,
+    "Rewards": null
   },
   {
     "Name": "infernus",
@@ -688,7 +701,8 @@
       "Y": 0.111803,
       "Z": 0.155673
     },
-    "BoundingSphereRadius": 2.440647
+    "BoundingSphereRadius": 2.440647,
+    "Rewards": null
   },
   {
     "Name": "jackal",
@@ -736,7 +750,8 @@
       "Y": -0.162253,
       "Z": 0.069419
     },
-    "BoundingSphereRadius": 2.686404
+    "BoundingSphereRadius": 2.686404,
+    "Rewards": null
   },
   {
     "Name": "journey",
@@ -787,7 +802,8 @@
       "Y": -0.47218,
       "Z": 0.83074
     },
-    "BoundingSphereRadius": 3.515104
+    "BoundingSphereRadius": 3.515104,
+    "Rewards": null
   },
   {
     "Name": "jb700",
@@ -835,7 +851,8 @@
       "Y": -0.249178,
       "Z": 0.210407
     },
-    "BoundingSphereRadius": 2.48761
+    "BoundingSphereRadius": 2.48761,
+    "Rewards": null
   },
   {
     "Name": "oracle",
@@ -882,7 +899,8 @@
       "Y": -0.10875,
       "Z": -0.00342
     },
-    "BoundingSphereRadius": 2.813852
+    "BoundingSphereRadius": 2.813852,
+    "Rewards": null
   },
   {
     "Name": "patriot",
@@ -933,7 +951,8 @@
       "Y": 0.057536,
       "Z": 0.489093
     },
-    "BoundingSphereRadius": 2.997116
+    "BoundingSphereRadius": 2.997116,
+    "Rewards": null
   },
   {
     "Name": "radi",
@@ -978,7 +997,8 @@
       "Y": -0.020741,
       "Z": 0.360341
     },
-    "BoundingSphereRadius": 2.724227
+    "BoundingSphereRadius": 2.724227,
+    "Rewards": null
   },
   {
     "Name": "romero",
@@ -1026,7 +1046,8 @@
       "Y": -0.166195,
       "Z": 0.335047
     },
-    "BoundingSphereRadius": 3.133451
+    "BoundingSphereRadius": 3.133451,
+    "Rewards": null
   },
   {
     "Name": "stinger",
@@ -1076,7 +1097,8 @@
       "Y": 0.043857,
       "Z": 0.250404
     },
-    "BoundingSphereRadius": 2.562846
+    "BoundingSphereRadius": 2.562846,
+    "Rewards": null
   },
   {
     "Name": "stockade",
@@ -1128,7 +1150,8 @@
       "Y": -0.224562,
       "Z": 0.925635
     },
-    "BoundingSphereRadius": 4.156828
+    "BoundingSphereRadius": 4.156828,
+    "Rewards": null
   },
   {
     "Name": "superd",
@@ -1176,7 +1199,8 @@
       "Y": -0.276359,
       "Z": 0.37086
     },
-    "BoundingSphereRadius": 3.081678
+    "BoundingSphereRadius": 3.081678,
+    "Rewards": null
   },
   {
     "Name": "tailgater",
@@ -1223,7 +1247,8 @@
       "Y": -0.021779,
       "Z": 0.175968
     },
-    "BoundingSphereRadius": 2.742652
+    "BoundingSphereRadius": 2.742652,
+    "Rewards": null
   },
   {
     "Name": "tornado",
@@ -1270,7 +1295,8 @@
       "Y": -0.197681,
       "Z": 0.101912
     },
-    "BoundingSphereRadius": 2.771058
+    "BoundingSphereRadius": 2.771058,
+    "Rewards": null
   },
   {
     "Name": "utillitruck",
@@ -1319,7 +1345,8 @@
       "Y": 0.644515,
       "Z": 0.628745
     },
-    "BoundingSphereRadius": 4.202541
+    "BoundingSphereRadius": 4.202541,
+    "Rewards": null
   },
   {
     "Name": "utillitruck2",
@@ -1368,7 +1395,8 @@
       "Y": 0.602442,
       "Z": 0.431974
     },
-    "BoundingSphereRadius": 4.133739
+    "BoundingSphereRadius": 4.133739,
+    "Rewards": null
   },
   {
     "Name": "voodoo2",
@@ -1412,7 +1440,8 @@
       "Y": -0.26257,
       "Z": 0.154503
     },
-    "BoundingSphereRadius": 2.861109
+    "BoundingSphereRadius": 2.861109,
+    "Rewards": null
   },
   {
     "Name": "scorcher",
@@ -1459,7 +1488,8 @@
       "Y": -0.00601,
       "Z": -0.014094
     },
-    "BoundingSphereRadius": 0.92377
+    "BoundingSphereRadius": 0.92377,
+    "Rewards": null
   },
   {
     "Name": "policeb",
@@ -1508,7 +1538,12 @@
       "Y": -0.05263,
       "Z": 0.285004
     },
-    "BoundingSphereRadius": 1.412919
+    "BoundingSphereRadius": 1.412919,
+    "Rewards": [
+      "REWARD_WEAPON_PISTOL",
+      "REWARD_AMMO_PISTOL",
+      "REWARD_STAT_WEAPON"
+    ]
   },
   {
     "Name": "hexer",
@@ -1555,7 +1590,8 @@
       "Y": 0.126759,
       "Z": 0.093481
     },
-    "BoundingSphereRadius": 1.307295
+    "BoundingSphereRadius": 1.307295,
+    "Rewards": null
   },
   {
     "Name": "buzzard",
@@ -1608,7 +1644,8 @@
       "Y": -0.603044,
       "Z": 1.097938
     },
-    "BoundingSphereRadius": 9.003004
+    "BoundingSphereRadius": 9.003004,
+    "Rewards": null
   },
   {
     "Name": "polmav",
@@ -1662,7 +1699,12 @@
       "Y": -0.169204,
       "Z": 0.230319
     },
-    "BoundingSphereRadius": 9.652682
+    "BoundingSphereRadius": 9.652682,
+    "Rewards": [
+      "REWARD_WEAPON_SNIPERRIFLE",
+      "REWARD_AMMO_SNIPERRIFLE",
+      "REWARD_STAT_WEAPON"
+    ]
   },
   {
     "Name": "cuban800",
@@ -1713,7 +1755,8 @@
       "Y": 0.094358,
       "Z": -0.006573
     },
-    "BoundingSphereRadius": 6.778358
+    "BoundingSphereRadius": 6.778358,
+    "Rewards": null
   },
   {
     "Name": "jet",
@@ -1762,7 +1805,8 @@
       "Y": 2E-06,
       "Z": -0.14375
     },
-    "BoundingSphereRadius": 49.580265
+    "BoundingSphereRadius": 49.580265,
+    "Rewards": null
   },
   {
     "Name": "titan",
@@ -1814,7 +1858,8 @@
       "Y": -3.982703,
       "Z": 3.897182
     },
-    "BoundingSphereRadius": 25.10089
+    "BoundingSphereRadius": 25.10089,
+    "Rewards": null
   },
   {
     "Name": "squalo",
@@ -1864,7 +1909,8 @@
       "Y": 0.0,
       "Z": 0.804677
     },
-    "BoundingSphereRadius": 5.00981
+    "BoundingSphereRadius": 5.00981,
+    "Rewards": null
   },
   {
     "Name": "marquis",
@@ -1899,21 +1945,22 @@
     "HasSirens": false,
     "ModKits": [],
     "DimensionsMin": {
-      "X": -2.260775,
-      "Y": -8.875496,
-      "Z": -2.608435
+      "X": -0.010362,
+      "Y": -6.108949,
+      "Z": 2.568894
     },
     "DimensionsMax": {
-      "X": 2.262556,
-      "Y": 7.441805,
-      "Z": 19.7331944
+      "X": 0.010361,
+      "Y": 6.190057,
+      "Z": 19.417984
     },
     "BoundingCenter": {
-      "X": 0.00089,
-      "Y": -0.716845,
-      "Z": 8.56238
+      "X": 0.0,
+      "Y": 0.040554,
+      "Z": 10.9934387
     },
-    "BoundingSphereRadius": 14.0166264
+    "BoundingSphereRadius": 10.4302187,
+    "Rewards": null
   },
   {
     "Name": "freightcar",
@@ -1958,7 +2005,8 @@
       "Y": -0.023883,
       "Z": 0.283938
     },
-    "BoundingSphereRadius": 9.882217
+    "BoundingSphereRadius": 9.882217,
+    "Rewards": null
   },
   {
     "Name": "freight",
@@ -2004,7 +2052,8 @@
       "Y": 0.0541,
       "Z": 0.894793
     },
-    "BoundingSphereRadius": 9.541661
+    "BoundingSphereRadius": 9.541661,
+    "Rewards": null
   },
   {
     "Name": "freightcont1",
@@ -2051,7 +2100,8 @@
       "Y": 0.0,
       "Z": 1.441234
     },
-    "BoundingSphereRadius": 8.293581
+    "BoundingSphereRadius": 8.293581,
+    "Rewards": null
   },
   {
     "Name": "freightcont2",
@@ -2097,7 +2147,8 @@
       "Y": 0.0,
       "Z": 1.343333
     },
-    "BoundingSphereRadius": 8.270463
+    "BoundingSphereRadius": 8.270463,
+    "Rewards": null
   },
   {
     "Name": "freightgrain",
@@ -2142,7 +2193,8 @@
       "Y": 0.057027,
       "Z": 1.267256
     },
-    "BoundingSphereRadius": 9.166306
+    "BoundingSphereRadius": 9.166306,
+    "Rewards": null
   },
   {
     "Name": "tankercar",
@@ -2191,7 +2243,8 @@
       "Y": -0.056959,
       "Z": 1.226318
     },
-    "BoundingSphereRadius": 9.128735
+    "BoundingSphereRadius": 9.128735,
+    "Rewards": null
   },
   {
     "Name": "metrotrain",
@@ -2240,7 +2293,8 @@
       "Y": 0.0,
       "Z": 2.357604
     },
-    "BoundingSphereRadius": 6.525395
+    "BoundingSphereRadius": 6.525395,
+    "Rewards": null
   },
   {
     "Name": "trailers",
@@ -2286,7 +2340,8 @@
       "Y": -0.168874,
       "Z": -0.681572
     },
-    "BoundingSphereRadius": 6.667667
+    "BoundingSphereRadius": 6.667667,
+    "Rewards": null
   },
   {
     "Name": "tanker",
@@ -2334,7 +2389,8 @@
       "Y": -0.169053,
       "Z": -0.690367
     },
-    "BoundingSphereRadius": 6.547917
+    "BoundingSphereRadius": 6.547917,
+    "Rewards": null
   },
   {
     "Name": "trailerlogs",
@@ -2380,7 +2436,8 @@
       "Y": -0.352618,
       "Z": -0.844437
     },
-    "BoundingSphereRadius": 6.743487
+    "BoundingSphereRadius": 6.743487,
+    "Rewards": null
   },
   {
     "Name": "tr2",
@@ -2427,7 +2484,8 @@
       "Y": 0.212145,
       "Z": 1.455488
     },
-    "BoundingSphereRadius": 8.398022
+    "BoundingSphereRadius": 8.398022,
+    "Rewards": null
   },
   {
     "Name": "tr3",
@@ -2471,7 +2529,8 @@
       "Y": 0.251335,
       "Z": 1.327992
     },
-    "BoundingSphereRadius": 9.384753
+    "BoundingSphereRadius": 9.384753,
+    "Rewards": null
   },
   {
     "Name": "picador",
@@ -2516,7 +2575,8 @@
       "Y": -0.273785,
       "Z": 0.073458
     },
-    "BoundingSphereRadius": 2.767118
+    "BoundingSphereRadius": 2.767118,
+    "Rewards": null
   },
   {
     "Name": "policeold1",
@@ -2563,7 +2623,8 @@
       "Y": -0.234258,
       "Z": 0.460869
     },
-    "BoundingSphereRadius": 2.97969
+    "BoundingSphereRadius": 2.97969,
+    "Rewards": null
   },
   {
     "Name": "policeold2",
@@ -2610,7 +2671,8 @@
       "Y": -0.07128,
       "Z": 0.337549
     },
-    "BoundingSphereRadius": 2.749242
+    "BoundingSphereRadius": 2.749242,
+    "Rewards": null
   },
   {
     "Name": "asterope",
@@ -2657,7 +2719,8 @@
       "Y": 0.027299,
       "Z": 0.373532
     },
-    "BoundingSphereRadius": 2.684262
+    "BoundingSphereRadius": 2.684262,
+    "Rewards": null
   },
   {
     "Name": "banshee",
@@ -2707,7 +2770,8 @@
       "Y": -0.133855,
       "Z": 0.133572
     },
-    "BoundingSphereRadius": 2.667973
+    "BoundingSphereRadius": 2.667973,
+    "Rewards": null
   },
   {
     "Name": "buffalo",
@@ -2753,7 +2817,8 @@
       "Y": -0.018623,
       "Z": 0.126262
     },
-    "BoundingSphereRadius": 2.767462
+    "BoundingSphereRadius": 2.767462,
+    "Rewards": null
   },
   {
     "Name": "bullet",
@@ -2802,7 +2867,8 @@
       "Y": -0.030983,
       "Z": 0.216105
     },
-    "BoundingSphereRadius": 2.600904
+    "BoundingSphereRadius": 2.600904,
+    "Rewards": null
   },
   {
     "Name": "f620",
@@ -2852,7 +2918,8 @@
       "Y": -0.021604,
       "Z": 0.12296
     },
-    "BoundingSphereRadius": 2.542382
+    "BoundingSphereRadius": 2.542382,
+    "Rewards": null
   },
   {
     "Name": "handler",
@@ -2895,7 +2962,8 @@
       "Y": 1.897996,
       "Z": 3.707079
     },
-    "BoundingSphereRadius": 7.929546
+    "BoundingSphereRadius": 7.929546,
+    "Rewards": null
   },
   {
     "Name": "ruiner",
@@ -2946,7 +3014,8 @@
       "Y": -0.000558,
       "Z": 0.002025
     },
-    "BoundingSphereRadius": 2.68173
+    "BoundingSphereRadius": 2.68173,
+    "Rewards": null
   },
   {
     "Name": "gburrito",
@@ -2993,7 +3062,8 @@
       "Y": -0.04537,
       "Z": 0.335807
     },
-    "BoundingSphereRadius": 3.227859
+    "BoundingSphereRadius": 3.227859,
+    "Rewards": null
   },
   {
     "Name": "tractor2",
@@ -3039,7 +3109,8 @@
       "Y": -0.009148,
       "Z": 0.801246
     },
-    "BoundingSphereRadius": 3.234235
+    "BoundingSphereRadius": 3.234235,
+    "Rewards": null
   },
   {
     "Name": "penumbra",
@@ -3084,7 +3155,8 @@
       "Y": 0.002168,
       "Z": 0.291714
     },
-    "BoundingSphereRadius": 2.555319
+    "BoundingSphereRadius": 2.555319,
+    "Rewards": null
   },
   {
     "Name": "submersible",
@@ -3133,7 +3205,8 @@
       "Y": -2.729411,
       "Z": -0.071306
     },
-    "BoundingSphereRadius": 5.310106
+    "BoundingSphereRadius": 5.310106,
+    "Rewards": null
   },
   {
     "Name": "docktug",
@@ -3178,7 +3251,8 @@
       "Y": 0.0,
       "Z": 0.651749
     },
-    "BoundingSphereRadius": 3.201658
+    "BoundingSphereRadius": 3.201658,
+    "Rewards": null
   },
   {
     "Name": "docktrailer",
@@ -3225,7 +3299,8 @@
       "Y": 0.0,
       "Z": 1.001101
     },
-    "BoundingSphereRadius": 7.929733
+    "BoundingSphereRadius": 7.929733,
+    "Rewards": null
   },
   {
     "Name": "sultan",
@@ -3271,7 +3346,8 @@
       "Y": -0.074818,
       "Z": 0.462084
     },
-    "BoundingSphereRadius": 2.554891
+    "BoundingSphereRadius": 2.554891,
+    "Rewards": null
   },
   {
     "Name": "dilettante",
@@ -3316,7 +3392,8 @@
       "Y": 0.000709,
       "Z": 0.381054
     },
-    "BoundingSphereRadius": 2.512804
+    "BoundingSphereRadius": 2.512804,
+    "Rewards": null
   },
   {
     "Name": "futo",
@@ -3363,7 +3440,8 @@
       "Y": 0.052837,
       "Z": 0.229519
     },
-    "BoundingSphereRadius": 2.363215
+    "BoundingSphereRadius": 2.363215,
+    "Rewards": null
   },
   {
     "Name": "habanero",
@@ -3409,7 +3487,8 @@
       "Y": -0.045335,
       "Z": 0.273545
     },
-    "BoundingSphereRadius": 2.713652
+    "BoundingSphereRadius": 2.713652,
+    "Rewards": null
   },
   {
     "Name": "intruder",
@@ -3455,7 +3534,8 @@
       "Y": 0.009555,
       "Z": 0.190671
     },
-    "BoundingSphereRadius": 2.751435
+    "BoundingSphereRadius": 2.751435,
+    "Rewards": null
   },
   {
     "Name": "landstalker",
@@ -3504,7 +3584,8 @@
       "Y": -0.112612,
       "Z": 0.654411
     },
-    "BoundingSphereRadius": 2.983949
+    "BoundingSphereRadius": 2.983949,
+    "Rewards": null
   },
   {
     "Name": "minivan",
@@ -3553,7 +3634,8 @@
       "Y": -0.033315,
       "Z": 0.249952
     },
-    "BoundingSphereRadius": 2.945015
+    "BoundingSphereRadius": 2.945015,
+    "Rewards": null
   },
   {
     "Name": "schafter2",
@@ -3600,7 +3682,8 @@
       "Y": -0.151518,
       "Z": 0.232948
     },
-    "BoundingSphereRadius": 2.891184
+    "BoundingSphereRadius": 2.891184,
+    "Rewards": null
   },
   {
     "Name": "serrano",
@@ -3647,7 +3730,8 @@
       "Y": -0.021786,
       "Z": 0.485809
     },
-    "BoundingSphereRadius": 2.779512
+    "BoundingSphereRadius": 2.779512,
+    "Rewards": null
   },
   {
     "Name": "manana",
@@ -3696,7 +3780,8 @@
       "Y": -0.254961,
       "Z": 0.198213
     },
-    "BoundingSphereRadius": 2.909704
+    "BoundingSphereRadius": 2.909704,
+    "Rewards": null
   },
   {
     "Name": "seashark2",
@@ -3742,7 +3827,8 @@
       "Y": 0.0,
       "Z": 0.477449
     },
-    "BoundingSphereRadius": 1.940541
+    "BoundingSphereRadius": 1.940541,
+    "Rewards": null
   },
   {
     "Name": "youga",
@@ -3788,7 +3874,8 @@
       "Y": -0.109112,
       "Z": 0.562966
     },
-    "BoundingSphereRadius": 2.867074
+    "BoundingSphereRadius": 2.867074,
+    "Rewards": null
   },
   {
     "Name": "premier",
@@ -3833,7 +3920,8 @@
       "Y": -0.030071,
       "Z": 0.400524
     },
-    "BoundingSphereRadius": 2.581931
+    "BoundingSphereRadius": 2.581931,
+    "Rewards": null
   },
   {
     "Name": "speedo",
@@ -3881,7 +3969,8 @@
       "Y": -0.135189,
       "Z": 0.483293
     },
-    "BoundingSphereRadius": 3.019636
+    "BoundingSphereRadius": 3.019636,
+    "Rewards": null
   },
   {
     "Name": "washington",
@@ -3926,7 +4015,8 @@
       "Y": -0.13063,
       "Z": 0.25768
     },
-    "BoundingSphereRadius": 2.976633
+    "BoundingSphereRadius": 2.976633,
+    "Rewards": null
   },
   {
     "Name": "annihilator",
@@ -3979,7 +4069,12 @@
       "Y": -0.359266,
       "Z": 2.312402
     },
-    "BoundingSphereRadius": 16.8928757
+    "BoundingSphereRadius": 16.8928757,
+    "Rewards": [
+      "REWARD_WEAPON_SNIPERRIFLE",
+      "REWARD_AMMO_SNIPERRIFLE",
+      "REWARD_STAT_WEAPON"
+    ]
   },
   {
     "Name": "blazer2",
@@ -4027,7 +4122,8 @@
       "Y": -0.065667,
       "Z": 0.126875
     },
-    "BoundingSphereRadius": 1.244067
+    "BoundingSphereRadius": 1.244067,
+    "Rewards": null
   },
   {
     "Name": "cruiser",
@@ -4073,7 +4169,8 @@
       "Y": -0.058315,
       "Z": 0.054323
     },
-    "BoundingSphereRadius": 0.988482
+    "BoundingSphereRadius": 0.988482,
+    "Rewards": null
   },
   {
     "Name": "raketrailer",
@@ -4118,7 +4215,8 @@
       "Y": -0.150157,
       "Z": -0.180166
     },
-    "BoundingSphereRadius": 2.180434
+    "BoundingSphereRadius": 2.180434,
+    "Rewards": null
   },
   {
     "Name": "cargoplane",
@@ -4167,7 +4265,8 @@
       "Y": -8.388941,
       "Z": 3.756929
     },
-    "BoundingSphereRadius": 67.2575
+    "BoundingSphereRadius": 67.2575,
+    "Rewards": null
   },
   {
     "Name": "dump",
@@ -4216,7 +4315,8 @@
       "Y": -0.502426,
       "Z": 1.597079
     },
-    "BoundingSphereRadius": 7.054968
+    "BoundingSphereRadius": 7.054968,
+    "Rewards": null
   },
   {
     "Name": "pony",
@@ -4267,7 +4367,8 @@
       "Y": -0.072329,
       "Z": 0.412801
     },
-    "BoundingSphereRadius": 3.094343
+    "BoundingSphereRadius": 3.094343,
+    "Rewards": null
   },
   {
     "Name": "lguard",
@@ -4313,7 +4414,8 @@
       "Y": -0.115463,
       "Z": 0.778906
     },
-    "BoundingSphereRadius": 3.389534
+    "BoundingSphereRadius": 3.389534,
+    "Rewards": null
   },
   {
     "Name": "sentinel",
@@ -4361,7 +4463,8 @@
       "Y": -0.113238,
       "Z": 0.352697
     },
-    "BoundingSphereRadius": 2.585713
+    "BoundingSphereRadius": 2.585713,
+    "Rewards": null
   },
   {
     "Name": "sentinel2",
@@ -4409,7 +4512,8 @@
       "Y": -0.113238,
       "Z": 0.352698
     },
-    "BoundingSphereRadius": 2.585713
+    "BoundingSphereRadius": 2.585713,
+    "Rewards": null
   },
   {
     "Name": "comet2",
@@ -4459,7 +4563,8 @@
       "Y": -0.064883,
       "Z": 0.142033
     },
-    "BoundingSphereRadius": 2.504876
+    "BoundingSphereRadius": 2.504876,
+    "Rewards": null
   },
   {
     "Name": "stingergt",
@@ -4507,7 +4612,8 @@
       "Y": -0.057214,
       "Z": 0.229741
     },
-    "BoundingSphereRadius": 2.629895
+    "BoundingSphereRadius": 2.629895,
+    "Rewards": null
   },
   {
     "Name": "ingot",
@@ -4554,7 +4660,8 @@
       "Y": -0.039622,
       "Z": 0.22241
     },
-    "BoundingSphereRadius": 2.669124
+    "BoundingSphereRadius": 2.669124,
+    "Rewards": null
   },
   {
     "Name": "peyote",
@@ -4602,7 +4709,8 @@
       "Y": -0.209203,
       "Z": 0.374766
     },
-    "BoundingSphereRadius": 2.824448
+    "BoundingSphereRadius": 2.824448,
+    "Rewards": null
   },
   {
     "Name": "stanier",
@@ -4648,7 +4756,8 @@
       "Y": -0.193294,
       "Z": 0.186514
     },
-    "BoundingSphereRadius": 2.934232
+    "BoundingSphereRadius": 2.934232,
+    "Rewards": null
   },
   {
     "Name": "stratum",
@@ -4693,7 +4802,8 @@
       "Y": -0.069619,
       "Z": 0.43309
     },
-    "BoundingSphereRadius": 2.755184
+    "BoundingSphereRadius": 2.755184,
+    "Rewards": null
   },
   {
     "Name": "akuma",
@@ -4740,7 +4850,8 @@
       "Y": 0.04102,
       "Z": 0.070441
     },
-    "BoundingSphereRadius": 1.053603
+    "BoundingSphereRadius": 1.053603,
+    "Rewards": null
   },
   {
     "Name": "bati",
@@ -4787,7 +4898,8 @@
       "Y": -0.044458,
       "Z": 0.235874
     },
-    "BoundingSphereRadius": 1.146963
+    "BoundingSphereRadius": 1.146963,
+    "Rewards": null
   },
   {
     "Name": "bati2",
@@ -4836,7 +4948,8 @@
       "Y": -0.035641,
       "Z": 0.235874
     },
-    "BoundingSphereRadius": 1.13957
+    "BoundingSphereRadius": 1.13957,
+    "Rewards": null
   },
   {
     "Name": "pcj",
@@ -4884,7 +4997,8 @@
       "Y": -0.091583,
       "Z": 0.137316
     },
-    "BoundingSphereRadius": 1.231305
+    "BoundingSphereRadius": 1.231305,
+    "Rewards": null
   },
   {
     "Name": "dloader",
@@ -4932,7 +5046,8 @@
       "Y": -0.228145,
       "Z": 0.588598
     },
-    "BoundingSphereRadius": 3.123928
+    "BoundingSphereRadius": 3.123928,
+    "Rewards": null
   },
   {
     "Name": "prairie",
@@ -4978,7 +5093,8 @@
       "Y": 0.082247,
       "Z": 0.17255
     },
-    "BoundingSphereRadius": 2.436753
+    "BoundingSphereRadius": 2.436753,
+    "Rewards": null
   },
   {
     "Name": "duster",
@@ -5028,7 +5144,8 @@
       "Y": -0.810228,
       "Z": 0.198667
     },
-    "BoundingSphereRadius": 6.816091
+    "BoundingSphereRadius": 6.816091,
+    "Rewards": null
   },
   {
     "Name": "issi2",
@@ -5074,7 +5191,8 @@
       "Y": 0.002037,
       "Z": 0.084455
     },
-    "BoundingSphereRadius": 2.141786
+    "BoundingSphereRadius": 2.141786,
+    "Rewards": null
   },
   {
     "Name": "trailers2",
@@ -5121,7 +5239,8 @@
       "Y": 0.044837,
       "Z": -0.652322
     },
-    "BoundingSphereRadius": 6.8498
+    "BoundingSphereRadius": 6.8498,
+    "Rewards": null
   },
   {
     "Name": "tvtrailer",
@@ -5167,7 +5286,8 @@
       "Y": -0.149206,
       "Z": -0.655999
     },
-    "BoundingSphereRadius": 6.670458
+    "BoundingSphereRadius": 6.670458,
+    "Rewards": null
   },
   {
     "Name": "cutter",
@@ -5212,7 +5332,8 @@
       "Y": 1.473219,
       "Z": 1.45253
     },
-    "BoundingSphereRadius": 6.075809
+    "BoundingSphereRadius": 6.075809,
+    "Rewards": null
   },
   {
     "Name": "trflat",
@@ -5260,7 +5381,8 @@
       "Y": -0.114577,
       "Z": -0.385682
     },
-    "BoundingSphereRadius": 6.288635
+    "BoundingSphereRadius": 6.288635,
+    "Rewards": null
   },
   {
     "Name": "tornado2",
@@ -5307,7 +5429,8 @@
       "Y": -0.197681,
       "Z": 0.100914
     },
-    "BoundingSphereRadius": 2.770841
+    "BoundingSphereRadius": 2.770841,
+    "Rewards": null
   },
   {
     "Name": "tornado3",
@@ -5353,7 +5476,8 @@
       "Y": -0.197681,
       "Z": 0.101912
     },
-    "BoundingSphereRadius": 2.771058
+    "BoundingSphereRadius": 2.771058,
+    "Rewards": null
   },
   {
     "Name": "tribike",
@@ -5400,7 +5524,8 @@
       "Y": 0.081961,
       "Z": -0.027825
     },
-    "BoundingSphereRadius": 0.775973
+    "BoundingSphereRadius": 0.775973,
+    "Rewards": null
   },
   {
     "Name": "tribike2",
@@ -5447,7 +5572,8 @@
       "Y": 0.081961,
       "Z": -0.027825
     },
-    "BoundingSphereRadius": 0.775973
+    "BoundingSphereRadius": 0.775973,
+    "Rewards": null
   },
   {
     "Name": "tribike3",
@@ -5494,7 +5620,8 @@
       "Y": 0.081961,
       "Z": -0.027825
     },
-    "BoundingSphereRadius": 0.775973
+    "BoundingSphereRadius": 0.775973,
+    "Rewards": null
   },
   {
     "Name": "proptrailer",
@@ -5540,7 +5667,8 @@
       "Y": -0.219459,
       "Z": 3.240684
     },
-    "BoundingSphereRadius": 9.316448
+    "BoundingSphereRadius": 9.316448,
+    "Rewards": null
   },
   {
     "Name": "burrito2",
@@ -5592,7 +5720,8 @@
       "Y": -0.064658,
       "Z": 0.261575
     },
-    "BoundingSphereRadius": 3.155449
+    "BoundingSphereRadius": 3.155449,
+    "Rewards": null
   },
   {
     "Name": "dune",
@@ -5627,21 +5756,22 @@
       "0_default_modkit"
     ],
     "DimensionsMin": {
-      "X": -0.729425,
-      "Y": -2.177819,
-      "Z": -0.261606
+      "X": -0.399026,
+      "Y": -1.117821,
+      "Z": 0.858853
     },
     "DimensionsMax": {
-      "X": 0.729425,
-      "Y": 1.903096,
-      "Z": 1.02403
+      "X": 0.399025,
+      "Y": -0.130211,
+      "Z": 1.034048
     },
     "BoundingCenter": {
       "X": 0.0,
-      "Y": -0.137362,
-      "Z": 0.381212
+      "Y": -0.624016,
+      "Z": 0.94645
     },
-    "BoundingSphereRadius": 2.260253
+    "BoundingSphereRadius": 0.640889,
+    "Rewards": null
   },
   {
     "Name": "feltzer2",
@@ -5691,7 +5821,8 @@
       "Y": -0.011485,
       "Z": 0.061457
     },
-    "BoundingSphereRadius": 2.666287
+    "BoundingSphereRadius": 2.666287,
+    "Rewards": null
   },
   {
     "Name": "blista",
@@ -5738,7 +5869,8 @@
       "Y": 0.06936,
       "Z": -0.013335
     },
-    "BoundingSphereRadius": 2.31542
+    "BoundingSphereRadius": 2.31542,
+    "Rewards": null
   },
   {
     "Name": "bagger",
@@ -5788,7 +5920,8 @@
       "Y": -0.013143,
       "Z": 0.172022
     },
-    "BoundingSphereRadius": 1.286021
+    "BoundingSphereRadius": 1.286021,
+    "Rewards": null
   },
   {
     "Name": "voltic",
@@ -5838,7 +5971,8 @@
       "Y": 0.101884,
       "Z": 0.050172
     },
-    "BoundingSphereRadius": 2.261477
+    "BoundingSphereRadius": 2.261477,
+    "Rewards": null
   },
   {
     "Name": "fugitive",
@@ -5887,7 +6021,8 @@
       "Y": -0.158508,
       "Z": 0.076204
     },
-    "BoundingSphereRadius": 2.758352
+    "BoundingSphereRadius": 2.758352,
+    "Rewards": null
   },
   {
     "Name": "felon",
@@ -5934,7 +6069,8 @@
       "Y": -0.119856,
       "Z": 0.07264
     },
-    "BoundingSphereRadius": 2.765498
+    "BoundingSphereRadius": 2.765498,
+    "Rewards": null
   },
   {
     "Name": "pbus",
@@ -5982,7 +6118,8 @@
       "Y": -0.762156,
       "Z": 0.439866
     },
-    "BoundingSphereRadius": 4.581754
+    "BoundingSphereRadius": 4.581754,
+    "Rewards": null
   },
   {
     "Name": "armytrailer",
@@ -6030,7 +6167,8 @@
       "Y": 0.0,
       "Z": -1.395977
     },
-    "BoundingSphereRadius": 6.752583
+    "BoundingSphereRadius": 6.752583,
+    "Rewards": null
   },
   {
     "Name": "policet",
@@ -6078,7 +6216,12 @@
       "Y": -0.197606,
       "Z": 0.367342
     },
-    "BoundingSphereRadius": 3.314737
+    "BoundingSphereRadius": 3.314737,
+    "Rewards": [
+      "REWARD_WEAPON_SMG",
+      "REWARD_AMMO_SMG",
+      "REWARD_STAT_WEAPON"
+    ]
   },
   {
     "Name": "speedo2",
@@ -6131,7 +6274,8 @@
       "Y": -0.140146,
       "Z": 0.449296
     },
-    "BoundingSphereRadius": 3.072747
+    "BoundingSphereRadius": 3.072747,
+    "Rewards": null
   },
   {
     "Name": "felon2",
@@ -6178,7 +6322,8 @@
       "Y": -0.115392,
       "Z": 0.072953
     },
-    "BoundingSphereRadius": 2.684083
+    "BoundingSphereRadius": 2.684083,
+    "Rewards": null
   },
   {
     "Name": "BMX",
@@ -6225,7 +6370,8 @@
       "Y": 0.001249,
       "Z": 0.201043
     },
-    "BoundingSphereRadius": 0.763829
+    "BoundingSphereRadius": 0.763829,
+    "Rewards": null
   },
   {
     "Name": "exemplar",
@@ -6275,7 +6421,8 @@
       "Y": -0.186403,
       "Z": 0.119261
     },
-    "BoundingSphereRadius": 2.719741
+    "BoundingSphereRadius": 2.719741,
+    "Rewards": null
   },
   {
     "Name": "fusilade",
@@ -6322,7 +6469,8 @@
       "Y": -0.057798,
       "Z": 0.43092
     },
-    "BoundingSphereRadius": 2.364372
+    "BoundingSphereRadius": 2.364372,
+    "Rewards": null
   },
   {
     "Name": "boattrailer",
@@ -6370,7 +6518,8 @@
       "Y": -0.029548,
       "Z": -0.18839
     },
-    "BoundingSphereRadius": 3.888202
+    "BoundingSphereRadius": 3.888202,
+    "Rewards": null
   },
   {
     "Name": "cavalcade",
@@ -6418,7 +6567,8 @@
       "Y": -0.133403,
       "Z": 0.363034
     },
-    "BoundingSphereRadius": 2.993593
+    "BoundingSphereRadius": 2.993593,
+    "Rewards": null
   },
   {
     "Name": "surge",
@@ -6464,7 +6614,8 @@
       "Y": 0.104223,
       "Z": 0.069236
     },
-    "BoundingSphereRadius": 2.538656
+    "BoundingSphereRadius": 2.538656,
+    "Rewards": null
   },
   {
     "Name": "buccaneer",
@@ -6512,7 +6663,8 @@
       "Y": -0.258873,
       "Z": 0.389898
     },
-    "BoundingSphereRadius": 2.888643
+    "BoundingSphereRadius": 2.888643,
+    "Rewards": null
   },
   {
     "Name": "nemesis",
@@ -6559,7 +6711,8 @@
       "Y": 0.025293,
       "Z": 0.054083
     },
-    "BoundingSphereRadius": 1.060891
+    "BoundingSphereRadius": 1.060891,
+    "Rewards": null
   },
   {
     "Name": "armytanker",
@@ -6608,7 +6761,8 @@
       "Y": -0.216008,
       "Z": -0.690367
     },
-    "BoundingSphereRadius": 6.591532
+    "BoundingSphereRadius": 6.591532,
+    "Rewards": null
   },
   {
     "Name": "rocoto",
@@ -6654,7 +6808,8 @@
       "Y": -0.034896,
       "Z": 0.097149
     },
-    "BoundingSphereRadius": 2.710747
+    "BoundingSphereRadius": 2.710747,
+    "Rewards": null
   },
   {
     "Name": "stockade3",
@@ -6705,7 +6860,8 @@
       "Y": -0.224562,
       "Z": 1.038823
     },
-    "BoundingSphereRadius": 4.196515
+    "BoundingSphereRadius": 4.196515,
+    "Rewards": null
   },
   {
     "Name": "rebel2",
@@ -6756,7 +6912,8 @@
       "Y": 0.097845,
       "Z": 0.623757
     },
-    "BoundingSphereRadius": 2.887229
+    "BoundingSphereRadius": 2.887229,
+    "Rewards": null
   },
   {
     "Name": "schwarzer",
@@ -6802,7 +6959,8 @@
       "Y": -0.124484,
       "Z": 0.487578
     },
-    "BoundingSphereRadius": 2.73684
+    "BoundingSphereRadius": 2.73684,
+    "Rewards": null
   },
   {
     "Name": "scrap",
@@ -6851,7 +7009,8 @@
       "Y": 0.078658,
       "Z": 1.003148
     },
-    "BoundingSphereRadius": 4.277401
+    "BoundingSphereRadius": 4.277401,
+    "Rewards": null
   },
   {
     "Name": "sandking",
@@ -6900,7 +7059,8 @@
       "Y": -0.076075,
       "Z": 0.417067
     },
-    "BoundingSphereRadius": 3.87759
+    "BoundingSphereRadius": 3.87759,
+    "Rewards": null
   },
   {
     "Name": "sandking2",
@@ -6948,7 +7108,8 @@
       "Y": -0.075393,
       "Z": 0.664052
     },
-    "BoundingSphereRadius": 3.685451
+    "BoundingSphereRadius": 3.685451,
+    "Rewards": null
   },
   {
     "Name": "carbonizzare",
@@ -6996,7 +7157,8 @@
       "Y": 0.058922,
       "Z": 0.195546
     },
-    "BoundingSphereRadius": 2.552851
+    "BoundingSphereRadius": 2.552851,
+    "Rewards": null
   },
   {
     "Name": "rumpo",
@@ -7047,7 +7209,8 @@
       "Y": -0.137476,
       "Z": 0.140438
     },
-    "BoundingSphereRadius": 3.114246
+    "BoundingSphereRadius": 3.114246,
+    "Rewards": null
   },
   {
     "Name": "primo",
@@ -7094,7 +7257,8 @@
       "Y": -0.076725,
       "Z": 0.222239
     },
-    "BoundingSphereRadius": 2.899116
+    "BoundingSphereRadius": 2.899116,
+    "Rewards": null
   },
   {
     "Name": "sabregt",
@@ -7141,7 +7305,8 @@
       "Y": -0.131292,
       "Z": 0.224618
     },
-    "BoundingSphereRadius": 2.777695
+    "BoundingSphereRadius": 2.777695,
+    "Rewards": null
   },
   {
     "Name": "regina",
@@ -7189,7 +7354,8 @@
       "Y": -0.220603,
       "Z": 0.300421
     },
-    "BoundingSphereRadius": 3.029794
+    "BoundingSphereRadius": 3.029794,
+    "Rewards": null
   },
   {
     "Name": "jetmax",
@@ -7236,7 +7402,8 @@
       "Y": 0.03949,
       "Z": 0.574126
     },
-    "BoundingSphereRadius": 5.628193
+    "BoundingSphereRadius": 5.628193,
+    "Rewards": null
   },
   {
     "Name": "tropic",
@@ -7285,7 +7452,8 @@
       "Y": 0.152431,
       "Z": 0.768902
     },
-    "BoundingSphereRadius": 4.737526
+    "BoundingSphereRadius": 4.737526,
+    "Rewards": null
   },
   {
     "Name": "vigero",
@@ -7333,7 +7501,8 @@
       "Y": -0.104574,
       "Z": 0.040796
     },
-    "BoundingSphereRadius": 2.546938
+    "BoundingSphereRadius": 2.546938,
+    "Rewards": null
   },
   {
     "Name": "police2",
@@ -7382,7 +7551,12 @@
       "Y": 0.040173,
       "Z": 0.170652
     },
-    "BoundingSphereRadius": 2.804047
+    "BoundingSphereRadius": 2.804047,
+    "Rewards": [
+      "REWARD_WEAPON_PUMPSHOTGUN",
+      "REWARD_AMMO_PUMPSHOTGUN_ENTER_VEHICLE",
+      "REWARD_STAT_WEAPON"
+    ]
   },
   {
     "Name": "stretch",
@@ -7430,7 +7604,8 @@
       "Y": -0.134431,
       "Z": 0.094954
     },
-    "BoundingSphereRadius": 4.158534
+    "BoundingSphereRadius": 4.158534,
+    "Rewards": null
   },
   {
     "Name": "dinghy2",
@@ -7478,7 +7653,8 @@
       "Y": 0.043495,
       "Z": 1.072968
     },
-    "BoundingSphereRadius": 4.574808
+    "BoundingSphereRadius": 4.574808,
+    "Rewards": null
   },
   {
     "Name": "boxville",
@@ -7530,7 +7706,8 @@
       "Y": -0.515048,
       "Z": 0.652922
     },
-    "BoundingSphereRadius": 3.770414
+    "BoundingSphereRadius": 3.770414,
+    "Rewards": null
   },
   {
     "Name": "luxor",
@@ -7581,7 +7758,8 @@
       "Y": -1.118796,
       "Z": 0.845583
     },
-    "BoundingSphereRadius": 12.7063923
+    "BoundingSphereRadius": 12.7063923,
+    "Rewards": null
   },
   {
     "Name": "police3",
@@ -7632,7 +7810,12 @@
       "Y": -0.04302,
       "Z": 0.135043
     },
-    "BoundingSphereRadius": 2.909436
+    "BoundingSphereRadius": 2.909436,
+    "Rewards": [
+      "REWARD_WEAPON_PUMPSHOTGUN",
+      "REWARD_AMMO_PUMPSHOTGUN_ENTER_VEHICLE",
+      "REWARD_STAT_WEAPON"
+    ]
   },
   {
     "Name": "trailers3",
@@ -7678,7 +7861,8 @@
       "Y": -0.149206,
       "Z": -0.676613
     },
-    "BoundingSphereRadius": 6.747305
+    "BoundingSphereRadius": 6.747305,
+    "Rewards": null
   },
   {
     "Name": "double",
@@ -7726,7 +7910,8 @@
       "Y": 0.019455,
       "Z": 0.096957
     },
-    "BoundingSphereRadius": 1.103775
+    "BoundingSphereRadius": 1.103775,
+    "Rewards": null
   },
   {
     "Name": "TRACTOR",
@@ -7776,7 +7961,8 @@
       "Y": -0.520164,
       "Z": 0.349986
     },
-    "BoundingSphereRadius": 1.934413
+    "BoundingSphereRadius": 1.934413,
+    "Rewards": null
   },
   {
     "Name": "Biff",
@@ -7827,7 +8013,8 @@
       "Y": 0.029148,
       "Z": 0.912163
     },
-    "BoundingSphereRadius": 4.572266
+    "BoundingSphereRadius": 4.572266,
+    "Rewards": null
   },
   {
     "Name": "Dominator",
@@ -7875,7 +8062,8 @@
       "Y": -0.105762,
       "Z": 0.478093
     },
-    "BoundingSphereRadius": 2.745908
+    "BoundingSphereRadius": 2.745908,
+    "Rewards": null
   },
   {
     "Name": "Hauler",
@@ -7925,7 +8113,8 @@
       "Y": -0.042582,
       "Z": 1.190698
     },
-    "BoundingSphereRadius": 4.346822
+    "BoundingSphereRadius": 4.346822,
+    "Rewards": null
   },
   {
     "Name": "Packer",
@@ -7973,7 +8162,8 @@
       "Y": -0.096057,
       "Z": 1.347516
     },
-    "BoundingSphereRadius": 5.22979
+    "BoundingSphereRadius": 5.22979,
+    "Rewards": null
   },
   {
     "Name": "Phoenix",
@@ -8021,7 +8211,8 @@
       "Y": -0.009969,
       "Z": 0.305976
     },
-    "BoundingSphereRadius": 2.757364
+    "BoundingSphereRadius": 2.757364,
+    "Rewards": null
   },
   {
     "Name": "Sadler",
@@ -8070,7 +8261,8 @@
       "Y": -0.02258,
       "Z": 0.509192
     },
-    "BoundingSphereRadius": 3.583213
+    "BoundingSphereRadius": 3.583213,
+    "Rewards": null
   },
   {
     "Name": "sadler2",
@@ -8119,7 +8311,8 @@
       "Y": -0.065378,
       "Z": 0.425641
     },
-    "BoundingSphereRadius": 3.50328
+    "BoundingSphereRadius": 3.50328,
+    "Rewards": null
   },
   {
     "Name": "daemon",
@@ -8166,7 +8359,8 @@
       "Y": -0.033631,
       "Z": 0.180278
     },
-    "BoundingSphereRadius": 1.213662
+    "BoundingSphereRadius": 1.213662,
+    "Rewards": null
   },
   {
     "Name": "coach",
@@ -8217,7 +8411,8 @@
       "Y": 0.043903,
       "Z": 0.018105
     },
-    "BoundingSphereRadius": 6.077652
+    "BoundingSphereRadius": 6.077652,
+    "Rewards": null
   },
   {
     "Name": "tornado4",
@@ -8264,7 +8459,8 @@
       "Y": -0.197678,
       "Z": 0.079116
     },
-    "BoundingSphereRadius": 2.805022
+    "BoundingSphereRadius": 2.805022,
+    "Rewards": null
   },
   {
     "Name": "ratloader",
@@ -8313,7 +8509,8 @@
       "Y": -0.286698,
       "Z": 0.782515
     },
-    "BoundingSphereRadius": 3.062396
+    "BoundingSphereRadius": 3.062396,
+    "Rewards": null
   },
   {
     "Name": "RapidGT",
@@ -8363,7 +8560,8 @@
       "Y": 0.058332,
       "Z": 0.110141
     },
-    "BoundingSphereRadius": 2.519257
+    "BoundingSphereRadius": 2.519257,
+    "Rewards": null
   },
   {
     "Name": "RapidGT2",
@@ -8412,7 +8610,8 @@
       "Y": 0.058332,
       "Z": 0.110452
     },
-    "BoundingSphereRadius": 2.519328
+    "BoundingSphereRadius": 2.519328,
+    "Rewards": null
   },
   {
     "Name": "Surano",
@@ -8461,7 +8660,8 @@
       "Y": -0.037649,
       "Z": 0.042854
     },
-    "BoundingSphereRadius": 2.55302
+    "BoundingSphereRadius": 2.55302,
+    "Rewards": null
   },
   {
     "Name": "BfInjection",
@@ -8507,7 +8707,8 @@
       "Y": -0.205054,
       "Z": 0.81408
     },
-    "BoundingSphereRadius": 2.481698
+    "BoundingSphereRadius": 2.481698,
+    "Rewards": null
   },
   {
     "Name": "Bison2",
@@ -8557,7 +8758,8 @@
       "Y": -0.063211,
       "Z": 0.50139
     },
-    "BoundingSphereRadius": 3.100703
+    "BoundingSphereRadius": 3.100703,
+    "Rewards": null
   },
   {
     "Name": "Bison3",
@@ -8607,7 +8809,8 @@
       "Y": -0.063211,
       "Z": 0.581186
     },
-    "BoundingSphereRadius": 3.122387
+    "BoundingSphereRadius": 3.122387,
+    "Rewards": null
   },
   {
     "Name": "Bodhi2",
@@ -8660,7 +8863,8 @@
       "Y": -0.22944,
       "Z": 0.323668
     },
-    "BoundingSphereRadius": 3.17067
+    "BoundingSphereRadius": 3.17067,
+    "Rewards": null
   },
   {
     "Name": "Burrito",
@@ -8712,7 +8916,8 @@
       "Y": -0.1377,
       "Z": 0.480629
     },
-    "BoundingSphereRadius": 3.319334
+    "BoundingSphereRadius": 3.319334,
+    "Rewards": null
   },
   {
     "Name": "Burrito4",
@@ -8763,7 +8968,8 @@
       "Y": -0.064658,
       "Z": 0.261575
     },
-    "BoundingSphereRadius": 3.155449
+    "BoundingSphereRadius": 3.155449,
+    "Rewards": null
   },
   {
     "Name": "Rubble",
@@ -8813,7 +9019,8 @@
       "Y": -0.162077,
       "Z": 1.125695
     },
-    "BoundingSphereRadius": 5.490884
+    "BoundingSphereRadius": 5.490884,
+    "Rewards": null
   },
   {
     "Name": "TipTruck",
@@ -8862,7 +9069,8 @@
       "Y": -0.06969,
       "Z": 0.88977
     },
-    "BoundingSphereRadius": 4.007675
+    "BoundingSphereRadius": 4.007675,
+    "Rewards": null
   },
   {
     "Name": "TipTruck2",
@@ -8910,7 +9118,8 @@
       "Y": 0.055763,
       "Z": 1.12833
     },
-    "BoundingSphereRadius": 4.478669
+    "BoundingSphereRadius": 4.478669,
+    "Rewards": null
   },
   {
     "Name": "Mixer",
@@ -8958,7 +9167,8 @@
       "Y": -0.5928,
       "Z": 1.202629
     },
-    "BoundingSphereRadius": 4.571692
+    "BoundingSphereRadius": 4.571692,
+    "Rewards": null
   },
   {
     "Name": "Mixer2",
@@ -9007,7 +9217,8 @@
       "Y": -0.356382,
       "Z": 0.896607
     },
-    "BoundingSphereRadius": 4.887818
+    "BoundingSphereRadius": 4.887818,
+    "Rewards": null
   },
   {
     "Name": "Phantom",
@@ -9056,7 +9267,8 @@
       "Y": 0.0619,
       "Z": 1.24486
     },
-    "BoundingSphereRadius": 5.34228
+    "BoundingSphereRadius": 5.34228,
+    "Rewards": null
   },
   {
     "Name": "Pounder",
@@ -9106,7 +9318,8 @@
       "Y": -1.935422,
       "Z": 1.335785
     },
-    "BoundingSphereRadius": 6.997857
+    "BoundingSphereRadius": 6.997857,
+    "Rewards": null
   },
   {
     "Name": "Buzzard2",
@@ -9157,7 +9370,8 @@
       "Y": -0.603044,
       "Z": 1.097938
     },
-    "BoundingSphereRadius": 9.003004
+    "BoundingSphereRadius": 9.003004,
+    "Rewards": null
   },
   {
     "Name": "Frogger",
@@ -9207,7 +9421,8 @@
       "Y": -0.980504,
       "Z": 0.977411
     },
-    "BoundingSphereRadius": 8.287883
+    "BoundingSphereRadius": 8.287883,
+    "Rewards": null
   },
   {
     "Name": "Airtug",
@@ -9253,7 +9468,8 @@
       "Y": -0.18465,
       "Z": 0.38769
     },
-    "BoundingSphereRadius": 1.77358
+    "BoundingSphereRadius": 1.77358,
+    "Rewards": null
   },
   {
     "Name": "Benson",
@@ -9307,7 +9523,8 @@
       "Y": -0.601763,
       "Z": 0.746256
     },
-    "BoundingSphereRadius": 5.254037
+    "BoundingSphereRadius": 5.254037,
+    "Rewards": null
   },
   {
     "Name": "Ripley",
@@ -9355,7 +9572,8 @@
       "Y": 0.380228,
       "Z": 0.568144
     },
-    "BoundingSphereRadius": 4.941109
+    "BoundingSphereRadius": 4.941109,
+    "Rewards": null
   },
   {
     "Name": "AMBULANCE",
@@ -9407,7 +9625,11 @@
       "Y": -0.662343,
       "Z": 0.741794
     },
-    "BoundingSphereRadius": 3.993911
+    "BoundingSphereRadius": 3.993911,
+    "Rewards": [
+      "REWARD_HEALTH_ENTER_VEHICLE",
+      "REWARD_STAT_HEALTH"
+    ]
   },
   {
     "Name": "FORKLIFT",
@@ -9450,7 +9672,8 @@
       "Y": 0.60684,
       "Z": 0.851989
     },
-    "BoundingSphereRadius": 2.333018
+    "BoundingSphereRadius": 2.333018,
+    "Rewards": null
   },
   {
     "Name": "GRANGER",
@@ -9500,7 +9723,8 @@
       "Y": -0.115463,
       "Z": 0.425483
     },
-    "BoundingSphereRadius": 3.285084
+    "BoundingSphereRadius": 3.285084,
+    "Rewards": null
   },
   {
     "Name": "pRanger",
@@ -9548,7 +9772,12 @@
       "Y": -0.059027,
       "Z": 0.695416
     },
-    "BoundingSphereRadius": 3.41166
+    "BoundingSphereRadius": 3.41166,
+    "Rewards": [
+      "REWARD_WEAPON_CARBINERIFLE",
+      "REWARD_AMMO_CARBINERIFLE",
+      "REWARD_STAT_WEAPON"
+    ]
   },
   {
     "Name": "trailersmall",
@@ -9594,7 +9823,8 @@
       "Y": 0.007077,
       "Z": 0.104625
     },
-    "BoundingSphereRadius": 2.359134
+    "BoundingSphereRadius": 2.359134,
+    "Rewards": null
   },
   {
     "Name": "BARRACKS",
@@ -9627,21 +9857,22 @@
     "HasSirens": false,
     "ModKits": [],
     "DimensionsMin": {
-      "X": -1.490252,
-      "Y": -4.711596,
-      "Z": -0.148976
+      "X": -1.28708,
+      "Y": -4.7355,
+      "Z": 1.574015
     },
     "DimensionsMax": {
-      "X": 1.490253,
-      "Y": 4.616594,
-      "Z": 2.875146
+      "X": 1.286923,
+      "Y": 1.119611,
+      "Z": 2.817903
     },
     "BoundingCenter": {
-      "X": 0.0,
-      "Y": -0.047501,
-      "Z": 1.363085
+      "X": -7.9E-05,
+      "Y": -1.807945,
+      "Z": 2.195959
     },
-    "BoundingSphereRadius": 5.124546
+    "BoundingSphereRadius": 3.257878,
+    "Rewards": null
   },
   {
     "Name": "BARRACKS2",
@@ -9691,7 +9922,8 @@
       "Y": -0.038141,
       "Z": 0.924171
     },
-    "BoundingSphereRadius": 3.950164
+    "BoundingSphereRadius": 3.950164,
+    "Rewards": null
   },
   {
     "Name": "CRUSADER",
@@ -9740,7 +9972,12 @@
       "Y": -0.013026,
       "Z": 0.501772
     },
-    "BoundingSphereRadius": 2.588619
+    "BoundingSphereRadius": 2.588619,
+    "Rewards": [
+      "REWARD_WEAPON_CARBINERIFLE",
+      "REWARD_AMMO_CARBINERIFLE",
+      "REWARD_STAT_WEAPON"
+    ]
   },
   {
     "Name": "Utillitruck3",
@@ -9789,7 +10026,8 @@
       "Y": -0.227956,
       "Z": 0.456479
     },
-    "BoundingSphereRadius": 3.388825
+    "BoundingSphereRadius": 3.388825,
+    "Rewards": null
   },
   {
     "Name": "SHERIFF",
@@ -9841,7 +10079,12 @@
       "Y": 0.036871,
       "Z": 0.316227
     },
-    "BoundingSphereRadius": 3.020841
+    "BoundingSphereRadius": 3.020841,
+    "Rewards": [
+      "REWARD_WEAPON_PUMPSHOTGUN",
+      "REWARD_AMMO_PUMPSHOTGUN_ENTER_VEHICLE",
+      "REWARD_STAT_WEAPON"
+    ]
   },
   {
     "Name": "monroe",
@@ -9894,7 +10137,8 @@
       "Y": -0.026252,
       "Z": 0.315856
     },
-    "BoundingSphereRadius": 2.408959
+    "BoundingSphereRadius": 2.408959,
+    "Rewards": null
   },
   {
     "Name": "Mule",
@@ -9943,7 +10187,8 @@
       "Y": -0.263831,
       "Z": 0.757636
     },
-    "BoundingSphereRadius": 4.511709
+    "BoundingSphereRadius": 4.511709,
+    "Rewards": null
   },
   {
     "Name": "Taco",
@@ -9991,7 +10236,8 @@
       "Y": -1.084112,
       "Z": 1.114778
     },
-    "BoundingSphereRadius": 4.190658
+    "BoundingSphereRadius": 4.190658,
+    "Rewards": null
   },
   {
     "Name": "Trash",
@@ -10040,7 +10286,8 @@
       "Y": -0.387087,
       "Z": 1.290665
     },
-    "BoundingSphereRadius": 5.452366
+    "BoundingSphereRadius": 5.452366,
+    "Rewards": null
   },
   {
     "Name": "Dinghy",
@@ -10089,7 +10336,8 @@
       "Y": 0.043495,
       "Z": 1.072968
     },
-    "BoundingSphereRadius": 4.574808
+    "BoundingSphereRadius": 4.574808,
+    "Rewards": null
   },
   {
     "Name": "blazer",
@@ -10138,7 +10386,8 @@
       "Y": -0.067808,
       "Z": 0.114719
     },
-    "BoundingSphereRadius": 1.130337
+    "BoundingSphereRadius": 1.130337,
+    "Rewards": null
   },
   {
     "Name": "maverick",
@@ -10189,7 +10438,8 @@
       "Y": 0.007214,
       "Z": 0.884466
     },
-    "BoundingSphereRadius": 11.0025768
+    "BoundingSphereRadius": 11.0025768,
+    "Rewards": null
   },
   {
     "Name": "Cargobob",
@@ -10241,7 +10491,8 @@
       "Y": -0.495634,
       "Z": 1.180876
     },
-    "BoundingSphereRadius": 13.9601669
+    "BoundingSphereRadius": 13.9601669,
+    "Rewards": null
   },
   {
     "Name": "Cargobob3",
@@ -10291,7 +10542,8 @@
       "Y": -0.495635,
       "Z": 1.180876
     },
-    "BoundingSphereRadius": 13.960166
+    "BoundingSphereRadius": 13.960166,
+    "Rewards": null
   },
   {
     "Name": "Stunt",
@@ -10342,7 +10594,8 @@
       "Y": -1.351159,
       "Z": 0.070212
     },
-    "BoundingSphereRadius": 5.539352
+    "BoundingSphereRadius": 5.539352,
+    "Rewards": null
   },
   {
     "Name": "emperor3",
@@ -10388,7 +10641,8 @@
       "Y": -0.272862,
       "Z": 0.257587
     },
-    "BoundingSphereRadius": 2.943924
+    "BoundingSphereRadius": 2.943924,
+    "Rewards": null
   },
   {
     "Name": "caddy",
@@ -10433,7 +10687,8 @@
       "Y": -0.092622,
       "Z": 0.646523
     },
-    "BoundingSphereRadius": 1.653436
+    "BoundingSphereRadius": 1.653436,
+    "Rewards": null
   },
   {
     "Name": "Emperor2",
@@ -10478,7 +10733,8 @@
       "Y": -0.272862,
       "Z": 0.244067
     },
-    "BoundingSphereRadius": 2.941244
+    "BoundingSphereRadius": 2.941244,
+    "Rewards": null
   },
   {
     "Name": "Surfer2",
@@ -10527,7 +10783,8 @@
       "Y": -0.002105,
       "Z": 0.199874
     },
-    "BoundingSphereRadius": 2.5159
+    "BoundingSphereRadius": 2.5159,
+    "Rewards": null
   },
   {
     "Name": "TOWTRUCK",
@@ -10576,7 +10833,8 @@
       "Y": -0.393224,
       "Z": 0.721358
     },
-    "BoundingSphereRadius": 4.443432
+    "BoundingSphereRadius": 4.443432,
+    "Rewards": null
   },
   {
     "Name": "Towtruck2",
@@ -10623,7 +10881,8 @@
       "Y": -0.185797,
       "Z": 0.483072
     },
-    "BoundingSphereRadius": 2.990499
+    "BoundingSphereRadius": 2.990499,
+    "Rewards": null
   },
   {
     "Name": "Baller",
@@ -10671,7 +10930,8 @@
       "Y": -0.141432,
       "Z": 0.081942
     },
-    "BoundingSphereRadius": 2.843402
+    "BoundingSphereRadius": 2.843402,
+    "Rewards": null
   },
   {
     "Name": "SURFER",
@@ -10720,7 +10980,8 @@
       "Y": 0.002967,
       "Z": 0.358573
     },
-    "BoundingSphereRadius": 2.562646
+    "BoundingSphereRadius": 2.562646,
+    "Rewards": null
   },
   {
     "Name": "mammatus",
@@ -10772,7 +11033,8 @@
       "Y": -2.006144,
       "Z": 0.593005
     },
-    "BoundingSphereRadius": 9.282892
+    "BoundingSphereRadius": 9.282892,
+    "Rewards": null
   },
   {
     "Name": "RIOT",
@@ -10823,7 +11085,10 @@
       "Y": -0.283592,
       "Z": 1.016884
     },
-    "BoundingSphereRadius": 4.110149
+    "BoundingSphereRadius": 4.110149,
+    "Rewards": [
+      "REWARD_ARMOUR"
+    ]
   },
   {
     "Name": "velum",
@@ -10874,7 +11139,8 @@
       "Y": -0.526271,
       "Z": 0.034435
     },
-    "BoundingSphereRadius": 8.853739
+    "BoundingSphereRadius": 8.853739,
+    "Rewards": null
   },
   {
     "Name": "rancherxl2",
@@ -10922,7 +11188,8 @@
       "Y": -0.234258,
       "Z": 0.398395
     },
-    "BoundingSphereRadius": 2.961517
+    "BoundingSphereRadius": 2.961517,
+    "Rewards": null
   },
   {
     "Name": "Caddy2",
@@ -10967,7 +11234,8 @@
       "Y": 0.014132,
       "Z": 0.587926
     },
-    "BoundingSphereRadius": 1.588701
+    "BoundingSphereRadius": 1.588701,
+    "Rewards": null
   },
   {
     "Name": "Airbus",
@@ -11018,7 +11286,8 @@
       "Y": -0.03147,
       "Z": 0.841971
     },
-    "BoundingSphereRadius": 6.92839
+    "BoundingSphereRadius": 6.92839,
+    "Rewards": null
   },
   {
     "Name": "Rentalbus",
@@ -11070,7 +11339,8 @@
       "Y": -0.890966,
       "Z": 0.67889
     },
-    "BoundingSphereRadius": 4.152428
+    "BoundingSphereRadius": 4.152428,
+    "Rewards": null
   },
   {
     "Name": "gresley",
@@ -11118,7 +11388,8 @@
       "Y": -0.126834,
       "Z": 0.110165
     },
-    "BoundingSphereRadius": 2.946463
+    "BoundingSphereRadius": 2.946463,
+    "Rewards": null
   },
   {
     "Name": "zion",
@@ -11165,7 +11436,8 @@
       "Y": -0.071802,
       "Z": 0.334369
     },
-    "BoundingSphereRadius": 2.698807
+    "BoundingSphereRadius": 2.698807,
+    "Rewards": null
   },
   {
     "Name": "zion2",
@@ -11212,7 +11484,8 @@
       "Y": -0.071802,
       "Z": 0.339444
     },
-    "BoundingSphereRadius": 2.699998
+    "BoundingSphereRadius": 2.699998,
+    "Rewards": null
   },
   {
     "Name": "ruffian",
@@ -11259,7 +11532,8 @@
       "Y": -0.069357,
       "Z": 0.122203
     },
-    "BoundingSphereRadius": 1.202297
+    "BoundingSphereRadius": 1.202297,
+    "Rewards": null
   },
   {
     "Name": "adder",
@@ -11312,7 +11586,8 @@
       "Y": 0.0748,
       "Z": 0.048048
     },
-    "BoundingSphereRadius": 2.438897
+    "BoundingSphereRadius": 2.438897,
+    "Rewards": null
   },
   {
     "Name": "vacca",
@@ -11361,7 +11636,8 @@
       "Y": 0.16533,
       "Z": 0.113794
     },
-    "BoundingSphereRadius": 2.461114
+    "BoundingSphereRadius": 2.461114,
+    "Rewards": null
   },
   {
     "Name": "boxville3",
@@ -11412,7 +11688,8 @@
       "Y": -0.664526,
       "Z": 0.520213
     },
-    "BoundingSphereRadius": 3.591855
+    "BoundingSphereRadius": 3.591855,
+    "Rewards": null
   },
   {
     "Name": "Suntrap",
@@ -11460,7 +11737,8 @@
       "Y": -0.155255,
       "Z": 0.856321
     },
-    "BoundingSphereRadius": 4.454387
+    "BoundingSphereRadius": 4.454387,
+    "Rewards": null
   },
   {
     "Name": "bobcatXL",
@@ -11509,7 +11787,8 @@
       "Y": -0.30232,
       "Z": 0.254748
     },
-    "BoundingSphereRadius": 3.230161
+    "BoundingSphereRadius": 3.230161,
+    "Rewards": null
   },
   {
     "Name": "burrito3",
@@ -11560,7 +11839,8 @@
       "Y": -0.064658,
       "Z": 0.261575
     },
-    "BoundingSphereRadius": 3.155449
+    "BoundingSphereRadius": 3.155449,
+    "Rewards": null
   },
   {
     "Name": "police4",
@@ -11608,7 +11888,12 @@
       "Y": 0.036871,
       "Z": 0.228022
     },
-    "BoundingSphereRadius": 3.001148
+    "BoundingSphereRadius": 3.001148,
+    "Rewards": [
+      "REWARD_WEAPON_CARBINERIFLE",
+      "REWARD_AMMO_CARBINERIFLE",
+      "REWARD_STAT_WEAPON"
+    ]
   },
   {
     "Name": "cablecar",
@@ -11652,7 +11937,8 @@
       "Y": 0.032146,
       "Z": -3.512402
     },
-    "BoundingSphereRadius": 5.21697
+    "BoundingSphereRadius": 5.21697,
+    "Rewards": null
   },
   {
     "Name": "BLIMP",
@@ -11702,7 +11988,8 @@
       "Y": -5.480375,
       "Z": 5.464446
     },
-    "BoundingSphereRadius": 31.235424
+    "BoundingSphereRadius": 31.235424,
+    "Rewards": null
   },
   {
     "Name": "BUS",
@@ -11752,7 +12039,8 @@
       "Y": -0.03147,
       "Z": 0.84961
     },
-    "BoundingSphereRadius": 6.930114
+    "BoundingSphereRadius": 6.930114,
+    "Rewards": null
   },
   {
     "Name": "dilettante2",
@@ -11799,7 +12087,8 @@
       "Y": 0.000709,
       "Z": 0.381052
     },
-    "BoundingSphereRadius": 2.512804
+    "BoundingSphereRadius": 2.512804,
+    "Rewards": null
   },
   {
     "Name": "Rebel",
@@ -11851,7 +12140,8 @@
       "Y": -0.015691,
       "Z": 0.623757
     },
-    "BoundingSphereRadius": 2.771187
+    "BoundingSphereRadius": 2.771187,
+    "Rewards": null
   },
   {
     "Name": "skylift",
@@ -11899,7 +12189,8 @@
       "Y": -5.708547,
       "Z": 1.537825
     },
-    "BoundingSphereRadius": 19.6660118
+    "BoundingSphereRadius": 19.6660118,
+    "Rewards": null
   },
   {
     "Name": "Shamal",
@@ -11951,7 +12242,8 @@
       "Y": -1.118704,
       "Z": 0.845583
     },
-    "BoundingSphereRadius": 12.7064657
+    "BoundingSphereRadius": 12.7064657,
+    "Rewards": null
   },
   {
     "Name": "graintrailer",
@@ -11995,7 +12287,8 @@
       "Y": 0.145596,
       "Z": 0.533623
     },
-    "BoundingSphereRadius": 3.950839
+    "BoundingSphereRadius": 3.950839,
+    "Rewards": null
   },
   {
     "Name": "Vader",
@@ -12042,7 +12335,8 @@
       "Y": -0.091583,
       "Z": 0.128297
     },
-    "BoundingSphereRadius": 1.222913
+    "BoundingSphereRadius": 1.222913,
+    "Rewards": null
   },
   {
     "Name": "sheriff2",
@@ -12091,7 +12385,12 @@
       "Y": -0.055161,
       "Z": 0.695416
     },
-    "BoundingSphereRadius": 3.415083
+    "BoundingSphereRadius": 3.415083,
+    "Rewards": [
+      "REWARD_WEAPON_CARBINERIFLE",
+      "REWARD_AMMO_CARBINERIFLE",
+      "REWARD_STAT_WEAPON"
+    ]
   },
   {
     "Name": "baletrailer",
@@ -12137,7 +12436,8 @@
       "Y": 0.0,
       "Z": -0.026616
     },
-    "BoundingSphereRadius": 5.104386
+    "BoundingSphereRadius": 5.104386,
+    "Rewards": null
   },
   {
     "Name": "TOURBUS",
@@ -12187,7 +12487,8 @@
       "Y": -0.890966,
       "Z": 0.668125
     },
-    "BoundingSphereRadius": 4.149251
+    "BoundingSphereRadius": 4.149251,
+    "Rewards": null
   },
   {
     "Name": "fixter",
@@ -12232,7 +12533,8 @@
       "Y": 0.082213,
       "Z": -0.027825
     },
-    "BoundingSphereRadius": 0.755664
+    "BoundingSphereRadius": 0.755664,
+    "Rewards": null
   },
   {
     "Name": "oracle2",
@@ -12279,7 +12581,8 @@
       "Y": -0.117302,
       "Z": 0.522148
     },
-    "BoundingSphereRadius": 2.889473
+    "BoundingSphereRadius": 2.889473,
+    "Rewards": null
   },
   {
     "Name": "baller2",
@@ -12327,7 +12630,8 @@
       "Y": -0.163776,
       "Z": 0.127592
     },
-    "BoundingSphereRadius": 2.94474
+    "BoundingSphereRadius": 2.94474,
+    "Rewards": null
   },
   {
     "Name": "buffalo2",
@@ -12373,7 +12677,8 @@
       "Y": 0.079136,
       "Z": 0.131141
     },
-    "BoundingSphereRadius": 2.848176
+    "BoundingSphereRadius": 2.848176,
+    "Rewards": null
   },
   {
     "Name": "cavalcade2",
@@ -12421,7 +12726,8 @@
       "Y": -0.050505,
       "Z": 0.26857
     },
-    "BoundingSphereRadius": 2.949399
+    "BoundingSphereRadius": 2.949399,
+    "Rewards": null
   },
   {
     "Name": "coquette",
@@ -12473,7 +12779,8 @@
       "Y": -0.029376,
       "Z": 0.370614
     },
-    "BoundingSphereRadius": 2.542749
+    "BoundingSphereRadius": 2.542749,
+    "Rewards": null
   },
   {
     "Name": "tractor3",
@@ -12520,7 +12827,8 @@
       "Y": -0.008677,
       "Z": 0.801246
     },
-    "BoundingSphereRadius": 3.234592
+    "BoundingSphereRadius": 3.234592,
+    "Rewards": null
   },
   {
     "Name": "Gauntlet",
@@ -12570,7 +12878,8 @@
       "Y": -0.024297,
       "Z": 0.159219
     },
-    "BoundingSphereRadius": 2.780659
+    "BoundingSphereRadius": 2.780659,
+    "Rewards": null
   },
   {
     "Name": "MESA",
@@ -12618,7 +12927,8 @@
       "Y": 0.024732,
       "Z": 0.486667
     },
-    "BoundingSphereRadius": 2.555923
+    "BoundingSphereRadius": 2.555923,
+    "Rewards": null
   },
   {
     "Name": "police",
@@ -12669,7 +12979,12 @@
       "Y": 0.036871,
       "Z": 0.316227
     },
-    "BoundingSphereRadius": 3.020841
+    "BoundingSphereRadius": 3.020841,
+    "Rewards": [
+      "REWARD_WEAPON_PUMPSHOTGUN",
+      "REWARD_AMMO_PUMPSHOTGUN_ENTER_VEHICLE",
+      "REWARD_STAT_WEAPON"
+    ]
   },
   {
     "Name": "cargobob2",
@@ -12721,7 +13036,8 @@
       "Y": -0.495636,
       "Z": 1.180876
     },
-    "BoundingSphereRadius": 13.9601669
+    "BoundingSphereRadius": 13.9601669,
+    "Rewards": null
   },
   {
     "Name": "taxi",
@@ -12770,7 +13086,8 @@
       "Y": 0.002221,
       "Z": 0.412363
     },
-    "BoundingSphereRadius": 3.013958
+    "BoundingSphereRadius": 3.013958,
+    "Rewards": null
   },
   {
     "Name": "Sanchez",
@@ -12819,7 +13136,8 @@
       "Y": 0.048022,
       "Z": 0.210158
     },
-    "BoundingSphereRadius": 1.274473
+    "BoundingSphereRadius": 1.274473,
+    "Rewards": null
   },
   {
     "Name": "FLATBED",
@@ -12870,7 +13188,8 @@
       "Y": -0.746623,
       "Z": 1.364643
     },
-    "BoundingSphereRadius": 5.907029
+    "BoundingSphereRadius": 5.907029,
+    "Rewards": null
   },
   {
     "Name": "Seminole",
@@ -12919,7 +13238,8 @@
       "Y": -0.098349,
       "Z": 0.507149
     },
-    "BoundingSphereRadius": 2.694646
+    "BoundingSphereRadius": 2.694646,
+    "Rewards": null
   },
   {
     "Name": "Mower",
@@ -12964,7 +13284,8 @@
       "Y": 0.000861,
       "Z": 0.167078
     },
-    "BoundingSphereRadius": 1.483451
+    "BoundingSphereRadius": 1.483451,
+    "Rewards": null
   },
   {
     "Name": "Ztype",
@@ -13010,7 +13331,8 @@
       "Y": -0.344175,
       "Z": 0.375299
     },
-    "BoundingSphereRadius": 2.891645
+    "BoundingSphereRadius": 2.891645,
+    "Rewards": null
   },
   {
     "Name": "Predator",
@@ -13058,7 +13380,12 @@
       "Y": -0.039868,
       "Z": 0.555002
     },
-    "BoundingSphereRadius": 5.966272
+    "BoundingSphereRadius": 5.966272,
+    "Rewards": [
+      "REWARD_WEAPON_CARBINERIFLE",
+      "REWARD_AMMO_CARBINERIFLE",
+      "REWARD_STAT_WEAPON"
+    ]
   },
   {
     "Name": "rumpo2",
@@ -13108,7 +13435,8 @@
       "Y": -0.137476,
       "Z": 0.134792
     },
-    "BoundingSphereRadius": 3.112587
+    "BoundingSphereRadius": 3.112587,
+    "Rewards": null
   },
   {
     "Name": "pony2",
@@ -13158,7 +13486,8 @@
       "Y": -0.072329,
       "Z": 0.412801
     },
-    "BoundingSphereRadius": 3.094343
+    "BoundingSphereRadius": 3.094343,
+    "Rewards": null
   },
   {
     "Name": "BjXL",
@@ -13209,7 +13538,8 @@
       "Y": -0.051801,
       "Z": 0.132871
     },
-    "BoundingSphereRadius": 2.628554
+    "BoundingSphereRadius": 2.628554,
+    "Rewards": null
   },
   {
     "Name": "CAMPER",
@@ -13261,7 +13591,8 @@
       "Y": -0.98577,
       "Z": 0.944279
     },
-    "BoundingSphereRadius": 4.379362
+    "BoundingSphereRadius": 4.379362,
+    "Rewards": null
   },
   {
     "Name": "RancherXL",
@@ -13310,7 +13641,8 @@
       "Y": -0.235023,
       "Z": 0.358847
     },
-    "BoundingSphereRadius": 2.941757
+    "BoundingSphereRadius": 2.941757,
+    "Rewards": null
   },
   {
     "Name": "faggio2",
@@ -13358,7 +13690,8 @@
       "Y": 0.008309,
       "Z": 0.163254
     },
-    "BoundingSphereRadius": 1.136861
+    "BoundingSphereRadius": 1.136861,
+    "Rewards": null
   },
   {
     "Name": "Lazer",
@@ -13411,7 +13744,8 @@
       "Y": 0.950146,
       "Z": 0.553497
     },
-    "BoundingSphereRadius": 9.484947
+    "BoundingSphereRadius": 9.484947,
+    "Rewards": null
   },
   {
     "Name": "seashark",
@@ -13457,7 +13791,8 @@
       "Y": 0.0,
       "Z": 0.477449
     },
-    "BoundingSphereRadius": 1.940541
+    "BoundingSphereRadius": 1.940541,
+    "Rewards": null
   },
   {
     "Name": "bison",
@@ -13505,7 +13840,8 @@
       "Y": -0.063211,
       "Z": 0.50139
     },
-    "BoundingSphereRadius": 3.100703
+    "BoundingSphereRadius": 3.100703,
+    "Rewards": null
   },
   {
     "Name": "FBI",
@@ -13553,7 +13889,12 @@
       "Y": -0.024024,
       "Z": 0.137273
     },
-    "BoundingSphereRadius": 2.738021
+    "BoundingSphereRadius": 2.738021,
+    "Rewards": [
+      "REWARD_WEAPON_CARBINERIFLE",
+      "REWARD_AMMO_CARBINERIFLE",
+      "REWARD_STAT_WEAPON"
+    ]
   },
   {
     "Name": "FBI2",
@@ -13600,7 +13941,12 @@
       "Y": -0.130652,
       "Z": 0.676145
     },
-    "BoundingSphereRadius": 3.354681
+    "BoundingSphereRadius": 3.354681,
+    "Rewards": [
+      "REWARD_WEAPON_CARBINERIFLE",
+      "REWARD_AMMO_CARBINERIFLE",
+      "REWARD_STAT_WEAPON"
+    ]
   },
   {
     "Name": "Mule2",
@@ -13651,7 +13997,8 @@
       "Y": -0.059744,
       "Z": 0.754156
     },
-    "BoundingSphereRadius": 4.332599
+    "BoundingSphereRadius": 4.332599,
+    "Rewards": null
   },
   {
     "Name": "RHINO",
@@ -13703,7 +14050,8 @@
       "Y": 1.13745,
       "Z": 0.585809
     },
-    "BoundingSphereRadius": 5.647587
+    "BoundingSphereRadius": 5.647587,
+    "Rewards": null
   },
   {
     "Name": "burrito5",
@@ -13755,7 +14103,8 @@
       "Y": -0.064658,
       "Z": 0.287008
     },
-    "BoundingSphereRadius": 3.163364
+    "BoundingSphereRadius": 3.163364,
+    "Rewards": null
   },
   {
     "Name": "asea2",
@@ -13801,7 +14150,8 @@
       "Y": -0.089979,
       "Z": 0.30177
     },
-    "BoundingSphereRadius": 2.462457
+    "BoundingSphereRadius": 2.462457,
+    "Rewards": null
   },
   {
     "Name": "mesa2",
@@ -13849,7 +14199,8 @@
       "Y": 0.024732,
       "Z": 0.525142
     },
-    "BoundingSphereRadius": 2.568267
+    "BoundingSphereRadius": 2.568267,
+    "Rewards": null
   },
   {
     "Name": "MESA3",
@@ -13898,7 +14249,8 @@
       "Y": -0.102838,
       "Z": 0.508007
     },
-    "BoundingSphereRadius": 2.832877
+    "BoundingSphereRadius": 2.832877,
+    "Rewards": null
   },
   {
     "Name": "frogger2",
@@ -13947,7 +14299,8 @@
       "Y": -0.980504,
       "Z": 0.977411
     },
-    "BoundingSphereRadius": 8.287883
+    "BoundingSphereRadius": 8.287883,
+    "Rewards": null
   },
   {
     "Name": "hotknife",
@@ -13996,7 +14349,8 @@
       "Y": -0.01553,
       "Z": 0.30845
     },
-    "BoundingSphereRadius": 2.051194
+    "BoundingSphereRadius": 2.051194,
+    "Rewards": null
   },
   {
     "Name": "elegy2",
@@ -14042,7 +14396,8 @@
       "Y": -0.032646,
       "Z": 0.4504
     },
-    "BoundingSphereRadius": 2.627741
+    "BoundingSphereRadius": 2.627741,
+    "Rewards": null
   },
   {
     "Name": "khamelion",
@@ -14091,7 +14446,8 @@
       "Y": 0.050521,
       "Z": 0.449081
     },
-    "BoundingSphereRadius": 2.901853
+    "BoundingSphereRadius": 2.901853,
+    "Rewards": null
   },
   {
     "Name": "carbonrs",
@@ -14139,7 +14495,8 @@
       "Y": 0.054717,
       "Z": 0.092617
     },
-    "BoundingSphereRadius": 1.069984
+    "BoundingSphereRadius": 1.069984,
+    "Rewards": null
   },
   {
     "Name": "dune2",
@@ -14185,7 +14542,8 @@
       "Y": -0.334156,
       "Z": 0.67795
     },
-    "BoundingSphereRadius": 2.936862
+    "BoundingSphereRadius": 2.936862,
+    "Rewards": null
   },
   {
     "Name": "armytrailer2",
@@ -14232,7 +14590,8 @@
       "Y": 0.259574,
       "Z": -0.716582
     },
-    "BoundingSphereRadius": 7.265197
+    "BoundingSphereRadius": 7.265197,
+    "Rewards": null
   },
   {
     "Name": "freighttrailer",
@@ -14280,7 +14639,8 @@
       "Y": 0.0,
       "Z": -1.395977
     },
-    "BoundingSphereRadius": 9.594445
+    "BoundingSphereRadius": 9.594445,
+    "Rewards": null
   },
   {
     "Name": "tr4",
@@ -14327,7 +14687,8 @@
       "Y": 0.212145,
       "Z": 1.455488
     },
-    "BoundingSphereRadius": 8.398022
+    "BoundingSphereRadius": 8.398022,
+    "Rewards": null
   },
   {
     "Name": "blazer3",
@@ -14376,7 +14737,8 @@
       "Y": -0.065331,
       "Z": 0.183767
     },
-    "BoundingSphereRadius": 1.213329
+    "BoundingSphereRadius": 1.213329,
+    "Rewards": null
   },
   {
     "Name": "sanchez2",
@@ -14424,7 +14786,8 @@
       "Y": 0.048022,
       "Z": 0.210158
     },
-    "BoundingSphereRadius": 1.274473
+    "BoundingSphereRadius": 1.274473,
+    "Rewards": null
   },
   {
     "Name": "bifta",
@@ -14471,7 +14834,8 @@
       "Y": -0.092734,
       "Z": 0.202604
     },
-    "BoundingSphereRadius": 1.925178
+    "BoundingSphereRadius": 1.925178,
+    "Rewards": null
   },
   {
     "Name": "speeder",
@@ -14518,7 +14882,8 @@
       "Y": 0.120062,
       "Z": 0.13677
     },
-    "BoundingSphereRadius": 5.6486
+    "BoundingSphereRadius": 5.6486,
+    "Rewards": null
   },
   {
     "Name": "kalahari",
@@ -14570,7 +14935,8 @@
       "Y": -0.033911,
       "Z": 0.385543
     },
-    "BoundingSphereRadius": 2.348964
+    "BoundingSphereRadius": 2.348964,
+    "Rewards": null
   },
   {
     "Name": "paradise",
@@ -14622,7 +14988,8 @@
       "Y": -0.137476,
       "Z": 0.221395
     },
-    "BoundingSphereRadius": 3.139044
+    "BoundingSphereRadius": 3.139044,
+    "Rewards": null
   },
   {
     "Name": "submersible2",
@@ -14671,7 +15038,8 @@
       "Y": -0.259029,
       "Z": -0.480804
     },
-    "BoundingSphereRadius": 4.356655
+    "BoundingSphereRadius": 4.356655,
+    "Rewards": null
   },
   {
     "Name": "dodo",
@@ -14722,7 +15090,8 @@
       "Y": -1.73553,
       "Z": 0.179932
     },
-    "BoundingSphereRadius": 8.926636
+    "BoundingSphereRadius": 8.926636,
+    "Rewards": null
   },
   {
     "Name": "marshall",
@@ -14755,21 +15124,22 @@
       "149_marshall_modkit"
     ],
     "DimensionsMin": {
-      "X": -1.157702,
-      "Y": -3.191317,
-      "Z": -0.613389
+      "X": 3E-06,
+      "Y": -4.038966,
+      "Z": 1.579217
     },
     "DimensionsMax": {
-      "X": 1.157703,
-      "Y": 2.834463,
-      "Z": 3.112208
+      "X": 4E-06,
+      "Y": -3.014341,
+      "Z": 2.391709
     },
     "BoundingCenter": {
-      "X": 0.0,
-      "Y": -0.178427,
-      "Z": 1.249409
+      "X": 4E-06,
+      "Y": -3.526654,
+      "Z": 1.985463
     },
-    "BoundingSphereRadius": 3.726634
+    "BoundingSphereRadius": 0.653835,
+    "Rewards": null
   },
   {
     "Name": "BLIMP2",
@@ -14819,7 +15189,8 @@
       "Y": -5.480375,
       "Z": 5.464446
     },
-    "BoundingSphereRadius": 31.235424
+    "BoundingSphereRadius": 31.235424,
+    "Rewards": null
   },
   {
     "Name": "dukes",
@@ -14866,7 +15237,8 @@
       "Y": -0.216992,
       "Z": 0.179013
     },
-    "BoundingSphereRadius": 2.958599
+    "BoundingSphereRadius": 2.958599,
+    "Rewards": null
   },
   {
     "Name": "dukes2",
@@ -14914,7 +15286,8 @@
       "Y": -0.116844,
       "Z": 0.222747
     },
-    "BoundingSphereRadius": 3.009347
+    "BoundingSphereRadius": 3.009347,
+    "Rewards": null
   },
   {
     "Name": "buffalo3",
@@ -14960,7 +15333,8 @@
       "Y": 0.079136,
       "Z": 0.131141
     },
-    "BoundingSphereRadius": 2.848176
+    "BoundingSphereRadius": 2.848176,
+    "Rewards": null
   },
   {
     "Name": "dominator2",
@@ -15008,7 +15382,8 @@
       "Y": -0.105762,
       "Z": 0.478093
     },
-    "BoundingSphereRadius": 2.745908
+    "BoundingSphereRadius": 2.745908,
+    "Rewards": null
   },
   {
     "Name": "gauntlet2",
@@ -15058,7 +15433,8 @@
       "Y": -0.024297,
       "Z": 0.159219
     },
-    "BoundingSphereRadius": 2.780659
+    "BoundingSphereRadius": 2.780659,
+    "Rewards": null
   },
   {
     "Name": "stalion",
@@ -15105,7 +15481,8 @@
       "Y": -0.088186,
       "Z": 0.285082
     },
-    "BoundingSphereRadius": 2.866924
+    "BoundingSphereRadius": 2.866924,
+    "Rewards": null
   },
   {
     "Name": "stalion2",
@@ -15152,7 +15529,8 @@
       "Y": -0.088186,
       "Z": 0.285082
     },
-    "BoundingSphereRadius": 2.866924
+    "BoundingSphereRadius": 2.866924,
+    "Rewards": null
   },
   {
     "Name": "blista2",
@@ -15198,7 +15576,8 @@
       "Y": 0.076609,
       "Z": 0.38615
     },
-    "BoundingSphereRadius": 2.550143
+    "BoundingSphereRadius": 2.550143,
+    "Rewards": null
   },
   {
     "Name": "blista3",
@@ -15244,7 +15623,8 @@
       "Y": 0.098371,
       "Z": 0.38615
     },
-    "BoundingSphereRadius": 2.530849
+    "BoundingSphereRadius": 2.530849,
+    "Rewards": null
   },
   {
     "Name": "btype",
@@ -15292,7 +15672,8 @@
       "Y": -0.173576,
       "Z": 0.56163
     },
-    "BoundingSphereRadius": 2.772035
+    "BoundingSphereRadius": 2.772035,
+    "Rewards": null
   },
   {
     "Name": "jester",
@@ -15340,7 +15721,8 @@
       "Y": -0.003287,
       "Z": 0.383639
     },
-    "BoundingSphereRadius": 2.432298
+    "BoundingSphereRadius": 2.432298,
+    "Rewards": null
   },
   {
     "Name": "turismor",
@@ -15389,7 +15771,8 @@
       "Y": 0.192972,
       "Z": 0.435718
     },
-    "BoundingSphereRadius": 2.655384
+    "BoundingSphereRadius": 2.655384,
+    "Rewards": null
   },
   {
     "Name": "alpha",
@@ -15437,7 +15820,8 @@
       "Y": -0.050122,
       "Z": 0.091412
     },
-    "BoundingSphereRadius": 2.808094
+    "BoundingSphereRadius": 2.808094,
+    "Rewards": null
   },
   {
     "Name": "vestra",
@@ -15491,7 +15875,8 @@
       "Y": -0.845848,
       "Z": 0.238779
     },
-    "BoundingSphereRadius": 7.417305
+    "BoundingSphereRadius": 7.417305,
+    "Rewards": null
   },
   {
     "Name": "zentorno",
@@ -15539,7 +15924,8 @@
       "Y": 0.057309,
       "Z": 0.047823
     },
-    "BoundingSphereRadius": 2.619191
+    "BoundingSphereRadius": 2.619191,
+    "Rewards": null
   },
   {
     "Name": "massacro",
@@ -15587,7 +15973,8 @@
       "Y": 0.03193,
       "Z": 0.277893
     },
-    "BoundingSphereRadius": 2.524734
+    "BoundingSphereRadius": 2.524734,
+    "Rewards": null
   },
   {
     "Name": "huntley",
@@ -15635,7 +16022,8 @@
       "Y": 0.036406,
       "Z": 0.572949
     },
-    "BoundingSphereRadius": 2.628317
+    "BoundingSphereRadius": 2.628317,
+    "Rewards": null
   },
   {
     "Name": "thrust",
@@ -15682,7 +16070,8 @@
       "Y": -0.130757,
       "Z": 0.276599
     },
-    "BoundingSphereRadius": 1.348625
+    "BoundingSphereRadius": 1.348625,
+    "Rewards": null
   },
   {
     "Name": "rhapsody",
@@ -15726,7 +16115,8 @@
       "Y": -0.074817,
       "Z": 0.119969
     },
-    "BoundingSphereRadius": 2.368887
+    "BoundingSphereRadius": 2.368887,
+    "Rewards": null
   },
   {
     "Name": "warrener",
@@ -15772,7 +16162,8 @@
       "Y": -0.142802,
       "Z": 0.578309
     },
-    "BoundingSphereRadius": 2.57301
+    "BoundingSphereRadius": 2.57301,
+    "Rewards": null
   },
   {
     "Name": "blade",
@@ -15819,7 +16210,8 @@
       "Y": -0.158057,
       "Z": 0.362618
     },
-    "BoundingSphereRadius": 2.555242
+    "BoundingSphereRadius": 2.555242,
+    "Rewards": null
   },
   {
     "Name": "glendale",
@@ -15863,7 +16255,8 @@
       "Y": -0.010081,
       "Z": 0.073438
     },
-    "BoundingSphereRadius": 2.65195
+    "BoundingSphereRadius": 2.65195,
+    "Rewards": null
   },
   {
     "Name": "panto",
@@ -15909,7 +16302,8 @@
       "Y": 0.043517,
       "Z": 0.478443
     },
-    "BoundingSphereRadius": 1.73139
+    "BoundingSphereRadius": 1.73139,
+    "Rewards": null
   },
   {
     "Name": "dubsta3",
@@ -15957,7 +16351,8 @@
       "Y": -0.559777,
       "Z": 0.351629
     },
-    "BoundingSphereRadius": 3.163775
+    "BoundingSphereRadius": 3.163775,
+    "Rewards": null
   },
   {
     "Name": "pigalle",
@@ -16003,7 +16398,8 @@
       "Y": -0.015893,
       "Z": 0.262849
     },
-    "BoundingSphereRadius": 2.760888
+    "BoundingSphereRadius": 2.760888,
+    "Rewards": null
   },
   {
     "Name": "monster",
@@ -16037,21 +16433,22 @@
       "0_bike_modkit"
     ],
     "DimensionsMin": {
-      "X": -1.14969,
-      "Y": -2.686302,
-      "Z": -0.613389
+      "X": -0.641729,
+      "Y": -3.520692,
+      "Z": 1.372795
     },
     "DimensionsMax": {
-      "X": 1.149697,
-      "Y": 2.73259,
-      "Z": 2.254277
+      "X": 0.641733,
+      "Y": -2.496067,
+      "Z": 2.185288
     },
     "BoundingCenter": {
-      "X": 4E-06,
-      "Y": 0.023144,
-      "Z": 0.820444
+      "X": 2E-06,
+      "Y": -3.008379,
+      "Z": 1.779042
     },
-    "BoundingSphereRadius": 3.273953
+    "BoundingSphereRadius": 0.916144,
+    "Rewards": null
   },
   {
     "Name": "sovereign",
@@ -16100,7 +16497,8 @@
       "Y": -0.05263,
       "Z": 0.285004
     },
-    "BoundingSphereRadius": 1.412919
+    "BoundingSphereRadius": 1.412919,
+    "Rewards": null
   },
   {
     "Name": "Miljet",
@@ -16151,7 +16549,8 @@
       "Y": -1.41876,
       "Z": 0.864841
     },
-    "BoundingSphereRadius": 17.2990284
+    "BoundingSphereRadius": 17.2990284,
+    "Rewards": null
   },
   {
     "Name": "besra",
@@ -16202,7 +16601,8 @@
       "Y": 0.006376,
       "Z": 0.570135
     },
-    "BoundingSphereRadius": 8.074079
+    "BoundingSphereRadius": 8.074079,
+    "Rewards": null
   },
   {
     "Name": "coquette2",
@@ -16251,7 +16651,8 @@
       "Y": -0.143562,
       "Z": 0.40558
     },
-    "BoundingSphereRadius": 2.576473
+    "BoundingSphereRadius": 2.576473,
+    "Rewards": null
   },
   {
     "Name": "swift",
@@ -16304,7 +16705,8 @@
       "Y": -0.504698,
       "Z": 1.400033
     },
-    "BoundingSphereRadius": 13.5529366
+    "BoundingSphereRadius": 13.5529366,
+    "Rewards": null
   },
   {
     "Name": "innovation",
@@ -16351,7 +16753,8 @@
       "Y": 0.037361,
       "Z": 0.076763
     },
-    "BoundingSphereRadius": 1.253547
+    "BoundingSphereRadius": 1.253547,
+    "Rewards": null
   },
   {
     "Name": "hakuchou",
@@ -16397,7 +16800,8 @@
       "Y": -0.029434,
       "Z": 0.098251
     },
-    "BoundingSphereRadius": 1.260878
+    "BoundingSphereRadius": 1.260878,
+    "Rewards": null
   },
   {
     "Name": "furoregt",
@@ -16445,7 +16849,8 @@
       "Y": -0.018145,
       "Z": 0.336187
     },
-    "BoundingSphereRadius": 2.75255
+    "BoundingSphereRadius": 2.75255,
+    "Rewards": null
   },
   {
     "Name": "slamvan",
@@ -16489,7 +16894,8 @@
       "Y": -0.050635,
       "Z": 0.378516
     },
-    "BoundingSphereRadius": 2.779441
+    "BoundingSphereRadius": 2.779441,
+    "Rewards": null
   },
   {
     "Name": "ratloader2",
@@ -16538,7 +16944,8 @@
       "Y": 0.265994,
       "Z": 0.77063
     },
-    "BoundingSphereRadius": 2.564321
+    "BoundingSphereRadius": 2.564321,
+    "Rewards": null
   },
   {
     "Name": "jester2",
@@ -16586,7 +16993,8 @@
       "Y": -0.003287,
       "Z": 0.383639
     },
-    "BoundingSphereRadius": 2.432298
+    "BoundingSphereRadius": 2.432298,
+    "Rewards": null
   },
   {
     "Name": "massacro2",
@@ -16634,7 +17042,8 @@
       "Y": 0.03193,
       "Z": 0.277893
     },
-    "BoundingSphereRadius": 2.524734
+    "BoundingSphereRadius": 2.524734,
+    "Rewards": null
   },
   {
     "Name": "Mule3",
@@ -16682,7 +17091,8 @@
       "Y": -0.230322,
       "Z": 0.757636
     },
-    "BoundingSphereRadius": 4.541101
+    "BoundingSphereRadius": 4.541101,
+    "Rewards": null
   },
   {
     "Name": "trash2",
@@ -16730,7 +17140,8 @@
       "Y": -0.387087,
       "Z": 1.290665
     },
-    "BoundingSphereRadius": 5.452366
+    "BoundingSphereRadius": 5.452366,
+    "Rewards": null
   },
   {
     "Name": "velum2",
@@ -16780,7 +17191,8 @@
       "Y": -0.526271,
       "Z": 0.034435
     },
-    "BoundingSphereRadius": 8.853739
+    "BoundingSphereRadius": 8.853739,
+    "Rewards": null
   },
   {
     "Name": "tanker2",
@@ -16828,7 +17240,8 @@
       "Y": -0.169053,
       "Z": -0.690367
     },
-    "BoundingSphereRadius": 6.547917
+    "BoundingSphereRadius": 6.547917,
+    "Rewards": null
   },
   {
     "Name": "enduro",
@@ -16877,7 +17290,8 @@
       "Y": 0.028072,
       "Z": 0.205654
     },
-    "BoundingSphereRadius": 1.194201
+    "BoundingSphereRadius": 1.194201,
+    "Rewards": null
   },
   {
     "Name": "savage",
@@ -16932,7 +17346,8 @@
       "Y": -0.545846,
       "Z": 2.12465
     },
-    "BoundingSphereRadius": 17.8910122
+    "BoundingSphereRadius": 17.8910122,
+    "Rewards": null
   },
   {
     "Name": "casco",
@@ -16981,7 +17396,8 @@
       "Y": -0.119371,
       "Z": 0.526267
     },
-    "BoundingSphereRadius": 2.502829
+    "BoundingSphereRadius": 2.502829,
+    "Rewards": null
   },
   {
     "Name": "technical",
@@ -17033,7 +17449,8 @@
       "Y": 0.012702,
       "Z": 0.929687
     },
-    "BoundingSphereRadius": 2.911196
+    "BoundingSphereRadius": 2.911196,
+    "Rewards": null
   },
   {
     "Name": "insurgent",
@@ -17089,7 +17506,8 @@
       "Y": -0.077165,
       "Z": 0.783931
     },
-    "BoundingSphereRadius": 3.671641
+    "BoundingSphereRadius": 3.671641,
+    "Rewards": null
   },
   {
     "Name": "insurgent2",
@@ -17139,7 +17557,8 @@
       "Y": -0.077165,
       "Z": 0.562775
     },
-    "BoundingSphereRadius": 3.587513
+    "BoundingSphereRadius": 3.587513,
+    "Rewards": null
   },
   {
     "Name": "hydra",
@@ -17191,7 +17610,8 @@
       "Y": -0.449999,
       "Z": 0.283112
     },
-    "BoundingSphereRadius": 10.3204374
+    "BoundingSphereRadius": 10.3204374,
+    "Rewards": null
   },
   {
     "Name": "boxville4",
@@ -17241,7 +17661,8 @@
       "Y": -0.664526,
       "Z": 0.520213
     },
-    "BoundingSphereRadius": 3.591855
+    "BoundingSphereRadius": 3.591855,
+    "Rewards": null
   },
   {
     "Name": "gburrito2",
@@ -17287,7 +17708,8 @@
       "Y": -0.049398,
       "Z": 0.343409
     },
-    "BoundingSphereRadius": 3.22897
+    "BoundingSphereRadius": 3.22897,
+    "Rewards": null
   },
   {
     "Name": "guardian",
@@ -17340,7 +17762,8 @@
       "Y": -0.14983,
       "Z": 0.283788
     },
-    "BoundingSphereRadius": 3.745027
+    "BoundingSphereRadius": 3.745027,
+    "Rewards": null
   },
   {
     "Name": "dinghy3",
@@ -17389,7 +17812,8 @@
       "Y": 0.043495,
       "Z": 1.072968
     },
-    "BoundingSphereRadius": 4.574808
+    "BoundingSphereRadius": 4.574808,
+    "Rewards": null
   },
   {
     "Name": "lectro",
@@ -17436,7 +17860,8 @@
       "Y": 0.02599,
       "Z": 0.054083
     },
-    "BoundingSphereRadius": 1.060316
+    "BoundingSphereRadius": 1.060316,
+    "Rewards": null
   },
   {
     "Name": "kuruma",
@@ -17481,7 +17906,8 @@
       "Y": -0.043635,
       "Z": 0.092659
     },
-    "BoundingSphereRadius": 2.510354
+    "BoundingSphereRadius": 2.510354,
+    "Rewards": null
   },
   {
     "Name": "kuruma2",
@@ -17527,7 +17953,8 @@
       "Y": -0.043635,
       "Z": 0.097473
     },
-    "BoundingSphereRadius": 2.511571
+    "BoundingSphereRadius": 2.511571,
+    "Rewards": null
   },
   {
     "Name": "BARRACKS3",
@@ -17560,21 +17987,22 @@
     "HasSirens": false,
     "ModKits": [],
     "DimensionsMin": {
-      "X": -1.490252,
-      "Y": -4.711596,
-      "Z": -0.148976
+      "X": -1.284085,
+      "Y": -4.7355,
+      "Z": 2.217136
     },
     "DimensionsMax": {
-      "X": 1.490253,
-      "Y": 4.616594,
-      "Z": 2.875146
+      "X": 1.281749,
+      "Y": 1.119611,
+      "Z": 2.817903
     },
     "BoundingCenter": {
-      "X": 0.0,
-      "Y": -0.047501,
-      "Z": 1.363085
+      "X": -0.001168,
+      "Y": -1.807945,
+      "Z": 2.517519
     },
-    "BoundingSphereRadius": 5.124546
+    "BoundingSphereRadius": 3.210403,
+    "Rewards": null
   },
   {
     "Name": "valkyrie",
@@ -17626,7 +18054,12 @@
       "Y": -1.250838,
       "Z": 0.899231
     },
-    "BoundingSphereRadius": 12.7087383
+    "BoundingSphereRadius": 12.7087383,
+    "Rewards": [
+      "REWARD_WEAPON_SNIPERRIFLE",
+      "REWARD_AMMO_SNIPERRIFLE",
+      "REWARD_STAT_WEAPON"
+    ]
   },
   {
     "Name": "slamvan2",
@@ -17671,7 +18104,8 @@
       "Y": -0.142846,
       "Z": 0.479062
     },
-    "BoundingSphereRadius": 2.891813
+    "BoundingSphereRadius": 2.891813,
+    "Rewards": null
   },
   {
     "Name": "swift2",
@@ -17725,7 +18159,8 @@
       "Y": -0.495566,
       "Z": 1.39101
     },
-    "BoundingSphereRadius": 13.5448771
+    "BoundingSphereRadius": 13.5448771,
+    "Rewards": null
   },
   {
     "Name": "luxor2",
@@ -17778,7 +18213,8 @@
       "Y": -1.119101,
       "Z": 0.845582
     },
-    "BoundingSphereRadius": 12.7063923
+    "BoundingSphereRadius": 12.7063923,
+    "Rewards": null
   },
   {
     "Name": "feltzer3",
@@ -17830,7 +18266,8 @@
       "Y": -0.205199,
       "Z": 0.501337
     },
-    "BoundingSphereRadius": 2.532372
+    "BoundingSphereRadius": 2.532372,
+    "Rewards": null
   },
   {
     "Name": "osiris",
@@ -17878,7 +18315,8 @@
       "Y": 0.109862,
       "Z": 0.027551
     },
-    "BoundingSphereRadius": 2.550313
+    "BoundingSphereRadius": 2.550313,
+    "Rewards": null
   },
   {
     "Name": "virgo",
@@ -17925,7 +18363,8 @@
       "Y": 0.044779,
       "Z": 0.265294
     },
-    "BoundingSphereRadius": 3.06294
+    "BoundingSphereRadius": 3.06294,
+    "Rewards": null
   },
   {
     "Name": "windsor",
@@ -17973,7 +18412,8 @@
       "Y": -0.12148,
       "Z": 0.390259
     },
-    "BoundingSphereRadius": 2.956753
+    "BoundingSphereRadius": 2.956753,
+    "Rewards": null
   },
   {
     "Name": "coquette3",
@@ -18022,7 +18462,8 @@
       "Y": -0.133217,
       "Z": 0.318094
     },
-    "BoundingSphereRadius": 2.481748
+    "BoundingSphereRadius": 2.481748,
+    "Rewards": null
   },
   {
     "Name": "vindicator",
@@ -18069,7 +18510,8 @@
       "Y": -0.096154,
       "Z": 0.273066
     },
-    "BoundingSphereRadius": 1.283015
+    "BoundingSphereRadius": 1.283015,
+    "Rewards": null
   },
   {
     "Name": "t20",
@@ -18117,7 +18559,8 @@
       "Y": 0.14617,
       "Z": 0.04472
     },
-    "BoundingSphereRadius": 2.554262
+    "BoundingSphereRadius": 2.554262,
+    "Rewards": null
   },
   {
     "Name": "brawler",
@@ -18170,7 +18613,8 @@
       "Y": 0.057932,
       "Z": 0.14309
     },
-    "BoundingSphereRadius": 2.655788
+    "BoundingSphereRadius": 2.655788,
+    "Rewards": null
   },
   {
     "Name": "toro",
@@ -18223,7 +18667,8 @@
       "Y": -0.241995,
       "Z": 0.013199
     },
-    "BoundingSphereRadius": 5.550463
+    "BoundingSphereRadius": 5.550463,
+    "Rewards": null
   },
   {
     "Name": "chino",
@@ -18271,7 +18716,8 @@
       "Y": 0.035417,
       "Z": 0.227334
     },
-    "BoundingSphereRadius": 3.047761
+    "BoundingSphereRadius": 3.047761,
+    "Rewards": null
   },
   {
     "Name": "buccaneer2",
@@ -18321,7 +18767,8 @@
       "Y": -0.25688,
       "Z": 0.405678
     },
-    "BoundingSphereRadius": 2.880779
+    "BoundingSphereRadius": 2.880779,
+    "Rewards": null
   },
   {
     "Name": "voodoo",
@@ -18366,7 +18813,8 @@
       "Y": -0.26257,
       "Z": 0.135169
     },
-    "BoundingSphereRadius": 2.866427
+    "BoundingSphereRadius": 2.866427,
+    "Rewards": null
   },
   {
     "Name": "faction",
@@ -18413,7 +18861,8 @@
       "Y": -0.058236,
       "Z": 0.284974
     },
-    "BoundingSphereRadius": 2.78619
+    "BoundingSphereRadius": 2.78619,
+    "Rewards": null
   },
   {
     "Name": "faction2",
@@ -18461,7 +18910,8 @@
       "Y": -0.053952,
       "Z": 0.296968
     },
-    "BoundingSphereRadius": 2.783506
+    "BoundingSphereRadius": 2.783506,
+    "Rewards": null
   },
   {
     "Name": "moonbeam",
@@ -18509,7 +18959,8 @@
       "Y": -0.203574,
       "Z": 0.443745
     },
-    "BoundingSphereRadius": 2.77232
+    "BoundingSphereRadius": 2.77232,
+    "Rewards": null
   },
   {
     "Name": "moonbeam2",
@@ -18558,7 +19009,8 @@
       "Y": -0.203574,
       "Z": 0.438722
     },
-    "BoundingSphereRadius": 2.773787
+    "BoundingSphereRadius": 2.773787,
+    "Rewards": null
   },
   {
     "Name": "primo2",
@@ -18606,7 +19058,8 @@
       "Y": -0.076874,
       "Z": 0.22511
     },
-    "BoundingSphereRadius": 2.898378
+    "BoundingSphereRadius": 2.898378,
+    "Rewards": null
   },
   {
     "Name": "chino2",
@@ -18655,7 +19108,8 @@
       "Y": 0.035417,
       "Z": 0.264914
     },
-    "BoundingSphereRadius": 3.040185
+    "BoundingSphereRadius": 3.040185,
+    "Rewards": null
   },
   {
     "Name": "lurcher",
@@ -18703,7 +19157,8 @@
       "Y": -0.531712,
       "Z": 0.479524
     },
-    "BoundingSphereRadius": 3.159002
+    "BoundingSphereRadius": 3.159002,
+    "Rewards": null
   },
   {
     "Name": "btype2",
@@ -18752,7 +19207,8 @@
       "Y": -0.070168,
       "Z": 0.505665
     },
-    "BoundingSphereRadius": 2.758146
+    "BoundingSphereRadius": 2.758146,
+    "Rewards": null
   },
   {
     "Name": "verlierer2",
@@ -18798,7 +19254,8 @@
       "Y": 0.101937,
       "Z": 0.126052
     },
-    "BoundingSphereRadius": 2.490268
+    "BoundingSphereRadius": 2.490268,
+    "Rewards": null
   },
   {
     "Name": "mamba",
@@ -18847,7 +19304,8 @@
       "Y": -0.140135,
       "Z": 0.329494
     },
-    "BoundingSphereRadius": 2.154949
+    "BoundingSphereRadius": 2.154949,
+    "Rewards": null
   },
   {
     "Name": "nightshade",
@@ -18895,7 +19353,8 @@
       "Y": -0.075893,
       "Z": 0.3172
     },
-    "BoundingSphereRadius": 2.663407
+    "BoundingSphereRadius": 2.663407,
+    "Rewards": null
   },
   {
     "Name": "cog55",
@@ -18943,7 +19402,8 @@
       "Y": -0.078846,
       "Z": 0.334353
     },
-    "BoundingSphereRadius": 3.045985
+    "BoundingSphereRadius": 3.045985,
+    "Rewards": null
   },
   {
     "Name": "cog552",
@@ -18994,7 +19454,8 @@
       "Y": -0.078846,
       "Z": 0.334353
     },
-    "BoundingSphereRadius": 3.045985
+    "BoundingSphereRadius": 3.045985,
+    "Rewards": null
   },
   {
     "Name": "cognoscenti",
@@ -19042,7 +19503,8 @@
       "Y": -0.14153,
       "Z": 0.268682
     },
-    "BoundingSphereRadius": 3.325139
+    "BoundingSphereRadius": 3.325139,
+    "Rewards": null
   },
   {
     "Name": "cognoscenti2",
@@ -19093,7 +19555,8 @@
       "Y": -0.14153,
       "Z": 0.268682
     },
-    "BoundingSphereRadius": 3.325139
+    "BoundingSphereRadius": 3.325139,
+    "Rewards": null
   },
   {
     "Name": "schafter3",
@@ -19140,7 +19603,8 @@
       "Y": -0.156731,
       "Z": 0.232948
     },
-    "BoundingSphereRadius": 2.8948
+    "BoundingSphereRadius": 2.8948,
+    "Rewards": null
   },
   {
     "Name": "schafter4",
@@ -19187,7 +19651,8 @@
       "Y": -0.258267,
       "Z": 0.249103
     },
-    "BoundingSphereRadius": 2.991408
+    "BoundingSphereRadius": 2.991408,
+    "Rewards": null
   },
   {
     "Name": "schafter5",
@@ -19237,7 +19702,8 @@
       "Y": -0.156731,
       "Z": 0.232948
     },
-    "BoundingSphereRadius": 2.8948
+    "BoundingSphereRadius": 2.8948,
+    "Rewards": null
   },
   {
     "Name": "schafter6",
@@ -19287,7 +19753,8 @@
       "Y": -0.258267,
       "Z": 0.249103
     },
-    "BoundingSphereRadius": 2.991408
+    "BoundingSphereRadius": 2.991408,
+    "Rewards": null
   },
   {
     "Name": "limo2",
@@ -19341,7 +19808,8 @@
       "Y": -0.156346,
       "Z": 0.528705
     },
-    "BoundingSphereRadius": 3.369218
+    "BoundingSphereRadius": 3.369218,
+    "Rewards": null
   },
   {
     "Name": "baller3",
@@ -19389,7 +19857,8 @@
       "Y": -0.169204,
       "Z": 0.116219
     },
-    "BoundingSphereRadius": 2.947175
+    "BoundingSphereRadius": 2.947175,
+    "Rewards": null
   },
   {
     "Name": "baller4",
@@ -19437,7 +19906,8 @@
       "Y": -0.324168,
       "Z": 0.116219
     },
-    "BoundingSphereRadius": 3.083221
+    "BoundingSphereRadius": 3.083221,
+    "Rewards": null
   },
   {
     "Name": "baller5",
@@ -19488,7 +19958,8 @@
       "Y": -0.169204,
       "Z": 0.116219
     },
-    "BoundingSphereRadius": 2.947175
+    "BoundingSphereRadius": 2.947175,
+    "Rewards": null
   },
   {
     "Name": "baller6",
@@ -19539,7 +20010,8 @@
       "Y": -0.324168,
       "Z": 0.116219
     },
-    "BoundingSphereRadius": 3.083221
+    "BoundingSphereRadius": 3.083221,
+    "Rewards": null
   },
   {
     "Name": "seashark3",
@@ -19585,7 +20057,8 @@
       "Y": 0.0,
       "Z": 0.477449
     },
-    "BoundingSphereRadius": 1.940541
+    "BoundingSphereRadius": 1.940541,
+    "Rewards": null
   },
   {
     "Name": "dinghy4",
@@ -19634,7 +20107,8 @@
       "Y": 0.043495,
       "Z": 1.072968
     },
-    "BoundingSphereRadius": 4.574808
+    "BoundingSphereRadius": 4.574808,
+    "Rewards": null
   },
   {
     "Name": "tropic2",
@@ -19683,7 +20157,8 @@
       "Y": 0.152431,
       "Z": 0.768902
     },
-    "BoundingSphereRadius": 4.737526
+    "BoundingSphereRadius": 4.737526,
+    "Rewards": null
   },
   {
     "Name": "speeder2",
@@ -19730,7 +20205,8 @@
       "Y": 0.120062,
       "Z": 0.13677
     },
-    "BoundingSphereRadius": 5.648566
+    "BoundingSphereRadius": 5.648566,
+    "Rewards": null
   },
   {
     "Name": "toro2",
@@ -19783,7 +20259,8 @@
       "Y": -0.241995,
       "Z": 0.013199
     },
-    "BoundingSphereRadius": 5.550463
+    "BoundingSphereRadius": 5.550463,
+    "Rewards": null
   },
   {
     "Name": "Cargobob4",
@@ -19833,7 +20310,8 @@
       "Y": -0.495634,
       "Z": 1.180876
     },
-    "BoundingSphereRadius": 13.9601669
+    "BoundingSphereRadius": 13.9601669,
+    "Rewards": null
   },
   {
     "Name": "supervolito",
@@ -19885,7 +20363,8 @@
       "Y": -1.873149,
       "Z": 0.472821
     },
-    "BoundingSphereRadius": 8.480311
+    "BoundingSphereRadius": 8.480311,
+    "Rewards": null
   },
   {
     "Name": "supervolito2",
@@ -19937,7 +20416,8 @@
       "Y": -1.873149,
       "Z": 0.472821
     },
-    "BoundingSphereRadius": 8.480311
+    "BoundingSphereRadius": 8.480311,
+    "Rewards": null
   },
   {
     "Name": "valkyrie2",
@@ -19987,7 +20467,12 @@
       "Y": -1.250838,
       "Z": 0.899231
     },
-    "BoundingSphereRadius": 12.7087383
+    "BoundingSphereRadius": 12.7087383,
+    "Rewards": [
+      "REWARD_WEAPON_SNIPERRIFLE",
+      "REWARD_AMMO_SNIPERRIFLE",
+      "REWARD_STAT_WEAPON"
+    ]
   },
   {
     "Name": "tampa",
@@ -20034,7 +20519,8 @@
       "Y": -0.164495,
       "Z": 0.233935
     },
-    "BoundingSphereRadius": 2.695368
+    "BoundingSphereRadius": 2.695368,
+    "Rewards": null
   },
   {
     "Name": "sultanrs",
@@ -20080,7 +20566,8 @@
       "Y": -0.074014,
       "Z": 0.336341
     },
-    "BoundingSphereRadius": 2.551206
+    "BoundingSphereRadius": 2.551206,
+    "Rewards": null
   },
   {
     "Name": "banshee2",
@@ -20130,7 +20617,8 @@
       "Y": -0.133855,
       "Z": 0.144779
     },
-    "BoundingSphereRadius": 2.700492
+    "BoundingSphereRadius": 2.700492,
+    "Rewards": null
   },
   {
     "Name": "btype3",
@@ -20176,7 +20664,8 @@
       "Y": -0.173576,
       "Z": 0.56163
     },
-    "BoundingSphereRadius": 2.772035
+    "BoundingSphereRadius": 2.772035,
+    "Rewards": null
   },
   {
     "Name": "faction3",
@@ -20224,7 +20713,8 @@
       "Y": 0.025855,
       "Z": 0.439208
     },
-    "BoundingSphereRadius": 2.839834
+    "BoundingSphereRadius": 2.839834,
+    "Rewards": null
   },
   {
     "Name": "minivan2",
@@ -20274,7 +20764,8 @@
       "Y": -0.0335,
       "Z": 0.250202
     },
-    "BoundingSphereRadius": 2.948198
+    "BoundingSphereRadius": 2.948198,
+    "Rewards": null
   },
   {
     "Name": "sabregt2",
@@ -20322,7 +20813,8 @@
       "Y": -0.128288,
       "Z": 0.231376
     },
-    "BoundingSphereRadius": 2.77599
+    "BoundingSphereRadius": 2.77599,
+    "Rewards": null
   },
   {
     "Name": "slamvan3",
@@ -20367,7 +20859,8 @@
       "Y": -0.026428,
       "Z": 0.39788
     },
-    "BoundingSphereRadius": 2.76985
+    "BoundingSphereRadius": 2.76985,
+    "Rewards": null
   },
   {
     "Name": "tornado5",
@@ -20416,7 +20909,8 @@
       "Y": -0.197681,
       "Z": 0.052624
     },
-    "BoundingSphereRadius": 2.781748
+    "BoundingSphereRadius": 2.781748,
+    "Rewards": null
   },
   {
     "Name": "virgo2",
@@ -20464,7 +20958,8 @@
       "Y": -0.233575,
       "Z": 0.202494
     },
-    "BoundingSphereRadius": 2.861337
+    "BoundingSphereRadius": 2.861337,
+    "Rewards": null
   },
   {
     "Name": "virgo3",
@@ -20511,7 +21006,8 @@
       "Y": -0.233575,
       "Z": 0.18909
     },
-    "BoundingSphereRadius": 2.864014
+    "BoundingSphereRadius": 2.864014,
+    "Rewards": null
   },
   {
     "Name": "nimbus",
@@ -20564,7 +21060,8 @@
       "Y": -1.791602,
       "Z": 1.182876
     },
-    "BoundingSphereRadius": 14.84462
+    "BoundingSphereRadius": 14.84462,
+    "Rewards": null
   },
   {
     "Name": "xls",
@@ -20612,7 +21109,8 @@
       "Y": -0.108555,
       "Z": 0.10528
     },
-    "BoundingSphereRadius": 2.830325
+    "BoundingSphereRadius": 2.830325,
+    "Rewards": null
   },
   {
     "Name": "xls2",
@@ -20663,7 +21161,8 @@
       "Y": -0.108555,
       "Z": 0.10528
     },
-    "BoundingSphereRadius": 2.830325
+    "BoundingSphereRadius": 2.830325,
+    "Rewards": null
   },
   {
     "Name": "SEVEN70",
@@ -20713,7 +21212,8 @@
       "Y": 0.005234,
       "Z": 0.399587
     },
-    "BoundingSphereRadius": 2.561758
+    "BoundingSphereRadius": 2.561758,
+    "Rewards": null
   },
   {
     "Name": "reaper",
@@ -20762,7 +21262,8 @@
       "Y": 0.292513,
       "Z": 0.095529
     },
-    "BoundingSphereRadius": 2.507376
+    "BoundingSphereRadius": 2.507376,
+    "Rewards": null
   },
   {
     "Name": "fmj",
@@ -20812,7 +21313,8 @@
       "Y": -0.004958,
       "Z": 0.192161
     },
-    "BoundingSphereRadius": 2.600447
+    "BoundingSphereRadius": 2.600447,
+    "Rewards": null
   },
   {
     "Name": "pfister811",
@@ -20864,7 +21366,8 @@
       "Y": -0.041029,
       "Z": 0.331953
     },
-    "BoundingSphereRadius": 2.647854
+    "BoundingSphereRadius": 2.647854,
+    "Rewards": null
   },
   {
     "Name": "bestiagts",
@@ -20914,7 +21417,8 @@
       "Y": 0.013832,
       "Z": 0.529688
     },
-    "BoundingSphereRadius": 2.785191
+    "BoundingSphereRadius": 2.785191,
+    "Rewards": null
   },
   {
     "Name": "brickade",
@@ -20964,7 +21468,8 @@
       "Y": -1.149651,
       "Z": 0.782177
     },
-    "BoundingSphereRadius": 6.45711
+    "BoundingSphereRadius": 6.45711,
+    "Rewards": null
   },
   {
     "Name": "rumpo3",
@@ -21015,7 +21520,8 @@
       "Y": -0.19307,
       "Z": 0.201891
     },
-    "BoundingSphereRadius": 3.390537
+    "BoundingSphereRadius": 3.390537,
+    "Rewards": null
   },
   {
     "Name": "prototipo",
@@ -21065,7 +21571,8 @@
       "Y": 0.115282,
       "Z": 0.295697
     },
-    "BoundingSphereRadius": 2.700196
+    "BoundingSphereRadius": 2.700196,
+    "Rewards": null
   },
   {
     "Name": "windsor2",
@@ -21113,7 +21620,8 @@
       "Y": -0.284959,
       "Z": 0.379119
     },
-    "BoundingSphereRadius": 3.102648
+    "BoundingSphereRadius": 3.102648,
+    "Rewards": null
   },
   {
     "Name": "volatus",
@@ -21166,7 +21674,8 @@
       "Y": -0.702881,
       "Z": 0.879454
     },
-    "BoundingSphereRadius": 10.190834
+    "BoundingSphereRadius": 10.190834,
+    "Rewards": null
   },
   {
     "Name": "tug",
@@ -21201,21 +21710,22 @@
     "HasSirens": false,
     "ModKits": [],
     "DimensionsMin": {
-      "X": -5.141756,
-      "Y": -16.784153,
-      "Z": -3.719979
+      "X": -1.028714,
+      "Y": 0.968984,
+      "Z": 7.300872
     },
     "DimensionsMax": {
-      "X": 5.141756,
-      "Y": 14.2919645,
-      "Z": 10.9724522
+      "X": 1.229113,
+      "Y": 2.065621,
+      "Z": 9.118942
     },
     "BoundingCenter": {
-      "X": 0.0,
-      "Y": -1.246094,
-      "Z": 3.626236
+      "X": 0.1002,
+      "Y": 1.517302,
+      "Z": 8.209908
     },
-    "BoundingSphereRadius": 17.9397831
+    "BoundingSphereRadius": 1.549659,
+    "Rewards": null
   },
   {
     "Name": "gargoyle",
@@ -21265,7 +21775,8 @@
       "Y": 0.03958,
       "Z": 0.089459
     },
-    "BoundingSphereRadius": 1.148986
+    "BoundingSphereRadius": 1.148986,
+    "Rewards": null
   },
   {
     "Name": "omnis",
@@ -21313,7 +21824,8 @@
       "Y": -0.067016,
       "Z": 0.582061
     },
-    "BoundingSphereRadius": 2.399863
+    "BoundingSphereRadius": 2.399863,
+    "Rewards": null
   },
   {
     "Name": "sheava",
@@ -21361,7 +21873,8 @@
       "Y": 0.02034,
       "Z": 0.225194
     },
-    "BoundingSphereRadius": 2.659174
+    "BoundingSphereRadius": 2.659174,
+    "Rewards": null
   },
   {
     "Name": "tyrus",
@@ -21408,7 +21921,8 @@
       "Y": 0.035505,
       "Z": 0.473063
     },
-    "BoundingSphereRadius": 2.678435
+    "BoundingSphereRadius": 2.678435,
+    "Rewards": null
   },
   {
     "Name": "le7b",
@@ -21457,7 +21971,8 @@
       "Y": -0.116502,
       "Z": 0.281732
     },
-    "BoundingSphereRadius": 2.77102
+    "BoundingSphereRadius": 2.77102,
+    "Rewards": null
   },
   {
     "Name": "lynx",
@@ -21504,7 +22019,8 @@
       "Y": -0.041326,
       "Z": 0.065595
     },
-    "BoundingSphereRadius": 2.518239
+    "BoundingSphereRadius": 2.518239,
+    "Rewards": null
   },
   {
     "Name": "tropos",
@@ -21552,7 +22068,8 @@
       "Y": 0.076428,
       "Z": 0.39613
     },
-    "BoundingSphereRadius": 2.228661
+    "BoundingSphereRadius": 2.228661,
+    "Rewards": null
   },
   {
     "Name": "tampa2",
@@ -21599,7 +22116,8 @@
       "Y": -0.13786,
       "Z": 0.26399
     },
-    "BoundingSphereRadius": 2.81021
+    "BoundingSphereRadius": 2.81021,
+    "Rewards": null
   },
   {
     "Name": "brioso",
@@ -21645,7 +22163,8 @@
       "Y": 0.082693,
       "Z": 0.569331
     },
-    "BoundingSphereRadius": 2.131562
+    "BoundingSphereRadius": 2.131562,
+    "Rewards": null
   },
   {
     "Name": "bf400",
@@ -21693,7 +22212,8 @@
       "Y": 0.016143,
       "Z": 0.281577
     },
-    "BoundingSphereRadius": 1.291642
+    "BoundingSphereRadius": 1.291642,
+    "Rewards": null
   },
   {
     "Name": "cliffhanger",
@@ -21741,7 +22261,8 @@
       "Y": 0.006314,
       "Z": 0.089194
     },
-    "BoundingSphereRadius": 1.175377
+    "BoundingSphereRadius": 1.175377,
+    "Rewards": null
   },
   {
     "Name": "contender",
@@ -21788,7 +22309,8 @@
       "Y": 0.106965,
       "Z": -0.030083
     },
-    "BoundingSphereRadius": 3.460063
+    "BoundingSphereRadius": 3.460063,
+    "Rewards": null
   },
   {
     "Name": "trophytruck",
@@ -21839,7 +22361,8 @@
       "Y": -0.111277,
       "Z": 0.417522
     },
-    "BoundingSphereRadius": 3.023892
+    "BoundingSphereRadius": 3.023892,
+    "Rewards": null
   },
   {
     "Name": "trophytruck2",
@@ -21890,7 +22413,8 @@
       "Y": -0.474592,
       "Z": 0.414913
     },
-    "BoundingSphereRadius": 3.266448
+    "BoundingSphereRadius": 3.266448,
+    "Rewards": null
   },
   {
     "Name": "rallytruck",
@@ -21937,7 +22461,8 @@
       "Y": 0.033575,
       "Z": 0.664793
     },
-    "BoundingSphereRadius": 4.985158
+    "BoundingSphereRadius": 4.985158,
+    "Rewards": null
   },
   {
     "Name": "tornado6",
@@ -21983,7 +22508,8 @@
       "Y": -0.33664,
       "Z": 0.011389
     },
-    "BoundingSphereRadius": 2.602656
+    "BoundingSphereRadius": 2.602656,
+    "Rewards": null
   },
   {
     "Name": "raptor",
@@ -22031,7 +22557,8 @@
       "Y": -0.033857,
       "Z": 0.373502
     },
-    "BoundingSphereRadius": 2.032635
+    "BoundingSphereRadius": 2.032635,
+    "Rewards": null
   },
   {
     "Name": "vortex",
@@ -22079,7 +22606,8 @@
       "Y": 0.015606,
       "Z": 0.042958
     },
-    "BoundingSphereRadius": 1.086212
+    "BoundingSphereRadius": 1.086212,
+    "Rewards": null
   },
   {
     "Name": "avarus",
@@ -22126,7 +22654,8 @@
       "Y": 0.108756,
       "Z": 0.053353
     },
-    "BoundingSphereRadius": 1.27144
+    "BoundingSphereRadius": 1.27144,
+    "Rewards": null
   },
   {
     "Name": "sanctus",
@@ -22173,7 +22702,8 @@
       "Y": 0.105195,
       "Z": 0.083482
     },
-    "BoundingSphereRadius": 1.289325
+    "BoundingSphereRadius": 1.289325,
+    "Rewards": null
   },
   {
     "Name": "faggio3",
@@ -22221,7 +22751,8 @@
       "Y": 0.014607,
       "Z": 0.16182
     },
-    "BoundingSphereRadius": 1.142496
+    "BoundingSphereRadius": 1.142496,
+    "Rewards": null
   },
   {
     "Name": "faggio",
@@ -22269,7 +22800,8 @@
       "Y": -0.015877,
       "Z": 0.14277
     },
-    "BoundingSphereRadius": 1.120596
+    "BoundingSphereRadius": 1.120596,
+    "Rewards": null
   },
   {
     "Name": "hakuchou2",
@@ -22315,7 +22847,8 @@
       "Y": -0.188487,
       "Z": 0.091052
     },
-    "BoundingSphereRadius": 1.308195
+    "BoundingSphereRadius": 1.308195,
+    "Rewards": null
   },
   {
     "Name": "nightblade",
@@ -22362,7 +22895,8 @@
       "Y": -0.009537,
       "Z": 0.074209
     },
-    "BoundingSphereRadius": 1.266497
+    "BoundingSphereRadius": 1.266497,
+    "Rewards": null
   },
   {
     "Name": "youga2",
@@ -22410,7 +22944,8 @@
       "Y": 0.037279,
       "Z": 0.155085
     },
-    "BoundingSphereRadius": 2.78097
+    "BoundingSphereRadius": 2.78097,
+    "Rewards": null
   },
   {
     "Name": "chimera",
@@ -22460,7 +22995,8 @@
       "Y": -0.050574,
       "Z": 0.174362
     },
-    "BoundingSphereRadius": 1.320523
+    "BoundingSphereRadius": 1.320523,
+    "Rewards": null
   },
   {
     "Name": "esskey",
@@ -22507,7 +23043,8 @@
       "Y": 0.062851,
       "Z": 0.166106
     },
-    "BoundingSphereRadius": 1.218756
+    "BoundingSphereRadius": 1.218756,
+    "Rewards": null
   },
   {
     "Name": "zombiea",
@@ -22554,7 +23091,8 @@
       "Y": 0.072633,
       "Z": 0.183866
     },
-    "BoundingSphereRadius": 1.187709
+    "BoundingSphereRadius": 1.187709,
+    "Rewards": null
   },
   {
     "Name": "wolfsbane",
@@ -22601,7 +23139,8 @@
       "Y": -0.008837,
       "Z": 0.041272
     },
-    "BoundingSphereRadius": 1.227446
+    "BoundingSphereRadius": 1.227446,
+    "Rewards": null
   },
   {
     "Name": "daemon2",
@@ -22648,7 +23187,8 @@
       "Y": -0.032781,
       "Z": 0.168434
     },
-    "BoundingSphereRadius": 1.216839
+    "BoundingSphereRadius": 1.216839,
+    "Rewards": null
   },
   {
     "Name": "shotaro",
@@ -22695,7 +23235,8 @@
       "Y": -0.018475,
       "Z": 0.164018
     },
-    "BoundingSphereRadius": 1.336872
+    "BoundingSphereRadius": 1.336872,
+    "Rewards": null
   },
   {
     "Name": "ratbike",
@@ -22745,7 +23286,8 @@
       "Y": -0.008837,
       "Z": 0.041272
     },
-    "BoundingSphereRadius": 1.227446
+    "BoundingSphereRadius": 1.227446,
+    "Rewards": null
   },
   {
     "Name": "zombieb",
@@ -22792,7 +23334,8 @@
       "Y": -0.01525,
       "Z": 0.185688
     },
-    "BoundingSphereRadius": 1.261153
+    "BoundingSphereRadius": 1.261153,
+    "Rewards": null
   },
   {
     "Name": "defiler",
@@ -22840,7 +23383,8 @@
       "Y": 0.005498,
       "Z": 0.053585
     },
-    "BoundingSphereRadius": 1.081182
+    "BoundingSphereRadius": 1.081182,
+    "Rewards": null
   },
   {
     "Name": "manchez",
@@ -22887,7 +23431,8 @@
       "Y": 0.055703,
       "Z": 0.199683
     },
-    "BoundingSphereRadius": 1.135446
+    "BoundingSphereRadius": 1.135446,
+    "Rewards": null
   },
   {
     "Name": "blazer4",
@@ -22936,7 +23481,8 @@
       "Y": -0.126058,
       "Z": 0.309368
     },
-    "BoundingSphereRadius": 1.224626
+    "BoundingSphereRadius": 1.224626,
+    "Rewards": null
   },
   {
     "Name": "nero",
@@ -22985,7 +23531,8 @@
       "Y": 0.047411,
       "Z": 0.062776
     },
-    "BoundingSphereRadius": 2.51003
+    "BoundingSphereRadius": 2.51003,
+    "Rewards": null
   },
   {
     "Name": "nero2",
@@ -23036,7 +23583,8 @@
       "Y": 0.016327,
       "Z": 0.10062
     },
-    "BoundingSphereRadius": 2.64
+    "BoundingSphereRadius": 2.64,
+    "Rewards": null
   },
   {
     "Name": "elegy",
@@ -23082,7 +23630,8 @@
       "Y": 0.000732,
       "Z": 0.372958
     },
-    "BoundingSphereRadius": 2.523759
+    "BoundingSphereRadius": 2.523759,
+    "Rewards": null
   },
   {
     "Name": "italigtb",
@@ -23130,7 +23679,8 @@
       "Y": 0.113856,
       "Z": 0.257743
     },
-    "BoundingSphereRadius": 2.3853
+    "BoundingSphereRadius": 2.3853,
+    "Rewards": null
   },
   {
     "Name": "italigtb2",
@@ -23178,7 +23728,8 @@
       "Y": 0.149204,
       "Z": 0.247597
     },
-    "BoundingSphereRadius": 2.809899
+    "BoundingSphereRadius": 2.809899,
+    "Rewards": null
   },
   {
     "Name": "tempesta",
@@ -23226,7 +23777,8 @@
       "Y": 0.104816,
       "Z": 0.303256
     },
-    "BoundingSphereRadius": 2.51327
+    "BoundingSphereRadius": 2.51327,
+    "Rewards": null
   },
   {
     "Name": "diablous",
@@ -23272,7 +23824,8 @@
       "Y": -0.185147,
       "Z": 0.342386
     },
-    "BoundingSphereRadius": 1.313149
+    "BoundingSphereRadius": 1.313149,
+    "Rewards": null
   },
   {
     "Name": "SPECTER",
@@ -23321,7 +23874,8 @@
       "Y": -0.070371,
       "Z": 0.426637
     },
-    "BoundingSphereRadius": 2.487474
+    "BoundingSphereRadius": 2.487474,
+    "Rewards": null
   },
   {
     "Name": "SPECTER2",
@@ -23370,7 +23924,8 @@
       "Y": -0.070371,
       "Z": 0.426637
     },
-    "BoundingSphereRadius": 2.513023
+    "BoundingSphereRadius": 2.513023,
+    "Rewards": null
   },
   {
     "Name": "diablous2",
@@ -23417,7 +23972,8 @@
       "Y": 0.169025,
       "Z": 0.229663
     },
-    "BoundingSphereRadius": 1.178292
+    "BoundingSphereRadius": 1.178292,
+    "Rewards": null
   },
   {
     "Name": "comet3",
@@ -23468,7 +24024,8 @@
       "Y": -0.024844,
       "Z": 0.389657
     },
-    "BoundingSphereRadius": 2.419378
+    "BoundingSphereRadius": 2.419378,
+    "Rewards": null
   },
   {
     "Name": "blazer5",
@@ -23517,7 +24074,8 @@
       "Y": 0.052841,
       "Z": 0.353132
     },
-    "BoundingSphereRadius": 1.472628
+    "BoundingSphereRadius": 1.472628,
+    "Rewards": null
   },
   {
     "Name": "dune4",
@@ -23567,7 +24125,8 @@
       "Y": 0.231925,
       "Z": 0.124838
     },
-    "BoundingSphereRadius": 2.867535
+    "BoundingSphereRadius": 2.867535,
+    "Rewards": null
   },
   {
     "Name": "dune5",
@@ -23617,7 +24176,8 @@
       "Y": 0.331354,
       "Z": 0.110657
     },
-    "BoundingSphereRadius": 2.77399
+    "BoundingSphereRadius": 2.77399,
+    "Rewards": null
   },
   {
     "Name": "ruiner2",
@@ -23671,7 +24231,8 @@
       "Y": 0.001717,
       "Z": 0.008969
     },
-    "BoundingSphereRadius": 2.68958
+    "BoundingSphereRadius": 2.68958,
+    "Rewards": null
   },
   {
     "Name": "voltic2",
@@ -23722,7 +24283,8 @@
       "Y": -0.02719,
       "Z": 0.053801
     },
-    "BoundingSphereRadius": 2.377969
+    "BoundingSphereRadius": 2.377969,
+    "Rewards": null
   },
   {
     "Name": "phantom2",
@@ -23775,7 +24337,8 @@
       "Y": 2.072076,
       "Z": 0.848153
     },
-    "BoundingSphereRadius": 7.164988
+    "BoundingSphereRadius": 7.164988,
+    "Rewards": null
   },
   {
     "Name": "boxville5",
@@ -23833,7 +24396,8 @@
       "Y": -0.157994,
       "Z": 0.773676
     },
-    "BoundingSphereRadius": 4.239477
+    "BoundingSphereRadius": 4.239477,
+    "Rewards": null
   },
   {
     "Name": "wastelander",
@@ -23881,7 +24445,8 @@
       "Y": 0.203072,
       "Z": 1.240159
     },
-    "BoundingSphereRadius": 4.989193
+    "BoundingSphereRadius": 4.989193,
+    "Rewards": null
   },
   {
     "Name": "technical2",
@@ -23933,7 +24498,8 @@
       "Y": -0.245744,
       "Z": 0.923631
     },
-    "BoundingSphereRadius": 3.587407
+    "BoundingSphereRadius": 3.587407,
+    "Rewards": null
   },
   {
     "Name": "penetrator",
@@ -23981,7 +24547,8 @@
       "Y": 0.079633,
       "Z": 0.33299
     },
-    "BoundingSphereRadius": 2.684834
+    "BoundingSphereRadius": 2.684834,
+    "Rewards": null
   },
   {
     "Name": "fcr",
@@ -24029,7 +24596,8 @@
       "Y": -0.124745,
       "Z": 0.179787
     },
-    "BoundingSphereRadius": 1.166448
+    "BoundingSphereRadius": 1.166448,
+    "Rewards": null
   },
   {
     "Name": "fcr2",
@@ -24079,7 +24647,8 @@
       "Y": 0.014196,
       "Z": 0.143081
     },
-    "BoundingSphereRadius": 1.059504
+    "BoundingSphereRadius": 1.059504,
+    "Rewards": null
   },
   {
     "Name": "ruiner3",
@@ -24130,7 +24699,8 @@
       "Y": 0.00068,
       "Z": 0.005031
     },
-    "BoundingSphereRadius": 2.696472
+    "BoundingSphereRadius": 2.696472,
+    "Rewards": null
   },
   {
     "Name": "turismo2",
@@ -24182,7 +24752,8 @@
       "Y": 0.125379,
       "Z": -0.001896
     },
-    "BoundingSphereRadius": 2.449127
+    "BoundingSphereRadius": 2.449127,
+    "Rewards": null
   },
   {
     "Name": "infernus2",
@@ -24233,7 +24804,8 @@
       "Y": 0.018201,
       "Z": 0.064722
     },
-    "BoundingSphereRadius": 2.477903
+    "BoundingSphereRadius": 2.477903,
+    "Rewards": null
   },
   {
     "Name": "gp1",
@@ -24281,7 +24853,8 @@
       "Y": -0.005382,
       "Z": 0.229278
     },
-    "BoundingSphereRadius": 2.368056
+    "BoundingSphereRadius": 2.368056,
+    "Rewards": null
   },
   {
     "Name": "ruston",
@@ -24330,7 +24903,8 @@
       "Y": 0.019653,
       "Z": 0.256069
     },
-    "BoundingSphereRadius": 2.155717
+    "BoundingSphereRadius": 2.155717,
+    "Rewards": null
   },
   {
     "Name": "trailers4",
@@ -24374,7 +24948,8 @@
       "Y": -0.112937,
       "Z": -0.681572
     },
-    "BoundingSphereRadius": 6.592905
+    "BoundingSphereRadius": 6.592905,
+    "Rewards": null
   },
   {
     "Name": "xa21",
@@ -24425,7 +25000,8 @@
       "Y": 0.022613,
       "Z": 0.150087
     },
-    "BoundingSphereRadius": 2.503127
+    "BoundingSphereRadius": 2.503127,
+    "Rewards": null
   },
   {
     "Name": "vagner",
@@ -24475,7 +25051,8 @@
       "Y": 0.062827,
       "Z": 0.034619
     },
-    "BoundingSphereRadius": 2.494475
+    "BoundingSphereRadius": 2.494475,
+    "Rewards": null
   },
   {
     "Name": "caddy3",
@@ -24521,7 +25098,8 @@
       "Y": 0.007917,
       "Z": 0.2771
     },
-    "BoundingSphereRadius": 1.851145
+    "BoundingSphereRadius": 1.851145,
+    "Rewards": null
   },
   {
     "Name": "phantom3",
@@ -24575,7 +25153,8 @@
       "Y": 0.0619,
       "Z": 1.24486
     },
-    "BoundingSphereRadius": 5.340363
+    "BoundingSphereRadius": 5.340363,
+    "Rewards": null
   },
   {
     "Name": "nightshark",
@@ -24628,7 +25207,8 @@
       "Y": 0.054369,
       "Z": 0.636703
     },
-    "BoundingSphereRadius": 3.006391
+    "BoundingSphereRadius": 3.006391,
+    "Rewards": null
   },
   {
     "Name": "cheetah2",
@@ -24676,7 +25256,8 @@
       "Y": 0.138904,
       "Z": 0.052076
     },
-    "BoundingSphereRadius": 2.503462
+    "BoundingSphereRadius": 2.503462,
+    "Rewards": null
   },
   {
     "Name": "torero",
@@ -24728,7 +25309,8 @@
       "Y": 0.004697,
       "Z": 0.120979
     },
-    "BoundingSphereRadius": 2.368157
+    "BoundingSphereRadius": 2.368157,
+    "Rewards": null
   },
   {
     "Name": "Hauler2",
@@ -24782,7 +25364,8 @@
       "Y": -0.218356,
       "Z": 0.973797
     },
-    "BoundingSphereRadius": 4.621642
+    "BoundingSphereRadius": 4.621642,
+    "Rewards": null
   },
   {
     "Name": "trailerlarge",
@@ -24831,7 +25414,8 @@
       "Y": 0.018597,
       "Z": -0.428989
     },
-    "BoundingSphereRadius": 8.237651
+    "BoundingSphereRadius": 8.237651,
+    "Rewards": null
   },
   {
     "Name": "technical3",
@@ -24885,7 +25469,8 @@
       "Y": -0.109488,
       "Z": 0.929687
     },
-    "BoundingSphereRadius": 3.02908
+    "BoundingSphereRadius": 3.02908,
+    "Rewards": null
   },
   {
     "Name": "tampa3",
@@ -24936,7 +25521,8 @@
       "Y": -0.164495,
       "Z": 0.465747
     },
-    "BoundingSphereRadius": 2.756066
+    "BoundingSphereRadius": 2.756066,
+    "Rewards": null
   },
   {
     "Name": "insurgent3",
@@ -24993,7 +25579,8 @@
       "Y": -0.077165,
       "Z": 0.78393
     },
-    "BoundingSphereRadius": 3.671623
+    "BoundingSphereRadius": 3.671623,
+    "Rewards": null
   },
   {
     "Name": "apc",
@@ -25054,7 +25641,8 @@
       "Y": 0.229453,
       "Z": 0.94301
     },
-    "BoundingSphereRadius": 3.532867
+    "BoundingSphereRadius": 3.532867,
+    "Rewards": null
   },
   {
     "Name": "halftrack",
@@ -25111,7 +25699,8 @@
       "Y": -0.415317,
       "Z": 0.798952
     },
-    "BoundingSphereRadius": 3.747409
+    "BoundingSphereRadius": 3.747409,
+    "Rewards": null
   },
   {
     "Name": "dune3",
@@ -25165,7 +25754,8 @@
       "Y": -0.197279,
       "Z": 0.419465
     },
-    "BoundingSphereRadius": 2.42082
+    "BoundingSphereRadius": 2.42082,
+    "Rewards": null
   },
   {
     "Name": "trailersmall2",
@@ -25220,7 +25810,8 @@
       "Y": 0.010143,
       "Z": 0.49485
     },
-    "BoundingSphereRadius": 2.744874
+    "BoundingSphereRadius": 2.744874,
+    "Rewards": null
   },
   {
     "Name": "ardent",
@@ -25268,7 +25859,8 @@
       "Y": 0.203301,
       "Z": 0.327316
     },
-    "BoundingSphereRadius": 2.354147
+    "BoundingSphereRadius": 2.354147,
+    "Rewards": null
   },
   {
     "Name": "oppressor",
@@ -25320,7 +25912,8 @@
       "Y": 0.051313,
       "Z": 0.109571
     },
-    "BoundingSphereRadius": 1.231976
+    "BoundingSphereRadius": 1.231976,
+    "Rewards": null
   },
   {
     "Name": "vigilante",
@@ -25373,7 +25966,8 @@
       "Y": 1.050813,
       "Z": 0.318114
     },
-    "BoundingSphereRadius": 3.572308
+    "BoundingSphereRadius": 3.572308,
+    "Rewards": null
   },
   {
     "Name": "bombushka",
@@ -25434,7 +26028,8 @@
       "Y": -6.405805,
       "Z": 3.592945
     },
-    "BoundingSphereRadius": 26.2564526
+    "BoundingSphereRadius": 26.2564526,
+    "Rewards": null
   },
   {
     "Name": "howard",
@@ -25484,7 +26079,8 @@
       "Y": -0.422298,
       "Z": 0.202605
     },
-    "BoundingSphereRadius": 6.521579
+    "BoundingSphereRadius": 6.521579,
+    "Rewards": null
   },
   {
     "Name": "alphaz1",
@@ -25533,7 +26129,8 @@
       "Y": 0.014538,
       "Z": -0.056352
     },
-    "BoundingSphereRadius": 4.892294
+    "BoundingSphereRadius": 4.892294,
+    "Rewards": null
   },
   {
     "Name": "seabreeze",
@@ -25584,7 +26181,8 @@
       "Y": -0.653113,
       "Z": 1.297391
     },
-    "BoundingSphereRadius": 7.004695
+    "BoundingSphereRadius": 7.004695,
+    "Rewards": null
   },
   {
     "Name": "nokota",
@@ -25634,7 +26232,8 @@
       "Y": -1.326287,
       "Z": 0.0
     },
-    "BoundingSphereRadius": 7.818815
+    "BoundingSphereRadius": 7.818815,
+    "Rewards": null
   },
   {
     "Name": "molotok",
@@ -25686,7 +26285,8 @@
       "Y": -2.237489,
       "Z": 0.538505
     },
-    "BoundingSphereRadius": 7.557198
+    "BoundingSphereRadius": 7.557198,
+    "Rewards": null
   },
   {
     "Name": "starling",
@@ -25738,7 +26338,8 @@
       "Y": -0.763702,
       "Z": 0.446035
     },
-    "BoundingSphereRadius": 5.721703
+    "BoundingSphereRadius": 5.721703,
+    "Rewards": null
   },
   {
     "Name": "havok",
@@ -25789,7 +26390,8 @@
       "Y": 0.001766,
       "Z": -0.253587
     },
-    "BoundingSphereRadius": 5.145115
+    "BoundingSphereRadius": 5.145115,
+    "Rewards": null
   },
   {
     "Name": "tula",
@@ -25846,7 +26448,8 @@
       "Y": -0.170911,
       "Z": 1.000163
     },
-    "BoundingSphereRadius": 10.162137
+    "BoundingSphereRadius": 10.162137,
+    "Rewards": null
   },
   {
     "Name": "microlight",
@@ -25901,7 +26504,8 @@
       "Y": -0.515465,
       "Z": 1.284971
     },
-    "BoundingSphereRadius": 5.231169
+    "BoundingSphereRadius": 5.231169,
+    "Rewards": null
   },
   {
     "Name": "hunter",
@@ -25959,7 +26563,8 @@
       "Y": 2.586838,
       "Z": -2E-05
     },
-    "BoundingSphereRadius": 16.52342
+    "BoundingSphereRadius": 16.52342,
+    "Rewards": null
   },
   {
     "Name": "rogue",
@@ -26012,7 +26617,8 @@
       "Y": -2.594152,
       "Z": 0.126469
     },
-    "BoundingSphereRadius": 7.763958
+    "BoundingSphereRadius": 7.763958,
+    "Rewards": null
   },
   {
     "Name": "pyro",
@@ -26064,7 +26670,8 @@
       "Y": -1.410337,
       "Z": 0.35484
     },
-    "BoundingSphereRadius": 8.222176
+    "BoundingSphereRadius": 8.222176,
+    "Rewards": null
   },
   {
     "Name": "rapidgt3",
@@ -26111,7 +26718,8 @@
       "Y": -0.092694,
       "Z": 0.092907
     },
-    "BoundingSphereRadius": 2.666552
+    "BoundingSphereRadius": 2.666552,
+    "Rewards": null
   },
   {
     "Name": "mogul",
@@ -26169,7 +26777,8 @@
       "Y": -0.853329,
       "Z": 0.060763
     },
-    "BoundingSphereRadius": 9.034928
+    "BoundingSphereRadius": 9.034928,
+    "Rewards": null
   },
   {
     "Name": "retinue",
@@ -26216,7 +26825,8 @@
       "Y": -0.142414,
       "Z": 0.429454
     },
-    "BoundingSphereRadius": 2.374689
+    "BoundingSphereRadius": 2.374689,
+    "Rewards": null
   },
   {
     "Name": "cyclone",
@@ -26266,7 +26876,8 @@
       "Y": 0.078419,
       "Z": 0.294418
     },
-    "BoundingSphereRadius": 2.501783
+    "BoundingSphereRadius": 2.501783,
+    "Rewards": null
   },
   {
     "Name": "visione",
@@ -26317,7 +26928,8 @@
       "Y": -0.004795,
       "Z": 0.120159
     },
-    "BoundingSphereRadius": 2.581554
+    "BoundingSphereRadius": 2.581554,
+    "Rewards": null
   },
   {
     "Name": "comet5",
@@ -26367,7 +26979,8 @@
       "Y": 0.000359,
       "Z": 0.141989
     },
-    "BoundingSphereRadius": 2.446903
+    "BoundingSphereRadius": 2.446903,
+    "Rewards": null
   },
   {
     "Name": "raiden",
@@ -26414,7 +27027,8 @@
       "Y": -0.034454,
       "Z": 0.095156
     },
-    "BoundingSphereRadius": 2.73674
+    "BoundingSphereRadius": 2.73674,
+    "Rewards": null
   },
   {
     "Name": "viseris",
@@ -26466,7 +27080,8 @@
       "Y": 0.008633,
       "Z": 0.280148
     },
-    "BoundingSphereRadius": 2.378173
+    "BoundingSphereRadius": 2.378173,
+    "Rewards": null
   },
   {
     "Name": "riata",
@@ -26515,7 +27130,8 @@
       "Y": -0.143087,
       "Z": 0.430507
     },
-    "BoundingSphereRadius": 3.161708
+    "BoundingSphereRadius": 3.161708,
+    "Rewards": null
   },
   {
     "Name": "kamacho",
@@ -26566,7 +27182,8 @@
       "Y": -0.128839,
       "Z": 0.555878
     },
-    "BoundingSphereRadius": 3.263963
+    "BoundingSphereRadius": 3.263963,
+    "Rewards": null
   },
   {
     "Name": "sc1",
@@ -26615,7 +27232,8 @@
       "Y": -0.00059,
       "Z": 0.0
     },
-    "BoundingSphereRadius": 2.476443
+    "BoundingSphereRadius": 2.476443,
+    "Rewards": null
   },
   {
     "Name": "autarch",
@@ -26662,7 +27280,8 @@
       "Y": 0.132004,
       "Z": 0.183619
     },
-    "BoundingSphereRadius": 2.551662
+    "BoundingSphereRadius": 2.551662,
+    "Rewards": null
   },
   {
     "Name": "savestra",
@@ -26709,7 +27328,8 @@
       "Y": -0.152418,
       "Z": 0.373818
     },
-    "BoundingSphereRadius": 2.280081
+    "BoundingSphereRadius": 2.280081,
+    "Rewards": null
   },
   {
     "Name": "comet4",
@@ -26762,7 +27382,8 @@
       "Y": -0.086283,
       "Z": 0.36076
     },
-    "BoundingSphereRadius": 2.405844
+    "BoundingSphereRadius": 2.405844,
+    "Rewards": null
   },
   {
     "Name": "gt500",
@@ -26810,7 +27431,8 @@
       "Y": -0.002173,
       "Z": 0.05604
     },
-    "BoundingSphereRadius": 2.297432
+    "BoundingSphereRadius": 2.297432,
+    "Rewards": null
   },
   {
     "Name": "neon",
@@ -26857,7 +27479,8 @@
       "Y": 0.015386,
       "Z": 0.062612
     },
-    "BoundingSphereRadius": 2.666728
+    "BoundingSphereRadius": 2.666728,
+    "Rewards": null
   },
   {
     "Name": "yosemite",
@@ -26902,7 +27525,8 @@
       "Y": -0.130429,
       "Z": 0.364734
     },
-    "BoundingSphereRadius": 2.715034
+    "BoundingSphereRadius": 2.715034,
+    "Rewards": null
   },
   {
     "Name": "hermes",
@@ -26948,7 +27572,8 @@
       "Y": -0.253189,
       "Z": 0.332034
     },
-    "BoundingSphereRadius": 2.840711
+    "BoundingSphereRadius": 2.840711,
+    "Rewards": null
   },
   {
     "Name": "hustler",
@@ -26995,7 +27620,8 @@
       "Y": -0.165849,
       "Z": 0.457446
     },
-    "BoundingSphereRadius": 2.384458
+    "BoundingSphereRadius": 2.384458,
+    "Rewards": null
   },
   {
     "Name": "sentinel3",
@@ -27042,7 +27668,8 @@
       "Y": -0.100094,
       "Z": 0.337313
     },
-    "BoundingSphereRadius": 2.462108
+    "BoundingSphereRadius": 2.462108,
+    "Rewards": null
   },
   {
     "Name": "z190",
@@ -27092,7 +27719,8 @@
       "Y": -0.011933,
       "Z": 0.392
     },
-    "BoundingSphereRadius": 2.462978
+    "BoundingSphereRadius": 2.462978,
+    "Rewards": null
   },
   {
     "Name": "khanjali",
@@ -27149,7 +27777,8 @@
       "Y": 0.447689,
       "Z": 0.091861
     },
-    "BoundingSphereRadius": 4.621741
+    "BoundingSphereRadius": 4.621741,
+    "Rewards": null
   },
   {
     "Name": "barrage",
@@ -27204,7 +27833,8 @@
       "Y": -0.26441,
       "Z": 0.768539
     },
-    "BoundingSphereRadius": 3.573731
+    "BoundingSphereRadius": 3.573731,
+    "Rewards": null
   },
   {
     "Name": "volatol",
@@ -27260,7 +27890,8 @@
       "Y": -5.506121,
       "Z": 1.980991
     },
-    "BoundingSphereRadius": 28.1489334
+    "BoundingSphereRadius": 28.1489334,
+    "Rewards": null
   },
   {
     "Name": "akula",
@@ -27320,7 +27951,8 @@
       "Y": 2.427455,
       "Z": 0.084373
     },
-    "BoundingSphereRadius": 11.7025166
+    "BoundingSphereRadius": 11.7025166,
+    "Rewards": null
   },
   {
     "Name": "avenger",
@@ -27381,7 +28013,8 @@
       "Y": -0.583189,
       "Z": 1.763482
     },
-    "BoundingSphereRadius": 20.01955
+    "BoundingSphereRadius": 20.01955,
+    "Rewards": null
   },
   {
     "Name": "avenger2",
@@ -27439,7 +28072,8 @@
       "Y": -0.577999,
       "Z": 1.763482
     },
-    "BoundingSphereRadius": 14.3664551
+    "BoundingSphereRadius": 14.3664551,
+    "Rewards": null
   },
   {
     "Name": "deluxo",
@@ -27493,7 +28127,8 @@
       "Y": -0.014377,
       "Z": 0.196898
     },
-    "BoundingSphereRadius": 2.361657
+    "BoundingSphereRadius": 2.361657,
+    "Rewards": null
   },
   {
     "Name": "stromberg",
@@ -27544,7 +28179,8 @@
       "Y": 0.074904,
       "Z": 0.334556
     },
-    "BoundingSphereRadius": 2.317975
+    "BoundingSphereRadius": 2.317975,
+    "Rewards": null
   },
   {
     "Name": "chernobog",
@@ -27603,7 +28239,8 @@
       "Y": 0.523598,
       "Z": 1.447615
     },
-    "BoundingSphereRadius": 6.543358
+    "BoundingSphereRadius": 6.543358,
+    "Rewards": null
   },
   {
     "Name": "riot2",
@@ -27660,7 +28297,8 @@
       "Y": 0.076487,
       "Z": 0.889187
     },
-    "BoundingSphereRadius": 5.537558
+    "BoundingSphereRadius": 5.537558,
+    "Rewards": null
   },
   {
     "Name": "thruster",
@@ -27714,7 +28352,8 @@
       "Y": 0.181711,
       "Z": 0.065133
     },
-    "BoundingSphereRadius": 1.276026
+    "BoundingSphereRadius": 1.276026,
+    "Rewards": null
   },
   {
     "Name": "streiter",
@@ -27765,7 +28404,8 @@
       "Y": -0.15655,
       "Z": 0.392623
     },
-    "BoundingSphereRadius": 2.727385
+    "BoundingSphereRadius": 2.727385,
+    "Rewards": null
   },
   {
     "Name": "revolter",
@@ -27815,7 +28455,8 @@
       "Y": -0.096134,
       "Z": 0.33431
     },
-    "BoundingSphereRadius": 2.987237
+    "BoundingSphereRadius": 2.987237,
+    "Rewards": null
   },
   {
     "Name": "pariah",
@@ -27862,7 +28503,8 @@
       "Y": 0.038484,
       "Z": 0.281351
     },
-    "BoundingSphereRadius": 2.573696
+    "BoundingSphereRadius": 2.573696,
+    "Rewards": null
   },
   {
     "Name": "caracara",
@@ -27915,7 +28557,8 @@
       "Y": -0.155443,
       "Z": 0.763048
     },
-    "BoundingSphereRadius": 4.027072
+    "BoundingSphereRadius": 4.027072,
+    "Rewards": null
   },
   {
     "Name": "seasparrow",
@@ -27968,7 +28611,8 @@
       "Y": 0.10306,
       "Z": -0.062028
     },
-    "BoundingSphereRadius": 9.631104
+    "BoundingSphereRadius": 9.631104,
+    "Rewards": null
   },
   {
     "Name": "entity2",
@@ -28019,7 +28663,8 @@
       "Y": 0.093547,
       "Z": 0.148927
     },
-    "BoundingSphereRadius": 2.353674
+    "BoundingSphereRadius": 2.353674,
+    "Rewards": null
   },
   {
     "Name": "jester3",
@@ -28068,7 +28713,8 @@
       "Y": 0.013168,
       "Z": 0.380538
     },
-    "BoundingSphereRadius": 2.459979
+    "BoundingSphereRadius": 2.459979,
+    "Rewards": null
   },
   {
     "Name": "tyrant",
@@ -28119,7 +28765,8 @@
       "Y": 0.019781,
       "Z": 0.442486
     },
-    "BoundingSphereRadius": 3.072676
+    "BoundingSphereRadius": 3.072676,
+    "Rewards": null
   },
   {
     "Name": "dominator3",
@@ -28167,7 +28814,8 @@
       "Y": -0.04318,
       "Z": 0.281632
     },
-    "BoundingSphereRadius": 2.747132
+    "BoundingSphereRadius": 2.747132,
+    "Rewards": null
   },
   {
     "Name": "hotring",
@@ -28214,7 +28862,8 @@
       "Y": -0.115173,
       "Z": 0.1999
     },
-    "BoundingSphereRadius": 2.75582
+    "BoundingSphereRadius": 2.75582,
+    "Rewards": null
   },
   {
     "Name": "flashgt",
@@ -28266,7 +28915,8 @@
       "Y": -0.074229,
       "Z": 0.144136
     },
-    "BoundingSphereRadius": 2.645316
+    "BoundingSphereRadius": 2.645316,
+    "Rewards": null
   },
   {
     "Name": "tezeract",
@@ -28316,7 +28966,8 @@
       "Y": 0.013804,
       "Z": 0.335713
     },
-    "BoundingSphereRadius": 2.666374
+    "BoundingSphereRadius": 2.666374,
+    "Rewards": null
   },
   {
     "Name": "ellie",
@@ -28363,7 +29014,8 @@
       "Y": 0.000486,
       "Z": 0.088631
     },
-    "BoundingSphereRadius": 2.583647
+    "BoundingSphereRadius": 2.583647,
+    "Rewards": null
   },
   {
     "Name": "michelli",
@@ -28409,7 +29061,8 @@
       "Y": -0.141287,
       "Z": 0.239971
     },
-    "BoundingSphereRadius": 2.233426
+    "BoundingSphereRadius": 2.233426,
+    "Rewards": null
   },
   {
     "Name": "gb200",
@@ -28457,7 +29110,8 @@
       "Y": 0.031579,
       "Z": 0.459372
     },
-    "BoundingSphereRadius": 2.285116
+    "BoundingSphereRadius": 2.285116,
+    "Rewards": null
   },
   {
     "Name": "issi3",
@@ -28506,7 +29160,8 @@
       "Y": -0.011234,
       "Z": 0.411571
     },
-    "BoundingSphereRadius": 1.876274
+    "BoundingSphereRadius": 1.876274,
+    "Rewards": null
   },
   {
     "Name": "taipan",
@@ -28554,7 +29209,8 @@
       "Y": -0.042556,
       "Z": 0.257331
     },
-    "BoundingSphereRadius": 2.662885
+    "BoundingSphereRadius": 2.662885,
+    "Rewards": null
   },
   {
     "Name": "fagaloa",
@@ -28599,7 +29255,8 @@
       "Y": -0.249956,
       "Z": 0.487713
     },
-    "BoundingSphereRadius": 2.4319
+    "BoundingSphereRadius": 2.4319,
+    "Rewards": null
   },
   {
     "Name": "cheburek",
@@ -28648,7 +29305,8 @@
       "Y": 0.0,
       "Z": 0.320946
     },
-    "BoundingSphereRadius": 2.241302
+    "BoundingSphereRadius": 2.241302,
+    "Rewards": null
   },
   {
     "Name": "stafford",
@@ -28695,7 +29353,8 @@
       "Y": -0.277225,
       "Z": 0.383325
     },
-    "BoundingSphereRadius": 2.945493
+    "BoundingSphereRadius": 2.945493,
+    "Rewards": null
   },
   {
     "Name": "scramjet",
@@ -28747,7 +29406,8 @@
       "Y": 0.155313,
       "Z": 0.097515
     },
-    "BoundingSphereRadius": 2.570318
+    "BoundingSphereRadius": 2.570318,
+    "Rewards": null
   },
   {
     "Name": "strikeforce",
@@ -28801,7 +29461,8 @@
       "Y": -0.036018,
       "Z": 0.2453
     },
-    "BoundingSphereRadius": 10.118824
+    "BoundingSphereRadius": 10.118824,
+    "Rewards": null
   },
   {
     "Name": "terbyte",
@@ -28856,7 +29517,8 @@
       "Y": -0.673769,
       "Z": 0.954925
     },
-    "BoundingSphereRadius": 6.732749
+    "BoundingSphereRadius": 6.732749,
+    "Rewards": null
   },
   {
     "Name": "pbus2",
@@ -28907,7 +29569,8 @@
       "Y": -1.527311,
       "Z": 4.373565
     },
-    "BoundingSphereRadius": 8.260944
+    "BoundingSphereRadius": 8.260944,
+    "Rewards": null
   },
   {
     "Name": "pounder2",
@@ -28966,7 +29629,8 @@
       "Y": -1.935422,
       "Z": 1.335785
     },
-    "BoundingSphereRadius": 7.006179
+    "BoundingSphereRadius": 7.006179,
+    "Rewards": null
   },
   {
     "Name": "freecrawler",
@@ -29015,7 +29679,8 @@
       "Y": 0.036772,
       "Z": 0.583961
     },
-    "BoundingSphereRadius": 2.64038
+    "BoundingSphereRadius": 2.64038,
+    "Rewards": null
   },
   {
     "Name": "mule4",
@@ -29070,7 +29735,8 @@
       "Y": -0.230322,
       "Z": 0.74645
     },
-    "BoundingSphereRadius": 4.600518
+    "BoundingSphereRadius": 4.600518,
+    "Rewards": null
   },
   {
     "Name": "speedo4",
@@ -29124,7 +29790,8 @@
       "Y": -0.134213,
       "Z": 0.355559
     },
-    "BoundingSphereRadius": 2.992129
+    "BoundingSphereRadius": 2.992129,
+    "Rewards": null
   },
   {
     "Name": "blimp3",
@@ -29175,7 +29842,8 @@
       "Y": -5.493132,
       "Z": 5.449241
     },
-    "BoundingSphereRadius": 31.228281
+    "BoundingSphereRadius": 31.228281,
+    "Rewards": null
   },
   {
     "Name": "menacer",
@@ -29233,7 +29901,8 @@
       "Y": -0.029779,
       "Z": 0.883782
     },
-    "BoundingSphereRadius": 3.366355
+    "BoundingSphereRadius": 3.366355,
+    "Rewards": null
   },
   {
     "Name": "swinger",
@@ -29282,7 +29951,8 @@
       "Y": -0.077176,
       "Z": 0.165014
     },
-    "BoundingSphereRadius": 2.405321
+    "BoundingSphereRadius": 2.405321,
+    "Rewards": null
   },
   {
     "Name": "patriot2",
@@ -29330,7 +30000,8 @@
       "Y": 0.277702,
       "Z": 0.397173
     },
-    "BoundingSphereRadius": 3.830189
+    "BoundingSphereRadius": 3.830189,
+    "Rewards": null
   },
   {
     "Name": "oppressor2",
@@ -29381,7 +30052,8 @@
       "Y": -0.126191,
       "Z": 0.05599
     },
-    "BoundingSphereRadius": 1.382089
+    "BoundingSphereRadius": 1.382089,
+    "Rewards": null
   },
   {
     "Name": "impaler3",
@@ -29438,7 +30110,8 @@
       "Y": -0.289385,
       "Z": 0.338655
     },
-    "BoundingSphereRadius": 2.909477
+    "BoundingSphereRadius": 2.909477,
+    "Rewards": null
   },
   {
     "Name": "monster5",
@@ -29495,7 +30168,8 @@
       "Y": -0.005193,
       "Z": 0.692017
     },
-    "BoundingSphereRadius": 3.078974
+    "BoundingSphereRadius": 3.078974,
+    "Rewards": null
   },
   {
     "Name": "slamvan6",
@@ -29550,7 +30224,8 @@
       "Y": 0.138347,
       "Z": 0.701802
     },
-    "BoundingSphereRadius": 2.560409
+    "BoundingSphereRadius": 2.560409,
+    "Rewards": null
   },
   {
     "Name": "issi6",
@@ -29605,7 +30280,8 @@
       "Y": -0.023969,
       "Z": 0.397053
     },
-    "BoundingSphereRadius": 1.918394
+    "BoundingSphereRadius": 1.918394,
+    "Rewards": null
   },
   {
     "Name": "cerberus3",
@@ -29668,7 +30344,8 @@
       "Y": -1.813073,
       "Z": 1.750393
     },
-    "BoundingSphereRadius": 7.135717
+    "BoundingSphereRadius": 7.135717,
+    "Rewards": null
   },
   {
     "Name": "deathbike2",
@@ -29722,7 +30399,8 @@
       "Y": 0.046354,
       "Z": 0.04235
     },
-    "BoundingSphereRadius": 1.312809
+    "BoundingSphereRadius": 1.312809,
+    "Rewards": null
   },
   {
     "Name": "dominator6",
@@ -29782,7 +30460,8 @@
       "Y": -0.217356,
       "Z": 0.512249
     },
-    "BoundingSphereRadius": 2.988511
+    "BoundingSphereRadius": 2.988511,
+    "Rewards": null
   },
   {
     "Name": "deathbike3",
@@ -29836,7 +30515,8 @@
       "Y": 0.056107,
       "Z": 0.148502
     },
-    "BoundingSphereRadius": 1.114716
+    "BoundingSphereRadius": 1.114716,
+    "Rewards": null
   },
   {
     "Name": "impaler4",
@@ -29892,7 +30572,8 @@
       "Y": -0.284578,
       "Z": 0.364309
     },
-    "BoundingSphereRadius": 2.918786
+    "BoundingSphereRadius": 2.918786,
+    "Rewards": null
   },
   {
     "Name": "slamvan4",
@@ -29947,7 +30628,8 @@
       "Y": 0.138347,
       "Z": 0.701802
     },
-    "BoundingSphereRadius": 2.560409
+    "BoundingSphereRadius": 2.560409,
+    "Rewards": null
   },
   {
     "Name": "slamvan5",
@@ -30003,7 +30685,8 @@
       "Y": 0.129714,
       "Z": 0.701802
     },
-    "BoundingSphereRadius": 2.615376
+    "BoundingSphereRadius": 2.615376,
+    "Rewards": null
   },
   {
     "Name": "brutus3",
@@ -30060,7 +30743,8 @@
       "Y": -0.14236,
       "Z": 0.372546
     },
-    "BoundingSphereRadius": 3.12546
+    "BoundingSphereRadius": 3.12546,
+    "Rewards": null
   },
   {
     "Name": "brutus2",
@@ -30118,7 +30802,8 @@
       "Y": -0.14236,
       "Z": 0.398555
     },
-    "BoundingSphereRadius": 3.134583
+    "BoundingSphereRadius": 3.134583,
+    "Rewards": null
   },
   {
     "Name": "brutus",
@@ -30175,7 +30860,8 @@
       "Y": -0.14236,
       "Z": 0.372546
     },
-    "BoundingSphereRadius": 3.12546
+    "BoundingSphereRadius": 3.12546,
+    "Rewards": null
   },
   {
     "Name": "deathbike",
@@ -30229,7 +30915,8 @@
       "Y": 0.056107,
       "Z": 0.148502
     },
-    "BoundingSphereRadius": 1.114716
+    "BoundingSphereRadius": 1.114716,
+    "Rewards": null
   },
   {
     "Name": "bruiser",
@@ -30285,7 +30972,8 @@
       "Y": -0.702108,
       "Z": 0.422417
     },
-    "BoundingSphereRadius": 4.350185
+    "BoundingSphereRadius": 4.350185,
+    "Rewards": null
   },
   {
     "Name": "bruiser2",
@@ -30341,7 +31029,8 @@
       "Y": -0.741983,
       "Z": 0.423027
     },
-    "BoundingSphereRadius": 4.313152
+    "BoundingSphereRadius": 4.313152,
+    "Rewards": null
   },
   {
     "Name": "bruiser3",
@@ -30397,7 +31086,8 @@
       "Y": -0.702108,
       "Z": 0.422417
     },
-    "BoundingSphereRadius": 4.350184
+    "BoundingSphereRadius": 4.350184,
+    "Rewards": null
   },
   {
     "Name": "rcbandito",
@@ -30447,7 +31137,8 @@
       "Y": -0.010242,
       "Z": 0.233741
     },
-    "BoundingSphereRadius": 0.655806
+    "BoundingSphereRadius": 0.655806,
+    "Rewards": null
   },
   {
     "Name": "cerberus",
@@ -30510,7 +31201,8 @@
       "Y": -1.813073,
       "Z": 1.750393
     },
-    "BoundingSphereRadius": 7.135717
+    "BoundingSphereRadius": 7.135717,
+    "Rewards": null
   },
   {
     "Name": "cerberus2",
@@ -30574,7 +31266,8 @@
       "Y": -1.813072,
       "Z": 1.750393
     },
-    "BoundingSphereRadius": 7.135717
+    "BoundingSphereRadius": 7.135717,
+    "Rewards": null
   },
   {
     "Name": "impaler2",
@@ -30630,7 +31323,8 @@
       "Y": -0.284578,
       "Z": 0.364309
     },
-    "BoundingSphereRadius": 2.918786
+    "BoundingSphereRadius": 2.918786,
+    "Rewards": null
   },
   {
     "Name": "monster4",
@@ -30688,7 +31382,8 @@
       "Y": -0.003369,
       "Z": 0.737873
     },
-    "BoundingSphereRadius": 3.100182
+    "BoundingSphereRadius": 3.100182,
+    "Rewards": null
   },
   {
     "Name": "monster3",
@@ -30745,7 +31440,8 @@
       "Y": -0.005193,
       "Z": 0.692017
     },
-    "BoundingSphereRadius": 3.078974
+    "BoundingSphereRadius": 3.078974,
+    "Rewards": null
   },
   {
     "Name": "tulip",
@@ -30794,7 +31490,8 @@
       "Y": -0.161598,
       "Z": 0.365068
     },
-    "BoundingSphereRadius": 2.811414
+    "BoundingSphereRadius": 2.811414,
+    "Rewards": null
   },
   {
     "Name": "italigto",
@@ -30842,7 +31539,8 @@
       "Y": 0.041897,
       "Z": 0.266664
     },
-    "BoundingSphereRadius": 2.559994
+    "BoundingSphereRadius": 2.559994,
+    "Rewards": null
   },
   {
     "Name": "issi4",
@@ -30897,7 +31595,8 @@
       "Y": -0.023969,
       "Z": 0.397053
     },
-    "BoundingSphereRadius": 1.918394
+    "BoundingSphereRadius": 1.918394,
+    "Rewards": null
   },
   {
     "Name": "issi5",
@@ -30953,7 +31652,8 @@
       "Y": -0.023969,
       "Z": 0.394384
     },
-    "BoundingSphereRadius": 1.923712
+    "BoundingSphereRadius": 1.923712,
+    "Rewards": null
   },
   {
     "Name": "scarab",
@@ -31018,7 +31718,8 @@
       "Y": 0.158175,
       "Z": 0.576149
     },
-    "BoundingSphereRadius": 3.317172
+    "BoundingSphereRadius": 3.317172,
+    "Rewards": null
   },
   {
     "Name": "scarab2",
@@ -31084,7 +31785,8 @@
       "Y": 0.155528,
       "Z": 0.578225
     },
-    "BoundingSphereRadius": 3.317969
+    "BoundingSphereRadius": 3.317969,
+    "Rewards": null
   },
   {
     "Name": "scarab3",
@@ -31149,7 +31851,8 @@
       "Y": 0.158175,
       "Z": 0.576149
     },
-    "BoundingSphereRadius": 3.317172
+    "BoundingSphereRadius": 3.317172,
+    "Rewards": null
   },
   {
     "Name": "clique",
@@ -31197,7 +31900,8 @@
       "Y": -0.110327,
       "Z": 0.440833
     },
-    "BoundingSphereRadius": 2.62548
+    "BoundingSphereRadius": 2.62548,
+    "Rewards": null
   },
   {
     "Name": "impaler",
@@ -31246,7 +31950,8 @@
       "Y": -0.290225,
       "Z": 0.344554
     },
-    "BoundingSphereRadius": 2.910561
+    "BoundingSphereRadius": 2.910561,
+    "Rewards": null
   },
   {
     "Name": "vamos",
@@ -31294,7 +31999,8 @@
       "Y": -0.12452,
       "Z": 0.235581
     },
-    "BoundingSphereRadius": 2.662215
+    "BoundingSphereRadius": 2.662215,
+    "Rewards": null
   },
   {
     "Name": "imperator",
@@ -31349,7 +32055,8 @@
       "Y": -0.021731,
       "Z": 0.368023
     },
-    "BoundingSphereRadius": 2.749586
+    "BoundingSphereRadius": 2.749586,
+    "Rewards": null
   },
   {
     "Name": "imperator2",
@@ -31405,7 +32112,8 @@
       "Y": -0.021731,
       "Z": 0.368023
     },
-    "BoundingSphereRadius": 2.749586
+    "BoundingSphereRadius": 2.749586,
+    "Rewards": null
   },
   {
     "Name": "imperator3",
@@ -31460,7 +32168,8 @@
       "Y": -0.021731,
       "Z": 0.368023
     },
-    "BoundingSphereRadius": 2.749586
+    "BoundingSphereRadius": 2.749586,
+    "Rewards": null
   },
   {
     "Name": "toros",
@@ -31509,7 +32218,8 @@
       "Y": 0.083395,
       "Z": 0.49232
     },
-    "BoundingSphereRadius": 2.884836
+    "BoundingSphereRadius": 2.884836,
+    "Rewards": null
   },
   {
     "Name": "schlagen",
@@ -31557,7 +32267,8 @@
       "Y": 0.094111,
       "Z": 0.415744
     },
-    "BoundingSphereRadius": 2.531916
+    "BoundingSphereRadius": 2.531916,
+    "Rewards": null
   },
   {
     "Name": "deviant",
@@ -31606,7 +32317,8 @@
       "Y": 0.040793,
       "Z": 0.284671
     },
-    "BoundingSphereRadius": 2.736673
+    "BoundingSphereRadius": 2.736673,
+    "Rewards": null
   },
   {
     "Name": "dominator4",
@@ -31666,7 +32378,8 @@
       "Y": -0.217356,
       "Z": 0.512249
     },
-    "BoundingSphereRadius": 2.988137
+    "BoundingSphereRadius": 2.988137,
+    "Rewards": null
   },
   {
     "Name": "dominator5",
@@ -31727,7 +32440,8 @@
       "Y": -0.258707,
       "Z": 0.446353
     },
-    "BoundingSphereRadius": 2.926553
+    "BoundingSphereRadius": 2.926553,
+    "Rewards": null
   },
   {
     "Name": "zr380",
@@ -31784,7 +32498,8 @@
       "Y": 0.003529,
       "Z": 0.417162
     },
-    "BoundingSphereRadius": 2.45492
+    "BoundingSphereRadius": 2.45492,
+    "Rewards": null
   },
   {
     "Name": "zr3802",
@@ -31842,7 +32557,8 @@
       "Y": 0.003529,
       "Z": 0.445798
     },
-    "BoundingSphereRadius": 2.463806
+    "BoundingSphereRadius": 2.463806,
+    "Rewards": null
   },
   {
     "Name": "zr3803",
@@ -31899,7 +32615,8 @@
       "Y": 0.003529,
       "Z": 0.417162
     },
-    "BoundingSphereRadius": 2.45492
+    "BoundingSphereRadius": 2.45492,
+    "Rewards": null
   },
   {
     "Name": "deveste",
@@ -31950,7 +32667,8 @@
       "Y": 0.174302,
       "Z": 0.258675
     },
-    "BoundingSphereRadius": 2.777497
+    "BoundingSphereRadius": 2.777497,
+    "Rewards": null
   },
   {
     "Name": "paragon",
@@ -31998,7 +32716,8 @@
       "Y": -0.048536,
       "Z": 0.343971
     },
-    "BoundingSphereRadius": 2.782029
+    "BoundingSphereRadius": 2.782029,
+    "Rewards": null
   },
   {
     "Name": "paragon2",
@@ -32049,7 +32768,8 @@
       "Y": -0.048536,
       "Z": 0.343971
     },
-    "BoundingSphereRadius": 2.782029
+    "BoundingSphereRadius": 2.782029,
+    "Rewards": null
   },
   {
     "Name": "jugular",
@@ -32100,7 +32820,8 @@
       "Y": -0.113839,
       "Z": 0.378843
     },
-    "BoundingSphereRadius": 2.731164
+    "BoundingSphereRadius": 2.731164,
+    "Rewards": null
   },
   {
     "Name": "rrocket",
@@ -32150,7 +32871,8 @@
       "Y": 0.348571,
       "Z": 0.315559
     },
-    "BoundingSphereRadius": 2.160704
+    "BoundingSphereRadius": 2.160704,
+    "Rewards": null
   },
   {
     "Name": "peyote2",
@@ -32198,7 +32920,8 @@
       "Y": -0.249991,
       "Z": 0.315274
     },
-    "BoundingSphereRadius": 2.805016
+    "BoundingSphereRadius": 2.805016,
+    "Rewards": null
   },
   {
     "Name": "neo",
@@ -32247,7 +32970,8 @@
       "Y": 0.001771,
       "Z": 0.296178
     },
-    "BoundingSphereRadius": 2.591884
+    "BoundingSphereRadius": 2.591884,
+    "Rewards": null
   },
   {
     "Name": "krieger",
@@ -32299,7 +33023,8 @@
       "Y": 0.043476,
       "Z": 0.018339
     },
-    "BoundingSphereRadius": 2.48468
+    "BoundingSphereRadius": 2.48468,
+    "Rewards": null
   },
   {
     "Name": "s80",
@@ -32353,7 +33078,8 @@
       "Y": -0.116201,
       "Z": 0.320843
     },
-    "BoundingSphereRadius": 2.645243
+    "BoundingSphereRadius": 2.645243,
+    "Rewards": null
   },
   {
     "Name": "Dynasty",
@@ -32400,7 +33126,8 @@
       "Y": -0.203151,
       "Z": 0.558573
     },
-    "BoundingSphereRadius": 2.531524
+    "BoundingSphereRadius": 2.531524,
+    "Rewards": null
   },
   {
     "Name": "caracara2",
@@ -32449,7 +33176,8 @@
       "Y": -0.169878,
       "Z": 0.453742
     },
-    "BoundingSphereRadius": 3.484422
+    "BoundingSphereRadius": 3.484422,
+    "Rewards": null
   },
   {
     "Name": "thrax",
@@ -32499,7 +33227,8 @@
       "Y": 0.08134,
       "Z": 0.324993
     },
-    "BoundingSphereRadius": 2.537285
+    "BoundingSphereRadius": 2.537285,
+    "Rewards": null
   },
   {
     "Name": "Novak",
@@ -32550,7 +33279,8 @@
       "Y": -0.00044,
       "Z": 0.456182
     },
-    "BoundingSphereRadius": 2.759815
+    "BoundingSphereRadius": 2.759815,
+    "Rewards": null
   },
   {
     "Name": "zorrusso",
@@ -32597,7 +33327,8 @@
       "Y": 0.066792,
       "Z": 0.106534
     },
-    "BoundingSphereRadius": 2.640421
+    "BoundingSphereRadius": 2.640421,
+    "Rewards": null
   },
   {
     "Name": "issi7",
@@ -32647,7 +33378,8 @@
       "Y": 0.122105,
       "Z": 0.111438
     },
-    "BoundingSphereRadius": 2.246788
+    "BoundingSphereRadius": 2.246788,
+    "Rewards": null
   },
   {
     "Name": "locust",
@@ -32693,7 +33425,8 @@
       "Y": -0.038141,
       "Z": 0.245749
     },
-    "BoundingSphereRadius": 2.349956
+    "BoundingSphereRadius": 2.349956,
+    "Rewards": null
   },
   {
     "Name": "emerus",
@@ -32743,7 +33476,8 @@
       "Y": -0.162867,
       "Z": 0.395937
     },
-    "BoundingSphereRadius": 2.795804
+    "BoundingSphereRadius": 2.795804,
+    "Rewards": null
   },
   {
     "Name": "hellion",
@@ -32794,7 +33528,8 @@
       "Y": -0.052216,
       "Z": 0.479071
     },
-    "BoundingSphereRadius": 2.862759
+    "BoundingSphereRadius": 2.862759,
+    "Rewards": null
   },
   {
     "Name": "gauntlet3",
@@ -32843,7 +33578,8 @@
       "Y": 0.078356,
       "Z": 0.412833
     },
-    "BoundingSphereRadius": 2.677394
+    "BoundingSphereRadius": 2.677394,
+    "Rewards": null
   },
   {
     "Name": "gauntlet4",
@@ -32891,7 +33627,8 @@
       "Y": -0.043247,
       "Z": 0.393435
     },
-    "BoundingSphereRadius": 2.831936
+    "BoundingSphereRadius": 2.831936,
+    "Rewards": null
   },
   {
     "Name": "nebula",
@@ -32940,7 +33677,8 @@
       "Y": -0.122839,
       "Z": 0.371613
     },
-    "BoundingSphereRadius": 2.670509
+    "BoundingSphereRadius": 2.670509,
+    "Rewards": null
   },
   {
     "Name": "zion3",
@@ -32990,7 +33728,8 @@
       "Y": -0.05222,
       "Z": 0.390221
     },
-    "BoundingSphereRadius": 2.578471
+    "BoundingSphereRadius": 2.578471,
+    "Rewards": null
   },
   {
     "Name": "drafter",
@@ -33040,7 +33779,8 @@
       "Y": 0.00867,
       "Z": 0.245974
     },
-    "BoundingSphereRadius": 2.639381
+    "BoundingSphereRadius": 2.639381,
+    "Rewards": null
   },
   {
     "Name": "retinue2",
@@ -33088,7 +33828,8 @@
       "Y": -0.196669,
       "Z": 0.403546
     },
-    "BoundingSphereRadius": 2.333418
+    "BoundingSphereRadius": 2.333418,
+    "Rewards": null
   },
   {
     "Name": "outlaw",
@@ -33137,7 +33878,8 @@
       "Y": -0.012864,
       "Z": 0.17958
     },
-    "BoundingSphereRadius": 2.03136
+    "BoundingSphereRadius": 2.03136,
+    "Rewards": null
   },
   {
     "Name": "Stryder",
@@ -33185,7 +33927,8 @@
       "Y": 0.087877,
       "Z": 0.311356
     },
-    "BoundingSphereRadius": 1.326045
+    "BoundingSphereRadius": 1.326045,
+    "Rewards": null
   },
   {
     "Name": "yosemite2",
@@ -33231,7 +33974,8 @@
       "Y": -0.130429,
       "Z": 0.382624
     },
-    "BoundingSphereRadius": 2.751938
+    "BoundingSphereRadius": 2.751938,
+    "Rewards": null
   },
   {
     "Name": "formula",
@@ -33280,7 +34024,8 @@
       "Y": 0.239584,
       "Z": 0.268459
     },
-    "BoundingSphereRadius": 2.428689
+    "BoundingSphereRadius": 2.428689,
+    "Rewards": null
   },
   {
     "Name": "formula2",
@@ -33329,7 +34074,8 @@
       "Y": -0.007277,
       "Z": 0.295166
     },
-    "BoundingSphereRadius": 2.459717
+    "BoundingSphereRadius": 2.459717,
+    "Rewards": null
   },
   {
     "Name": "minitank",
@@ -33369,21 +34115,22 @@
       "409_minitank_modkit"
     ],
     "DimensionsMin": {
-      "X": -0.544729,
-      "Y": -0.663752,
-      "Z": -0.268273
+      "X": -0.20979,
+      "Y": -0.410319,
+      "Z": 0.447649
     },
     "DimensionsMax": {
-      "X": 0.544729,
-      "Y": 0.882442,
-      "Z": 0.855982
+      "X": -0.20979,
+      "Y": -0.249106,
+      "Z": 0.555124
     },
     "BoundingCenter": {
-      "X": 0.0,
-      "Y": 0.109345,
-      "Z": 0.293855
+      "X": -0.20979,
+      "Y": -0.329712,
+      "Z": 0.501386
     },
-    "BoundingSphereRadius": 1.10018
+    "BoundingSphereRadius": 0.096877,
+    "Rewards": null
   },
   {
     "Name": "Sugoi",
@@ -33430,7 +34177,8 @@
       "Y": -0.024941,
       "Z": 0.464318
     },
-    "BoundingSphereRadius": 2.598951
+    "BoundingSphereRadius": 2.598951,
+    "Rewards": null
   },
   {
     "Name": "sultan2",
@@ -33479,7 +34227,8 @@
       "Y": -0.015098,
       "Z": 0.412692
     },
-    "BoundingSphereRadius": 2.449352
+    "BoundingSphereRadius": 2.449352,
+    "Rewards": null
   },
   {
     "Name": "everon",
@@ -33525,7 +34274,8 @@
       "Y": -0.12834,
       "Z": 0.336336
     },
-    "BoundingSphereRadius": 3.210196
+    "BoundingSphereRadius": 3.210196,
+    "Rewards": null
   },
   {
     "Name": "rebla",
@@ -33575,7 +34325,8 @@
       "Y": -0.073579,
       "Z": 0.591469
     },
-    "BoundingSphereRadius": 2.811165
+    "BoundingSphereRadius": 2.811165,
+    "Rewards": null
   },
   {
     "Name": "vagrant",
@@ -33626,7 +34377,8 @@
       "Y": 0.081263,
       "Z": 0.098431
     },
-    "BoundingSphereRadius": 1.985885
+    "BoundingSphereRadius": 1.985885,
+    "Rewards": null
   },
   {
     "Name": "furia",
@@ -33677,7 +34429,8 @@
       "Y": 0.060728,
       "Z": 0.252498
     },
-    "BoundingSphereRadius": 2.536977
+    "BoundingSphereRadius": 2.536977,
+    "Rewards": null
   },
   {
     "Name": "vstr",
@@ -33726,7 +34479,8 @@
       "Y": -0.115772,
       "Z": 0.38056
     },
-    "BoundingSphereRadius": 2.772475
+    "BoundingSphereRadius": 2.772475,
+    "Rewards": null
   },
   {
     "Name": "komoda",
@@ -33773,7 +34527,8 @@
       "Y": -0.034359,
       "Z": 0.383201
     },
-    "BoundingSphereRadius": 2.58122
+    "BoundingSphereRadius": 2.58122,
+    "Rewards": null
   },
   {
     "Name": "asbo",
@@ -33822,7 +34577,8 @@
       "Y": 0.10161,
       "Z": 0.53232
     },
-    "BoundingSphereRadius": 2.285111
+    "BoundingSphereRadius": 2.285111,
+    "Rewards": null
   },
   {
     "Name": "zhaba",
@@ -33875,7 +34631,8 @@
       "Y": -0.048783,
       "Z": 0.382536
     },
-    "BoundingSphereRadius": 2.662906
+    "BoundingSphereRadius": 2.662906,
+    "Rewards": null
   },
   {
     "Name": "jb7002",
@@ -33924,7 +34681,8 @@
       "Y": -0.249178,
       "Z": 0.210407
     },
-    "BoundingSphereRadius": 2.48761
+    "BoundingSphereRadius": 2.48761,
+    "Rewards": null
   },
   {
     "Name": "kanjo",
@@ -33972,7 +34730,8 @@
       "Y": 0.095029,
       "Z": 0.300726
     },
-    "BoundingSphereRadius": 2.380951
+    "BoundingSphereRadius": 2.380951,
+    "Rewards": null
   },
   {
     "Name": "imorgon",
@@ -34022,6 +34781,7 @@
       "Y": 0.292317,
       "Z": -0.045445
     },
-    "BoundingSphereRadius": 2.523825
+    "BoundingSphereRadius": 2.523825,
+    "Rewards": null
   }
 ]

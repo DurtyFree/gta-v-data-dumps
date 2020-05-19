@@ -28,6 +28,7 @@
     "MonetaryValue": 80000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "26_ninef_modkit"
     ],
@@ -78,6 +79,7 @@
     "MonetaryValue": 80000,
     "HasConvertibleRoof": true,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "11_ninef2_modkit"
     ],
@@ -127,6 +129,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "17_asea_modkit"
     ],
@@ -181,6 +184,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.202107,
@@ -233,6 +237,7 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.34666,
@@ -285,6 +290,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "66_cheetah_modkit"
     ],
@@ -335,6 +341,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": true,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_sport_modkit"
     ],
@@ -385,6 +392,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "1_dubsta_modkit"
     ],
@@ -435,6 +443,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "23_dubsta2_modkit"
     ],
@@ -481,6 +490,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -533,6 +543,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "63_entityxf_modkit"
     ],
@@ -584,9 +595,12 @@
     ],
     "Seats": 8,
     "Price": -1,
-    "MonetaryValue": -1,
+    "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": true,
+    "Weapons": [
+      "VEHICLE_WEAPON_WATER_CANNON"
+    ],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.326839,
@@ -634,6 +648,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -683,6 +698,7 @@
     "MonetaryValue": 100000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "75_infernus_modkit"
     ],
@@ -732,6 +748,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "22_jackal_modkit"
     ],
@@ -786,6 +803,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.284321,
@@ -833,6 +851,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_hiend_modkit"
     ],
@@ -881,6 +900,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_sport_modkit"
     ],
@@ -933,6 +953,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "312_patriot_modkit"
     ],
@@ -979,6 +1000,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -1028,6 +1050,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -1079,6 +1102,7 @@
     "MonetaryValue": 130000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_hiend_modkit"
     ],
@@ -1131,9 +1155,10 @@
     ],
     "Seats": 8,
     "Price": -1,
-    "MonetaryValue": -1,
+    "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.435872,
@@ -1181,6 +1206,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_hiend_modkit"
     ],
@@ -1229,6 +1255,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "5_tailgater_modkit"
     ],
@@ -1277,6 +1304,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "60_tornado_modkit"
     ],
@@ -1329,6 +1357,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.39771,
@@ -1379,6 +1408,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.39771,
@@ -1422,6 +1452,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_no_lower"
     ],
@@ -1469,9 +1500,10 @@
     ],
     "Seats": 1,
     "Price": -1,
-    "MonetaryValue": -1,
+    "MonetaryValue": 12000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -0.302808,
@@ -1522,6 +1554,7 @@
     "MonetaryValue": 12000,
     "HasConvertibleRoof": false,
     "HasSirens": true,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -0.45553,
@@ -1572,6 +1605,7 @@
     "MonetaryValue": 12000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_bike_modkit"
     ],
@@ -1626,6 +1660,11 @@
     "MonetaryValue": 52000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_PLAYER_BUZZARD",
+      "VEHICLE_WEAPON_SPACE_ROCKET",
+      "VEHICLE_WEAPON_SEARCHLIGHT"
+    ],
     "ModKits": [
       "0_defaultspraypatch"
     ],
@@ -1678,9 +1717,12 @@
     ],
     "Seats": 4,
     "Price": -1,
-    "MonetaryValue": -1,
+    "MonetaryValue": 52000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_SEARCHLIGHT"
+    ],
     "ModKits": [
       "82_polmav_modkit"
     ],
@@ -1737,6 +1779,7 @@
     "MonetaryValue": 45000,
     "HasConvertibleRoof": true,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "251_cuban800_modkit"
     ],
@@ -1786,9 +1829,10 @@
     ],
     "Seats": 2,
     "Price": -1,
-    "MonetaryValue": -1,
+    "MonetaryValue": 45000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -33.0117645,
@@ -1837,9 +1881,10 @@
     ],
     "Seats": 10,
     "Price": -1,
-    "MonetaryValue": -1,
+    "MonetaryValue": 45000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_defaultspraypatch"
     ],
@@ -1893,6 +1938,7 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.291206,
@@ -1943,6 +1989,7 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -0.010362,
@@ -1989,6 +2036,7 @@
     "MonetaryValue": 110000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.647934,
@@ -2036,6 +2084,7 @@
     "MonetaryValue": 110000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.681231,
@@ -2084,6 +2133,7 @@
     "MonetaryValue": 110000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.521491,
@@ -2131,6 +2181,7 @@
     "MonetaryValue": 110000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.521491,
@@ -2177,6 +2228,7 @@
     "MonetaryValue": 110000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.561408,
@@ -2227,6 +2279,7 @@
     "MonetaryValue": 110000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.631964,
@@ -2274,9 +2327,10 @@
     ],
     "Seats": 4,
     "Price": -1,
-    "MonetaryValue": -1,
+    "MonetaryValue": 110000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.791713,
@@ -2324,6 +2378,7 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.429509,
@@ -2373,6 +2428,7 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.419469,
@@ -2420,6 +2476,7 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.419469,
@@ -2465,9 +2522,10 @@
     ],
     "Seats": 2,
     "Price": -1,
-    "MonetaryValue": -1,
+    "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.496147,
@@ -2513,6 +2571,7 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -2.261389,
@@ -2557,6 +2616,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_no_lower"
     ],
@@ -2607,6 +2667,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": true,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.152291,
@@ -2655,6 +2716,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": true,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -0.997817,
@@ -2701,6 +2763,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -2752,6 +2815,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "46_banshee_modkit"
     ],
@@ -2799,6 +2863,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "6_buffalo_modkit"
     ],
@@ -2849,6 +2914,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_hiend_modkit"
     ],
@@ -2900,6 +2966,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_sport_modkit"
     ],
@@ -2943,9 +3010,10 @@
     ],
     "Seats": 1,
     "Price": -1,
-    "MonetaryValue": -1,
+    "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -3.447184,
@@ -2996,6 +3064,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "38_ruiner_modkit"
     ],
@@ -3044,6 +3113,7 @@
     "MonetaryValue": 22000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -3093,6 +3163,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.501803,
@@ -3137,6 +3208,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "29_penumbra_modkit"
     ],
@@ -3189,6 +3261,7 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.980304,
@@ -3235,6 +3308,7 @@
     "MonetaryValue": 15000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.424632,
@@ -3283,6 +3357,7 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.491392,
@@ -3328,6 +3403,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "39_sultan_modkit"
     ],
@@ -3374,6 +3450,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_cvtgeabox_modkit"
     ],
@@ -3422,6 +3499,7 @@
     "MonetaryValue": 100000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "2_futo_modkit"
     ],
@@ -3469,6 +3547,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_no_lower"
     ],
@@ -3516,6 +3595,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "71_intruder_modkit"
     ],
@@ -3566,6 +3646,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "36_landstalker_modkit"
     ],
@@ -3616,6 +3697,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -3664,6 +3746,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "47_schafter2_modkit"
     ],
@@ -3712,6 +3795,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "40_serrano_modkit"
     ],
@@ -3762,6 +3846,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "59_manana_modkit"
     ],
@@ -3811,6 +3896,7 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -0.61977,
@@ -3856,6 +3942,7 @@
     "MonetaryValue": 22000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "16_youga_modkit"
     ],
@@ -3902,6 +3989,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "37_premier_modkit"
     ],
@@ -3948,9 +4036,10 @@
     ],
     "Seats": 4,
     "Price": -1,
-    "MonetaryValue": -1,
+    "MonetaryValue": 22000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -3997,6 +4086,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -4051,6 +4141,10 @@
     "MonetaryValue": 52000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_PLAYER_BUZZARD",
+      "VEHICLE_WEAPON_SPACE_ROCKET"
+    ],
     "ModKits": [
       "0_defaultspraypatch"
     ],
@@ -4104,6 +4198,7 @@
     "MonetaryValue": 12000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -4153,6 +4248,7 @@
     "MonetaryValue": 12000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -0.367411,
@@ -4196,9 +4292,10 @@
     ],
     "Seats": 2,
     "Price": -1,
-    "MonetaryValue": -1,
+    "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.761819,
@@ -4246,9 +4343,10 @@
     ],
     "Seats": 4,
     "Price": -1,
-    "MonetaryValue": -1,
+    "MonetaryValue": 45000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -48.8069572,
@@ -4299,6 +4397,7 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -3.697632,
@@ -4349,6 +4448,7 @@
     "MonetaryValue": 22000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -4396,6 +4496,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": true,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -4445,6 +4546,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "45_sentinel_modkit"
     ],
@@ -4494,6 +4596,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": true,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "56_sentinel2_modkit"
     ],
@@ -4545,6 +4648,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "51_comet2_modkit"
     ],
@@ -4594,6 +4698,7 @@
     "MonetaryValue": 130000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_hiend_modkit"
     ],
@@ -4642,6 +4747,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -4691,6 +4797,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "62_peyote_modkit"
     ],
@@ -4738,6 +4845,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_no_lower"
     ],
@@ -4784,6 +4892,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -4832,6 +4941,7 @@
     "MonetaryValue": 20000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "4_akuma_modkit"
     ],
@@ -4880,6 +4990,7 @@
     "MonetaryValue": 20000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_bike_modkit"
     ],
@@ -4930,6 +5041,7 @@
     "MonetaryValue": 20000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "77_bati2_modkit"
     ],
@@ -4979,6 +5091,7 @@
     "MonetaryValue": 20000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "42_pcj_modkit"
     ],
@@ -5028,6 +5141,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -5075,6 +5189,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "50_prairie_modkit"
     ],
@@ -5123,9 +5238,10 @@
     ],
     "Seats": 2,
     "Price": -1,
-    "MonetaryValue": -1,
+    "MonetaryValue": 45000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_defaultspraypatch"
     ],
@@ -5173,6 +5289,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": true,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "34_issi2_modkit"
     ],
@@ -5223,6 +5340,7 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.419667,
@@ -5270,6 +5388,7 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.429199,
@@ -5316,6 +5435,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -2.162627,
@@ -5363,6 +5483,7 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -5411,6 +5532,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": true,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "60_tornado_modkit"
     ],
@@ -5458,6 +5580,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -5508,6 +5631,7 @@
     "MonetaryValue": 12000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -0.195698,
@@ -5556,6 +5680,7 @@
     "MonetaryValue": 12000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -0.195698,
@@ -5604,6 +5729,7 @@
     "MonetaryValue": 12000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -0.195698,
@@ -5648,9 +5774,10 @@
     ],
     "Seats": 4,
     "Price": -1,
-    "MonetaryValue": -1,
+    "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -2.68939,
@@ -5702,6 +5829,7 @@
     "MonetaryValue": 22000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -5752,6 +5880,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -5803,6 +5932,7 @@
     "MonetaryValue": 30000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "3_feltzer2_modkit"
     ],
@@ -5851,6 +5981,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "30_blista_modkit"
     ],
@@ -5902,6 +6033,7 @@
     "MonetaryValue": 12000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "58_bagger_modkit"
     ],
@@ -5953,6 +6085,7 @@
     "MonetaryValue": 80000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "32_voltic_modkit"
     ],
@@ -6003,6 +6136,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_no_lower"
     ],
@@ -6051,6 +6185,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "28_felon_modkit"
     ],
@@ -6102,6 +6237,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.485612,
@@ -6151,6 +6287,7 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.79718,
@@ -6198,6 +6335,7 @@
     "MonetaryValue": 22000,
     "HasConvertibleRoof": false,
     "HasSirens": true,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -6252,9 +6390,10 @@
     ],
     "Seats": 4,
     "Price": -1,
-    "MonetaryValue": -1,
+    "MonetaryValue": 22000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit",
       "105_speedo2_modkit"
@@ -6304,6 +6443,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": true,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_lowcar_modkit"
     ],
@@ -6354,6 +6494,7 @@
     "MonetaryValue": 12000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -0.287624,
@@ -6403,6 +6544,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_sport_modkit"
     ],
@@ -6451,6 +6593,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "44_fusilade_modkit"
     ],
@@ -6502,6 +6645,7 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.230178,
@@ -6549,6 +6693,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "8_cavalcade_modkit"
     ],
@@ -6596,6 +6741,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "19_surge_modkit"
     ],
@@ -6645,6 +6791,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "18_buccaneer_modkit"
     ],
@@ -6693,6 +6840,7 @@
     "MonetaryValue": 20000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_bike_modkit"
     ],
@@ -6745,6 +6893,7 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.419469,
@@ -6787,9 +6936,10 @@
     ],
     "Seats": 4,
     "Price": -1,
-    "MonetaryValue": -1,
+    "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_suv_modkit"
     ],
@@ -6841,9 +6991,10 @@
     ],
     "Seats": 8,
     "Price": -1,
-    "MonetaryValue": -1,
+    "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.435872,
@@ -6894,6 +7045,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_suv_modkit"
     ],
@@ -6941,6 +7093,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "53_schwarzer_modkit"
     ],
@@ -6993,6 +7146,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.81974,
@@ -7041,6 +7195,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "54_sandking_modkit"
     ],
@@ -7090,6 +7245,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "55_sandking2_modkit"
     ],
@@ -7139,6 +7295,7 @@
     "MonetaryValue": 100000,
     "HasConvertibleRoof": true,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "72_carbonizzare_modkit"
     ],
@@ -7191,6 +7348,7 @@
     "MonetaryValue": 22000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "81_rumpo_modkit"
     ],
@@ -7239,6 +7397,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "49_primo_modkit"
     ],
@@ -7287,6 +7446,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "67_sabregt_modkit"
     ],
@@ -7336,6 +7496,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -7386,6 +7547,7 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.283558,
@@ -7436,6 +7598,7 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.284723,
@@ -7483,6 +7646,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "52_vigero_modkit"
     ],
@@ -7530,9 +7694,10 @@
     ],
     "Seats": 4,
     "Price": -1,
-    "MonetaryValue": -1,
+    "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": true,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -7586,6 +7751,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -7637,6 +7803,9 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_SEARCHLIGHT"
+    ],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.428359,
@@ -7690,6 +7859,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": true,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.202107,
@@ -7737,9 +7907,10 @@
     ],
     "Seats": 10,
     "Price": -1,
-    "MonetaryValue": -1,
+    "MonetaryValue": 45000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_defaultspraypatch"
     ],
@@ -7789,9 +7960,10 @@
     ],
     "Seats": 4,
     "Price": -1,
-    "MonetaryValue": -1,
+    "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": true,
+    "Weapons": [],
     "ModKits": [
       "9_police3_modkit"
     ],
@@ -7845,6 +8017,7 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.429199,
@@ -7891,6 +8064,7 @@
     "MonetaryValue": 20000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit",
       "14_double_modkit"
@@ -7945,6 +8119,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -0.790925,
@@ -7997,6 +8172,7 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.299798,
@@ -8044,6 +8220,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "27_dominator_modkit"
     ],
@@ -8094,9 +8271,10 @@
     ],
     "Seats": 2,
     "Price": -1,
-    "MonetaryValue": -1,
+    "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.598967,
@@ -8146,6 +8324,7 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.616767,
@@ -8193,6 +8372,7 @@
     "MonetaryValue": 20000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "24_phoenix_modkit"
     ],
@@ -8243,6 +8423,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_suv_modkit"
     ],
@@ -8293,6 +8474,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -8341,6 +8523,7 @@
     "MonetaryValue": 12000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "12_daemon_modkit"
     ],
@@ -8395,6 +8578,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.551746,
@@ -8441,6 +8625,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -8491,6 +8676,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "20_ratloader_modkit"
     ],
@@ -8542,6 +8728,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "73_rapidgt_modkit"
     ],
@@ -8592,6 +8779,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": true,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "76_rapidgt2_modkit"
     ],
@@ -8642,6 +8830,7 @@
     "MonetaryValue": 80000,
     "HasConvertibleRoof": true,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "21_surano_modkit"
     ],
@@ -8689,6 +8878,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -8740,6 +8930,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_suv_modkit"
     ],
@@ -8791,6 +8982,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -8845,6 +9037,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "7_bodhi2_modkit"
     ],
@@ -8898,6 +9091,7 @@
     "MonetaryValue": 22000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -8950,6 +9144,7 @@
     "MonetaryValue": 22000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -9003,6 +9198,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.617381,
@@ -9053,6 +9249,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.288024,
@@ -9102,6 +9299,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.36338,
@@ -9151,6 +9349,7 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.246669,
@@ -9201,6 +9400,7 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.259783,
@@ -9251,6 +9451,7 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.617381,
@@ -9302,6 +9503,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.617381,
@@ -9354,6 +9556,9 @@
     "MonetaryValue": 52000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_SEARCHLIGHT"
+    ],
     "ModKits": [],
     "DimensionsMin": {
       "X": -6.335391,
@@ -9403,6 +9608,9 @@
     "MonetaryValue": 52000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_SEARCHLIGHT"
+    ],
     "ModKits": [
       "0_defaultspraypatch"
     ],
@@ -9452,6 +9660,7 @@
     "MonetaryValue": 15000,
     "HasConvertibleRoof": false,
     "HasSirens": true,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -0.64441,
@@ -9504,9 +9713,10 @@
     ],
     "Seats": 6,
     "Price": -1,
-    "MonetaryValue": -1,
+    "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.565531,
@@ -9556,6 +9766,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.792469,
@@ -9607,6 +9818,7 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": true,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -9653,9 +9865,10 @@
     ],
     "Seats": 1,
     "Price": -1,
-    "MonetaryValue": -1,
+    "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -0.612313,
@@ -9705,6 +9918,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_suv_modkit"
     ],
@@ -9754,6 +9968,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": true,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -9807,6 +10022,7 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.106339,
@@ -9855,6 +10071,7 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.28708,
@@ -9906,6 +10123,7 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.490252,
@@ -9953,9 +10171,10 @@
     ],
     "Seats": 4,
     "Price": -1,
-    "MonetaryValue": -1,
+    "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -0.989683,
@@ -10010,6 +10229,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.101838,
@@ -10058,9 +10278,10 @@
     ],
     "Seats": 4,
     "Price": -1,
-    "MonetaryValue": -1,
+    "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": true,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -10116,9 +10337,10 @@
     ],
     "Seats": 2,
     "Price": -1,
-    "MonetaryValue": -1,
+    "MonetaryValue": 70000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_lowcar_modkit"
     ],
@@ -10171,6 +10393,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.320839,
@@ -10220,6 +10443,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.197858,
@@ -10267,9 +10491,10 @@
     ],
     "Seats": 4,
     "Price": -1,
-    "MonetaryValue": -1,
+    "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.632233,
@@ -10320,6 +10545,9 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_SEARCHLIGHT"
+    ],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.428359,
@@ -10368,6 +10596,7 @@
     "MonetaryValue": 12000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -10420,6 +10649,9 @@
     "MonetaryValue": 52000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_SEARCHLIGHT"
+    ],
     "ModKits": [
       "0_defaultspraypatch"
     ],
@@ -10470,9 +10702,10 @@
     ],
     "Seats": 10,
     "Price": -1,
-    "MonetaryValue": -1,
+    "MonetaryValue": 52000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_defaultspraypatch"
     ],
@@ -10523,9 +10756,10 @@
     ],
     "Seats": 10,
     "Price": -1,
-    "MonetaryValue": -1,
+    "MonetaryValue": 52000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -6.965898,
@@ -10573,9 +10807,10 @@
     ],
     "Seats": 1,
     "Price": -1,
-    "MonetaryValue": -1,
+    "MonetaryValue": 45000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "79_Stunt_modkit"
     ],
@@ -10623,6 +10858,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -10668,9 +10904,10 @@
     ],
     "Seats": 2,
     "Price": -1,
-    "MonetaryValue": -1,
+    "MonetaryValue": 10000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -0.688479,
@@ -10715,6 +10952,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -10765,6 +11003,7 @@
     "MonetaryValue": 22000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -10814,9 +11053,10 @@
     ],
     "Seats": 2,
     "Price": -1,
-    "MonetaryValue": -1,
+    "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": true,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.56663,
@@ -10860,9 +11100,10 @@
     ],
     "Seats": 2,
     "Price": -1,
-    "MonetaryValue": -1,
+    "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": true,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -10912,6 +11153,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "15_baller_modkit"
     ],
@@ -10962,6 +11204,7 @@
     "MonetaryValue": 22000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -11012,9 +11255,10 @@
     ],
     "Seats": 4,
     "Price": -1,
-    "MonetaryValue": -1,
+    "MonetaryValue": 45000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_defaultspraypatch"
     ],
@@ -11066,9 +11310,10 @@
     ],
     "Seats": 8,
     "Price": -1,
-    "MonetaryValue": -1,
+    "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": true,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.473078,
@@ -11118,9 +11363,10 @@
     ],
     "Seats": 4,
     "Price": -1,
-    "MonetaryValue": -1,
+    "MonetaryValue": 45000,
     "HasConvertibleRoof": true,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_defaultspraypatch"
     ],
@@ -11170,6 +11416,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -11218,6 +11465,7 @@
     "MonetaryValue": 10000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -0.618744,
@@ -11270,6 +11518,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.526685,
@@ -11323,6 +11572,7 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.324923,
@@ -11370,6 +11620,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "33_gresley_modkit"
     ],
@@ -11418,6 +11669,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "69_zion_modkit"
     ],
@@ -11466,6 +11718,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": true,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "70_zion2_modkit"
     ],
@@ -11514,6 +11767,7 @@
     "MonetaryValue": 20000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "10_barbarian_modkit"
     ],
@@ -11568,6 +11822,7 @@
     "MonetaryValue": 80000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_hiend_modkit"
     ],
@@ -11618,6 +11873,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "74_vacca_modkit"
     ],
@@ -11672,6 +11928,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.202107,
@@ -11721,6 +11978,7 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.116453,
@@ -11769,6 +12027,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_suv_modkit"
     ],
@@ -11821,6 +12080,7 @@
     "MonetaryValue": 22000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -11867,9 +12127,10 @@
     ],
     "Seats": 4,
     "Price": -1,
-    "MonetaryValue": -1,
+    "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": true,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -11921,6 +12182,7 @@
     "MonetaryValue": 110000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.643647,
@@ -11972,6 +12234,7 @@
     "MonetaryValue": 52000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -7.621952,
@@ -12023,6 +12286,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.526685,
@@ -12069,6 +12333,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_cvtgeabox_modkit"
     ],
@@ -12122,6 +12387,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "43_rebel_modkit"
     ],
@@ -12173,6 +12439,7 @@
     "MonetaryValue": 52000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -12.2815256,
@@ -12221,9 +12488,10 @@
     ],
     "Seats": 10,
     "Price": -1,
-    "MonetaryValue": -1,
+    "MonetaryValue": 45000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "80_Shamal_modkit"
     ],
@@ -12271,6 +12539,7 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.420679,
@@ -12317,6 +12586,7 @@
     "MonetaryValue": 12000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_bike_modkit"
     ],
@@ -12364,9 +12634,10 @@
     ],
     "Seats": 8,
     "Price": -1,
-    "MonetaryValue": -1,
+    "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": true,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -12420,6 +12691,7 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.272712,
@@ -12471,6 +12743,7 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.324923,
@@ -12517,6 +12790,7 @@
     "MonetaryValue": 12000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -0.195698,
@@ -12563,6 +12837,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "68_oracle2_modkit"
     ],
@@ -12612,6 +12887,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_suv_modkit"
     ],
@@ -12659,6 +12935,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "61_buffalo2_modkit"
     ],
@@ -12708,6 +12985,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_suv_modkit"
     ],
@@ -12761,6 +13039,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "64_coquette_modkit"
     ],
@@ -12811,6 +13090,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.501803,
@@ -12860,6 +13140,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_lowcar_modkit"
     ],
@@ -12909,6 +13190,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_suv_modkit"
     ],
@@ -12958,9 +13240,10 @@
     ],
     "Seats": 4,
     "Price": -1,
-    "MonetaryValue": -1,
+    "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": true,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -13015,9 +13298,10 @@
     ],
     "Seats": 10,
     "Price": -1,
-    "MonetaryValue": -1,
+    "MonetaryValue": 52000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_defaultspraypatch"
     ],
@@ -13068,6 +13352,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -13115,9 +13400,10 @@
     ],
     "Seats": 2,
     "Price": -1,
-    "MonetaryValue": -1,
+    "MonetaryValue": 12000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "78_sanchez_modkit"
     ],
@@ -13172,6 +13458,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.616152,
@@ -13220,6 +13507,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_suv_modkit"
     ],
@@ -13268,6 +13556,7 @@
     "MonetaryValue": 15000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -0.717695,
@@ -13310,9 +13599,10 @@
     ],
     "Seats": 2,
     "Price": -1,
-    "MonetaryValue": -1,
+    "MonetaryValue": 70000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "13_ztype_modkit"
     ],
@@ -13361,9 +13651,12 @@
     ],
     "Seats": 4,
     "Price": -1,
-    "MonetaryValue": -1,
+    "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_RADAR"
+    ],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.738679,
@@ -13417,6 +13710,7 @@
     "MonetaryValue": 22000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -13468,6 +13762,7 @@
     "MonetaryValue": 22000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -13520,6 +13815,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "35_bjxl_modkit"
     ],
@@ -13575,6 +13871,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.427031,
@@ -13623,6 +13920,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_suv_modkit"
     ],
@@ -13672,6 +13970,7 @@
     "MonetaryValue": 12000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_bike_modkit"
     ],
@@ -13726,6 +14025,10 @@
     "MonetaryValue": 45000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_PLAYER_LAZER",
+      "VEHICLE_WEAPON_PLANE_ROCKET"
+    ],
     "ModKits": [
       "0_defaultspraypatch"
     ],
@@ -13775,6 +14078,7 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -0.61977,
@@ -13822,6 +14126,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_suv_modkit"
     ],
@@ -13868,9 +14173,10 @@
     ],
     "Seats": 4,
     "Price": -1,
-    "MonetaryValue": -1,
+    "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": true,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -13920,9 +14226,10 @@
     ],
     "Seats": 8,
     "Price": -1,
-    "MonetaryValue": -1,
+    "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": true,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -13979,6 +14286,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -14034,6 +14342,9 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_TANK"
+    ],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.796232,
@@ -14085,6 +14396,7 @@
     "MonetaryValue": 22000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -14134,6 +14446,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -0.931507,
@@ -14183,6 +14496,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -0.99043,
@@ -14231,6 +14545,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_suv_modkit"
     ],
@@ -14283,6 +14598,9 @@
     "MonetaryValue": 52000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_SEARCHLIGHT"
+    ],
     "ModKits": [],
     "DimensionsMin": {
       "X": -5.227944,
@@ -14331,6 +14649,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "57_hotknife_modkit"
     ],
@@ -14378,6 +14697,7 @@
     "MonetaryValue": 100000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "31_elegy2_modkit"
     ],
@@ -14428,6 +14748,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "48_khamelion_modkit"
     ],
@@ -14477,6 +14798,7 @@
     "MonetaryValue": 20000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_bike_modkit"
     ],
@@ -14526,6 +14848,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.175582,
@@ -14574,6 +14897,7 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -2.162627,
@@ -14623,6 +14947,7 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.796884,
@@ -14668,9 +14993,10 @@
     ],
     "Seats": 2,
     "Price": -1,
-    "MonetaryValue": -1,
+    "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.496147,
@@ -14719,6 +15045,7 @@
     "MonetaryValue": 12000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -14765,9 +15092,10 @@
     ],
     "Seats": 2,
     "Price": -1,
-    "MonetaryValue": -1,
+    "MonetaryValue": 12000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "78_sanchez_modkit"
     ],
@@ -14813,9 +15141,10 @@
     ],
     "Seats": 2,
     "Price": 9464,
-    "MonetaryValue": -1,
+    "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "83_bifta_modkit"
     ],
@@ -14863,9 +15192,10 @@
     ],
     "Seats": 4,
     "Price": 62856,
-    "MonetaryValue": -1,
+    "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.278216,
@@ -14914,9 +15244,10 @@
     ],
     "Seats": 2,
     "Price": 40000,
-    "MonetaryValue": -1,
+    "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "84_kalahari_modkit"
     ],
@@ -14967,9 +15298,10 @@
     ],
     "Seats": 4,
     "Price": 25000,
-    "MonetaryValue": -1,
+    "MonetaryValue": 22000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "85_paradise_modkit"
     ],
@@ -15022,6 +15354,7 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -2.612972,
@@ -15072,6 +15405,7 @@
     "MonetaryValue": 45000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_defaultspraypatch"
     ],
@@ -15120,6 +15454,7 @@
     "MonetaryValue": 500000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "149_marshall_modkit"
     ],
@@ -15173,6 +15508,7 @@
     "MonetaryValue": 52000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -7.621952,
@@ -15219,6 +15555,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "152_dukes_modkit"
     ],
@@ -15268,6 +15605,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -15315,6 +15653,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "150_buffalo3_modkit"
     ],
@@ -15364,6 +15703,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "151_dominator2_modkit"
     ],
@@ -15415,6 +15755,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -15463,6 +15804,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -15511,6 +15853,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -15558,6 +15901,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "154_blista2_modkit"
     ],
@@ -15605,6 +15949,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "155_blista3_modkit"
     ],
@@ -15654,6 +15999,7 @@
     "MonetaryValue": 70000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -15700,9 +16046,10 @@
     ],
     "Seats": 2,
     "Price": 100,
-    "MonetaryValue": -1,
+    "MonetaryValue": 80000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "86_jester_modkit"
     ],
@@ -15750,9 +16097,10 @@
     ],
     "Seats": 2,
     "Price": 100,
-    "MonetaryValue": -1,
+    "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "88_turismor_modkit"
     ],
@@ -15799,9 +16147,10 @@
     ],
     "Seats": 4,
     "Price": 100,
-    "MonetaryValue": -1,
+    "MonetaryValue": 80000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "91_alpha_modkit"
     ],
@@ -15854,9 +16203,10 @@
     ],
     "Seats": 2,
     "Price": 100,
-    "MonetaryValue": -1,
+    "MonetaryValue": 45000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_defaultspraypatch"
     ],
@@ -15903,9 +16253,10 @@
     ],
     "Seats": 2,
     "Price": 100,
-    "MonetaryValue": -1,
+    "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "89_zentorno_modkit"
     ],
@@ -15952,9 +16303,10 @@
     ],
     "Seats": 2,
     "Price": 100,
-    "MonetaryValue": -1,
+    "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "87_massacaro_modkit"
     ],
@@ -16001,9 +16353,10 @@
     ],
     "Seats": 4,
     "Price": 100,
-    "MonetaryValue": -1,
+    "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "90_huntley_modkit"
     ],
@@ -16052,6 +16405,7 @@
     "MonetaryValue": 12000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "96_thrust_modkit"
     ],
@@ -16097,6 +16451,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "97_rhapsody_modkit"
     ],
@@ -16141,9 +16496,10 @@
     ],
     "Seats": 4,
     "Price": 100,
-    "MonetaryValue": -1,
+    "MonetaryValue": 100000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "98_warrener_modkit"
     ],
@@ -16189,9 +16545,10 @@
     ],
     "Seats": 2,
     "Price": 100,
-    "MonetaryValue": -1,
+    "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "99_blade_modkit"
     ],
@@ -16237,6 +16594,7 @@
     "MonetaryValue": 100000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "100_glendale_modkit"
     ],
@@ -16284,6 +16642,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "102_panto_modkit"
     ],
@@ -16333,6 +16692,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "103_dubsta3_modkit"
     ],
@@ -16380,6 +16740,7 @@
     "MonetaryValue": 100000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "104_pigalle_modkit"
     ],
@@ -16429,6 +16790,7 @@
     "MonetaryValue": 500000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_bike_modkit"
     ],
@@ -16479,6 +16841,7 @@
     "MonetaryValue": 12000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_bike_modkit"
     ],
@@ -16531,6 +16894,7 @@
     "MonetaryValue": 45000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_defaultspraypatch"
     ],
@@ -16583,6 +16947,7 @@
     "MonetaryValue": 45000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_defaultspraypatch"
     ],
@@ -16633,6 +16998,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "105_coquette2_modkit"
     ],
@@ -16687,6 +17053,9 @@
     "MonetaryValue": 52000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_SEARCHLIGHT"
+    ],
     "ModKits": [
       "106_swift_modkit"
     ],
@@ -16735,6 +17104,7 @@
     "MonetaryValue": 12000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_bike_modkit"
     ],
@@ -16782,6 +17152,7 @@
     "MonetaryValue": 20000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_bike_modkit"
     ],
@@ -16831,6 +17202,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -16876,6 +17248,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "159_slamvan_modkit"
     ],
@@ -16926,6 +17299,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "158_ratloader2_modkit"
     ],
@@ -16975,6 +17349,7 @@
     "MonetaryValue": 80000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "156_jester2_modkit"
     ],
@@ -17024,6 +17399,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "157_massacaro2_modkit"
     ],
@@ -17075,6 +17451,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.320839,
@@ -17121,9 +17498,10 @@
     ],
     "Seats": 4,
     "Price": -1,
-    "MonetaryValue": -1,
+    "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.632233,
@@ -17170,9 +17548,10 @@
     ],
     "Seats": 5,
     "Price": 100,
-    "MonetaryValue": -1,
+    "MonetaryValue": 45000,
     "HasConvertibleRoof": true,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_defaultspraypatch"
     ],
@@ -17224,6 +17603,7 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.419469,
@@ -17272,6 +17652,7 @@
     "MonetaryValue": 12000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "109_enduro_modkit"
     ],
@@ -17328,6 +17709,10 @@
     "MonetaryValue": 52000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_PLAYER_SAVAGE",
+      "VEHICLE_WEAPON_SPACE_ROCKET"
+    ],
     "ModKits": [
       "0_defaultspraypatch"
     ],
@@ -17378,6 +17763,7 @@
     "MonetaryValue": 130000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -17431,6 +17817,9 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_TURRET_TECHNICAL"
+    ],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -17488,6 +17877,9 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_TURRET_INSURGENT"
+    ],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -17539,6 +17931,9 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_TURRET_INSURGENT"
+    ],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -17592,6 +17987,10 @@
     "MonetaryValue": 45000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_PLAYER_LAZER",
+      "VEHICLE_WEAPON_SPACE_ROCKET"
+    ],
     "ModKits": [
       "0_defaultspraypatch"
     ],
@@ -17645,6 +18044,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.202107,
@@ -17687,9 +18087,10 @@
     ],
     "Seats": 4,
     "Price": 100,
-    "MonetaryValue": -1,
+    "MonetaryValue": 22000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "107_gburrito2_modkit"
     ],
@@ -17744,6 +18145,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "108_guardian_modkit"
     ],
@@ -17796,6 +18198,9 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_SEARCHLIGHT"
+    ],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.428359,
@@ -17842,6 +18247,7 @@
     "MonetaryValue": 20000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_bike_modkit"
     ],
@@ -17888,6 +18294,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "110_kuruma_modkit"
     ],
@@ -17935,6 +18342,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "110_kuruma_modkit"
     ],
@@ -17985,6 +18393,7 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.284085,
@@ -18036,6 +18445,10 @@
     "MonetaryValue": 52000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_NOSE_TURRET_VALKYRIE",
+      "VEHICLE_WEAPON_TURRET_VALKYRIE"
+    ],
     "ModKits": [
       "0_defaultspraypatch"
     ],
@@ -18086,6 +18499,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "159_slamvan_modkit"
     ],
@@ -18141,6 +18555,9 @@
     "MonetaryValue": 52000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_SEARCHLIGHT"
+    ],
     "ModKits": [
       "106_swift_modkit"
     ],
@@ -18192,9 +18609,10 @@
     ],
     "Seats": 8,
     "Price": 100,
-    "MonetaryValue": -1,
+    "MonetaryValue": 45000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_defaultspraypatch"
     ],
@@ -18248,6 +18666,7 @@
     "MonetaryValue": 30000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "168_feltzer3_modkit"
     ],
@@ -18297,6 +18716,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "160_osiris_modkit"
     ],
@@ -18345,6 +18765,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "164_virgo_modkit"
     ],
@@ -18394,6 +18815,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "167_windsor_modkit"
     ],
@@ -18444,6 +18866,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "166_coquette3_modkit"
     ],
@@ -18492,6 +18915,7 @@
     "MonetaryValue": 12000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "162_vindicator_modkit"
     ],
@@ -18541,6 +18965,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "161_t20_modkit"
     ],
@@ -18595,6 +19020,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "163_brawler_modkit"
     ],
@@ -18649,6 +19075,7 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -18698,6 +19125,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "165_chino_modkit"
     ],
@@ -18749,6 +19177,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "153_buccaneer_modkit"
     ],
@@ -18795,6 +19224,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "112_voodoo_modkit"
     ],
@@ -18843,6 +19273,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -18892,6 +19323,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "111_faction2_modkit"
     ],
@@ -18941,6 +19373,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -18991,6 +19424,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "115_moonbeam2_modkit"
     ],
@@ -19040,6 +19474,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "114_primo2_modkit"
     ],
@@ -19090,6 +19525,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "117_chino2_modkit"
     ],
@@ -19139,6 +19575,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "116_lurcher_modkit"
     ],
@@ -19189,6 +19626,7 @@
     "MonetaryValue": 70000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "118_btype2_modkit"
     ],
@@ -19236,6 +19674,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "121_verlierer2_modkit"
     ],
@@ -19286,6 +19725,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "125_mamba_modkit"
     ],
@@ -19335,6 +19775,7 @@
     "MonetaryValue": 130000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "122_nightshade_modkit"
     ],
@@ -19384,6 +19825,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -19436,6 +19878,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -19485,6 +19928,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -19537,6 +19981,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -19585,6 +20030,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "123_schafter3_modkit"
     ],
@@ -19633,6 +20079,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "124_schafter4_modkit"
     ],
@@ -19684,6 +20131,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "126_schafter5_modkit"
     ],
@@ -19735,6 +20183,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "127_schafter6_modkit"
     ],
@@ -19790,6 +20239,9 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_TURRET_LIMO"
+    ],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -19839,6 +20291,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -19888,6 +20341,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -19940,6 +20394,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -19992,6 +20447,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -20041,6 +20497,7 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -0.61977,
@@ -20091,6 +20548,9 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_SEARCHLIGHT"
+    ],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.428359,
@@ -20141,6 +20601,7 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.284723,
@@ -20186,9 +20647,10 @@
     ],
     "Seats": 4,
     "Price": 100,
-    "MonetaryValue": -1,
+    "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.27807,
@@ -20241,6 +20703,7 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -20291,9 +20754,10 @@
     ],
     "Seats": 10,
     "Price": 100,
-    "MonetaryValue": -1,
+    "MonetaryValue": 52000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -6.965898,
@@ -20345,6 +20809,9 @@
     "MonetaryValue": 52000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_SEARCHLIGHT"
+    ],
     "ModKits": [
       "0_defaultspraypatch"
     ],
@@ -20398,6 +20865,9 @@
     "MonetaryValue": 52000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_SEARCHLIGHT"
+    ],
     "ModKits": [
       "0_defaultspraypatch"
     ],
@@ -20451,6 +20921,9 @@
     "MonetaryValue": 52000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_TURRET_VALKYRIE"
+    ],
     "ModKits": [],
     "DimensionsMin": {
       "X": -8.189314,
@@ -20501,6 +20974,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "25_tampa_modkit"
     ],
@@ -20548,6 +21022,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "130_sultanrs_modkit"
     ],
@@ -20599,6 +21074,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "131_banshee2_modkit"
     ],
@@ -20646,6 +21122,7 @@
     "MonetaryValue": 70000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "148_btype3_modkit"
     ],
@@ -20695,6 +21172,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "147_faction3_modkit"
     ],
@@ -20746,6 +21224,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "132_minivan2_modkit"
     ],
@@ -20795,6 +21274,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "172_sab2_modkit"
     ],
@@ -20841,6 +21321,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "171_slamvan3_modkit"
     ],
@@ -20891,6 +21372,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": true,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "113_tornado5_modkit"
     ],
@@ -20940,6 +21422,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "119_virgo2_modkit"
     ],
@@ -20988,6 +21471,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -21042,6 +21526,7 @@
     "MonetaryValue": 45000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_defaultspraypatch"
     ],
@@ -21091,6 +21576,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -21143,6 +21629,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -21194,6 +21681,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "137_seven70_modkit"
     ],
@@ -21244,6 +21732,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "139_reaper_modkit"
     ],
@@ -21295,6 +21784,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "138_fmj_modkit"
     ],
@@ -21345,9 +21835,10 @@
     ],
     "Seats": 2,
     "Price": 100,
-    "MonetaryValue": -1,
+    "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "134_811_modkit"
     ],
@@ -21399,6 +21890,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "133_bestia_modkit"
     ],
@@ -21450,6 +21942,7 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -21502,6 +21995,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -21553,6 +22047,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "135_prototipo_modkit"
     ],
@@ -21602,6 +22097,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": true,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "136_windsor2_modkit"
     ],
@@ -21656,6 +22152,9 @@
     "MonetaryValue": 52000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_SEARCHLIGHT"
+    ],
     "ModKits": [
       "0_defaultspraypatch"
     ],
@@ -21708,6 +22207,7 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.028714,
@@ -21757,6 +22257,7 @@
     "MonetaryValue": 12000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "173_gargoyle_modkit"
     ],
@@ -21806,6 +22307,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "141_omnis_modkit"
     ],
@@ -21855,6 +22357,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "179_sheava_modkit"
     ],
@@ -21903,6 +22406,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "146_tyrus_modkit"
     ],
@@ -21953,6 +22457,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "178_le7b_modkit"
     ],
@@ -22001,6 +22506,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "142_lynx_modkit"
     ],
@@ -22050,6 +22556,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "145_tropos_modkit"
     ],
@@ -22098,6 +22605,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "143_tampa2_modkit"
     ],
@@ -22145,6 +22653,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "140_brioso_modkit"
     ],
@@ -22194,6 +22703,7 @@
     "MonetaryValue": 12000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "174_bf400_modkit"
     ],
@@ -22243,6 +22753,7 @@
     "MonetaryValue": 12000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "175_cliffhanger_modkit"
     ],
@@ -22291,6 +22802,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -22343,6 +22855,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "144_trophytruck_modkit"
     ],
@@ -22395,6 +22908,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "176_trophytruck2_modkit"
     ],
@@ -22443,6 +22957,7 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "177_rallytruck_modkit"
     ],
@@ -22490,6 +23005,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "196_tornado6_modkit"
     ],
@@ -22539,6 +23055,7 @@
     "MonetaryValue": 12000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -22588,6 +23105,7 @@
     "MonetaryValue": 20000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "190_vortex_modkit"
     ],
@@ -22636,6 +23154,7 @@
     "MonetaryValue": 12000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "182_avarus_modkit"
     ],
@@ -22684,6 +23203,7 @@
     "MonetaryValue": 12000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "194_sanctus_modkit"
     ],
@@ -22733,6 +23253,7 @@
     "MonetaryValue": 12000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "197_faggio3_modkit"
     ],
@@ -22782,6 +23303,7 @@
     "MonetaryValue": 12000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_bike_modkit"
     ],
@@ -22829,6 +23351,7 @@
     "MonetaryValue": 20000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "191_hakuchou2_modkit"
     ],
@@ -22877,6 +23400,7 @@
     "MonetaryValue": 12000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "185_nightblade_modkit"
     ],
@@ -22926,6 +23450,7 @@
     "MonetaryValue": 22000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "198_youga2_modkit"
     ],
@@ -22977,6 +23502,7 @@
     "MonetaryValue": 12000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "188_chimera_modkit"
     ],
@@ -23025,6 +23551,7 @@
     "MonetaryValue": 12000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "195_esskey_modkit"
     ],
@@ -23073,6 +23600,7 @@
     "MonetaryValue": 12000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "180_zombiea_modkit"
     ],
@@ -23121,6 +23649,7 @@
     "MonetaryValue": 12000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "189_wolfsbane_modkit"
     ],
@@ -23169,6 +23698,7 @@
     "MonetaryValue": 12000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "186_daemon2_modkit"
     ],
@@ -23217,6 +23747,7 @@
     "MonetaryValue": 20000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "199_shotaro_modkit"
     ],
@@ -23268,6 +23799,7 @@
     "MonetaryValue": 12000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "187_ratbike_modkit"
     ],
@@ -23316,6 +23848,7 @@
     "MonetaryValue": 12000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "181_zombieb_modkit"
     ],
@@ -23365,6 +23898,7 @@
     "MonetaryValue": 20000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "183_defiler_modkit"
     ],
@@ -23413,6 +23947,7 @@
     "MonetaryValue": 12000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "193_manchez_modkit"
     ],
@@ -23463,6 +23998,7 @@
     "MonetaryValue": 12000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "192_blazer4_modkit"
     ],
@@ -23513,6 +24049,7 @@
     "MonetaryValue": 80000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "206_nero_modkit"
     ],
@@ -23565,6 +24102,7 @@
     "MonetaryValue": 80000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "212_nero2_modkit"
     ],
@@ -23612,6 +24150,7 @@
     "MonetaryValue": 100000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "211_elegy1_modkit"
     ],
@@ -23661,6 +24200,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "207_italigtb_modkit"
     ],
@@ -23710,6 +24250,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "208_italigtb2_modkit"
     ],
@@ -23759,6 +24300,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "210_tempesta_modkit"
     ],
@@ -23806,6 +24348,7 @@
     "MonetaryValue": 12000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -23856,6 +24399,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "216_specter_modkit"
     ],
@@ -23906,6 +24450,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "214_specter2_modkit"
     ],
@@ -23954,6 +24499,7 @@
     "MonetaryValue": 12000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "209_diablous2_modkit"
     ],
@@ -24006,6 +24552,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "213_comet3_modkit"
     ],
@@ -24056,6 +24603,9 @@
     "MonetaryValue": 12000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_CANNON_BLAZER"
+    ],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -24107,6 +24657,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_no_lower"
     ],
@@ -24158,6 +24709,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_no_lower"
     ],
@@ -24213,6 +24765,10 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_RUINER_BULLET",
+      "VEHICLE_WEAPON_RUINER_ROCKET"
+    ],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -24265,6 +24821,7 @@
     "MonetaryValue": 80000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "215_voltic2_modkit"
     ],
@@ -24319,6 +24876,7 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -24378,6 +24936,9 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_TURRET_BOXVILLE"
+    ],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -24427,6 +24988,7 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -24480,6 +25042,9 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_TURRET_TECHNICAL"
+    ],
     "ModKits": [
       "0_default_no_lower"
     ],
@@ -24529,6 +25094,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "205_penetrator_modkit"
     ],
@@ -24578,6 +25144,7 @@
     "MonetaryValue": 20000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "202_fcr_modkit"
     ],
@@ -24629,6 +25196,7 @@
     "MonetaryValue": 20000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "204_fcr2_modkit"
     ],
@@ -24681,6 +25249,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -24734,6 +25303,7 @@
     "MonetaryValue": 100000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "225_turismo2_modkit"
     ],
@@ -24786,6 +25356,7 @@
     "MonetaryValue": 100000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "221_infernus2_modkit"
     ],
@@ -24835,6 +25406,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "223_gp1_modkit"
     ],
@@ -24885,6 +25457,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "217_ruston_modkit"
     ],
@@ -24932,6 +25505,7 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -1.317642,
@@ -24982,6 +25556,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "237_xa21_modkit"
     ],
@@ -25033,6 +25608,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "236_vagner_modkit"
     ],
@@ -25082,6 +25658,7 @@
     "MonetaryValue": 10000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [],
     "DimensionsMin": {
       "X": -0.620836,
@@ -25135,6 +25712,7 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -25189,6 +25767,9 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_NIGHTSHARK_MG"
+    ],
     "ModKits": [
       "235_nightshark_modkit"
     ],
@@ -25238,6 +25819,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "218_cheetah2_modkit"
     ],
@@ -25291,6 +25873,7 @@
     "MonetaryValue": 100000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "224_torero_modkit"
     ],
@@ -25346,6 +25929,7 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -25396,6 +25980,9 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_MOBILEOPS_CANNON"
+    ],
     "ModKits": [
       "234_trailerlarge_modkit"
     ],
@@ -25451,6 +26038,10 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_TURRET_TECHNICAL",
+      "VEHICLE_WEAPON_TECHNICAL_MINIGUN"
+    ],
     "ModKits": [
       "230_technical3_modkit"
     ],
@@ -25503,6 +26094,12 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_TAMPA_MISSILE",
+      "VEHICLE_WEAPON_TAMPA_MORTAR",
+      "VEHICLE_WEAPON_TAMPA_FIXEDMINIGUN",
+      "VEHICLE_WEAPON_TAMPA_DUALMINIGUN"
+    ],
     "ModKits": [
       "219_tampa3_modkit"
     ],
@@ -25561,6 +26158,10 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_TURRET_INSURGENT",
+      "VEHICLE_WEAPON_INSURGENT_MINIGUN"
+    ],
     "ModKits": [
       "222_insurgent3_modkit"
     ],
@@ -25623,6 +26224,11 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_APC_CANNON",
+      "VEHICLE_WEAPON_APC_MISSILE",
+      "VEHICLE_WEAPON_APC_MG"
+    ],
     "ModKits": [
       "226_apc_modkit"
     ],
@@ -25681,6 +26287,10 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_HALFTRACK_DUALMG",
+      "VEHICLE_WEAPON_HALFTRACK_QUADMG"
+    ],
     "ModKits": [
       "227_halftrack_modkit"
     ],
@@ -25736,6 +26346,11 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_DUNE_MG",
+      "VEHICLE_WEAPON_DUNE_GRENADELAUNCHER",
+      "VEHICLE_WEAPON_DUNE_MINIGUN"
+    ],
     "ModKits": [
       "228_dune3_modkit"
     ],
@@ -25792,6 +26407,11 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_TRAILER_QUADMG",
+      "VEHICLE_WEAPON_TRAILER_MISSILE",
+      "VEHICLE_WEAPON_TRAILER_DUALAA"
+    ],
     "ModKits": [
       "233_trsmall2_modkit"
     ],
@@ -25841,6 +26461,9 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_ARDENT_MG"
+    ],
     "ModKits": [
       "220_ardent_modkit"
     ],
@@ -25894,6 +26517,10 @@
     "MonetaryValue": 20000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_OPPRESSOR_MG",
+      "VEHICLE_WEAPON_OPPRESSOR_MISSILE"
+    ],
     "ModKits": [
       "232_oppressor_modkit"
     ],
@@ -25948,6 +26575,10 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_VIGILANTE_MG",
+      "VEHICLE_WEAPON_VIGILANTE_MISSILE"
+    ],
     "ModKits": [
       "120_vigilante_modkit"
     ],
@@ -26010,6 +26641,10 @@
     "MonetaryValue": 45000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_BOMBUSHKA_DUALMG",
+      "VEHICLE_WEAPON_BOMBUSHKA_CANNON"
+    ],
     "ModKits": [
       "243_bombushka_modkit"
     ],
@@ -26061,6 +26696,7 @@
     "MonetaryValue": 45000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "129_howard_modkit"
     ],
@@ -26111,6 +26747,7 @@
     "MonetaryValue": 45000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "242_alphaz1_modkit"
     ],
@@ -26163,6 +26800,9 @@
     "MonetaryValue": 45000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_SEABREEZE_MG"
+    ],
     "ModKits": [
       "245_seabreeze_modkit"
     ],
@@ -26214,6 +26854,10 @@
     "MonetaryValue": 45000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_DOGFIGHTER_MG",
+      "VEHICLE_WEAPON_DOGFIGHTER_MISSILE"
+    ],
     "ModKits": [
       "248_nokota_modkit"
     ],
@@ -26267,6 +26911,10 @@
     "MonetaryValue": 45000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_DOGFIGHTER_MG",
+      "VEHICLE_WEAPON_DOGFIGHTER_MISSILE"
+    ],
     "ModKits": [
       "249_molotok_modkit"
     ],
@@ -26320,6 +26968,10 @@
     "MonetaryValue": 45000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_DOGFIGHTER_MG",
+      "VEHICLE_WEAPON_DOGFIGHTER_MISSILE"
+    ],
     "ModKits": [
       "241_starling_modkit"
     ],
@@ -26372,6 +27024,9 @@
     "MonetaryValue": 52000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_HAVOK_MINIGUN"
+    ],
     "ModKits": [
       "238_havok_modkit"
     ],
@@ -26430,6 +27085,12 @@
     "MonetaryValue": 45000,
     "HasConvertibleRoof": true,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_TULA_NOSEMG",
+      "VEHICLE_WEAPON_TULA_MG",
+      "VEHICLE_WEAPON_TULA_DUALMG",
+      "VEHICLE_WEAPON_TULA_MINIGUN"
+    ],
     "ModKits": [
       "244_tula_modkit"
     ],
@@ -26486,6 +27147,9 @@
     "MonetaryValue": 45000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_MICROLIGHT_MG"
+    ],
     "ModKits": [
       "253_microlight_modkit"
     ],
@@ -26545,6 +27209,12 @@
     "MonetaryValue": 52000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_HUNTER_MG",
+      "VEHICLE_WEAPON_HUNTER_MISSILE",
+      "VEHICLE_WEAPON_HUNTER_CANNON",
+      "VEHICLE_WEAPON_HUNTER_BARRAGE"
+    ],
     "ModKits": [
       "247_hunter_modkit"
     ],
@@ -26599,6 +27269,11 @@
     "MonetaryValue": 45000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_ROGUE_MG",
+      "VEHICLE_WEAPON_ROGUE_CANNON",
+      "VEHICLE_WEAPON_ROGUE_MISSILE"
+    ],
     "ModKits": [
       "239_rogue_modkit"
     ],
@@ -26652,6 +27327,10 @@
     "MonetaryValue": 45000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_DOGFIGHTER_MG",
+      "VEHICLE_WEAPON_DOGFIGHTER_MISSILE"
+    ],
     "ModKits": [
       "246_pyro_modkit"
     ],
@@ -26700,6 +27379,7 @@
     "MonetaryValue": 100000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "260_rapidgt3_modkit"
     ],
@@ -26759,6 +27439,12 @@
     "MonetaryValue": 45000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_MOGUL_NOSE",
+      "VEHICLE_WEAPON_MOGUL_DUALNOSE",
+      "VEHICLE_WEAPON_MOGUL_TURRET",
+      "VEHICLE_WEAPON_MOGUL_DUALTURRET"
+    ],
     "ModKits": [
       "240_mogul_modkit"
     ],
@@ -26807,6 +27493,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "252_retinue_modkit"
     ],
@@ -26858,6 +27545,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "254_cyclone_modkit"
     ],
@@ -26910,6 +27598,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "111_visione_modkit"
     ],
@@ -26961,6 +27650,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "279_comet5_modkit"
     ],
@@ -27009,6 +27699,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "280_raiden_modkit"
     ],
@@ -27062,6 +27753,9 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_VISERIS_MG"
+    ],
     "ModKits": [
       "278_viseris_modkit"
     ],
@@ -27112,6 +27806,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "273_riata_modkit"
     ],
@@ -27164,6 +27859,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "282_kamacho_modkit"
     ],
@@ -27214,6 +27910,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "277_sc1_modkit"
     ],
@@ -27262,6 +27959,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "270_autarch_modkit"
     ],
@@ -27310,6 +28008,9 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_SAVESTRA_MG"
+    ],
     "ModKits": [
       "169_savestra_modkit"
     ],
@@ -27364,6 +28065,9 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_COMET_MG"
+    ],
     "ModKits": [
       "262_comet4_modkit"
     ],
@@ -27413,6 +28117,7 @@
     "MonetaryValue": 130000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "264_gt500_modkit"
     ],
@@ -27461,6 +28166,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "261_neon_modkit"
     ],
@@ -27507,6 +28213,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "258_yosemite_modkit"
     ],
@@ -27554,6 +28261,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "268_hermes_modkit"
     ],
@@ -27602,6 +28310,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "272_hustler_modkit"
     ],
@@ -27650,6 +28359,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "266_sentinel3_modkit"
     ],
@@ -27698,9 +28408,10 @@
     ],
     "Seats": 2,
     "Price": 100,
-    "MonetaryValue": -1,
+    "MonetaryValue": 130000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "276_z190_modkit"
     ],
@@ -27759,6 +28470,12 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_KHANJALI_CANNON",
+      "VEHICLE_WEAPON_KHANJALI_CANNON_HEAVY",
+      "VEHICLE_WEAPON_KHANJALI_MG",
+      "VEHICLE_WEAPON_KHANJALI_GL"
+    ],
     "ModKits": [
       "265_khanjali_modkit"
     ],
@@ -27815,6 +28532,13 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_BARRAGE_TOP_MG",
+      "VEHICLE_WEAPON_BARRAGE_TOP_MINIGUN",
+      "VEHICLE_WEAPON_BARRAGE_REAR_MG",
+      "VEHICLE_WEAPON_BARRAGE_REAR_MINIGUN",
+      "VEHICLE_WEAPON_BARRAGE_REAR_GL"
+    ],
     "ModKits": [
       "263_barrage_modkit"
     ],
@@ -27872,6 +28596,9 @@
     "MonetaryValue": 45000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_VOLATOL_DUALMG"
+    ],
     "ModKits": [
       "281_volatol_modkit"
     ],
@@ -27933,6 +28660,13 @@
     "MonetaryValue": 52000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_AKULA_TURRET_SINGLE",
+      "VEHICLE_WEAPON_AKULA_MISSILE",
+      "VEHICLE_WEAPON_AKULA_TURRET_DUAL",
+      "VEHICLE_WEAPON_AKULA_MINIGUN",
+      "VEHICLE_WEAPON_AKULA_BARRAGE"
+    ],
     "ModKits": [
       "256_akula_modkit"
     ],
@@ -27995,6 +28729,9 @@
     "MonetaryValue": 45000,
     "HasConvertibleRoof": true,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_AVENGER_CANNON"
+    ],
     "ModKits": [
       "257_avenger_modkit"
     ],
@@ -28054,6 +28791,9 @@
     "MonetaryValue": 45000,
     "HasConvertibleRoof": true,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_AVENGER_CANNON"
+    ],
     "ModKits": [
       "257_avenger_modkit"
     ],
@@ -28109,6 +28849,10 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_DELUXO_MG",
+      "VEHICLE_WEAPON_DELUXO_MISSILE"
+    ],
     "ModKits": [
       "165_deluxo_modkit"
     ],
@@ -28161,6 +28905,11 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": true,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_SUBCAR_MG",
+      "VEHICLE_WEAPON_SUBCAR_MISSILE",
+      "VEHICLE_WEAPON_SUBCAR_TORPEDO"
+    ],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -28221,6 +28970,9 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_CHERNO_MISSILE"
+    ],
     "ModKits": [
       "231_chernobog_modkit"
     ],
@@ -28279,6 +29031,9 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": true,
+    "Weapons": [
+      "VEHICLE_WEAPON_WATER_CANNON"
+    ],
     "ModKits": [
       "259_riot2_modkit"
     ],
@@ -28334,6 +29089,10 @@
     "MonetaryValue": 52000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_THRUSTER_MG",
+      "VEHICLE_WEAPON_THRUSTER_MISSILE"
+    ],
     "ModKits": [
       "260_thruster_modkit"
     ],
@@ -28386,6 +29145,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "267_streiter_modkit"
     ],
@@ -28437,6 +29197,9 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_REVOLTER_MG"
+    ],
     "ModKits": [
       "269_revolter_modkit"
     ],
@@ -28485,6 +29248,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "274_pariah_modkit"
     ],
@@ -28539,6 +29303,10 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_CARACARA_MG",
+      "VEHICLE_WEAPON_CARACARA_MINIGUN"
+    ],
     "ModKits": [
       "292_caracara_modkit"
     ],
@@ -28593,6 +29361,10 @@
     "MonetaryValue": 52000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_HAVOK_MINIGUN",
+      "VEHICLE_WEAPON_SPACE_ROCKET"
+    ],
     "ModKits": [
       "295_seasparrow_modkit"
     ],
@@ -28645,6 +29417,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "299_entity2_modkit"
     ],
@@ -28695,6 +29468,7 @@
     "MonetaryValue": 80000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "300_jester3_modkit"
     ],
@@ -28747,6 +29521,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "297_tyrant_modkit"
     ],
@@ -28796,6 +29571,7 @@
     "MonetaryValue": 100000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "296_dominator3_modkit"
     ],
@@ -28844,6 +29620,7 @@
     "MonetaryValue": 100000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "290_hotring_modkit"
     ],
@@ -28897,6 +29674,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "293_flashgt_modkit"
     ],
@@ -28948,6 +29726,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "291_tezeract_modkit"
     ],
@@ -28996,6 +29775,7 @@
     "MonetaryValue": 100000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "286_ellie_modkit"
     ],
@@ -29043,6 +29823,7 @@
     "MonetaryValue": 130000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "285_michelli_modkit"
     ],
@@ -29092,6 +29873,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "283_gb200_modkit"
     ],
@@ -29142,6 +29924,7 @@
     "MonetaryValue": 52000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "287_issi3_modkit"
     ],
@@ -29191,6 +29974,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "298_taipan_modkit"
     ],
@@ -29237,6 +30021,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "284_fagaloa_modkit"
     ],
@@ -29287,6 +30072,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "294_cheburek_modkit"
     ],
@@ -29335,6 +30121,7 @@
     "MonetaryValue": 70000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "310_stafford_modkit"
     ],
@@ -29388,6 +30175,10 @@
     "MonetaryValue": 130000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_SCRAMJET_MG",
+      "VEHICLE_WEAPON_SCRAMJET_MISSILE"
+    ],
     "ModKits": [
       "314_scramjet_modkit"
     ],
@@ -29443,6 +30234,11 @@
     "MonetaryValue": 45000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_STRIKEFORCE_CANNON",
+      "VEHICLE_WEAPON_STRIKEFORCE_MISSILE",
+      "VEHICLE_WEAPON_STRIKEFORCE_BARRAGE"
+    ],
     "ModKits": [
       "308_strikeforce_modkit"
     ],
@@ -29499,6 +30295,10 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_HACKER_MISSILE",
+      "VEHICLE_WEAPON_HACKER_MISSILE_HOMING"
+    ],
     "ModKits": [
       "0_default_modkit"
     ],
@@ -29551,6 +30351,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": true,
+    "Weapons": [],
     "ModKits": [
       "313_pbus2_modkit"
     ],
@@ -29611,6 +30412,12 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_POUNDER2_MINI",
+      "VEHICLE_WEAPON_POUNDER2_MISSILE",
+      "VEHICLE_WEAPON_POUNDER2_BARRAGE",
+      "VEHICLE_WEAPON_POUNDER2_GL"
+    ],
     "ModKits": [
       "301_pounder2_modkit"
     ],
@@ -29661,6 +30468,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "311_freecrawler_modkit"
     ],
@@ -29717,6 +30525,11 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_MULE4_MG",
+      "VEHICLE_WEAPON_MULE4_MISSILE",
+      "VEHICLE_WEAPON_MULE4_TURRET_GL"
+    ],
     "ModKits": [
       "302_mule4_modkit"
     ],
@@ -29772,6 +30585,11 @@
     "MonetaryValue": 22000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_SPEEDO4_MG",
+      "VEHICLE_WEAPON_SPEEDO4_TURRET_MG",
+      "VEHICLE_WEAPON_SPEEDO4_TURRET_MINI"
+    ],
     "ModKits": [
       "303_speedo4_modkit"
     ],
@@ -29824,6 +30642,7 @@
     "MonetaryValue": 52000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "304_blimp3_modkit"
     ],
@@ -29883,6 +30702,11 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_TURRET_INSURGENT",
+      "VEHICLE_WEAPON_INSURGENT_MINIGUN",
+      "VEHICLE_WEAPON_MENACER_MG"
+    ],
     "ModKits": [
       "307_menacer_modkit"
     ],
@@ -29933,6 +30757,7 @@
     "MonetaryValue": 130000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "305_swinger_modkit"
     ],
@@ -29982,6 +30807,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "306_patriot2_modkit"
     ],
@@ -30034,6 +30860,11 @@
     "MonetaryValue": 20000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_OPPRESSOR2_MG",
+      "VEHICLE_WEAPON_OPPRESSOR2_CANNON",
+      "VEHICLE_WEAPON_OPPRESSOR2_MISSILE"
+    ],
     "ModKits": [
       "309_oppressor2_modkit"
     ],
@@ -30092,6 +30923,10 @@
     "MonetaryValue": 30000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_IMPALER2_50CAL",
+      "VEHICLE_WEAPON_IMPALER3_50CAL_LASER"
+    ],
     "ModKits": [
       "354_impaler3_modkit"
     ],
@@ -30150,6 +30985,9 @@
     "MonetaryValue": 500000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_MONSTER3_GLKIN"
+    ],
     "ModKits": [
       "353_monster5_modkit"
     ],
@@ -30206,6 +31044,9 @@
     "MonetaryValue": 30000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_SLAMVAN4_50CAL"
+    ],
     "ModKits": [
       "352_slamvan6_modkit"
     ],
@@ -30262,6 +31103,10 @@
     "MonetaryValue": 52000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_ISSI4_50CAL",
+      "VEHICLE_WEAPON_MORTAR_KINETIC"
+    ],
     "ModKits": [
       "350_issi6_modkit"
     ],
@@ -30326,6 +31171,9 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_FLAMETHROWER"
+    ],
     "ModKits": [
       "348_cerberus3_modkit"
     ],
@@ -30381,6 +31229,9 @@
     "MonetaryValue": 12000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_DEATHBIKE2_MINIGUN_LASER"
+    ],
     "ModKits": [
       "345_deathbike2_modkit"
     ],
@@ -30442,6 +31293,9 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_DOMINATOR4_50CAL"
+    ],
     "ModKits": [
       "346_dominator6_modkit"
     ],
@@ -30497,6 +31351,9 @@
     "MonetaryValue": 12000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_DEATHBIKE_DUALMINIGUN"
+    ],
     "ModKits": [
       "344_deathbike3_modkit"
     ],
@@ -30554,6 +31411,9 @@
     "MonetaryValue": 30000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_IMPALER2_50CAL"
+    ],
     "ModKits": [
       "343_impaler4_modkit"
     ],
@@ -30610,6 +31470,9 @@
     "MonetaryValue": 30000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_SLAMVAN4_50CAL"
+    ],
     "ModKits": [
       "336_slamvan4_modkit"
     ],
@@ -30667,6 +31530,10 @@
     "MonetaryValue": 30000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_SLAMVAN4_50CAL",
+      "VEHICLE_WEAPON_SLAMVAN5_50CAL_LASER"
+    ],
     "ModKits": [
       "358_slamvan5_modkit"
     ],
@@ -30725,6 +31592,9 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_BRUTUS_50CAL"
+    ],
     "ModKits": [
       "356_brutus3_modkit"
     ],
@@ -30784,6 +31654,10 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_BRUTUS_50CAL",
+      "VEHICLE_WEAPON_BRUTUS2_50CAL_LASER"
+    ],
     "ModKits": [
       "363_brutus2_modkit"
     ],
@@ -30842,6 +31716,9 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_BRUTUS_50CAL"
+    ],
     "ModKits": [
       "340_brutus_modkit"
     ],
@@ -30897,6 +31774,9 @@
     "MonetaryValue": 12000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_DEATHBIKE_DUALMINIGUN"
+    ],
     "ModKits": [
       "331_deathbike_modkit"
     ],
@@ -30954,6 +31834,9 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_BRUISER_50CAL"
+    ],
     "ModKits": [
       "329_bruiser_modkit"
     ],
@@ -31011,6 +31894,10 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_BRUISER_50CAL",
+      "VEHICLE_WEAPON_BRUISER2_50CAL_LASER"
+    ],
     "ModKits": [
       "359_bruiser2_modkit"
     ],
@@ -31068,6 +31955,9 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_BRUISER_50CAL"
+    ],
     "ModKits": [
       "357_bruiser3_modkit"
     ],
@@ -31119,6 +32009,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "334_rcbandito_modkit"
     ],
@@ -31183,6 +32074,9 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_FLAMETHROWER"
+    ],
     "ModKits": [
       "330_cerberus_modkit"
     ],
@@ -31248,6 +32142,9 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_FLAMETHROWER_SCIFI"
+    ],
     "ModKits": [
       "351_cerberus2_modkit"
     ],
@@ -31305,6 +32202,9 @@
     "MonetaryValue": 30000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_IMPALER2_50CAL"
+    ],
     "ModKits": [
       "325_impaler2_modkit"
     ],
@@ -31364,6 +32264,9 @@
     "MonetaryValue": 500000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_MONSTER3_GLKIN"
+    ],
     "ModKits": [
       "360_monster4_modkit"
     ],
@@ -31422,6 +32325,9 @@
     "MonetaryValue": 500000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_MONSTER3_GLKIN"
+    ],
     "ModKits": [
       "338_monster3_modkit"
     ],
@@ -31472,6 +32378,7 @@
     "MonetaryValue": 30000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "324_tulip_modkit"
     ],
@@ -31521,6 +32428,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "327_italigto_modkit"
     ],
@@ -31577,6 +32485,10 @@
     "MonetaryValue": 52000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_ISSI4_50CAL",
+      "VEHICLE_WEAPON_MORTAR_KINETIC"
+    ],
     "ModKits": [
       "332_issi4_modkit"
     ],
@@ -31634,6 +32546,11 @@
     "MonetaryValue": 52000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_ISSI4_50CAL",
+      "VEHICLE_WEAPON_ISSI5_50CAL_LASER",
+      "VEHICLE_WEAPON_MORTAR_KINETIC"
+    ],
     "ModKits": [
       "362_issi5_modkit"
     ],
@@ -31700,6 +32617,9 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_SCARAB_50CAL"
+    ],
     "ModKits": [
       "318_scarab_modkit"
     ],
@@ -31767,6 +32687,10 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_SCARAB_50CAL",
+      "VEHICLE_WEAPON_SCARAB2_50CAL_LASER"
+    ],
     "ModKits": [
       "361_scarab2_modkit"
     ],
@@ -31833,6 +32757,9 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_SCARAB_50CAL"
+    ],
     "ModKits": [
       "355_scarab3_modkit"
     ],
@@ -31882,6 +32809,7 @@
     "MonetaryValue": 30000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "317_clique_modkit"
     ],
@@ -31932,6 +32860,7 @@
     "MonetaryValue": 30000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "315_impaler_modkit"
     ],
@@ -31981,6 +32910,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "322_vamos_modkit"
     ],
@@ -32037,6 +32967,10 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_IMPERATOR_50CAL",
+      "VEHICLE_WEAPON_MORTAR_KINETIC"
+    ],
     "ModKits": [
       "328_imperator_modkit"
     ],
@@ -32094,6 +33028,11 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_IMPERATOR_50CAL",
+      "VEHICLE_WEAPON_MORTAR_KINETIC",
+      "VEHICLE_WEAPON_IMPERATOR2_50CAL_LASER"
+    ],
     "ModKits": [
       "339_imperator2_modkit"
     ],
@@ -32150,6 +33089,10 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_IMPERATOR_50CAL",
+      "VEHICLE_WEAPON_MORTAR_KINETIC"
+    ],
     "ModKits": [
       "342_imperator3_modkit"
     ],
@@ -32200,6 +33143,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "319_toros_modkit"
     ],
@@ -32249,6 +33193,7 @@
     "MonetaryValue": 30000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "320_schlagen_modkit"
     ],
@@ -32299,6 +33244,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "321_deviant_modkit"
     ],
@@ -32360,6 +33306,9 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_DOMINATOR4_50CAL"
+    ],
     "ModKits": [
       "326_dominator4_modkit"
     ],
@@ -32422,6 +33371,10 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_DOMINATOR4_50CAL",
+      "VEHICLE_WEAPON_DOMINATOR5_50CAL_LASER"
+    ],
     "ModKits": [
       "341_dominator5_modkit"
     ],
@@ -32480,6 +33433,9 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_ZR380_50CAL"
+    ],
     "ModKits": [
       "335_zr380_modkit"
     ],
@@ -32539,6 +33495,10 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_ZR380_50CAL",
+      "VEHICLE_WEAPON_ZR3802_50CAL_LASER"
+    ],
     "ModKits": [
       "347_zr3802_modkit"
     ],
@@ -32597,6 +33557,9 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_ZR380_50CAL"
+    ],
     "ModKits": [
       "349_zr3803_modkit"
     ],
@@ -32649,6 +33612,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "316_deveste_modkit"
     ],
@@ -32698,6 +33662,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "384_paragon_modkit"
     ],
@@ -32750,6 +33715,9 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_PARAGON2_MG"
+    ],
     "ModKits": [
       "384_paragon_modkit"
     ],
@@ -32802,6 +33770,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "383_jugular_modkit"
     ],
@@ -32853,6 +33822,7 @@
     "MonetaryValue": 12000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "382_rrocket_modkit"
     ],
@@ -32902,6 +33872,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "380_peyote2_modkit"
     ],
@@ -32952,6 +33923,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "379_neo_modkit"
     ],
@@ -33005,6 +33977,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "378_krieger_modkit"
     ],
@@ -33060,6 +34033,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "376_s80_modkit"
     ],
@@ -33108,6 +34082,7 @@
     "MonetaryValue": 70000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "371_Dynasty_modkit"
     ],
@@ -33158,6 +34133,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "375_caracara2_modkit"
     ],
@@ -33209,6 +34185,7 @@
     "MonetaryValue": 80000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "366_thrax_modkit"
     ],
@@ -33261,6 +34238,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "370_novak_modkit"
     ],
@@ -33309,6 +34287,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "369_zorrusso_modkit"
     ],
@@ -33360,6 +34339,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "367_issi7_modkit"
     ],
@@ -33407,6 +34387,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "368_locust_modkit"
     ],
@@ -33458,6 +34439,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "381_emerus_modkit"
     ],
@@ -33510,6 +34492,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "365_hellion_modkit"
     ],
@@ -33560,6 +34543,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "374_gauntlet3_modkit"
     ],
@@ -33609,6 +34593,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "377_gauntlet4_modkit"
     ],
@@ -33659,6 +34644,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "372_nebula_modkit"
     ],
@@ -33710,6 +34696,7 @@
     "MonetaryValue": 30000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "364_zion3_modkit"
     ],
@@ -33761,6 +34748,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "373_drafter_modkit"
     ],
@@ -33810,6 +34798,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "410_retinue2_modkit"
     ],
@@ -33860,6 +34849,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "407_outlaw_modkit"
     ],
@@ -33909,6 +34899,7 @@
     "MonetaryValue": 12000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "408_Stryder_modkit"
     ],
@@ -33956,6 +34947,7 @@
     "MonetaryValue": 25000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "414_yosemite2_modkit"
     ],
@@ -34006,6 +34998,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "405_formula_modkit"
     ],
@@ -34056,6 +35049,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "413_formula2_modkit"
     ],
@@ -34111,6 +35105,12 @@
     "MonetaryValue": 40000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_RCTANK_GUN",
+      "VEHICLE_WEAPON_RCTANK_FLAME",
+      "VEHICLE_WEAPON_RCTANK_ROCKET",
+      "VEHICLE_WEAPON_RCTANK_LAZER"
+    ],
     "ModKits": [
       "409_minitank_modkit"
     ],
@@ -34159,6 +35159,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "390_Sugoi_modkit"
     ],
@@ -34209,6 +35210,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "402_sultan2_modkit"
     ],
@@ -34256,6 +35258,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "406_everon_modkit"
     ],
@@ -34307,6 +35310,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "388_rebla_modkit"
     ],
@@ -34359,6 +35363,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "412_vagrant_modkit"
     ],
@@ -34411,6 +35416,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "411_furia_modkit"
     ],
@@ -34461,6 +35467,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "401_vstr_modkit"
     ],
@@ -34509,6 +35516,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "389_komoda_modkit"
     ],
@@ -34559,6 +35567,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "387_asbo_modkit"
     ],
@@ -34613,6 +35622,7 @@
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "403_zhaba_modkit"
     ],
@@ -34663,6 +35673,9 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_JB700_MG"
+    ],
     "ModKits": [
       "404_jb7002_modkit"
     ],
@@ -34712,6 +35725,7 @@
     "MonetaryValue": 150000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "385_kanjo_modkit"
     ],
@@ -34763,6 +35777,7 @@
     "MonetaryValue": 35000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
+    "Weapons": [],
     "ModKits": [
       "386_imorgon_modkit"
     ],

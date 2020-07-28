@@ -36,6 +36,7 @@ If you are in search for an easy way to browse those GTA V data ingame, feel fre
 - **Static Emitters** (staticEmitters.json) **714** static emitter infos in total (Usable with STATIC_EMITTER natives)
 - **Ambient Zones** (ambientZones.json) **1202** ambient zone infos in total (Usable with AMBIENT_ZONE natives)
 - **MLO / Interiors** (mloInteriors.json) **334** MLO interiors at 770 locations in total (Useful for modding, also contains in game locations of interiors)
+- **Peds** (peds.json) ***683** peds in total (Useful for various natives related to peds)
 
 ## **Featured objects location dumps**
 Object location dumps contain positions of various objects of a specific type, on the GTA V map (including all interiors / MLOs).

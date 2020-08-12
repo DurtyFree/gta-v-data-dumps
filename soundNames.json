@@ -364,10 +364,6 @@
     "AudioRef": "DLC_GR_Bunker_Door_Sounds"
   },
   {
-    "AudioName": "Text_Arrive_Tone",
-    "AudioRef": "0"
-  },
-  {
     "AudioName": "Enter_Car_Ramp_Deploy",
     "AudioRef": "DLC_GR_MOC_Enter_Exit_Sounds"
   },
@@ -384,6 +380,10 @@
     "AudioRef": "HUD_FRONTEND_DEFAULT_SOUNDSET"
   },
   {
+    "AudioName": "Text_Arrive_Tone",
+    "AudioRef": "0"
+  },
+  {
     "AudioName": "elevator_ascend_loop",
     "AudioRef": "dlc_xm_facility_entry_exit_sounds"
   },
@@ -392,15 +392,7 @@
     "AudioRef": "0"
   },
   {
-    "AudioName": "Change_Cam",
-    "AudioRef": "MP_CCTV_SOUNDSET"
-  },
-  {
     "AudioName": "NAV_LEFT_RIGHT",
-    "AudioRef": "HUD_FRONTEND_DEFAULT_SOUNDSET"
-  },
-  {
-    "AudioName": "NAV_UP_DOWN",
     "AudioRef": "HUD_FRONTEND_DEFAULT_SOUNDSET"
   },
   {
@@ -416,6 +408,14 @@
     "AudioRef": "WastedSounds"
   },
   {
+    "AudioName": "Change_Cam",
+    "AudioRef": "MP_CCTV_SOUNDSET"
+  },
+  {
+    "AudioName": "NAV_UP_DOWN",
+    "AudioRef": "HUD_FRONTEND_DEFAULT_SOUNDSET"
+  },
+  {
     "AudioName": "5s",
     "AudioRef": "MP_MISSION_COUNTDOWN_SOUNDSET"
   },
@@ -428,16 +428,12 @@
     "AudioRef": "HUD_FRONTEND_DEFAULT_SOUNDSET"
   },
   {
-    "AudioName": "SELECT",
-    "AudioRef": "HUD_FRONTEND_MP_SOUNDSET"
-  },
-  {
     "AudioName": "Menu_Back",
     "AudioRef": "0"
   },
   {
-    "AudioName": "Pre_Screen_Stinger",
-    "AudioRef": "DLC_HEISTS_PREP_SCREEN_SOUNDS"
+    "AudioName": "SELECT",
+    "AudioRef": "HUD_FRONTEND_MP_SOUNDSET"
   },
   {
     "AudioName": "Menu_Accept",
@@ -456,28 +452,16 @@
     "AudioRef": "DLC_Biker_Business_CFM_Sounds"
   },
   {
-    "AudioName": "Slow_Clap_Cel",
-    "AudioRef": "MP_SNACKS_SOUNDSET"
-  },
-  {
-    "AudioName": "Knuckle_Crack_Slap_Cel",
-    "AudioRef": "MP_SNACKS_SOUNDSET"
-  },
-  {
-    "AudioName": "Knuckle_Crack_Hard_Cel",
-    "AudioRef": "MP_SNACKS_SOUNDSET"
-  },
-  {
-    "AudioName": "TOGGLE_ON",
-    "AudioRef": "HUD_FRONTEND_DEFAULT_SOUNDSET"
-  },
-  {
     "AudioName": "CHALLENGE_UNLOCKED",
     "AudioRef": "HUD_AWARDS"
   },
   {
     "AudioName": "NAV",
     "AudioRef": "HUD_AMMO_SHOP_SOUNDSET"
+  },
+  {
+    "AudioName": "Round_Start_Blade",
+    "AudioRef": "POWER_PLAY_General_Soundset"
   },
   {
     "AudioName": "Boss_Message_Orange",
@@ -492,16 +476,12 @@
     "AudioRef": "0"
   },
   {
-    "AudioName": "NAV_UP_DOWN",
-    "AudioRef": "HUD_FREEMODE_SOUNDSET"
+    "AudioName": "laser_pin_break",
+    "AudioRef": "dlc_ch_heist_finale_laser_drill_sounds"
   },
   {
-    "AudioName": "SELECT",
-    "AudioRef": "HUD_FREEMODE_SOUNDSET"
-  },
-  {
-    "AudioName": "CANCEL",
-    "AudioRef": "HUD_FREEMODE_SOUNDSET"
+    "AudioName": "Drill_Pin_Break",
+    "AudioRef": "DLC_HEIST_FLEECA_SOUNDSET"
   },
   {
     "AudioName": "Radio_Off",
@@ -512,24 +492,12 @@
     "AudioRef": "TAXI_SOUNDS"
   },
   {
+    "AudioName": "Pre_Screen_Stinger",
+    "AudioRef": "DLC_HEISTS_PREP_SCREEN_SOUNDS"
+  },
+  {
     "AudioName": "10S",
     "AudioRef": "MP_MISSION_COUNTDOWN_SOUNDSET"
-  },
-  {
-    "AudioName": "ScreenFlash",
-    "AudioRef": "MissionFailedSounds"
-  },
-  {
-    "AudioName": "YES",
-    "AudioRef": "HUD_FRONTEND_DEFAULT_SOUNDSET"
-  },
-  {
-    "AudioName": "NO",
-    "AudioRef": "HUD_FRONTEND_DEFAULT_SOUNDSET"
-  },
-  {
-    "AudioName": "CHECKPOINT_UNDER_THE_BRIDGE",
-    "AudioRef": "HUD_MINI_GAME_SOUNDSET"
   },
   {
     "AudioName": "laser_drill",
@@ -540,32 +508,12 @@
     "AudioRef": "DLC_HEIST_FLEECA_SOUNDSET"
   },
   {
-    "AudioName": "laser_pin_break",
-    "AudioRef": "dlc_ch_heist_finale_laser_drill_sounds"
+    "AudioName": "SELECT",
+    "AudioRef": "HUD_FREEMODE_SOUNDSET"
   },
   {
-    "AudioName": "Drill_Pin_Break",
-    "AudioRef": "DLC_HEIST_FLEECA_SOUNDSET"
-  },
-  {
-    "AudioName": "Pan",
-    "AudioRef": "DLC_Arena_CCTV_SOUNDSET"
-  },
-  {
-    "AudioName": "Pan",
-    "AudioRef": "MP_CCTV_SOUNDSET"
-  },
-  {
-    "AudioName": "Background",
-    "AudioRef": "DLC_Arena_CCTV_SOUNDSET"
-  },
-  {
-    "AudioName": "Background",
-    "AudioRef": "MP_CCTV_SOUNDSET"
-  },
-  {
-    "AudioName": "Change_Cam",
-    "AudioRef": "DLC_Arena_CCTV_SOUNDSET"
+    "AudioName": "LEADER_BOARD",
+    "AudioRef": "HUD_FRONTEND_DEFAULT_SOUNDSET"
   },
   {
     "AudioName": "MOD_SHOPS_EXIT_ENGINE_BLIP",
@@ -624,16 +572,12 @@
     "AudioRef": "DLC_IO_Warehouse_Mod_Garage_Sounds"
   },
   {
-    "AudioName": "Round_Start_Blade",
-    "AudioRef": "POWER_PLAY_General_Soundset"
+    "AudioName": "MP_SNACKS_SOUNDSET",
+    "AudioRef": "0"
   },
   {
-    "AudioName": "EXIT",
-    "AudioRef": "HUD_FRONTEND_DEFAULT_SOUNDSET"
-  },
-  {
-    "AudioName": "LEADER_BOARD",
-    "AudioRef": "HUD_FRONTEND_DEFAULT_SOUNDSET"
+    "AudioName": "Rocket_Detonate",
+    "AudioRef": "DLC_IE_VV_Rocket_Player_Sounds"
   },
   {
     "AudioName": "DLC_AW_Arena_Traps_Turntable_Sounds",
@@ -660,24 +604,24 @@
     "AudioRef": "GTAO_FM_Events_Soundset"
   },
   {
-    "AudioName": "MP_SNACKS_SOUNDSET",
-    "AudioRef": "0"
+    "AudioName": "Pan",
+    "AudioRef": "DLC_Arena_CCTV_SOUNDSET"
   },
   {
-    "AudioName": "laser_power_up",
-    "AudioRef": "dlc_ch_heist_finale_laser_drill_sounds"
+    "AudioName": "Pan",
+    "AudioRef": "MP_CCTV_SOUNDSET"
   },
   {
-    "AudioName": "laser_power_down",
-    "AudioRef": "dlc_ch_heist_finale_laser_drill_sounds"
+    "AudioName": "Background",
+    "AudioRef": "DLC_Arena_CCTV_SOUNDSET"
   },
   {
-    "AudioName": "laser_overheat",
-    "AudioRef": "dlc_ch_heist_finale_laser_drill_sounds"
+    "AudioName": "Background",
+    "AudioRef": "MP_CCTV_SOUNDSET"
   },
   {
-    "AudioName": "Drill_Jam",
-    "AudioRef": "DLC_HEIST_FLEECA_SOUNDSET"
+    "AudioName": "Change_Cam",
+    "AudioRef": "DLC_Arena_CCTV_SOUNDSET"
   },
   {
     "AudioName": "Retune_Low",
@@ -700,12 +644,28 @@
     "AudioRef": "MP_RADIO_SFX"
   },
   {
-    "AudioName": "PEYOTE_COMPLETED",
-    "AudioRef": "HUD_AWARDS"
+    "AudioName": "TOGGLE_ON",
+    "AudioRef": "HUD_FRONTEND_DEFAULT_SOUNDSET"
   },
   {
-    "AudioName": "COLLECTED",
-    "AudioRef": "HUD_AWARDS"
+    "AudioName": "EXIT",
+    "AudioRef": "HUD_FRONTEND_DEFAULT_SOUNDSET"
+  },
+  {
+    "AudioName": "laser_power_up",
+    "AudioRef": "dlc_ch_heist_finale_laser_drill_sounds"
+  },
+  {
+    "AudioName": "laser_power_down",
+    "AudioRef": "dlc_ch_heist_finale_laser_drill_sounds"
+  },
+  {
+    "AudioName": "laser_overheat",
+    "AudioRef": "dlc_ch_heist_finale_laser_drill_sounds"
+  },
+  {
+    "AudioName": "Drill_Jam",
+    "AudioRef": "DLC_HEIST_FLEECA_SOUNDSET"
   },
   {
     "AudioName": "TUMBLER_TURN",
@@ -732,20 +692,16 @@
     "AudioRef": "SAFE_CRACK_SOUNDSET"
   },
   {
-    "AudioName": "Out_Of_Ammo",
-    "AudioRef": "DLC_AW_Machine_Gun_Ammo_Counter_Sounds"
+    "AudioName": "Slow_Clap_Cel",
+    "AudioRef": "MP_SNACKS_SOUNDSET"
   },
   {
-    "AudioName": "Recharging_Loop",
-    "AudioRef": "DLC_AW_Machine_Gun_Ammo_Counter_Sounds"
+    "AudioName": "Knuckle_Crack_Slap_Cel",
+    "AudioRef": "MP_SNACKS_SOUNDSET"
   },
   {
-    "AudioName": "Empty_Fire_Fail",
-    "AudioRef": "DLC_AW_Machine_Gun_Ammo_Counter_Sounds"
-  },
-  {
-    "AudioName": "Recharged",
-    "AudioRef": "DLC_AW_Machine_Gun_Ammo_Counter_Sounds"
+    "AudioName": "Knuckle_Crack_Hard_Cel",
+    "AudioRef": "MP_SNACKS_SOUNDSET"
   },
   {
     "AudioName": "Turret_Activated_Alt",
@@ -768,8 +724,12 @@
     "AudioRef": "0"
   },
   {
-    "AudioName": "Rocket_Detonate",
-    "AudioRef": "DLC_IE_VV_Rocket_Player_Sounds"
+    "AudioName": "NAV_UP_DOWN",
+    "AudioRef": "HUD_FREEMODE_SOUNDSET"
+  },
+  {
+    "AudioName": "CANCEL",
+    "AudioRef": "HUD_FREEMODE_SOUNDSET"
   },
   {
     "AudioName": "MOD_SHOPS_UPGRADE_BLIP",
@@ -816,8 +776,32 @@
     "AudioRef": "0"
   },
   {
-    "AudioName": "On_Call_Player_Join",
-    "AudioRef": "DLC_HEISTS_GENERAL_FRONTEND_SOUNDS"
+    "AudioName": "ScreenFlash",
+    "AudioRef": "MissionFailedSounds"
+  },
+  {
+    "AudioName": "YES",
+    "AudioRef": "HUD_FRONTEND_DEFAULT_SOUNDSET"
+  },
+  {
+    "AudioName": "NO",
+    "AudioRef": "HUD_FRONTEND_DEFAULT_SOUNDSET"
+  },
+  {
+    "AudioName": "Out_Of_Ammo",
+    "AudioRef": "DLC_AW_Machine_Gun_Ammo_Counter_Sounds"
+  },
+  {
+    "AudioName": "Recharging_Loop",
+    "AudioRef": "DLC_AW_Machine_Gun_Ammo_Counter_Sounds"
+  },
+  {
+    "AudioName": "Empty_Fire_Fail",
+    "AudioRef": "DLC_AW_Machine_Gun_Ammo_Counter_Sounds"
+  },
+  {
+    "AudioName": "Recharged",
+    "AudioRef": "DLC_AW_Machine_Gun_Ammo_Counter_Sounds"
   },
   {
     "AudioName": "Shard_Disappear",
@@ -860,23 +844,15 @@
     "AudioRef": "HUD_FRONTEND_DEFAULT_SOUNDSET"
   },
   {
-    "AudioName": "DELETE",
-    "AudioRef": "0"
-  },
-  {
     "AudioName": "Camera_Shoot",
     "AudioRef": "Phone_Soundset_Franklin"
   },
   {
-    "AudioName": "ERROR",
+    "AudioName": "PLACE_VEHICLE",
     "AudioRef": "0"
   },
   {
-    "AudioName": "Creator_Snap",
-    "AudioRef": "DLC_Stunt_Race_Frontend_Sounds"
-  },
-  {
-    "AudioName": "PLACE_VEHICLE",
+    "AudioName": "ERROR",
     "AudioRef": "0"
   },
   {
@@ -892,7 +868,7 @@
     "AudioRef": "0"
   },
   {
-    "AudioName": "SELECT_LOCATION",
+    "AudioName": "DELETE",
     "AudioRef": "0"
   },
   {
@@ -952,35 +928,43 @@
     "AudioRef": "0"
   },
   {
+    "AudioName": "CHECKPOINT_UNDER_THE_BRIDGE",
+    "AudioRef": "HUD_MINI_GAME_SOUNDSET"
+  },
+  {
+    "AudioName": "Beast_Attack",
+    "AudioRef": "DLC_AR_Beast_Soundset"
+  },
+  {
     "AudioName": "zoom_out_loop",
     "AudioRef": "dlc_xm_orbital_cannon_sounds"
   },
   {
-    "AudioName": "ScreenFlash",
-    "AudioRef": "WastedSounds"
+    "AudioName": "PEYOTE_COMPLETED",
+    "AudioRef": "HUD_AWARDS"
   },
   {
-    "AudioName": "Bed",
-    "AudioRef": "WastedSounds"
+    "AudioName": "COLLECTED",
+    "AudioRef": "HUD_AWARDS"
   },
   {
-    "AudioName": "TextHit",
-    "AudioRef": "WastedSounds"
+    "AudioName": "Nav_Arrow_Ahead",
+    "AudioRef": "DLC_HEISTS_GENERAL_FRONTEND_SOUNDS"
   },
   {
-    "AudioName": "All",
-    "AudioRef": "SHORT_PLAYER_SWITCH_SOUND_SET"
+    "AudioName": "Nav_Arrow_Behind",
+    "AudioRef": "DLC_HEISTS_GENERAL_FRONTEND_SOUNDS"
   },
   {
-    "AudioName": "CHARACTER_CHANGE_DOWN_MASTER",
-    "AudioRef": "0"
+    "AudioName": "Nav_Arrow_Left",
+    "AudioRef": "DLC_HEISTS_GENERAL_FRONTEND_SOUNDS"
+  },
+  {
+    "AudioName": "Nav_Arrow_Right",
+    "AudioRef": "DLC_HEISTS_GENERAL_FRONTEND_SOUNDS"
   },
   {
     "AudioName": "DLC_Stunt_Race_Stinger_Sounds",
-    "AudioRef": "0"
-  },
-  {
-    "AudioName": "ADD_SPAWN_POINT",
     "AudioRef": "0"
   },
   {
@@ -1040,10 +1024,6 @@
     "AudioRef": "0"
   },
   {
-    "AudioName": "NAV_UP_DOWN",
-    "AudioRef": "HUD_LIQUOR_STORE_SOUNDSET"
-  },
-  {
     "AudioName": "TENNIS_FOOT_SQUEAKS_MASTER",
     "AudioRef": "0"
   },
@@ -1092,22 +1072,6 @@
     "AudioRef": "HUD_FREEMODE_SOUNDSET"
   },
   {
-    "AudioName": "Hit_1",
-    "AudioRef": "LONG_PLAYER_SWITCH_SOUNDS"
-  },
-  {
-    "AudioName": "Beast_Attack",
-    "AudioRef": "DLC_AR_Beast_Soundset"
-  },
-  {
-    "AudioName": "Turret_Available_Alt",
-    "AudioRef": "dlc_aw_Arena_Gun_Turret_Sounds"
-  },
-  {
-    "AudioName": "Turret_Available",
-    "AudioRef": "dlc_aw_Arena_Gun_Turret_Sounds"
-  },
-  {
     "AudioName": "Hang_Up",
     "AudioRef": "Phone_SoundSet_Michael"
   },
@@ -1116,36 +1080,48 @@
     "AudioRef": "0"
   },
   {
-    "AudioName": "Nav_Arrow_Ahead",
-    "AudioRef": "DLC_HEISTS_GENERAL_FRONTEND_SOUNDS"
+    "AudioName": "Hit_1",
+    "AudioRef": "LONG_PLAYER_SWITCH_SOUNDS"
   },
   {
-    "AudioName": "Nav_Arrow_Behind",
-    "AudioRef": "DLC_HEISTS_GENERAL_FRONTEND_SOUNDS"
-  },
-  {
-    "AudioName": "Nav_Arrow_Left",
-    "AudioRef": "DLC_HEISTS_GENERAL_FRONTEND_SOUNDS"
-  },
-  {
-    "AudioName": "Nav_Arrow_Right",
-    "AudioRef": "DLC_HEISTS_GENERAL_FRONTEND_SOUNDS"
-  },
-  {
-    "AudioName": "Vehicle_Warp",
-    "AudioRef": "DLC_Air_Race_Sounds_Player"
+    "AudioName": "Open_Wheel_Racing_Start_Lights_Sounds",
+    "AudioRef": "0"
   },
   {
     "AudioName": "Vehicle_Transform",
     "AudioRef": "DLC_Air_Race_Sounds_Player"
   },
   {
-    "AudioName": "PLACE_OBJECT",
+    "AudioName": "ADD_SPAWN_POINT",
     "AudioRef": "0"
   },
   {
-    "AudioName": "PLACE_ENEMY",
+    "AudioName": "SELECT_LOCATION",
     "AudioRef": "0"
+  },
+  {
+    "AudioName": "Crash",
+    "AudioRef": "DLC_HEIST_HACKING_SNAKE_SOUNDS"
+  },
+  {
+    "AudioName": "Start",
+    "AudioRef": "DLC_HEIST_HACKING_SNAKE_SOUNDS"
+  },
+  {
+    "AudioName": "Trail_Custom",
+    "AudioRef": "DLC_HEIST_HACKING_SNAKE_SOUNDS"
+  },
+  {
+    "AudioName": "Turn",
+    "AudioRef": "DLC_HEIST_HACKING_SNAKE_SOUNDS"
+  },
+  {
+    "AudioName": "Goal",
+    "AudioRef": "DLC_HEIST_HACKING_SNAKE_SOUNDS"
+  },
+  {
+    "AudioName": "Background",
+    "AudioRef": "DLC_HEIST_HACKING_SNAKE_SOUNDS"
   },
   {
     "AudioName": "Countdown_GO",
@@ -1192,14 +1168,6 @@
     "AudioRef": "DLC_TG_Running_Back_Sounds"
   },
   {
-    "AudioName": "Bomb_Passed",
-    "AudioRef": "DLC_AW_PTB_Sounds"
-  },
-  {
-    "AudioName": "Bomb_Collected",
-    "AudioRef": "DLC_AW_PTB_Sounds"
-  },
-  {
     "AudioName": "Zone_Captured_Remote",
     "AudioRef": "dlc_vw_koth_Sounds"
   },
@@ -1210,6 +1178,18 @@
   {
     "AudioName": "Zone_Contested",
     "AudioRef": "dlc_vw_koth_Sounds"
+  },
+  {
+    "AudioName": "YES",
+    "AudioRef": "0"
+  },
+  {
+    "AudioName": "DLC_XM_Explosions_Orbital_Cannon",
+    "AudioRef": "0"
+  },
+  {
+    "AudioName": "On_Call_Player_Join",
+    "AudioRef": "DLC_HEISTS_GENERAL_FRONTEND_SOUNDS"
   },
   {
     "AudioName": "Background",
@@ -1225,6 +1205,62 @@
   },
   {
     "AudioName": "MICHAEL_SOFA_REMOTE_CLICK_VOLUME_MASTER",
+    "AudioRef": "0"
+  },
+  {
+    "AudioName": "Cursor_Choose_Good",
+    "AudioRef": "0"
+  },
+  {
+    "AudioName": "Cursor_Choose_Bad",
+    "AudioRef": "0"
+  },
+  {
+    "AudioName": "New_Line_Flash",
+    "AudioRef": "0"
+  },
+  {
+    "AudioName": "Dot_Sequence_Change",
+    "AudioRef": "0"
+  },
+  {
+    "AudioName": "Dot_Sequence_Choose_Flash",
+    "AudioRef": "0"
+  },
+  {
+    "AudioName": "Section_Success_Window_Appears",
+    "AudioRef": "0"
+  },
+  {
+    "AudioName": "Section_Success_Window_Cleared",
+    "AudioRef": "0"
+  },
+  {
+    "AudioName": "Cursor_Move",
+    "AudioRef": "0"
+  },
+  {
+    "AudioName": "Startup_Sequence",
+    "AudioRef": "0"
+  },
+  {
+    "AudioName": "Draw_Screen",
+    "AudioRef": "0"
+  },
+  {
+    "AudioName": "Scramble_Countdown_Low",
+    "AudioRef": "0"
+  },
+  {
+    "AudioName": "Scramble_Countdown_High",
+    "AudioRef": "0"
+  },
+  {
+    "AudioName": "Scramble_Countdown_Med",
+    "AudioRef": "0"
+  },
+  {
+    "AudioName": "Background_Hum",
     "AudioRef": "0"
   },
   {
@@ -1244,36 +1280,80 @@
     "AudioRef": "0"
   },
   {
+    "AudioName": "Window_Draw",
+    "AudioRef": "0"
+  },
+  {
+    "AudioName": "Processing",
+    "AudioRef": "0"
+  },
+  {
+    "AudioName": "Target_Match",
+    "AudioRef": "0"
+  },
+  {
+    "AudioName": "No_Match",
+    "AudioRef": "0"
+  },
+  {
+    "AudioName": "Print_Appears",
+    "AudioRef": "0"
+  },
+  {
+    "AudioName": "Print_Shuffle",
+    "AudioRef": "0"
+  },
+  {
+    "AudioName": "Window_Clear",
+    "AudioRef": "0"
+  },
+  {
+    "AudioName": "Select_Print_Tile",
+    "AudioRef": "0"
+  },
+  {
+    "AudioName": "Deselect_Print_Tile",
+    "AudioRef": "0"
+  },
+  {
+    "AudioName": "NAV_UP_DOWN",
+    "AudioRef": "HUD_LIQUOR_STORE_SOUNDSET"
+  },
+  {
     "AudioName": "Bomb_Countdown",
     "AudioRef": "DLC_AW_PTB_Sounds"
   },
   {
-    "AudioName": "Beast_Sprint_Loop",
-    "AudioRef": "DLC_AR_Beast_Soundset"
+    "AudioName": "Bomb_Passed",
+    "AudioRef": "DLC_AW_PTB_Sounds"
   },
   {
-    "AudioName": "Beast_Jump",
-    "AudioRef": "DLC_AR_Beast_Soundset"
+    "AudioName": "Bomb_Collected",
+    "AudioRef": "DLC_AW_PTB_Sounds"
   },
   {
-    "AudioName": "Beast_Jump_Land",
-    "AudioRef": "DLC_AR_Beast_Soundset"
+    "AudioName": "Turret_Available_Alt",
+    "AudioRef": "dlc_aw_Arena_Gun_Turret_Sounds"
   },
   {
-    "AudioName": "PURCHASE",
-    "AudioRef": "HUD_LIQUOR_STORE_SOUNDSET"
+    "AudioName": "Turret_Available",
+    "AudioRef": "dlc_aw_Arena_Gun_Turret_Sounds"
   },
   {
-    "AudioName": "ERROR",
-    "AudioRef": "HUD_LIQUOR_STORE_SOUNDSET"
+    "AudioName": "health_lost",
+    "AudioRef": "DLC_sum20_Open_Wheel_Racing_Sounds"
   },
   {
-    "AudioName": "SELECT",
-    "AudioRef": "HUD_LIQUOR_STORE_SOUNDSET"
+    "AudioName": "tyre_burst",
+    "AudioRef": "DLC_sum20_Open_Wheel_Racing_Sounds"
   },
   {
-    "AudioName": "CANCEL",
-    "AudioRef": "HUD_LIQUOR_STORE_SOUNDSET"
+    "AudioName": "tyre_health_warning",
+    "AudioRef": "DLC_sum20_Open_Wheel_Racing_Sounds"
+  },
+  {
+    "AudioName": "Pit_Stop_Loop",
+    "AudioRef": "DLC_H3_Circuit_Racing_Sounds"
   },
   {
     "AudioName": "cannon_charge_fire_loop",
@@ -1312,6 +1392,30 @@
     "AudioRef": "0"
   },
   {
+    "AudioName": "ScreenFlash",
+    "AudioRef": "WastedSounds"
+  },
+  {
+    "AudioName": "Bed",
+    "AudioRef": "WastedSounds"
+  },
+  {
+    "AudioName": "TextHit",
+    "AudioRef": "WastedSounds"
+  },
+  {
+    "AudioName": "SPRAY",
+    "AudioRef": "CARWASH_SOUNDS"
+  },
+  {
+    "AudioName": "DRYER",
+    "AudioRef": "CARWASH_SOUNDS"
+  },
+  {
+    "AudioName": "SPRAY_CAR",
+    "AudioRef": "CARWASH_SOUNDS"
+  },
+  {
     "AudioName": "3_2_1_NON_RACE",
     "AudioRef": "HUD_MINI_GAME_SOUNDSET"
   },
@@ -1332,18 +1436,6 @@
     "AudioRef": "0"
   },
   {
-    "AudioName": "Back",
-    "AudioRef": "0"
-  },
-  {
-    "AudioName": "Select",
-    "AudioRef": "0"
-  },
-  {
-    "AudioName": "silo_alarm_loop",
-    "AudioRef": "dlc_xm_silo_finale_sounds"
-  },
-  {
     "AudioName": "Count_Stop",
     "AudioRef": "0"
   },
@@ -1362,6 +1454,10 @@
   {
     "AudioName": "Checkpoint",
     "AudioRef": "DLC_AW_Frontend_Sounds"
+  },
+  {
+    "AudioName": "Checkpoint",
+    "AudioRef": "DLC_sum20_Open_Wheel_Racing_Sounds"
   },
   {
     "AudioName": "Checkpoint",
@@ -1436,6 +1532,10 @@
     "AudioRef": "0"
   },
   {
+    "AudioName": "Vehicle_Warp",
+    "AudioRef": "DLC_Air_Race_Sounds_Player"
+  },
+  {
     "AudioName": "WIN",
     "AudioRef": "HUD_AWARDS"
   },
@@ -1444,8 +1544,36 @@
     "AudioRef": "HUD_AWARDS"
   },
   {
-    "AudioName": "DLC_XM_Explosions_Orbital_Cannon",
-    "AudioRef": "0"
+    "AudioName": "Creator_Snap",
+    "AudioRef": "DLC_Stunt_Race_Frontend_Sounds"
+  },
+  {
+    "AudioName": "Nightvision_Loop",
+    "AudioRef": "GTAO_Vision_Modes_SoundSet"
+  },
+  {
+    "AudioName": "Thermal_Loop",
+    "AudioRef": "GTAO_Vision_Modes_SoundSet"
+  },
+  {
+    "AudioName": "Put_On_Mask",
+    "AudioRef": "DLC_HEISTS_GENERIC_SOUNDS"
+  },
+  {
+    "AudioName": "silo_alarm_loop",
+    "AudioRef": "dlc_xm_silo_finale_sounds"
+  },
+  {
+    "AudioName": "Metal_Detector_Big_Guns",
+    "AudioRef": "dlc_ch_heist_finale_security_alarms_sounds"
+  },
+  {
+    "AudioName": "Metal_Detector_Small_Guns",
+    "AudioRef": "dlc_ch_heist_finale_security_alarms_sounds"
+  },
+  {
+    "AudioName": "Bounds_Timer_Reset",
+    "AudioRef": "DLC_SM_VEHWA_Player_Sounds"
   },
   {
     "AudioName": "Goon_Paid_Large",
@@ -1472,20 +1600,8 @@
     "AudioRef": "0"
   },
   {
-    "AudioName": "Air_Drop_Package",
-    "AudioRef": "DLC_SM_Generic_Mission_Sounds"
-  },
-  {
     "AudioName": "FestiveGift",
     "AudioRef": "Feed_Message_Sounds"
-  },
-  {
-    "AudioName": "Armour_On",
-    "AudioRef": "DLC_GR_Steal_Miniguns_Sounds"
-  },
-  {
-    "AudioName": "Highlight_Move",
-    "AudioRef": "DLC_HEIST_PLANNING_BOARD_SOUNDS"
   },
   {
     "AudioName": "DARTS_HIT_DART_MASTER",
@@ -1520,24 +1636,24 @@
     "AudioRef": "0"
   },
   {
+    "AudioName": "Highlight_Move",
+    "AudioRef": "DLC_HEIST_PLANNING_BOARD_SOUNDS"
+  },
+  {
+    "AudioName": "5S",
+    "AudioRef": "MP_MISSION_COUNTDOWN_SOUNDSET"
+  },
+  {
+    "AudioName": "Finish_Win",
+    "AudioRef": "DLC_AW_Frontend_Sounds"
+  },
+  {
+    "AudioName": "Finish_Default",
+    "AudioRef": "DLC_AW_Frontend_Sounds"
+  },
+  {
     "AudioName": "MP_AWARD",
     "AudioRef": "HUD_FRONTEND_DEFAULT_SOUNDSET"
-  },
-  {
-    "AudioName": "Countdown_Loop",
-    "AudioRef": "0"
-  },
-  {
-    "AudioName": "Arming_Countdown",
-    "AudioRef": "0"
-  },
-  {
-    "AudioName": "Bomb_Armed",
-    "AudioRef": "0"
-  },
-  {
-    "AudioName": "Bomb_Disarmed",
-    "AudioRef": "0"
   },
   {
     "AudioName": "GOLF_HUD_HOLE_IN_ONE_MASTER",
@@ -1556,15 +1672,7 @@
     "AudioRef": "HUD_AWARDS"
   },
   {
-    "AudioName": "QUIT_WHOOSH",
-    "AudioRef": "HUD_MINI_GAME_SOUNDSET"
-  },
-  {
     "AudioName": "GOLF_HUD_SCORECARD_MASTER",
-    "AudioRef": "0"
-  },
-  {
-    "AudioName": "GOLF_BALL_ROLL_PUTT_MASTER",
     "AudioRef": "0"
   },
   {
@@ -1574,10 +1682,6 @@
   {
     "AudioName": "GOLF_BALL_IMPACT_LEAVES_MASTER",
     "AudioRef": "0"
-  },
-  {
-    "AudioName": "HIGHLIGHT_NAV_UP_DOWN",
-    "AudioRef": "HUD_FRONTEND_DEFAULT_SOUNDSET"
   },
   {
     "AudioName": "GOLF_BALL_IMPACT_FLAG_MASTER",
@@ -1606,10 +1710,6 @@
   {
     "AudioName": "CONTINUOUS_SLIDER",
     "AudioRef": "HUD_FRONTEND_DEFAULT_SOUNDSET"
-  },
-  {
-    "AudioName": "Short_Transition_Out",
-    "AudioRef": "PLAYER_SWITCH_CUSTOM_SOUNDSET"
   },
   {
     "AudioName": "ELK_PAIN_MASTER",
@@ -1644,96 +1744,36 @@
     "AudioRef": "0"
   },
   {
-    "AudioName": "Cursor_Choose_Good",
-    "AudioRef": "0"
+    "AudioName": "SELECT",
+    "AudioRef": "HUD_FRONTEND_CLOTHESSHOP_SOUNDSET"
   },
   {
-    "AudioName": "Cursor_Choose_Bad",
-    "AudioRef": "0"
+    "AudioName": "CANCEL",
+    "AudioRef": "HUD_FRONTEND_CLOTHESSHOP_SOUNDSET"
   },
   {
-    "AudioName": "New_Line_Flash",
-    "AudioRef": "0"
+    "AudioName": "NAV_UP_DOWN",
+    "AudioRef": "HUD_FRONTEND_CLOTHESSHOP_SOUNDSET"
   },
   {
-    "AudioName": "Dot_Sequence_Change",
-    "AudioRef": "0"
+    "AudioName": "ERROR",
+    "AudioRef": "HUD_FRONTEND_CLOTHESSHOP_SOUNDSET"
   },
   {
-    "AudioName": "Dot_Sequence_Choose_Flash",
-    "AudioRef": "0"
+    "AudioName": "PURCHASE",
+    "AudioRef": "HUD_LIQUOR_STORE_SOUNDSET"
   },
   {
-    "AudioName": "Section_Success_Window_Appears",
-    "AudioRef": "0"
+    "AudioName": "ERROR",
+    "AudioRef": "HUD_LIQUOR_STORE_SOUNDSET"
   },
   {
-    "AudioName": "Section_Success_Window_Cleared",
-    "AudioRef": "0"
+    "AudioName": "SELECT",
+    "AudioRef": "HUD_LIQUOR_STORE_SOUNDSET"
   },
   {
-    "AudioName": "Cursor_Move",
-    "AudioRef": "0"
-  },
-  {
-    "AudioName": "Startup_Sequence",
-    "AudioRef": "0"
-  },
-  {
-    "AudioName": "Draw_Screen",
-    "AudioRef": "0"
-  },
-  {
-    "AudioName": "Scramble_Countdown_Low",
-    "AudioRef": "0"
-  },
-  {
-    "AudioName": "Scramble_Countdown_High",
-    "AudioRef": "0"
-  },
-  {
-    "AudioName": "Scramble_Countdown_Med",
-    "AudioRef": "0"
-  },
-  {
-    "AudioName": "Background_Hum",
-    "AudioRef": "0"
-  },
-  {
-    "AudioName": "Window_Draw",
-    "AudioRef": "0"
-  },
-  {
-    "AudioName": "Processing",
-    "AudioRef": "0"
-  },
-  {
-    "AudioName": "Target_Match",
-    "AudioRef": "0"
-  },
-  {
-    "AudioName": "No_Match",
-    "AudioRef": "0"
-  },
-  {
-    "AudioName": "Print_Appears",
-    "AudioRef": "0"
-  },
-  {
-    "AudioName": "Print_Shuffle",
-    "AudioRef": "0"
-  },
-  {
-    "AudioName": "Window_Clear",
-    "AudioRef": "0"
-  },
-  {
-    "AudioName": "Select_Print_Tile",
-    "AudioRef": "0"
-  },
-  {
-    "AudioName": "Deselect_Print_Tile",
-    "AudioRef": "0"
+    "AudioName": "CANCEL",
+    "AudioRef": "HUD_LIQUOR_STORE_SOUNDSET"
   },
   {
     "AudioName": "Inside_Track_Start",
@@ -2074,6 +2114,10 @@
   {
     "AudioName": "Calculate_Outcome",
     "AudioRef": "DLC_H3_LoveMachine_Sounds"
+  },
+  {
+    "AudioName": "sum20_am_Axe_of_Fury_sounds",
+    "AudioRef": "0"
   },
   {
     "AudioName": "Kick_Machine",
@@ -2536,16 +2580,16 @@
     "AudioRef": "GTAO_Hot_Tub_Sounds"
   },
   {
+    "AudioName": "CLOSED",
+    "AudioRef": "DLC_APT_YACHT_DOOR_SOUNDS"
+  },
+  {
     "AudioName": "Moor_SEASHARK_Engine",
     "AudioRef": "DLC_Apt_Yacht_Ambient_Soundset"
   },
   {
     "AudioName": "Moor_Boat_Engine",
     "AudioRef": "DLC_Apt_Yacht_Ambient_Soundset"
-  },
-  {
-    "AudioName": "CLOSED",
-    "AudioRef": "DLC_APT_YACHT_DOOR_SOUNDS"
   },
   {
     "AudioName": "Parcel_Vehicle_Lost",
@@ -2972,6 +3016,10 @@
     "AudioRef": "dlc_xm_pickup_sweetener_sounds"
   },
   {
+    "AudioName": "Air_Drop_Package",
+    "AudioRef": "DLC_SM_Generic_Mission_Sounds"
+  },
+  {
     "AudioName": "Flyover",
     "AudioRef": "DLC_Exec_Buy_Air_Drop_Sounds"
   },
@@ -3212,18 +3260,6 @@
     "AudioRef": "CAR_STEAL_4_SOUNDSET"
   },
   {
-    "AudioName": "SPRAY",
-    "AudioRef": "CARWASH_SOUNDS"
-  },
-  {
-    "AudioName": "DRYER",
-    "AudioRef": "CARWASH_SOUNDS"
-  },
-  {
-    "AudioName": "SPRAY_CAR",
-    "AudioRef": "CARWASH_SOUNDS"
-  },
-  {
     "AudioName": "BRUSHES_SPINNING",
     "AudioRef": "CARWASH_SOUNDS"
   },
@@ -3320,32 +3356,16 @@
     "AudioRef": "HUD_FRONTEND_WEAPONS_PICKUPS_SOUNDSET"
   },
   {
-    "AudioName": "NAV_UP_DOWN",
-    "AudioRef": "HUD_FRONTEND_CLOTHESSHOP_SOUNDSET"
-  },
-  {
     "AudioName": "WEAPON_SELECT_ARMOR",
     "AudioRef": "HUD_AMMO_SHOP_SOUNDSET"
-  },
-  {
-    "AudioName": "SELECT",
-    "AudioRef": "HUD_FRONTEND_CLOTHESSHOP_SOUNDSET"
   },
   {
     "AudioName": "BACK",
     "AudioRef": "HUD_AMMO_SHOP_SOUNDSET"
   },
   {
-    "AudioName": "CANCEL",
-    "AudioRef": "HUD_FRONTEND_CLOTHESSHOP_SOUNDSET"
-  },
-  {
     "AudioName": "ERROR",
     "AudioRef": "HUD_AMMO_SHOP_SOUNDSET"
-  },
-  {
-    "AudioName": "ERROR",
-    "AudioRef": "HUD_FRONTEND_CLOTHESSHOP_SOUNDSET"
   },
   {
     "AudioName": "End_Squelch",
@@ -3358,6 +3378,10 @@
   {
     "AudioName": "Background_Loop",
     "AudioRef": "CB_RADIO_SFX"
+  },
+  {
+    "AudioName": "Short_Transition_Out",
+    "AudioRef": "PLAYER_SWITCH_CUSTOM_SOUNDSET"
   },
   {
     "AudioName": "MEDAL_UP",
@@ -3494,6 +3518,14 @@
   {
     "AudioName": "sonar_pulse",
     "AudioRef": "docks_heist_finale_2a_sounds"
+  },
+  {
+    "AudioName": "All",
+    "AudioRef": "SHORT_PLAYER_SWITCH_SOUND_SET"
+  },
+  {
+    "AudioName": "CHARACTER_CHANGE_DOWN_MASTER",
+    "AudioRef": "0"
   },
   {
     "AudioName": "DOCKS_HEIST_FINALE_2A_SUB_LAND",
@@ -4284,6 +4316,14 @@
     "AudioRef": "HUD_FRONTEND_MP_SOUNDSET"
   },
   {
+    "AudioName": "Back",
+    "AudioRef": "0"
+  },
+  {
+    "AudioName": "Select",
+    "AudioRef": "0"
+  },
+  {
     "AudioName": "SCREEN_FLASH",
     "AudioRef": "CELEBRATION_SOUNDSET"
   },
@@ -4353,11 +4393,19 @@
   },
   {
     "AudioName": "Checkpoint_Finish",
+    "AudioRef": "DLC_sum20_Open_Wheel_Racing_Sounds"
+  },
+  {
+    "AudioName": "Checkpoint_Finish",
     "AudioRef": "DLC_Stunt_Race_Frontend_Sounds"
   },
   {
     "AudioName": "Checkpoint_Lap",
     "AudioRef": "DLC_AW_Frontend_Sounds"
+  },
+  {
+    "AudioName": "Checkpoint_Lap",
+    "AudioRef": "DLC_sum20_Open_Wheel_Racing_Sounds"
   },
   {
     "AudioName": "Checkpoint_Lap",
@@ -4380,20 +4428,88 @@
     "AudioRef": "0"
   },
   {
+    "AudioName": "Beast_Sprint_Loop",
+    "AudioRef": "DLC_AR_Beast_Soundset"
+  },
+  {
+    "AudioName": "Beast_Jump",
+    "AudioRef": "DLC_AR_Beast_Soundset"
+  },
+  {
+    "AudioName": "Beast_Jump_Land",
+    "AudioRef": "DLC_AR_Beast_Soundset"
+  },
+  {
     "AudioName": "FIRST_PLACE",
     "AudioRef": "HUD_MINI_GAME_SOUNDSET"
   },
   {
-    "AudioName": "5S",
-    "AudioRef": "MP_MISSION_COUNTDOWN_SOUNDSET"
+    "AudioName": "PLACE_OBJECT",
+    "AudioRef": "0"
   },
   {
-    "AudioName": "Finish_Win",
-    "AudioRef": "DLC_AW_Frontend_Sounds"
+    "AudioName": "PLACE_ENEMY",
+    "AudioRef": "0"
   },
   {
-    "AudioName": "Finish_Default",
-    "AudioRef": "DLC_AW_Frontend_Sounds"
+    "AudioName": "collect_part",
+    "AudioRef": "DLC_sum20_BB_Captured_Sounds"
+  },
+  {
+    "AudioName": "06",
+    "AudioRef": "0"
+  },
+  {
+    "AudioName": "Air_Defences_Activated",
+    "AudioRef": "DLC_sum20_Business_Battle_AC_Sounds"
+  },
+  {
+    "AudioName": "Air_Defenses_Disabled",
+    "AudioRef": "DLC_sum20_Business_Battle_AC_Sounds"
+  },
+  {
+    "AudioName": "Hack_Fail",
+    "AudioRef": "DLC_sum20_Business_Battle_AC_Sounds"
+  },
+  {
+    "AudioName": "Hack_Success",
+    "AudioRef": "DLC_sum20_Business_Battle_AC_Sounds"
+  },
+  {
+    "AudioName": "door_unlocked",
+    "AudioRef": "dlc_sum20_factory_raid_sounds"
+  },
+  {
+    "AudioName": "Power_Down",
+    "AudioRef": "DLC_HEIST_HACKING_SNAKE_SOUNDS"
+  },
+  {
+    "AudioName": "Beep_Red",
+    "AudioRef": "DLC_HEIST_HACKING_SNAKE_SOUNDS"
+  },
+  {
+    "AudioName": "Beep_Green",
+    "AudioRef": "DLC_HEIST_HACKING_SNAKE_SOUNDS"
+  },
+  {
+    "AudioName": "Success",
+    "AudioRef": "DLC_HEIST_HACKING_SNAKE_SOUNDS"
+  },
+  {
+    "AudioName": "Put_Away",
+    "AudioRef": "Phone_SoundSet_Michael"
+  },
+  {
+    "AudioName": "Failure",
+    "AudioRef": "DLC_HEIST_HACKING_SNAKE_SOUNDS"
+  },
+  {
+    "AudioName": "Click",
+    "AudioRef": "DLC_HEIST_HACKING_SNAKE_SOUNDS"
+  },
+  {
+    "AudioName": "movie_prop",
+    "AudioRef": "DLC_SUM20_HIDDEN_COLLECTIBLES"
   },
   {
     "AudioName": "MP_WAVE_COMPLETE",
@@ -4437,18 +4553,6 @@
   },
   {
     "AudioName": "Payment_Non_Player",
-    "AudioRef": "DLC_HEISTS_GENERIC_SOUNDS"
-  },
-  {
-    "AudioName": "Nightvision_Loop",
-    "AudioRef": "GTAO_Vision_Modes_SoundSet"
-  },
-  {
-    "AudioName": "Thermal_Loop",
-    "AudioRef": "GTAO_Vision_Modes_SoundSet"
-  },
-  {
-    "AudioName": "Put_On_Mask",
     "AudioRef": "DLC_HEISTS_GENERIC_SOUNDS"
   },
   {
@@ -4658,58 +4762,6 @@
   {
     "AudioName": "Losing_Team_Shard",
     "AudioRef": "DLC_Exec_TP_SoundSet"
-  },
-  {
-    "AudioName": "Power_Down",
-    "AudioRef": "DLC_HEIST_HACKING_SNAKE_SOUNDS"
-  },
-  {
-    "AudioName": "Beep_Red",
-    "AudioRef": "DLC_HEIST_HACKING_SNAKE_SOUNDS"
-  },
-  {
-    "AudioName": "Beep_Green",
-    "AudioRef": "DLC_HEIST_HACKING_SNAKE_SOUNDS"
-  },
-  {
-    "AudioName": "Success",
-    "AudioRef": "DLC_HEIST_HACKING_SNAKE_SOUNDS"
-  },
-  {
-    "AudioName": "Put_Away",
-    "AudioRef": "Phone_SoundSet_Michael"
-  },
-  {
-    "AudioName": "Crash",
-    "AudioRef": "DLC_HEIST_HACKING_SNAKE_SOUNDS"
-  },
-  {
-    "AudioName": "Failure",
-    "AudioRef": "DLC_HEIST_HACKING_SNAKE_SOUNDS"
-  },
-  {
-    "AudioName": "Click",
-    "AudioRef": "DLC_HEIST_HACKING_SNAKE_SOUNDS"
-  },
-  {
-    "AudioName": "Start",
-    "AudioRef": "DLC_HEIST_HACKING_SNAKE_SOUNDS"
-  },
-  {
-    "AudioName": "Trail_Custom",
-    "AudioRef": "DLC_HEIST_HACKING_SNAKE_SOUNDS"
-  },
-  {
-    "AudioName": "Turn",
-    "AudioRef": "DLC_HEIST_HACKING_SNAKE_SOUNDS"
-  },
-  {
-    "AudioName": "Goal",
-    "AudioRef": "DLC_HEIST_HACKING_SNAKE_SOUNDS"
-  },
-  {
-    "AudioName": "Background",
-    "AudioRef": "DLC_HEIST_HACKING_SNAKE_SOUNDS"
   },
   {
     "AudioName": "Crash",
@@ -5336,14 +5388,6 @@
     "AudioRef": "DLC_SR_LG_Player_Sounds"
   },
   {
-    "AudioName": "Metal_Detector_Big_Guns",
-    "AudioRef": "dlc_ch_heist_finale_security_alarms_sounds"
-  },
-  {
-    "AudioName": "Metal_Detector_Small_Guns",
-    "AudioRef": "dlc_ch_heist_finale_security_alarms_sounds"
-  },
-  {
     "AudioName": "Breaker_02",
     "AudioRef": "0"
   },
@@ -5576,10 +5620,6 @@
     "AudioRef": "DLC_IE_VV_General_Sounds"
   },
   {
-    "AudioName": "Bounds_Timer_Reset",
-    "AudioRef": "DLC_SM_VEHWA_Player_Sounds"
-  },
-  {
     "AudioName": "Prop_Reset",
     "AudioRef": "0"
   },
@@ -5720,6 +5760,14 @@
     "AudioRef": "0"
   },
   {
+    "AudioName": "dlc_ch_heist_finale_HEALTH_DRAIN_ZONE_coughs_sounds",
+    "AudioRef": "0"
+  },
+  {
+    "AudioName": "DLC_SUM20_HIDDEN_COLLECTIBLES",
+    "AudioRef": "0"
+  },
+  {
     "AudioName": "Friend_Deliver",
     "AudioRef": "HUD_FRONTEND_MP_COLLECTABLE_SOUNDS"
   },
@@ -5753,10 +5801,6 @@
   },
   {
     "AudioName": "PLACE_CHECKPOINT",
-    "AudioRef": "0"
-  },
-  {
-    "AudioName": "YES",
     "AudioRef": "0"
   },
   {
@@ -5892,10 +5936,6 @@
     "AudioRef": "biker_formation_sounds"
   },
   {
-    "AudioName": "06",
-    "AudioRef": "0"
-  },
-  {
     "AudioName": "Goon_Paid_Small",
     "AudioRef": "GTAO_Boss_Goons_FM_Soundset"
   },
@@ -5914,6 +5954,10 @@
   {
     "AudioName": "bomb_deployed",
     "AudioRef": "DLC_SM_Bomb_Bay_Bombs_Sounds"
+  },
+  {
+    "AudioName": "collect_water",
+    "AudioRef": "dlc_sum20_yacht_missions_ah_sounds"
   },
   {
     "AudioName": "chaff_cooldown",
@@ -5950,6 +5994,18 @@
   {
     "AudioName": "Rappel_Land",
     "AudioRef": "GTAO_Rappel_Sounds"
+  },
+  {
+    "AudioName": "movie_prop_reward_cut_music",
+    "AudioRef": "DLC_SUM20_HIDDEN_COLLECTIBLES"
+  },
+  {
+    "AudioName": "movie_prop_reward_cut_roar",
+    "AudioRef": "DLC_SUM20_HIDDEN_COLLECTIBLES"
+  },
+  {
+    "AudioName": "Armour_On",
+    "AudioRef": "DLC_GR_Steal_Miniguns_Sounds"
   },
   {
     "AudioName": "Wheel_Spin_Start",
@@ -6512,6 +6568,22 @@
     "AudioRef": "0"
   },
   {
+    "AudioName": "Countdown_Loop",
+    "AudioRef": "0"
+  },
+  {
+    "AudioName": "Arming_Countdown",
+    "AudioRef": "0"
+  },
+  {
+    "AudioName": "Bomb_Armed",
+    "AudioRef": "0"
+  },
+  {
+    "AudioName": "Bomb_Disarmed",
+    "AudioRef": "0"
+  },
+  {
     "AudioName": "Meter_Fill_Loop",
     "AudioRef": "DLC_IE_Tail_Vehicle_Sounds"
   },
@@ -6556,8 +6628,16 @@
     "AudioRef": "GTAO_Magnate_Yacht_Attack_Soundset"
   },
   {
+    "AudioName": "QUIT_WHOOSH",
+    "AudioRef": "HUD_MINI_GAME_SOUNDSET"
+  },
+  {
     "AudioName": "HIGHLIGHT",
     "AudioRef": "HUD_FRONTEND_DEFAULT_SOUNDSET"
+  },
+  {
+    "AudioName": "GOLF_BALL_ROLL_PUTT_MASTER",
+    "AudioRef": "0"
   },
   {
     "AudioName": "GOLF_FORWARD_SWING_PERFECT_VB_MASTER",
@@ -6566,6 +6646,10 @@
   {
     "AudioName": "GOLF_FORWARD_SWING_VB_MASTER",
     "AudioRef": "0"
+  },
+  {
+    "AudioName": "HIGHLIGHT_NAV_UP_DOWN",
+    "AudioRef": "HUD_FRONTEND_DEFAULT_SOUNDSET"
   },
   {
     "AudioName": "SELECT",
@@ -7202,6 +7286,14 @@
   {
     "AudioName": "Barge_Door",
     "AudioRef": "Prologue_Sounds"
+  },
+  {
+    "AudioName": "Music_Dynamic_Banked",
+    "AudioRef": "sum20_am_Qub3d_sounds"
+  },
+  {
+    "AudioName": "MENU_SELECT",
+    "AudioRef": "0"
   },
   {
     "AudioName": "SHOOTING_RANGE_ROUND_OVER",

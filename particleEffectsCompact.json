@@ -1723,7 +1723,6 @@
       "bullet_tracer_xs_sr",
       "proj_xs_sr_raygun_trail",
       "muz_xs_sr_carbine",
-      "exp_xs_ray",
       "muz_xs_sr_raygun",
       "muz_xs_sr_minigun"
     ]
@@ -1854,6 +1853,42 @@
       "blood_entry",
       "eject_pistol",
       "muz_pistol"
+    ]
+  },
+  {
+    "DictionaryName": "cut_hs3f",
+    "EffectNames": [
+      "cut_hs3f_dust_motes",
+      "cut_hs3f_blood_entry",
+      "cut_hs3f_exp_vault",
+      "cut_hs3f_exp_tunnel",
+      "cut_hs3f_esc_skid_smoke",
+      "cut_hs3f_muz_pistol",
+      "sp_cut_hs3f_exp_vault_r",
+      "cut_hs3f_muz_smg",
+      "cut_hs3f_cig_smoke",
+      "cut_hs3f_ceiling_debris",
+      "sp_cut_hs3f_ceiling_debris",
+      "cut_hs3f_tunnel_collapse",
+      "sp_cut_hs3f_exp_vault"
+    ]
+  },
+  {
+    "DictionaryName": "weap_ch_vehicle_weapons",
+    "EffectNames": [
+      "muz_ch_tank_flamethrower",
+      "muz_ch_tank_rocket",
+      "bullet_tracer_ch_tank_laser",
+      "muz_ch_tank_laser",
+      "muz_ch_tank_mg",
+      "bullet_tracer_ch_tank_mg"
+    ]
+  },
+  {
+    "DictionaryName": "weap_ch_weapons",
+    "EffectNames": [
+      "weap_ch_hazcan_splash_sp",
+      "weap_ch_hazcan"
     ]
   },
   {
@@ -2531,42 +2566,6 @@
     ]
   },
   {
-    "DictionaryName": "cut_hs3f",
-    "EffectNames": [
-      "cut_hs3f_dust_motes",
-      "cut_hs3f_blood_entry",
-      "cut_hs3f_exp_vault",
-      "cut_hs3f_exp_tunnel",
-      "cut_hs3f_esc_skid_smoke",
-      "cut_hs3f_muz_pistol",
-      "sp_cut_hs3f_exp_vault_r",
-      "cut_hs3f_muz_smg",
-      "cut_hs3f_cig_smoke",
-      "cut_hs3f_ceiling_debris",
-      "sp_cut_hs3f_ceiling_debris",
-      "cut_hs3f_tunnel_collapse",
-      "sp_cut_hs3f_exp_vault"
-    ]
-  },
-  {
-    "DictionaryName": "weap_ch_vehicle_weapons",
-    "EffectNames": [
-      "muz_ch_tank_flamethrower",
-      "muz_ch_tank_rocket",
-      "bullet_tracer_ch_tank_laser",
-      "muz_ch_tank_laser",
-      "muz_ch_tank_mg",
-      "bullet_tracer_ch_tank_mg"
-    ]
-  },
-  {
-    "DictionaryName": "weap_ch_weapons",
-    "EffectNames": [
-      "weap_ch_hazcan_splash_sp",
-      "weap_ch_hazcan"
-    ]
-  },
-  {
     "DictionaryName": "scr_lowrider",
     "EffectNames": [
       "scr_lowrider_flare"
@@ -2604,6 +2603,34 @@
       "scr_stunts_bomb_fuse",
       "scr_stunts_shotburst_spawn",
       "scr_stunts_bomb_fuse_sp"
+    ]
+  },
+  {
+    "DictionaryName": "scr_sum_gy",
+    "EffectNames": [
+      "scr_sum_gy_felon_fire_back",
+      "scr_sum_gy_water_bomb_trail",
+      "scr_sum_gy_gauntlet_fire_back",
+      "scr_sum_gy_exp_water_bomb",
+      "scr_sum_gy_tempesta_fire_back",
+      "scr_sum_gy_felon_fire_front",
+      "scr_sum_gy_tempesta_fire_front",
+      "scr_sum_gy_gauntlet_fire_front",
+      "scr_sum_gy_mule4_fire_front",
+      "scr_sum_gy_mule4_fire_back"
+    ]
+  },
+  {
+    "DictionaryName": "scr_sum_ow",
+    "EffectNames": [
+      "scr_sum_ow_race_repair_smoke"
+    ]
+  },
+  {
+    "DictionaryName": "scr_sum_q3",
+    "EffectNames": [
+      "scr_sum_q3_block_destroy",
+      "scr_sum_q3_block_destroy_charge"
     ]
   },
   {

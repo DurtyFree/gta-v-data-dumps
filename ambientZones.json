@@ -40622,6 +40622,41 @@
     ]
   },
   {
+    "Name": "az_dlc_cascon_01",
+    "Shape": "Sphere",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 1140.0,
+      "Y": 235.0,
+      "Z": -50.0
+    },
+    "OuterSize": {
+      "X": 15.0,
+      "Y": 20.0,
+      "Z": 20.0
+    },
+    "InnerPosition": {
+      "X": 1142.0,
+      "Y": 232.0,
+      "Z": -50.0
+    },
+    "InnerSize": {
+      "X": 1.0,
+      "Y": 1.0,
+      "Z": 1.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_cascon_grind",
+      "ar_dlc_cascon_ham",
+      "ar_dlc_cascon_ng",
+      "ar_dlc_cascon_weld",
+      "ar_dlc_cascon_drop",
+      "ar_dlc_cascon_shouts"
+    ]
+  },
+  {
     "Name": "az_dlc_heists_bahama_mamas",
     "Shape": "Box",
     "Flags0": "0xAA800424",

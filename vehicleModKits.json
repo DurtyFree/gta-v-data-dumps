@@ -5037,6 +5037,18 @@
     ]
   },
   {
+    "Id": 391,
+    "Name": "391_manana2_modkit",
+    "DlcName": "mpsum",
+    "Type": "MKT_STANDARD",
+    "VisibleModsCount": 197,
+    "StatModsCount": 77,
+    "Liveries": [],
+    "VehicleModels": [
+      "manana2"
+    ]
+  },
+  {
     "Id": 401,
     "Name": "401_vstr_modkit",
     "DlcName": "mpheist3",
@@ -5202,6 +5214,174 @@
     "Liveries": [],
     "VehicleModels": [
       "yosemite2"
+    ]
+  },
+  {
+    "Id": 415,
+    "Name": "415_dukes3_modkit",
+    "DlcName": "mpsum",
+    "Type": "MKT_SPORT",
+    "VisibleModsCount": 102,
+    "StatModsCount": 77,
+    "Liveries": [],
+    "VehicleModels": [
+      "dukes3"
+    ]
+  },
+  {
+    "Id": 418,
+    "Name": "418_club_modkit",
+    "DlcName": "mpsum",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 80,
+    "StatModsCount": 77,
+    "Liveries": [],
+    "VehicleModels": [
+      "club"
+    ]
+  },
+  {
+    "Id": 419,
+    "Name": "419_gauntlet5_modkit",
+    "DlcName": "mpsum",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 168,
+    "StatModsCount": 77,
+    "Liveries": [],
+    "VehicleModels": [
+      "gauntlet5"
+    ]
+  },
+  {
+    "Id": 422,
+    "Name": "422_yosemite3_modkit",
+    "DlcName": "mpsum",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 255,
+    "StatModsCount": 77,
+    "Liveries": [],
+    "VehicleModels": [
+      "yosemite3"
+    ]
+  },
+  {
+    "Id": 423,
+    "Name": "423_youga3_modkit",
+    "DlcName": "mpsum",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 150,
+    "StatModsCount": 77,
+    "Liveries": [],
+    "VehicleModels": [
+      "youga3"
+    ]
+  },
+  {
+    "Id": 424,
+    "Name": "424_peyote3_modkit",
+    "DlcName": "mpsum",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 202,
+    "StatModsCount": 77,
+    "Liveries": [],
+    "VehicleModels": [
+      "peyote3"
+    ]
+  },
+  {
+    "Id": 425,
+    "Name": "425_glendale2_modkit",
+    "DlcName": "mpsum",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 209,
+    "StatModsCount": 77,
+    "Liveries": [],
+    "VehicleModels": [
+      "glendale2"
+    ]
+  },
+  {
+    "Id": 428,
+    "Name": "428_penumbra2_modkit",
+    "DlcName": "mpsum",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 129,
+    "StatModsCount": 77,
+    "Liveries": [],
+    "VehicleModels": [
+      "penumbra2"
+    ]
+  },
+  {
+    "Id": 429,
+    "Name": "429_landstalker2_modkit",
+    "DlcName": "mpsum",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 54,
+    "StatModsCount": 77,
+    "Liveries": [],
+    "VehicleModels": [
+      "landstalker2"
+    ]
+  },
+  {
+    "Id": 430,
+    "Name": "430_seminole2_modkit",
+    "DlcName": "mpsum",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 62,
+    "StatModsCount": 77,
+    "Liveries": [],
+    "VehicleModels": [
+      "seminole2"
+    ]
+  },
+  {
+    "Id": 431,
+    "Name": "431_tigon_modkit",
+    "DlcName": "mpsum",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 44,
+    "StatModsCount": 77,
+    "Liveries": [],
+    "VehicleModels": [
+      "tigon"
+    ]
+  },
+  {
+    "Id": 432,
+    "Name": "432_openwheel1_modkit",
+    "DlcName": "mpsum",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 27,
+    "StatModsCount": 78,
+    "Liveries": [],
+    "VehicleModels": [
+      "openwheel1"
+    ]
+  },
+  {
+    "Id": 433,
+    "Name": "433_coquette4_modkit",
+    "DlcName": "mpsum",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 51,
+    "StatModsCount": 77,
+    "Liveries": [],
+    "VehicleModels": [
+      "coquette4"
+    ]
+  },
+  {
+    "Id": 434,
+    "Name": "434_openwheel2_modkit",
+    "DlcName": "mpsum",
+    "Type": "MKT_SPECIAL",
+    "VisibleModsCount": 48,
+    "StatModsCount": 75,
+    "Liveries": [],
+    "VehicleModels": [
+      "openwheel2"
     ]
   },
   {

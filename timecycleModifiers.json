@@ -1,7178 +1,7213 @@
 [
   {
     "Name": "li",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 33
   },
   {
     "Name": "underwater",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 115
   },
   {
     "Name": "underwater_deep",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 81
   },
   {
     "Name": "NoAmbientmult",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 4
   },
   {
     "Name": "superDARK",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 3
   },
   {
     "Name": "CAMERA_BW",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 33
   },
   {
     "Name": "Forest",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 30
   },
   {
     "Name": "micheal",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 10
   },
   {
     "Name": "TREVOR",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 15
   },
   {
     "Name": "FRANKLIN",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 20
   },
   {
     "Name": "Tunnel",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 13
   },
   {
     "Name": "carpark",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 18
   },
   {
     "Name": "NEW_abattoir",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 67
   },
   {
     "Name": "Vagos",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 23
   },
   {
     "Name": "cops",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 18
   },
   {
     "Name": "Bikers",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 28
   },
   {
     "Name": "BikersSPLASH",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 30
   },
   {
     "Name": "VagosSPLASH",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 21
   },
   {
     "Name": "CopsSPLASH",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 22
   },
   {
     "Name": "VAGOS_new_garage",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 24
   },
   {
     "Name": "VAGOS_new_hangout",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 26
   },
   {
     "Name": "NEW_jewel",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 35
   },
   {
     "Name": "frankilnsAUNTS_new",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 37
   },
   {
     "Name": "frankilnsAUNTS_SUNdir",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 2
   },
   {
     "Name": "StreetLighting",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 1
   },
   {
     "Name": "NEW_tunnels",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 27
   },
   {
     "Name": "NEW_yellowtunnels",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 55
   },
   {
     "Name": "NEW_tunnels_hole",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 31
   },
   {
     "Name": "NEW_tunnels_ditch",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 30
   },
   {
     "Name": "Paleto",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 6
   },
   {
     "Name": "new_bank",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 17
   },
   {
     "Name": "ReduceDrawDistance",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 10
   },
   {
     "Name": "ReduceDrawDistanceMission",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 6
   },
   {
     "Name": "lightpolution",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 16
   },
   {
     "Name": "NEW_lesters",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 35
   },
   {
     "Name": "ReduceDrawDistanceMAP",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 6
   },
   {
     "Name": "reducewaterREF",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 1
   },
   {
     "Name": "garage",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 12
   },
   {
     "Name": "LightPollutionHills",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 16
   },
   {
     "Name": "NewMicheal",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 30
   },
   {
     "Name": "NewMichealupstairs",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 20
   },
   {
     "Name": "NewMichealstoilet",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 18
   },
   {
     "Name": "NewMichealgirly",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 29
   },
   {
     "Name": "WATER_port",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 60
   },
   {
     "Name": "WATER_salton",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 68
   },
   {
     "Name": "WATER_river",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 61
   },
   {
     "Name": "FIB_interview",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 33
   },
   {
     "Name": "NEW_station_unfinished",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 33
   },
   {
     "Name": "cashdepot",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 30
   },
   {
     "Name": "cashdepotEMERGENCY",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 36
   },
   {
     "Name": "FrankilinsHOUSEhills",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 29
   },
   {
     "Name": "HicksbarNEW",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 32
   },
   {
     "Name": "NOdirectLight",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 0
   },
   {
     "Name": "SALTONSEA",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 59
   },
   {
     "Name": "TUNNEL_green",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 32
   },
   {
     "Name": "NewMicheal_night",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 24
   },
   {
     "Name": "WATER_muddy",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 69
   },
   {
     "Name": "WATER_shore",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 22
   },
   {
     "Name": "damage",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 11
   },
   {
     "Name": "hitped",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 2
   },
   {
     "Name": "dying",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 8
   },
   {
     "Name": "overwater",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 6
   },
   {
     "Name": "whitenightlighting",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 6
   },
   {
     "Name": "TUNNEL_yellow",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 32
   },
   {
     "Name": "buildingTOP",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 1
   },
   {
     "Name": "WATER_lab",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 89
   },
   {
     "Name": "cinema",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 36
   },
   {
     "Name": "fireDEPT",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 34
   },
   {
     "Name": "ranch",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 33
   },
   {
     "Name": "TUNNEL_white",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 36
   },
   {
     "Name": "V_recycle_mainroom",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 26
   },
   {
     "Name": "V_recycle_dark",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 27
   },
   {
     "Name": "V_recycle_light",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 26
   },
   {
     "Name": "lightning_weak",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 33
   },
   {
     "Name": "lightning_strong",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 36
   },
   {
     "Name": "lightning_cloud",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 9
   },
   {
     "Name": "gunclubrange",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 36
   },
   {
     "Name": "NoAmbientmult_interior",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 1
   },
   {
     "Name": "FullAmbientmult_interior",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 1
   },
   {
     "Name": "StreetLightingJunction",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 1
   },
   {
     "Name": "StreetLightingtraffic",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 1
   },
   {
     "Name": "Multipayer_spectatorCam",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 18
   },
   {
     "Name": "INT_NoAmbientmult",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 1
   },
   {
     "Name": "INT_NoAmbientmult_art",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 1
   },
   {
     "Name": "INT_FullAmbientmult",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 1
   },
   {
     "Name": "INT_FULLAmbientmult_art",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 1
   },
   {
     "Name": "INT_FULLAmbientmult_both",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 2
   },
   {
     "Name": "INT_NoAmbientmult_both",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 2
   },
   {
     "Name": "Sniper",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 17
   },
   {
     "Name": "ReduceSSAO",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 0
   },
   {
     "Name": "scope_zoom_in",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 5
   },
   {
     "Name": "scope_zoom_out",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 5
   },
   {
     "Name": "crane_cam",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 19
   },
   {
     "Name": "WATER_silty",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 64
   },
   {
     "Name": "Trevors_room",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 31
   },
   {
     "Name": "Hint_cam",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 16
   },
   {
     "Name": "venice_canal_tunnel",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 47
   },
   {
     "Name": "blackNwhite",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 22
   },
   {
     "Name": "projector",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 12
   },
   {
     "Name": "paleto_opt",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 8
   },
   {
     "Name": "warehouse",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 27
   },
   {
     "Name": "pulse",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 20
   },
   {
     "Name": "sleeping",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 10
   },
   {
     "Name": "INT_garage",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 19
   },
   {
     "Name": "nextgen",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 5
   },
   {
     "Name": "crane_cam_cinematic",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 7
   },
   {
     "Name": "TUNNEL_orange",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 33
   },
   {
     "Name": "traffic_skycam",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 30
   },
   {
     "Name": "powerstation",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 7
   },
   {
     "Name": "SAWMILL",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 9
   },
   {
     "Name": "LODmult_global_reduce",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 1
   },
   {
     "Name": "LODmult_HD_orphan_reduce",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 2
   },
   {
     "Name": "LODmult_HD_orphan_LOD_reduce",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 3
   },
   {
     "Name": "LODmult_LOD_reduce",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 1
   },
   {
     "Name": "LODmult_SLOD1_reduce",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 1
   },
   {
     "Name": "LODmult_SLOD2_reduce",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 1
   },
   {
     "Name": "LODmult_SLOD3_reduce",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 1
   },
   {
     "Name": "NewMicheal_upstairs",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 24
   },
   {
     "Name": "micheals_lightsOFF",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 2
   },
   {
     "Name": "telescope",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 22
   },
   {
     "Name": "WATER_silverlake",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 56
   },
   {
     "Name": "WATER _lab_cooling",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 95
   },
   {
     "Name": "baseTONEMAPPING",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 16
   },
   {
     "Name": "WATER_salton_bottom",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 37
   },
   {
     "Name": "new_stripper_changing",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 29
   },
   {
     "Name": "underwater_deep_clear",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 4
   },
   {
     "Name": "prologue_ending_fog",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 25
   },
   {
     "Name": "graveyard_shootout",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 16
   },
   {
     "Name": "morebloom",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 3
   },
   {
     "Name": "LIGHTSreduceFALLOFF",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 0
   },
   {
     "Name": "INT_posh_hairdresser",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 23
   },
   {
     "Name": "V_strip_office",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 28
   },
   {
     "Name": "sunglasses",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 15
   },
   {
     "Name": "vespucci_garage",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 34
   },
   {
     "Name": "half_direct",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 3
   },
   {
     "Name": "carpark_dt1_03",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 20
   },
   {
     "Name": "tunnel_id1_11",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 20
   },
   {
     "Name": "reducelightingcost",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 2
   },
   {
     "Name": "NOrain",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 1
   },
   {
     "Name": "morgue_dark",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 44
   },
   {
     "Name": "CS3_rail_tunnel",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 19
   },
   {
     "Name": "new_tunnels_entrance",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 47
   },
   {
     "Name": "spectator1",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 32
   },
   {
     "Name": "spectator2",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 63
   },
   {
     "Name": "spectator3",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 34
   },
   {
     "Name": "spectator4",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 36
   },
   {
     "Name": "spectator5",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 43
   },
   {
     "Name": "spectator6",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 37
   },
   {
     "Name": "spectator7",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 33
   },
   {
     "Name": "spectator8",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 48
   },
   {
     "Name": "spectator9",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 31
   },
   {
     "Name": "spectator10",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 53
   },
   {
     "Name": "INT_NOdirectLight",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 1
   },
   {
     "Name": "WATER_resevoir",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 68
   },
   {
     "Name": "WATER_hills",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 66
   },
   {
     "Name": "WATER_militaryPOOP",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 62
   },
   {
     "Name": "NEW_ornate_bank",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 43
   },
   {
     "Name": "NEW_ornate_bank_safe",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 46
   },
   {
     "Name": "NEW_ornate_bank_entrance",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 38
   },
   {
     "Name": "NEW_ornate_bank_office",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 46
   },
   {
     "Name": "LODmult_global_reduce_NOHD",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 6
   },
   {
     "Name": "interior_WATER_lighting",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 1
   },
   {
     "Name": "gorge_reflectionoffset",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 2
   },
   {
     "Name": "eyeINtheSKY",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 22
   },
   {
     "Name": "resvoire_reflection",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 6
   },
   {
     "Name": "NO_weather",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 1
   },
   {
     "Name": "prologue_ext_art_amb",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 12
   },
   {
     "Name": "prologue_shootout",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 20
   },
   {
     "Name": "heathaze",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 22
   },
   {
     "Name": "KT_underpass",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 25
   },
   {
     "Name": "INT_nowaterREF",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 1
   },
   {
     "Name": "carMOD_underpass",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 28
   },
   {
     "Name": "refit",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 34
   },
   {
     "Name": "NO_streetAmbient",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 1
   },
   {
     "Name": "NO_coronas",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 2
   },
   {
     "Name": "epsilion",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 24
   },
   {
     "Name": "WATER_refmap_high",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 0
   },
   {
     "Name": "WATER_refmap_med",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 0
   },
   {
     "Name": "WATER_refmap_low",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 0
   },
   {
     "Name": "WATER_refmap_verylow",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 0
   },
   {
     "Name": "WATER_refmap_poolside",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 1
   },
   {
     "Name": "WATER_refmap_silverlake",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 0
   },
   {
     "Name": "WATER_refmap_venice",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 0
   },
   {
     "Name": "FORdoron_delete",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 4
   },
   {
     "Name": "NO_fog_alpha",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 1
   },
   {
     "Name": "V_strip_nofog",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 28
   },
   {
     "Name": "METRO_Tunnels",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 59
   },
   {
     "Name": "METRO_Tunnels_entrance",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 31
   },
   {
     "Name": "METRO_platform",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 30
   },
   {
     "Name": "STRIP_stage",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 55
   },
   {
     "Name": "STRIP_office",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 30
   },
   {
     "Name": "STRIP_changing",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 30
   },
   {
     "Name": "INT_NO_fogALPHA",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 3
   },
   {
     "Name": "STRIP_nofog",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 30
   },
   {
     "Name": "INT_streetlighting",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 8
   },
   {
     "Name": "ch2_tunnel_whitelight",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 6
   },
   {
     "Name": "AmbientPUSH",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 1
   },
   {
     "Name": "ship_lighting",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 4
   },
   {
     "Name": "powerplant_nightlight",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 8
   },
   {
     "Name": "paleto_nightlight",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 8
   },
   {
     "Name": "militarybase_nightlight",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 8
   },
   {
     "Name": "sandyshore_nightlight",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 8
   },
   {
     "Name": "jewel_gas",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 0
   },
   {
     "Name": "WATER_refmap_off",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 13
   },
   {
     "Name": "trailer_explosion_optimise",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 19
   },
   {
     "Name": "nervousRON_fog",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 7
   },
   {
     "Name": "DONT_overide_sunpos",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 1
   },
   {
     "Name": "gallery_refmod",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 20
   },
   {
     "Name": "prison_nightlight",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 8
   },
   {
     "Name": "multiplayer_ped_fight",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 4
   },
   {
     "Name": "ship_explosion_underwater",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 20
   },
   {
     "Name": "EXTRA_bouncelight",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 1
   },
   {
     "Name": "secret_camera",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 33
   },
   {
     "Name": "canyon_mission",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 23
   },
   {
     "Name": "gorge_reflection_gpu",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 4
   },
   {
     "Name": "subBASE_water_ref",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 13
   },
   {
     "Name": "poolsidewaterreflection2",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 13
   },
   {
     "Name": "CUSTOM_streetlight",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 1
   },
   {
     "Name": "ufo",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 32
   },
   {
     "Name": "ship_explosion_underwater\r\n",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 1
   },
   {
     "Name": "lab_none_exit",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 24
   },
   {
     "Name": "FinaleBankexit",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 28
   },
   {
     "Name": "prologue_reflection_opt",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 4
   },
   {
     "Name": "tunnel_entrance",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 1
   },
   {
     "Name": "tunnel_entrance_INT",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 1
   },
   {
     "Name": "id1_11_tunnel",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 31
   },
   {
     "Name": "reflection_correct_ambient",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 3
   },
   {
     "Name": "scanline_cam_cheap",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 12
   },
   {
     "Name": "scanline_cam",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 16
   },
   {
     "Name": "VC_tunnel_entrance",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 0
   },
   {
     "Name": "WATER_REF_malibu",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 13
   },
   {
     "Name": "carpark_dt1_02",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 31
   },
   {
     "Name": "FIB_interview_optimise",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 21
   },
   {
     "Name": "Prologue_shootout_opt",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 10
   },
   {
     "Name": "hangar_lightsmod",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 2
   },
   {
     "Name": "plane_inside_mode",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 34
   },
   {
     "Name": "eatra_bouncelight_beach",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 5
   },
   {
     "Name": "downtown_FIB_cascades_opt",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 3
   },
   {
     "Name": "jewel_optim",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 2
   },
   {
     "Name": "gorge_reflectionoffset2",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 2
   },
   {
     "Name": "ufo_deathray",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 59
   },
   {
     "Name": "PORT_heist_underwater",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 5
   },
   {
     "Name": "TUNNEL_orange_exterior",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 17
   },
   {
     "Name": "hillstunnel",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 8
   },
   {
     "Name": "jewelry_entrance_INT",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 2
   },
   {
     "Name": "jewelry_entrance",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 2
   },
   {
     "Name": "jewelry_entrance_INT_fog",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 2
   },
   {
     "Name": "TUNNEL_yellow_ext",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 12
   },
   {
     "Name": "NEW_jewel_EXIT",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 35
   },
   {
     "Name": "services_nightlight",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 8
   },
   {
     "Name": "CS1_railwayB_tunnel",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 21
   },
   {
     "Name": "TUNNEL_green_ext",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 8
   },
   {
     "Name": "CAMERA_secuirity",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 33
   },
   {
     "Name": "CAMERA_secuirity_FUZZ",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 39
   },
   {
     "Name": "int_hospital_small",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 32
   },
   {
     "Name": "int_hospital_dark",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 32
   },
   {
     "Name": "plaza_carpark",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 27
   },
   {
     "Name": "gen_bank",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 27
   },
   {
     "Name": "nightvision",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 30
   },
   {
     "Name": "WATER_cove",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 116
   },
   {
     "Name": "glasses_Darkblue",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 15
   },
   {
     "Name": "glasses_VISOR",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 18
   },
   {
     "Name": "heist_boat",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 15
   },
   {
     "Name": "heist_boat_engineRoom",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 15
   },
   {
     "Name": "buggy_shack",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 28
   },
   {
     "Name": "mineshaft",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 29
   },
   {
     "Name": "NG_first",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 11
   },
   {
     "Name": "glasses_Scuba",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 9
   },
   {
     "Name": "mugShot",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 53
   },
   {
     "Name": "Glasses_BlackOut",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 8
   },
   {
     "Name": "winning_room",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 136
   },
   {
     "Name": "mugShot_lineup",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 54
   },
   {
     "Name": "MPApartHigh_palnning",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 57
   },
   {
     "Name": "v_dark",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 50
   },
   {
     "Name": "polluted",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 14
   },
   {
     "Name": "lightning",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 31
   },
   {
     "Name": "torpedo",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 12
   },
   {
     "Name": "NEW_shrinksOffice",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 54
   },
   {
     "Name": "Facebook_NEW",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 26
   },
   {
     "Name": "NEW_trevorstrailer",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 30
   },
   {
     "Name": "New_sewers",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 55
   },
   {
     "Name": "facebook_serveroom",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 30
   },
   {
     "Name": "V_Office_smoke_Fire",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 17
   },
   {
     "Name": "V_FIB_IT3_alt5",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 23
   },
   {
     "Name": "int_Hospital_DM",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 20
   },
   {
     "Name": "int_Hospital2_DM",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 30
   },
   {
     "Name": "int_Barber1",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 27
   },
   {
     "Name": "int_tattoo_B",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 32
   },
   {
     "Name": "glasses_black",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 15
   },
   {
     "Name": "glasses_brown",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 12
   },
   {
     "Name": "glasses_blue",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 15
   },
   {
     "Name": "glasses_red",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 15
   },
   {
     "Name": "glasses_green",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 24
   },
   {
     "Name": "glasses_yellow",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 24
   },
   {
     "Name": "glasses_purple",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 24
   },
   {
     "Name": "glasses_pink",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 26
   },
   {
     "Name": "glasses_orange",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 26
   },
   {
     "Name": "WATER_ID2_21",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 2
   },
   {
     "Name": "WATER_RichmanStuntJump",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 2
   },
   {
     "Name": "CH3_06_water",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 2
   },
   {
     "Name": "WATER_refmap_hollywoodlake",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 2
   },
   {
     "Name": "WATER_CH2_06_01_03",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 2
   },
   {
     "Name": "WATER_CH2_06_02",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 2
   },
   {
     "Name": "WATER_CH2_06_04",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 2
   },
   {
     "Name": "RemoteSniper",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 38
   },
   {
     "Name": "V_Office_smoke",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 22
   },
   {
     "Name": "V_Office_smoke_ext",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 17
   },
   {
     "Name": "V_FIB_IT3",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 19
   },
   {
     "Name": "V_FIB_IT3_alt",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 25
   },
   {
     "Name": "V_FIB_stairs",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 22
   },
   {
     "Name": "v_abattoir",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 23
   },
   {
     "Name": "V_Abattoir_Cold",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 24
   },
   {
     "Name": "v_recycle",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 29
   },
   {
     "Name": "v_strip3",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 28
   },
   {
     "Name": "v_strpchangerm",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 31
   },
   {
     "Name": "v_jewel2",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 17
   },
   {
     "Name": "v_foundry",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 63
   },
   {
     "Name": "V_Metro_station",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 19
   },
   {
     "Name": "v_metro",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 22
   },
   {
     "Name": "V_Metro2",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 18
   },
   {
     "Name": "v_torture",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 61
   },
   {
     "Name": "v_sweat",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 23
   },
   {
     "Name": "v_sweat_entrance",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 19
   },
   {
     "Name": "v_sweat_NoDirLight",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 26
   },
   {
     "Name": "Barry1_Stoned",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 21
   },
   {
     "Name": "v_rockclub",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 32
   },
   {
     "Name": "v_michael",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 16
   },
   {
     "Name": "v_michael_lounge",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 6
   },
   {
     "Name": "v_janitor",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 22
   },
   {
     "Name": "int_amb_mult_large",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 2
   },
   {
     "Name": "int_extlight_large",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 21
   },
   {
     "Name": "ext_int_extlight_large",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 10
   },
   {
     "Name": "int_extlight_small",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 27
   },
   {
     "Name": "int_extlight_small_clipped",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 18
   },
   {
     "Name": "int_extlight_large_fog",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 23
   },
   {
     "Name": "int_extlight_small_fog",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 23
   },
   {
     "Name": "int_extlight_none",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 20
   },
   {
     "Name": "int_extlight_none_dark",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 20
   },
   {
     "Name": "int_extlight_none_dark_fog",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 25
   },
   {
     "Name": "int_extlight_none_fog",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 24
   },
   {
     "Name": "int_clean_extlight_large",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 18
   },
   {
     "Name": "int_clean_extlight_small",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 18
   },
   {
     "Name": "int_clean_extlight_none",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 18
   },
   {
     "Name": "prologue",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 10
   },
   {
     "Name": "vagos_extlight_small",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 23
   },
   {
     "Name": "FinaleBank",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 28
   },
   {
     "Name": "FinaleBankMid",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 28
   },
   {
     "Name": "v_cashdepot",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 23
   },
   {
     "Name": "V_Solomons",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 19
   },
   {
     "Name": "int_methlab_small",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 41
   },
   {
     "Name": "int_Lost_small",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 25
   },
   {
     "Name": "int_Lost_none",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 25
   },
   {
     "Name": "int_ControlTower_small",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 27
   },
   {
     "Name": "int_ControlTower_none",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 27
   },
   {
     "Name": "int_dockcontrol_small",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 25
   },
   {
     "Name": "int_hanger_small",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 24
   },
   {
     "Name": "int_hanger_none",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 19
   },
   {
     "Name": "int_cluckinfactory_small",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 28
   },
   {
     "Name": "int_cluckinfactory_none",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 31
   },
   {
     "Name": "int_FranklinAunt_small",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 21
   },
   {
     "Name": "stc_franklinsHouse",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 9
   },
   {
     "Name": "stc_coroners",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 14
   },
   {
     "Name": "stc_trevors",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 47
   },
   {
     "Name": "stc_deviant_lounge",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 8
   },
   {
     "Name": "stc_deviant_bedroom",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 9
   },
   {
     "Name": "int_carshowroom",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 37
   },
   {
     "Name": "int_Farmhouse_small",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 25
   },
   {
     "Name": "int_Farmhouse_none",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 24
   },
   {
     "Name": "int_carmod_small",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 33
   },
   {
     "Name": "SP1_03_drawDistance",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 5
   },
   {
     "Name": "int_clotheslow_large",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 30
   },
   {
     "Name": "v_bahama",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 30
   },
   {
     "Name": "gunclub",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 39
   },
   {
     "Name": "int_GasStation",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 26
   },
   {
     "Name": "PoliceStation",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 25
   },
   {
     "Name": "PoliceStationDark",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 25
   },
   {
     "Name": "Shop247",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 29
   },
   {
     "Name": "Shop247_none",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 24
   },
   {
     "Name": "Hicksbar",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 22
   },
   {
     "Name": "cBank_back",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 22
   },
   {
     "Name": "cBank_front",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 27
   },
   {
     "Name": "int_office_Lobby",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 21
   },
   {
     "Name": "int_office_LobbyHall",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 19
   },
   {
     "Name": "SheriffStation",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 18
   },
   {
     "Name": "LifeInvaderLOD",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 35
   },
   {
     "Name": "int_motelroom",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 21
   },
   {
     "Name": "metro",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 23
   },
   {
     "Name": "int_ClothesHi",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 30
   },
   {
     "Name": "FIB_5",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 25
   },
   {
     "Name": "int_chopshop",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 29
   },
   {
     "Name": "int_tattoo",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 31
   },
   {
     "Name": "gunstore",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 31
   },
   {
     "Name": "int_Hospital_Blue",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 45
   },
   {
     "Name": "FIB_6",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 44
   },
   {
     "Name": "FIB_B",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 19
   },
   {
     "Name": "FIB_A",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 34
   },
   {
     "Name": "lab_none",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 19
   },
   {
     "Name": "lab_none_dark",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 24
   },
   {
     "Name": "lab_none_dark_fog",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 25
   },
   {
     "Name": "MP_Garage_L",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 43
   },
   {
     "Name": "MP_Studio_Lo",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 35
   },
   {
     "Name": "StadLobby",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 35
   },
   {
     "Name": "Hanger_INTmods",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 29
   },
   {
     "Name": "MPApartHigh",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 56
   },
   {
     "Name": "int_Hospital_BlueB",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 46
   },
   {
     "Name": "int_tunnel_none_dark",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 34
   },
   {
     "Name": "MP_lowgarage",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 36
   },
   {
     "Name": "MP_MedGarage",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 30
   },
   {
     "Name": "shades_yellow",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 24
   },
   {
     "Name": "shades_pink",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 24
   },
   {
     "Name": "Mp_apart_mid",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 36
   },
   {
     "Name": "yell_tunnel_nodirect",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 31
   },
   {
     "Name": "int_carrier_hanger",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 24
   },
   {
     "Name": "int_carrier_stair",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 25
   },
   {
     "Name": "int_carrier_rear",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 25
   },
   {
     "Name": "int_carrier_control",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 24
   },
   {
     "Name": "int_carrier_control_2",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 24
   },
   {
     "Name": "default",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 0
   },
   {
     "Name": "gunshop",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 17
   },
   {
     "Name": "MichaelsDirectional",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 17
   },
   {
     "Name": "Bank_HLWD",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 32
   },
   {
     "Name": "MichaelsNODirectional",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 17
   },
   {
     "Name": "MichaelsDarkroom",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 25
   },
   {
     "Name": "int_lesters",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 22
   },
   {
     "Name": "Tunnel_green1",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 18
   },
   {
     "Name": "cinema_001",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 27
   },
   {
     "Name": "exile1_plane",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 45
   },
   {
     "Name": "player_transition",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 25
   },
   {
     "Name": "player_transition_no_scanlines",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 32
   },
   {
     "Name": "player_transition_scanlines",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 5
   },
   {
     "Name": "switch_cam_1",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 28
   },
   {
     "Name": "switch_cam_2",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 31
   },
   {
     "Name": "Bloom",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 3
   },
   {
     "Name": "BloomLight",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 2
   },
   {
     "Name": "BloomMid",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 7
   },
   {
     "Name": "DrivingFocusLight",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 27
   },
   {
     "Name": "DrivingFocusDark",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 27
   },
   {
     "Name": "RaceTurboLight",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 25
   },
   {
     "Name": "RaceTurboDark",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 25
   },
   {
     "Name": "BulletTimeLight",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 33
   },
   {
     "Name": "BulletTimeDark",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 28
   },
   {
     "Name": "REDMIST",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 56
   },
   {
     "Name": "REDMIST_blend",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 57
   },
   {
     "Name": "MP_Bull_tost",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 31
   },
   {
     "Name": "MP_Bull_tost_blend",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 31
   },
   {
     "Name": "MP_Powerplay",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 34
   },
   {
     "Name": "MP_Powerplay_blend",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 34
   },
   {
     "Name": "MP_Killstreak",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 34
   },
   {
     "Name": "MP_Killstreak_blend",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 34
   },
   {
     "Name": "MP_Loser",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 34
   },
   {
     "Name": "MP_Loser_blend",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 34
   },
   {
     "Name": "CHOP",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 27
   },
   {
     "Name": "FranklinColorCode",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 35
   },
   {
     "Name": "MichaelColorCode",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 35
   },
   {
     "Name": "TrevorColorCode",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 35
   },
   {
     "Name": "NeutralColorCode",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 35
   },
   {
     "Name": "NeutralColorCodeLight",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 17
   },
   {
     "Name": "FranklinColorCodeBasic",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 8
   },
   {
     "Name": "MichaelColorCodeBasic",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 8
   },
   {
     "Name": "TrevorColorCodeBasic",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 8
   },
   {
     "Name": "NeutralColorCodeBasic",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 8
   },
   {
     "Name": "DefaultColorCode",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 19
   },
   {
     "Name": "PlayerSwitchPulse",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 10
   },
   {
     "Name": "PlayerSwitchNeutralFlash",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 13
   },
   {
     "Name": "hud_def_lensdistortion",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 2
   },
   {
     "Name": "hud_def_lensdistortion_subtle",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 2
   },
   {
     "Name": "hud_def_blur",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 1
   },
   {
     "Name": "hud_def_colorgrade",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 29
   },
   {
     "Name": "hud_def_flash",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 13
   },
   {
     "Name": "hud_def_desatcrunch",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 31
   },
   {
     "Name": "hud_def_desat_switch",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 25
   },
   {
     "Name": "hud_def_desat_cold",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 37
   },
   {
     "Name": "hud_def_desat_cold_kill",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 40
   },
   {
     "Name": "hud_def_desat_Neutral",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 34
   },
   {
     "Name": "hud_def_focus",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 24
   },
   {
     "Name": "hud_def_desat_Franklin",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 38
   },
   {
     "Name": "hud_def_desat_Michael",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 38
   },
   {
     "Name": "hud_def_desat_Trevor",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 38
   },
   {
     "Name": "hud_def_Franklin",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 33
   },
   {
     "Name": "hud_def_Michael",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 33
   },
   {
     "Name": "hud_def_Trevor",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 33
   },
   {
     "Name": "michealspliff",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 59
   },
   {
     "Name": "michealspliff_blend",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 2
   },
   {
     "Name": "michealspliff_blend02",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 2
   },
   {
     "Name": "trevorspliff",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 59
   },
   {
     "Name": "trevorspliff_blend",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 2
   },
   {
     "Name": "trevorspliff_blend02",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 2
   },
   {
     "Name": "BarryFadeOut",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 12
   },
   {
     "Name": "stoned",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 42
   },
   {
     "Name": "stoned_cutscene",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 20
   },
   {
     "Name": "stoned_monkeys",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 21
   },
   {
     "Name": "stoned_aliens",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 25
   },
   {
     "Name": "Drunk",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 33
   },
   {
     "Name": "drug_flying_base",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 49
   },
   {
     "Name": "drug_flying_01",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 4
   },
   {
     "Name": "drug_flying_02",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 4
   },
   {
     "Name": "DRUG_gas_huffin",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 53
   },
   {
     "Name": "Drug_deadman",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 37
   },
   {
     "Name": "Drug_deadman_blend",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 30
   },
   {
     "Name": "DRUG_2_drive",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 33
   },
   {
     "Name": "drug_drive_blend01",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 32
   },
   {
     "Name": "drug_drive_blend02",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 35
   },
   {
     "Name": "drug_wobbly",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 56
   },
   {
     "Name": "Dont_tazeme_bro",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 22
   },
   {
     "Name": "dont_tazeme_bro_b",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 22
   },
   {
     "Name": "int_extlght_sm_cntrst",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 22
   },
   {
     "Name": "MP_heli_cam",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 31
   },
   {
     "Name": "helicamfirst",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 11
   },
   {
     "Name": "introblue",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 16
   },
   {
     "Name": "MP_select",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 4
   },
   {
     "Name": "PERSHING_water_reflect",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 1
   },
   {
     "Name": "exile1_exit",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 43
   },
   {
     "Name": "phone_cam",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 9
   },
   {
     "Name": "ExplosionJosh",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 10
   },
   {
     "Name": "RaceTurboFlash",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 13
   },
   {
     "Name": "MP_death_grade",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 37
   },
   {
     "Name": "MP_death_grade_blend01",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 37
   },
   {
     "Name": "MP_death_grade_blend02",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 7
   },
   {
     "Name": "NG_deathfail_BW_base",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 40
   },
   {
     "Name": "NG_deathfail_BW_blend01",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 2
   },
   {
     "Name": "NG_deathfail_BW_blend02",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 2
   },
   {
     "Name": "MP_job_win",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 35
   },
   {
     "Name": "MP_job_lose",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 35
   },
   {
     "Name": "MP_corona_tournament",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 34
   },
   {
     "Name": "MP_corona_heist",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 34
   },
   {
     "Name": "MP_corona_selection",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 31
   },
   {
     "Name": "WhiteOut",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 5
   },
   {
     "Name": "BlackOut",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 10
   },
   {
     "Name": "MP_job_load",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 33
   },
   {
     "Name": "MP_intro_logo",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 22
   },
   {
     "Name": "MP_corona_switch",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 34
   },
   {
     "Name": "MP_race_finish",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 29
   },
   {
     "Name": "phone_cam1",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 41
   },
   {
     "Name": "phone_cam2",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 25
   },
   {
     "Name": "phone_cam3",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 41
   },
   {
     "Name": "phone_cam4",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 28
   },
   {
     "Name": "phone_cam5",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 31
   },
   {
     "Name": "phone_cam6",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 33
   },
   {
     "Name": "phone_cam7",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 33
   },
   {
     "Name": "phone_cam9",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 33
   },
   {
     "Name": "phone_cam10",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 41
   },
   {
     "Name": "phone_cam11",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 27
   },
   {
     "Name": "phone_cam12",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 27
   },
   {
     "Name": "phone_cam13",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 25
   },
   {
     "Name": "FranklinColorCodeBright",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 30
   },
   {
     "Name": "MichaelColorCodeBright",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 30
   },
   {
     "Name": "TrevorColorCodeBright",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 30
   },
   {
     "Name": "NeutralColorCodeBright",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 30
   },
   {
     "Name": "Kifflom",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 34
   },
   {
     "Name": "MP_job_load_01",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 37
   },
   {
     "Name": "MP_job_load_02",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 40
   },
   {
     "Name": "MP_job_preload",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 37
   },
   {
     "Name": "MP_job_preload_blend",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 37
   },
   {
     "Name": "NG_filmnoir_BW01",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 36
   },
   {
     "Name": "NG_filmnoir_BW02",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 36
   },
   {
     "Name": "NG_filmic01",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 32
   },
   {
     "Name": "NG_filmic02",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 63
   },
   {
     "Name": "NG_filmic03",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 34
   },
   {
     "Name": "NG_filmic04",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 36
   },
   {
     "Name": "NG_filmic05",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 43
   },
   {
     "Name": "NG_filmic06",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 37
   },
   {
     "Name": "NG_filmic07",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 33
   },
   {
     "Name": "NG_filmic08",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 48
   },
   {
     "Name": "NG_filmic09",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 31
   },
   {
     "Name": "NG_filmic10",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 53
   },
   {
     "Name": "NG_filmic11",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 45
   },
   {
     "Name": "NG_filmic12",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 31
   },
   {
     "Name": "NG_filmic13",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 38
   },
   {
     "Name": "NG_filmic14",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 41
   },
   {
     "Name": "NG_filmic15",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 32
   },
   {
     "Name": "NG_filmic16",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 44
   },
   {
     "Name": "NG_filmic17",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 33
   },
   {
     "Name": "NG_filmic18",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 46
   },
   {
     "Name": "NG_filmic19",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 38
   },
   {
     "Name": "NG_filmic20",
-    "DlcName": null,
+    "DlcName": "singleplayer",
     "ModificationsCount": 44
   },
   {
     "Name": "li",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 32
   },
   {
     "Name": "underwater",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 115
   },
   {
     "Name": "underwater_deep",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 81
   },
   {
     "Name": "NoAmbientmult",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 4
   },
   {
     "Name": "superDARK",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 3
   },
   {
     "Name": "CAMERA_BW",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 33
   },
   {
     "Name": "Forest",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 30
   },
   {
     "Name": "micheal",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 10
   },
   {
     "Name": "TREVOR",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 15
   },
   {
     "Name": "FRANKLIN",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 20
   },
   {
     "Name": "Tunnel",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 13
   },
   {
     "Name": "carpark",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 18
   },
   {
     "Name": "NEW_abattoir",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 67
   },
   {
     "Name": "Vagos",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 23
   },
   {
     "Name": "cops",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 18
   },
   {
     "Name": "Bikers",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 28
   },
   {
     "Name": "BikersSPLASH",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 30
   },
   {
     "Name": "VagosSPLASH",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 21
   },
   {
     "Name": "CopsSPLASH",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 22
   },
   {
     "Name": "VAGOS_new_garage",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 24
   },
   {
     "Name": "VAGOS_new_hangout",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 26
   },
   {
     "Name": "NEW_jewel",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 35
   },
   {
     "Name": "frankilnsAUNTS_new",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 37
   },
   {
     "Name": "frankilnsAUNTS_SUNdir",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 2
   },
   {
     "Name": "StreetLighting",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 1
   },
   {
     "Name": "NEW_tunnels",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 26
   },
   {
     "Name": "NEW_yellowtunnels",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 55
   },
   {
     "Name": "NEW_tunnels_hole",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 31
   },
   {
     "Name": "NEW_tunnels_ditch",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 30
   },
   {
     "Name": "Paleto",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 6
   },
   {
     "Name": "new_bank",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 17
   },
   {
     "Name": "ReduceDrawDistance",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 10
   },
   {
     "Name": "ReduceDrawDistanceMission",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 6
   },
   {
     "Name": "lightpolution",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 16
   },
   {
     "Name": "NEW_lesters",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 35
   },
   {
     "Name": "ReduceDrawDistanceMAP",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 6
   },
   {
     "Name": "reducewaterREF",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 1
   },
   {
     "Name": "garage",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 12
   },
   {
     "Name": "LightPollutionHills",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 16
   },
   {
     "Name": "NewMicheal",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 30
   },
   {
     "Name": "NewMichealupstairs",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 20
   },
   {
     "Name": "NewMichealstoilet",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 18
   },
   {
     "Name": "NewMichealgirly",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 29
   },
   {
     "Name": "WATER_port",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 60
   },
   {
     "Name": "WATER_salton",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 68
   },
   {
     "Name": "WATER_river",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 61
   },
   {
     "Name": "FIB_interview",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 33
   },
   {
     "Name": "NEW_station_unfinished",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 33
   },
   {
     "Name": "cashdepot",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 30
   },
   {
     "Name": "cashdepotEMERGENCY",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 36
   },
   {
     "Name": "FrankilinsHOUSEhills",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 29
   },
   {
     "Name": "HicksbarNEW",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 32
   },
   {
     "Name": "NOdirectLight",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 0
   },
   {
     "Name": "SALTONSEA",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 59
   },
   {
     "Name": "TUNNEL_green",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 31
   },
   {
     "Name": "NewMicheal_night",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 24
   },
   {
     "Name": "WATER_muddy",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 69
   },
   {
     "Name": "WATER_shore",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 22
   },
   {
     "Name": "damage",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 11
   },
   {
     "Name": "hitped",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 2
   },
   {
     "Name": "dying",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 8
   },
   {
     "Name": "overwater",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 6
   },
   {
     "Name": "whitenightlighting",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 6
   },
   {
     "Name": "TUNNEL_yellow",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 32
   },
   {
     "Name": "buildingTOP",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 1
   },
   {
     "Name": "WATER_lab",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 89
   },
   {
     "Name": "cinema",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 36
   },
   {
     "Name": "fireDEPT",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 34
   },
   {
     "Name": "ranch",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 33
   },
   {
     "Name": "TUNNEL_white",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 36
   },
   {
     "Name": "V_recycle_mainroom",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 26
   },
   {
     "Name": "V_recycle_dark",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 27
   },
   {
     "Name": "V_recycle_light",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 26
   },
   {
     "Name": "lightning_weak",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 33
   },
   {
     "Name": "lightning_strong",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 36
   },
   {
     "Name": "lightning_cloud",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 9
   },
   {
     "Name": "gunclubrange",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 36
   },
   {
     "Name": "NoAmbientmult_interior",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 1
   },
   {
     "Name": "FullAmbientmult_interior",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 1
   },
   {
     "Name": "StreetLightingJunction",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 1
   },
   {
     "Name": "StreetLightingtraffic",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 1
   },
   {
     "Name": "Multipayer_spectatorCam",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 18
   },
   {
     "Name": "INT_NoAmbientmult",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 1
   },
   {
     "Name": "INT_NoAmbientmult_art",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 1
   },
   {
     "Name": "INT_FullAmbientmult",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 1
   },
   {
     "Name": "INT_FULLAmbientmult_art",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 1
   },
   {
     "Name": "INT_FULLAmbientmult_both",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 2
   },
   {
     "Name": "INT_NoAmbientmult_both",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 2
   },
   {
     "Name": "Sniper",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 20
   },
   {
     "Name": "ReduceSSAO",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 0
   },
   {
     "Name": "scope_zoom_in",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 5
   },
   {
     "Name": "scope_zoom_out",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 5
   },
   {
     "Name": "crane_cam",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 19
   },
   {
     "Name": "WATER_silty",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 64
   },
   {
     "Name": "Trevors_room",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 31
   },
   {
     "Name": "Hint_cam",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 16
   },
   {
     "Name": "venice_canal_tunnel",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 47
   },
   {
     "Name": "blackNwhite",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 22
   },
   {
     "Name": "projector",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 12
   },
   {
     "Name": "paleto_opt",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 8
   },
   {
     "Name": "warehouse",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 27
   },
   {
     "Name": "pulse",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 20
   },
   {
     "Name": "sleeping",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 10
   },
   {
     "Name": "INT_garage",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 19
   },
   {
     "Name": "nextgen",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 5
   },
   {
     "Name": "crane_cam_cinematic",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 7
   },
   {
     "Name": "TUNNEL_orange",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 33
   },
   {
     "Name": "traffic_skycam",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 30
   },
   {
     "Name": "powerstation",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 7
   },
   {
     "Name": "SAWMILL",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 9
   },
   {
     "Name": "LODmult_global_reduce",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 1
   },
   {
     "Name": "LODmult_HD_orphan_reduce",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 2
   },
   {
     "Name": "LODmult_HD_orphan_LOD_reduce",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 3
   },
   {
     "Name": "LODmult_LOD_reduce",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 1
   },
   {
     "Name": "LODmult_SLOD1_reduce",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 1
   },
   {
     "Name": "LODmult_SLOD2_reduce",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 1
   },
   {
     "Name": "LODmult_SLOD3_reduce",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 1
   },
   {
     "Name": "NewMicheal_upstairs",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 24
   },
   {
     "Name": "micheals_lightsOFF",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 2
   },
   {
     "Name": "telescope",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 25
   },
   {
     "Name": "WATER_silverlake",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 56
   },
   {
     "Name": "WATER _lab_cooling",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 95
   },
   {
     "Name": "baseTONEMAPPING",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 16
   },
   {
     "Name": "WATER_salton_bottom",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 37
   },
   {
     "Name": "new_stripper_changing",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 29
   },
   {
     "Name": "underwater_deep_clear",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 4
   },
   {
     "Name": "prologue_ending_fog",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 25
   },
   {
     "Name": "graveyard_shootout",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 16
   },
   {
     "Name": "morebloom",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 3
   },
   {
     "Name": "LIGHTSreduceFALLOFF",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 0
   },
   {
     "Name": "INT_posh_hairdresser",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 23
   },
   {
     "Name": "V_strip_office",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 28
   },
   {
     "Name": "sunglasses",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 15
   },
   {
     "Name": "vespucci_garage",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 34
   },
   {
     "Name": "half_direct",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 3
   },
   {
     "Name": "carpark_dt1_03",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 20
   },
   {
     "Name": "tunnel_id1_11",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 20
   },
   {
     "Name": "reducelightingcost",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 2
   },
   {
     "Name": "NOrain",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 1
   },
   {
     "Name": "morgue_dark",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 44
   },
   {
     "Name": "CS3_rail_tunnel",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 19
   },
   {
     "Name": "new_tunnels_entrance",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 47
   },
   {
     "Name": "spectator1",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 41
   },
   {
     "Name": "spectator2",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 34
   },
   {
     "Name": "spectator3",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 33
   },
   {
     "Name": "spectator4",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 36
   },
   {
     "Name": "spectator5",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 63
   },
   {
     "Name": "spectator6",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 43
   },
   {
     "Name": "spectator7",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 48
   },
   {
     "Name": "spectator8",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 37
   },
   {
     "Name": "spectator9",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 53
   },
   {
     "Name": "spectator10",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 31
   },
   {
     "Name": "INT_NOdirectLight",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 1
   },
   {
     "Name": "WATER_resevoir",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 68
   },
   {
     "Name": "WATER_hills",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 66
   },
   {
     "Name": "WATER_militaryPOOP",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 62
   },
   {
     "Name": "NEW_ornate_bank",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 43
   },
   {
     "Name": "NEW_ornate_bank_safe",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 46
   },
   {
     "Name": "NEW_ornate_bank_entrance",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 38
   },
   {
     "Name": "NEW_ornate_bank_office",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 46
   },
   {
     "Name": "LODmult_global_reduce_NOHD",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 6
   },
   {
     "Name": "interior_WATER_lighting",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 1
   },
   {
     "Name": "gorge_reflectionoffset",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 2
   },
   {
     "Name": "eyeINtheSKY",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 17
   },
   {
     "Name": "resvoire_reflection",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 6
   },
   {
     "Name": "NO_weather",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 1
   },
   {
     "Name": "prologue_ext_art_amb",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 12
   },
   {
     "Name": "prologue_shootout",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 20
   },
   {
     "Name": "heathaze",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 22
   },
   {
     "Name": "KT_underpass",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 25
   },
   {
     "Name": "INT_nowaterREF",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 1
   },
   {
     "Name": "carMOD_underpass",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 28
   },
   {
     "Name": "refit",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 34
   },
   {
     "Name": "NO_streetAmbient",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 1
   },
   {
     "Name": "NO_coronas",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 2
   },
   {
     "Name": "epsilion",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 24
   },
   {
     "Name": "WATER_refmap_high",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 0
   },
   {
     "Name": "WATER_refmap_med",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 0
   },
   {
     "Name": "WATER_refmap_low",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 0
   },
   {
     "Name": "WATER_refmap_verylow",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 0
   },
   {
     "Name": "WATER_refmap_poolside",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 1
   },
   {
     "Name": "WATER_refmap_silverlake",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 0
   },
   {
     "Name": "WATER_refmap_venice",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 0
   },
   {
     "Name": "FORdoron_delete",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 4
   },
   {
     "Name": "NO_fog_alpha",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 1
   },
   {
     "Name": "V_strip_nofog",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 28
   },
   {
     "Name": "METRO_Tunnels",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 59
   },
   {
     "Name": "METRO_Tunnels_entrance",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 31
   },
   {
     "Name": "METRO_platform",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 30
   },
   {
     "Name": "STRIP_stage",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 55
   },
   {
     "Name": "STRIP_office",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 30
   },
   {
     "Name": "STRIP_changing",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 30
   },
   {
     "Name": "INT_NO_fogALPHA",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 3
   },
   {
     "Name": "STRIP_nofog",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 30
   },
   {
     "Name": "INT_streetlighting",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 8
   },
   {
     "Name": "ch2_tunnel_whitelight",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 6
   },
   {
     "Name": "AmbientPUSH",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 1
   },
   {
     "Name": "ship_lighting",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 4
   },
   {
     "Name": "powerplant_nightlight",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 8
   },
   {
     "Name": "paleto_nightlight",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 8
   },
   {
     "Name": "militarybase_nightlight",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 8
   },
   {
     "Name": "sandyshore_nightlight",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 8
   },
   {
     "Name": "jewel_gas",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 0
   },
   {
     "Name": "WATER_refmap_off",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 13
   },
   {
     "Name": "trailer_explosion_optimise",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 19
   },
   {
     "Name": "nervousRON_fog",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 7
   },
   {
     "Name": "DONT_overide_sunpos",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 1
   },
   {
     "Name": "gallery_refmod",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 20
   },
   {
     "Name": "prison_nightlight",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 8
   },
   {
     "Name": "multiplayer_ped_fight",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 4
   },
   {
     "Name": "ship_explosion_underwater",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 20
   },
   {
     "Name": "EXTRA_bouncelight",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 1
   },
   {
     "Name": "secret_camera",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 33
   },
   {
     "Name": "canyon_mission",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 23
   },
   {
     "Name": "gorge_reflection_gpu",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 4
   },
   {
     "Name": "subBASE_water_ref",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 13
   },
   {
     "Name": "poolsidewaterreflection2",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 13
   },
   {
     "Name": "CUSTOM_streetlight",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 1
   },
   {
     "Name": "ufo",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 32
   },
   {
     "Name": "ship_explosion_underwater\r\n",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 1
   },
   {
     "Name": "lab_none_exit",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 24
   },
   {
     "Name": "FinaleBankexit",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 28
   },
   {
     "Name": "prologue_reflection_opt",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 4
   },
   {
     "Name": "tunnel_entrance",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 1
   },
   {
     "Name": "tunnel_entrance_INT",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 1
   },
   {
     "Name": "id1_11_tunnel",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 31
   },
   {
     "Name": "reflection_correct_ambient",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 3
   },
   {
     "Name": "scanline_cam_cheap",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 12
   },
   {
     "Name": "scanline_cam",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 16
   },
   {
     "Name": "VC_tunnel_entrance",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 0
   },
   {
     "Name": "WATER_REF_malibu",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 13
   },
   {
     "Name": "carpark_dt1_02",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 31
   },
   {
     "Name": "FIB_interview_optimise",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 21
   },
   {
     "Name": "Prologue_shootout_opt",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 10
   },
   {
     "Name": "hangar_lightsmod",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 2
   },
   {
     "Name": "plane_inside_mode",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 34
   },
   {
     "Name": "eatra_bouncelight_beach",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 5
   },
   {
     "Name": "downtown_FIB_cascades_opt",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 3
   },
   {
     "Name": "jewel_optim",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 2
   },
   {
     "Name": "gorge_reflectionoffset2",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 2
   },
   {
     "Name": "ufo_deathray",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 59
   },
   {
     "Name": "PORT_heist_underwater",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 5
   },
   {
     "Name": "TUNNEL_orange_exterior",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 17
   },
   {
     "Name": "hillstunnel",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 8
   },
   {
     "Name": "jewelry_entrance_INT",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 2
   },
   {
     "Name": "jewelry_entrance",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 2
   },
   {
     "Name": "jewelry_entrance_INT_fog",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 2
   },
   {
     "Name": "TUNNEL_yellow_ext",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 12
   },
   {
     "Name": "NEW_jewel_EXIT",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 35
   },
   {
     "Name": "services_nightlight",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 8
   },
   {
     "Name": "CS1_railwayB_tunnel",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 21
   },
   {
     "Name": "TUNNEL_green_ext",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 8
   },
   {
     "Name": "CAMERA_secuirity",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 33
   },
   {
     "Name": "CAMERA_secuirity_FUZZ",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 33
   },
   {
     "Name": "int_hospital_small",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 26
   },
   {
     "Name": "int_hospital_dark",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 26
   },
   {
     "Name": "plaza_carpark",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 27
   },
   {
     "Name": "gen_bank",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 27
   },
   {
     "Name": "nightvision",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 30
   },
   {
     "Name": "WATER_cove",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 116
   },
   {
     "Name": "glasses_Darkblue",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 15
   },
   {
     "Name": "glasses_VISOR",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 18
   },
   {
     "Name": "heist_boat",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 15
   },
   {
     "Name": "heist_boat_norain",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 16
   },
   {
     "Name": "heist_boat_engineRoom",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 15
   },
   {
     "Name": "buggy_shack",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 28
   },
   {
     "Name": "mineshaft",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 29
   },
   {
     "Name": "NG_first",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 11
   },
   {
     "Name": "glasses_Scuba",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 9
   },
   {
     "Name": "mugShot",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 53
   },
   {
     "Name": "Glasses_BlackOut",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 8
   },
   {
     "Name": "winning_room",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 136
   },
   {
     "Name": "mugShot_lineup",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 54
   },
   {
     "Name": "MPApartHigh_palnning",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 56
   },
   {
     "Name": "v_dark",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 67
   },
   {
     "Name": "vehicle_subint",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 12
   },
   {
     "Name": "Carpark_MP_exit",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 13
   },
   {
     "Name": "EXT_FULLAmbientmult_art",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 1
   },
   {
     "Name": "new_MP_Garage_L",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 45
   },
   {
     "Name": "fp_vig_black",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 8
   },
   {
     "Name": "fp_vig_brown",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 8
   },
   {
     "Name": "fp_vig_gray",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 8
   },
   {
     "Name": "fp_vig_blue",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 8
   },
   {
     "Name": "fp_vig_red",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 8
   },
   {
     "Name": "fp_vig_green",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 8
   },
   {
     "Name": "INT_trailer_cinema",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 30
   },
   {
     "Name": "heliGunCam",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 20
   },
   {
     "Name": "INT_smshop",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 38
   },
   {
     "Name": "INT_mall",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 48
   },
   {
     "Name": "Mp_Stilts",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 29
   },
   {
     "Name": "Mp_Stilts_gym",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 30
   },
   {
     "Name": "Mp_Stilts2",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 29
   },
   {
     "Name": "Mp_Stilts_gym2",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 30
   },
   {
     "Name": "MPApart_H_01",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 53
   },
   {
     "Name": "MPApart_H_01_gym",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 53
   },
   {
     "Name": "MP_H_01_Study",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 53
   },
   {
     "Name": "MP_H_01_Bedroom",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 53
   },
   {
     "Name": "MP_H_01_Bathroom",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 53
   },
   {
     "Name": "MP_H_01_New",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 52
   },
   {
     "Name": "MP_H_01_New_Bedroom",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 53
   },
   {
     "Name": "MP_H_01_New_Bathroom",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 53
   },
   {
     "Name": "MP_H_01_New_Study",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 53
   },
   {
     "Name": "INT_smshop_inMOD",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 24
   },
   {
     "Name": "NoPedLight",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 4
   },
   {
     "Name": "morgue_dark_ovr",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 45
   },
   {
     "Name": "INT_smshop_outdoor_bloom",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 3
   },
   {
     "Name": "INT_smshop_indoor_bloom",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 3
   },
   {
     "Name": "MP_H_02",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 53
   },
   {
     "Name": "MP_H_04",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 53
   },
   {
     "Name": "Mp_Stilts2_bath",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 30
   },
   {
     "Name": "mp_h_05",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 53
   },
   {
     "Name": "mp_h_07",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 53
   },
   {
     "Name": "MP_H_06",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 53
   },
   {
     "Name": "mp_h_08",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 53
   },
   {
     "Name": "yacht_DLC",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 20
   },
   {
     "Name": "mp_exec_office_01",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 26
   },
   {
     "Name": "mp_exec_warehouse_01",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 32
   },
   {
     "Name": "mp_exec_office_02",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 27
   },
   {
     "Name": "mp_exec_office_03",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 29
   },
   {
     "Name": "mp_exec_office_04",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 27
   },
   {
     "Name": "mp_exec_office_05",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 28
   },
   {
     "Name": "mp_exec_office_06",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 28
   },
   {
     "Name": "mp_exec_office_03_blue",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 32
   },
   {
     "Name": "mp_exec_office_03C",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 32
   },
   {
     "Name": "mp_bkr_int01_garage",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 33
   },
   {
     "Name": "mp_bkr_int01_transition",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 33
   },
   {
     "Name": "mp_bkr_int01_small_rooms",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 35
   },
   {
     "Name": "mp_bkr_int02_garage",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 23
   },
   {
     "Name": "mp_bkr_int02_hangout",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 24
   },
   {
     "Name": "mp_bkr_int02_small_rooms",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 28
   },
   {
     "Name": "mp_bkr_ware01",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 32
   },
   {
     "Name": "mp_bkr_ware02_standard",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 29
   },
   {
     "Name": "mp_bkr_ware02_upgrade",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 29
   },
   {
     "Name": "mp_bkr_ware02_dry",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 22
   },
   {
     "Name": "mp_bkr_ware03_basic",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 29
   },
   {
     "Name": "mp_bkr_ware03_upgrade",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 28
   },
   {
     "Name": "mp_bkr_ware04",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 25
   },
   {
     "Name": "mp_bkr_ware05",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 30
   },
   {
     "Name": "mp_lad_night",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 7
   },
   {
     "Name": "mp_lad_day",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 7
   },
   {
     "Name": "mp_lad_judgment",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 7
   },
   {
     "Name": "mp_imx_intwaremed",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 41
   },
   {
     "Name": "mp_imx_intwaremed_office",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 41
   },
   {
     "Name": "mp_imx_mod_int_01",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 30
   },
   {
     "Name": "IMpExt_Interior_02",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 57
   },
   {
     "Name": "ImpExp_Interior_01",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 55
   },
   {
     "Name": "impexp_interior_01_lift",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 56
   },
   {
     "Name": "IMpExt_Interior_02_stair_cage",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 57
   },
   {
     "Name": "mp_gr_int01_white",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 33
   },
   {
     "Name": "mp_gr_int01_grey",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 33
   },
   {
     "Name": "mp_gr_int01_black",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 33
   },
   {
     "Name": "grdlc_int_02",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 34
   },
   {
     "Name": "mp_nightshark_shield_fp",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 4
   },
   {
     "Name": "grdlc_int_02_trailer_cave",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 33
   },
   {
     "Name": "mp_smg_int01_han",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 33
   },
   {
     "Name": "mp_smg_int01_han_red",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 33
   },
   {
     "Name": "mp_smg_int01_han_blue",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 33
   },
   {
     "Name": "mp_smg_int01_han_yellow",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 33
   },
   {
     "Name": "mp_x17dlc_in_sub",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 37
   },
   {
     "Name": "mp_x17dlc_in_sub_no_reflection",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 36
   },
   {
     "Name": "mp_x17dlc_base",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 38
   },
   {
     "Name": "mp_x17dlc_base_dark",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 38
   },
   {
     "Name": "mp_x17dlc_base_darkest",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 38
   },
   {
     "Name": "mp_x17dlc_lab",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 47
   },
   {
     "Name": "mp_x17dlc_lab_loading_bay",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 47
   },
   {
     "Name": "mp_x17dlc_facility",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 47
   },
   {
     "Name": "mp_x17dlc_facility_conference",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 47
   },
   {
     "Name": "mp_x17dlc_int_01",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 49
   },
   {
     "Name": "mp_x17dlc_int_01_tint1",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 49
   },
   {
     "Name": "mp_x17dlc_int_01_tint2",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 49
   },
   {
     "Name": "mp_x17dlc_int_01_tint3",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 49
   },
   {
     "Name": "mp_x17dlc_int_01_tint4",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 49
   },
   {
     "Name": "mp_x17dlc_int_01_tint5",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 49
   },
   {
     "Name": "mp_x17dlc_int_01_tint6",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 49
   },
   {
     "Name": "mp_x17dlc_int_01_tint7",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 49
   },
   {
     "Name": "mp_x17dlc_int_01_tint8",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 49
   },
   {
     "Name": "mp_x17dlc_int_01_tint9",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 49
   },
   {
     "Name": "mp_x17dlc_facility2",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 47
   },
   {
     "Name": "mp_x17dlc_int_02",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 49
   },
   {
     "Name": "mp_x17dlc_int_02_tint1",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 49
   },
   {
     "Name": "mp_x17dlc_int_02_tint2",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 49
   },
   {
     "Name": "mp_x17dlc_int_02_tint3",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 49
   },
   {
     "Name": "mp_x17dlc_int_02_tint4",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 49
   },
   {
     "Name": "mp_x17dlc_int_02_tint5",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 49
   },
   {
     "Name": "mp_x17dlc_int_02_tint6",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 49
   },
   {
     "Name": "mp_x17dlc_int_02_tint7",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 49
   },
   {
     "Name": "mp_x17dlc_int_02_tint8",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 49
   },
   {
     "Name": "mp_x17dlc_int_02_tint9",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 49
   },
   {
     "Name": "mp_x17dlc_int_02_vehicle_workshop_camera",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 1
   },
   {
     "Name": "mp_x17dlc_int_02_vehicle_avenger_camera",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 1
   },
   {
     "Name": "mp_x17dlc_int_02_weapon_avenger_camera",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 1
   },
   {
     "Name": "mp_x17dlc_int_02_outdoor_intro_camera",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 5
   },
   {
     "Name": "mp_x17dlc_int_silo",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 47
   },
   {
     "Name": "mp_x17dlc_int_silo_escape",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 47
   },
   {
     "Name": "mp_battle_int01",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 42
   },
   {
     "Name": "mp_battle_int01_entry",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 42
   },
   {
     "Name": "mp_battle_int01_office",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 40
   },
   {
     "Name": "mp_battle_int01_dancefloor",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 43
   },
   {
     "Name": "mp_battle_int01_dancefloor_OFF",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 44
   },
   {
     "Name": "mp_battle_int01_garage",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 41
   },
   {
     "Name": "mp_battle_int02",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 42
   },
   {
     "Name": "mp_battle_int03",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 41
   },
   {
     "Name": "mp_battle_int03_tint1",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 41
   },
   {
     "Name": "mp_battle_int03_tint2",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 41
   },
   {
     "Name": "mp_battle_int03_tint3",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 41
   },
   {
     "Name": "mp_battle_int03_tint4",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 49
   },
   {
     "Name": "mp_battle_int03_tint5",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 41
   },
   {
     "Name": "mp_battle_int03_tint6",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 49
   },
   {
     "Name": "mp_battle_int03_tint7",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 41
   },
   {
     "Name": "mp_battle_int03_tint8",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 41
   },
   {
     "Name": "mp_battle_int03_tint9",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 41
   },
   {
     "Name": "Drone_FishEye_Lens",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 5
   },
   {
     "Name": "int_arena_Mod",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 34
   },
   {
     "Name": "int_arena_01",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 29
   },
   {
     "Name": "int_arena_VIP",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 29
   },
   {
     "Name": "MP_Arena_VIP",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 31
   },
   {
     "Name": "int_arena_Mod_garage",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 29
   },
   {
     "Name": "MP_Arena_theme_midday",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 13
   },
   {
     "Name": "MP_Arena_theme_morning",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 8
   },
   {
     "Name": "MP_Arena_theme_evening",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 33
   },
   {
     "Name": "MP_Arena_theme_night",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 32
   },
   {
     "Name": "MP_Arena_theme_atlantis",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 93
   },
   {
     "Name": "MP_Arena_theme_toxic",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 70
   },
   {
     "Name": "MP_Arena_theme_storm",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 76
   },
   {
     "Name": "MP_Arena_theme_sandstorm",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 74
   },
   {
     "Name": "MP_Arena_theme_saccharine",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 72
   },
   {
     "Name": "MP_Arena_theme_hell",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 73
   },
   {
     "Name": "MP_Arena_theme_scifi_night",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 32
   },
   {
     "Name": "dlc_casino_carpark",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 28
   },
   {
     "Name": "casino_mainfloor",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 77
   },
   {
     "Name": "casino_hotel",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 58
   },
   {
     "Name": "casino_brightroom",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 73
   },
   {
     "Name": "DLC_Casino_Garage",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 29
   },
   {
     "Name": "MP_casino_apartment_MBed",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 31
   },
   {
     "Name": "MP_casino_apartment_Bath",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 30
   },
   {
     "Name": "MP_casino_apartment_lobby",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 30
   },
   {
     "Name": "MP_casino_apartment_office",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 31
   },
   {
     "Name": "MP_casino_apartment_cinema",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 28
   },
   {
     "Name": "MP_casino_apartment_bar",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 32
   },
   {
     "Name": "MP_casino_apartment_spa",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 28
   },
   {
     "Name": "MP_casino_apartment_lounge",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 31
   },
   {
     "Name": "MP_casino_apartment_exec",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 32
   },
   {
     "Name": "MP_casino_apartment_changing",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 34
   },
   {
     "Name": "casino_managersoffice",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 75
   },
   {
     "Name": "casino_managementOff",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 81
   },
   {
     "Name": "casino_mainWhiteFloor",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 77
   },
   {
     "Name": "CasinoBathrooms",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 77
   },
   {
     "Name": "casino_managementlobby",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 81
   },
   {
     "Name": "MP_casino_apartment_barPARTY",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 31
   },
   {
     "Name": "MP_casino_apartment_colour1",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 10
   },
   {
     "Name": "MP_casino_apartment_colour0",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 9
   },
   {
     "Name": "NewMod",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 0
   },
   {
     "Name": "MP_casino_apartment_colour2",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 9
   },
   {
     "Name": "MP_casino_apartment_barPARTY_0",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 31
   },
   {
     "Name": "MP_casino_apartment_barPARTY_2",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 31
   },
   {
     "Name": "MP_casino_apartment_barPARTY_01",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 31
   },
   {
     "Name": "Casino_Lightsoff",
-    "DlcName": null,
-    "ModificationsCount": 38
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 40
   },
   {
     "Name": "MP_Arcade_Retro",
-    "DlcName": null,
-    "ModificationsCount": 34
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 35
   },
   {
     "Name": "MP_casino_BACK_office",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 42
   },
   {
     "Name": "MP_casino_BACK_Lobby",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 41
   },
   {
     "Name": "MP_casino_BACK_coridor",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 36
   },
   {
     "Name": "MP_casino_BACK_Security",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 35
   },
   {
     "Name": "MP_casino_BACK_BakSideRMs",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 35
   },
   {
     "Name": "MP_casino_BACK_Waste",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 48
   },
   {
     "Name": "MP_casino_BACK_Laundry",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 32
   },
   {
     "Name": "MP_casino_BACK_Changing",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 33
   },
   {
     "Name": "Mp_Heist3_Loading_MainRoom",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 26
   },
   {
     "Name": "Mp_Heist3_Loading_SecurityRoom",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 26
   },
   {
     "Name": "Mp_Heist3_Loading_Stairs",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 26
   },
   {
     "Name": "Mp_Heist3_Loading_Tunnel",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 27
   },
   {
     "Name": "Mp_Heist3_Utility_Room",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 26
   },
   {
     "Name": "MP_Arcade_Hipster",
-    "DlcName": null,
-    "ModificationsCount": 34
-  },
-  {
-    "Name": "MP_Arcade_Derelict",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 35
   },
   {
+    "Name": "MP_Arcade_Derelict",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 36
+  },
+  {
     "Name": "MP_Arcade_Tunnel",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 34
   },
   {
     "Name": "MP_Arcade_Planning_Room",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 74
   },
   {
     "Name": "mp_heist3_lift_shaft",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 26
   },
   {
     "Name": "MP_Arcade_Planning_Pre",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 63
   },
   {
     "Name": "mp_casino_back_vault_rm",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 35
   },
   {
     "Name": "mp_arc_planning_entity_ambient",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 9
   },
   {
     "Name": "casino_main_floor_heist",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 77
   },
   {
     "Name": "mp_casino_back_staff_entrance",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 77
   },
   {
     "Name": "mp_casino_vault_vault",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 85
   },
   {
     "Name": "mp_casino_vault_corridor",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 86
   },
   {
     "Name": "mp_casino_vault_main",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 85
   },
   {
     "Name": "mp_casino_vault_storage",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 86
   },
   {
     "Name": "MP_Casino_Tunnel",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 56
   },
   {
     "Name": "MP_Casino_Tunnel_Transition",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 51
   },
   {
     "Name": "bokeh_removebuzz",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 4
   },
   {
+    "Name": "int_01_blackbox",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 80
+  },
+  {
+    "Name": "Yacht_Mission_ThunderRain",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 21
+  },
+  {
+    "Name": "Yacht_Mission_NoLig",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 34
+  },
+  {
     "Name": "RemoteSniper",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 38
   },
   {
     "Name": "V_Office_smoke",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 22
   },
   {
     "Name": "V_Office_smoke_ext",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 17
   },
   {
     "Name": "V_FIB_IT3",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 19
   },
   {
     "Name": "V_FIB_IT3_alt",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 25
   },
   {
     "Name": "V_FIB_stairs",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 22
   },
   {
     "Name": "v_abattoir",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 23
   },
   {
     "Name": "V_Abattoir_Cold",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 24
   },
   {
     "Name": "v_recycle",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 29
   },
   {
     "Name": "v_strip3",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 28
   },
   {
     "Name": "v_strpchangerm",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 31
   },
   {
     "Name": "v_jewel2",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 17
   },
   {
     "Name": "v_foundry",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 63
   },
   {
     "Name": "V_Metro_station",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 19
   },
   {
     "Name": "v_metro",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 22
   },
   {
     "Name": "V_Metro2",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 18
   },
   {
     "Name": "v_torture",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 61
   },
   {
     "Name": "v_sweat",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 23
   },
   {
     "Name": "v_sweat_entrance",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 19
   },
   {
     "Name": "v_sweat_NoDirLight",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 26
   },
   {
     "Name": "Barry1_Stoned",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 21
   },
   {
     "Name": "v_rockclub",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 32
   },
   {
     "Name": "v_michael",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 16
   },
   {
     "Name": "v_michael_lounge",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 6
   },
   {
     "Name": "v_janitor",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 22
   },
   {
     "Name": "int_amb_mult_large",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 2
   },
   {
     "Name": "int_extlight_large",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 21
   },
   {
     "Name": "ext_int_extlight_large",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 10
   },
   {
     "Name": "int_extlight_small",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 27
   },
   {
     "Name": "int_extlight_small_clipped",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 18
   },
   {
     "Name": "int_extlight_large_fog",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 23
   },
   {
     "Name": "int_extlight_small_fog",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 23
   },
   {
     "Name": "int_extlight_none",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 20
   },
   {
     "Name": "int_extlight_none_dark",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 20
   },
   {
     "Name": "int_extlight_none_dark_fog",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 25
   },
   {
     "Name": "int_extlight_none_fog",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 24
   },
   {
     "Name": "int_clean_extlight_large",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 18
   },
   {
     "Name": "int_clean_extlight_small",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 18
   },
   {
     "Name": "int_clean_extlight_none",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 18
   },
   {
     "Name": "prologue",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 10
   },
   {
     "Name": "vagos_extlight_small",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 23
   },
   {
     "Name": "FinaleBank",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 28
   },
   {
     "Name": "FinaleBankMid",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 28
   },
   {
     "Name": "v_cashdepot",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 23
   },
   {
     "Name": "V_Solomons",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 19
   },
   {
     "Name": "int_methlab_small",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 41
   },
   {
     "Name": "int_Lost_small",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 25
   },
   {
     "Name": "int_Lost_none",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 25
   },
   {
     "Name": "int_ControlTower_small",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 27
   },
   {
     "Name": "int_ControlTower_none",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 27
   },
   {
     "Name": "int_dockcontrol_small",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 25
   },
   {
     "Name": "int_hanger_small",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 24
   },
   {
     "Name": "int_hanger_none",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 19
   },
   {
     "Name": "int_cluckinfactory_small",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 28
   },
   {
     "Name": "int_cluckinfactory_none",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 31
   },
   {
     "Name": "int_FranklinAunt_small",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 21
   },
   {
     "Name": "stc_franklinsHouse",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 9
   },
   {
     "Name": "stc_coroners",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 14
   },
   {
     "Name": "stc_trevors",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 47
   },
   {
     "Name": "stc_deviant_lounge",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 8
   },
   {
     "Name": "stc_deviant_bedroom",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 9
   },
   {
     "Name": "int_carshowroom",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 37
   },
   {
     "Name": "int_Farmhouse_small",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 25
   },
   {
     "Name": "int_Farmhouse_none",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 24
   },
   {
     "Name": "int_carmod_small",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 33
   },
   {
     "Name": "SP1_03_drawDistance",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 5
   },
   {
     "Name": "int_clotheslow_large",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 30
   },
   {
     "Name": "v_bahama",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 30
   },
   {
     "Name": "gunclub",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 39
   },
   {
     "Name": "int_GasStation",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 26
   },
   {
     "Name": "PoliceStation",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 25
   },
   {
     "Name": "PoliceStationDark",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 25
   },
   {
     "Name": "Shop247",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 29
   },
   {
     "Name": "Shop247_none",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 24
   },
   {
     "Name": "Hicksbar",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 22
   },
   {
     "Name": "cBank_back",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 22
   },
   {
     "Name": "cBank_front",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 27
   },
   {
     "Name": "int_office_Lobby",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 21
   },
   {
     "Name": "int_office_LobbyHall",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 19
   },
   {
     "Name": "SheriffStation",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 18
   },
   {
     "Name": "LifeInvaderLOD",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 35
   },
   {
     "Name": "int_motelroom",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 21
   },
   {
     "Name": "metro",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 23
   },
   {
     "Name": "int_ClothesHi",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 30
   },
   {
     "Name": "FIB_5",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 25
   },
   {
     "Name": "int_chopshop",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 29
   },
   {
     "Name": "int_tattoo",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 31
   },
   {
     "Name": "gunstore",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 31
   },
   {
     "Name": "int_Hospital_Blue",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 45
   },
   {
     "Name": "FIB_6",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 44
   },
   {
     "Name": "FIB_B",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 19
   },
   {
     "Name": "FIB_A",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 34
   },
   {
     "Name": "lab_none",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 19
   },
   {
     "Name": "lab_none_dark",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 24
   },
   {
     "Name": "lab_none_dark_fog",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 25
   },
   {
     "Name": "MP_Garage_L",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 44
   },
   {
     "Name": "MP_Studio_Lo",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 35
   },
   {
     "Name": "StadLobby",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 35
   },
   {
     "Name": "Hanger_INTmods",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 29
   },
   {
     "Name": "MPApartHigh",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 53
   },
   {
     "Name": "int_Hospital_BlueB",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 46
   },
   {
     "Name": "int_tunnel_none_dark",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 34
   },
   {
     "Name": "MP_lowgarage",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 36
   },
   {
     "Name": "MP_MedGarage",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 30
   },
   {
     "Name": "shades_yellow",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 24
   },
   {
     "Name": "shades_pink",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 24
   },
   {
     "Name": "Mp_apart_mid",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 36
   },
   {
     "Name": "yell_tunnel_nodirect",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 31
   },
   {
     "Name": "int_carrier_hanger",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 24
   },
   {
     "Name": "int_carrier_stair",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 25
   },
   {
     "Name": "int_carrier_rear",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 25
   },
   {
     "Name": "int_carrier_control",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 24
   },
   {
     "Name": "int_carrier_control_2",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 24
   },
   {
     "Name": "AP1_01_C_NoFog",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 3
   },
   {
     "Name": "AP1_01_B_IntRefRange",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 1
   },
   {
     "Name": "rply_saturation",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 1
   },
   {
     "Name": "rply_saturation_neg",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 1
   },
   {
     "Name": "rply_vignette",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 6
   },
   {
     "Name": "rply_vignette_neg",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 6
   },
   {
     "Name": "rply_contrast",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 12
   },
   {
     "Name": "rply_contrast_neg",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 12
   },
   {
     "Name": "rply_brightness",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 1
   },
   {
     "Name": "rply_brightness_neg",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 2
   },
   {
     "Name": "rply_motionblur",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 1
   },
   {
     "Name": "V_CIA_Facility",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 56
   },
   {
-    "Name": "default",
-    "DlcName": null,
+    "Name": "DEFAULT",
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 0
   },
   {
     "Name": "gunshop",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 17
   },
   {
     "Name": "MichaelsDirectional",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 17
   },
   {
     "Name": "Bank_HLWD",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 32
   },
   {
     "Name": "MichaelsNODirectional",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 17
   },
   {
     "Name": "MichaelsDarkroom",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 25
   },
   {
     "Name": "int_lesters",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 22
   },
   {
     "Name": "Tunnel_green1",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 18
   },
   {
     "Name": "cinema_001",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 27
   },
   {
     "Name": "exile1_plane",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 45
   },
   {
     "Name": "player_transition",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 25
   },
   {
     "Name": "player_transition_no_scanlines",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 32
   },
   {
     "Name": "player_transition_scanlines",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 5
   },
   {
     "Name": "switch_cam_1",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 28
   },
   {
     "Name": "switch_cam_2",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 31
   },
   {
     "Name": "Bloom",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 5
   },
   {
     "Name": "BloomLight",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 2
   },
   {
     "Name": "BloomMid",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 7
   },
   {
     "Name": "DrivingFocusLight",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 27
   },
   {
     "Name": "DrivingFocusDark",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 27
   },
   {
     "Name": "RaceTurboLight",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 25
   },
   {
     "Name": "RaceTurboDark",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 25
   },
   {
     "Name": "BulletTimeLight",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 33
   },
   {
     "Name": "BulletTimeDark",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 28
   },
   {
     "Name": "REDMIST",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 56
   },
   {
     "Name": "REDMIST_blend",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 57
   },
   {
     "Name": "MP_Bull_tost",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 31
   },
   {
     "Name": "MP_Bull_tost_blend",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 31
   },
   {
     "Name": "MP_Powerplay",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 34
   },
   {
     "Name": "MP_Powerplay_blend",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 34
   },
   {
     "Name": "MP_Killstreak",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 34
   },
   {
     "Name": "MP_Killstreak_blend",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 34
   },
   {
     "Name": "MP_Loser",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 34
   },
   {
     "Name": "MP_Loser_blend",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 34
   },
   {
-    "Name": "CHOP",
-    "DlcName": null,
+    "Name": "Chop",
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 32
   },
   {
     "Name": "FranklinColorCode",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 35
   },
   {
     "Name": "MichaelColorCode",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 35
   },
   {
     "Name": "TrevorColorCode",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 35
   },
   {
     "Name": "NeutralColorCode",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 35
   },
   {
     "Name": "NeutralColorCodeLight",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 17
   },
   {
     "Name": "FranklinColorCodeBasic",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 8
   },
   {
     "Name": "MichaelColorCodeBasic",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 8
   },
   {
     "Name": "TrevorColorCodeBasic",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 8
   },
   {
     "Name": "NeutralColorCodeBasic",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 8
   },
   {
     "Name": "DefaultColorCode",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 19
   },
   {
     "Name": "PlayerSwitchPulse",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 10
   },
   {
     "Name": "PlayerSwitchNeutralFlash",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 13
   },
   {
     "Name": "hud_def_lensdistortion",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 2
   },
   {
     "Name": "hud_def_lensdistortion_subtle",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 2
   },
   {
     "Name": "hud_def_blur",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 1
   },
   {
     "Name": "hud_def_blur_switch",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 5
   },
   {
     "Name": "hud_def_colorgrade",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 29
   },
   {
     "Name": "hud_def_flash",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 13
   },
   {
     "Name": "hud_def_desatcrunch",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 31
   },
   {
     "Name": "hud_def_desat_switch",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 25
   },
   {
     "Name": "hud_def_desat_cold",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 37
   },
   {
     "Name": "hud_def_desat_cold_kill",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 30
   },
   {
     "Name": "hud_def_desat_Neutral",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 34
   },
   {
     "Name": "hud_def_focus",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 24
   },
   {
     "Name": "hud_def_desat_Franklin",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 38
   },
   {
     "Name": "hud_def_desat_Michael",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 38
   },
   {
     "Name": "hud_def_desat_Trevor",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 38
   },
   {
     "Name": "hud_def_Franklin",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 33
   },
   {
     "Name": "hud_def_Michael",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 33
   },
   {
     "Name": "hud_def_Trevor",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 33
   },
   {
     "Name": "michealspliff",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 62
   },
   {
     "Name": "michealspliff_blend",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 2
   },
   {
     "Name": "michealspliff_blend02",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 2
   },
   {
     "Name": "trevorspliff",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 60
   },
   {
     "Name": "trevorspliff_blend",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 2
   },
   {
     "Name": "trevorspliff_blend02",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 2
   },
   {
     "Name": "BarryFadeOut",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 12
   },
   {
     "Name": "stoned",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 42
   },
   {
     "Name": "stoned_cutscene",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 20
   },
   {
     "Name": "stoned_monkeys",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 21
   },
   {
     "Name": "stoned_aliens",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 25
   },
   {
     "Name": "Drunk",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 33
   },
   {
     "Name": "drug_flying_base",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 55
   },
   {
     "Name": "drug_flying_01",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 4
   },
   {
     "Name": "drug_flying_02",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 4
   },
   {
     "Name": "DRUG_gas_huffin",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 53
   },
   {
     "Name": "Drug_deadman",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 37
   },
   {
     "Name": "Drug_deadman_blend",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 30
   },
   {
     "Name": "DRUG_2_drive",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 33
   },
   {
     "Name": "drug_drive_blend01",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 32
   },
   {
     "Name": "drug_drive_blend02",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 35
   },
   {
     "Name": "drug_wobbly",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 56
   },
   {
     "Name": "Dont_tazeme_bro",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 24
   },
   {
     "Name": "dont_tazeme_bro_b",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 24
   },
   {
     "Name": "int_extlght_sm_cntrst",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 22
   },
   {
     "Name": "MP_heli_cam",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 31
   },
   {
     "Name": "helicamfirst",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 11
   },
   {
     "Name": "introblue",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 16
   },
   {
     "Name": "MP_select",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 4
   },
   {
     "Name": "PERSHING_water_reflect",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 1
   },
   {
     "Name": "exile1_exit",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 43
   },
   {
     "Name": "phone_cam",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 9
   },
   {
     "Name": "ExplosionJosh",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 10
   },
   {
     "Name": "RaceTurboFlash",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 13
   },
   {
     "Name": "MP_death_grade",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 33
   },
   {
     "Name": "MP_death_grade_blend01",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 33
   },
   {
     "Name": "MP_death_grade_blend02",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 7
   },
   {
     "Name": "NG_deathfail_BW_base",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 40
   },
   {
     "Name": "NG_deathfail_BW_blend01",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 2
   },
   {
     "Name": "NG_deathfail_BW_blend02",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 2
   },
   {
     "Name": "MP_job_win",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 34
   },
   {
     "Name": "MP_job_lose",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 31
   },
   {
     "Name": "MP_corona_tournament",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 34
   },
   {
     "Name": "MP_corona_tournament_DOF",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 37
   },
   {
     "Name": "MP_corona_heist",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 12
   },
   {
     "Name": "MP_corona_heist_blend",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 14
   },
   {
     "Name": "MP_corona_heist_DOF",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 3
   },
   {
     "Name": "MP_corona_heist_BW",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 34
   },
   {
     "Name": "MP_corona_selection",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 28
   },
   {
     "Name": "WhiteOut",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 5
   },
   {
     "Name": "BlackOut",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 10
   },
   {
     "Name": "MP_job_load",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 33
   },
   {
     "Name": "MP_intro_logo",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 22
   },
   {
     "Name": "MP_corona_switch",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 34
   },
   {
     "Name": "MP_race_finish",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 29
   },
   {
     "Name": "phone_cam3_REMOVED",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 40
   },
   {
     "Name": "phone_cam8_REMOVED",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 38
   },
   {
     "Name": "phone_cam1",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 39
   },
   {
     "Name": "phone_cam2",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 30
   },
   {
     "Name": "phone_cam3",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 25
   },
   {
     "Name": "phone_cam4",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 33
   },
   {
     "Name": "phone_cam5",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 30
   },
   {
     "Name": "phone_cam6",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 39
   },
   {
     "Name": "phone_cam7",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 40
   },
   {
     "Name": "phone_cam8",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 35
   },
   {
     "Name": "phone_cam9",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 42
   },
   {
     "Name": "phone_cam10",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 32
   },
   {
     "Name": "phone_cam11",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 42
   },
   {
     "Name": "phone_cam12",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 41
   },
   {
     "Name": "phone_cam13",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 1
   },
   {
     "Name": "FranklinColorCodeBright",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 30
   },
   {
     "Name": "MichaelColorCodeBright",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 30
   },
   {
     "Name": "TrevorColorCodeBright",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 30
   },
   {
     "Name": "NeutralColorCodeBright",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 30
   },
   {
     "Name": "Kifflom",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 34
   },
   {
     "Name": "MP_job_load_01",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 35
   },
   {
     "Name": "MP_job_load_02",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 38
   },
   {
     "Name": "MP_job_preload",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 35
   },
   {
     "Name": "MP_job_preload_blend",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 35
   },
   {
     "Name": "NG_filmnoir_BW01",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 35
   },
   {
     "Name": "NG_filmnoir_BW02",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 40
   },
   {
     "Name": "lab_none_exit_OVR",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 28
   },
   {
     "Name": "lab_none_dark_OVR",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 28
   },
   {
     "Name": "LectroLight",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 31
   },
   {
     "Name": "LectroDark",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 30
   },
   {
     "Name": "NG_filmic01",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 32
   },
   {
     "Name": "NG_filmic02",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 63
   },
   {
     "Name": "NG_filmic03",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 34
   },
   {
     "Name": "NG_filmic04",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 36
   },
   {
     "Name": "NG_filmic05",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 43
   },
   {
     "Name": "NG_filmic06",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 37
   },
   {
     "Name": "NG_filmic07",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 33
   },
   {
     "Name": "NG_filmic08",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 48
   },
   {
     "Name": "NG_filmic09",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 31
   },
   {
     "Name": "NG_filmic10",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 51
   },
   {
     "Name": "NG_filmic11",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 45
   },
   {
     "Name": "NG_filmic12",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 31
   },
   {
     "Name": "NG_filmic13",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 38
   },
   {
     "Name": "NG_filmic14",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 41
   },
   {
     "Name": "NG_filmic15",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 32
   },
   {
     "Name": "NG_filmic16",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 44
   },
   {
     "Name": "NG_filmic17",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 33
   },
   {
     "Name": "NG_filmic18",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 46
   },
   {
     "Name": "NG_filmic19",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 39
   },
   {
     "Name": "NG_filmic20",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 44
   },
   {
     "Name": "NG_filmic21",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 33
   },
   {
     "Name": "NG_filmic22",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 43
   },
   {
     "Name": "NG_filmic23",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 34
   },
   {
     "Name": "NG_filmic24",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 32
   },
   {
     "Name": "NG_filmic25",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 60
   },
   {
     "Name": "NG_blackout",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 9
   },
   {
     "Name": "MP_deathfail_night",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 71
   },
   {
     "Name": "lodscaler",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 7
   },
   {
     "Name": "maxlodscaler",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 1
   },
   {
     "Name": "MP_job_preload_night",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 46
   },
   {
     "Name": "MP_job_end_night",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 42
   },
   {
     "Name": "MP_corona_heist_BW_night",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 46
   },
   {
     "Name": "MP_corona_heist_night",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 42
   },
   {
     "Name": "MP_corona_heist_night_blend",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 43
   },
   {
     "Name": "PennedInLight",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 27
   },
   {
     "Name": "PennedInDark",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 27
   },
   {
     "Name": "BeastLaunch01",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 27
   },
   {
     "Name": "BeastLaunch02",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 38
   },
   {
     "Name": "BeastIntro01",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 56
   },
   {
     "Name": "BeastIntro02",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 56
   },
   {
     "Name": "CrossLine01",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 27
   },
   {
     "Name": "CrossLine02",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 27
   },
   {
     "Name": "InchOrange01",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 27
   },
   {
     "Name": "InchOrange02",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 27
   },
   {
     "Name": "InchPurple01",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 27
   },
   {
     "Name": "InchPurple02",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 27
   },
   {
     "Name": "TinyPink01",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 27
   },
   {
     "Name": "TinyPink02",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 27
   },
   {
     "Name": "TinyGreen01",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 27
   },
   {
     "Name": "TinyGreen02",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 27
   },
   {
     "Name": "InchPickup01",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 27
   },
   {
     "Name": "InchPickup02",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 27
   },
   {
     "Name": "PPOrange01",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 27
   },
   {
     "Name": "PPOrange02",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 27
   },
   {
     "Name": "PPPurple01",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 27
   },
   {
     "Name": "PPPurple02",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 27
   },
   {
     "Name": "PPGreen01",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 27
   },
   {
     "Name": "PPGreen02",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 27
   },
   {
     "Name": "PPPink01",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 27
   },
   {
     "Name": "PPPink02",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 27
   },
   {
     "Name": "StuntSlowLight",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 31
   },
   {
     "Name": "StuntSlowDark",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 30
   },
   {
     "Name": "StuntFastLight",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 31
   },
   {
     "Name": "StuntFastDark",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 30
   },
   {
     "Name": "PPFilter",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 63
   },
   {
     "Name": "BikerFilter",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 63
   },
   {
     "Name": "LostTimeLight",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 25
   },
   {
     "Name": "LostTimeDark",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 25
   },
   {
     "Name": "LostTimeFlash",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 13
   },
   {
     "Name": "DeadlineNeon01",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 24
   },
   {
     "Name": "BikerFormFlash",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 13
   },
   {
     "Name": "BikerForm01",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 21
   },
   {
     "Name": "VolticBlur",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 1
   },
   {
     "Name": "VolticFlash",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 14
   },
   {
     "Name": "VolticGold",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 15
   },
   {
     "Name": "BleepYellow01",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 27
   },
   {
     "Name": "BleepYellow02",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 27
   },
   {
     "Name": "TinyRacerMoBlur",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 3
   },
   {
     "Name": "WeaponUpgrade",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 35
   },
   {
     "Name": "AirRaceBoost01",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 31
   },
   {
     "Name": "AirRaceBoost02",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 30
   },
   {
     "Name": "TransformRaceFlash",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 15
   },
   {
     "Name": "BombCamFlash",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 13
   },
   {
     "Name": "BombCam01",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 21
   },
   {
     "Name": "WarpCheckpoint",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 15
   },
   {
     "Name": "TransformFlash",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 12
   },
   {
     "Name": "SmugglerFlash",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 15
   },
   {
     "Name": "SmugglerCheckpoint01",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 6
   },
   {
     "Name": "SmugglerCheckpoint02",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 24
   },
   {
     "Name": "OrbitalCannon",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 41
   },
   {
     "Name": "Broken_camera_fuzz",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 33
   },
   {
     "Name": "RemixDrone",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 28
   },
   {
     "Name": "ArenaWheelPurple01",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 28
   },
   {
     "Name": "ArenaWheelPurple02",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 27
   },
   {
     "Name": "ArenaEMP",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 56
   },
   {
     "Name": "ArenaEMP_Blend",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 57
   },
   {
     "Name": "Heist_VaultGas01",
-    "DlcName": null,
+    "DlcName": "TitleUpdate",
     "ModificationsCount": 21
+  },
+  {
+    "Name": "CarDamageHit",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 6
+  },
+  {
+    "Name": "CarPitstopComplete",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 6
+  },
+  {
+    "Name": "CarPitstopHealth01",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 30
+  },
+  {
+    "Name": "CarPitstopHealth02",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 29
   },
   {
     "Name": "li",

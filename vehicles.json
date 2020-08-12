@@ -22295,9 +22295,9 @@
     "DashboardType": "DUKES",
     "WheelType": "MUSCLE",
     "Flags": [
+      "FLAG_EXTRAS_CONVERTIBLE",
       "FLAG_EXTRAS_STRONG",
       "FLAG_AVERAGE_CAR",
-      "FLAG_HAS_INTERIOR_EXTRAS",
       "FLAG_CAN_HAVE_NEONS"
     ],
     "Seats": 2,
@@ -40359,7 +40359,8 @@
       "FLAG_AVERAGE_CAR",
       "FLAG_POOR_CAR",
       "FLAG_PEDS_INSIDE_CAN_BE_SET_ON_FIRE_MP",
-      "FLAG_DONT_TIMESLICE_WHEELS"
+      "FLAG_DONT_TIMESLICE_WHEELS",
+      "FLAG_IS_FORMULA_VEHICLE"
     ],
     "Seats": 1,
     "Price": 100,
@@ -40418,7 +40419,8 @@
       "FLAG_AVERAGE_CAR",
       "FLAG_POOR_CAR",
       "FLAG_PEDS_INSIDE_CAN_BE_SET_ON_FIRE_MP",
-      "FLAG_DONT_TIMESLICE_WHEELS"
+      "FLAG_DONT_TIMESLICE_WHEELS",
+      "FLAG_IS_FORMULA_VEHICLE"
     ],
     "Seats": 1,
     "Price": 100,
@@ -41292,6 +41294,895 @@
     "MaxTraction": 2.598,
     "Acceleration": 0.66,
     "Agility": 1.04000008,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0
+  },
+  {
+    "Name": "openwheel1",
+    "DisplayName": "BR8",
+    "Hash": 1492612435,
+    "SignedHash": -217658614,
+    "HexHash": "0x58F77553",
+    "DlcName": "mpsum",
+    "HandlingId": "OPENWHEEL1",
+    "LayoutId": "LAYOUT_LOW_RACER_FORMULA",
+    "Manufacturer": "BENEFAC",
+    "ManufacturerDisplayName": "Benefactor",
+    "Class": "OPEN_WHEEL",
+    "Type": "CAR",
+    "PlateType": "NONE",
+    "DashboardType": "RACE",
+    "WheelType": "SUPERMOD3",
+    "Flags": [
+      "FLAG_EXTRAS_ALL",
+      "FLAG_NO_BOOT",
+      "FLAG_AVERAGE_CAR",
+      "FLAG_POOR_CAR",
+      "FLAG_PEDS_INSIDE_CAN_BE_SET_ON_FIRE_MP",
+      "FLAG_DONT_TIMESLICE_WHEELS",
+      "FLAG_IS_FORMULA_VEHICLE"
+    ],
+    "Seats": 1,
+    "Price": 100,
+    "MonetaryValue": 35000,
+    "HasConvertibleRoof": false,
+    "HasSirens": false,
+    "Weapons": [],
+    "ModKits": [
+      "432_openwheel1_modkit"
+    ],
+    "DimensionsMin": {
+      "X": -1.10269368,
+      "Y": -2.47741652,
+      "Z": -0.228552669
+    },
+    "DimensionsMax": {
+      "X": 1.12561548,
+      "Y": 3.036948,
+      "Z": 0.959323168
+    },
+    "BoundingCenter": {
+      "X": -1E-06,
+      "Y": 0.244455,
+      "Z": 0.393891
+    },
+    "BoundingSphereRadius": 2.89255,
+    "Rewards": null,
+    "MaxBraking": 1.3,
+    "MaxBrakingMods": 1.4,
+    "MaxSpeed": 52.52767,
+    "MaxTraction": 3.2925,
+    "Acceleration": 0.76,
+    "Agility": 1.14,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0
+  },
+  {
+    "Name": "coquette4",
+    "DisplayName": "Coquette D10",
+    "Hash": 2566281822,
+    "SignedHash": 1029015867,
+    "HexHash": "0x98F65A5E",
+    "DlcName": "mpsum",
+    "HandlingId": "COQUETTE4",
+    "LayoutId": "LAYOUT_LOW_RESTRICTED",
+    "Manufacturer": "INVERTO",
+    "ManufacturerDisplayName": "Invetero",
+    "Class": "SPORT",
+    "Type": "CAR",
+    "PlateType": "BACK_PLATES",
+    "DashboardType": "RACE",
+    "WheelType": "HIEND",
+    "Flags": [
+      "FLAG_AVERAGE_CAR",
+      "FLAG_HAS_INTERIOR_EXTRAS",
+      "FLAG_CAN_HAVE_NEONS",
+      "FLAG_EXTRAS_ALL",
+      "FLAG_BOOT_IN_FRONT",
+      "FLAG_EXTRAS_STRONG"
+    ],
+    "Seats": 2,
+    "Price": 100,
+    "MonetaryValue": 150000,
+    "HasConvertibleRoof": false,
+    "HasSirens": false,
+    "Weapons": [],
+    "ModKits": [
+      "433_coquette4_modkit"
+    ],
+    "DimensionsMin": {
+      "X": -1.03877854,
+      "Y": -2.321074,
+      "Z": -0.276210129
+    },
+    "DimensionsMax": {
+      "X": 1.03877854,
+      "Y": 2.520167,
+      "Z": 1.014192
+    },
+    "BoundingCenter": {
+      "X": 0.0,
+      "Y": 0.083333,
+      "Z": 0.384186
+    },
+    "BoundingSphereRadius": 2.619754,
+    "Rewards": null,
+    "MaxBraking": 0.6,
+    "MaxBrakingMods": 0.700000048,
+    "MaxSpeed": 48.862133,
+    "MaxTraction": 2.6,
+    "Acceleration": 0.32,
+    "Agility": 0.7,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0
+  },
+  {
+    "Name": "tigon",
+    "DisplayName": "Tigon",
+    "Hash": 2936769864,
+    "SignedHash": -1593119472,
+    "HexHash": "0xAF0B8D48",
+    "DlcName": "mpsum",
+    "HandlingId": "TIGON",
+    "LayoutId": "LAYOUT_LOW_TIGON",
+    "Manufacturer": "LAMPADATI",
+    "ManufacturerDisplayName": "Lampadati",
+    "Class": "SUPER",
+    "Type": "CAR",
+    "PlateType": "BACK_PLATES",
+    "DashboardType": "BANSHEE",
+    "WheelType": "HIEND",
+    "Flags": [
+      "FLAG_SPORTS",
+      "FLAG_RICH_CAR",
+      "FLAG_RECESSED_HEADLIGHT_CORONAS",
+      "FLAG_NO_BROKEN_DOWN_SCENARIO",
+      "FLAG_COUNT_AS_FACEBOOK_DRIVEN",
+      "FLAG_EXTRAS_STRONG",
+      "FLAG_EXTRAS_REQUIRE",
+      "FLAG_USE_RESTRICTED_DRIVEBY_HEIGHT_MID_ONLY",
+      "FLAG_HAS_GULL_WING_DOORS"
+    ],
+    "Seats": 2,
+    "Price": 100,
+    "MonetaryValue": 35000,
+    "HasConvertibleRoof": false,
+    "HasSirens": false,
+    "Weapons": [],
+    "ModKits": [
+      "431_tigon_modkit"
+    ],
+    "DimensionsMin": {
+      "X": -1.0615536,
+      "Y": -2.363542,
+      "Z": -0.350999683
+    },
+    "DimensionsMax": {
+      "X": 1.06352746,
+      "Y": 2.49691558,
+      "Z": 0.8870678
+    },
+    "BoundingCenter": {
+      "X": 0.0009869999,
+      "Y": 0.106172,
+      "Z": 0.267252
+    },
+    "BoundingSphereRadius": 2.579845,
+    "Rewards": null,
+    "MaxBraking": 1.12,
+    "MaxBrakingMods": 1.22,
+    "MaxSpeed": 51.71791,
+    "MaxTraction": 2.781,
+    "Acceleration": 0.3795,
+    "Agility": 0.7595,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0
+  },
+  {
+    "Name": "landstalker2",
+    "DisplayName": "Landstalker XL",
+    "Hash": 3456868130,
+    "SignedHash": 924502761,
+    "HexHash": "0xCE0B9F22",
+    "DlcName": "mpsum",
+    "HandlingId": "LANDSTLKR2",
+    "LayoutId": "LAYOUT_RANGER",
+    "Manufacturer": "DUNDREAR",
+    "ManufacturerDisplayName": "Dundreary",
+    "Class": "SUV",
+    "Type": "CAR",
+    "PlateType": "FRONT_AND_BACK_PLATES",
+    "DashboardType": "CAVALCADE",
+    "WheelType": "SUV",
+    "Flags": [
+      "FLAG_PARKING_SENSORS",
+      "FLAG_AVERAGE_CAR",
+      "FLAG_IS_OFFROAD_VEHICLE",
+      "FLAG_IS_BULKY",
+      "FLAG_CAN_HAVE_NEONS"
+    ],
+    "Seats": 4,
+    "Price": 100,
+    "MonetaryValue": 50000,
+    "HasConvertibleRoof": false,
+    "HasSirens": false,
+    "Weapons": [],
+    "ModKits": [
+      "429_landstalker2_modkit"
+    ],
+    "DimensionsMin": {
+      "X": -1.07854939,
+      "Y": -2.844995,
+      "Z": -0.8506
+    },
+    "DimensionsMax": {
+      "X": 1.07854939,
+      "Y": 2.81842,
+      "Z": 1.28231943
+    },
+    "BoundingCenter": {
+      "X": 0.0,
+      "Y": 0.004916,
+      "Z": 0.243711
+    },
+    "BoundingSphereRadius": 3.113995,
+    "Rewards": null,
+    "MaxBraking": 0.8,
+    "MaxBrakingMods": 0.900000036,
+    "MaxSpeed": 37.655365,
+    "MaxTraction": 2.15,
+    "Acceleration": 0.19,
+    "Agility": 0.57,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0
+  },
+  {
+    "Name": "penumbra2",
+    "DisplayName": "Penumbra FF",
+    "Hash": 3663644634,
+    "SignedHash": -14599805,
+    "HexHash": "0xDA5EC7DA",
+    "DlcName": "mpsum",
+    "HandlingId": "penumbra2",
+    "LayoutId": "LAYOUT_LOW",
+    "Manufacturer": "MAIBATSU",
+    "ManufacturerDisplayName": "Maibatsu",
+    "Class": "SPORT",
+    "Type": "CAR",
+    "PlateType": "BACK_PLATES",
+    "DashboardType": "DUKES",
+    "WheelType": "SPORT",
+    "Flags": [
+      "FLAG_EXTRAS_STRONG",
+      "FLAG_AVERAGE_CAR",
+      "FLAG_CAN_HAVE_NEONS",
+      "FLAG_EXTRAS_REQUIRE",
+      "FLAG_EXTRAS_ALL",
+      "FLAG_INCREASE_CAMBER_WITH_SUSPENSION_MOD"
+    ],
+    "Seats": 2,
+    "Price": 100,
+    "MonetaryValue": 150000,
+    "HasConvertibleRoof": false,
+    "HasSirens": false,
+    "Weapons": [],
+    "ModKits": [
+      "428_penumbra2_modkit"
+    ],
+    "DimensionsMin": {
+      "X": -0.990087152,
+      "Y": -2.508058,
+      "Z": -0.636689
+    },
+    "DimensionsMax": {
+      "X": 0.990087152,
+      "Y": 2.281654,
+      "Z": 0.8484305
+    },
+    "BoundingCenter": {
+      "X": 0.0,
+      "Y": 0.03397,
+      "Z": 0.052566
+    },
+    "BoundingSphereRadius": 2.459842,
+    "Rewards": null,
+    "MaxBraking": 0.8,
+    "MaxBrakingMods": 0.900000036,
+    "MaxSpeed": 45.0454369,
+    "MaxTraction": 2.35,
+    "Acceleration": 0.3,
+    "Agility": 0.68,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0
+  },
+  {
+    "Name": "yosemite3",
+    "DisplayName": "Yosemite Rancher",
+    "Hash": 67753863,
+    "SignedHash": 203868954,
+    "HexHash": "0x409D787",
+    "DlcName": "mpsum",
+    "HandlingId": "YOSEMITE3",
+    "LayoutId": "LAYOUT_STD_YOSEMITE3",
+    "Manufacturer": "DECLASSE",
+    "ManufacturerDisplayName": "Declasse",
+    "Class": "OFF_ROAD",
+    "Type": "CAR",
+    "PlateType": "BACK_PLATES",
+    "DashboardType": "BOBCAT",
+    "WheelType": "OFFROAD",
+    "Flags": [
+      "FLAG_AVERAGE_CAR",
+      "FLAG_POOR_CAR",
+      "FLAG_IS_OFFROAD_VEHICLE",
+      "FLAG_HEADLIGHTS_USE_ACTUAL_BONE_POS",
+      "FLAG_IS_BULKY",
+      "FLAG_EXTRAS_ALL",
+      "FLAG_EXTRAS_STRONG",
+      "FLAG_SPOILER_MOD_DOESNT_INCREASE_GRIP"
+    ],
+    "Seats": 2,
+    "Price": 100,
+    "MonetaryValue": 50000,
+    "HasConvertibleRoof": false,
+    "HasSirens": false,
+    "Weapons": [],
+    "ModKits": [
+      "422_yosemite3_modkit"
+    ],
+    "DimensionsMin": {
+      "X": -1.041666,
+      "Y": -2.40736127,
+      "Z": -0.405837
+    },
+    "DimensionsMax": {
+      "X": 1.0415,
+      "Y": 2.338642,
+      "Z": 1.63562775
+    },
+    "BoundingCenter": {
+      "X": 0.0,
+      "Y": -0.129201,
+      "Z": 0.622319
+    },
+    "BoundingSphereRadius": 2.581296,
+    "Rewards": null,
+    "MaxBraking": 0.48,
+    "MaxBrakingMods": 0.58,
+    "MaxSpeed": 40.4001427,
+    "MaxTraction": 2.1,
+    "Acceleration": 0.275,
+    "Agility": 0.655000031,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0
+  },
+  {
+    "Name": "club",
+    "DisplayName": "Club",
+    "Hash": 2196012677,
+    "SignedHash": -1940736891,
+    "HexHash": "0x82E47E85",
+    "DlcName": "mpsum",
+    "HandlingId": "CLUB",
+    "LayoutId": "LAYOUT_STANDARD",
+    "Manufacturer": "BF",
+    "ManufacturerDisplayName": "BF",
+    "Class": "COMPACT",
+    "Type": "CAR",
+    "PlateType": "BACK_PLATES",
+    "DashboardType": "FUTO",
+    "WheelType": "TUNER",
+    "Flags": [
+      "FLAG_EXTRAS_REQUIRE",
+      "FLAG_EXTRAS_ALL",
+      "FLAG_EXTRAS_STRONG",
+      "FLAG_AVERAGE_CAR",
+      "FLAG_CAN_HAVE_NEONS",
+      "FLAG_INCREASE_CAMBER_WITH_SUSPENSION_MOD",
+      "FLAG_CARGOBOB_HOOK_UP_CHASSIS"
+    ],
+    "Seats": 4,
+    "Price": 100,
+    "MonetaryValue": 150000,
+    "HasConvertibleRoof": false,
+    "HasSirens": false,
+    "Weapons": [],
+    "ModKits": [
+      "418_club_modkit"
+    ],
+    "DimensionsMin": {
+      "X": -0.9503164,
+      "Y": -1.94052494,
+      "Z": -0.318920135
+    },
+    "DimensionsMax": {
+      "X": 0.9503164,
+      "Y": 1.940487,
+      "Z": 1.62884688
+    },
+    "BoundingCenter": {
+      "X": 0.0,
+      "Y": 0.04134,
+      "Z": 0.400707
+    },
+    "BoundingSphereRadius": 2.125434,
+    "Rewards": null,
+    "MaxBraking": 0.72,
+    "MaxBrakingMods": 0.820000052,
+    "MaxSpeed": 41.75986,
+    "MaxTraction": 2.05,
+    "Acceleration": 0.2375,
+    "Agility": 0.6175,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0
+  },
+  {
+    "Name": "seminole2",
+    "DisplayName": "Seminole Frontier",
+    "Hash": 2484160806,
+    "SignedHash": -1620304413,
+    "HexHash": "0x94114926",
+    "DlcName": "mpsum",
+    "HandlingId": "SEMINOLE2",
+    "LayoutId": "LAYOUT_RANGER_SEMINOLE2",
+    "Manufacturer": "CANIS",
+    "ManufacturerDisplayName": "Canis",
+    "Class": "SUV",
+    "Type": "CAR",
+    "PlateType": "BACK_PLATES",
+    "DashboardType": "CAVALCADE",
+    "WheelType": "SUV",
+    "Flags": [
+      "FLAG_AVERAGE_CAR",
+      "FLAG_POOR_CAR",
+      "FLAG_IS_OFFROAD_VEHICLE",
+      "FLAG_HEADLIGHTS_USE_ACTUAL_BONE_POS",
+      "FLAG_IS_BULKY",
+      "FLAG_HAS_INTERIOR_EXTRAS",
+      "FLAG_EXTRAS_REQUIRE",
+      "FLAG_EXTRAS_STRONG"
+    ],
+    "Seats": 4,
+    "Price": 100,
+    "MonetaryValue": 50000,
+    "HasConvertibleRoof": false,
+    "HasSirens": false,
+    "Weapons": [],
+    "ModKits": [
+      "430_seminole2_modkit"
+    ],
+    "DimensionsMin": {
+      "X": -0.9476134,
+      "Y": -2.2911253,
+      "Z": -0.411052078
+    },
+    "DimensionsMax": {
+      "X": 0.9476134,
+      "Y": 2.222777,
+      "Z": 1.42152464
+    },
+    "BoundingCenter": {
+      "X": 0.0,
+      "Y": -0.110219,
+      "Z": 0.508288
+    },
+    "BoundingSphereRadius": 2.47592,
+    "Rewards": null,
+    "MaxBraking": 0.8,
+    "MaxBrakingMods": 0.900000036,
+    "MaxSpeed": 38.9853821,
+    "MaxTraction": 2.0,
+    "Acceleration": 0.2,
+    "Agility": 0.58,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0
+  },
+  {
+    "Name": "openwheel2",
+    "DisplayName": "DR1",
+    "Hash": 1181339704,
+    "SignedHash": -1532645815,
+    "HexHash": "0x4669D038",
+    "DlcName": "mpsum",
+    "HandlingId": "OPENWHEEL2",
+    "LayoutId": "LAYOUT_LOW_RACER_FORMULA",
+    "Manufacturer": "DECLASSE",
+    "ManufacturerDisplayName": "Declasse",
+    "Class": "OPEN_WHEEL",
+    "Type": "CAR",
+    "PlateType": "NONE",
+    "DashboardType": "RACE",
+    "WheelType": "SUPERMOD3",
+    "Flags": [
+      "FLAG_EXTRAS_ALL",
+      "FLAG_NO_BOOT",
+      "FLAG_AVERAGE_CAR",
+      "FLAG_POOR_CAR",
+      "FLAG_PEDS_INSIDE_CAN_BE_SET_ON_FIRE_MP",
+      "FLAG_DONT_TIMESLICE_WHEELS",
+      "FLAG_IS_FORMULA_VEHICLE"
+    ],
+    "Seats": 1,
+    "Price": 100,
+    "MonetaryValue": 35000,
+    "HasConvertibleRoof": false,
+    "HasSirens": false,
+    "Weapons": [],
+    "ModKits": [
+      "434_openwheel2_modkit"
+    ],
+    "DimensionsMin": {
+      "X": -1.02592707,
+      "Y": -2.4224906,
+      "Z": -0.279093623
+    },
+    "DimensionsMax": {
+      "X": 1.02592707,
+      "Y": 2.81708479,
+      "Z": 0.7452266
+    },
+    "BoundingCenter": {
+      "X": 0.0,
+      "Y": 0.203553,
+      "Z": 0.233121
+    },
+    "BoundingSphereRadius": 2.782523,
+    "Rewards": null,
+    "MaxBraking": 1.15,
+    "MaxBrakingMods": 1.25,
+    "MaxSpeed": 53.0537224,
+    "MaxTraction": 3.08,
+    "Acceleration": 0.655,
+    "Agility": 1.035,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0
+  },
+  {
+    "Name": "gauntlet5",
+    "DisplayName": "Gauntlet Classic Custom",
+    "Hash": 2172320429,
+    "SignedHash": -1001672746,
+    "HexHash": "0x817AFAAD",
+    "DlcName": "mpsum",
+    "HandlingId": "GAUNTLET5",
+    "LayoutId": "LAYOUT_LOW_RESTRICTED_GAUNTLET3",
+    "Manufacturer": "BRAVADO",
+    "ManufacturerDisplayName": "Bravado",
+    "Class": "MUSCLE",
+    "Type": "CAR",
+    "PlateType": "BACK_PLATES",
+    "DashboardType": "DUKES",
+    "WheelType": "MUSCLE",
+    "Flags": [
+      "FLAG_CAN_HAVE_NEONS",
+      "FLAG_SPORTS",
+      "FLAG_PARKING_SENSORS",
+      "FLAG_RICH_CAR",
+      "FLAG_AVERAGE_CAR",
+      "FLAG_HAS_INTERIOR_EXTRAS"
+    ],
+    "Seats": 2,
+    "Price": 100,
+    "MonetaryValue": 25000,
+    "HasConvertibleRoof": false,
+    "HasSirens": false,
+    "Weapons": [],
+    "ModKits": [
+      "419_gauntlet5_modkit"
+    ],
+    "DimensionsMin": {
+      "X": -0.97220695,
+      "Y": -2.97957468,
+      "Z": -0.355814
+    },
+    "DimensionsMax": {
+      "X": 0.972207665,
+      "Y": 2.78491855,
+      "Z": 1.16205168
+    },
+    "BoundingCenter": {
+      "X": -1E-06,
+      "Y": 0.193547,
+      "Z": 0.412833
+    },
+    "BoundingSphereRadius": 2.78226,
+    "Rewards": null,
+    "MaxBraking": 0.9,
+    "MaxBrakingMods": 1.0,
+    "MaxSpeed": 48.2967949,
+    "MaxTraction": 2.25,
+    "Acceleration": 0.29,
+    "Agility": 0.67,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0
+  },
+  {
+    "Name": "dukes3",
+    "DisplayName": "Beater Dukes",
+    "Hash": 2134119907,
+    "SignedHash": 2134119907,
+    "HexHash": "0x7F3415E3",
+    "DlcName": "mpsum",
+    "HandlingId": "DUKES3",
+    "LayoutId": "LAYOUT_LOW",
+    "Manufacturer": "IMPONTE",
+    "ManufacturerDisplayName": "Imponte",
+    "Class": "MUSCLE",
+    "Type": "CAR",
+    "PlateType": "BACK_PLATES",
+    "DashboardType": "DUKES",
+    "WheelType": "MUSCLE",
+    "Flags": [
+      "FLAG_EXTRAS_STRONG",
+      "FLAG_RECESSED_HEADLIGHT_CORONAS",
+      "FLAG_AVERAGE_CAR",
+      "FLAG_HAS_INTERIOR_EXTRAS"
+    ],
+    "Seats": 2,
+    "Price": 100,
+    "MonetaryValue": 150000,
+    "HasConvertibleRoof": false,
+    "HasSirens": false,
+    "Weapons": [],
+    "ModKits": [
+      "415_dukes3_modkit"
+    ],
+    "DimensionsMin": {
+      "X": -1.02697194,
+      "Y": -3.3260653,
+      "Z": -0.584079
+    },
+    "DimensionsMax": {
+      "X": 1.02697229,
+      "Y": 2.56049514,
+      "Z": 0.8025807
+    },
+    "BoundingCenter": {
+      "X": 0.0,
+      "Y": -0.181403,
+      "Z": 0.179013
+    },
+    "BoundingSphereRadius": 2.939017,
+    "Rewards": null,
+    "MaxBraking": 0.75,
+    "MaxBrakingMods": 0.85,
+    "MaxSpeed": 47.3507156,
+    "MaxTraction": 2.2,
+    "Acceleration": 0.315,
+    "Agility": 0.695,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0
+  },
+  {
+    "Name": "youga3",
+    "DisplayName": "Youga Classic 4x4",
+    "Hash": 1802742206,
+    "SignedHash": -716819994,
+    "HexHash": "0x6B73A9BE",
+    "DlcName": "mpsum",
+    "HandlingId": "YOUGA3",
+    "LayoutId": "LAYOUT_VAN_YOUGA3",
+    "Manufacturer": "BRAVADO",
+    "ManufacturerDisplayName": "Bravado",
+    "Class": "VAN",
+    "Type": "CAR",
+    "PlateType": "FRONT_AND_BACK_PLATES",
+    "DashboardType": "TRUCK",
+    "WheelType": "MUSCLE",
+    "Flags": [
+      "FLAG_IS_VAN",
+      "FLAG_POOR_CAR",
+      "FLAG_AVERAGE_CAR",
+      "FLAG_IS_BULKY",
+      "FLAG_CARGOBOB_HOOK_UP_CHASSIS"
+    ],
+    "Seats": 4,
+    "Price": 100,
+    "MonetaryValue": 22000,
+    "HasConvertibleRoof": false,
+    "HasSirens": false,
+    "Weapons": [],
+    "ModKits": [
+      "423_youga3_modkit"
+    ],
+    "DimensionsMin": {
+      "X": -1.21518731,
+      "Y": -2.39292216,
+      "Z": -1.18835
+    },
+    "DimensionsMax": {
+      "X": 1.1500721,
+      "Y": 2.61051559,
+      "Z": 1.41822529
+    },
+    "BoundingCenter": {
+      "X": 0.001049,
+      "Y": 0.047334,
+      "Z": 0.035996
+    },
+    "BoundingSphereRadius": 2.828651,
+    "Rewards": null,
+    "MaxBraking": 0.3,
+    "MaxBrakingMods": 0.4,
+    "MaxSpeed": 38.44937,
+    "MaxTraction": 1.95,
+    "Acceleration": 0.17,
+    "Agility": 0.55,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0
+  },
+  {
+    "Name": "glendale2",
+    "DisplayName": "Glendale Custom",
+    "Hash": 3381377750,
+    "SignedHash": 758813230,
+    "HexHash": "0xC98BBAD6",
+    "DlcName": "mpsum",
+    "HandlingId": "GLENDALE2",
+    "LayoutId": "LAYOUT_STD_LOWRIDER2",
+    "Manufacturer": "BENEFAC",
+    "ManufacturerDisplayName": "Benefactor",
+    "Class": "SEDAN",
+    "Type": "CAR",
+    "PlateType": "FRONT_AND_BACK_PLATES",
+    "DashboardType": "DUKES",
+    "WheelType": "LOWRIDER",
+    "Flags": [
+      "FLAG_HAS_LOWRIDER_HYDRAULICS",
+      "FLAG_AVERAGE_CAR",
+      "FLAG_CARGOBOB_HOOK_UP_CHASSIS"
+    ],
+    "Seats": 4,
+    "Price": 100,
+    "MonetaryValue": 100000,
+    "HasConvertibleRoof": false,
+    "HasSirens": false,
+    "Weapons": [],
+    "ModKits": [
+      "425_glendale2_modkit"
+    ],
+    "DimensionsMin": {
+      "X": -0.9094905,
+      "Y": -2.44606137,
+      "Z": -0.6055446
+    },
+    "DimensionsMax": {
+      "X": 0.9094905,
+      "Y": 2.43078279,
+      "Z": 0.988598
+    },
+    "BoundingCenter": {
+      "X": 0.0,
+      "Y": -0.010082,
+      "Z": 0.055334
+    },
+    "BoundingSphereRadius": 2.656035,
+    "Rewards": null,
+    "MaxBraking": 0.625,
+    "MaxBrakingMods": 0.725,
+    "MaxSpeed": 39.8451042,
+    "MaxTraction": 2.25,
+    "Acceleration": 0.233,
+    "Agility": 0.613,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0
+  },
+  {
+    "Name": "peyote3",
+    "DisplayName": "Peyote Custom",
+    "Hash": 1107404867,
+    "SignedHash": -83366868,
+    "HexHash": "0x4201A843",
+    "DlcName": "mpsum",
+    "HandlingId": "PEYOTE3",
+    "LayoutId": "LAYOUT_LOW_PEYOTE3",
+    "Manufacturer": "VAPID",
+    "ManufacturerDisplayName": "Vapid",
+    "Class": "SPORT_CLASSIC",
+    "Type": "CAR",
+    "PlateType": "FRONT_AND_BACK_PLATES",
+    "DashboardType": "PEYOTE",
+    "WheelType": "LOWRIDER",
+    "Flags": [
+      "FLAG_EXTRAS_STRONG",
+      "FLAG_AVERAGE_CAR",
+      "FLAG_CAN_HAVE_NEONS",
+      "FLAG_HAS_LOWRIDER_HYDRAULICS",
+      "FLAG_EXTRAS_REQUIRE",
+      "FLAG_EXTRAS_ALL",
+      "FLAG_EXTRAS_CONVERTIBLE"
+    ],
+    "Seats": 2,
+    "Price": 100,
+    "MonetaryValue": 25000,
+    "HasConvertibleRoof": false,
+    "HasSirens": false,
+    "Weapons": [],
+    "ModKits": [
+      "424_peyote3_modkit"
+    ],
+    "DimensionsMin": {
+      "X": -1.0372467,
+      "Y": -3.10364866,
+      "Z": -0.2622125
+    },
+    "DimensionsMax": {
+      "X": 1.03724647,
+      "Y": 2.411311,
+      "Z": 1.49258137
+    },
+    "BoundingCenter": {
+      "X": 0.0,
+      "Y": -0.2045,
+      "Z": 0.650782
+    },
+    "BoundingSphereRadius": 2.900732,
+    "Rewards": null,
+    "MaxBraking": 0.28,
+    "MaxBrakingMods": 0.38,
+    "MaxSpeed": 42.7741432,
+    "MaxTraction": 1.98,
+    "Acceleration": 0.205,
+    "Agility": 0.585,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0
+  },
+  {
+    "Name": "manana2",
+    "DisplayName": "Manana Custom",
+    "Hash": 1717532765,
+    "SignedHash": 1346935333,
+    "HexHash": "0x665F785D",
+    "DlcName": "mpsum",
+    "HandlingId": "MANANA2",
+    "LayoutId": "LAYOUT_STD_EXITFIXUP",
+    "Manufacturer": "ALBANY",
+    "ManufacturerDisplayName": "Albany",
+    "Class": "MUSCLE",
+    "Type": "CAR",
+    "PlateType": "FRONT_AND_BACK_PLATES",
+    "DashboardType": "DUKES",
+    "WheelType": "LOWRIDER",
+    "Flags": [
+      "FLAG_EXTRAS_CONVERTIBLE",
+      "FLAG_EXTRAS_STRONG",
+      "FLAG_AVERAGE_CAR",
+      "FLAG_CAN_HAVE_NEONS",
+      "FLAG_HAS_LOWRIDER_HYDRAULICS",
+      "FLAG_HAS_SUPERCHARGER"
+    ],
+    "Seats": 4,
+    "Price": 100,
+    "MonetaryValue": 25000,
+    "HasConvertibleRoof": false,
+    "HasSirens": false,
+    "Weapons": [],
+    "ModKits": [
+      "391_manana2_modkit"
+    ],
+    "DimensionsMin": {
+      "X": -1.01002812,
+      "Y": -2.949092,
+      "Z": -0.425605
+    },
+    "DimensionsMax": {
+      "X": 1.01002812,
+      "Y": 2.43889666,
+      "Z": 0.8075102
+    },
+    "BoundingCenter": {
+      "X": 0.0,
+      "Y": -0.254961,
+      "Z": 0.166949
+    },
+    "BoundingSphereRadius": 2.915879,
+    "Rewards": null,
+    "MaxBraking": 0.275,
+    "MaxBrakingMods": 0.375,
+    "MaxSpeed": 43.56295,
+    "MaxTraction": 1.98,
+    "Acceleration": 0.24,
+    "Agility": 0.62,
     "MaxKnots": 0.0,
     "MoveResistance": 0.0
   }

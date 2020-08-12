@@ -46924,5 +46924,1411 @@
         "UpdateGroup": null
       }
     ]
+  },
+  {
+    "CollectionName": "mpSum_overlays",
+    "CollectionHash": 3926848574,
+    "Overlays": [
+      {
+        "TranslatedLabel": {
+          "Hash": 824081819,
+          "English": "BCTR Aged Tee",
+          "German": "Altes BCTR-T-Shirt",
+          "French": "T-shirt BCTR vieilli",
+          "Italian": "Maglietta BCTR consumata",
+          "Russian": "Старая футболка BCTR",
+          "Polish": "Stara koszulka BCTR"
+        },
+        "OverlayName": "mpSum_Tee_000_M",
+        "OverlayHash": 3029523880,
+        "Gender": "GENDER_MALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 1009369882,
+          "English": "BCTR Aged Tee",
+          "German": "Altes BCTR-T-Shirt",
+          "French": "T-shirt BCTR vieilli",
+          "Italian": "Maglietta BCTR consumata",
+          "Russian": "Старая футболка BCTR",
+          "Polish": "Stara koszulka BCTR"
+        },
+        "OverlayName": "mpSum_Tee_000_F",
+        "OverlayHash": 676807987,
+        "Gender": "GENDER_FEMALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 4203221103,
+          "English": "BCTR Tee",
+          "German": "BCTR-T-Shirt",
+          "French": "T-shirt BCTR",
+          "Italian": "Maglietta BCTR",
+          "Russian": "Футболка BCTR",
+          "Polish": "Koszulka BCTR"
+        },
+        "OverlayName": "mpSum_Tee_001_M",
+        "OverlayHash": 1888753218,
+        "Gender": "GENDER_MALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 3939737711,
+          "English": "BCTR Tee",
+          "German": "BCTR-T-Shirt",
+          "French": "T-shirt BCTR",
+          "Italian": "Maglietta BCTR",
+          "Russian": "Футболка BCTR",
+          "Polish": "Koszulka BCTR"
+        },
+        "OverlayName": "mpSum_Tee_001_F",
+        "OverlayHash": 272160153,
+        "Gender": "GENDER_FEMALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 212776124,
+          "English": "Cultstoppers Aged Tee",
+          "German": "Altes Cultstoppers-T-Shirt",
+          "French": "T-shirt Cultstoppers vieilli",
+          "Italian": "Maglietta Cultstoppers consumata",
+          "Russian": "Старая Cultstoppers",
+          "Polish": "Stara koszulka Cultstoppers"
+        },
+        "OverlayName": "mpSum_Tee_002_M",
+        "OverlayHash": 3742499305,
+        "Gender": "GENDER_MALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 3501091873,
+          "English": "Cultstoppers Aged Tee",
+          "German": "Altes Cultstoppers-T-Shirt",
+          "French": "T-shirt Cultstoppers vieilli",
+          "Italian": "Maglietta Cultstoppers consumata",
+          "Russian": "Старая Cultstoppers",
+          "Polish": "Stara koszulka Cultstoppers"
+        },
+        "OverlayName": "mpSum_Tee_002_F",
+        "OverlayHash": 1593344440,
+        "Gender": "GENDER_FEMALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 1322334436,
+          "English": "Cultstoppers Tee",
+          "German": "Cultstoppers-T-Shirt",
+          "French": "T-shirt Cultstoppers",
+          "Italian": "Maglietta Cultstoppers",
+          "Russian": "Футболка Cultstoppers",
+          "Polish": "Koszulka Cultstoppers"
+        },
+        "OverlayName": "mpSum_Tee_003_M",
+        "OverlayHash": 2639047348,
+        "Gender": "GENDER_MALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 3209415004,
+          "English": "Cultstoppers Tee",
+          "German": "Cultstoppers-T-Shirt",
+          "French": "T-shirt Cultstoppers",
+          "Italian": "Maglietta Cultstoppers",
+          "Russian": "Футболка Cultstoppers",
+          "Polish": "Koszulka Cultstoppers"
+        },
+        "OverlayName": "mpSum_Tee_003_F",
+        "OverlayHash": 546222390,
+        "Gender": "GENDER_FEMALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 2690735107,
+          "English": "Daily Globe Aged Tee",
+          "German": "Altes Daily-Globe-T-Shirt",
+          "French": "T-shirt Daily Globe vieilli",
+          "Italian": "Maglietta Daily Globe consumata",
+          "Russian": "Старая Daily Globe",
+          "Polish": "Stara koszulka Daily Globe"
+        },
+        "OverlayName": "mpSum_Tee_004_M",
+        "OverlayHash": 3377860695,
+        "Gender": "GENDER_MALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 101603044,
+          "English": "Daily Globe Aged Tee",
+          "German": "Altes Daily-Globe-T-Shirt",
+          "French": "T-shirt Daily Globe vieilli",
+          "Italian": "Maglietta Daily Globe consumata",
+          "Russian": "Старая Daily Globe",
+          "Polish": "Stara koszulka Daily Globe"
+        },
+        "OverlayName": "mpSum_Tee_004_F",
+        "OverlayHash": 1983375900,
+        "Gender": "GENDER_FEMALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 2872537519,
+          "English": "Daily Globe Tee",
+          "German": "Daily-Globe-T-Shirt",
+          "French": "T-shirt Daily Globe",
+          "Italian": "Maglietta Daily Globe",
+          "Russian": "Футболка Daily Globe",
+          "Polish": "Koszulka Daily Globe"
+        },
+        "OverlayName": "mpSum_Tee_005_M",
+        "OverlayHash": 1595446967,
+        "Gender": "GENDER_MALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 3015586369,
+          "English": "Daily Globe Tee",
+          "German": "Daily-Globe-T-Shirt",
+          "French": "T-shirt Daily Globe",
+          "Italian": "Maglietta Daily Globe",
+          "Russian": "Футболка Daily Globe",
+          "Polish": "Koszulka Daily Globe"
+        },
+        "OverlayName": "mpSum_Tee_005_F",
+        "OverlayHash": 3674377909,
+        "Gender": "GENDER_FEMALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 2099090812,
+          "English": "Eyefind Aged Tee",
+          "German": "Altes Eyefind-T-Shirt",
+          "French": "T-shirt Eyefind vieilli",
+          "Italian": "Maglietta Eyefind consumata",
+          "Russian": "Старая футболка Eyefind",
+          "Polish": "Stara koszulka Eyefind"
+        },
+        "OverlayName": "mpSum_Tee_006_M",
+        "OverlayHash": 3764373973,
+        "Gender": "GENDER_MALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 1981953822,
+          "English": "Eyefind Aged Tee",
+          "German": "Altes Eyefind-T-Shirt",
+          "French": "T-shirt Eyefind vieilli",
+          "Italian": "Maglietta Eyefind consumata",
+          "Russian": "Старая футболка Eyefind",
+          "Polish": "Stara koszulka Eyefind"
+        },
+        "OverlayName": "mpSum_Tee_006_F",
+        "OverlayHash": 383923929,
+        "Gender": "GENDER_FEMALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 2376611473,
+          "English": "Eyefind Tee",
+          "German": "Eyefind-T-Shirt",
+          "French": "T-shirt Eyefind",
+          "Italian": "Maglietta Eyefind",
+          "Russian": "Футболка Eyefind",
+          "Polish": "Koszulka Eyefind"
+        },
+        "OverlayName": "mpSum_Tee_007_M",
+        "OverlayHash": 561619447,
+        "Gender": "GENDER_MALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 1684312995,
+          "English": "Eyefind Tee",
+          "German": "Eyefind-T-Shirt",
+          "French": "T-shirt Eyefind",
+          "Italian": "Maglietta Eyefind",
+          "Russian": "Футболка Eyefind",
+          "Polish": "Koszulka Eyefind"
+        },
+        "OverlayName": "mpSum_Tee_007_F",
+        "OverlayHash": 2591560702,
+        "Gender": "GENDER_FEMALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 3884247633,
+          "English": "Facade Aged Tee",
+          "German": "Altes Facade-T-Shirt",
+          "French": "T-shirt Façade vieilli",
+          "Italian": "Maglietta Façade consumata",
+          "Russian": "Старая футболка Facade",
+          "Polish": "Stara koszulka Facade"
+        },
+        "OverlayName": "mpSum_Tee_008_M",
+        "OverlayHash": 2381311123,
+        "Gender": "GENDER_MALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 3652091445,
+          "English": "Facade Aged Tee",
+          "German": "Altes Facade-T-Shirt",
+          "French": "T-shirt Façade vieilli",
+          "Italian": "Maglietta Façade consumata",
+          "Russian": "Старая футболка Facade",
+          "Polish": "Stara koszulka Facade"
+        },
+        "OverlayName": "mpSum_Tee_008_F",
+        "OverlayHash": 3896680763,
+        "Gender": "GENDER_FEMALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 3119910708,
+          "English": "Facade Tee",
+          "German": "Facade-T-Shirt",
+          "French": "T-shirt Façade",
+          "Italian": "Maglietta Façade",
+          "Russian": "Футболка Facade",
+          "Polish": "Koszulka Facade"
+        },
+        "OverlayName": "mpSum_Tee_009_M",
+        "OverlayHash": 2528065374,
+        "Gender": "GENDER_MALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 3353860776,
+          "English": "Facade Tee",
+          "German": "Facade-T-Shirt",
+          "French": "T-shirt Façade",
+          "Italian": "Maglietta Façade",
+          "Russian": "Футболка Facade",
+          "Polish": "Koszulka Facade"
+        },
+        "OverlayName": "mpSum_Tee_009_F",
+        "OverlayHash": 4214489190,
+        "Gender": "GENDER_FEMALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 958516510,
+          "English": "Fruit Aged Tee",
+          "German": "Altes Fruit-T-Shirt",
+          "French": "T-shirt Fruit vieilli",
+          "Italian": "Maglietta Fruit consumata",
+          "Russian": "Старая футболка Fruit",
+          "Polish": "Stara koszulka Fruit"
+        },
+        "OverlayName": "mpSum_Tee_010_M",
+        "OverlayHash": 2091781849,
+        "Gender": "GENDER_MALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 566898188,
+          "English": "Fruit Aged Tee",
+          "German": "Altes Fruit-T-Shirt",
+          "French": "T-shirt Fruit vieilli",
+          "Italian": "Maglietta Fruit consumata",
+          "Russian": "Старая футболка Fruit",
+          "Polish": "Stara koszulka Fruit"
+        },
+        "OverlayName": "mpSum_Tee_010_F",
+        "OverlayHash": 1835331655,
+        "Gender": "GENDER_FEMALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 3881806235,
+          "English": "Fruit Tee",
+          "German": "Fruit-T-Shirt",
+          "French": "T-shirt Fruit",
+          "Italian": "Maglietta Fruit",
+          "Russian": "Футболка Fruit",
+          "Polish": "Koszulka Fruit"
+        },
+        "OverlayName": "mpSum_Tee_011_M",
+        "OverlayHash": 1824588341,
+        "Gender": "GENDER_MALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 736707146,
+          "English": "Fruit Tee",
+          "German": "Fruit-T-Shirt",
+          "French": "T-shirt Fruit",
+          "Italian": "Maglietta Fruit",
+          "Russian": "Футболка Fruit",
+          "Polish": "Koszulka Fruit"
+        },
+        "OverlayName": "mpSum_Tee_011_F",
+        "OverlayHash": 2644370426,
+        "Gender": "GENDER_FEMALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 3547103669,
+          "English": "LSHH Aged Tee",
+          "German": "Altes LSHH-T-Shirt",
+          "French": "T-shirt LSHH vieilli",
+          "Italian": "Maglietta LSHH consumata",
+          "Russian": "Старая футболка LSHH",
+          "Polish": "Stara koszulka LSHH"
+        },
+        "OverlayName": "mpSum_Tee_012_M",
+        "OverlayHash": 242597641,
+        "Gender": "GENDER_MALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 1051715543,
+          "English": "LSHH Aged Tee",
+          "German": "Altes LSHH-T-Shirt",
+          "French": "T-shirt LSHH vieilli",
+          "Italian": "Maglietta LSHH consumata",
+          "Russian": "Старая футболка LSHH",
+          "Polish": "Stara koszulka LSHH"
+        },
+        "OverlayName": "mpSum_Tee_012_F",
+        "OverlayHash": 1231926496,
+        "Gender": "GENDER_FEMALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 280230979,
+          "English": "LSHH Tee",
+          "German": "LSHH-T-Shirt",
+          "French": "T-shirt LSHH",
+          "Italian": "Maglietta LSHH",
+          "Russian": "Футболка LSHH",
+          "Polish": "Koszulka LSHH"
+        },
+        "OverlayName": "mpSum_Tee_013_M",
+        "OverlayHash": 566785691,
+        "Gender": "GENDER_MALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 3480750437,
+          "English": "LSHH Tee",
+          "German": "LSHH-T-Shirt",
+          "French": "T-shirt LSHH",
+          "Italian": "Maglietta LSHH",
+          "Russian": "Футболка LSHH",
+          "Polish": "Koszulka LSHH"
+        },
+        "OverlayName": "mpSum_Tee_013_F",
+        "OverlayHash": 2788786043,
+        "Gender": "GENDER_FEMALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 4278868208,
+          "English": "MyRoom Aged Tee",
+          "German": "Altes MyRoom-T-Shirt",
+          "French": "T-shirt MyRoom vieilli",
+          "Italian": "Maglietta MyRoom consumata",
+          "Russian": "Старая футболка MyRoom",
+          "Polish": "Stara koszulka MyRoom"
+        },
+        "OverlayName": "mpSum_Tee_014_M",
+        "OverlayHash": 2203654339,
+        "Gender": "GENDER_MALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 3788615192,
+          "English": "MyRoom Aged Tee",
+          "German": "Altes MyRoom-T-Shirt",
+          "French": "T-shirt MyRoom vieilli",
+          "Italian": "Maglietta MyRoom consumata",
+          "Russian": "Старая футболка MyRoom",
+          "Polish": "Stara koszulka MyRoom"
+        },
+        "OverlayName": "mpSum_Tee_014_F",
+        "OverlayHash": 2557821691,
+        "Gender": "GENDER_FEMALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 2917119620,
+          "English": "MyRoom Tee",
+          "German": "MyRoom-T-Shirt",
+          "French": "T-shirt MyRoom",
+          "Italian": "Maglietta MyRoom",
+          "Russian": "Футболка MyRoom",
+          "Polish": "Koszulka MyRoom"
+        },
+        "OverlayName": "mpSum_Tee_015_M",
+        "OverlayHash": 2215752465,
+        "Gender": "GENDER_MALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 4076064860,
+          "English": "MyRoom Tee",
+          "German": "MyRoom-T-Shirt",
+          "French": "T-shirt MyRoom",
+          "Italian": "Maglietta MyRoom",
+          "Russian": "Футболка MyRoom",
+          "Polish": "Koszulka MyRoom"
+        },
+        "OverlayName": "mpSum_Tee_015_F",
+        "OverlayHash": 1673851512,
+        "Gender": "GENDER_FEMALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 3190380307,
+          "English": "Rebel Aged Tee",
+          "German": "Altes Rebel-T-Shirt",
+          "French": "T-shirt Rebel vieilli",
+          "Italian": "Maglietta Rebel consumata",
+          "Russian": "Старая футболка Rebel",
+          "Polish": "Stara koszulka Rebel"
+        },
+        "OverlayName": "mpSum_Tee_016_M",
+        "OverlayHash": 1359156274,
+        "Gender": "GENDER_MALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 94795201,
+          "English": "Rebel Aged Tee",
+          "German": "Altes Rebel-T-Shirt",
+          "French": "T-shirt Rebel vieilli",
+          "Italian": "Maglietta Rebel consumata",
+          "Russian": "Старая футболка Rebel",
+          "Polish": "Stara koszulka Rebel"
+        },
+        "OverlayName": "mpSum_Tee_016_F",
+        "OverlayHash": 1023339598,
+        "Gender": "GENDER_FEMALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 1826763910,
+          "English": "Rebel Tee",
+          "German": "Rebel-T-Shirt",
+          "French": "T-shirt Rebel",
+          "Italian": "Maglietta Rebel",
+          "Russian": "Футболка Rebel",
+          "Polish": "Koszulka Rebel"
+        },
+        "OverlayName": "mpSum_Tee_017_M",
+        "OverlayHash": 1904247246,
+        "Gender": "GENDER_MALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 2537724155,
+          "English": "Rebel Tee",
+          "German": "Rebel-T-Shirt",
+          "French": "T-shirt Rebel",
+          "Italian": "Maglietta Rebel",
+          "Russian": "Футболка Rebel",
+          "Polish": "Koszulka Rebel"
+        },
+        "OverlayName": "mpSum_Tee_017_F",
+        "OverlayHash": 4131228526,
+        "Gender": "GENDER_FEMALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 1524469885,
+          "English": "Six Figure Aged Tee",
+          "German": "Altes Six-Figure-T-Shirt",
+          "French": "T-shirt Six Figure vieilli",
+          "Italian": "Maglietta Six Figure consumata",
+          "Russian": "Старая футболка Six Figure",
+          "Polish": "Stara koszulka Six Figure"
+        },
+        "OverlayName": "mpSum_Tee_018_M",
+        "OverlayHash": 2943448900,
+        "Gender": "GENDER_MALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 2825927510,
+          "English": "Six Figure Aged Tee",
+          "German": "Altes Six-Figure-T-Shirt",
+          "French": "T-shirt Six Figure vieilli",
+          "Italian": "Maglietta Six Figure consumata",
+          "Russian": "Старая футболка Six Figure",
+          "Polish": "Stara koszulka Six Figure"
+        },
+        "OverlayName": "mpSum_Tee_018_F",
+        "OverlayHash": 1863218823,
+        "Gender": "GENDER_FEMALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 2040450559,
+          "English": "Six Figure Tee",
+          "German": "Six-Figure-T-Shirt",
+          "French": "T-shirt Six Figure",
+          "Italian": "Maglietta Six Figure",
+          "Russian": "Футболка Six Figure",
+          "Polish": "Koszulka Six Figure"
+        },
+        "OverlayName": "mpSum_Tee_019_M",
+        "OverlayHash": 3497092479,
+        "Gender": "GENDER_MALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 1650601791,
+          "English": "Six Figure Tee",
+          "German": "Six-Figure-T-Shirt",
+          "French": "T-shirt Six Figure",
+          "Italian": "Maglietta Six Figure",
+          "Russian": "Футболка Six Figure",
+          "Polish": "Koszulka Six Figure"
+        },
+        "OverlayName": "mpSum_Tee_019_F",
+        "OverlayHash": 333966447,
+        "Gender": "GENDER_FEMALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 376510981,
+          "English": "Trash Or Treasure Aged Tee",
+          "German": "Alt. Trash-Or-Treasure-T-Sh.",
+          "French": "T-shirt Garder ou jeter vieilli",
+          "Italian": "Maglietta Trash Or Treasure cons.",
+          "Russian": "Старая Trash Or Treasure",
+          "Polish": "Stara Trash Or Treasure"
+        },
+        "OverlayName": "mpSum_Tee_020_M",
+        "OverlayHash": 3909459999,
+        "Gender": "GENDER_MALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 1244463681,
+          "English": "Trash Or Treasure Aged Tee",
+          "German": "Alt. Trash-Or-Treasure-T-Sh.",
+          "French": "T-shirt Garder ou jeter vieilli",
+          "Italian": "Maglietta Trash Or Treasure cons.",
+          "Russian": "Старая Trash Or Treasure",
+          "Polish": "Stara Trash Or Treasure"
+        },
+        "OverlayName": "mpSum_Tee_020_F",
+        "OverlayHash": 1412626052,
+        "Gender": "GENDER_FEMALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 683523742,
+          "English": "Trash Or Treasure Tee",
+          "German": "Trash-Or-Treasure-T-Shirt",
+          "French": "T-shirt Garder ou jeter",
+          "Italian": "Maglietta Trash Or Treasure",
+          "Russian": "Футболка Trash Or Treasure",
+          "Polish": "Koszulka Trash Or Treasure"
+        },
+        "OverlayName": "mpSum_Tee_021_M",
+        "OverlayHash": 2011910758,
+        "Gender": "GENDER_MALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 344528634,
+          "English": "Trash Or Treasure Tee",
+          "German": "Trash-Or-Treasure-T-Shirt",
+          "French": "T-shirt Garder ou jeter",
+          "Italian": "Maglietta Trash Or Treasure",
+          "Russian": "Футболка Trash Or Treasure",
+          "Polish": "Koszulka Trash Or Treasure"
+        },
+        "OverlayName": "mpSum_Tee_021_F",
+        "OverlayHash": 4255866340,
+        "Gender": "GENDER_FEMALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 4172537483,
+          "English": "Tw@ Logo Aged Tee",
+          "German": "Altes Tw@-Logo-T-Shirt",
+          "French": "T-shirt logo Tw@ vieilli",
+          "Italian": "Maglietta logo Tw@ consumata",
+          "Russian": "Старая с логотипом Tw@",
+          "Polish": "Stara koszulka z logo Tw@"
+        },
+        "OverlayName": "mpSum_Tee_022_M",
+        "OverlayHash": 2340981853,
+        "Gender": "GENDER_MALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 1190427600,
+          "English": "Tw@ Logo Aged Tee",
+          "German": "Altes Tw@-Logo-T-Shirt",
+          "French": "T-shirt logo Tw@ vieilli",
+          "Italian": "Maglietta logo Tw@ consumata",
+          "Russian": "Старая с логотипом Tw@",
+          "Polish": "Stara koszulka z logo Tw@"
+        },
+        "OverlayName": "mpSum_Tee_022_F",
+        "OverlayHash": 1631533003,
+        "Gender": "GENDER_FEMALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 4228506935,
+          "English": "Tw@ Logo Tee",
+          "German": "Tw@-Logo-T-Shirt",
+          "French": "T-shirt logo Tw@",
+          "Italian": "Maglietta logo Tw@",
+          "Russian": "Футболка с логотипом Tw@",
+          "Polish": "Koszulka z logo Tw@"
+        },
+        "OverlayName": "mpSum_Tee_023_M",
+        "OverlayHash": 3170744944,
+        "Gender": "GENDER_MALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 4014820479,
+          "English": "Tw@ Logo Tee",
+          "German": "Tw@-Logo-T-Shirt",
+          "French": "T-shirt logo Tw@",
+          "Italian": "Maglietta logo Tw@",
+          "Russian": "Футболка с логотипом Tw@",
+          "Polish": "Koszulka z logo Tw@"
+        },
+        "OverlayName": "mpSum_Tee_023_F",
+        "OverlayHash": 1493430918,
+        "Gender": "GENDER_FEMALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 3460794803,
+          "English": "Vapers Den Aged Tee",
+          "German": "Altes Vapers-Den-T-Shirt",
+          "French": "T-shirt Vapoteur vieilli",
+          "Italian": "Maglietta Vapers Den consumata",
+          "Russian": "Старая футболка Vapers Den",
+          "Polish": "Stara koszulka Vapers Den"
+        },
+        "OverlayName": "mpSum_Tee_024_M",
+        "OverlayHash": 2487972529,
+        "Gender": "GENDER_MALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 562147563,
+          "English": "Vapers Den Aged Tee",
+          "German": "Altes Vapers-Den-T-Shirt",
+          "French": "T-shirt Vapoteur vieilli",
+          "Italian": "Maglietta Vapers Den consumata",
+          "Russian": "Старая футболка Vapers Den",
+          "Polish": "Stara koszulka Vapers Den"
+        },
+        "OverlayName": "mpSum_Tee_024_F",
+        "OverlayHash": 4098273962,
+        "Gender": "GENDER_FEMALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 3776622425,
+          "English": "Vapers Den Tee",
+          "German": "Vapers-Den-T-Shirt",
+          "French": "T-shirt Vapoteur",
+          "Italian": "Maglietta Vapers Den",
+          "Russian": "Футболка Vapers Den",
+          "Polish": "Koszulka Vapers Den"
+        },
+        "OverlayName": "mpSum_Tee_025_M",
+        "OverlayHash": 2849205328,
+        "Gender": "GENDER_MALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 3416229156,
+          "English": "Vapers Den Tee",
+          "German": "Vapers-Den-T-Shirt",
+          "French": "T-shirt Vapoteur",
+          "Italian": "Maglietta Vapers Den",
+          "Russian": "Футболка Vapers Den",
+          "Polish": "Koszulka Vapers Den"
+        },
+        "OverlayName": "mpSum_Tee_025_F",
+        "OverlayHash": 553507495,
+        "Gender": "GENDER_FEMALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 3495038436,
+          "English": "WingIt Aged Tee",
+          "German": "Altes WingIt-T-Shirt",
+          "French": "T-shirt WingIt vieilli",
+          "Italian": "Maglietta WingIt consumata",
+          "Russian": "Старая футболка WingIt",
+          "Polish": "Stara koszulka WingIt"
+        },
+        "OverlayName": "mpSum_Tee_026_M",
+        "OverlayHash": 4205780879,
+        "Gender": "GENDER_MALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 4260424134,
+          "English": "WingIt Aged Tee",
+          "German": "Altes WingIt-T-Shirt",
+          "French": "T-shirt WingIt vieilli",
+          "Italian": "Maglietta WingIt consumata",
+          "Russian": "Старая футболка WingIt",
+          "Polish": "Stara koszulka WingIt"
+        },
+        "OverlayName": "mpSum_Tee_026_F",
+        "OverlayHash": 2003474700,
+        "Gender": "GENDER_FEMALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 2979778676,
+          "English": "WingIt Tee",
+          "German": "WingIt-T-Shirt",
+          "French": "T-shirt WingIt",
+          "Italian": "Maglietta WingIt",
+          "Russian": "Футболка WingIt",
+          "Polish": "Koszulka WingIt"
+        },
+        "OverlayName": "mpSum_Tee_027_M",
+        "OverlayHash": 3986884213,
+        "Gender": "GENDER_MALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 3325295181,
+          "English": "WingIt Tee",
+          "German": "WingIt-T-Shirt",
+          "French": "T-shirt WingIt",
+          "Italian": "Maglietta WingIt",
+          "Russian": "Футболка WingIt",
+          "Polish": "Koszulka WingIt"
+        },
+        "OverlayName": "mpSum_Tee_027_F",
+        "OverlayHash": 1121792228,
+        "Gender": "GENDER_FEMALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 3285611753,
+          "English": "ZiT Aged Tee",
+          "German": "Altes ZiT-T-Shirt",
+          "French": "T-shirt ZiT vieilli",
+          "Italian": "Maglietta ZiT consumata",
+          "Russian": "Старая футболка ZiT",
+          "Polish": "Stara koszulka ZiT"
+        },
+        "OverlayName": "mpSum_Tee_028_M",
+        "OverlayHash": 667714507,
+        "Gender": "GENDER_MALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 3093192354,
+          "English": "ZiT Aged Tee",
+          "German": "Altes ZiT-T-Shirt",
+          "French": "T-shirt ZiT vieilli",
+          "Italian": "Maglietta ZiT consumata",
+          "Russian": "Старая футболка ZiT",
+          "Polish": "Stara koszulka ZiT"
+        },
+        "OverlayName": "mpSum_Tee_028_F",
+        "OverlayHash": 2870315627,
+        "Gender": "GENDER_FEMALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 2502334346,
+          "English": "ZiT Tee",
+          "German": "ZiT-T-Shirt",
+          "French": "T-shirt ZiT",
+          "Italian": "Maglietta ZiT",
+          "Russian": "Футболка ZiT",
+          "Polish": "Koszulka ZiT"
+        },
+        "OverlayName": "mpSum_Tee_029_M",
+        "OverlayHash": 2684757044,
+        "Gender": "GENDER_MALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 3662914180,
+          "English": "ZiT Tee",
+          "German": "ZiT-T-Shirt",
+          "French": "T-shirt ZiT",
+          "Italian": "Maglietta ZiT",
+          "Russian": "Футболка ZiT",
+          "Polish": "Koszulka ZiT"
+        },
+        "OverlayName": "mpSum_Tee_029_F",
+        "OverlayHash": 2840802950,
+        "Gender": "GENDER_FEMALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 610519542,
+          "English": "11 11 Tee",
+          "German": "11-11-T-Shirt",
+          "French": "T-shirt 11 11",
+          "Italian": "Maglietta 11 11",
+          "Russian": "AoF \"Запредельная мощность\"",
+          "Polish": "Koszulka 11 11"
+        },
+        "OverlayName": "mpSum_Tee_030_M",
+        "OverlayHash": 3877850797,
+        "Gender": "GENDER_MALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 542684737,
+          "English": "11 11 Tee",
+          "German": "11-11-T-Shirt",
+          "French": "T-shirt 11 11",
+          "Italian": "Maglietta 11 11",
+          "Russian": "AoF \"Запредельная мощность\"",
+          "Polish": "Koszulka 11 11"
+        },
+        "OverlayName": "mpSum_Tee_030_F",
+        "OverlayHash": 3515392888,
+        "Gender": "GENDER_FEMALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 906915147,
+          "English": "King Of QUB3D Tee",
+          "German": "QUB3D-Profi-T-Shirt",
+          "French": "T-shirt Dans ton QUB3D",
+          "Italian": "Maglietta Re di QUB3D",
+          "Russian": "Футболка \"Король QUB3D\"",
+          "Polish": "Koszulka Król QUB3D"
+        },
+        "OverlayName": "mpSum_Tee_031_M",
+        "OverlayHash": 1246110729,
+        "Gender": "GENDER_MALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 1183351456,
+          "English": "King Of QUB3D Tee",
+          "German": "QUB3D-Profi-T-Shirt",
+          "French": "T-shirt Dans ton QUB3D",
+          "Italian": "Maglietta Re di QUB3D",
+          "Russian": "Футболка \"Король QUB3D\"",
+          "Polish": "Koszulka Król QUB3D"
+        },
+        "OverlayName": "mpSum_Tee_031_F",
+        "OverlayHash": 2933058849,
+        "Gender": "GENDER_FEMALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 1184173656,
+          "English": "Qubism Tee",
+          "German": "Qubismus-T-Shirt",
+          "French": "T-shirt Qubisme",
+          "Italian": "Maglietta Qubismo",
+          "Russian": "Футболка Qub-изм",
+          "Polish": "Koszulka Qubizm"
+        },
+        "OverlayName": "mpSum_Tee_032_M",
+        "OverlayHash": 461575135,
+        "Gender": "GENDER_MALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 2077420852,
+          "English": "Qubism Tee",
+          "German": "Qubismus-T-Shirt",
+          "French": "T-shirt Qubisme",
+          "Italian": "Maglietta Qubismo",
+          "Russian": "Футболка Qub-изм",
+          "Polish": "Koszulka Qubizm"
+        },
+        "OverlayName": "mpSum_Tee_032_F",
+        "OverlayHash": 1250161120,
+        "Gender": "GENDER_FEMALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 1749963210,
+          "English": "God Of QUB3D Tee",
+          "German": "QUB3D-Gott-T-Shirt",
+          "French": "T-shirt Dieu de QUB3D",
+          "Italian": "Maglietta Dio di QUB3D",
+          "Russian": "Футболка \"Бог QUB3D\"",
+          "Polish": "Koszulka Bóg QUB3D"
+        },
+        "OverlayName": "mpSum_Tee_033_M",
+        "OverlayHash": 3908804133,
+        "Gender": "GENDER_MALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 3243112493,
+          "English": "God Of QUB3D Tee",
+          "German": "QUB3D-Gott-T-Shirt",
+          "French": "T-shirt Dieu de QUB3D",
+          "Italian": "Maglietta Dio di QUB3D",
+          "Russian": "Футболка \"Бог QUB3D\"",
+          "Polish": "Koszulka Bóg QUB3D"
+        },
+        "OverlayName": "mpSum_Tee_033_F",
+        "OverlayHash": 1288201657,
+        "Gender": "GENDER_FEMALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 2067527589,
+          "English": "QUB3D Boxart Tee",
+          "German": "QUB3D-Boxart-T-Shirt",
+          "French": "T-shirt jaquette QUB3D",
+          "Italian": "Maglietta copertina QUB3D",
+          "Russian": "Футболка с обложкой QUB3D",
+          "Polish": "Koszulka QUB3D z okładką"
+        },
+        "OverlayName": "mpSum_Tee_034_M",
+        "OverlayHash": 2880425417,
+        "Gender": "GENDER_MALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 1466967151,
+          "English": "QUB3D Boxart Tee",
+          "German": "QUB3D-Boxart-T-Shirt",
+          "French": "T-shirt jaquette QUB3D",
+          "Italian": "Maglietta copertina QUB3D",
+          "Russian": "Футболка с обложкой QUB3D",
+          "Polish": "Koszulka QUB3D z okładką"
+        },
+        "OverlayName": "mpSum_Tee_034_F",
+        "OverlayHash": 111412152,
+        "Gender": "GENDER_FEMALE",
+        "Type": "TYPE_BADGE",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 0,
+        "Facing": null,
+        "UpdateGroup": "torsoDecal"
+      }
+    ]
   }
 ]

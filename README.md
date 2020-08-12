@@ -64,3 +64,5 @@ Object location dumps contain positions of various objects of a specific type, o
 - **Food stands** (Hotdogs & Burger) (worldFoodStands.json) **23** in total
 - **Container cabins** (worldContainerCabins.json) **155** in total
 - **Street lights** (worldStreetLights.json) **5880** in total
+- **Traffic lights** (worldTrafficLights.json) **1058** in total
+- **Cctv cameras** (worldCctvs.json) **1574** in total

@@ -352,27 +352,27 @@
     "TotalEntitiesCount": 51
   },
   {
+    "Name": "sm20_tun2",
+    "FilePath": "x64m.rpf\\levels\\gta5\\_cityw\\santamon_01\\santamon_metadata.rpf\\sm_20_interior_sm20_tun2.ytyp",
+    "DlcName": "singleplayer",
+    "Locations": [
+      {
+        "FilePath": "update\\update.rpf\\dlc_patch\\mpheist\\x64\\levels\\gta5\\_cityw\\santamon_01\\santamon_metadata.rpf\\hei_sm_20_interior_sm20_tun2.ymap",
+        "Position": {
+          "X": -1411.97009,
+          "Y": -759.518066,
+          "Z": 14.0454865
+        }
+      }
+    ],
+    "TotalEntitiesCount": 55
+  },
+  {
     "Name": "dt1_02_carpark",
     "FilePath": "x64i.rpf\\levels\\gta5\\_citye\\downtown_01\\downtown_01_metadata.rpf\\dt1_02_interior_dt1_02_carpark.ytyp",
     "DlcName": "singleplayer",
     "Locations": [],
     "TotalEntitiesCount": 29
-  },
-  {
-    "Name": "sm20_tun3",
-    "FilePath": "x64m.rpf\\levels\\gta5\\_cityw\\santamon_01\\santamon_metadata.rpf\\sm_20_interior_sm20_tun3.ytyp",
-    "DlcName": "singleplayer",
-    "Locations": [
-      {
-        "FilePath": "update\\update.rpf\\dlc_patch\\mpheist\\x64\\levels\\gta5\\_cityw\\santamon_01\\santamon_metadata.rpf\\hei_sm_20_interior_sm20_tun3.ymap",
-        "Position": {
-          "X": -1292.50183,
-          "Y": -730.766,
-          "Z": 13.2987061
-        }
-      }
-    ],
-    "TotalEntitiesCount": 54
   },
   {
     "Name": "sm20_tun4",
@@ -2063,20 +2063,20 @@
     "TotalEntitiesCount": 69
   },
   {
-    "Name": "sm20_tun2",
-    "FilePath": "x64m.rpf\\levels\\gta5\\_cityw\\santamon_01\\santamon_metadata.rpf\\sm_20_interior_sm20_tun2.ytyp",
+    "Name": "sm20_tun3",
+    "FilePath": "x64m.rpf\\levels\\gta5\\_cityw\\santamon_01\\santamon_metadata.rpf\\sm_20_interior_sm20_tun3.ytyp",
     "DlcName": "singleplayer",
     "Locations": [
       {
-        "FilePath": "update\\update.rpf\\dlc_patch\\mpheist\\x64\\levels\\gta5\\_cityw\\santamon_01\\santamon_metadata.rpf\\hei_sm_20_interior_sm20_tun2.ymap",
+        "FilePath": "update\\update.rpf\\dlc_patch\\mpheist\\x64\\levels\\gta5\\_cityw\\santamon_01\\santamon_metadata.rpf\\hei_sm_20_interior_sm20_tun3.ymap",
         "Position": {
-          "X": -1411.97009,
-          "Y": -759.518066,
-          "Z": 14.0454865
+          "X": -1292.50183,
+          "Y": -730.766,
+          "Z": 13.2987061
         }
       }
     ],
-    "TotalEntitiesCount": 55
+    "TotalEntitiesCount": 54
   },
   {
     "Name": "v_lesters",
@@ -7614,6 +7614,22 @@
     "TotalEntitiesCount": 41
   },
   {
+    "Name": "bkr_biker_dlc_int_ware03",
+    "FilePath": "update\\x64\\dlcpacks\\mpbiker\\dlc.rpf\\x64\\levels\\gta5\\interiors\\biker_dlc_int_ware03.rpf\\bkr_biker_dlc_int_ware03.ytyp",
+    "DlcName": "mpbiker",
+    "Locations": [
+      {
+        "FilePath": "update\\x64\\dlcpacks\\mpbiker\\dlc.rpf\\x64\\levels\\gta5\\interiors\\biker_interior_placement.rpf\\bkr_biker_interior_placement_interior_4_biker_dlc_int_ware03_milo_.ymap",
+        "Position": {
+          "X": 1093.581,
+          "Y": -3196.59741,
+          "Z": -39.99353
+        }
+      }
+    ],
+    "TotalEntitiesCount": 29
+  },
+  {
     "Name": "bkr_biker_dlc_int_ware05",
     "FilePath": "update\\x64\\dlcpacks\\mpbiker\\dlc.rpf\\x64\\levels\\gta5\\interiors\\biker_dlc_int_ware05.rpf\\bkr_biker_dlc_int_ware05.ytyp",
     "DlcName": "mpbiker",
@@ -7628,22 +7644,6 @@
       }
     ],
     "TotalEntitiesCount": 62
-  },
-  {
-    "Name": "bkr_biker_dlc_int_ware02",
-    "FilePath": "update\\x64\\dlcpacks\\mpbiker\\dlc.rpf\\x64\\levels\\gta5\\interiors\\biker_dlc_int_ware02.rpf\\bkr_biker_dlc_int_ware02.ytyp",
-    "DlcName": "mpbiker",
-    "Locations": [
-      {
-        "FilePath": "update\\x64\\dlcpacks\\mpbiker\\dlc.rpf\\x64\\levels\\gta5\\interiors\\biker_interior_placement.rpf\\bkr_biker_interior_placement_interior_3_biker_dlc_int_ware02_milo_.ymap",
-        "Position": {
-          "X": 1059.028,
-          "Y": -3201.89038,
-          "Z": -39.99353
-        }
-      }
-    ],
-    "TotalEntitiesCount": 86
   },
   {
     "Name": "bkr_biker_dlc_int_ware01",
@@ -7710,20 +7710,20 @@
     "TotalEntitiesCount": 273
   },
   {
-    "Name": "bkr_biker_dlc_int_ware03",
-    "FilePath": "update\\x64\\dlcpacks\\mpbiker\\dlc.rpf\\x64\\levels\\gta5\\interiors\\biker_dlc_int_ware03.rpf\\bkr_biker_dlc_int_ware03.ytyp",
+    "Name": "bkr_biker_dlc_int_ware02",
+    "FilePath": "update\\x64\\dlcpacks\\mpbiker\\dlc.rpf\\x64\\levels\\gta5\\interiors\\biker_dlc_int_ware02.rpf\\bkr_biker_dlc_int_ware02.ytyp",
     "DlcName": "mpbiker",
     "Locations": [
       {
-        "FilePath": "update\\x64\\dlcpacks\\mpbiker\\dlc.rpf\\x64\\levels\\gta5\\interiors\\biker_interior_placement.rpf\\bkr_biker_interior_placement_interior_4_biker_dlc_int_ware03_milo_.ymap",
+        "FilePath": "update\\x64\\dlcpacks\\mpbiker\\dlc.rpf\\x64\\levels\\gta5\\interiors\\biker_interior_placement.rpf\\bkr_biker_interior_placement_interior_3_biker_dlc_int_ware02_milo_.ymap",
         "Position": {
-          "X": 1093.581,
-          "Y": -3196.59741,
+          "X": 1059.028,
+          "Y": -3201.89038,
           "Z": -39.99353
         }
       }
     ],
-    "TotalEntitiesCount": 29
+    "TotalEntitiesCount": 86
   },
   {
     "Name": "bkr_biker_dlc_int_ware04",
@@ -8694,6 +8694,22 @@
     "TotalEntitiesCount": 703
   },
   {
+    "Name": "ch_dlc_arcade",
+    "FilePath": "update\\x64\\dlcpacks\\mpheist3\\dlc.rpf\\x64\\levels\\gta5\\interiors\\dlc_int_02_ch.rpf\\ch_dlc_int_02_ch.ytyp",
+    "DlcName": "mpheist3",
+    "Locations": [
+      {
+        "FilePath": "update\\x64\\dlcpacks\\mpheist3\\dlc.rpf\\x64\\levels\\gta5\\interiors\\int_placement_ch.rpf\\ch_int_placement_ch_interior_1_dlc_arcade_milo_.ymap",
+        "Position": {
+          "X": 2730.0,
+          "Y": -380.0,
+          "Z": -50.0
+        }
+      }
+    ],
+    "TotalEntitiesCount": 23
+  },
+  {
     "Name": "ch_dlc_casino_hotel",
     "FilePath": "update\\x64\\dlcpacks\\mpheist3\\dlc.rpf\\x64\\levels\\gta5\\interiors\\dlc_int_07_ch.rpf\\ch_dlc_int_07_ch.ytyp",
     "DlcName": "mpheist3",
@@ -8708,22 +8724,6 @@
       }
     ],
     "TotalEntitiesCount": 246
-  },
-  {
-    "Name": "ch_dlc_plan",
-    "FilePath": "update\\x64\\dlcpacks\\mpheist3\\dlc.rpf\\x64\\levels\\gta5\\interiors\\dlc_int_03_ch.rpf\\ch_dlc_int_03_ch.ytyp",
-    "DlcName": "mpheist3",
-    "Locations": [
-      {
-        "FilePath": "update\\x64\\dlcpacks\\mpheist3\\dlc.rpf\\x64\\levels\\gta5\\interiors\\int_placement_ch.rpf\\ch_int_placement_ch_interior_2_dlc_plan_milo_.ymap",
-        "Position": {
-          "X": 2697.615,
-          "Y": -376.38916,
-          "Z": -56.4619255
-        }
-      }
-    ],
-    "TotalEntitiesCount": 36
   },
   {
     "Name": "ch_dlc_casino_shaft",
@@ -8790,20 +8790,20 @@
     "TotalEntitiesCount": 183
   },
   {
-    "Name": "ch_dlc_arcade",
-    "FilePath": "update\\x64\\dlcpacks\\mpheist3\\dlc.rpf\\x64\\levels\\gta5\\interiors\\dlc_int_02_ch.rpf\\ch_dlc_int_02_ch.ytyp",
+    "Name": "ch_dlc_plan",
+    "FilePath": "update\\x64\\dlcpacks\\mpheist3\\dlc.rpf\\x64\\levels\\gta5\\interiors\\dlc_int_03_ch.rpf\\ch_dlc_int_03_ch.ytyp",
     "DlcName": "mpheist3",
     "Locations": [
       {
-        "FilePath": "update\\x64\\dlcpacks\\mpheist3\\dlc.rpf\\x64\\levels\\gta5\\interiors\\int_placement_ch.rpf\\ch_int_placement_ch_interior_1_dlc_arcade_milo_.ymap",
+        "FilePath": "update\\x64\\dlcpacks\\mpheist3\\dlc.rpf\\x64\\levels\\gta5\\interiors\\int_placement_ch.rpf\\ch_int_placement_ch_interior_2_dlc_plan_milo_.ymap",
         "Position": {
-          "X": 2730.0,
-          "Y": -380.0,
-          "Z": -50.0
+          "X": 2697.615,
+          "Y": -376.38916,
+          "Z": -56.4619255
         }
       }
     ],
-    "TotalEntitiesCount": 23
+    "TotalEntitiesCount": 36
   },
   {
     "Name": "ch_dlc_casino_back",
@@ -8820,5 +8820,21 @@
       }
     ],
     "TotalEntitiesCount": 1117
+  },
+  {
+    "Name": "sum_mpapa_yacht",
+    "FilePath": "update\\x64\\dlcpacks\\mpsum\\dlc.rpf\\x64\\levels\\gta5\\interiors\\int_mp_yacht.rpf\\sum_int_mp_yacht.ytyp",
+    "DlcName": "mpsum",
+    "Locations": [
+      {
+        "FilePath": "update\\x64\\dlcpacks\\mpsum\\dlc.rpf\\x64\\levels\\gta5\\_cityw\\additions_01\\sum_yacht_metadata.rpf\\sum_lost_yacht_int.ymap",
+        "Position": {
+          "X": 3637.799,
+          "Y": -4780.56738,
+          "Z": 4.888077
+        }
+      }
+    ],
+    "TotalEntitiesCount": 446
   }
 ]

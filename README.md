@@ -17,7 +17,7 @@ If you are in search for an easy way to browse those GTA V data ingame, feel fre
 - **Movement Clipsets** (movementClipsetsCompact.json) **557** movement clipsets in total (Usable with SET PED MOVEMENT CLIPSET native)
 - **(Walking) Movement Clipsets** (movementClipsetsWalkingCompact.json) **207** movement clipsets in total (Usable with SET PED MOVEMENT CLIPSET native)
 - **(Vehicle Navigation) Nodes** (JSON Download: https://mega.nz/file/BYJlwI7Y#irDL_oKMHHjYwtn8YmZeBCIFsEliLZ4LCdidz9udraQ) **259** node cells with **77991** nodes in total (Mostly useful for vehicle navigation, see navigation meshes dump for ped navigation data)
-- **(Offroad & Ped) Navigation Meshes** (MSGPACK Download: https://mega.nz/file/tFRxwQjL#VmXAYNJbTaNls3khNFTjTqTOdXvBY3ZOS7gEzfRVZE0) **4404** navmeshes with **6390573** polygons in total (See navigationmesh.md for the messagepack model)
+- **(Offroad & Ped) Navigation Meshes** (MSGPACK Download: https://mega.nz/file/NQQ1GSAR#cKYkxCmsO_IOhdis3wt4C6Pr4YlV9FPrFjlHLkSTEcY) **4404** navmeshes with **6390573** polygons in total (See navigationmesh.md for the messagepack model)
 - **Ped Overlay Collections (Tattoos)** (pedOverlayCollections.json) **30** ped overlay collections with **2746** overlays in total (Usable tattos/badges with ped decoration native)
 - **Timecycle Modifiers** (timecycleModifiers.json) **2813** timecycle modifiers in total (Usable with TIMECYCLE MODIFIER natives)
 - **Explosion Types (Names)** (explosionTypesCompact.json) **76** explosion types in total (Usable with ADD EXPLOSION native)

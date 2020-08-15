@@ -24,7 +24,7 @@ If you are in search for an easy way to browse those GTA V data ingame, feel fre
 - **Cam Shake Types (Names)** (camShakeTypesCompact.json) **21** cam shake types in total (Usable with SHAKE CAM & SHAKE GAMEPLAY cam natives)
 - **Audio / Sound names & ref names** (soundNames.json) **1929** audio names from a total of **62** unique audio refs (Usable with PLAY_SOUND natives)
 - **Pickup Types (Names)** (pickupTypes.json) **150** pickup types in total (Usable with CREATE PICKUP natives)
-- **Vehicle Mod Kits** (vehicleModKits.json) **409** vehicle mod kit infos in total (Usable with SET_VEHICLE_MOD_KIT & SET_VEHICLE_LIVERY natives)
+- **Vehicle Mod Kits & Mods** (vehicleModKits.json) **409** vehicle mod kit infos with **46054** mods in total (Usable with SET_VEHICLE_MOD_KIT,SET_VEHICLE_LIVERY & SET_VEHICLE_MOD  natives)
 - **Vehicles** (vehicles.json) **702** vehicle infos in total (Usable with VEHICLE natives)
 - **AnimpostFX names** (animPostFxNamesCompact.json) **149** animpostfx names in total (Usable with ANIMPOSTFX natives)
 - **Ped Component Variations** (pedComponentVariations.json) **21196** component variations & **2988** ped props from a total of **60** ped component variation collections (Usable with COMPONENT VARIATION & PED PROP natives)

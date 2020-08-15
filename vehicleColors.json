@@ -1,0 +1,1746 @@
+{
+  "XenonColors": [
+    {
+      "Index": 0,
+      "LightColorHex": "FFDEDEFF",
+      "CoronaColorHex": "FFDEDEFF"
+    },
+    {
+      "Index": 1,
+      "LightColorHex": "FF0215FF",
+      "CoronaColorHex": "FF0215FF"
+    },
+    {
+      "Index": 2,
+      "LightColorHex": "FF0353FF",
+      "CoronaColorHex": "FF0353FF"
+    },
+    {
+      "Index": 3,
+      "LightColorHex": "FF00FF8C",
+      "CoronaColorHex": "FF00FF8C"
+    },
+    {
+      "Index": 4,
+      "LightColorHex": "FF5EFF01",
+      "CoronaColorHex": "FF5EFF01"
+    },
+    {
+      "Index": 5,
+      "LightColorHex": "FFFFFF00",
+      "CoronaColorHex": "FFFFFF00"
+    },
+    {
+      "Index": 6,
+      "LightColorHex": "FFFF9605",
+      "CoronaColorHex": "FFFF9605"
+    },
+    {
+      "Index": 7,
+      "LightColorHex": "FFFF3E00",
+      "CoronaColorHex": "FFFF3E00"
+    },
+    {
+      "Index": 8,
+      "LightColorHex": "FFFF0101",
+      "CoronaColorHex": "FFFF0101"
+    },
+    {
+      "Index": 9,
+      "LightColorHex": "FFFF3264",
+      "CoronaColorHex": "FFFF3264"
+    },
+    {
+      "Index": 10,
+      "LightColorHex": "FFFF05BE",
+      "CoronaColorHex": "FFFF05BE"
+    },
+    {
+      "Index": 11,
+      "LightColorHex": "FF2301FF",
+      "CoronaColorHex": "FF2301FF"
+    },
+    {
+      "Index": 12,
+      "LightColorHex": "FF0F03FF",
+      "CoronaColorHex": "FF0F03FF"
+    }
+  ],
+  "WindowColors": [
+    {
+      "Index": 0,
+      "ColorHex": "4FFFFFF",
+      "Name": "standard windows"
+    },
+    {
+      "Index": 1,
+      "ColorHex": "D1000000",
+      "Name": "limo black"
+    },
+    {
+      "Index": 2,
+      "ColorHex": "C4000000",
+      "Name": "dark smoke"
+    },
+    {
+      "Index": 3,
+      "ColorHex": "A2000000",
+      "Name": "light smoke"
+    },
+    {
+      "Index": 4,
+      "ColorHex": "0",
+      "Name": " 4 "
+    }
+  ],
+  "PrimarySecondaryColors": [
+    {
+      "Index": 0,
+      "ColorHex": "FF080808",
+      "MetallicId": "EVehicleModelColorMetallic_1",
+      "AudioColor": "POLICE_SCANNER_COLOUR_black",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_black",
+      "AudioPrefixHash": "",
+      "ColorName": "Metallic Black"
+    },
+    {
+      "Index": 1,
+      "ColorHex": "FF0F0F0F",
+      "MetallicId": "EVehicleModelColorMetallic_1",
+      "AudioColor": "POLICE_SCANNER_COLOUR_graphite",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_graphite",
+      "AudioPrefixHash": "",
+      "ColorName": "Metallic Graphite Black"
+    },
+    {
+      "Index": 2,
+      "ColorHex": "FF1C1E21",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_grey",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_dark",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_grey",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_dark",
+      "ColorName": "Metallic Black Steal"
+    },
+    {
+      "Index": 3,
+      "ColorHex": "FF292C2E",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_grey",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_dark",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_grey",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_dark",
+      "ColorName": "Metallic Dark Silver"
+    },
+    {
+      "Index": 4,
+      "ColorHex": "FF5A5E66",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_silver",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_silver",
+      "AudioPrefixHash": "",
+      "ColorName": "Metallic Silver"
+    },
+    {
+      "Index": 5,
+      "ColorHex": "FF777C87",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_silver",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_silver",
+      "AudioPrefixHash": "",
+      "ColorName": "Metallic Blue Silver"
+    },
+    {
+      "Index": 6,
+      "ColorHex": "FF515459",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_silver",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_silver",
+      "AudioPrefixHash": "",
+      "ColorName": "Metallic Steel Gray"
+    },
+    {
+      "Index": 7,
+      "ColorHex": "FF323B47",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_grey",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_dark",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_grey",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_dark",
+      "ColorName": "Metallic Shadow Silver"
+    },
+    {
+      "Index": 8,
+      "ColorHex": "FF333333",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_silver",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_silver",
+      "AudioPrefixHash": "",
+      "ColorName": "Metallic Stone Silver"
+    },
+    {
+      "Index": 9,
+      "ColorHex": "FF1F2226",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_silver",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_silver",
+      "AudioPrefixHash": "",
+      "ColorName": "Metallic Midnight Silver"
+    },
+    {
+      "Index": 10,
+      "ColorHex": "FF23292E",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_grey",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_grey",
+      "AudioPrefixHash": "",
+      "ColorName": "Metallic Gun Metal"
+    },
+    {
+      "Index": 11,
+      "ColorHex": "FF121110",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_graphite",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_dark",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_graphite",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_dark",
+      "ColorName": "Metallic Anthracite Grey"
+    },
+    {
+      "Index": 12,
+      "ColorHex": "FF050505",
+      "MetallicId": "EVehicleModelColorMetallic_3",
+      "AudioColor": "POLICE_SCANNER_COLOUR_black",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_black",
+      "AudioPrefixHash": "",
+      "ColorName": "Matte Black"
+    },
+    {
+      "Index": 13,
+      "ColorHex": "FF121212",
+      "MetallicId": "EVehicleModelColorMetallic_3",
+      "AudioColor": "POLICE_SCANNER_COLOUR_grey",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_grey",
+      "AudioPrefixHash": "",
+      "ColorName": "Matte Gray"
+    },
+    {
+      "Index": 14,
+      "ColorHex": "FF2F3233",
+      "MetallicId": "EVehicleModelColorMetallic_3",
+      "AudioColor": "POLICE_SCANNER_COLOUR_grey",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_light",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_grey",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_light",
+      "ColorName": "Matte Light Grey"
+    },
+    {
+      "Index": 15,
+      "ColorHex": "FF080808",
+      "MetallicId": "EVehicleModelColorMetallic_4",
+      "AudioColor": "POLICE_SCANNER_COLOUR_black",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_black",
+      "AudioPrefixHash": "",
+      "ColorName": "Util Black"
+    },
+    {
+      "Index": 16,
+      "ColorHex": "FF121212",
+      "MetallicId": "EVehicleModelColorMetallic_4",
+      "AudioColor": "POLICE_SCANNER_COLOUR_graphite",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_dark",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_graphite",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_dark",
+      "ColorName": "Util Black Poly"
+    },
+    {
+      "Index": 17,
+      "ColorHex": "FF202224",
+      "MetallicId": "EVehicleModelColorMetallic_4",
+      "AudioColor": "POLICE_SCANNER_COLOUR_graphite",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_light",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_graphite",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_light",
+      "ColorName": "Util Dark silver"
+    },
+    {
+      "Index": 18,
+      "ColorHex": "FF575961",
+      "MetallicId": "EVehicleModelColorMetallic_4",
+      "AudioColor": "POLICE_SCANNER_COLOUR_silver",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_silver",
+      "AudioPrefixHash": "",
+      "ColorName": "Util Silver"
+    },
+    {
+      "Index": 19,
+      "ColorHex": "FF23292E",
+      "MetallicId": "EVehicleModelColorMetallic_4",
+      "AudioColor": "POLICE_SCANNER_COLOUR_grey",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_grey",
+      "AudioPrefixHash": "",
+      "ColorName": "Util Gun Metal"
+    },
+    {
+      "Index": 20,
+      "ColorHex": "FF323B47",
+      "MetallicId": "EVehicleModelColorMetallic_4",
+      "AudioColor": "POLICE_SCANNER_COLOUR_grey",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_grey",
+      "AudioPrefixHash": "",
+      "ColorName": "Util Shadow Silver"
+    },
+    {
+      "Index": 21,
+      "ColorHex": "FF0F1012",
+      "MetallicId": "EVehicleModelColorMetallic_5",
+      "AudioColor": "POLICE_SCANNER_COLOUR_black",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_black",
+      "AudioPrefixHash": "",
+      "ColorName": "Worn Black"
+    },
+    {
+      "Index": 22,
+      "ColorHex": "FF212121",
+      "MetallicId": "EVehicleModelColorMetallic_5",
+      "AudioColor": "POLICE_SCANNER_COLOUR_graphite",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_graphite",
+      "AudioPrefixHash": "",
+      "ColorName": "Worn Graphite"
+    },
+    {
+      "Index": 23,
+      "ColorHex": "FF5B5D5E",
+      "MetallicId": "EVehicleModelColorMetallic_5",
+      "AudioColor": "POLICE_SCANNER_COLOUR_grey",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_grey",
+      "AudioPrefixHash": "",
+      "ColorName": "Worn Silver Grey"
+    },
+    {
+      "Index": 24,
+      "ColorHex": "FF888A99",
+      "MetallicId": "EVehicleModelColorMetallic_5",
+      "AudioColor": "POLICE_SCANNER_COLOUR_silver",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_light",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_silver",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_light",
+      "ColorName": "Worn Silver"
+    },
+    {
+      "Index": 25,
+      "ColorHex": "FF697187",
+      "MetallicId": "EVehicleModelColorMetallic_5",
+      "AudioColor": "POLICE_SCANNER_COLOUR_silver",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_silver",
+      "AudioPrefixHash": "",
+      "ColorName": "Worn Blue Silver"
+    },
+    {
+      "Index": 26,
+      "ColorHex": "FF3B4654",
+      "MetallicId": "EVehicleModelColorMetallic_5",
+      "AudioColor": "POLICE_SCANNER_COLOUR_grey",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_grey",
+      "AudioPrefixHash": "",
+      "ColorName": "Worn Shadow Silver"
+    },
+    {
+      "Index": 27,
+      "ColorHex": "FF690000",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_red",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_bright",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_red",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_bright",
+      "ColorName": "Metallic Red"
+    },
+    {
+      "Index": 28,
+      "ColorHex": "FF8A0B00",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_red",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_bright",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_red",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_bright",
+      "ColorName": "Metallic Torino Red"
+    },
+    {
+      "Index": 29,
+      "ColorHex": "FF6B0000",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_red",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_red",
+      "AudioPrefixHash": "",
+      "ColorName": "Metallic Formula Red"
+    },
+    {
+      "Index": 30,
+      "ColorHex": "FF611009",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_red",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_red",
+      "AudioPrefixHash": "",
+      "ColorName": "Metallic Blaze Red"
+    },
+    {
+      "Index": 31,
+      "ColorHex": "FF4A0A0A",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_red",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_red",
+      "AudioPrefixHash": "",
+      "ColorName": "Metallic Graceful Red"
+    },
+    {
+      "Index": 32,
+      "ColorHex": "FF470E0E",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_red",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_red",
+      "AudioPrefixHash": "",
+      "ColorName": "Metallic Garnet Red"
+    },
+    {
+      "Index": 33,
+      "ColorHex": "FF380C00",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_red",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_red",
+      "AudioPrefixHash": "",
+      "ColorName": "Metallic Desert Red"
+    },
+    {
+      "Index": 34,
+      "ColorHex": "FF26030B",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_red",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_dark",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_red",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_dark",
+      "ColorName": "Metallic Cabernet Red"
+    },
+    {
+      "Index": 35,
+      "ColorHex": "FF630012",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_red",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_bright",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_red",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_bright",
+      "ColorName": "Metallic Candy Red"
+    },
+    {
+      "Index": 36,
+      "ColorHex": "FF802800",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_orange",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_dark",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_orange",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_dark",
+      "ColorName": "Metallic Sunrise Orange"
+    },
+    {
+      "Index": 37,
+      "ColorHex": "FF6E4F2D",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_beige",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_light",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_beige",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_light",
+      "ColorName": "Metallic Classic Gold"
+    },
+    {
+      "Index": 38,
+      "ColorHex": "FFBD4800",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_orange",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_bright",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_orange",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_bright",
+      "ColorName": "Metallic Orange"
+    },
+    {
+      "Index": 39,
+      "ColorHex": "FF780000",
+      "MetallicId": "EVehicleModelColorMetallic_3",
+      "AudioColor": "POLICE_SCANNER_COLOUR_red",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_red",
+      "AudioPrefixHash": "",
+      "ColorName": "Matte Red"
+    },
+    {
+      "Index": 40,
+      "ColorHex": "FF360000",
+      "MetallicId": "EVehicleModelColorMetallic_3",
+      "AudioColor": "POLICE_SCANNER_COLOUR_red",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_dark",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_red",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_dark",
+      "ColorName": "Matte Dark Red"
+    },
+    {
+      "Index": 41,
+      "ColorHex": "FFAB3F00",
+      "MetallicId": "EVehicleModelColorMetallic_3",
+      "AudioColor": "POLICE_SCANNER_COLOUR_orange",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_orange",
+      "AudioPrefixHash": "",
+      "ColorName": "Matte Orange"
+    },
+    {
+      "Index": 42,
+      "ColorHex": "FFDE7E00",
+      "MetallicId": "EVehicleModelColorMetallic_3",
+      "AudioColor": "POLICE_SCANNER_COLOUR_yellow",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_yellow",
+      "AudioPrefixHash": "",
+      "ColorName": "Matte Yellow"
+    },
+    {
+      "Index": 43,
+      "ColorHex": "FF520000",
+      "MetallicId": "EVehicleModelColorMetallic_4",
+      "AudioColor": "POLICE_SCANNER_COLOUR_red",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_red",
+      "AudioPrefixHash": "",
+      "ColorName": "Util Red"
+    },
+    {
+      "Index": 44,
+      "ColorHex": "FF8C0404",
+      "MetallicId": "EVehicleModelColorMetallic_4",
+      "AudioColor": "POLICE_SCANNER_COLOUR_red",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_bright",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_red",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_bright",
+      "ColorName": "Util Bright Red"
+    },
+    {
+      "Index": 45,
+      "ColorHex": "FF4A1000",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_red",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_red",
+      "AudioPrefixHash": "",
+      "ColorName": "Util Garnet Red"
+    },
+    {
+      "Index": 46,
+      "ColorHex": "FF592525",
+      "MetallicId": "EVehicleModelColorMetallic_5",
+      "AudioColor": "POLICE_SCANNER_COLOUR_red",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_red",
+      "AudioPrefixHash": "",
+      "ColorName": "Worn Red"
+    },
+    {
+      "Index": 47,
+      "ColorHex": "FF754231",
+      "MetallicId": "EVehicleModelColorMetallic_5",
+      "AudioColor": "POLICE_SCANNER_COLOUR_red",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_light",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_red",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_light",
+      "ColorName": "Worn Golden Red"
+    },
+    {
+      "Index": 48,
+      "ColorHex": "FF210804",
+      "MetallicId": "EVehicleModelColorMetallic_5",
+      "AudioColor": "POLICE_SCANNER_COLOUR_red",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_dark",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_red",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_dark",
+      "ColorName": "Worn Dark Red"
+    },
+    {
+      "Index": 49,
+      "ColorHex": "FF001207",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_green",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_dark",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_green",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_dark",
+      "ColorName": "Metallic Dark Green"
+    },
+    {
+      "Index": 50,
+      "ColorHex": "FF001A0B",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_green",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_dark",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_green",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_dark",
+      "ColorName": "Metallic Racing Green"
+    },
+    {
+      "Index": 51,
+      "ColorHex": "FF00211E",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_green",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_green",
+      "AudioPrefixHash": "",
+      "ColorName": "Metallic Sea Green"
+    },
+    {
+      "Index": 52,
+      "ColorHex": "FF1F261E",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_green",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_green",
+      "AudioPrefixHash": "",
+      "ColorName": "Metallic Olive Green"
+    },
+    {
+      "Index": 53,
+      "ColorHex": "FF003805",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_green",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_green",
+      "AudioPrefixHash": "",
+      "ColorName": "Metallic Green"
+    },
+    {
+      "Index": 54,
+      "ColorHex": "FF0B4145",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_green",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_green",
+      "AudioPrefixHash": "",
+      "ColorName": "Metallic Gasoline Blue Green"
+    },
+    {
+      "Index": 55,
+      "ColorHex": "FF418503",
+      "MetallicId": "EVehicleModelColorMetallic_3",
+      "AudioColor": "POLICE_SCANNER_COLOUR_green",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_bright",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_green",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_bright",
+      "ColorName": "Matte Lime Green"
+    },
+    {
+      "Index": 56,
+      "ColorHex": "FF0F1F15",
+      "MetallicId": "EVehicleModelColorMetallic_4",
+      "AudioColor": "POLICE_SCANNER_COLOUR_green",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_dark",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_green",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_dark",
+      "ColorName": "Util Dark Green"
+    },
+    {
+      "Index": 57,
+      "ColorHex": "FF023613",
+      "MetallicId": "EVehicleModelColorMetallic_4",
+      "AudioColor": "POLICE_SCANNER_COLOUR_green",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_green",
+      "AudioPrefixHash": "",
+      "ColorName": "Util Green"
+    },
+    {
+      "Index": 58,
+      "ColorHex": "FF162419",
+      "MetallicId": "EVehicleModelColorMetallic_5",
+      "AudioColor": "POLICE_SCANNER_COLOUR_green",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_dark",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_green",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_dark",
+      "ColorName": "Worn Dark Green"
+    },
+    {
+      "Index": 59,
+      "ColorHex": "FF2A3625",
+      "MetallicId": "EVehicleModelColorMetallic_5",
+      "AudioColor": "POLICE_SCANNER_COLOUR_green",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_green",
+      "AudioPrefixHash": "",
+      "ColorName": "Worn Green"
+    },
+    {
+      "Index": 60,
+      "ColorHex": "FF455C56",
+      "MetallicId": "EVehicleModelColorMetallic_5",
+      "AudioColor": "POLICE_SCANNER_COLOUR_green",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_light",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_green",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_light",
+      "ColorName": "Worn Sea Wash"
+    },
+    {
+      "Index": 61,
+      "ColorHex": "FF000D14",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_dark",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_dark",
+      "ColorName": "Metallic Midnight Blue"
+    },
+    {
+      "Index": 62,
+      "ColorHex": "FF001029",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_dark",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_dark",
+      "ColorName": "Metallic Dark Blue"
+    },
+    {
+      "Index": 63,
+      "ColorHex": "FF1C2F4F",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefixHash": "",
+      "ColorName": "Metallic Saxony Blue"
+    },
+    {
+      "Index": 64,
+      "ColorHex": "FF001B57",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefixHash": "",
+      "ColorName": "Metallic Blue"
+    },
+    {
+      "Index": 65,
+      "ColorHex": "FF3B4E78",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefixHash": "",
+      "ColorName": "Metallic Mariner Blue"
+    },
+    {
+      "Index": 66,
+      "ColorHex": "FF272D3B",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefixHash": "",
+      "ColorName": "Metallic Harbor Blue"
+    },
+    {
+      "Index": 67,
+      "ColorHex": "FF95B2DB",
+      "MetallicId": "EVehicleModelColorMetallic_2",
+      "AudioColor": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_light",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_light",
+      "ColorName": "Metallic Diamond Blue"
+    },
+    {
+      "Index": 68,
+      "ColorHex": "FF3E627A",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefixHash": "",
+      "ColorName": "Metallic Surf Blue"
+    },
+    {
+      "Index": 69,
+      "ColorHex": "FF1C3140",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefixHash": "",
+      "ColorName": "Metallic Nautical Blue"
+    },
+    {
+      "Index": 70,
+      "ColorHex": "FF0055C4",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_light",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_light",
+      "ColorName": "Metallic Bright Blue"
+    },
+    {
+      "Index": 71,
+      "ColorHex": "FF1A182E",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefixHash": "",
+      "ColorName": "Metallic Purple Blue"
+    },
+    {
+      "Index": 72,
+      "ColorHex": "FF161629",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefixHash": "",
+      "ColorName": "Metallic Spinnaker Blue"
+    },
+    {
+      "Index": 73,
+      "ColorHex": "FF0E316D",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefixHash": "",
+      "ColorName": "Metallic Ultra Blue"
+    },
+    {
+      "Index": 74,
+      "ColorHex": "FF395A83",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_bright",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_bright",
+      "ColorName": "Metallic Bright Blue"
+    },
+    {
+      "Index": 75,
+      "ColorHex": "FF09142E",
+      "MetallicId": "EVehicleModelColorMetallic_4",
+      "AudioColor": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_dark",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_dark",
+      "ColorName": "Util Dark Blue"
+    },
+    {
+      "Index": 76,
+      "ColorHex": "FF0F1021",
+      "MetallicId": "EVehicleModelColorMetallic_4",
+      "AudioColor": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_dark",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_dark",
+      "ColorName": "Util Midnight Blue"
+    },
+    {
+      "Index": 77,
+      "ColorHex": "FF152A52",
+      "MetallicId": "EVehicleModelColorMetallic_4",
+      "AudioColor": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefixHash": "",
+      "ColorName": "Util Blue"
+    },
+    {
+      "Index": 78,
+      "ColorHex": "FF324654",
+      "MetallicId": "EVehicleModelColorMetallic_4",
+      "AudioColor": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefixHash": "",
+      "ColorName": "Util Sea Foam Blue"
+    },
+    {
+      "Index": 79,
+      "ColorHex": "FF152563",
+      "MetallicId": "EVehicleModelColorMetallic_4",
+      "AudioColor": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefixHash": "",
+      "ColorName": "Uil Lightning blue"
+    },
+    {
+      "Index": 80,
+      "ColorHex": "FF223BA1",
+      "MetallicId": "EVehicleModelColorMetallic_4",
+      "AudioColor": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefixHash": "",
+      "ColorName": "Util Maui Blue Poly"
+    },
+    {
+      "Index": 81,
+      "ColorHex": "FF1F1FA1",
+      "MetallicId": "EVehicleModelColorMetallic_4",
+      "AudioColor": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_bright",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_bright",
+      "ColorName": "Util Bright Blue"
+    },
+    {
+      "Index": 82,
+      "ColorHex": "FF030E2E",
+      "MetallicId": "EVehicleModelColorMetallic_3",
+      "AudioColor": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_dark",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_dark",
+      "ColorName": "Matte Dark Blue"
+    },
+    {
+      "Index": 83,
+      "ColorHex": "FF0F1E73",
+      "MetallicId": "EVehicleModelColorMetallic_3",
+      "AudioColor": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefixHash": "",
+      "ColorName": "Matte Blue"
+    },
+    {
+      "Index": 84,
+      "ColorHex": "FF001C32",
+      "MetallicId": "EVehicleModelColorMetallic_3",
+      "AudioColor": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_dark",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_dark",
+      "ColorName": "Matte Midnight Blue"
+    },
+    {
+      "Index": 85,
+      "ColorHex": "FF2A3754",
+      "MetallicId": "EVehicleModelColorMetallic_5",
+      "AudioColor": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_dark",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_dark",
+      "ColorName": "Worn Dark blue"
+    },
+    {
+      "Index": 86,
+      "ColorHex": "A0303C5E",
+      "MetallicId": "EVehicleModelColorMetallic_5",
+      "AudioColor": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_light",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_light",
+      "ColorName": "Worn Blue"
+    },
+    {
+      "Index": 87,
+      "ColorHex": "FF3B6796",
+      "MetallicId": "EVehicleModelColorMetallic_5",
+      "AudioColor": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_light",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_light",
+      "ColorName": "Worn Light blue"
+    },
+    {
+      "Index": 88,
+      "ColorHex": "FFF5890F",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_yellow",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_yellow",
+      "AudioPrefixHash": "",
+      "ColorName": "Metallic Taxi Yellow"
+    },
+    {
+      "Index": 89,
+      "ColorHex": "FFD9A600",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_yellow",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_yellow",
+      "AudioPrefixHash": "",
+      "ColorName": "Metallic Race Yellow"
+    },
+    {
+      "Index": 90,
+      "ColorHex": "FF4A341B",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_orange",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_dark",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_orange",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_dark",
+      "ColorName": "Metallic Bronze"
+    },
+    {
+      "Index": 91,
+      "ColorHex": "FFA2A827",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_yellow",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_light",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_yellow",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_light",
+      "ColorName": "Metallic Yellow Bird"
+    },
+    {
+      "Index": 92,
+      "ColorHex": "FF568F00",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_green",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_bright",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_green",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_bright",
+      "ColorName": "Metallic Lime"
+    },
+    {
+      "Index": 93,
+      "ColorHex": "FF57514B",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_beige",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_beige",
+      "AudioPrefixHash": "",
+      "ColorName": "Metallic Champagne"
+    },
+    {
+      "Index": 94,
+      "ColorHex": "FF291B06",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_beige",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_beige",
+      "AudioPrefixHash": "",
+      "ColorName": "Metallic Pueblo Beige"
+    },
+    {
+      "Index": 95,
+      "ColorHex": "FF262117",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_brown",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_brown",
+      "AudioPrefixHash": "",
+      "ColorName": "Metallic Dark Ivory"
+    },
+    {
+      "Index": 96,
+      "ColorHex": "FF120D07",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_brown",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_dark",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_brown",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_dark",
+      "ColorName": "Metallic Choco Brown"
+    },
+    {
+      "Index": 97,
+      "ColorHex": "FF332111",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_brown",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_dark",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_brown",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_dark",
+      "ColorName": "Metallic Golden Brown"
+    },
+    {
+      "Index": 98,
+      "ColorHex": "FF3D3023",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_brown",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_light",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_brown",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_light",
+      "ColorName": "Metallic Light Brown"
+    },
+    {
+      "Index": 99,
+      "ColorHex": "FF5E5343",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_beige",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_light",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_beige",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_light",
+      "ColorName": "Metallic Straw Beige"
+    },
+    {
+      "Index": 100,
+      "ColorHex": "FF37382B",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_brown",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_brown",
+      "AudioPrefixHash": "",
+      "ColorName": "Metallic Moss Brown"
+    },
+    {
+      "Index": 101,
+      "ColorHex": "FF221918",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_brown",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_brown",
+      "AudioPrefixHash": "",
+      "ColorName": "Metallic Biston Brown"
+    },
+    {
+      "Index": 102,
+      "ColorHex": "FF575036",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_brown",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_light",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_brown",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_light",
+      "ColorName": "Metallic Beechwood"
+    },
+    {
+      "Index": 103,
+      "ColorHex": "FF241309",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_brown",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_dark",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_brown",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_dark",
+      "ColorName": "Metallic Dark Beechwood"
+    },
+    {
+      "Index": 104,
+      "ColorHex": "FF3B1700",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_orange",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_dark",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_orange",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_dark",
+      "ColorName": "Metallic Choco Orange"
+    },
+    {
+      "Index": 105,
+      "ColorHex": "FF6E6246",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_brown",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_light",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_brown",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_light",
+      "ColorName": "Metallic Beach Sand"
+    },
+    {
+      "Index": 106,
+      "ColorHex": "FB998D73",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_beige",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_light",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_beige",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_light",
+      "ColorName": "Metallic Sun Bleeched Sand"
+    },
+    {
+      "Index": 107,
+      "ColorHex": "FFCFC0A5",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_beige",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_light",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_beige",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_light",
+      "ColorName": "Metallic Cream"
+    },
+    {
+      "Index": 108,
+      "ColorHex": "FF1F1709",
+      "MetallicId": "EVehicleModelColorMetallic_4",
+      "AudioColor": "POLICE_SCANNER_COLOUR_brown",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_dark",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_brown",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_dark",
+      "ColorName": "Util Brown"
+    },
+    {
+      "Index": 109,
+      "ColorHex": "FB3D311D",
+      "MetallicId": "EVehicleModelColorMetallic_4",
+      "AudioColor": "POLICE_SCANNER_COLOUR_brown",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_brown",
+      "AudioPrefixHash": "",
+      "ColorName": "Util Medium Brown"
+    },
+    {
+      "Index": 110,
+      "ColorHex": "FF665847",
+      "MetallicId": "EVehicleModelColorMetallic_4",
+      "AudioColor": "POLICE_SCANNER_COLOUR_brown",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_light",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_brown",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_light",
+      "ColorName": "Util Light Brown"
+    },
+    {
+      "Index": 111,
+      "ColorHex": "FFF0F0F0",
+      "MetallicId": "EVehicleModelColorMetallic_2",
+      "AudioColor": "POLICE_SCANNER_COLOUR_white",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_white",
+      "AudioPrefixHash": "",
+      "ColorName": "Metallic White"
+    },
+    {
+      "Index": 112,
+      "ColorHex": "FFB3B9C9",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_white",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_white",
+      "AudioPrefixHash": "",
+      "ColorName": "Metallic Frost White"
+    },
+    {
+      "Index": 113,
+      "ColorHex": "FF615F55",
+      "MetallicId": "EVehicleModelColorMetallic_5",
+      "AudioColor": "POLICE_SCANNER_COLOUR_beige",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_light",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_beige",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_light",
+      "ColorName": "Worn Honey Beige"
+    },
+    {
+      "Index": 114,
+      "ColorHex": "FF241E1A",
+      "MetallicId": "EVehicleModelColorMetallic_5",
+      "AudioColor": "POLICE_SCANNER_COLOUR_brown",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_dark",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_brown",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_dark",
+      "ColorName": "Worn Brown"
+    },
+    {
+      "Index": 115,
+      "ColorHex": "FF171413",
+      "MetallicId": "EVehicleModelColorMetallic_5",
+      "AudioColor": "POLICE_SCANNER_COLOUR_brown",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_dark",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_brown",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_dark",
+      "ColorName": "Worn Dark Brown"
+    },
+    {
+      "Index": 116,
+      "ColorHex": "FF3B372F",
+      "MetallicId": "EVehicleModelColorMetallic_5",
+      "AudioColor": "POLICE_SCANNER_COLOUR_beige",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_beige",
+      "AudioPrefixHash": "",
+      "ColorName": "Worn straw beige"
+    },
+    {
+      "Index": 117,
+      "ColorHex": "FF3B4045",
+      "MetallicId": "EVehicleModelColorMetallic_6",
+      "AudioColor": "POLICE_SCANNER_COLOUR_grey",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_dark",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_grey",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_dark",
+      "ColorName": "Brushed Steel"
+    },
+    {
+      "Index": 118,
+      "ColorHex": "FF1A1E21",
+      "MetallicId": "EVehicleModelColorMetallic_6",
+      "AudioColor": "POLICE_SCANNER_COLOUR_grey",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_grey",
+      "AudioPrefixHash": "",
+      "ColorName": "Brushed Black steel"
+    },
+    {
+      "Index": 119,
+      "ColorHex": "FF5E646B",
+      "MetallicId": "EVehicleModelColorMetallic_6",
+      "AudioColor": "POLICE_SCANNER_COLOUR_grey",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_light",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_grey",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_light",
+      "ColorName": "Brushed Aluminium"
+    },
+    {
+      "Index": 120,
+      "ColorHex": "FF000000",
+      "MetallicId": "EVehicleModelColorMetallic_7",
+      "AudioColor": "POLICE_SCANNER_COLOUR_grey",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_bright",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_grey",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_bright",
+      "ColorName": "Chrome"
+    },
+    {
+      "Index": 121,
+      "ColorHex": "FFB0B0B0",
+      "MetallicId": "EVehicleModelColorMetallic_5",
+      "AudioColor": "POLICE_SCANNER_COLOUR_white",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_white",
+      "AudioPrefixHash": "",
+      "ColorName": "Worn Off White"
+    },
+    {
+      "Index": 122,
+      "ColorHex": "FF999999",
+      "MetallicId": "EVehicleModelColorMetallic_4",
+      "AudioColor": "POLICE_SCANNER_COLOUR_white",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_white",
+      "AudioPrefixHash": "",
+      "ColorName": "Util Off White"
+    },
+    {
+      "Index": 123,
+      "ColorHex": "FFB56519",
+      "MetallicId": "EVehicleModelColorMetallic_5",
+      "AudioColor": "POLICE_SCANNER_COLOUR_orange",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_orange",
+      "AudioPrefixHash": "",
+      "ColorName": "Worn Orange"
+    },
+    {
+      "Index": 124,
+      "ColorHex": "FFC45C33",
+      "MetallicId": "EVehicleModelColorMetallic_5",
+      "AudioColor": "POLICE_SCANNER_COLOUR_orange",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_orange",
+      "AudioPrefixHash": "",
+      "ColorName": "Worn Light Orange"
+    },
+    {
+      "Index": 125,
+      "ColorHex": "FF47783C",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_green",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_light",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_green",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_light",
+      "ColorName": "Metallic Securicor Green"
+    },
+    {
+      "Index": 126,
+      "ColorHex": "FFBA8425",
+      "MetallicId": "EVehicleModelColorMetallic_5",
+      "AudioColor": "POLICE_SCANNER_COLOUR_yellow",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_yellow",
+      "AudioPrefixHash": "",
+      "ColorName": "Worn Taxi Yellow"
+    },
+    {
+      "Index": 127,
+      "ColorHex": "FF2A77A1",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefixHash": "",
+      "ColorName": "police car blue"
+    },
+    {
+      "Index": 128,
+      "ColorHex": "FF243022",
+      "MetallicId": "EVehicleModelColorMetallic_3",
+      "AudioColor": "POLICE_SCANNER_COLOUR_green",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_dark",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_green",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_dark",
+      "ColorName": "Matte Green"
+    },
+    {
+      "Index": 129,
+      "ColorHex": "FF6B5F54",
+      "MetallicId": "EVehicleModelColorMetallic_3",
+      "AudioColor": "POLICE_SCANNER_COLOUR_brown",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_brown",
+      "AudioPrefixHash": "",
+      "ColorName": "Matte Brown"
+    },
+    {
+      "Index": 130,
+      "ColorHex": "FFC96E34",
+      "MetallicId": "EVehicleModelColorMetallic_5",
+      "AudioColor": "POLICE_SCANNER_COLOUR_orange",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_bright",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_orange",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_bright",
+      "ColorName": "Worn Orange"
+    },
+    {
+      "Index": 131,
+      "ColorHex": "FFD9D9D9",
+      "MetallicId": "EVehicleModelColorMetallic_3",
+      "AudioColor": "POLICE_SCANNER_COLOUR_white",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_white",
+      "AudioPrefixHash": "",
+      "ColorName": "Matte White"
+    },
+    {
+      "Index": 132,
+      "ColorHex": "FFF0F0F0",
+      "MetallicId": "EVehicleModelColorMetallic_5",
+      "AudioColor": "POLICE_SCANNER_COLOUR_white",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_white",
+      "AudioPrefixHash": "",
+      "ColorName": "Worn White"
+    },
+    {
+      "Index": 133,
+      "ColorHex": "FF3F4228",
+      "MetallicId": "EVehicleModelColorMetallic_3",
+      "AudioColor": "POLICE_SCANNER_COLOUR_green",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_green",
+      "AudioPrefixHash": "",
+      "ColorName": "Worn Olive Army Green"
+    },
+    {
+      "Index": 134,
+      "ColorHex": "FFFFFFFF",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_white",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_white",
+      "AudioPrefixHash": "",
+      "ColorName": "Pure White"
+    },
+    {
+      "Index": 135,
+      "ColorHex": "FFB01259",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_pink",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_bright",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_pink",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_bright",
+      "ColorName": "Hot Pink"
+    },
+    {
+      "Index": 136,
+      "ColorHex": "F69799",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_pink",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_pink",
+      "AudioPrefixHash": "",
+      "ColorName": "Salmon pink"
+    },
+    {
+      "Index": 137,
+      "ColorHex": "FF8F2F55",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_pink",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_bright",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_pink",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_bright",
+      "ColorName": "Metallic Vermillion Pink"
+    },
+    {
+      "Index": 138,
+      "ColorHex": "C26610",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_orange",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_light",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_orange",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_light",
+      "ColorName": "Orange"
+    },
+    {
+      "Index": 139,
+      "ColorHex": "69BD45",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_green",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_green",
+      "AudioPrefixHash": "",
+      "ColorName": "Green"
+    },
+    {
+      "Index": 140,
+      "ColorHex": "AEEF",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefixHash": "",
+      "ColorName": "Blue"
+    },
+    {
+      "Index": 141,
+      "ColorHex": "FF000108",
+      "MetallicId": "EVehicleModelColorMetallic_1",
+      "AudioColor": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_dark",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_dark",
+      "ColorName": "Mettalic Black Blue"
+    },
+    {
+      "Index": 142,
+      "ColorHex": "FF050008",
+      "MetallicId": "EVehicleModelColorMetallic_1",
+      "AudioColor": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_dark",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_dark",
+      "ColorName": "Metallic Black Purple"
+    },
+    {
+      "Index": 143,
+      "ColorHex": "FF080000",
+      "MetallicId": "EVehicleModelColorMetallic_1",
+      "AudioColor": "POLICE_SCANNER_COLOUR_red",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_dark",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_red",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_dark",
+      "ColorName": "Metallic Black Red"
+    },
+    {
+      "Index": 144,
+      "ColorHex": "565751",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_green",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_dark",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_green",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_dark",
+      "ColorName": "hunter green"
+    },
+    {
+      "Index": 145,
+      "ColorHex": "320642",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_red",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_red",
+      "AudioPrefixHash": "",
+      "ColorName": "Metallic Purple"
+    },
+    {
+      "Index": 146,
+      "ColorHex": "FF00080F",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_dark",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_dark",
+      "ColorName": "Metaillic V Dark Blue"
+    },
+    {
+      "Index": 147,
+      "ColorHex": "FF080808",
+      "MetallicId": "EVehicleModelColorMetallic_1",
+      "AudioColor": "POLICE_SCANNER_COLOUR_black",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_black",
+      "AudioPrefixHash": "",
+      "ColorName": "MODSHOP BLACK1"
+    },
+    {
+      "Index": 148,
+      "ColorHex": "320642",
+      "MetallicId": "EVehicleModelColorMetallic_3",
+      "AudioColor": "POLICE_SCANNER_COLOUR_green",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_dark",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_green",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_dark",
+      "ColorName": "Matte Purple"
+    },
+    {
+      "Index": 149,
+      "ColorHex": "FF050008",
+      "MetallicId": "EVehicleModelColorMetallic_3",
+      "AudioColor": "POLICE_SCANNER_COLOUR_green",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_dark",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_green",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_dark",
+      "ColorName": "Matte Dark Purple"
+    },
+    {
+      "Index": 150,
+      "ColorHex": "FF6B0B00",
+      "MetallicId": "EVehicleModelColorMetallic_normal",
+      "AudioColor": "POLICE_SCANNER_COLOUR_red",
+      "AudioPrefix": "none",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_red",
+      "AudioPrefixHash": "",
+      "ColorName": "Metallic Lava Red"
+    },
+    {
+      "Index": 151,
+      "ColorHex": "FF121710",
+      "MetallicId": "EVehicleModelColorMetallic_3",
+      "AudioColor": "POLICE_SCANNER_COLOUR_green",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_dark",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_green",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_dark",
+      "ColorName": "Matte Forest Green"
+    },
+    {
+      "Index": 152,
+      "ColorHex": "FF323325",
+      "MetallicId": "EVehicleModelColorMetallic_3",
+      "AudioColor": "POLICE_SCANNER_COLOUR_green",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_dark",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_green",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_dark",
+      "ColorName": "Matte Olive Drab"
+    },
+    {
+      "Index": 153,
+      "ColorHex": "FF3B352D",
+      "MetallicId": "EVehicleModelColorMetallic_3",
+      "AudioColor": "POLICE_SCANNER_COLOUR_beige",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_light",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_beige",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_light",
+      "ColorName": "Matte Desert Brown"
+    },
+    {
+      "Index": 154,
+      "ColorHex": "FF706656",
+      "MetallicId": "EVehicleModelColorMetallic_3",
+      "AudioColor": "POLICE_SCANNER_COLOUR_beige",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_light",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_beige",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_light",
+      "ColorName": "Matte Desert Tan"
+    },
+    {
+      "Index": 155,
+      "ColorHex": "FF2B302B",
+      "MetallicId": "EVehicleModelColorMetallic_3",
+      "AudioColor": "POLICE_SCANNER_COLOUR_green",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_dark",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_green",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_dark",
+      "ColorName": "Matte Foilage Green"
+    },
+    {
+      "Index": 156,
+      "ColorHex": "FF414347",
+      "MetallicId": "EVehicleModelColorMetallic_1",
+      "AudioColor": "POLICE_SCANNER_COLOUR_grey",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_light",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_grey",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_light",
+      "ColorName": "DEFAULT ALLOY COLOR"
+    },
+    {
+      "Index": 157,
+      "ColorHex": "FF6690B5",
+      "MetallicId": "EVehicleModelColorMetallic_2",
+      "AudioColor": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_light",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_blue",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_light",
+      "ColorName": "Epsilon Blue"
+    },
+    {
+      "Index": 158,
+      "ColorHex": "FF47391B",
+      "MetallicId": "EVehicleModelColorMetallic_8",
+      "AudioColor": "POLICE_SCANNER_COLOUR_beige",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_light",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_beige",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_light",
+      "ColorName": "MP100 GOLD"
+    },
+    {
+      "Index": 159,
+      "ColorHex": "FF47391B",
+      "MetallicId": "EVehicleModelColorMetallic_9",
+      "AudioColor": "POLICE_SCANNER_COLOUR_beige",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_light",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_beige",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_light",
+      "ColorName": "MP100 GOLD SATIN"
+    },
+    {
+      "Index": 160,
+      "ColorHex": "FFFFD859",
+      "MetallicId": "EVehicleModelColorMetallic_8",
+      "AudioColor": "POLICE_SCANNER_COLOUR_beige",
+      "AudioPrefix": "POLICE_SCANNER_PREFIX_light",
+      "AudioColorHash": "POLICE_SCANNER_COLOUR_beige",
+      "AudioPrefixHash": "POLICE_SCANNER_PREFIX_light",
+      "ColorName": "MP100 GOLD SPEC"
+    }
+  ],
+  "NumberPlateTypes": [
+    {
+      "Index": 0,
+      "Name": "standard white",
+      "FontColorHex": "FF0F2352",
+      "FontOutlineColorHex": "FFFFFF"
+    },
+    {
+      "Index": 1,
+      "Name": "yellow plate",
+      "FontColorHex": "FFCF9E00",
+      "FontOutlineColorHex": "FFFFFF"
+    },
+    {
+      "Index": 2,
+      "Name": "blue plate",
+      "FontColorHex": "FFBD7121",
+      "FontOutlineColorHex": "FFFFFF"
+    },
+    {
+      "Index": 3,
+      "Name": "white plate 2",
+      "FontColorHex": "FF0F2352",
+      "FontOutlineColorHex": "FFFF0000"
+    },
+    {
+      "Index": 4,
+      "Name": "police guv plate",
+      "FontColorHex": "FF0F2352",
+      "FontOutlineColorHex": "FFFFFF"
+    },
+    {
+      "Index": 5,
+      "Name": "yankton plate",
+      "FontColorHex": "FF000000",
+      "FontOutlineColorHex": "FF2BFF05"
+    }
+  ]
+}

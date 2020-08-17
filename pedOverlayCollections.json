@@ -1146,6 +1146,684 @@
     ]
   },
   {
+    "CollectionName": "mpBeach_overlays",
+    "CollectionHash": 2575696819,
+    "Overlays": [
+      {
+        "TranslatedLabel": {
+          "Hash": 579924440,
+          "English": "Rock Solid",
+          "German": "Felsenfest",
+          "French": "Solide comme un roc",
+          "Italian": "Rock Solid",
+          "Russian": "Скала",
+          "Polish": "Twardy jak głaz"
+        },
+        "OverlayName": "MP_Bea_F_Back_000",
+        "OverlayHash": 2143620721,
+        "Gender": "GENDER_FEMALE",
+        "Type": "TYPE_TATTOO",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 5500,
+        "Facing": "TATTOO_BACK",
+        "UpdateGroup": "BACK_2"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 2130586285,
+          "English": "Hibiscus Flower Duo",
+          "German": "Zwei Hibiskusblüten",
+          "French": "Duo d'hibiscus",
+          "Italian": "Doppio ibisco",
+          "Russian": "Цветок гибискуса 2",
+          "Polish": "Dwa kwiaty hibiskusa"
+        },
+        "OverlayName": "MP_Bea_F_Back_001",
+        "OverlayHash": 2719306513,
+        "Gender": "GENDER_FEMALE",
+        "Type": "TYPE_TATTOO",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 6900,
+        "Facing": "TATTOO_BACK",
+        "UpdateGroup": "BACK_3"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 1173403795,
+          "English": "Shrimp",
+          "German": "Garnele",
+          "French": "Crevette",
+          "Italian": "Gamberetto",
+          "Russian": "Креветка",
+          "Polish": "Krewetka"
+        },
+        "OverlayName": "MP_Bea_F_Back_002",
+        "OverlayHash": 3001218220,
+        "Gender": "GENDER_FEMALE",
+        "Type": "TYPE_TATTOO",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 2500,
+        "Facing": "TATTOO_BACK",
+        "UpdateGroup": "BACK_2"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 3315578587,
+          "English": "Anchor",
+          "German": "Anker",
+          "French": "Ancre marine",
+          "Italian": "Ancora",
+          "Russian": "Якорь",
+          "Polish": "Kotwica"
+        },
+        "OverlayName": "MP_Bea_F_Chest_000",
+        "OverlayHash": 939412564,
+        "Gender": "GENDER_FEMALE",
+        "Type": "TYPE_TATTOO",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 2500,
+        "Facing": "TATTOO_FRONT",
+        "UpdateGroup": "CHEST_LEFT"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 324653646,
+          "English": "Anchor",
+          "German": "Anker",
+          "French": "Ancre marine",
+          "Italian": "Ancora",
+          "Russian": "Якорь",
+          "Polish": "Kotwica"
+        },
+        "OverlayName": "MP_Bea_F_Chest_001",
+        "OverlayHash": 1187637739,
+        "Gender": "GENDER_FEMALE",
+        "Type": "TYPE_TATTOO",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 2500,
+        "Facing": "TATTOO_FRONT",
+        "UpdateGroup": "CHEST_RIGHT"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 2778101725,
+          "English": "Los Santos Wreath",
+          "German": "Los-Santos-Kranz",
+          "French": "Couronne de fleurs LS",
+          "Italian": "Ghirlanda Los Santos",
+          "Russian": "Венок \"Лос-Сантос\"",
+          "Polish": "Wieniec Los Santos"
+        },
+        "OverlayName": "MP_Bea_F_Chest_002",
+        "OverlayHash": 497719213,
+        "Gender": "GENDER_FEMALE",
+        "Type": "TYPE_TATTOO",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 8500,
+        "Facing": "TATTOO_FRONT",
+        "UpdateGroup": "CHEST_MID"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 3725879520,
+          "English": "Love Dagger",
+          "German": "Liebesdolch",
+          "French": "Dague d'amour",
+          "Italian": "Cuore con pugnale",
+          "Russian": "Любовный кинжал",
+          "Polish": "Sztylet miłości"
+        },
+        "OverlayName": "MP_Bea_F_RSide_000",
+        "OverlayHash": 2723563697,
+        "Gender": "GENDER_FEMALE",
+        "Type": "TYPE_TATTOO",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 6850,
+        "Facing": "TATTOO_BACK",
+        "UpdateGroup": "SIDE_RIGHT"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 2950007907,
+          "English": "School of Fish",
+          "German": "Fischschwarm",
+          "French": "Banc de poissons",
+          "Italian": "Banco di pesci",
+          "Russian": "Косяк рыбы",
+          "Polish": "Ławica"
+        },
+        "OverlayName": "MP_Bea_F_RLeg_000",
+        "OverlayHash": 3583843390,
+        "Gender": "GENDER_FEMALE",
+        "Type": "TYPE_TATTOO",
+        "ZoneName": "ZONE_RIGHT_LEG",
+        "Garment": "All",
+        "Price": 2950,
+        "Facing": "TATTOO_RIGHT",
+        "UpdateGroup": "LEG_RIGHT"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 2933229895,
+          "English": "Tribal Fish",
+          "German": "Tribal-Fisch",
+          "French": "Poisson tribal",
+          "Italian": "Tribale pesce",
+          "Russian": "Трайбл - рыба",
+          "Polish": "Plemienna ryba"
+        },
+        "OverlayName": "MP_Bea_F_RArm_001",
+        "OverlayHash": 1659530389,
+        "Gender": "GENDER_FEMALE",
+        "Type": "TYPE_TATTOO",
+        "ZoneName": "ZONE_RIGHT_ARM",
+        "Garment": "All",
+        "Price": 3700,
+        "Facing": "TATTOO_RIGHT",
+        "UpdateGroup": "ARM_RIGHT"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 4083749769,
+          "English": "Tribal Butterfly",
+          "German": "Tribal-Schmetterling",
+          "French": "Papillon tribal",
+          "Italian": "Tribale farfalla",
+          "Russian": "Трайбл - бабочка",
+          "Polish": "Plemienny motyl"
+        },
+        "OverlayName": "MP_Bea_F_Neck_000",
+        "OverlayHash": 152801037,
+        "Gender": "GENDER_FEMALE",
+        "Type": "TYPE_TATTOO",
+        "ZoneName": "ZONE_HEAD",
+        "Garment": "All",
+        "Price": 1700,
+        "Facing": "TATTOO_FRONT_RIGHT",
+        "UpdateGroup": "NECK_RIGHT"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 4157283121,
+          "English": "Sea Horses",
+          "German": "Seepferdchen",
+          "French": "Hippocampes",
+          "Italian": "Cavallucci marini",
+          "Russian": "Морские коньки",
+          "Polish": "Koniki morskie"
+        },
+        "OverlayName": "MP_Bea_F_Should_000",
+        "OverlayHash": 2808226100,
+        "Gender": "GENDER_FEMALE",
+        "Type": "TYPE_TATTOO",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 5100,
+        "Facing": "TATTOO_BACK",
+        "UpdateGroup": "BACK_1"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 741770527,
+          "English": "Catfish",
+          "German": "Wels",
+          "French": "Poisson chat",
+          "Italian": "Pesce gatto",
+          "Russian": "Зубатка",
+          "Polish": "Sum"
+        },
+        "OverlayName": "MP_Bea_F_Should_001",
+        "OverlayHash": 2049754822,
+        "Gender": "GENDER_FEMALE",
+        "Type": "TYPE_TATTOO",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 5250,
+        "Facing": "TATTOO_BACK",
+        "UpdateGroup": "BACK_3"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 3776146882,
+          "English": "Swallow",
+          "German": "Schwalbe",
+          "French": "Hirondelle",
+          "Italian": "Rondine",
+          "Russian": "Ласточка",
+          "Polish": "Jaskółka"
+        },
+        "OverlayName": "MP_Bea_F_Stom_000",
+        "OverlayHash": 3202297851,
+        "Gender": "GENDER_FEMALE",
+        "Type": "TYPE_TATTOO",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 2100,
+        "Facing": "TATTOO_FRONT",
+        "UpdateGroup": "STOMACH_LEFT"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 86488838,
+          "English": "Hibiscus Flower",
+          "German": "Hibiskusblüten",
+          "French": "Hibiscus",
+          "Italian": "Ibisco",
+          "Russian": "Цветок гибискуса 2",
+          "Polish": "Kwiat hibiskusa"
+        },
+        "OverlayName": "MP_Bea_F_Stom_001",
+        "OverlayHash": 2970948711,
+        "Gender": "GENDER_FEMALE",
+        "Type": "TYPE_TATTOO",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 2650,
+        "Facing": "TATTOO_FRONT",
+        "UpdateGroup": "STOMACH_RIGHT"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 705494964,
+          "English": "Dolphin",
+          "German": "Delfin",
+          "French": "Dauphin",
+          "Italian": "Delfino",
+          "Russian": "Дельфин",
+          "Polish": "Delfin"
+        },
+        "OverlayName": "MP_Bea_F_Stom_002",
+        "OverlayHash": 3813898467,
+        "Gender": "GENDER_FEMALE",
+        "Type": "TYPE_TATTOO",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 1900,
+        "Facing": "TATTOO_FRONT",
+        "UpdateGroup": "STOMACH_LEFT"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 386521802,
+          "English": "Tribal Flower",
+          "German": "Tribal-Blüte",
+          "French": "Fleur tribale",
+          "Italian": "Tribale fiore",
+          "Russian": "Трайбл - цветы",
+          "Polish": "Plemienny kwiat"
+        },
+        "OverlayName": "MP_Bea_F_LArm_000",
+        "OverlayHash": 3574336209,
+        "Gender": "GENDER_FEMALE",
+        "Type": "TYPE_TATTOO",
+        "ZoneName": "ZONE_LEFT_ARM",
+        "Garment": "All",
+        "Price": 3500,
+        "Facing": "TATTOO_LEFT",
+        "UpdateGroup": "ARM_LEFT_1"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 2010946386,
+          "English": "Parrot",
+          "German": "Papagei",
+          "French": "Perroquet",
+          "Italian": "Pappagallo",
+          "Russian": "Попугай",
+          "Polish": "Papuga"
+        },
+        "OverlayName": "MP_Bea_F_LArm_001",
+        "OverlayHash": 996857777,
+        "Gender": "GENDER_FEMALE",
+        "Type": "TYPE_TATTOO",
+        "ZoneName": "ZONE_LEFT_ARM",
+        "Garment": "All",
+        "Price": 5250,
+        "Facing": "TATTOO_LEFT",
+        "UpdateGroup": "ARM_LEFT_2"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 165068612,
+          "English": "Ship Arms",
+          "German": "Schiffswappen",
+          "French": "Voiliers",
+          "Italian": "Nave",
+          "Russian": "Корабли",
+          "Polish": "Liny statku"
+        },
+        "OverlayName": "MP_Bea_M_Back_000",
+        "OverlayHash": 1056297333,
+        "Gender": "GENDER_MALE",
+        "Type": "TYPE_TATTOO",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 7250,
+        "Facing": "TATTOO_BACK",
+        "UpdateGroup": "BACK_1"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 1549427782,
+          "English": "Tribal Hammerhead",
+          "German": "Tribal-Hammerhai",
+          "French": "Requin-marteau tribal",
+          "Italian": "Tribale squalo martello",
+          "Russian": "Трайбл - рыба-молот",
+          "Polish": "Plemienny rekin młot"
+        },
+        "OverlayName": "MP_Bea_M_Chest_000",
+        "OverlayHash": 494620709,
+        "Gender": "GENDER_MALE",
+        "Type": "TYPE_TATTOO",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 5800,
+        "Facing": "TATTOO_FRONT",
+        "UpdateGroup": "CHEST_LEFT"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 3367353383,
+          "English": "Tribal Shark",
+          "German": "Tribal-Hai",
+          "French": "Requin tribal",
+          "Italian": "Tribale squalo",
+          "Russian": "Трайбл - акула",
+          "Polish": "Plemienny rekin"
+        },
+        "OverlayName": "MP_Bea_M_Chest_001",
+        "OverlayHash": 800453786,
+        "Gender": "GENDER_MALE",
+        "Type": "TYPE_TATTOO",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 5900,
+        "Facing": "TATTOO_FRONT",
+        "UpdateGroup": "CHEST_RIGHT"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 385144996,
+          "English": "Pirate Skull",
+          "German": "Piratenschädel",
+          "French": "Crâne de pirate",
+          "Italian": "Teschio pirata",
+          "Russian": "Пиратский череп",
+          "Polish": "Piracka czaszka"
+        },
+        "OverlayName": "MP_Bea_M_Head_000",
+        "OverlayHash": 3212230321,
+        "Gender": "GENDER_MALE",
+        "Type": "TYPE_TATTOO",
+        "ZoneName": "ZONE_HEAD",
+        "Garment": "All",
+        "Price": 12000,
+        "Facing": "TATTOO_FRONT",
+        "UpdateGroup": "Face"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 3480340895,
+          "English": "Surf LS",
+          "German": "Surf LS",
+          "French": "Surf LS",
+          "Italian": "Surf L.S.",
+          "Russian": "Серфинг - Лос-Сантос",
+          "Polish": "Surfer LS"
+        },
+        "OverlayName": "MP_Bea_M_Head_001",
+        "OverlayHash": 3539985859,
+        "Gender": "GENDER_MALE",
+        "Type": "TYPE_TATTOO",
+        "ZoneName": "ZONE_HEAD",
+        "Garment": "All",
+        "Price": 1450,
+        "Facing": "TATTOO_FRONT_LEFT",
+        "UpdateGroup": "HEAD_LEFT"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 3137148430,
+          "English": "Eris Yellow Down Jacket",
+          "German": "Gelbe Eris Daunenjacke",
+          "French": "Doudoune Eris jaune",
+          "Italian": "Piumino Eris giallo",
+          "Russian": "Желтая куртка Eris",
+          "Polish": "Żółta kurtka Eris"
+        },
+        "OverlayName": "MP_Bea_M_Head_002",
+        "OverlayHash": 164352862,
+        "Gender": "GENDER_MALE",
+        "Type": "TYPE_TATTOO",
+        "ZoneName": "ZONE_HEAD",
+        "Garment": "All",
+        "Price": 1850,
+        "Facing": "TATTOO_FRONT_RIGHT",
+        "UpdateGroup": "HEAD_RIGHT"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 2724851596,
+          "English": "Tribal Star",
+          "German": "Tribal-Stern",
+          "French": "Étoile tribale",
+          "Italian": "Tribale stella",
+          "Russian": "Узор \"Звезда\"",
+          "Polish": "Plemienna gwiazda"
+        },
+        "OverlayName": "MP_Bea_M_Lleg_000",
+        "OverlayHash": 1801787829,
+        "Gender": "GENDER_MALE",
+        "Type": "TYPE_TATTOO",
+        "ZoneName": "ZONE_LEFT_LEG",
+        "Garment": "All",
+        "Price": 4450,
+        "Facing": "TATTOO_LEFT",
+        "UpdateGroup": "LEG_LEG"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 2170465654,
+          "English": "Tribal Tiki Tower",
+          "German": "Tribal-Tikiturm",
+          "French": "Totem tribal",
+          "Italian": "Tribale torre tiki",
+          "Russian": "Узор \"Башня тики\"",
+          "Polish": "Plemienna wieża Tiki"
+        },
+        "OverlayName": "MP_Bea_M_Rleg_000",
+        "OverlayHash": 2007087579,
+        "Gender": "GENDER_MALE",
+        "Type": "TYPE_TATTOO",
+        "ZoneName": "ZONE_RIGHT_LEG",
+        "Garment": "All",
+        "Price": 6500,
+        "Facing": "TATTOO_RIGHT",
+        "UpdateGroup": "LEG_RIGHT"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 2351219458,
+          "English": "Tribal Sun",
+          "German": "Tribal-Sonne",
+          "French": "Soleil tribal",
+          "Italian": "Tribale sole",
+          "Russian": "Узор \"Солнце\"",
+          "Polish": "Plemienne słońce"
+        },
+        "OverlayName": "MP_Bea_M_RArm_000",
+        "OverlayHash": 1987172386,
+        "Gender": "GENDER_MALE",
+        "Type": "TYPE_TATTOO",
+        "ZoneName": "ZONE_RIGHT_ARM",
+        "Garment": "All",
+        "Price": 6200,
+        "Facing": "TATTOO_RIGHT",
+        "UpdateGroup": "ARM_RIGHT"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 1910378101,
+          "English": "Tiki Tower",
+          "German": "Tikiturm",
+          "French": "Totem",
+          "Italian": "Torre tiki",
+          "Russian": "Башня тики",
+          "Polish": "Wieża Tiki"
+        },
+        "OverlayName": "MP_Bea_M_LArm_000",
+        "OverlayHash": 459313194,
+        "Gender": "GENDER_MALE",
+        "Type": "TYPE_TATTOO",
+        "ZoneName": "ZONE_LEFT_ARM",
+        "Garment": "All",
+        "Price": 4800,
+        "Facing": "TATTOO_LEFT",
+        "UpdateGroup": "ARM_LEFT_2"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 3400155376,
+          "English": "Mermaid L.S.",
+          "German": "Meerjungfrau L.S.",
+          "French": "Sirène LS",
+          "Italian": "Sirena L.S.",
+          "Russian": "Русалка - Лос-Сантос",
+          "Polish": "Syrena Los Santos"
+        },
+        "OverlayName": "MP_Bea_M_LArm_001",
+        "OverlayHash": 2377643231,
+        "Gender": "GENDER_MALE",
+        "Type": "TYPE_TATTOO",
+        "ZoneName": "ZONE_LEFT_ARM",
+        "Garment": "All",
+        "Price": 6600,
+        "Facing": "TATTOO_LEFT",
+        "UpdateGroup": "ARM_LEFT_2"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 931699147,
+          "English": "Little Fish",
+          "German": "Kleiner Fisch",
+          "French": "Petit poisson",
+          "Italian": "Pesciolino",
+          "Russian": "Рыбка",
+          "Polish": "Mała rybka"
+        },
+        "OverlayName": "MP_Bea_M_Neck_000",
+        "OverlayHash": 4073342808,
+        "Gender": "GENDER_MALE",
+        "Type": "TYPE_TATTOO",
+        "ZoneName": "ZONE_HEAD",
+        "Garment": "All",
+        "Price": 1650,
+        "Facing": "TATTOO_FRONT_LEFT",
+        "UpdateGroup": "NECK_LEFT"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 1019520067,
+          "English": "Surfs Up",
+          "German": "Hohe Brandung",
+          "French": "Surfs Up",
+          "Italian": "Surf",
+          "Russian": "Время серфинга",
+          "Polish": "Surfing"
+        },
+        "OverlayName": "MP_Bea_M_Neck_001",
+        "OverlayHash": 25158851,
+        "Gender": "GENDER_MALE",
+        "Type": "TYPE_TATTOO",
+        "ZoneName": "ZONE_HEAD",
+        "Garment": "All",
+        "Price": 2250,
+        "Facing": "TATTOO_FRONT_RIGHT",
+        "UpdateGroup": "NECK_RIGHT_2"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 3435608482,
+          "English": "Crevis Yellow Down Jacket",
+          "German": "Gelbe Crevis Daunenjacke",
+          "French": "Doudoune Crevis jaune",
+          "Italian": "Piumino Crevis giallo",
+          "Russian": "Желтая куртка Crevis",
+          "Polish": "Żółta kurtka Crevis"
+        },
+        "OverlayName": "MP_Bea_M_RArm_001",
+        "OverlayHash": 472458130,
+        "Gender": "GENDER_MALE",
+        "Type": "TYPE_TATTOO",
+        "ZoneName": "ZONE_RIGHT_ARM",
+        "Garment": "All",
+        "Price": 7000,
+        "Facing": "TATTOO_RIGHT",
+        "UpdateGroup": "ARM_RIGHT"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 3046741487,
+          "English": "Swordfish",
+          "German": "Schwertfisch",
+          "French": "Espadon",
+          "Italian": "Pesce spada",
+          "Russian": "Рыба-меч",
+          "Polish": "Miecznik"
+        },
+        "OverlayName": "MP_Bea_M_Stom_000",
+        "OverlayHash": 2493111758,
+        "Gender": "GENDER_MALE",
+        "Type": "TYPE_TATTOO",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 3100,
+        "Facing": "TATTOO_FRONT",
+        "UpdateGroup": "STOMACH_LEFT"
+      },
+      {
+        "TranslatedLabel": {
+          "Hash": 4047110791,
+          "English": "Crevis Red Down Jacket",
+          "German": "Rote Crevis Daunenjacke",
+          "French": "Doudoune Crevis rouge",
+          "Italian": "Piumino Crevis rosso",
+          "Russian": "Красная куртка Crevis",
+          "Polish": "Czerwona kurtka Crevis"
+        },
+        "OverlayName": "MP_Bea_M_Stom_001",
+        "OverlayHash": 3390818517,
+        "Gender": "GENDER_MALE",
+        "Type": "TYPE_TATTOO",
+        "ZoneName": "ZONE_TORSO",
+        "Garment": "All",
+        "Price": 5500,
+        "Facing": "TATTOO_FRONT",
+        "UpdateGroup": "STOMACH_MID"
+      },
+      {
+        "TranslatedLabel": null,
+        "OverlayName": "FM_Hair_Fuzz",
+        "OverlayHash": 2470940806,
+        "Gender": "GENDER_DONTCARE",
+        "Type": "TYPE_TATTOO",
+        "ZoneName": "ZONE_HEAD",
+        "Garment": "All",
+        "Price": -1,
+        "Facing": null,
+        "UpdateGroup": null
+      }
+    ]
+  },
+  {
     "CollectionName": "multiplayer_overlays",
     "CollectionHash": 598190139,
     "Overlays": [
@@ -5136,684 +5814,6 @@
         "Price": 0,
         "Facing": "TATTOO_FRONT",
         "UpdateGroup": "hairOverlay"
-      }
-    ]
-  },
-  {
-    "CollectionName": "mpBeach_overlays",
-    "CollectionHash": 2575696819,
-    "Overlays": [
-      {
-        "TranslatedLabel": {
-          "Hash": 579924440,
-          "English": "Rock Solid",
-          "German": "Felsenfest",
-          "French": "Solide comme un roc",
-          "Italian": "Rock Solid",
-          "Russian": "Скала",
-          "Polish": "Twardy jak głaz"
-        },
-        "OverlayName": "MP_Bea_F_Back_000",
-        "OverlayHash": 2143620721,
-        "Gender": "GENDER_FEMALE",
-        "Type": "TYPE_TATTOO",
-        "ZoneName": "ZONE_TORSO",
-        "Garment": "All",
-        "Price": 5500,
-        "Facing": "TATTOO_BACK",
-        "UpdateGroup": "BACK_2"
-      },
-      {
-        "TranslatedLabel": {
-          "Hash": 2130586285,
-          "English": "Hibiscus Flower Duo",
-          "German": "Zwei Hibiskusblüten",
-          "French": "Duo d'hibiscus",
-          "Italian": "Doppio ibisco",
-          "Russian": "Цветок гибискуса 2",
-          "Polish": "Dwa kwiaty hibiskusa"
-        },
-        "OverlayName": "MP_Bea_F_Back_001",
-        "OverlayHash": 2719306513,
-        "Gender": "GENDER_FEMALE",
-        "Type": "TYPE_TATTOO",
-        "ZoneName": "ZONE_TORSO",
-        "Garment": "All",
-        "Price": 6900,
-        "Facing": "TATTOO_BACK",
-        "UpdateGroup": "BACK_3"
-      },
-      {
-        "TranslatedLabel": {
-          "Hash": 1173403795,
-          "English": "Shrimp",
-          "German": "Garnele",
-          "French": "Crevette",
-          "Italian": "Gamberetto",
-          "Russian": "Креветка",
-          "Polish": "Krewetka"
-        },
-        "OverlayName": "MP_Bea_F_Back_002",
-        "OverlayHash": 3001218220,
-        "Gender": "GENDER_FEMALE",
-        "Type": "TYPE_TATTOO",
-        "ZoneName": "ZONE_TORSO",
-        "Garment": "All",
-        "Price": 2500,
-        "Facing": "TATTOO_BACK",
-        "UpdateGroup": "BACK_2"
-      },
-      {
-        "TranslatedLabel": {
-          "Hash": 3315578587,
-          "English": "Anchor",
-          "German": "Anker",
-          "French": "Ancre marine",
-          "Italian": "Ancora",
-          "Russian": "Якорь",
-          "Polish": "Kotwica"
-        },
-        "OverlayName": "MP_Bea_F_Chest_000",
-        "OverlayHash": 939412564,
-        "Gender": "GENDER_FEMALE",
-        "Type": "TYPE_TATTOO",
-        "ZoneName": "ZONE_TORSO",
-        "Garment": "All",
-        "Price": 2500,
-        "Facing": "TATTOO_FRONT",
-        "UpdateGroup": "CHEST_LEFT"
-      },
-      {
-        "TranslatedLabel": {
-          "Hash": 324653646,
-          "English": "Anchor",
-          "German": "Anker",
-          "French": "Ancre marine",
-          "Italian": "Ancora",
-          "Russian": "Якорь",
-          "Polish": "Kotwica"
-        },
-        "OverlayName": "MP_Bea_F_Chest_001",
-        "OverlayHash": 1187637739,
-        "Gender": "GENDER_FEMALE",
-        "Type": "TYPE_TATTOO",
-        "ZoneName": "ZONE_TORSO",
-        "Garment": "All",
-        "Price": 2500,
-        "Facing": "TATTOO_FRONT",
-        "UpdateGroup": "CHEST_RIGHT"
-      },
-      {
-        "TranslatedLabel": {
-          "Hash": 2778101725,
-          "English": "Los Santos Wreath",
-          "German": "Los-Santos-Kranz",
-          "French": "Couronne de fleurs LS",
-          "Italian": "Ghirlanda Los Santos",
-          "Russian": "Венок \"Лос-Сантос\"",
-          "Polish": "Wieniec Los Santos"
-        },
-        "OverlayName": "MP_Bea_F_Chest_002",
-        "OverlayHash": 497719213,
-        "Gender": "GENDER_FEMALE",
-        "Type": "TYPE_TATTOO",
-        "ZoneName": "ZONE_TORSO",
-        "Garment": "All",
-        "Price": 8500,
-        "Facing": "TATTOO_FRONT",
-        "UpdateGroup": "CHEST_MID"
-      },
-      {
-        "TranslatedLabel": {
-          "Hash": 3725879520,
-          "English": "Love Dagger",
-          "German": "Liebesdolch",
-          "French": "Dague d'amour",
-          "Italian": "Cuore con pugnale",
-          "Russian": "Любовный кинжал",
-          "Polish": "Sztylet miłości"
-        },
-        "OverlayName": "MP_Bea_F_RSide_000",
-        "OverlayHash": 2723563697,
-        "Gender": "GENDER_FEMALE",
-        "Type": "TYPE_TATTOO",
-        "ZoneName": "ZONE_TORSO",
-        "Garment": "All",
-        "Price": 6850,
-        "Facing": "TATTOO_BACK",
-        "UpdateGroup": "SIDE_RIGHT"
-      },
-      {
-        "TranslatedLabel": {
-          "Hash": 2950007907,
-          "English": "School of Fish",
-          "German": "Fischschwarm",
-          "French": "Banc de poissons",
-          "Italian": "Banco di pesci",
-          "Russian": "Косяк рыбы",
-          "Polish": "Ławica"
-        },
-        "OverlayName": "MP_Bea_F_RLeg_000",
-        "OverlayHash": 3583843390,
-        "Gender": "GENDER_FEMALE",
-        "Type": "TYPE_TATTOO",
-        "ZoneName": "ZONE_RIGHT_LEG",
-        "Garment": "All",
-        "Price": 2950,
-        "Facing": "TATTOO_RIGHT",
-        "UpdateGroup": "LEG_RIGHT"
-      },
-      {
-        "TranslatedLabel": {
-          "Hash": 2933229895,
-          "English": "Tribal Fish",
-          "German": "Tribal-Fisch",
-          "French": "Poisson tribal",
-          "Italian": "Tribale pesce",
-          "Russian": "Трайбл - рыба",
-          "Polish": "Plemienna ryba"
-        },
-        "OverlayName": "MP_Bea_F_RArm_001",
-        "OverlayHash": 1659530389,
-        "Gender": "GENDER_FEMALE",
-        "Type": "TYPE_TATTOO",
-        "ZoneName": "ZONE_RIGHT_ARM",
-        "Garment": "All",
-        "Price": 3700,
-        "Facing": "TATTOO_RIGHT",
-        "UpdateGroup": "ARM_RIGHT"
-      },
-      {
-        "TranslatedLabel": {
-          "Hash": 4083749769,
-          "English": "Tribal Butterfly",
-          "German": "Tribal-Schmetterling",
-          "French": "Papillon tribal",
-          "Italian": "Tribale farfalla",
-          "Russian": "Трайбл - бабочка",
-          "Polish": "Plemienny motyl"
-        },
-        "OverlayName": "MP_Bea_F_Neck_000",
-        "OverlayHash": 152801037,
-        "Gender": "GENDER_FEMALE",
-        "Type": "TYPE_TATTOO",
-        "ZoneName": "ZONE_HEAD",
-        "Garment": "All",
-        "Price": 1700,
-        "Facing": "TATTOO_FRONT_RIGHT",
-        "UpdateGroup": "NECK_RIGHT"
-      },
-      {
-        "TranslatedLabel": {
-          "Hash": 4157283121,
-          "English": "Sea Horses",
-          "German": "Seepferdchen",
-          "French": "Hippocampes",
-          "Italian": "Cavallucci marini",
-          "Russian": "Морские коньки",
-          "Polish": "Koniki morskie"
-        },
-        "OverlayName": "MP_Bea_F_Should_000",
-        "OverlayHash": 2808226100,
-        "Gender": "GENDER_FEMALE",
-        "Type": "TYPE_TATTOO",
-        "ZoneName": "ZONE_TORSO",
-        "Garment": "All",
-        "Price": 5100,
-        "Facing": "TATTOO_BACK",
-        "UpdateGroup": "BACK_1"
-      },
-      {
-        "TranslatedLabel": {
-          "Hash": 741770527,
-          "English": "Catfish",
-          "German": "Wels",
-          "French": "Poisson chat",
-          "Italian": "Pesce gatto",
-          "Russian": "Зубатка",
-          "Polish": "Sum"
-        },
-        "OverlayName": "MP_Bea_F_Should_001",
-        "OverlayHash": 2049754822,
-        "Gender": "GENDER_FEMALE",
-        "Type": "TYPE_TATTOO",
-        "ZoneName": "ZONE_TORSO",
-        "Garment": "All",
-        "Price": 5250,
-        "Facing": "TATTOO_BACK",
-        "UpdateGroup": "BACK_3"
-      },
-      {
-        "TranslatedLabel": {
-          "Hash": 3776146882,
-          "English": "Swallow",
-          "German": "Schwalbe",
-          "French": "Hirondelle",
-          "Italian": "Rondine",
-          "Russian": "Ласточка",
-          "Polish": "Jaskółka"
-        },
-        "OverlayName": "MP_Bea_F_Stom_000",
-        "OverlayHash": 3202297851,
-        "Gender": "GENDER_FEMALE",
-        "Type": "TYPE_TATTOO",
-        "ZoneName": "ZONE_TORSO",
-        "Garment": "All",
-        "Price": 2100,
-        "Facing": "TATTOO_FRONT",
-        "UpdateGroup": "STOMACH_LEFT"
-      },
-      {
-        "TranslatedLabel": {
-          "Hash": 86488838,
-          "English": "Hibiscus Flower",
-          "German": "Hibiskusblüten",
-          "French": "Hibiscus",
-          "Italian": "Ibisco",
-          "Russian": "Цветок гибискуса 2",
-          "Polish": "Kwiat hibiskusa"
-        },
-        "OverlayName": "MP_Bea_F_Stom_001",
-        "OverlayHash": 2970948711,
-        "Gender": "GENDER_FEMALE",
-        "Type": "TYPE_TATTOO",
-        "ZoneName": "ZONE_TORSO",
-        "Garment": "All",
-        "Price": 2650,
-        "Facing": "TATTOO_FRONT",
-        "UpdateGroup": "STOMACH_RIGHT"
-      },
-      {
-        "TranslatedLabel": {
-          "Hash": 705494964,
-          "English": "Dolphin",
-          "German": "Delfin",
-          "French": "Dauphin",
-          "Italian": "Delfino",
-          "Russian": "Дельфин",
-          "Polish": "Delfin"
-        },
-        "OverlayName": "MP_Bea_F_Stom_002",
-        "OverlayHash": 3813898467,
-        "Gender": "GENDER_FEMALE",
-        "Type": "TYPE_TATTOO",
-        "ZoneName": "ZONE_TORSO",
-        "Garment": "All",
-        "Price": 1900,
-        "Facing": "TATTOO_FRONT",
-        "UpdateGroup": "STOMACH_LEFT"
-      },
-      {
-        "TranslatedLabel": {
-          "Hash": 386521802,
-          "English": "Tribal Flower",
-          "German": "Tribal-Blüte",
-          "French": "Fleur tribale",
-          "Italian": "Tribale fiore",
-          "Russian": "Трайбл - цветы",
-          "Polish": "Plemienny kwiat"
-        },
-        "OverlayName": "MP_Bea_F_LArm_000",
-        "OverlayHash": 3574336209,
-        "Gender": "GENDER_FEMALE",
-        "Type": "TYPE_TATTOO",
-        "ZoneName": "ZONE_LEFT_ARM",
-        "Garment": "All",
-        "Price": 3500,
-        "Facing": "TATTOO_LEFT",
-        "UpdateGroup": "ARM_LEFT_1"
-      },
-      {
-        "TranslatedLabel": {
-          "Hash": 2010946386,
-          "English": "Parrot",
-          "German": "Papagei",
-          "French": "Perroquet",
-          "Italian": "Pappagallo",
-          "Russian": "Попугай",
-          "Polish": "Papuga"
-        },
-        "OverlayName": "MP_Bea_F_LArm_001",
-        "OverlayHash": 996857777,
-        "Gender": "GENDER_FEMALE",
-        "Type": "TYPE_TATTOO",
-        "ZoneName": "ZONE_LEFT_ARM",
-        "Garment": "All",
-        "Price": 5250,
-        "Facing": "TATTOO_LEFT",
-        "UpdateGroup": "ARM_LEFT_2"
-      },
-      {
-        "TranslatedLabel": {
-          "Hash": 165068612,
-          "English": "Ship Arms",
-          "German": "Schiffswappen",
-          "French": "Voiliers",
-          "Italian": "Nave",
-          "Russian": "Корабли",
-          "Polish": "Liny statku"
-        },
-        "OverlayName": "MP_Bea_M_Back_000",
-        "OverlayHash": 1056297333,
-        "Gender": "GENDER_MALE",
-        "Type": "TYPE_TATTOO",
-        "ZoneName": "ZONE_TORSO",
-        "Garment": "All",
-        "Price": 7250,
-        "Facing": "TATTOO_BACK",
-        "UpdateGroup": "BACK_1"
-      },
-      {
-        "TranslatedLabel": {
-          "Hash": 1549427782,
-          "English": "Tribal Hammerhead",
-          "German": "Tribal-Hammerhai",
-          "French": "Requin-marteau tribal",
-          "Italian": "Tribale squalo martello",
-          "Russian": "Трайбл - рыба-молот",
-          "Polish": "Plemienny rekin młot"
-        },
-        "OverlayName": "MP_Bea_M_Chest_000",
-        "OverlayHash": 494620709,
-        "Gender": "GENDER_MALE",
-        "Type": "TYPE_TATTOO",
-        "ZoneName": "ZONE_TORSO",
-        "Garment": "All",
-        "Price": 5800,
-        "Facing": "TATTOO_FRONT",
-        "UpdateGroup": "CHEST_LEFT"
-      },
-      {
-        "TranslatedLabel": {
-          "Hash": 3367353383,
-          "English": "Tribal Shark",
-          "German": "Tribal-Hai",
-          "French": "Requin tribal",
-          "Italian": "Tribale squalo",
-          "Russian": "Трайбл - акула",
-          "Polish": "Plemienny rekin"
-        },
-        "OverlayName": "MP_Bea_M_Chest_001",
-        "OverlayHash": 800453786,
-        "Gender": "GENDER_MALE",
-        "Type": "TYPE_TATTOO",
-        "ZoneName": "ZONE_TORSO",
-        "Garment": "All",
-        "Price": 5900,
-        "Facing": "TATTOO_FRONT",
-        "UpdateGroup": "CHEST_RIGHT"
-      },
-      {
-        "TranslatedLabel": {
-          "Hash": 385144996,
-          "English": "Pirate Skull",
-          "German": "Piratenschädel",
-          "French": "Crâne de pirate",
-          "Italian": "Teschio pirata",
-          "Russian": "Пиратский череп",
-          "Polish": "Piracka czaszka"
-        },
-        "OverlayName": "MP_Bea_M_Head_000",
-        "OverlayHash": 3212230321,
-        "Gender": "GENDER_MALE",
-        "Type": "TYPE_TATTOO",
-        "ZoneName": "ZONE_HEAD",
-        "Garment": "All",
-        "Price": 12000,
-        "Facing": "TATTOO_FRONT",
-        "UpdateGroup": "Face"
-      },
-      {
-        "TranslatedLabel": {
-          "Hash": 3480340895,
-          "English": "Surf LS",
-          "German": "Surf LS",
-          "French": "Surf LS",
-          "Italian": "Surf L.S.",
-          "Russian": "Серфинг - Лос-Сантос",
-          "Polish": "Surfer LS"
-        },
-        "OverlayName": "MP_Bea_M_Head_001",
-        "OverlayHash": 3539985859,
-        "Gender": "GENDER_MALE",
-        "Type": "TYPE_TATTOO",
-        "ZoneName": "ZONE_HEAD",
-        "Garment": "All",
-        "Price": 1450,
-        "Facing": "TATTOO_FRONT_LEFT",
-        "UpdateGroup": "HEAD_LEFT"
-      },
-      {
-        "TranslatedLabel": {
-          "Hash": 3137148430,
-          "English": "Eris Yellow Down Jacket",
-          "German": "Gelbe Eris Daunenjacke",
-          "French": "Doudoune Eris jaune",
-          "Italian": "Piumino Eris giallo",
-          "Russian": "Желтая куртка Eris",
-          "Polish": "Żółta kurtka Eris"
-        },
-        "OverlayName": "MP_Bea_M_Head_002",
-        "OverlayHash": 164352862,
-        "Gender": "GENDER_MALE",
-        "Type": "TYPE_TATTOO",
-        "ZoneName": "ZONE_HEAD",
-        "Garment": "All",
-        "Price": 1850,
-        "Facing": "TATTOO_FRONT_RIGHT",
-        "UpdateGroup": "HEAD_RIGHT"
-      },
-      {
-        "TranslatedLabel": {
-          "Hash": 2724851596,
-          "English": "Tribal Star",
-          "German": "Tribal-Stern",
-          "French": "Étoile tribale",
-          "Italian": "Tribale stella",
-          "Russian": "Узор \"Звезда\"",
-          "Polish": "Plemienna gwiazda"
-        },
-        "OverlayName": "MP_Bea_M_Lleg_000",
-        "OverlayHash": 1801787829,
-        "Gender": "GENDER_MALE",
-        "Type": "TYPE_TATTOO",
-        "ZoneName": "ZONE_LEFT_LEG",
-        "Garment": "All",
-        "Price": 4450,
-        "Facing": "TATTOO_LEFT",
-        "UpdateGroup": "LEG_LEG"
-      },
-      {
-        "TranslatedLabel": {
-          "Hash": 2170465654,
-          "English": "Tribal Tiki Tower",
-          "German": "Tribal-Tikiturm",
-          "French": "Totem tribal",
-          "Italian": "Tribale torre tiki",
-          "Russian": "Узор \"Башня тики\"",
-          "Polish": "Plemienna wieża Tiki"
-        },
-        "OverlayName": "MP_Bea_M_Rleg_000",
-        "OverlayHash": 2007087579,
-        "Gender": "GENDER_MALE",
-        "Type": "TYPE_TATTOO",
-        "ZoneName": "ZONE_RIGHT_LEG",
-        "Garment": "All",
-        "Price": 6500,
-        "Facing": "TATTOO_RIGHT",
-        "UpdateGroup": "LEG_RIGHT"
-      },
-      {
-        "TranslatedLabel": {
-          "Hash": 2351219458,
-          "English": "Tribal Sun",
-          "German": "Tribal-Sonne",
-          "French": "Soleil tribal",
-          "Italian": "Tribale sole",
-          "Russian": "Узор \"Солнце\"",
-          "Polish": "Plemienne słońce"
-        },
-        "OverlayName": "MP_Bea_M_RArm_000",
-        "OverlayHash": 1987172386,
-        "Gender": "GENDER_MALE",
-        "Type": "TYPE_TATTOO",
-        "ZoneName": "ZONE_RIGHT_ARM",
-        "Garment": "All",
-        "Price": 6200,
-        "Facing": "TATTOO_RIGHT",
-        "UpdateGroup": "ARM_RIGHT"
-      },
-      {
-        "TranslatedLabel": {
-          "Hash": 1910378101,
-          "English": "Tiki Tower",
-          "German": "Tikiturm",
-          "French": "Totem",
-          "Italian": "Torre tiki",
-          "Russian": "Башня тики",
-          "Polish": "Wieża Tiki"
-        },
-        "OverlayName": "MP_Bea_M_LArm_000",
-        "OverlayHash": 459313194,
-        "Gender": "GENDER_MALE",
-        "Type": "TYPE_TATTOO",
-        "ZoneName": "ZONE_LEFT_ARM",
-        "Garment": "All",
-        "Price": 4800,
-        "Facing": "TATTOO_LEFT",
-        "UpdateGroup": "ARM_LEFT_2"
-      },
-      {
-        "TranslatedLabel": {
-          "Hash": 3400155376,
-          "English": "Mermaid L.S.",
-          "German": "Meerjungfrau L.S.",
-          "French": "Sirène LS",
-          "Italian": "Sirena L.S.",
-          "Russian": "Русалка - Лос-Сантос",
-          "Polish": "Syrena Los Santos"
-        },
-        "OverlayName": "MP_Bea_M_LArm_001",
-        "OverlayHash": 2377643231,
-        "Gender": "GENDER_MALE",
-        "Type": "TYPE_TATTOO",
-        "ZoneName": "ZONE_LEFT_ARM",
-        "Garment": "All",
-        "Price": 6600,
-        "Facing": "TATTOO_LEFT",
-        "UpdateGroup": "ARM_LEFT_2"
-      },
-      {
-        "TranslatedLabel": {
-          "Hash": 931699147,
-          "English": "Little Fish",
-          "German": "Kleiner Fisch",
-          "French": "Petit poisson",
-          "Italian": "Pesciolino",
-          "Russian": "Рыбка",
-          "Polish": "Mała rybka"
-        },
-        "OverlayName": "MP_Bea_M_Neck_000",
-        "OverlayHash": 4073342808,
-        "Gender": "GENDER_MALE",
-        "Type": "TYPE_TATTOO",
-        "ZoneName": "ZONE_HEAD",
-        "Garment": "All",
-        "Price": 1650,
-        "Facing": "TATTOO_FRONT_LEFT",
-        "UpdateGroup": "NECK_LEFT"
-      },
-      {
-        "TranslatedLabel": {
-          "Hash": 1019520067,
-          "English": "Surfs Up",
-          "German": "Hohe Brandung",
-          "French": "Surfs Up",
-          "Italian": "Surf",
-          "Russian": "Время серфинга",
-          "Polish": "Surfing"
-        },
-        "OverlayName": "MP_Bea_M_Neck_001",
-        "OverlayHash": 25158851,
-        "Gender": "GENDER_MALE",
-        "Type": "TYPE_TATTOO",
-        "ZoneName": "ZONE_HEAD",
-        "Garment": "All",
-        "Price": 2250,
-        "Facing": "TATTOO_FRONT_RIGHT",
-        "UpdateGroup": "NECK_RIGHT_2"
-      },
-      {
-        "TranslatedLabel": {
-          "Hash": 3435608482,
-          "English": "Crevis Yellow Down Jacket",
-          "German": "Gelbe Crevis Daunenjacke",
-          "French": "Doudoune Crevis jaune",
-          "Italian": "Piumino Crevis giallo",
-          "Russian": "Желтая куртка Crevis",
-          "Polish": "Żółta kurtka Crevis"
-        },
-        "OverlayName": "MP_Bea_M_RArm_001",
-        "OverlayHash": 472458130,
-        "Gender": "GENDER_MALE",
-        "Type": "TYPE_TATTOO",
-        "ZoneName": "ZONE_RIGHT_ARM",
-        "Garment": "All",
-        "Price": 7000,
-        "Facing": "TATTOO_RIGHT",
-        "UpdateGroup": "ARM_RIGHT"
-      },
-      {
-        "TranslatedLabel": {
-          "Hash": 3046741487,
-          "English": "Swordfish",
-          "German": "Schwertfisch",
-          "French": "Espadon",
-          "Italian": "Pesce spada",
-          "Russian": "Рыба-меч",
-          "Polish": "Miecznik"
-        },
-        "OverlayName": "MP_Bea_M_Stom_000",
-        "OverlayHash": 2493111758,
-        "Gender": "GENDER_MALE",
-        "Type": "TYPE_TATTOO",
-        "ZoneName": "ZONE_TORSO",
-        "Garment": "All",
-        "Price": 3100,
-        "Facing": "TATTOO_FRONT",
-        "UpdateGroup": "STOMACH_LEFT"
-      },
-      {
-        "TranslatedLabel": {
-          "Hash": 4047110791,
-          "English": "Crevis Red Down Jacket",
-          "German": "Rote Crevis Daunenjacke",
-          "French": "Doudoune Crevis rouge",
-          "Italian": "Piumino Crevis rosso",
-          "Russian": "Красная куртка Crevis",
-          "Polish": "Czerwona kurtka Crevis"
-        },
-        "OverlayName": "MP_Bea_M_Stom_001",
-        "OverlayHash": 3390818517,
-        "Gender": "GENDER_MALE",
-        "Type": "TYPE_TATTOO",
-        "ZoneName": "ZONE_TORSO",
-        "Garment": "All",
-        "Price": 5500,
-        "Facing": "TATTOO_FRONT",
-        "UpdateGroup": "STOMACH_MID"
-      },
-      {
-        "TranslatedLabel": null,
-        "OverlayName": "FM_Hair_Fuzz",
-        "OverlayHash": 2470940806,
-        "Gender": "GENDER_DONTCARE",
-        "Type": "TYPE_TATTOO",
-        "ZoneName": "ZONE_HEAD",
-        "Garment": "All",
-        "Price": -1,
-        "Facing": null,
-        "UpdateGroup": null
       }
     ]
   },
@@ -11336,8 +11336,8 @@
     ]
   },
   {
-    "CollectionName": "mpIndependence_overlays",
-    "CollectionHash": 243848076,
+    "CollectionName": "mpIndependance_overlays",
+    "CollectionHash": 3201507927,
     "Overlays": [
       {
         "TranslatedLabel": {

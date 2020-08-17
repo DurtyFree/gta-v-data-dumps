@@ -230,41 +230,6 @@
     "Model": "PROP_DRUG_PACKAGE"
   },
   {
-    "Name": "PICKUP_PORTABLE_PACKAGE_LARGE_RADIUS",
-    "Hash": 1651898027,
-    "Model": "Prop_Drug_package_02"
-  },
-  {
-    "Name": "PICKUP_PORTABLE_CRATE_UNFIXED_INCAR",
-    "Hash": 1263688126,
-    "Model": "PROP_DRUG_PACKAGE"
-  },
-  {
-    "Name": "PICKUP_PORTABLE_CRATE_UNFIXED_INAIRVEHICLE_WITH_PASSENGERS",
-    "Hash": 2431639355,
-    "Model": "PROP_DRUG_PACKAGE"
-  },
-  {
-    "Name": "PICKUP_PORTABLE_CRATE_UNFIXED_INCAR_WITH_PASSENGERS",
-    "Hash": 79909481,
-    "Model": "PROP_DRUG_PACKAGE"
-  },
-  {
-    "Name": "PICKUP_PORTABLE_CRATE_FIXED_INCAR_WITH_PASSENGERS",
-    "Hash": 2689501965,
-    "Model": "PROP_DRUG_PACKAGE"
-  },
-  {
-    "Name": "PICKUP_PORTABLE_CRATE_FIXED_INCAR_SMALL",
-    "Hash": 2817147086,
-    "Model": "PROP_DRUG_PACKAGE"
-  },
-  {
-    "Name": "PICKUP_PORTABLE_CRATE_UNFIXED_INCAR_SMALL",
-    "Hash": 3285027633,
-    "Model": "PROP_DRUG_PACKAGE"
-  },
-  {
     "Name": "PICKUP_PORTABLE_CRATE_UNFIXED_LOW_GLOW",
     "Hash": 2499414878,
     "Model": "PROP_DRUG_PACKAGE"
@@ -375,11 +340,6 @@
     "Model": "PROP_LD_HEALTH_PACK"
   },
   {
-    "Name": "PICKUP_VEHICLE_CUSTOM_SCRIPT_NO_ROTATE",
-    "Hash": 83435908,
-    "Model": "PROP_LD_HEALTH_PACK"
-  },
-  {
     "Name": "PICKUP_VEHICLE_CUSTOM_SCRIPT_LOW_GLOW",
     "Hash": 1104334678,
     "Model": "PROP_LD_HEALTH_PACK"
@@ -450,6 +410,46 @@
     "Model": "prop_ld_ammo_pack_02"
   },
   {
+    "Name": "PICKUP_PORTABLE_PACKAGE_LARGE_RADIUS",
+    "Hash": 1651898027,
+    "Model": "Prop_Drug_package_02"
+  },
+  {
+    "Name": "PICKUP_PORTABLE_CRATE_UNFIXED_INCAR",
+    "Hash": 1263688126,
+    "Model": "PROP_DRUG_PACKAGE"
+  },
+  {
+    "Name": "PICKUP_PORTABLE_CRATE_UNFIXED_INAIRVEHICLE_WITH_PASSENGERS",
+    "Hash": 2431639355,
+    "Model": "PROP_DRUG_PACKAGE"
+  },
+  {
+    "Name": "PICKUP_PORTABLE_CRATE_UNFIXED_INCAR_WITH_PASSENGERS",
+    "Hash": 79909481,
+    "Model": "PROP_DRUG_PACKAGE"
+  },
+  {
+    "Name": "PICKUP_PORTABLE_CRATE_FIXED_INCAR_WITH_PASSENGERS",
+    "Hash": 2689501965,
+    "Model": "PROP_DRUG_PACKAGE"
+  },
+  {
+    "Name": "PICKUP_PORTABLE_CRATE_FIXED_INCAR_SMALL",
+    "Hash": 2817147086,
+    "Model": "PROP_DRUG_PACKAGE"
+  },
+  {
+    "Name": "PICKUP_PORTABLE_CRATE_UNFIXED_INCAR_SMALL",
+    "Hash": 3285027633,
+    "Model": "PROP_DRUG_PACKAGE"
+  },
+  {
+    "Name": "PICKUP_VEHICLE_CUSTOM_SCRIPT_NO_ROTATE",
+    "Hash": 83435908,
+    "Model": "PROP_LD_HEALTH_PACK"
+  },
+  {
     "Name": "PICKUP_WEAPON_BOTTLE",
     "Hash": 4199656437,
     "Model": "w_me_bottle"
@@ -458,21 +458,6 @@
     "Name": "PICKUP_WEAPON_SNSPISTOL",
     "Hash": 3317114643,
     "Model": "w_pi_sns_pistol"
-  },
-  {
-    "Name": "PICKUP_WEAPON_HATCHET",
-    "Hash": 1311775952,
-    "Model": "w_me_hatchet"
-  },
-  {
-    "Name": "PICKUP_WEAPON_RAILGUN",
-    "Hash": 3832418740,
-    "Model": "w_ar_railgun"
-  },
-  {
-    "Name": "PICKUP_WEAPON_GUSENBERG",
-    "Hash": 1393009900,
-    "Model": "w_sb_gusenberg"
   },
   {
     "Name": "PICKUP_WEAPON_HEAVYPISTOL",
@@ -488,6 +473,36 @@
     "Name": "PICKUP_WEAPON_BULLPUPRIFLE",
     "Hash": 2170382056,
     "Model": "w_ar_bullpuprifle"
+  },
+  {
+    "Name": "PICKUP_WEAPON_ASSAULTRIFLE_MK2",
+    "Hash": 2173116527,
+    "Model": "W_AR_ASSAULTRIFLEMK2"
+  },
+  {
+    "Name": "PICKUP_WEAPON_CARBINERIFLE_MK2",
+    "Hash": 3185079484,
+    "Model": "W_AR_CARBINERIFLEMK2"
+  },
+  {
+    "Name": "PICKUP_WEAPON_COMBATMG_MK2",
+    "Hash": 2837437579,
+    "Model": "W_MG_COMBATMGMK2"
+  },
+  {
+    "Name": "PICKUP_WEAPON_HEAVYSNIPER_MK2",
+    "Hash": 4278878871,
+    "Model": "W_SR_HEAVYSNIPERMK2"
+  },
+  {
+    "Name": "PICKUP_WEAPON_PISTOL_MK2",
+    "Hash": 1234831722,
+    "Model": "W_PI_PISTOLMK2"
+  },
+  {
+    "Name": "PICKUP_WEAPON_SMG_MK2",
+    "Hash": 4012602256,
+    "Model": "W_SB_SMGMK2"
   },
   {
     "Name": "PICKUP_WEAPON_DAGGER",
@@ -520,11 +535,6 @@
     "Model": "W_LR_Firework_Rocket"
   },
   {
-    "Name": "PICKUP_PORTABLE_DLC_VEHICLE_PACKAGE",
-    "Hash": 837436873,
-    "Model": "Prop_Drug_package_02"
-  },
-  {
     "Name": "PICKUP_WEAPON_HEAVYSHOTGUN",
     "Hash": 3201593029,
     "Model": "w_sg_heavyshotgun"
@@ -533,6 +543,26 @@
     "Name": "PICKUP_WEAPON_MARKSMANRIFLE",
     "Hash": 127042729,
     "Model": "w_sr_marksmanrifle"
+  },
+  {
+    "Name": "PICKUP_PORTABLE_DLC_VEHICLE_PACKAGE",
+    "Hash": 837436873,
+    "Model": "Prop_Drug_package_02"
+  },
+  {
+    "Name": "PICKUP_WEAPON_GUSENBERG",
+    "Hash": 1393009900,
+    "Model": "w_sb_gusenberg"
+  },
+  {
+    "Name": "PICKUP_WEAPON_HATCHET",
+    "Hash": 1311775952,
+    "Model": "w_me_hatchet"
+  },
+  {
+    "Name": "PICKUP_WEAPON_RAILGUN",
+    "Hash": 3832418740,
+    "Model": "w_ar_railgun"
   },
   {
     "Name": "PICKUP_WEAPON_PROXMINE",
@@ -648,36 +678,6 @@
     "Name": "PICKUP_WEAPON_WRENCH",
     "Hash": 3843167081,
     "Model": "w_me_wrench"
-  },
-  {
-    "Name": "PICKUP_WEAPON_ASSAULTRIFLE_MK2",
-    "Hash": 2173116527,
-    "Model": "W_AR_ASSAULTRIFLEMK2"
-  },
-  {
-    "Name": "PICKUP_WEAPON_CARBINERIFLE_MK2",
-    "Hash": 3185079484,
-    "Model": "W_AR_CARBINERIFLEMK2"
-  },
-  {
-    "Name": "PICKUP_WEAPON_COMBATMG_MK2",
-    "Hash": 2837437579,
-    "Model": "W_MG_COMBATMGMK2"
-  },
-  {
-    "Name": "PICKUP_WEAPON_HEAVYSNIPER_MK2",
-    "Hash": 4278878871,
-    "Model": "W_SR_HEAVYSNIPERMK2"
-  },
-  {
-    "Name": "PICKUP_WEAPON_PISTOL_MK2",
-    "Hash": 1234831722,
-    "Model": "W_PI_PISTOLMK2"
-  },
-  {
-    "Name": "PICKUP_WEAPON_SMG_MK2",
-    "Hash": 4012602256,
-    "Model": "W_SB_SMGMK2"
   },
   {
     "Name": "PICKUP_WEAPON_BULLPUPRIFLE_MK2",

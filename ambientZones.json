@@ -1,5 +1,164 @@
 [
   {
+    "Name": "iz_ba_dlc_int_01_ba_int_01_main_area",
+    "Shape": "Box",
+    "Flags0": "0xAA800525",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": -1594.55,
+      "Y": -3009.76,
+      "Z": -76.76
+    },
+    "OuterSize": {
+      "X": 26.01,
+      "Y": 18.86,
+      "Z": 6.73
+    },
+    "InnerPosition": {
+      "X": -1594.55,
+      "Y": -3009.76,
+      "Z": -76.76
+    },
+    "InnerSize": {
+      "X": 26.01,
+      "Y": 18.86,
+      "Z": 6.73
+    },
+    "AmbientEmitters": [
+      "ar_nightclub_clapping",
+      "ar_nightclub_laughs",
+      "ar_nightclub_whooping"
+    ]
+  },
+  {
+    "Name": "iz_ba_dlc_int_02_ba_int_02_room1",
+    "Shape": "Box",
+    "Flags0": "0xAA800425",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": -1507.63,
+      "Y": -3010.25,
+      "Z": -81.83
+    },
+    "OuterSize": {
+      "X": 29.86,
+      "Y": 70.02,
+      "Z": 21.62
+    },
+    "InnerPosition": {
+      "X": -1507.63,
+      "Y": -3010.25,
+      "Z": -81.83
+    },
+    "InnerSize": {
+      "X": 29.86,
+      "Y": 70.02,
+      "Z": 21.62
+    },
+    "AmbientEmitters": [
+      "ar_dlc_bat_int_02_big_fan_01"
+    ]
+  },
+  {
+    "Name": "az_dlc_btl_hktrk",
+    "Shape": "Box",
+    "Flags0": "0xAA800424",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 1103.58,
+      "Y": -3002.04,
+      "Z": -38.5
+    },
+    "OuterSize": {
+      "X": 10.0,
+      "Y": 30.0,
+      "Z": 8.0
+    },
+    "InnerPosition": {
+      "X": 1103.63,
+      "Y": -3011.0,
+      "Z": -38.5
+    },
+    "InnerSize": {
+      "X": 9.0,
+      "Y": 5.9,
+      "Z": 3.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_btl_hktrk_roomtone",
+      "ar_dlc_btl_hktrk_sfx_01",
+      "ar_dlc_btl_hktrk_sfx_02"
+    ]
+  },
+  {
+    "Name": "collision_sxiid2",
+    "Shape": "Box",
+    "Flags0": "0xAA800424",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 174.0,
+      "Y": -1003.57,
+      "Z": -98.42
+    },
+    "OuterSize": {
+      "X": 16.0,
+      "Y": 13.41,
+      "Z": 4.0
+    },
+    "InnerPosition": {
+      "X": 173.22,
+      "Y": -1003.57,
+      "Z": -98.42
+    },
+    "InnerSize": {
+      "X": 13.51,
+      "Y": 10.86,
+      "Z": 4.0
+    },
+    "AmbientEmitters": [
+      "hash_46A0DB7C",
+      "hash_101CC9D1",
+      "hash_6267E90B"
+    ]
+  },
+  {
+    "Name": "collision_9xaaceb",
+    "Shape": "Box",
+    "Flags0": "0xAA800424",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 110.52,
+      "Y": -1286.53,
+      "Z": 29.99
+    },
+    "OuterSize": {
+      "X": 19.0,
+      "Y": 19.0,
+      "Z": 5.64
+    },
+    "InnerPosition": {
+      "X": 106.04,
+      "Y": -1289.82,
+      "Z": 29.99
+    },
+    "InnerSize": {
+      "X": 12.76,
+      "Y": 15.9,
+      "Z": 5.64
+    },
+    "AmbientEmitters": [
+      "hash_966BC535",
+      "hash_1A1BA51E",
+      "hash_1E405B13",
+      "hash_1CC09790"
+    ]
+  },
+  {
     "Name": "collision_vn8xvo",
     "Shape": "Box",
     "Flags0": "0xAA800424",
@@ -33136,71 +33295,6 @@
     ]
   },
   {
-    "Name": "collision_sxiid2",
-    "Shape": "Box",
-    "Flags0": "0xAA800424",
-    "Flags1": "0x00000000",
-    "Flags2": "0x00000000",
-    "OuterPosition": {
-      "X": 174.0,
-      "Y": -1003.57,
-      "Z": -98.42
-    },
-    "OuterSize": {
-      "X": 16.0,
-      "Y": 13.41,
-      "Z": 4.0
-    },
-    "InnerPosition": {
-      "X": 173.22,
-      "Y": -1003.57,
-      "Z": -98.42
-    },
-    "InnerSize": {
-      "X": 13.51,
-      "Y": 10.86,
-      "Z": 4.0
-    },
-    "AmbientEmitters": [
-      "hash_46A0DB7C",
-      "hash_101CC9D1",
-      "hash_6267E90B"
-    ]
-  },
-  {
-    "Name": "collision_9xaaceb",
-    "Shape": "Box",
-    "Flags0": "0xAA800424",
-    "Flags1": "0x00000000",
-    "Flags2": "0x00000000",
-    "OuterPosition": {
-      "X": 110.52,
-      "Y": -1286.53,
-      "Z": 29.99
-    },
-    "OuterSize": {
-      "X": 19.0,
-      "Y": 19.0,
-      "Z": 5.64
-    },
-    "InnerPosition": {
-      "X": 106.04,
-      "Y": -1289.82,
-      "Z": 29.99
-    },
-    "InnerSize": {
-      "X": 12.76,
-      "Y": 15.9,
-      "Z": 5.64
-    },
-    "AmbientEmitters": [
-      "hash_966BC535",
-      "hash_1A1BA51E",
-      "hash_1E405B13",
-      "hash_1CC09790"
-    ]
-  },
-  {
     "Name": "az_dmod_trailer_01",
     "Shape": "Box",
     "Flags0": "0xAA800420",
@@ -38846,100 +38940,6 @@
       "dlc_xm_heist_aql_barge_engine",
       "dlc_xm_heist_aql_barge_high_creaks",
       "dlc_xm_heist_aql_barge_hull_buckles"
-    ]
-  },
-  {
-    "Name": "iz_ba_dlc_int_01_ba_int_01_main_area",
-    "Shape": "Box",
-    "Flags0": "0xAA800525",
-    "Flags1": "0x00000000",
-    "Flags2": "0x00000000",
-    "OuterPosition": {
-      "X": -1594.55,
-      "Y": -3009.76,
-      "Z": -76.76
-    },
-    "OuterSize": {
-      "X": 26.01,
-      "Y": 18.86,
-      "Z": 6.73
-    },
-    "InnerPosition": {
-      "X": -1594.55,
-      "Y": -3009.76,
-      "Z": -76.76
-    },
-    "InnerSize": {
-      "X": 26.01,
-      "Y": 18.86,
-      "Z": 6.73
-    },
-    "AmbientEmitters": [
-      "ar_nightclub_clapping",
-      "ar_nightclub_laughs",
-      "ar_nightclub_whooping"
-    ]
-  },
-  {
-    "Name": "iz_ba_dlc_int_02_ba_int_02_room1",
-    "Shape": "Box",
-    "Flags0": "0xAA800425",
-    "Flags1": "0x00000000",
-    "Flags2": "0x00000000",
-    "OuterPosition": {
-      "X": -1507.63,
-      "Y": -3010.25,
-      "Z": -81.83
-    },
-    "OuterSize": {
-      "X": 29.86,
-      "Y": 70.02,
-      "Z": 21.62
-    },
-    "InnerPosition": {
-      "X": -1507.63,
-      "Y": -3010.25,
-      "Z": -81.83
-    },
-    "InnerSize": {
-      "X": 29.86,
-      "Y": 70.02,
-      "Z": 21.62
-    },
-    "AmbientEmitters": [
-      "ar_dlc_bat_int_02_big_fan_01"
-    ]
-  },
-  {
-    "Name": "az_dlc_btl_hktrk",
-    "Shape": "Box",
-    "Flags0": "0xAA800424",
-    "Flags1": "0x00000000",
-    "Flags2": "0x00000000",
-    "OuterPosition": {
-      "X": 1103.58,
-      "Y": -3002.04,
-      "Z": -38.5
-    },
-    "OuterSize": {
-      "X": 10.0,
-      "Y": 30.0,
-      "Z": 8.0
-    },
-    "InnerPosition": {
-      "X": 1103.63,
-      "Y": -3011.0,
-      "Z": -38.5
-    },
-    "InnerSize": {
-      "X": 9.0,
-      "Y": 5.9,
-      "Z": 3.0
-    },
-    "AmbientEmitters": [
-      "ar_dlc_btl_hktrk_roomtone",
-      "ar_dlc_btl_hktrk_sfx_01",
-      "ar_dlc_btl_hktrk_sfx_02"
     ]
   },
   {

@@ -230,6 +230,41 @@
     "Model": "PROP_DRUG_PACKAGE"
   },
   {
+    "Name": "PICKUP_PORTABLE_PACKAGE_LARGE_RADIUS",
+    "Hash": 1651898027,
+    "Model": "Prop_Drug_package_02"
+  },
+  {
+    "Name": "PICKUP_PORTABLE_CRATE_UNFIXED_INCAR",
+    "Hash": 1263688126,
+    "Model": "PROP_DRUG_PACKAGE"
+  },
+  {
+    "Name": "PICKUP_PORTABLE_CRATE_UNFIXED_INAIRVEHICLE_WITH_PASSENGERS",
+    "Hash": 2431639355,
+    "Model": "PROP_DRUG_PACKAGE"
+  },
+  {
+    "Name": "PICKUP_PORTABLE_CRATE_UNFIXED_INCAR_WITH_PASSENGERS",
+    "Hash": 79909481,
+    "Model": "PROP_DRUG_PACKAGE"
+  },
+  {
+    "Name": "PICKUP_PORTABLE_CRATE_FIXED_INCAR_WITH_PASSENGERS",
+    "Hash": 2689501965,
+    "Model": "PROP_DRUG_PACKAGE"
+  },
+  {
+    "Name": "PICKUP_PORTABLE_CRATE_FIXED_INCAR_SMALL",
+    "Hash": 2817147086,
+    "Model": "PROP_DRUG_PACKAGE"
+  },
+  {
+    "Name": "PICKUP_PORTABLE_CRATE_UNFIXED_INCAR_SMALL",
+    "Hash": 3285027633,
+    "Model": "PROP_DRUG_PACKAGE"
+  },
+  {
     "Name": "PICKUP_PORTABLE_CRATE_UNFIXED_LOW_GLOW",
     "Hash": 2499414878,
     "Model": "PROP_DRUG_PACKAGE"
@@ -340,6 +375,11 @@
     "Model": "PROP_LD_HEALTH_PACK"
   },
   {
+    "Name": "PICKUP_VEHICLE_CUSTOM_SCRIPT_NO_ROTATE",
+    "Hash": 83435908,
+    "Model": "PROP_LD_HEALTH_PACK"
+  },
+  {
     "Name": "PICKUP_VEHICLE_CUSTOM_SCRIPT_LOW_GLOW",
     "Hash": 1104334678,
     "Model": "PROP_LD_HEALTH_PACK"
@@ -408,46 +448,6 @@
     "Name": "PICKUP_AMMO_MINIGUN",
     "Hash": 4065984953,
     "Model": "prop_ld_ammo_pack_02"
-  },
-  {
-    "Name": "PICKUP_PORTABLE_PACKAGE_LARGE_RADIUS",
-    "Hash": 1651898027,
-    "Model": "Prop_Drug_package_02"
-  },
-  {
-    "Name": "PICKUP_PORTABLE_CRATE_UNFIXED_INCAR",
-    "Hash": 1263688126,
-    "Model": "PROP_DRUG_PACKAGE"
-  },
-  {
-    "Name": "PICKUP_PORTABLE_CRATE_UNFIXED_INAIRVEHICLE_WITH_PASSENGERS",
-    "Hash": 2431639355,
-    "Model": "PROP_DRUG_PACKAGE"
-  },
-  {
-    "Name": "PICKUP_PORTABLE_CRATE_UNFIXED_INCAR_WITH_PASSENGERS",
-    "Hash": 79909481,
-    "Model": "PROP_DRUG_PACKAGE"
-  },
-  {
-    "Name": "PICKUP_PORTABLE_CRATE_FIXED_INCAR_WITH_PASSENGERS",
-    "Hash": 2689501965,
-    "Model": "PROP_DRUG_PACKAGE"
-  },
-  {
-    "Name": "PICKUP_PORTABLE_CRATE_FIXED_INCAR_SMALL",
-    "Hash": 2817147086,
-    "Model": "PROP_DRUG_PACKAGE"
-  },
-  {
-    "Name": "PICKUP_PORTABLE_CRATE_UNFIXED_INCAR_SMALL",
-    "Hash": 3285027633,
-    "Model": "PROP_DRUG_PACKAGE"
-  },
-  {
-    "Name": "PICKUP_VEHICLE_CUSTOM_SCRIPT_NO_ROTATE",
-    "Hash": 83435908,
-    "Model": "PROP_LD_HEALTH_PACK"
   },
   {
     "Name": "PICKUP_WEAPON_BOTTLE",

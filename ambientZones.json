@@ -1,5 +1,70 @@
 [
   {
+    "Name": "collision_sxiid2",
+    "Shape": "Box",
+    "Flags0": "0xAA800424",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 174.0,
+      "Y": -1003.57,
+      "Z": -98.42
+    },
+    "OuterSize": {
+      "X": 16.0,
+      "Y": 13.41,
+      "Z": 4.0
+    },
+    "InnerPosition": {
+      "X": 173.22,
+      "Y": -1003.57,
+      "Z": -98.42
+    },
+    "InnerSize": {
+      "X": 13.51,
+      "Y": 10.86,
+      "Z": 4.0
+    },
+    "AmbientEmitters": [
+      "hash_46A0DB7C",
+      "hash_101CC9D1",
+      "hash_6267E90B"
+    ]
+  },
+  {
+    "Name": "collision_9xaaceb",
+    "Shape": "Box",
+    "Flags0": "0xAA800424",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 110.52,
+      "Y": -1286.53,
+      "Z": 29.99
+    },
+    "OuterSize": {
+      "X": 19.0,
+      "Y": 19.0,
+      "Z": 5.64
+    },
+    "InnerPosition": {
+      "X": 106.04,
+      "Y": -1289.82,
+      "Z": 29.99
+    },
+    "InnerSize": {
+      "X": 12.76,
+      "Y": 15.9,
+      "Z": 5.64
+    },
+    "AmbientEmitters": [
+      "hash_966BC535",
+      "hash_1A1BA51E",
+      "hash_1E405B13",
+      "hash_1CC09790"
+    ]
+  },
+  {
     "Name": "iz_ba_dlc_int_01_ba_int_01_main_area",
     "Shape": "Box",
     "Flags0": "0xAA800525",
@@ -91,71 +156,6 @@
       "ar_dlc_btl_hktrk_roomtone",
       "ar_dlc_btl_hktrk_sfx_01",
       "ar_dlc_btl_hktrk_sfx_02"
-    ]
-  },
-  {
-    "Name": "collision_sxiid2",
-    "Shape": "Box",
-    "Flags0": "0xAA800424",
-    "Flags1": "0x00000000",
-    "Flags2": "0x00000000",
-    "OuterPosition": {
-      "X": 174.0,
-      "Y": -1003.57,
-      "Z": -98.42
-    },
-    "OuterSize": {
-      "X": 16.0,
-      "Y": 13.41,
-      "Z": 4.0
-    },
-    "InnerPosition": {
-      "X": 173.22,
-      "Y": -1003.57,
-      "Z": -98.42
-    },
-    "InnerSize": {
-      "X": 13.51,
-      "Y": 10.86,
-      "Z": 4.0
-    },
-    "AmbientEmitters": [
-      "hash_46A0DB7C",
-      "hash_101CC9D1",
-      "hash_6267E90B"
-    ]
-  },
-  {
-    "Name": "collision_9xaaceb",
-    "Shape": "Box",
-    "Flags0": "0xAA800424",
-    "Flags1": "0x00000000",
-    "Flags2": "0x00000000",
-    "OuterPosition": {
-      "X": 110.52,
-      "Y": -1286.53,
-      "Z": 29.99
-    },
-    "OuterSize": {
-      "X": 19.0,
-      "Y": 19.0,
-      "Z": 5.64
-    },
-    "InnerPosition": {
-      "X": 106.04,
-      "Y": -1289.82,
-      "Z": 29.99
-    },
-    "InnerSize": {
-      "X": 12.76,
-      "Y": 15.9,
-      "Z": 5.64
-    },
-    "AmbientEmitters": [
-      "hash_966BC535",
-      "hash_1A1BA51E",
-      "hash_1E405B13",
-      "hash_1CC09790"
     ]
   },
   {
@@ -33292,6 +33292,71 @@
     },
     "AmbientEmitters": [
       "hash_F9A0513F"
+    ]
+  },
+  {
+    "Name": "collision_sxiid2",
+    "Shape": "Box",
+    "Flags0": "0xAA800424",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 174.0,
+      "Y": -1003.57,
+      "Z": -98.42
+    },
+    "OuterSize": {
+      "X": 16.0,
+      "Y": 13.41,
+      "Z": 4.0
+    },
+    "InnerPosition": {
+      "X": 173.22,
+      "Y": -1003.57,
+      "Z": -98.42
+    },
+    "InnerSize": {
+      "X": 13.51,
+      "Y": 10.86,
+      "Z": 4.0
+    },
+    "AmbientEmitters": [
+      "hash_46A0DB7C",
+      "hash_101CC9D1",
+      "hash_6267E90B"
+    ]
+  },
+  {
+    "Name": "collision_9xaaceb",
+    "Shape": "Box",
+    "Flags0": "0xAA800424",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 110.52,
+      "Y": -1286.53,
+      "Z": 29.99
+    },
+    "OuterSize": {
+      "X": 19.0,
+      "Y": 19.0,
+      "Z": 5.64
+    },
+    "InnerPosition": {
+      "X": 106.04,
+      "Y": -1289.82,
+      "Z": 29.99
+    },
+    "InnerSize": {
+      "X": 12.76,
+      "Y": 15.9,
+      "Z": 5.64
+    },
+    "AmbientEmitters": [
+      "hash_966BC535",
+      "hash_1A1BA51E",
+      "hash_1E405B13",
+      "hash_1CC09790"
     ]
   },
   {

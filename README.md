@@ -27,7 +27,7 @@ If you are in search for an easy way to browse those GTA V data ingame, feel fre
 - **Vehicle Mod Kits & Mods** (vehicleModKits.json) **409** vehicle mod kit infos with **46054** mods in total (Usable with SET_VEHICLE_MOD_KIT,SET_VEHICLE_LIVERY & SET_VEHICLE_MOD  natives)
 - **Vehicles** (vehicles.json) **702** vehicle infos in total (Usable with VEHICLE natives)
 - **AnimpostFX names** (animPostFxNamesCompact.json) **149** animpostfx names in total (Usable with ANIMPOSTFX natives)
-- **Ped Component Variations** (pedComponentVariations.json) **20645** component variations & **2954** ped props from a total of **60** ped component variation collections (Usable with COMPONENT VARIATION & PED PROP natives)
+- **Ped Component Variations** (pedComponentVariations.json) **23066** component variations & **3302** ped props from a total of **62** ped component variation collections (Usable with COMPONENT VARIATION & PED PROP natives)
 - **Ped Apparel Restriction tag names** (animPostFxNamesCompact.json) **377** ped apparel restriction tags in total (Usable with PED RESTRICTION natives)
 - **Waypoint recording names** (waypointRecordings.json) **791** waypoint recording infos in total (Usable with WAYPOINT RECORDING natives)
 - **Garages** (garages.json) **32** garage infos in total (Usable with GARAGE natives)

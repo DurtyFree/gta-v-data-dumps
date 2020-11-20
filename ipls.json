@@ -1,7 +1,7 @@
 [
   {
     "Name": "prologue01",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": 4729.80859,
       "Y": -4553.80469,
@@ -29,7 +29,7 @@
   },
   {
     "Name": "prologue01c",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": 4183.72754,
       "Y": -5077.89453,
@@ -57,7 +57,7 @@
   },
   {
     "Name": "prologue01d",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": 3791.77441,
       "Y": -4463.258,
@@ -85,7 +85,7 @@
   },
   {
     "Name": "prologue01e",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": 3912.37549,
       "Y": -5196.575,
@@ -113,7 +113,7 @@
   },
   {
     "Name": "prologue01f",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": 4089.58545,
       "Y": -5028.855,
@@ -141,7 +141,7 @@
   },
   {
     "Name": "prologue01g",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": 4300.53564,
       "Y": -4926.21,
@@ -169,7 +169,7 @@
   },
   {
     "Name": "prologue01h",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": 4541.622,
       "Y": -5080.377,
@@ -197,7 +197,7 @@
   },
   {
     "Name": "prologue01i",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": 4833.30957,
       "Y": -5141.533,
@@ -225,7 +225,7 @@
   },
   {
     "Name": "prologue01j",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": 5096.56055,
       "Y": -5153.801,
@@ -253,7 +253,7 @@
   },
   {
     "Name": "prologue01k",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": 4363.73926,
       "Y": -5257.009,
@@ -281,7 +281,7 @@
   },
   {
     "Name": "prologue01z",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": 4674.35742,
       "Y": -4605.85254,
@@ -309,7 +309,7 @@
   },
   {
     "Name": "prologue02",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": 5431.428,
       "Y": -5264.537,
@@ -337,7 +337,7 @@
   },
   {
     "Name": "prologue03",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": 2942.88574,
       "Y": -4567.9165,
@@ -365,7 +365,7 @@
   },
   {
     "Name": "prologue03_grv_cov",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": 3260.82,
       "Y": -4573.427,
@@ -393,7 +393,7 @@
   },
   {
     "Name": "prologue03_grv_dug",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": 3260.02246,
       "Y": -4573.36865,
@@ -421,7 +421,7 @@
   },
   {
     "Name": "prologue03_grv_fun",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": 3260.87939,
       "Y": -4573.617,
@@ -449,7 +449,7 @@
   },
   {
     "Name": "prologue03b",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": 3236.37061,
       "Y": -4638.471,
@@ -477,7 +477,7 @@
   },
   {
     "Name": "prologue_grv_torch",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": 3258.88916,
       "Y": -4574.53955,
@@ -505,7 +505,7 @@
   },
   {
     "Name": "des_protree_end",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": 3530.17261,
       "Y": -4719.406,
@@ -533,7 +533,7 @@
   },
   {
     "Name": "des_protree_start",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": 3530.17261,
       "Y": -4717.54736,
@@ -561,7 +561,7 @@
   },
   {
     "Name": "prologue04",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": 3534.395,
       "Y": -4739.34131,
@@ -589,7 +589,7 @@
   },
   {
     "Name": "prologue04_cover",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": 3531.38062,
       "Y": -4723.09668,
@@ -617,7 +617,7 @@
   },
   {
     "Name": "prologue04b",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": 3599.804,
       "Y": -4774.21533,
@@ -645,7 +645,7 @@
   },
   {
     "Name": "prologue05",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": 2960.9375,
       "Y": -4921.672,
@@ -673,7 +673,7 @@
   },
   {
     "Name": "prologue05b",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": 3094.79443,
       "Y": -4942.15527,
@@ -701,7 +701,7 @@
   },
   {
     "Name": "prologue06",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": 5287.42334,
       "Y": -5301.328,
@@ -729,7 +729,7 @@
   },
   {
     "Name": "prologue06_int",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": 5306.298,
       "Y": -5194.095,
@@ -766,7 +766,7 @@
   },
   {
     "Name": "prologue06_pannel",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": 5362.73975,
       "Y": -5180.64258,
@@ -794,7 +794,7 @@
   },
   {
     "Name": "prologue06b",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": 5377.709,
       "Y": -5189.164,
@@ -822,7 +822,7 @@
   },
   {
     "Name": "prologue_m2_door",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": 5320.821,
       "Y": -5188.565,
@@ -850,7 +850,7 @@
   },
   {
     "Name": "prologue_occl",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": 4136.08,
       "Y": -4953.207,
@@ -878,7 +878,7 @@
   },
   {
     "Name": "prologuerd",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": 4592.711,
       "Y": -5059.932,
@@ -906,7 +906,7 @@
   },
   {
     "Name": "prologuerdb",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": 4382.57959,
       "Y": -5047.47852,
@@ -958,7 +958,7 @@
   },
   {
     "Name": "v_tunnel_hole",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": 18.8951931,
       "Y": -638.71875,
@@ -995,7 +995,7 @@
   },
   {
     "Name": "v_tunnel_hole_swap",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": 18.8951817,
       "Y": -638.71875,
@@ -2060,7 +2060,7 @@
   },
   {
     "Name": "ufo",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": 218.403076,
       "Y": 3508.96045,
@@ -2088,7 +2088,7 @@
   },
   {
     "Name": "ufo_eye",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": 501.528748,
       "Y": 5604.02539,
@@ -2832,7 +2832,7 @@
   },
   {
     "Name": "cargoship",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": -154.768951,
       "Y": -2364.578,
@@ -2860,7 +2860,7 @@
   },
   {
     "Name": "dockcrane1",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": 889.397766,
       "Y": -2910.87842,
@@ -2884,7 +2884,7 @@
   },
   {
     "Name": "pcranecont",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": -53.6981735,
       "Y": -2415.413,
@@ -2908,7 +2908,7 @@
   },
   {
     "Name": "po1_01_race",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": 113.048584,
       "Y": -2945.246,
@@ -2932,7 +2932,7 @@
   },
   {
     "Name": "po1_08_mapcrane",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": 312.970581,
       "Y": -2974.20044,
@@ -2956,7 +2956,7 @@
   },
   {
     "Name": "po1_08_missioncrane",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": 327.1183,
       "Y": -2974.69043,
@@ -2980,7 +2980,7 @@
   },
   {
     "Name": "po1_08_sub_waterplane",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": 356.0489,
       "Y": -2928.57227,
@@ -3004,7 +3004,7 @@
   },
   {
     "Name": "sunk_ship_fire",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": -226.330688,
       "Y": -2338.02563,
@@ -3032,7 +3032,7 @@
   },
   {
     "Name": "sunkcargoship",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": -173.113663,
       "Y": -2318.69482,
@@ -3060,7 +3060,7 @@
   },
   {
     "Name": "talklaugh_pipe",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": -68.402565,
       "Y": -2531.55273,
@@ -3539,7 +3539,7 @@
   },
   {
     "Name": "ap1_03_bbrd_dcl",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": -865.7932,
       "Y": -2274.258,
@@ -3563,7 +3563,7 @@
   },
   {
     "Name": "ap1_04_rain",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": -1049.02051,
       "Y": -2111.21045,
@@ -3587,7 +3587,7 @@
   },
   {
     "Name": "ap1_04_triaf01",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": -1250.49438,
       "Y": -2042.97266,
@@ -4092,7 +4092,7 @@
   },
   {
     "Name": "kt_carwash",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": -700.027,
       "Y": -933.6278,
@@ -4120,7 +4120,7 @@
   },
   {
     "Name": "kt_carwash_nobrush",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": -700.0276,
       "Y": -933.766357,
@@ -5157,7 +5157,7 @@
   },
   {
     "Name": "ch1_01_day",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": -2477.83154,
       "Y": -320.4541,
@@ -5181,7 +5181,7 @@
   },
   {
     "Name": "ch1_01_evening",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": -2963.29028,
       "Y": -4.77609444,
@@ -5205,7 +5205,7 @@
   },
   {
     "Name": "ch1_01_morning",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": -2915.105,
       "Y": -16.4040642,
@@ -5231,7 +5231,7 @@
   },
   {
     "Name": "ch1_01_night",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": -2914.1377,
       "Y": -13.1469727,
@@ -5257,7 +5257,7 @@
   },
   {
     "Name": "ch1_01_props_night",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": -2767.57275,
       "Y": -61.74009,
@@ -5281,7 +5281,7 @@
   },
   {
     "Name": "ch1_02_closed",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": -3102.10254,
       "Y": 349.028137,
@@ -5309,7 +5309,7 @@
   },
   {
     "Name": "ch1_02_fruitstall",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": -3026.33716,
       "Y": 369.998169,
@@ -5333,7 +5333,7 @@
   },
   {
     "Name": "ch1_02_open",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": -3101.145,
       "Y": 349.956757,
@@ -5361,7 +5361,7 @@
   },
   {
     "Name": "ch1_07_triaf03",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": -2304.081,
       "Y": 447.127869,
@@ -5385,7 +5385,7 @@
   },
   {
     "Name": "ch1_12_props_day",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": -3268.21387,
       "Y": 1110.26831,
@@ -5411,7 +5411,7 @@
   },
   {
     "Name": "ch1_12_props_night",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": -3254.03857,
       "Y": 1111.12573,
@@ -5437,7 +5437,7 @@
   },
   {
     "Name": "koriztempwalls",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": -2195.35669,
       "Y": 228.466034,
@@ -5461,7 +5461,7 @@
   },
   {
     "Name": "mic3_chopper_debris",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": -2237.292,
       "Y": 257.03064,
@@ -5485,7 +5485,7 @@
   },
   {
     "Name": "ch2_01_party",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": -935.9645,
       "Y": 1725.182,
@@ -5509,7 +5509,7 @@
   },
   {
     "Name": "ch2_01c_stall",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": -1552.77881,
       "Y": 1373.25366,
@@ -5533,7 +5533,7 @@
   },
   {
     "Name": "ch2_11_props_boombox01",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": -1377.90039,
       "Y": 496.453125,
@@ -5557,7 +5557,7 @@
   },
   {
     "Name": "ch2_11_props_boombox02",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": -1151.802,
       "Y": 625.4391,
@@ -5581,7 +5581,7 @@
   },
   {
     "Name": "chophillskennel",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": 19.6437378,
       "Y": 537.227966,
@@ -5607,7 +5607,7 @@
   },
   {
     "Name": "des_stilthouse_imapend",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": -1022.19379,
       "Y": 650.682068,
@@ -5635,7 +5635,7 @@
   },
   {
     "Name": "des_stilthouse_imapstart",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": -1022.67987,
       "Y": 662.6205,
@@ -5663,7 +5663,7 @@
   },
   {
     "Name": "des_stilthouse_rebuild",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": -1019.73621,
       "Y": 671.7334,
@@ -5691,7 +5691,7 @@
   },
   {
     "Name": "fos_tvstage",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": 684.846741,
       "Y": 577.091,
@@ -5717,7 +5717,7 @@
   },
   {
     "Name": "linvader",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": 683.5928,
       "Y": 570.120239,
@@ -5743,7 +5743,7 @@
   },
   {
     "Name": "paper1_rcm",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": -1459.03564,
       "Y": 485.867676,
@@ -5769,7 +5769,7 @@
   },
   {
     "Name": "paper1_rcm_alt",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": -1459.57,
       "Y": 485.139618,
@@ -6986,7 +6986,7 @@
   },
   {
     "Name": "des_farmhs_end_occl",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": 2445.17773,
       "Y": 4974.66,
@@ -7014,7 +7014,7 @@
   },
   {
     "Name": "des_farmhs_start_occl",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": 2442.58936,
       "Y": 4974.70752,
@@ -8133,7 +8133,7 @@
   },
   {
     "Name": "cs5_04_mazebillboardgraffiti",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": 2719.43164,
       "Y": 3183.85059,
@@ -8161,7 +8161,7 @@
   },
   {
     "Name": "cs5_4_trains",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": 2762.09155,
       "Y": 2821.70361,
@@ -8185,7 +8185,7 @@
   },
   {
     "Name": "cs5_roads_ronoilgraffiti",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": 2111.39258,
       "Y": 3081.24829,
@@ -8213,7 +8213,7 @@
   },
   {
     "Name": "ld_rail_01_track",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": 2627.55713,
       "Y": 2950.48218,
@@ -8239,7 +8239,7 @@
   },
   {
     "Name": "ld_rail_02_track",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Position": {
       "X": 2626.563,
       "Y": 2951.143,

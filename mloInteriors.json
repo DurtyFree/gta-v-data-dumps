@@ -2,7 +2,7 @@
   {
     "Name": "v_cashdepot",
     "FilePath": "x64c.rpf\\levels\\gta5\\_prologue\\prologueint.rpf\\prologueint.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64c.rpf\\levels\\gta5\\_prologue\\plg_06.rpf\\prologue06_int.ymap",
@@ -18,7 +18,7 @@
   {
     "Name": "ap1_01_b_lsiaterm_subway",
     "FilePath": "x64l.rpf\\levels\\gta5\\_cityw\\airport_01\\airport_metadata.rpf\\ap1_01_b_interior_ap1_01_b_lsiaterm_subway.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_cityw\\airport_01\\airport_metadata.rpf\\hei_ap1_01_b_interior_ap1_01_b_lsiaterm_subway.ymap",
@@ -34,7 +34,7 @@
   {
     "Name": "v_hanger",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_60.rpf\\v_int_60.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_cityw\\airport_01\\airport_metadata.rpf\\hei_ap1_01_b_interior_v_hanger_milo_.ymap",
@@ -50,7 +50,7 @@
   {
     "Name": "v_ap1_01_d_int",
     "FilePath": "x64l.rpf\\levels\\gta5\\_cityw\\airport_01\\airport_metadata.rpf\\ap1_01_d_interior_v_ap1_01_d_int.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_cityw\\airport_01\\airport_metadata.rpf\\hei_ap1_01_d_interior_v_ap1_01_d_int.ymap",
@@ -66,7 +66,7 @@
   {
     "Name": "ap1_03_lisapark_subway",
     "FilePath": "x64l.rpf\\levels\\gta5\\_cityw\\airport_01\\airport_metadata.rpf\\ap1_03_interior_ap1_03_lisapark_subway.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_cityw\\airport_01\\airport_metadata.rpf\\hei_ap1_03_interior_ap1_03_lisapark_subway.ymap",
@@ -82,7 +82,7 @@
   {
     "Name": "v_58_sol_office",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_58.rpf\\v_int_58.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_cityw\\beverly_01\\beverly_metadata.rpf\\hei_bh1_03_interior_v_58_sol_office_milo_.ymap",
@@ -98,7 +98,7 @@
   {
     "Name": "v_hairdresser",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_37.rpf\\v_int_37.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_cityw\\beverly_01\\beverly_metadata.rpf\\hei_bh1_13_interior_v_hairdresser_milo_.ymap",
@@ -114,7 +114,7 @@
   {
     "Name": "v_michael_garage",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_44.rpf\\v_int_44.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_cityw\\beverly_01\\beverly_metadata.rpf\\hei_bh1_48_interior_v_michael_garage_milo_.ymap",
@@ -130,7 +130,7 @@
   {
     "Name": "v_michael",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_44.rpf\\v_int_44.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_cityw\\beverly_01\\beverly_metadata.rpf\\hei_bh1_48_interior_v_michael_milo_.ymap",
@@ -146,7 +146,7 @@
   {
     "Name": "bh1_rd2_portola_subway",
     "FilePath": "x64l.rpf\\levels\\gta5\\_cityw\\beverly_01\\beverly_metadata.rpf\\bh1_rd_interior_bh1_rd2_portola_subway.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_cityw\\beverly_01\\beverly_metadata.rpf\\hei_bh1_rd_interior_bh1_rd2_portola_subway.ymap",
@@ -162,7 +162,7 @@
   {
     "Name": "v_faceoffice",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_9.rpf\\v_int_9.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\patchday2ng\\dlc.rpf\\x64\\levels\\gta5\\_cityw\\beverly_01\\beverly_metadata.rpf\\facelobby.ymap",
@@ -178,7 +178,7 @@
   {
     "Name": "v_jewel2",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_23.rpf\\v_int_23.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\patchday2ng\\dlc.rpf\\x64\\levels\\gta5\\_cityw\\beverly_01\\beverly_metadata.rpf\\post_hiest_unload.ymap",
@@ -194,7 +194,7 @@
   {
     "Name": "v_refit",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_47.rpf\\v_int_47.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\patchday2ng\\dlc.rpf\\x64\\levels\\gta5\\_cityw\\beverly_01\\beverly_metadata.rpf\\refit_unload.ymap",
@@ -210,7 +210,7 @@
   {
     "Name": "kt1_03_carpark_int",
     "FilePath": "x64l.rpf\\levels\\gta5\\_cityw\\koreatown_01\\koreatown_metadata.rpf\\kt1_03_interior_kt1_03_carpark_int.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_cityw\\koreatown_01\\koreatown_metadata.rpf\\hei_kt1_03_interior_kt1_03_carpark_int.ymap",
@@ -226,7 +226,7 @@
   {
     "Name": "kt1_04_roadtunnel_int",
     "FilePath": "x64l.rpf\\levels\\gta5\\_cityw\\koreatown_01\\koreatown_metadata.rpf\\kt1_04_interior_kt1_04_roadtunnel_int.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_cityw\\koreatown_01\\koreatown_metadata.rpf\\hei_kt1_04_interior_kt1_04_roadtunnel_int.ymap",
@@ -242,7 +242,7 @@
   {
     "Name": "kt1_09_seoul_subway",
     "FilePath": "x64l.rpf\\levels\\gta5\\_cityw\\koreatown_01\\koreatown_metadata.rpf\\kt1_09_interior_kt1_09_seoul_subway.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_cityw\\koreatown_01\\koreatown_metadata.rpf\\hei_kt1_09_interior_kt1_09_seoul_subway.ymap",
@@ -258,7 +258,7 @@
   {
     "Name": "v_recycle",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_13.rpf\\v_int_13.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\patchday2ng\\dlc.rpf\\x64\\levels\\gta5\\_cityw\\sanpedro_01\\sanpedro_metadata.rpf\\sp1_03_interior_v_recycle_milo_.ymap",
@@ -274,7 +274,7 @@
   {
     "Name": "v_stadium",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_62.rpf\\v_int_62.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\patchday2ng\\dlc.rpf\\x64\\levels\\gta5\\_cityw\\sanpedro_01\\sanpedro_metadata.rpf\\sp1_10_real_interior.ymap",
@@ -290,7 +290,7 @@
   {
     "Name": "sm_15_delperro_subway",
     "FilePath": "x64m.rpf\\levels\\gta5\\_cityw\\santamon_01\\santamon_metadata.rpf\\sm_15_interior_sm_15_delperro_subway.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_cityw\\santamon_01\\santamon_metadata.rpf\\hei_sm_15_interior_sm_15_delperro_subway.ymap",
@@ -306,7 +306,7 @@
   {
     "Name": "v_bahama",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_4.rpf\\v_int_4.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_cityw\\santamon_01\\santamon_metadata.rpf\\hei_sm_16_interior_v_bahama_milo_.ymap",
@@ -322,7 +322,7 @@
   {
     "Name": "sm20_tun1",
     "FilePath": "x64m.rpf\\levels\\gta5\\_cityw\\santamon_01\\santamon_metadata.rpf\\sm_20_interior_sm20_tun1.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_cityw\\santamon_01\\santamon_metadata.rpf\\hei_sm_20_interior_sm20_tun1.ymap",
@@ -338,7 +338,7 @@
   {
     "Name": "sm20_tun2",
     "FilePath": "x64m.rpf\\levels\\gta5\\_cityw\\santamon_01\\santamon_metadata.rpf\\sm_20_interior_sm20_tun2.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_cityw\\santamon_01\\santamon_metadata.rpf\\hei_sm_20_interior_sm20_tun2.ymap",
@@ -354,7 +354,7 @@
   {
     "Name": "sm20_tun4",
     "FilePath": "x64m.rpf\\levels\\gta5\\_cityw\\santamon_01\\santamon_metadata.rpf\\sm_20_interior_sm20_tun4.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_cityw\\santamon_01\\santamon_metadata.rpf\\hei_sm_20_interior_sm20_tun4.ymap",
@@ -370,7 +370,7 @@
   {
     "Name": "v_psycheoffice",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_65.rpf\\v_int_65.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_cityw\\santamon_01\\santamon_metadata.rpf\\hei_sm_27_interior_v_psycheoffice_milo_.ymap",
@@ -386,7 +386,7 @@
   {
     "Name": "v_trevors",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_61.rpf\\v_int_61.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_cityw\\venice_01\\venice_metadata.rpf\\hei_vb_30_interior_v_trevors_milo_.ymap",
@@ -402,7 +402,7 @@
   {
     "Name": "vb_33_garage",
     "FilePath": "x64m.rpf\\levels\\gta5\\_cityw\\venice_01\\venice_metadata.rpf\\vb_33_interior_vb_33_garage.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_cityw\\venice_01\\venice_metadata.rpf\\hei_vb_33_interior_vb_33_garage.ymap",
@@ -418,7 +418,7 @@
   {
     "Name": "v_rockclub",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_64.rpf\\v_int_64.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\x64\\levels\\gta5\\_citye\\sunset\\sunset_metadata.rpf\\apa_ss1_11_interior_v_rockclub_milo_.ymap",
@@ -434,7 +434,7 @@
   {
     "Name": "vbca_tunnel1",
     "FilePath": "x64m.rpf\\levels\\gta5\\_cityw\\venice_01\\venice_metadata.rpf\\vb_ca_interior_vbca_tunnel1.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_cityw\\venice_01\\venice_metadata.rpf\\hei_vb_ca_interior_vbca_tunnel1.ymap",
@@ -450,7 +450,7 @@
   {
     "Name": "v_janitor",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_3.rpf\\v_int_3.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\x64\\levels\\gta5\\_citye\\sunset\\sunset_metadata.rpf\\apa_ss1_05_interior_v_janitor_milo_.ymap",
@@ -466,7 +466,7 @@
   {
     "Name": "bt1_04_carpark",
     "FilePath": "x64l.rpf\\levels\\gta5\\_citye\\sunset\\sunset_metadata.rpf\\bt1_04_interior_bt1_04_carpark.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\x64\\levels\\gta5\\_citye\\sunset\\sunset_metadata.rpf\\apa_bt1_04_interior_bt1_04_carpark.ymap",
@@ -482,7 +482,7 @@
   {
     "Name": "v_gen_liquor",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_10.rpf\\v_int_10.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_citye\\indust_02\\indust_02_metadata.rpf\\hei_id2_16_interior_v_gen_liquor_milo_.ymap",
@@ -530,7 +530,7 @@
   {
     "Name": "id2_21_a_tun1",
     "FilePath": "x64j.rpf\\levels\\gta5\\_citye\\indust_02\\indust_02_metadata.rpf\\id2_21_a_interior_id2_21_a_tun1.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_citye\\indust_02\\indust_02_metadata.rpf\\hei_id2_21_a_interior_id2_21_a_tun1.ymap",
@@ -546,7 +546,7 @@
   {
     "Name": "id2_21_a_tun2",
     "FilePath": "x64j.rpf\\levels\\gta5\\_citye\\indust_02\\indust_02_metadata.rpf\\id2_21_a_interior_id2_21_a_tun2.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_citye\\indust_02\\indust_02_metadata.rpf\\hei_id2_21_a_interior_id2_21_a_tun2.ymap",
@@ -562,7 +562,7 @@
   {
     "Name": "id2_21_a_tun3",
     "FilePath": "x64j.rpf\\levels\\gta5\\_citye\\indust_02\\indust_02_metadata.rpf\\id2_21_a_interior_id2_21_a_tun3.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_citye\\indust_02\\indust_02_metadata.rpf\\hei_id2_21_a_interior_id2_21_a_tun3.ymap",
@@ -578,7 +578,7 @@
   {
     "Name": "id2_21_a_tun4",
     "FilePath": "x64j.rpf\\levels\\gta5\\_citye\\indust_02\\indust_02_metadata.rpf\\id2_21_a_interior_id2_21_a_tun4.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_citye\\indust_02\\indust_02_metadata.rpf\\hei_id2_21_a_interior_id2_21_a_tun4.ymap",
@@ -594,7 +594,7 @@
   {
     "Name": "id2_21_a_tun5",
     "FilePath": "x64j.rpf\\levels\\gta5\\_citye\\indust_02\\indust_02_metadata.rpf\\id2_21_a_interior_id2_21_a_tun5.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_citye\\indust_02\\indust_02_metadata.rpf\\hei_id2_21_a_interior_id2_21_a_tun5.ymap",
@@ -610,7 +610,7 @@
   {
     "Name": "v_gasstation",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_68.rpf\\v_int_68.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_citye\\indust_02\\indust_02_metadata.rpf\\hei_id2_21_b_interior_v_gasstation_milo_.ymap",
@@ -658,7 +658,7 @@
   {
     "Name": "v_dockcontrol",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_59.rpf\\v_int_59.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_citye\\port_01\\port_metadata.rpf\\hei_po1_07_interior_v_dockcontrol_milo_.ymap",
@@ -674,7 +674,7 @@
   {
     "Name": "po1_08_warehouseint1",
     "FilePath": "x64k.rpf\\levels\\gta5\\_citye\\port_01\\port_metadata.rpf\\po1_08_interior_po1_08_warehouseint1.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_citye\\port_01\\port_metadata.rpf\\hei_po1_08_interior_po1_08_warehouseint1.ymap",
@@ -690,7 +690,7 @@
   {
     "Name": "po1_08_warehouseint2",
     "FilePath": "x64k.rpf\\levels\\gta5\\_citye\\port_01\\port_metadata.rpf\\po1_08_interior_po1_08_warehouseint2.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_citye\\port_01\\port_metadata.rpf\\hei_po1_08_interior_po1_08_warehouseint2.ymap",
@@ -706,7 +706,7 @@
   {
     "Name": "v_torture",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_55.rpf\\v_int_55.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_citye\\port_01\\port_metadata.rpf\\hei_po1_09_interior_v_torture_milo_.ymap",
@@ -722,7 +722,7 @@
   {
     "Name": "v_coroner",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_2.rpf\\v_int_2.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\patchday2ng\\dlc.rpf\\x64\\levels\\gta5\\_citye\\scentral_01\\scentral_metadata.rpf\\coroner_int_on.ymap",
@@ -738,7 +738,7 @@
   {
     "Name": "v_strip3",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_19.rpf\\v_int_19.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mplowrider\\dlc.rpf\\x64\\levels\\gta5\\_citye\\scentral_01\\scentral_metadata.rpf\\lr_sc1_04_interior_v_strip3_milo_.ymap",
@@ -754,7 +754,7 @@
   {
     "Name": "v_chopshop",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_45.rpf\\v_int_45.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mplowrider\\dlc.rpf\\x64\\levels\\gta5\\_citye\\scentral_01\\scentral_metadata.rpf\\lr_sc1_06_interior_v_chopshop_milo_.ymap",
@@ -770,7 +770,7 @@
   {
     "Name": "v_franklins",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_57.rpf\\v_int_57.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mplowrider\\dlc.rpf\\x64\\levels\\gta5\\_citye\\scentral_01\\scentral_metadata.rpf\\lr_sc1_11_interior_v_franklins_milo_.ymap",
@@ -786,7 +786,7 @@
   {
     "Name": "sc1_rd_inttun1",
     "FilePath": "x64k.rpf\\levels\\gta5\\_citye\\scentral_01\\scentral_metadata.rpf\\sc1_rd_interior_sc1_rd_inttun1.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mplowrider\\dlc.rpf\\x64\\levels\\gta5\\_citye\\scentral_01\\scentral_metadata.rpf\\lr_sc1_rd_interior_sc1_rd_inttun1.ymap",
@@ -802,7 +802,7 @@
   {
     "Name": "sc1_rd_inttun2",
     "FilePath": "x64k.rpf\\levels\\gta5\\_citye\\scentral_01\\scentral_metadata.rpf\\sc1_rd_interior_sc1_rd_inttun2.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mplowrider\\dlc.rpf\\x64\\levels\\gta5\\_citye\\scentral_01\\scentral_metadata.rpf\\lr_sc1_rd_interior_sc1_rd_inttun2.ymap",
@@ -818,7 +818,7 @@
   {
     "Name": "sc1_rd_inttun2b",
     "FilePath": "x64k.rpf\\levels\\gta5\\_citye\\scentral_01\\scentral_metadata.rpf\\sc1_rd_interior_sc1_rd_inttun2b.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mplowrider\\dlc.rpf\\x64\\levels\\gta5\\_citye\\scentral_01\\scentral_metadata.rpf\\lr_sc1_rd_interior_sc1_rd_inttun2b.ymap",
@@ -834,7 +834,7 @@
   {
     "Name": "sc1_rd_inttun2b_end",
     "FilePath": "x64k.rpf\\levels\\gta5\\_citye\\scentral_01\\scentral_metadata.rpf\\sc1_rd_interior_sc1_rd_inttun2b_end.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mplowrider\\dlc.rpf\\x64\\levels\\gta5\\_citye\\scentral_01\\scentral_metadata.rpf\\lr_sc1_rd_interior_sc1_rd_inttun2b_end.ymap",
@@ -850,7 +850,7 @@
   {
     "Name": "sc1_rd_inttun3",
     "FilePath": "x64k.rpf\\levels\\gta5\\_citye\\scentral_01\\scentral_metadata.rpf\\sc1_rd_interior_sc1_rd_inttun3.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mplowrider\\dlc.rpf\\x64\\levels\\gta5\\_citye\\scentral_01\\scentral_metadata.rpf\\lr_sc1_rd_interior_sc1_rd_inttun3.ymap",
@@ -866,7 +866,7 @@
   {
     "Name": "sc1_rd_inttun3b",
     "FilePath": "x64k.rpf\\levels\\gta5\\_citye\\scentral_01\\scentral_metadata.rpf\\sc1_rd_interior_sc1_rd_inttun3b.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mplowrider\\dlc.rpf\\x64\\levels\\gta5\\_citye\\scentral_01\\scentral_metadata.rpf\\lr_sc1_rd_interior_sc1_rd_inttun3b.ymap",
@@ -882,7 +882,7 @@
   {
     "Name": "sc1_rd_inttun3b_end",
     "FilePath": "x64k.rpf\\levels\\gta5\\_citye\\scentral_01\\scentral_metadata.rpf\\sc1_rd_interior_sc1_rd_inttun3b_end.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mplowrider\\dlc.rpf\\x64\\levels\\gta5\\_citye\\scentral_01\\scentral_metadata.rpf\\lr_sc1_rd_interior_sc1_rd_inttun3b_end.ymap",
@@ -898,7 +898,7 @@
   {
     "Name": "sc1_rd_inttunshort",
     "FilePath": "x64k.rpf\\levels\\gta5\\_citye\\scentral_01\\scentral_metadata.rpf\\sc1_rd_interior_sc1_rd_inttunshort.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mplowrider\\dlc.rpf\\x64\\levels\\gta5\\_citye\\scentral_01\\scentral_metadata.rpf\\lr_sc1_rd_interior_sc1_rd_inttunshort.ymap",
@@ -914,7 +914,7 @@
   {
     "Name": "v_carmod",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_46.rpf\\v_int_46.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\x64\\levels\\gta5\\_citye\\sunset\\sunset_metadata.rpf\\apa_bt1_02_interior_v_carmod_milo_.ymap",
@@ -938,7 +938,7 @@
   {
     "Name": "bt1_04_burton_subway",
     "FilePath": "x64l.rpf\\levels\\gta5\\_citye\\sunset\\sunset_metadata.rpf\\bt1_04_interior_bt1_04_burton_subway.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\x64\\levels\\gta5\\_citye\\sunset\\sunset_metadata.rpf\\apa_bt1_04_interior_bt1_04_burton_subway.ymap",
@@ -954,7 +954,7 @@
   {
     "Name": "v_clotheshi",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_53.rpf\\v_int_53.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\x64\\levels\\gta5\\_citye\\sunset\\sunset_metadata.rpf\\apa_bt1_04_interior_v_clotheshi_milo_.ymap",
@@ -986,7 +986,7 @@
   {
     "Name": "v_sweatempty",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_35.rpf\\v_int_35.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\patchday2ng\\dlc.rpf\\x64\\levels\\gta5\\_citye\\indust_02\\indust_02_metadata.rpf\\id2_14_during2.ymap",
@@ -1002,7 +1002,7 @@
   {
     "Name": "vbca_tunnel2",
     "FilePath": "x64m.rpf\\levels\\gta5\\_cityw\\venice_01\\venice_metadata.rpf\\vb_ca_interior_vbca_tunnel2.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_cityw\\venice_01\\venice_metadata.rpf\\hei_vb_ca_interior_vbca_tunnel2.ymap",
@@ -1018,7 +1018,7 @@
   {
     "Name": "vbca_tunnel4",
     "FilePath": "x64m.rpf\\levels\\gta5\\_cityw\\venice_01\\venice_metadata.rpf\\vb_ca_interior_vbca_tunnel4.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_cityw\\venice_01\\venice_metadata.rpf\\hei_vb_ca_interior_vbca_tunnel4.ymap",
@@ -1034,7 +1034,7 @@
   {
     "Name": "v_tower",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_25.rpf\\v_int_25.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_hills\\country_03\\country_03_metadata.rpf\\hei_cs3_07_interior_v_tower_milo_.ymap",
@@ -1050,7 +1050,7 @@
   {
     "Name": "cs3_03railtunnel_int1",
     "FilePath": "x64s.rpf\\levels\\gta5\\_hills\\country_03\\country_03_metadata.rpf\\cs3_railway_interior_cs3_03railtunnel_int1.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_hills\\country_03\\country_03_metadata.rpf\\hei_cs3_railway_interior_cs3_03railtunnel_int1.ymap",
@@ -1066,7 +1066,7 @@
   {
     "Name": "cs3_03railtunnel_int2",
     "FilePath": "x64s.rpf\\levels\\gta5\\_hills\\country_03\\country_03_metadata.rpf\\cs3_railway_interior_cs3_03railtunnel_int2.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_hills\\country_03\\country_03_metadata.rpf\\hei_cs3_railway_interior_cs3_03railtunnel_int2.ymap",
@@ -1082,7 +1082,7 @@
   {
     "Name": "cs3_03railtunnel_int3",
     "FilePath": "x64s.rpf\\levels\\gta5\\_hills\\country_03\\country_03_metadata.rpf\\cs3_railway_interior_cs3_03railtunnel_int3.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_hills\\country_03\\country_03_metadata.rpf\\hei_cs3_railway_interior_cs3_03railtunnel_int3.ymap",
@@ -1098,7 +1098,7 @@
   {
     "Name": "cs3_03railtunnel_int4",
     "FilePath": "x64s.rpf\\levels\\gta5\\_hills\\country_03\\country_03_metadata.rpf\\cs3_railway_interior_cs3_03railtunnel_int4.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_hills\\country_03\\country_03_metadata.rpf\\hei_cs3_railway_interior_cs3_03railtunnel_int4.ymap",
@@ -1114,7 +1114,7 @@
   {
     "Name": "v_methlab",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_39.rpf\\v_int_39.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mplowrider\\dlc.rpf\\x64\\levels\\gta5\\_hills\\country_04\\country_04_metadata.rpf\\lr_cs4_06_interior_v_methlab_milo_.ymap",
@@ -1130,7 +1130,7 @@
   {
     "Name": "v_sheriff",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_47.rpf\\v_int_47.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mplowrider\\dlc.rpf\\x64\\levels\\gta5\\_hills\\country_04\\country_04_metadata.rpf\\lr_cs4_10_interior_v_sheriff_milo_.ymap",
@@ -1146,7 +1146,7 @@
   {
     "Name": "v_hicksbar",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_32.rpf\\v_int_32.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mplowrider\\dlc.rpf\\x64\\levels\\gta5\\_hills\\country_04\\country_04_metadata.rpf\\lr_cs4_14_interior_v_hicksbar_milo_.ymap",
@@ -1162,7 +1162,7 @@
   {
     "Name": "cs4_rwayb_tunnelint",
     "FilePath": "x64t.rpf\\levels\\gta5\\_hills\\country_04\\country_04_metadata.rpf\\cs4_railwayb_interior_cs4_rwayb_tunnelint.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mplowrider\\dlc.rpf\\x64\\levels\\gta5\\_hills\\country_04\\country_04_metadata.rpf\\lr_cs4_railwayb_interior_cs4_rwayb_tunnelint.ymap",
@@ -1178,7 +1178,7 @@
   {
     "Name": "v_trailer",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_26.rpf\\v_int_26.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\patchday1ng\\dlc.rpf\\x64\\levels\\gta5\\_hills\\country_04\\country_04_metadata.rpf\\trevorstrailer.ymap",
@@ -1194,7 +1194,7 @@
   {
     "Name": "v_trailertidy",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_26.rpf\\v_int_26.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\patchday1ng\\dlc.rpf\\x64\\levels\\gta5\\_hills\\country_04\\country_04_metadata.rpf\\trevorstrailertidy.ymap",
@@ -1210,7 +1210,7 @@
   {
     "Name": "v_trailertrash",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_26.rpf\\v_int_26.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\patchday1ng\\dlc.rpf\\x64\\levels\\gta5\\_hills\\country_04\\country_04_metadata.rpf\\trevorstrailertrash.ymap",
@@ -1226,7 +1226,7 @@
   {
     "Name": "v_guardtower",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_71.rpf\\v_int_71.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mplowrider\\dlc.rpf\\x64\\levels\\gta5\\_hills\\country_06\\country_06_metadata.rpf\\lr_cs6_04_interior_v_guardtower_milo_.ymap",
@@ -1458,7 +1458,7 @@
   {
     "Name": "cs6_08_mine_int",
     "FilePath": "x64u.rpf\\levels\\gta5\\_hills\\country_06\\country_06_metadata.rpf\\cs6_08_interior_cs6_08_mine_int.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mplowrider\\dlc.rpf\\x64\\levels\\gta5\\_hills\\country_06\\country_06_metadata.rpf\\lr_cs6_08_interior_cs6_08_mine_int.ymap",
@@ -1522,63 +1522,63 @@
   {
     "Name": "v_methtrailer",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_39.rpf\\v_int_39.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [],
     "TotalEntitiesCount": 39
   },
   {
     "Name": "v_bank4",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_41.rpf\\v_int_41.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [],
     "TotalEntitiesCount": 2
   },
   {
     "Name": "v_carmod2",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_43.rpf\\v_int_43.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [],
     "TotalEntitiesCount": 133
   },
   {
     "Name": "v_trialstad",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_58.rpf\\v_int_58.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [],
     "TotalEntitiesCount": 0
   },
   {
     "Name": "v_graboffice",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_69.rpf\\v_int_69.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [],
     "TotalEntitiesCount": 259
   },
   {
     "Name": "v_70_bikerbar",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_70.rpf\\v_int_70.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [],
     "TotalEntitiesCount": 76
   },
   {
     "Name": "int_dlc_surgery",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_75.rpf\\v_int_75.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [],
     "TotalEntitiesCount": 0
   },
   {
     "Name": "metro_end_30",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_sections.rpf\\v_metro_sections.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [],
     "TotalEntitiesCount": 22
   },
   {
     "Name": "v_farmhouse",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_8.rpf\\v_int_8.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\patchday3ng\\dlc.rpf\\x64\\levels\\gta5\\_hills\\country_02\\country_02_metadata.rpf\\farmint.ymap",
@@ -1594,7 +1594,7 @@
   {
     "Name": "vbca_tunnel3",
     "FilePath": "x64m.rpf\\levels\\gta5\\_cityw\\venice_01\\venice_metadata.rpf\\vb_ca_interior_vbca_tunnel3.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_cityw\\venice_01\\venice_metadata.rpf\\hei_vb_ca_interior_vbca_tunnel3.ymap",
@@ -1610,7 +1610,7 @@
   {
     "Name": "cs2_roadsb_tunnel_03",
     "FilePath": "x64r.rpf\\levels\\gta5\\_hills\\country_02\\country_02_metadata.rpf\\cs2_roadsb_interior_cs2_roadsb_tunnel_03.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_hills\\country_02\\country_02_metadata.rpf\\hei_cs2_roadsb_interior_cs2_roadsb_tunnel_03.ymap",
@@ -1626,7 +1626,7 @@
   {
     "Name": "cs2_roadsb_tunnel_01",
     "FilePath": "x64r.rpf\\levels\\gta5\\_hills\\country_02\\country_02_metadata.rpf\\cs2_roadsb_interior_cs2_roadsb_tunnel_01.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_hills\\country_02\\country_02_metadata.rpf\\hei_cs2_roadsb_interior_cs2_roadsb_tunnel_01.ymap",
@@ -1642,7 +1642,7 @@
   {
     "Name": "vbca_tunnel5",
     "FilePath": "x64m.rpf\\levels\\gta5\\_cityw\\venice_01\\venice_metadata.rpf\\vb_ca_interior_vbca_tunnel5.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_cityw\\venice_01\\venice_metadata.rpf\\hei_vb_ca_interior_vbca_tunnel5.ymap",
@@ -1658,7 +1658,7 @@
   {
     "Name": "ch1_roadsdint_tun1",
     "FilePath": "x64n.rpf\\levels\\gta5\\_hills\\cityhills_01\\cityhills_01_metadata.rpf\\ch1_roadsd_interior_ch1_roadsdint_tun1.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_hills\\cityhills_01\\cityhills_01_metadata.rpf\\hei_ch1_roadsd_interior_ch1_roadsdint_tun1.ymap",
@@ -1674,7 +1674,7 @@
   {
     "Name": "ch1_roadsdint_tun2",
     "FilePath": "x64n.rpf\\levels\\gta5\\_hills\\cityhills_01\\cityhills_01_metadata.rpf\\ch1_roadsd_interior_ch1_roadsdint_tun2.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_hills\\cityhills_01\\cityhills_01_metadata.rpf\\hei_ch1_roadsd_interior_ch1_roadsdint_tun2.ymap",
@@ -1690,7 +1690,7 @@
   {
     "Name": "v_ranch",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_56.rpf\\v_int_56.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\x64\\levels\\gta5\\_hills\\cityhills_02\\cityhills_02_metadata.rpf\\apa_ch2_03c_interior_v_ranch_milo_.ymap",
@@ -1706,7 +1706,7 @@
   {
     "Name": "v_franklinshouse",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_24.rpf\\v_int_24.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\x64\\levels\\gta5\\_hills\\cityhills_02\\cityhills_02_metadata.rpf\\apa_ch2_05c_interior_v_franklinshouse_milo_.ymap",
@@ -1722,7 +1722,7 @@
   {
     "Name": "ch3_01_trlr_int",
     "FilePath": "x64p.rpf\\levels\\gta5\\_hills\\cityhills_03\\cityhills_03_metadata.rpf\\ch3_01_interior_ch3_01_trlr_int.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_hills\\cityhills_03\\cityhills_03_metadata.rpf\\hei_ch3_01_interior_ch3_01_trlr_int.ymap",
@@ -1738,7 +1738,7 @@
   {
     "Name": "ch3_08_dam_corr_milo",
     "FilePath": "x64p.rpf\\levels\\gta5\\_hills\\cityhills_03\\cityhills_03_metadata.rpf\\ch3_08_interior_ch3_08_dam_corr_milo.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_hills\\cityhills_03\\cityhills_03_metadata.rpf\\hei_ch3_08_interior_ch3_08_dam_corr_milo.ymap",
@@ -1754,7 +1754,7 @@
   {
     "Name": "v_carmod3",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_46.rpf\\v_int_46.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_hills\\country_01\\country_01_metadata.rpf\\hei_cs1_01_interior_v_carmod3_milo_.ymap",
@@ -1778,7 +1778,7 @@
   {
     "Name": "v_factory1",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_34.rpf\\v_int_34.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\patchday2ng\\dlc.rpf\\x64\\levels\\gta5\\_hills\\country_01\\country_01_metadata.rpf\\cs1_02_cf_onmission1.ymap",
@@ -1794,7 +1794,7 @@
   {
     "Name": "v_factory2",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_34.rpf\\v_int_34.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\patchday2ng\\dlc.rpf\\x64\\levels\\gta5\\_hills\\country_01\\country_01_metadata.rpf\\cs1_02_cf_onmission2.ymap",
@@ -1810,7 +1810,7 @@
   {
     "Name": "v_factory3",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_34.rpf\\v_int_34.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\patchday2ng\\dlc.rpf\\x64\\levels\\gta5\\_hills\\country_01\\country_01_metadata.rpf\\cs1_02_cf_onmission3.ymap",
@@ -1826,7 +1826,7 @@
   {
     "Name": "v_factory4",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_34.rpf\\v_int_34.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\patchday2ng\\dlc.rpf\\x64\\levels\\gta5\\_hills\\country_01\\country_01_metadata.rpf\\cs1_02_cf_onmission4.ymap",
@@ -1842,7 +1842,7 @@
   {
     "Name": "v_bank4",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_41.rpf\\v_int_41.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_hills\\country_01\\country_01_metadata.rpf\\hei_cs1_04_interior_v_bank4_milo_.ymap",
@@ -1858,7 +1858,7 @@
   {
     "Name": "v_tattoo2",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_49.rpf\\v_int_49.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_hills\\country_01\\country_01_metadata.rpf\\hei_cs1_06_interior_v_tattoo2_milo_.ymap",
@@ -1882,7 +1882,7 @@
   {
     "Name": "cs1_12_tunnel01_int",
     "FilePath": "x64q.rpf\\levels\\gta5\\_hills\\country_01\\country_01_metadata.rpf\\cs1_12_interior_cs1_12_tunnel01_int.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_hills\\country_01\\country_01_metadata.rpf\\hei_cs1_12_interior_cs1_12_tunnel01_int.ymap",
@@ -1898,7 +1898,7 @@
   {
     "Name": "cs1_12_tunnel02_int",
     "FilePath": "x64q.rpf\\levels\\gta5\\_hills\\country_01\\country_01_metadata.rpf\\cs1_12_interior_cs1_12_tunnel02_int.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_hills\\country_01\\country_01_metadata.rpf\\hei_cs1_12_interior_cs1_12_tunnel02_int.ymap",
@@ -1914,7 +1914,7 @@
   {
     "Name": "cs1_12_tunnel03_int",
     "FilePath": "x64q.rpf\\levels\\gta5\\_hills\\country_01\\country_01_metadata.rpf\\cs1_12_interior_cs1_12_tunnel03_int.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_hills\\country_01\\country_01_metadata.rpf\\hei_cs1_12_interior_cs1_12_tunnel03_int.ymap",
@@ -1930,7 +1930,7 @@
   {
     "Name": "v_sheriff2",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_47.rpf\\v_int_47.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_hills\\country_01\\country_01_metadata.rpf\\hei_cs1_16_interior_v_sheriff2_milo_.ymap",
@@ -1946,7 +1946,7 @@
   {
     "Name": "cs1_14brailway1",
     "FilePath": "x64q.rpf\\levels\\gta5\\_hills\\country_01\\country_01_metadata.rpf\\cs1_railwyb_interior_cs1_14brailway1.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_hills\\country_01\\country_01_metadata.rpf\\hei_cs1_railwyb_interior_cs1_14brailway1.ymap",
@@ -1962,7 +1962,7 @@
   {
     "Name": "cs1_14brailway2",
     "FilePath": "x64q.rpf\\levels\\gta5\\_hills\\country_01\\country_01_metadata.rpf\\cs1_railwyb_interior_cs1_14brailway2.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_hills\\country_01\\country_01_metadata.rpf\\hei_cs1_railwyb_interior_cs1_14brailway2.ymap",
@@ -1978,7 +1978,7 @@
   {
     "Name": "cs1_14brailway3",
     "FilePath": "x64q.rpf\\levels\\gta5\\_hills\\country_01\\country_01_metadata.rpf\\cs1_railwyb_interior_cs1_14brailway3.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_hills\\country_01\\country_01_metadata.rpf\\hei_cs1_railwyb_interior_cs1_14brailway3.ymap",
@@ -1994,7 +1994,7 @@
   {
     "Name": "cs1_14brailway4",
     "FilePath": "x64q.rpf\\levels\\gta5\\_hills\\country_01\\country_01_metadata.rpf\\cs1_railwyb_interior_cs1_14brailway4.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_hills\\country_01\\country_01_metadata.rpf\\hei_cs1_railwyb_interior_cs1_14brailway4.ymap",
@@ -2010,7 +2010,7 @@
   {
     "Name": "cs1_14brailway5",
     "FilePath": "x64q.rpf\\levels\\gta5\\_hills\\country_01\\country_01_metadata.rpf\\cs1_railwyb_interior_cs1_14brailway5.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_hills\\country_01\\country_01_metadata.rpf\\hei_cs1_railwyb_interior_cs1_14brailway5.ymap",
@@ -2026,7 +2026,7 @@
   {
     "Name": "cs1_14brailway6",
     "FilePath": "x64q.rpf\\levels\\gta5\\_hills\\country_01\\country_01_metadata.rpf\\cs1_railwyb_interior_cs1_14brailway6.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_hills\\country_01\\country_01_metadata.rpf\\hei_cs1_railwyb_interior_cs1_14brailway6.ymap",
@@ -2042,7 +2042,7 @@
   {
     "Name": "v_lab",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_28.rpf\\v_int_28.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_hills\\country_02\\country_02_metadata.rpf\\hei_cs2_29_interior_v_lab_milo_.ymap",
@@ -2058,7 +2058,7 @@
   {
     "Name": "cs2_roadsb_tunnel_02",
     "FilePath": "x64r.rpf\\levels\\gta5\\_hills\\country_02\\country_02_metadata.rpf\\cs2_roadsb_interior_cs2_roadsb_tunnel_02.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_hills\\country_02\\country_02_metadata.rpf\\hei_cs2_roadsb_interior_cs2_roadsb_tunnel_02.ymap",
@@ -2074,7 +2074,7 @@
   {
     "Name": "v_sweat",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_35.rpf\\v_int_35.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\patchday2ng\\dlc.rpf\\x64\\levels\\gta5\\_citye\\indust_02\\indust_02_metadata.rpf\\id2_14_during1.ymap",
@@ -2090,7 +2090,7 @@
   {
     "Name": "sm20_tun3",
     "FilePath": "x64m.rpf\\levels\\gta5\\_cityw\\santamon_01\\santamon_metadata.rpf\\sm_20_interior_sm20_tun3.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_cityw\\santamon_01\\santamon_metadata.rpf\\hei_sm_20_interior_sm20_tun3.ymap",
@@ -2106,7 +2106,7 @@
   {
     "Name": "v_firedept",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_1.rpf\\v_int_1.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpbiker\\dlc.rpf\\x64\\levels\\gta5\\_citye\\indust_01\\indust_01_metadata.rpf\\bkr_id1_33_interior_v_firedept_milo_.ymap",
@@ -2130,7 +2130,7 @@
   {
     "Name": "metro_t_sl_bot",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_sections.rpf\\v_metro_sections.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_t_sl_bot_milo_.ymap",
@@ -2170,7 +2170,7 @@
   {
     "Name": "metro_t_sl_top",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_sections.rpf\\v_metro_sections.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_t_sl_top_milo_.ymap",
@@ -2218,7 +2218,7 @@
   {
     "Name": "metro_t_st_lg_30",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_sections.rpf\\v_metro_sections.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_t_st_lg_30_milo_.ymap",
@@ -2266,7 +2266,7 @@
   {
     "Name": "metro_t_st_sl_bot",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_sections.rpf\\v_metro_sections.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_t_st_sl_bot_milo_.ymap",
@@ -2282,7 +2282,7 @@
   {
     "Name": "metro_t_st_sl_top",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_sections.rpf\\v_metro_sections.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_t_st_sl_top_milo_.ymap",
@@ -2298,7 +2298,7 @@
   {
     "Name": "metro_t_stair2",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_sections.rpf\\v_metro_sections.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_t_stair2_milo_.ymap",
@@ -2314,7 +2314,7 @@
   {
     "Name": "metro_t_stair",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_sections.rpf\\v_metro_sections.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_t_stair_milo_.ymap",
@@ -2482,7 +2482,7 @@
   {
     "Name": "metro_t_step_20",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_sections.rpf\\v_metro_sections.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_t_step_20_milo_.ymap",
@@ -2514,7 +2514,7 @@
   {
     "Name": "metro_t_step",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_sections.rpf\\v_metro_sections.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_t_step_milo_.ymap",
@@ -2570,7 +2570,7 @@
   {
     "Name": "metro_topen_step",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_sections.rpf\\v_metro_sections.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_topen_step_milo_.ymap",
@@ -2610,7 +2610,7 @@
   {
     "Name": "metro_tsidex",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_sections.rpf\\v_metro_sections.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_tsidex_milo_.ymap",
@@ -2626,7 +2626,7 @@
   {
     "Name": "metro_t_lg_30",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_sections.rpf\\v_metro_sections.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_t_lg_30_milo_.ymap",
@@ -2834,7 +2834,7 @@
   {
     "Name": "metrotest",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_sections.rpf\\v_metro_sections.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metrotest_milo_.ymap",
@@ -2978,7 +2978,7 @@
   {
     "Name": "v_31_tun_swap",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_31a.rpf\\v_int_31a.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_tunnels_metadata.rpf\\v_tunnel_hole_swap.ymap",
@@ -2994,7 +2994,7 @@
   {
     "Name": "v_31_newtun2",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_31.rpf\\v_int_31.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_tunnels_metadata.rpf\\v_tunnels_interior_v_31_newtun2_milo_.ymap",
@@ -3010,7 +3010,7 @@
   {
     "Name": "v_31_newtun3",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_31b.rpf\\v_int_31b.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_tunnels_metadata.rpf\\v_tunnels_interior_v_31_newtun3_milo_.ymap",
@@ -3026,7 +3026,7 @@
   {
     "Name": "v_31_newtun4",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_31b.rpf\\v_int_31b.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_tunnels_metadata.rpf\\v_tunnels_interior_v_31_newtun4_milo_.ymap",
@@ -3042,7 +3042,7 @@
   {
     "Name": "v_31_newtun4b",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_31b.rpf\\v_int_31b.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_tunnels_metadata.rpf\\v_tunnels_interior_v_31_newtun4b_milo_.ymap",
@@ -3058,7 +3058,7 @@
   {
     "Name": "v_31_newtun5",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_31b.rpf\\v_int_31b.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_tunnels_metadata.rpf\\v_tunnels_interior_v_31_newtun5_milo_.ymap",
@@ -3074,7 +3074,7 @@
   {
     "Name": "v_31_newtunnel1",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_31.rpf\\v_int_31.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_tunnels_metadata.rpf\\v_tunnels_interior_v_31_newtunnel1_milo_.ymap",
@@ -3090,7 +3090,7 @@
   {
     "Name": "v_31_tun_01",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_31a.rpf\\v_int_31a.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_tunnels_metadata.rpf\\v_tunnels_interior_v_31_tun_01_milo_.ymap",
@@ -3106,7 +3106,7 @@
   {
     "Name": "v_31_tun_03",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_31a.rpf\\v_int_31a.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_tunnels_metadata.rpf\\v_tunnels_interior_v_31_tun_03_milo_.ymap",
@@ -3122,7 +3122,7 @@
   {
     "Name": "v_31_tun_04",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_31a.rpf\\v_int_31a.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_tunnels_metadata.rpf\\v_tunnels_interior_v_31_tun_04_milo_.ymap",
@@ -3138,7 +3138,7 @@
   {
     "Name": "v_31_tun_05",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_31.rpf\\v_int_31.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_tunnels_metadata.rpf\\v_tunnels_interior_v_31_tun_05_milo_.ymap",
@@ -3154,7 +3154,7 @@
   {
     "Name": "v_31_tun_02",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_31a.rpf\\v_int_31a.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_tunnels_metadata.rpf\\v_tunnel_hole.ymap",
@@ -3170,7 +3170,7 @@
   {
     "Name": "metro_t_join",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_sections.rpf\\v_metro_sections.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_t_join_milo_.ymap",
@@ -3362,7 +3362,7 @@
   {
     "Name": "metro_t_end",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_sections.rpf\\v_metro_sections.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_t_end_milo_.ymap",
@@ -3434,7 +3434,7 @@
   {
     "Name": "metro_t_end_30",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_sections.rpf\\v_metro_sections.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_t_end_30_milo_.ymap",
@@ -3466,7 +3466,7 @@
   {
     "Name": "metro_newwalk3",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_metro_subway3.rpf\\v_int_metro_subway3.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_newwalk3_milo_.ymap",
@@ -3482,7 +3482,7 @@
   {
     "Name": "v_lockup",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_71.rpf\\v_int_71.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_citye\\indust_02\\indust_02_metadata.rpf\\hei_id2_11_interior_v_lockup_milo_.ymap",
@@ -3498,7 +3498,7 @@
   {
     "Name": "metro_newwalk2",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_metro_subway2.rpf\\v_int_metro_subway2.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_newwalk2_milo_.ymap",
@@ -3514,7 +3514,7 @@
   {
     "Name": "metro_newwalk1",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_metro_subway1.rpf\\v_int_metro_subway1.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_newwalk1_milo_.ymap",
@@ -3530,7 +3530,7 @@
   {
     "Name": "metro_map_join_2",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_metro_join2.rpf\\v_int_metro_join2.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_map_join_2_milo_.ymap",
@@ -3546,7 +3546,7 @@
   {
     "Name": "metro_map_join_1",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_metro_join1.rpf\\v_int_metro_join1.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_map_join_1_milo_.ymap",
@@ -3562,7 +3562,7 @@
   {
     "Name": "metro_map_end",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_metro_join3.rpf\\v_int_metro_join3.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_map_end_milo_.ymap",
@@ -3578,7 +3578,7 @@
   {
     "Name": "metro_end",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_sections.rpf\\v_metro_sections.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_end_milo_.ymap",
@@ -3634,7 +3634,7 @@
   {
     "Name": "metro_newwalk6",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_metro_subway6.rpf\\v_int_metro_subway6.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_newwalk6_milo_.ymap",
@@ -3650,7 +3650,7 @@
   {
     "Name": "metro_sl_bot",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_sections.rpf\\v_metro_sections.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_sl_bot_milo_.ymap",
@@ -3690,7 +3690,7 @@
   {
     "Name": "metro_sl_top",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_sections.rpf\\v_metro_sections.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_sl_top_milo_.ymap",
@@ -3722,7 +3722,7 @@
   {
     "Name": "metro_sm1",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_sections.rpf\\v_metro_sections.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_sm1_milo_.ymap",
@@ -3738,7 +3738,7 @@
   {
     "Name": "metro_sm2",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_sections.rpf\\v_metro_sections.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_sm2_milo_.ymap",
@@ -3754,7 +3754,7 @@
   {
     "Name": "metro_sm",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_sections.rpf\\v_metro_sections.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_sm_milo_.ymap",
@@ -3842,7 +3842,7 @@
   {
     "Name": "metro_sm_sl_bot",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_sections.rpf\\v_metro_sections.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_sm_sl_bot_milo_.ymap",
@@ -3890,7 +3890,7 @@
   {
     "Name": "metro_sm_sl_mid",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_sections.rpf\\v_metro_sections.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_sm_sl_mid_milo_.ymap",
@@ -3906,7 +3906,7 @@
   {
     "Name": "metro_sm_sl_top",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_sections.rpf\\v_metro_sections.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_sm_sl_top_milo_.ymap",
@@ -3962,7 +3962,7 @@
   {
     "Name": "metro_small_30",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_sections.rpf\\v_metro_sections.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_small_30_milo_.ymap",
@@ -4034,7 +4034,7 @@
   {
     "Name": "metro_stat3join1",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_sections.rpf\\v_metro_sections.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_stat3join1_milo_.ymap",
@@ -4082,7 +4082,7 @@
   {
     "Name": "metro_stat3join2",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_sections.rpf\\v_metro_sections.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_stat3join2_milo_.ymap",
@@ -4114,7 +4114,7 @@
   {
     "Name": "metro_stat3join3",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_sections.rpf\\v_metro_sections.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_stat3join3_milo_.ymap",
@@ -4146,7 +4146,7 @@
   {
     "Name": "metro_stat3join4",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_sections.rpf\\v_metro_sections.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_stat3join4_milo_.ymap",
@@ -4162,7 +4162,7 @@
   {
     "Name": "metro_stat3special",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_sections.rpf\\v_metro_sections.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_stat3special_milo_.ymap",
@@ -4178,7 +4178,7 @@
   {
     "Name": "metro_station_3_seoul",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_metro_subway1.rpf\\v_int_metro_subway1.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_station_3_seoul_milo_.ymap",
@@ -4234,7 +4234,7 @@
   {
     "Name": "metro_t_end2_30",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_sections.rpf\\v_metro_sections.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_t_end2_30_milo_.ymap",
@@ -4266,7 +4266,7 @@
   {
     "Name": "v_31_tun_06",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_31.rpf\\v_int_31.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_tunnels_metadata.rpf\\v_tunnels_interior_v_31_tun_06_milo_.ymap",
@@ -4282,7 +4282,7 @@
   {
     "Name": "metro_newwalk4",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_metro_subway4.rpf\\v_int_metro_subway4.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_newwalk4_milo_.ymap",
@@ -4298,7 +4298,7 @@
   {
     "Name": "v_31_tun_07",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_31.rpf\\v_int_31.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_tunnels_metadata.rpf\\v_tunnels_interior_v_31_tun_07_milo_.ymap",
@@ -4314,7 +4314,7 @@
   {
     "Name": "v_31_tun_09",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_31.rpf\\v_int_31.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_tunnels_metadata.rpf\\v_tunnels_interior_v_31_tun_09_milo_.ymap",
@@ -4330,7 +4330,7 @@
   {
     "Name": "v_barbers",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_38.rpf\\v_int_38.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_citye\\hollywood_01\\hollywood_metadata.rpf\\hei_hw1_22_interior_v_barbers_milo_.ymap",
@@ -4386,7 +4386,7 @@
   {
     "Name": "v_clothesmid",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_52.rpf\\v_int_52.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_citye\\hollywood_01\\hollywood_metadata.rpf\\hei_hw1_23_interior_v_clothesmid_milo_.ymap",
@@ -4426,7 +4426,7 @@
   {
     "Name": "v_apart_midspaz",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_16.rpf\\v_int_16.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_citye\\hollywood_01\\hollywood_metadata.rpf\\hei_hw1_blimp_interior_v_apart_midspaz_milo_.ymap",
@@ -4450,7 +4450,7 @@
   {
     "Name": "v_apartment_high",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_16.rpf\\v_int_16.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\patchday2ng\\dlc.rpf\\x64\\levels\\gta5\\_citye\\hollywood_01\\hollywood_metadata.rpf\\hw1_blimp_interior_v_apartment_high_milo_.ymap",
@@ -4618,7 +4618,7 @@
   {
     "Name": "v_comedy",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_21.rpf\\v_int_21.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_citye\\hollywood_01\\hollywood_metadata.rpf\\hei_hw1_blimp_interior_v_comedy_milo_.ymap",
@@ -4642,7 +4642,7 @@
   {
     "Name": "v_garagel",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_72.rpf\\v_int_72.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\patchday2ng\\dlc.rpf\\x64\\levels\\gta5\\_citye\\hollywood_01\\hollywood_metadata.rpf\\hw1_blimp_interior_v_garagel_milo_.ymap",
@@ -4658,7 +4658,7 @@
   {
     "Name": "v_garagem",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_72.rpf\\v_int_72.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_citye\\hollywood_01\\hollywood_metadata.rpf\\hei_hw1_blimp_interior_v_garagem_milo_.ymap",
@@ -4682,7 +4682,7 @@
   {
     "Name": "v_garagem_sp",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_72.rpf\\v_int_72.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_citye\\hollywood_01\\hollywood_metadata.rpf\\hei_hw1_blimp_interior_v_garagem_sp_milo_.ymap",
@@ -4698,7 +4698,7 @@
   {
     "Name": "v_garages",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_72.rpf\\v_int_72.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_citye\\hollywood_01\\hollywood_metadata.rpf\\hei_hw1_blimp_interior_v_garages_milo_.ymap",
@@ -4714,7 +4714,7 @@
   {
     "Name": "v_motel_mp",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_49.rpf\\v_int_49.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_citye\\hollywood_01\\hollywood_metadata.rpf\\hei_hw1_blimp_interior_v_motel_mp_milo_.ymap",
@@ -4730,7 +4730,7 @@
   {
     "Name": "v_studio_lo",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_16.rpf\\v_int_16.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_citye\\hollywood_01\\hollywood_metadata.rpf\\hei_hw1_blimp_interior_v_studio_lo_milo_.ymap",
@@ -4754,7 +4754,7 @@
   {
     "Name": "v_gun2",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_22.rpf\\v_int_22.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_citye\\hollywood_01\\hollywood_metadata.rpf\\hei_hw1_07_interior_v_gun2_milo_.ymap",
@@ -4834,7 +4834,7 @@
   {
     "Name": "v_mugshot",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_mugshot.rpf\\v_int_mugshot.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64j.rpf\\levels\\gta5\\_citye\\hollywood_01\\hw1_int_placement.rpf\\hw1_int_placement_interior_v_mugshot_milo_.ymap",
@@ -4850,7 +4850,7 @@
   {
     "Name": "v_abattoir",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_11.rpf\\v_int_11.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpbiker\\dlc.rpf\\x64\\levels\\gta5\\_citye\\indust_01\\indust_01_metadata.rpf\\bkr_id1_10_interior_v_abattoir_milo_.ymap",
@@ -4866,7 +4866,7 @@
   {
     "Name": "id1_11_tunnel1_int",
     "FilePath": "x64j.rpf\\levels\\gta5\\_citye\\indust_01\\indust_01_metadata.rpf\\id1_11_interior_id1_11_tunnel1_int.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpbiker\\dlc.rpf\\x64\\levels\\gta5\\_citye\\indust_01\\indust_01_metadata.rpf\\bkr_id1_11_interior_id1_11_tunnel1_int.ymap",
@@ -4882,7 +4882,7 @@
   {
     "Name": "id1_11_tunnel2_int",
     "FilePath": "x64j.rpf\\levels\\gta5\\_citye\\indust_01\\indust_01_metadata.rpf\\id1_11_interior_id1_11_tunnel2_int.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpbiker\\dlc.rpf\\x64\\levels\\gta5\\_citye\\indust_01\\indust_01_metadata.rpf\\bkr_id1_11_interior_id1_11_tunnel2_int.ymap",
@@ -4898,7 +4898,7 @@
   {
     "Name": "id1_11_tunnel3_int",
     "FilePath": "x64j.rpf\\levels\\gta5\\_citye\\indust_01\\indust_01_metadata.rpf\\id1_11_interior_id1_11_tunnel3_int.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpbiker\\dlc.rpf\\x64\\levels\\gta5\\_citye\\indust_01\\indust_01_metadata.rpf\\bkr_id1_11_interior_id1_11_tunnel3_int.ymap",
@@ -4914,7 +4914,7 @@
   {
     "Name": "id1_11_tunnel4_int",
     "FilePath": "x64j.rpf\\levels\\gta5\\_citye\\indust_01\\indust_01_metadata.rpf\\id1_11_interior_id1_11_tunnel4_int.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpbiker\\dlc.rpf\\x64\\levels\\gta5\\_citye\\indust_01\\indust_01_metadata.rpf\\bkr_id1_11_interior_id1_11_tunnel4_int.ymap",
@@ -4930,7 +4930,7 @@
   {
     "Name": "id1_11_tunnel5_int",
     "FilePath": "x64j.rpf\\levels\\gta5\\_citye\\indust_01\\indust_01_metadata.rpf\\id1_11_interior_id1_11_tunnel5_int.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpbiker\\dlc.rpf\\x64\\levels\\gta5\\_citye\\indust_01\\indust_01_metadata.rpf\\bkr_id1_11_interior_id1_11_tunnel5_int.ymap",
@@ -4946,7 +4946,7 @@
   {
     "Name": "id1_11_tunnel6_int",
     "FilePath": "x64j.rpf\\levels\\gta5\\_citye\\indust_01\\indust_01_metadata.rpf\\id1_11_interior_id1_11_tunnel6_int.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpbiker\\dlc.rpf\\x64\\levels\\gta5\\_citye\\indust_01\\indust_01_metadata.rpf\\bkr_id1_11_interior_id1_11_tunnel6_int.ymap",
@@ -4962,7 +4962,7 @@
   {
     "Name": "id1_11_tunnel7_int",
     "FilePath": "x64j.rpf\\levels\\gta5\\_citye\\indust_01\\indust_01_metadata.rpf\\id1_11_interior_id1_11_tunnel7_int.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpbiker\\dlc.rpf\\x64\\levels\\gta5\\_citye\\indust_01\\indust_01_metadata.rpf\\bkr_id1_11_interior_id1_11_tunnel7_int.ymap",
@@ -4978,7 +4978,7 @@
   {
     "Name": "id1_11_tunnel8_int",
     "FilePath": "x64j.rpf\\levels\\gta5\\_citye\\indust_01\\indust_01_metadata.rpf\\id1_11_interior_id1_11_tunnel8_int.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpbiker\\dlc.rpf\\x64\\levels\\gta5\\_citye\\indust_01\\indust_01_metadata.rpf\\bkr_id1_11_interior_id1_11_tunnel8_int.ymap",
@@ -4994,7 +4994,7 @@
   {
     "Name": "v_foundry",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_29.rpf\\v_int_29.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpbiker\\dlc.rpf\\x64\\levels\\gta5\\_citye\\indust_01\\indust_01_metadata.rpf\\bkr_id1_17_interior_v_foundry_milo_.ymap",
@@ -5010,7 +5010,7 @@
   {
     "Name": "v_lesters",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_54.rpf\\v_int_54.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpbiker\\dlc.rpf\\x64\\levels\\gta5\\_citye\\indust_01\\indust_01_metadata.rpf\\bkr_id1_25_interior_v_lesters_milo_.ymap",
@@ -5026,7 +5026,7 @@
   {
     "Name": "v_winningroom",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_mugshot.rpf\\v_int_mugshot.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64j.rpf\\levels\\gta5\\_citye\\hollywood_01\\hw1_int_placement.rpf\\hw1_int_placement_interior_v_winningroom_milo_.ymap",
@@ -5042,7 +5042,7 @@
   {
     "Name": "v_tattoo",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_36.rpf\\v_int_36.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_citye\\hollywood_01\\hollywood_metadata.rpf\\hei_hw1_02_interior_v_tattoo_milo_.ymap",
@@ -5082,7 +5082,7 @@
   {
     "Name": "v_shop_247",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_66.rpf\\v_int_66.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_citye\\hollywood_01\\hollywood_metadata.rpf\\hei_hw1_02_interior_v_shop_247_milo_.ymap",
@@ -5162,7 +5162,7 @@
   {
     "Name": "v_bank",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_5.rpf\\v_int_5.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\patchday2ng\\dlc.rpf\\x64\\levels\\gta5\\_citye\\hollywood_01\\hollywood_metadata.rpf\\hw1_02_interior_v_bank_milo_.ymap",
@@ -5178,7 +5178,7 @@
   {
     "Name": "v_31_tun_10",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_31.rpf\\v_int_31.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_tunnels_metadata.rpf\\v_tunnels_interior_v_31_tun_10_milo_.ymap",
@@ -5194,7 +5194,7 @@
   {
     "Name": "dt1_02_carpark",
     "FilePath": "x64i.rpf\\levels\\gta5\\_citye\\downtown_01\\downtown_01_metadata.rpf\\dt1_02_interior_dt1_02_carpark.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_citye\\downtown_01\\downtown_01_metadata.rpf\\hei_dt1_02_interior_dt1_02_carpark.ymap",
@@ -5210,7 +5210,7 @@
   {
     "Name": "metro_end_031",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_sections.rpf\\v_metro_sections.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_end_031_milo_.ymap",
@@ -5226,7 +5226,7 @@
   {
     "Name": "dt1_03_carpark",
     "FilePath": "x64i.rpf\\levels\\gta5\\_citye\\downtown_01\\downtown_01_metadata.rpf\\dt1_03_interior_dt1_03_carpark.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_citye\\downtown_01\\downtown_01_metadata.rpf\\hei_dt1_03_interior_dt1_03_carpark.ymap",
@@ -5242,7 +5242,7 @@
   {
     "Name": "dt1_05_carpark",
     "FilePath": "x64i.rpf\\levels\\gta5\\_citye\\downtown_01\\downtown_01_metadata.rpf\\dt1_05_interior_dt1_05_carpark.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_citye\\downtown_01\\downtown_01_metadata.rpf\\hei_dt1_05_interior_dt1_05_carpark.ymap",
@@ -5258,7 +5258,7 @@
   {
     "Name": "dt1_05_int_undpass",
     "FilePath": "x64i.rpf\\levels\\gta5\\_citye\\downtown_01\\downtown_01_metadata.rpf\\dt1_05_interior_dt1_05_int_undpass.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_citye\\downtown_01\\downtown_01_metadata.rpf\\hei_dt1_05_interior_dt1_05_int_undpass.ymap",
@@ -5274,7 +5274,7 @@
   {
     "Name": "v_cia",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_33.rpf\\v_int_33.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_citye\\downtown_01\\downtown_01_metadata.rpf\\hei_dt1_05_interior_v_cia_milo_.ymap",
@@ -5290,7 +5290,7 @@
   {
     "Name": "v_fib01",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_73.rpf\\v_int_73.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_citye\\downtown_01\\downtown_01_metadata.rpf\\hei_dt1_05_interior_v_fib01_milo_.ymap",
@@ -5306,7 +5306,7 @@
   {
     "Name": "v_fib02",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_74.rpf\\v_int_74.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_citye\\downtown_01\\downtown_01_metadata.rpf\\hei_dt1_05_interior_v_fib02_milo_.ymap",
@@ -5322,7 +5322,7 @@
   {
     "Name": "v_fib03",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_74.rpf\\v_int_74.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_citye\\downtown_01\\downtown_01_metadata.rpf\\hei_dt1_05_interior_v_fib03_milo_.ymap",
@@ -5338,7 +5338,7 @@
   {
     "Name": "v_fib04",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_73.rpf\\v_int_73.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_citye\\downtown_01\\downtown_01_metadata.rpf\\hei_dt1_05_interior_v_fib04_milo_.ymap",
@@ -5354,7 +5354,7 @@
   {
     "Name": "v_cinema",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_50.rpf\\v_int_50.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_citye\\downtown_01\\downtown_01_metadata.rpf\\hei_dt1_14_interior_v_cinema_milo_.ymap",
@@ -5386,7 +5386,7 @@
   {
     "Name": "v_clotheslo",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_51.rpf\\v_int_51.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_citye\\downtown_01\\downtown_01_metadata.rpf\\hei_dt1_15_interior_v_clotheslo_milo_.ymap",
@@ -5450,7 +5450,7 @@
   {
     "Name": "v_policehub",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_20.rpf\\v_int_20.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\patchday2ng\\dlc.rpf\\x64\\levels\\gta5\\_citye\\downtown_01\\downtown_01_metadata.rpf\\dt1_19_interior_v_policehub_milo_.ymap",
@@ -5466,7 +5466,7 @@
   {
     "Name": "v_gun",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_7.rpf\\v_int_7.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_citye\\downtown_01\\downtown_01_metadata.rpf\\hei_dt1_22_interior_v_gun_milo_.ymap",
@@ -5490,7 +5490,7 @@
   {
     "Name": "v_genbank",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_10.rpf\\v_int_10.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_citye\\downtown_01\\downtown_01_metadata.rpf\\hei_dt1_23_interior_v_genbank_milo_.ymap",
@@ -5546,7 +5546,7 @@
   {
     "Name": "dt1_rd1_tun",
     "FilePath": "x64i.rpf\\levels\\gta5\\_citye\\downtown_01\\downtown_01_metadata.rpf\\dt1_rd1_interior_dt1_rd1_tun.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_citye\\downtown_01\\downtown_01_metadata.rpf\\hei_dt1_rd1_interior_dt1_rd1_tun.ymap",
@@ -5562,7 +5562,7 @@
   {
     "Name": "dt1_rd1_tun2",
     "FilePath": "x64i.rpf\\levels\\gta5\\_citye\\downtown_01\\downtown_01_metadata.rpf\\dt1_rd1_interior_dt1_rd1_tun2.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_citye\\downtown_01\\downtown_01_metadata.rpf\\hei_dt1_rd1_interior_dt1_rd1_tun2.ymap",
@@ -5578,7 +5578,7 @@
   {
     "Name": "dt1_rd1_tun3",
     "FilePath": "x64i.rpf\\levels\\gta5\\_citye\\downtown_01\\downtown_01_metadata.rpf\\dt1_rd1_interior_dt1_rd1_tun3.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_citye\\downtown_01\\downtown_01_metadata.rpf\\hei_dt1_rd1_interior_dt1_rd1_tun3.ymap",
@@ -5594,7 +5594,7 @@
   {
     "Name": "v_office_lobby",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_48.rpf\\v_int_48.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\patchday2ng\\dlc.rpf\\x64\\levels\\gta5\\_citye\\downtown_01\\downtown_01_metadata.rpf\\fiblobby.ymap",
@@ -5610,7 +5610,7 @@
   {
     "Name": "v_finalebank",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_63.rpf\\v_int_63.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\patchday2ng\\dlc.rpf\\x64\\levels\\gta5\\_citye\\downtown_01\\downtown_01_metadata.rpf\\finbank.ymap",
@@ -5626,7 +5626,7 @@
   {
     "Name": "v_hospital",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_40.rpf\\v_int_40.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\patchday2ng\\dlc.rpf\\x64\\levels\\gta5\\_citye\\downtown_01\\downtown_01_metadata.rpf\\rc12b_hospitalinterior.ymap",
@@ -5642,7 +5642,7 @@
   {
     "Name": "v_carshowroom",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_15.rpf\\v_int_15.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\patchday2ng\\dlc.rpf\\x64\\levels\\gta5\\_citye\\downtown_01\\downtown_01_metadata.rpf\\shr_int.ymap",
@@ -5658,7 +5658,7 @@
   {
     "Name": "metro_30",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_sections.rpf\\v_metro_sections.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_30_milo_.ymap",
@@ -5738,7 +5738,7 @@
   {
     "Name": "v_epsilonism",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_27.rpf\\v_int_27.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_citye\\hollywood_01\\hollywood_metadata.rpf\\hei_hw1_01_interior_v_epsilonism_milo_.ymap",
@@ -5754,7 +5754,7 @@
   {
     "Name": "v_31_tun_08",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_31.rpf\\v_int_31.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_tunnels_metadata.rpf\\v_tunnels_interior_v_31_tun_08_milo_.ymap",
@@ -5770,7 +5770,7 @@
   {
     "Name": "metro_newwalk5",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_metro_subway5.rpf\\v_int_metro_subway5.ytyp",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "Locations": [
       {
         "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_newwalk5_milo_.ymap",

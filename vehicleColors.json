@@ -70,27 +70,72 @@
     {
       "Index": 0,
       "ColorHex": "4FFFFFF",
-      "Name": "standard windows"
+      "Name": "standard windows",
+      "TranslatedLabel": {
+        "Hash": 2528569890,
+        "English": "None",
+        "German": "Keine",
+        "French": "Aucune",
+        "Italian": "Nessuna",
+        "Russian": "Нет",
+        "Polish": "Brak"
+      }
     },
     {
       "Index": 1,
       "ColorHex": "D1000000",
-      "Name": "limo black"
+      "Name": "limo black",
+      "TranslatedLabel": {
+        "Hash": 1753583040,
+        "English": "Light Smoke",
+        "German": "Helles Rauchglas",
+        "French": "Fumé clair",
+        "Italian": "Leggermente oscurati",
+        "Russian": "Слабое затемнение",
+        "Polish": "Lekko przydymione"
+      }
     },
     {
       "Index": 2,
       "ColorHex": "C4000000",
-      "Name": "dark smoke"
+      "Name": "dark smoke",
+      "TranslatedLabel": {
+        "Hash": 1016346078,
+        "English": "Dark Smoke",
+        "German": "Dunkles Rauchglas",
+        "French": "Fumé foncé",
+        "Italian": "Molto oscurati",
+        "Russian": "Среднее затемнение",
+        "Polish": "Mocno przydymione"
+      }
     },
     {
       "Index": 3,
       "ColorHex": "A2000000",
-      "Name": "light smoke"
+      "Name": "light smoke",
+      "TranslatedLabel": {
+        "Hash": 217142937,
+        "English": "Limo",
+        "German": "Limousine",
+        "French": "Limousine",
+        "Italian": "Limousine",
+        "Russian": "Лимузин",
+        "Polish": "Limuzynowe"
+      }
     },
     {
       "Index": 4,
       "ColorHex": "0",
-      "Name": " 4 "
+      "Name": " 4 ",
+      "TranslatedLabel": {
+        "Hash": 1597504293,
+        "English": "Tinted",
+        "German": "Geschwärzt",
+        "French": "Teinté",
+        "Italian": "Tinti",
+        "Russian": "Тонировка",
+        "Polish": "Barwione"
+      }
     }
   ],
   "PrimarySecondaryColors": [
@@ -1709,36 +1754,82 @@
     {
       "Index": 0,
       "Name": "standard white",
+      "TranslatedLabel": {
+        "Hash": 396697613,
+        "English": "Blue on White 1",
+        "German": "Blau auf Weiß 1",
+        "French": "Bleu sur blanc 1",
+        "Italian": "Blu su bianco 1",
+        "Russian": "Синий на белом 1",
+        "Polish": "Błękit na bieli 1"
+      },
       "FontColorHex": "FF0F2352",
       "FontOutlineColorHex": "FFFFFF"
     },
     {
       "Index": 1,
       "Name": "yellow plate",
+      "TranslatedLabel": {
+        "Hash": 1377506556,
+        "English": "Blue on White 2",
+        "German": "Blau auf Weiß 2",
+        "French": "Bleu sur blanc 2",
+        "Italian": "Blu su bianco 2",
+        "Russian": "Синий на белом 2",
+        "Polish": "Błękit na bieli 2"
+      },
       "FontColorHex": "FFCF9E00",
       "FontOutlineColorHex": "FFFFFF"
     },
     {
       "Index": 2,
       "Name": "blue plate",
+      "TranslatedLabel": {
+        "Hash": 1135278104,
+        "English": "Blue on White 3",
+        "German": "Blau auf Weiß 3",
+        "French": "Bleu sur blanc 3",
+        "Italian": "Blu su bianco 3",
+        "Russian": "Синий на белом 3",
+        "Polish": "Błękit na bieli 3"
+      },
       "FontColorHex": "FFBD7121",
       "FontOutlineColorHex": "FFFFFF"
     },
     {
       "Index": 3,
       "Name": "white plate 2",
+      "TranslatedLabel": {
+        "Hash": 4015050597,
+        "English": "Yellow on Blue",
+        "German": "Gelb auf Blau",
+        "French": "Jaune sur bleu",
+        "Italian": "Giallo su blu",
+        "Russian": "Желтый на синем",
+        "Polish": "Żółty na błękicie"
+      },
       "FontColorHex": "FF0F2352",
       "FontOutlineColorHex": "FFFF0000"
     },
     {
       "Index": 4,
       "Name": "police guv plate",
+      "TranslatedLabel": {
+        "Hash": 3521746071,
+        "English": "Yellow on Black",
+        "German": "Gelb auf Schwarz",
+        "French": "Jaune sur noir",
+        "Italian": "Giallo su nero",
+        "Russian": "Желтый на черном",
+        "Polish": "Żółty na czerni"
+      },
       "FontColorHex": "FF0F2352",
       "FontOutlineColorHex": "FFFFFF"
     },
     {
       "Index": 5,
       "Name": "yankton plate",
+      "TranslatedLabel": null,
       "FontColorHex": "FF000000",
       "FontOutlineColorHex": "FF2BFF05"
     }

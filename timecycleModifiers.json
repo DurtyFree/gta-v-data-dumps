@@ -1,2877 +1,2877 @@
 [
   {
     "Name": "li",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 33
   },
   {
     "Name": "underwater",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 115
   },
   {
     "Name": "underwater_deep",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 81
   },
   {
     "Name": "NoAmbientmult",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 4
   },
   {
     "Name": "superDARK",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 3
   },
   {
     "Name": "CAMERA_BW",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 33
   },
   {
     "Name": "Forest",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 30
   },
   {
     "Name": "micheal",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 10
   },
   {
     "Name": "TREVOR",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 15
   },
   {
     "Name": "FRANKLIN",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 20
   },
   {
     "Name": "Tunnel",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 13
   },
   {
     "Name": "carpark",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 18
   },
   {
     "Name": "NEW_abattoir",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 67
   },
   {
     "Name": "Vagos",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 23
   },
   {
     "Name": "cops",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 18
   },
   {
     "Name": "Bikers",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 28
   },
   {
     "Name": "BikersSPLASH",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 30
   },
   {
     "Name": "VagosSPLASH",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 21
   },
   {
     "Name": "CopsSPLASH",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 22
   },
   {
     "Name": "VAGOS_new_garage",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 24
   },
   {
     "Name": "VAGOS_new_hangout",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 26
   },
   {
     "Name": "NEW_jewel",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 35
   },
   {
     "Name": "frankilnsAUNTS_new",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 37
   },
   {
     "Name": "frankilnsAUNTS_SUNdir",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 2
   },
   {
     "Name": "StreetLighting",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 1
   },
   {
     "Name": "NEW_tunnels",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 27
   },
   {
     "Name": "NEW_yellowtunnels",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 55
   },
   {
     "Name": "NEW_tunnels_hole",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 31
   },
   {
     "Name": "NEW_tunnels_ditch",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 30
   },
   {
     "Name": "Paleto",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 6
   },
   {
     "Name": "new_bank",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 17
   },
   {
     "Name": "ReduceDrawDistance",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 10
   },
   {
     "Name": "ReduceDrawDistanceMission",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 6
   },
   {
     "Name": "lightpolution",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 16
   },
   {
     "Name": "NEW_lesters",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 35
   },
   {
     "Name": "ReduceDrawDistanceMAP",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 6
   },
   {
     "Name": "reducewaterREF",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 1
   },
   {
     "Name": "garage",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 12
   },
   {
     "Name": "LightPollutionHills",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 16
   },
   {
     "Name": "NewMicheal",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 30
   },
   {
     "Name": "NewMichealupstairs",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 20
   },
   {
     "Name": "NewMichealstoilet",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 18
   },
   {
     "Name": "NewMichealgirly",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 29
   },
   {
     "Name": "WATER_port",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 60
   },
   {
     "Name": "WATER_salton",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 68
   },
   {
     "Name": "WATER_river",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 61
   },
   {
     "Name": "FIB_interview",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 33
   },
   {
     "Name": "NEW_station_unfinished",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 33
   },
   {
     "Name": "cashdepot",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 30
   },
   {
     "Name": "cashdepotEMERGENCY",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 36
   },
   {
     "Name": "FrankilinsHOUSEhills",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 29
   },
   {
     "Name": "HicksbarNEW",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 32
   },
   {
     "Name": "NOdirectLight",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 0
   },
   {
     "Name": "SALTONSEA",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 59
   },
   {
     "Name": "TUNNEL_green",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 32
   },
   {
     "Name": "NewMicheal_night",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 24
   },
   {
     "Name": "WATER_muddy",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 69
   },
   {
     "Name": "WATER_shore",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 22
   },
   {
     "Name": "damage",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 11
   },
   {
     "Name": "hitped",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 2
   },
   {
     "Name": "dying",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 8
   },
   {
     "Name": "overwater",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 6
   },
   {
     "Name": "whitenightlighting",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 6
   },
   {
     "Name": "TUNNEL_yellow",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 32
   },
   {
     "Name": "buildingTOP",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 1
   },
   {
     "Name": "WATER_lab",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 89
   },
   {
     "Name": "cinema",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 36
   },
   {
     "Name": "fireDEPT",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 34
   },
   {
     "Name": "ranch",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 33
   },
   {
     "Name": "TUNNEL_white",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 36
   },
   {
     "Name": "V_recycle_mainroom",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 26
   },
   {
     "Name": "V_recycle_dark",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 27
   },
   {
     "Name": "V_recycle_light",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 26
   },
   {
     "Name": "lightning_weak",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 33
   },
   {
     "Name": "lightning_strong",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 36
   },
   {
     "Name": "lightning_cloud",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 9
   },
   {
     "Name": "gunclubrange",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 36
   },
   {
     "Name": "NoAmbientmult_interior",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 1
   },
   {
     "Name": "FullAmbientmult_interior",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 1
   },
   {
     "Name": "StreetLightingJunction",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 1
   },
   {
     "Name": "StreetLightingtraffic",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 1
   },
   {
     "Name": "Multipayer_spectatorCam",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 18
   },
   {
     "Name": "INT_NoAmbientmult",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 1
   },
   {
     "Name": "INT_NoAmbientmult_art",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 1
   },
   {
     "Name": "INT_FullAmbientmult",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 1
   },
   {
     "Name": "INT_FULLAmbientmult_art",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 1
   },
   {
     "Name": "INT_FULLAmbientmult_both",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 2
   },
   {
     "Name": "INT_NoAmbientmult_both",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 2
   },
   {
     "Name": "Sniper",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 17
   },
   {
     "Name": "ReduceSSAO",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 0
   },
   {
     "Name": "scope_zoom_in",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 5
   },
   {
     "Name": "scope_zoom_out",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 5
   },
   {
     "Name": "crane_cam",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 19
   },
   {
     "Name": "WATER_silty",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 64
   },
   {
     "Name": "Trevors_room",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 31
   },
   {
     "Name": "Hint_cam",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 16
   },
   {
     "Name": "venice_canal_tunnel",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 47
   },
   {
     "Name": "blackNwhite",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 22
   },
   {
     "Name": "projector",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 12
   },
   {
     "Name": "paleto_opt",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 8
   },
   {
     "Name": "warehouse",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 27
   },
   {
     "Name": "pulse",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 20
   },
   {
     "Name": "sleeping",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 10
   },
   {
     "Name": "INT_garage",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 19
   },
   {
     "Name": "nextgen",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 5
   },
   {
     "Name": "crane_cam_cinematic",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 7
   },
   {
     "Name": "TUNNEL_orange",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 33
   },
   {
     "Name": "traffic_skycam",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 30
   },
   {
     "Name": "powerstation",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 7
   },
   {
     "Name": "SAWMILL",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 9
   },
   {
     "Name": "LODmult_global_reduce",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 1
   },
   {
     "Name": "LODmult_HD_orphan_reduce",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 2
   },
   {
     "Name": "LODmult_HD_orphan_LOD_reduce",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 3
   },
   {
     "Name": "LODmult_LOD_reduce",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 1
   },
   {
     "Name": "LODmult_SLOD1_reduce",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 1
   },
   {
     "Name": "LODmult_SLOD2_reduce",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 1
   },
   {
     "Name": "LODmult_SLOD3_reduce",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 1
   },
   {
     "Name": "NewMicheal_upstairs",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 24
   },
   {
     "Name": "micheals_lightsOFF",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 2
   },
   {
     "Name": "telescope",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 22
   },
   {
     "Name": "WATER_silverlake",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 56
   },
   {
     "Name": "WATER _lab_cooling",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 95
   },
   {
     "Name": "baseTONEMAPPING",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 16
   },
   {
     "Name": "WATER_salton_bottom",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 37
   },
   {
     "Name": "new_stripper_changing",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 29
   },
   {
     "Name": "underwater_deep_clear",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 4
   },
   {
     "Name": "prologue_ending_fog",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 25
   },
   {
     "Name": "graveyard_shootout",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 16
   },
   {
     "Name": "morebloom",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 3
   },
   {
     "Name": "LIGHTSreduceFALLOFF",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 0
   },
   {
     "Name": "INT_posh_hairdresser",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 23
   },
   {
     "Name": "V_strip_office",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 28
   },
   {
     "Name": "sunglasses",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 15
   },
   {
     "Name": "vespucci_garage",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 34
   },
   {
     "Name": "half_direct",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 3
   },
   {
     "Name": "carpark_dt1_03",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 20
   },
   {
     "Name": "tunnel_id1_11",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 20
   },
   {
     "Name": "reducelightingcost",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 2
   },
   {
     "Name": "NOrain",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 1
   },
   {
     "Name": "morgue_dark",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 44
   },
   {
     "Name": "CS3_rail_tunnel",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 19
   },
   {
     "Name": "new_tunnels_entrance",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 47
   },
   {
     "Name": "spectator1",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 32
   },
   {
     "Name": "spectator2",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 63
   },
   {
     "Name": "spectator3",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 34
   },
   {
     "Name": "spectator4",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 36
   },
   {
     "Name": "spectator5",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 43
   },
   {
     "Name": "spectator6",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 37
   },
   {
     "Name": "spectator7",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 33
   },
   {
     "Name": "spectator8",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 48
   },
   {
     "Name": "spectator9",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 31
   },
   {
     "Name": "spectator10",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 53
   },
   {
     "Name": "INT_NOdirectLight",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 1
   },
   {
     "Name": "WATER_resevoir",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 68
   },
   {
     "Name": "WATER_hills",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 66
   },
   {
     "Name": "WATER_militaryPOOP",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 62
   },
   {
     "Name": "NEW_ornate_bank",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 43
   },
   {
     "Name": "NEW_ornate_bank_safe",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 46
   },
   {
     "Name": "NEW_ornate_bank_entrance",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 38
   },
   {
     "Name": "NEW_ornate_bank_office",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 46
   },
   {
     "Name": "LODmult_global_reduce_NOHD",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 6
   },
   {
     "Name": "interior_WATER_lighting",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 1
   },
   {
     "Name": "gorge_reflectionoffset",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 2
   },
   {
     "Name": "eyeINtheSKY",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 22
   },
   {
     "Name": "resvoire_reflection",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 6
   },
   {
     "Name": "NO_weather",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 1
   },
   {
     "Name": "prologue_ext_art_amb",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 12
   },
   {
     "Name": "prologue_shootout",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 20
   },
   {
     "Name": "heathaze",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 22
   },
   {
     "Name": "KT_underpass",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 25
   },
   {
     "Name": "INT_nowaterREF",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 1
   },
   {
     "Name": "carMOD_underpass",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 28
   },
   {
     "Name": "refit",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 34
   },
   {
     "Name": "NO_streetAmbient",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 1
   },
   {
     "Name": "NO_coronas",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 2
   },
   {
     "Name": "epsilion",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 24
   },
   {
     "Name": "WATER_refmap_high",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 0
   },
   {
     "Name": "WATER_refmap_med",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 0
   },
   {
     "Name": "WATER_refmap_low",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 0
   },
   {
     "Name": "WATER_refmap_verylow",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 0
   },
   {
     "Name": "WATER_refmap_poolside",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 1
   },
   {
     "Name": "WATER_refmap_silverlake",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 0
   },
   {
     "Name": "WATER_refmap_venice",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 0
   },
   {
     "Name": "FORdoron_delete",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 4
   },
   {
     "Name": "NO_fog_alpha",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 1
   },
   {
     "Name": "V_strip_nofog",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 28
   },
   {
     "Name": "METRO_Tunnels",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 59
   },
   {
     "Name": "METRO_Tunnels_entrance",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 31
   },
   {
     "Name": "METRO_platform",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 30
   },
   {
     "Name": "STRIP_stage",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 55
   },
   {
     "Name": "STRIP_office",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 30
   },
   {
     "Name": "STRIP_changing",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 30
   },
   {
     "Name": "INT_NO_fogALPHA",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 3
   },
   {
     "Name": "STRIP_nofog",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 30
   },
   {
     "Name": "INT_streetlighting",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 8
   },
   {
     "Name": "ch2_tunnel_whitelight",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 6
   },
   {
     "Name": "AmbientPUSH",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 1
   },
   {
     "Name": "ship_lighting",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 4
   },
   {
     "Name": "powerplant_nightlight",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 8
   },
   {
     "Name": "paleto_nightlight",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 8
   },
   {
     "Name": "militarybase_nightlight",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 8
   },
   {
     "Name": "sandyshore_nightlight",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 8
   },
   {
     "Name": "jewel_gas",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 0
   },
   {
     "Name": "WATER_refmap_off",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 13
   },
   {
     "Name": "trailer_explosion_optimise",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 19
   },
   {
     "Name": "nervousRON_fog",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 7
   },
   {
     "Name": "DONT_overide_sunpos",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 1
   },
   {
     "Name": "gallery_refmod",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 20
   },
   {
     "Name": "prison_nightlight",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 8
   },
   {
     "Name": "multiplayer_ped_fight",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 4
   },
   {
     "Name": "ship_explosion_underwater",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 20
   },
   {
     "Name": "EXTRA_bouncelight",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 1
   },
   {
     "Name": "secret_camera",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 33
   },
   {
     "Name": "canyon_mission",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 23
   },
   {
     "Name": "gorge_reflection_gpu",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 4
   },
   {
     "Name": "subBASE_water_ref",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 13
   },
   {
     "Name": "poolsidewaterreflection2",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 13
   },
   {
     "Name": "CUSTOM_streetlight",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 1
   },
   {
     "Name": "ufo",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 32
   },
   {
     "Name": "ship_explosion_underwater\r\n",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 1
   },
   {
     "Name": "lab_none_exit",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 24
   },
   {
     "Name": "FinaleBankexit",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 28
   },
   {
     "Name": "prologue_reflection_opt",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 4
   },
   {
     "Name": "tunnel_entrance",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 1
   },
   {
     "Name": "tunnel_entrance_INT",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 1
   },
   {
     "Name": "id1_11_tunnel",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 31
   },
   {
     "Name": "reflection_correct_ambient",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 3
   },
   {
     "Name": "scanline_cam_cheap",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 12
   },
   {
     "Name": "scanline_cam",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 16
   },
   {
     "Name": "VC_tunnel_entrance",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 0
   },
   {
     "Name": "WATER_REF_malibu",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 13
   },
   {
     "Name": "carpark_dt1_02",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 31
   },
   {
     "Name": "FIB_interview_optimise",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 21
   },
   {
     "Name": "Prologue_shootout_opt",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 10
   },
   {
     "Name": "hangar_lightsmod",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 2
   },
   {
     "Name": "plane_inside_mode",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 34
   },
   {
     "Name": "eatra_bouncelight_beach",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 5
   },
   {
     "Name": "downtown_FIB_cascades_opt",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 3
   },
   {
     "Name": "jewel_optim",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 2
   },
   {
     "Name": "gorge_reflectionoffset2",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 2
   },
   {
     "Name": "ufo_deathray",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 59
   },
   {
     "Name": "PORT_heist_underwater",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 5
   },
   {
     "Name": "TUNNEL_orange_exterior",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 17
   },
   {
     "Name": "hillstunnel",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 8
   },
   {
     "Name": "jewelry_entrance_INT",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 2
   },
   {
     "Name": "jewelry_entrance",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 2
   },
   {
     "Name": "jewelry_entrance_INT_fog",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 2
   },
   {
     "Name": "TUNNEL_yellow_ext",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 12
   },
   {
     "Name": "NEW_jewel_EXIT",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 35
   },
   {
     "Name": "services_nightlight",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 8
   },
   {
     "Name": "CS1_railwayB_tunnel",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 21
   },
   {
     "Name": "TUNNEL_green_ext",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 8
   },
   {
     "Name": "CAMERA_secuirity",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 33
   },
   {
     "Name": "CAMERA_secuirity_FUZZ",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 39
   },
   {
     "Name": "int_hospital_small",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 32
   },
   {
     "Name": "int_hospital_dark",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 32
   },
   {
     "Name": "plaza_carpark",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 27
   },
   {
     "Name": "gen_bank",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 27
   },
   {
     "Name": "nightvision",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 30
   },
   {
     "Name": "WATER_cove",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 116
   },
   {
     "Name": "glasses_Darkblue",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 15
   },
   {
     "Name": "glasses_VISOR",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 18
   },
   {
     "Name": "heist_boat",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 15
   },
   {
     "Name": "heist_boat_engineRoom",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 15
   },
   {
     "Name": "buggy_shack",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 28
   },
   {
     "Name": "mineshaft",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 29
   },
   {
     "Name": "NG_first",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 11
   },
   {
     "Name": "glasses_Scuba",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 9
   },
   {
     "Name": "mugShot",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 53
   },
   {
     "Name": "Glasses_BlackOut",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 8
   },
   {
     "Name": "winning_room",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 136
   },
   {
     "Name": "mugShot_lineup",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 54
   },
   {
     "Name": "MPApartHigh_palnning",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 57
   },
   {
     "Name": "v_dark",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 50
   },
   {
     "Name": "polluted",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 14
   },
   {
     "Name": "lightning",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 31
   },
   {
     "Name": "torpedo",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 12
   },
   {
     "Name": "NEW_shrinksOffice",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 54
   },
   {
     "Name": "Facebook_NEW",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 26
   },
   {
     "Name": "NEW_trevorstrailer",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 30
   },
   {
     "Name": "New_sewers",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 55
   },
   {
     "Name": "facebook_serveroom",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 30
   },
   {
     "Name": "V_Office_smoke_Fire",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 17
   },
   {
     "Name": "V_FIB_IT3_alt5",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 23
   },
   {
     "Name": "int_Hospital_DM",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 20
   },
   {
     "Name": "int_Hospital2_DM",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 30
   },
   {
     "Name": "int_Barber1",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 27
   },
   {
     "Name": "int_tattoo_B",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 32
   },
   {
     "Name": "glasses_black",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 15
   },
   {
     "Name": "glasses_brown",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 12
   },
   {
     "Name": "glasses_blue",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 15
   },
   {
     "Name": "glasses_red",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 15
   },
   {
     "Name": "glasses_green",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 24
   },
   {
     "Name": "glasses_yellow",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 24
   },
   {
     "Name": "glasses_purple",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 24
   },
   {
     "Name": "glasses_pink",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 26
   },
   {
     "Name": "glasses_orange",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 26
   },
   {
     "Name": "WATER_ID2_21",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 2
   },
   {
     "Name": "WATER_RichmanStuntJump",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 2
   },
   {
     "Name": "CH3_06_water",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 2
   },
   {
     "Name": "WATER_refmap_hollywoodlake",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 2
   },
   {
     "Name": "WATER_CH2_06_01_03",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 2
   },
   {
     "Name": "WATER_CH2_06_02",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 2
   },
   {
     "Name": "WATER_CH2_06_04",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 2
   },
   {
     "Name": "RemoteSniper",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 38
   },
   {
     "Name": "V_Office_smoke",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 22
   },
   {
     "Name": "V_Office_smoke_ext",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 17
   },
   {
     "Name": "V_FIB_IT3",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 19
   },
   {
     "Name": "V_FIB_IT3_alt",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 25
   },
   {
     "Name": "V_FIB_stairs",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 22
   },
   {
     "Name": "v_abattoir",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 23
   },
   {
     "Name": "V_Abattoir_Cold",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 24
   },
   {
     "Name": "v_recycle",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 29
   },
   {
     "Name": "v_strip3",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 28
   },
   {
     "Name": "v_strpchangerm",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 31
   },
   {
     "Name": "v_jewel2",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 17
   },
   {
     "Name": "v_foundry",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 63
   },
   {
     "Name": "V_Metro_station",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 19
   },
   {
     "Name": "v_metro",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 22
   },
   {
     "Name": "V_Metro2",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 18
   },
   {
     "Name": "v_torture",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 61
   },
   {
     "Name": "v_sweat",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 23
   },
   {
     "Name": "v_sweat_entrance",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 19
   },
   {
     "Name": "v_sweat_NoDirLight",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 26
   },
   {
     "Name": "Barry1_Stoned",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 21
   },
   {
     "Name": "v_rockclub",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 32
   },
   {
     "Name": "v_michael",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 16
   },
   {
     "Name": "v_michael_lounge",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 6
   },
   {
     "Name": "v_janitor",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 22
   },
   {
     "Name": "int_amb_mult_large",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 2
   },
   {
     "Name": "int_extlight_large",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 21
   },
   {
     "Name": "ext_int_extlight_large",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 10
   },
   {
     "Name": "int_extlight_small",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 27
   },
   {
     "Name": "int_extlight_small_clipped",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 18
   },
   {
     "Name": "int_extlight_large_fog",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 23
   },
   {
     "Name": "int_extlight_small_fog",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 23
   },
   {
     "Name": "int_extlight_none",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 20
   },
   {
     "Name": "int_extlight_none_dark",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 20
   },
   {
     "Name": "int_extlight_none_dark_fog",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 25
   },
   {
     "Name": "int_extlight_none_fog",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 24
   },
   {
     "Name": "int_clean_extlight_large",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 18
   },
   {
     "Name": "int_clean_extlight_small",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 18
   },
   {
     "Name": "int_clean_extlight_none",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 18
   },
   {
     "Name": "prologue",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 10
   },
   {
     "Name": "vagos_extlight_small",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 23
   },
   {
     "Name": "FinaleBank",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 28
   },
   {
     "Name": "FinaleBankMid",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 28
   },
   {
     "Name": "v_cashdepot",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 23
   },
   {
     "Name": "V_Solomons",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 19
   },
   {
     "Name": "int_methlab_small",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 41
   },
   {
     "Name": "int_Lost_small",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 25
   },
   {
     "Name": "int_Lost_none",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 25
   },
   {
     "Name": "int_ControlTower_small",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 27
   },
   {
     "Name": "int_ControlTower_none",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 27
   },
   {
     "Name": "int_dockcontrol_small",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 25
   },
   {
     "Name": "int_hanger_small",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 24
   },
   {
     "Name": "int_hanger_none",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 19
   },
   {
     "Name": "int_cluckinfactory_small",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 28
   },
   {
     "Name": "int_cluckinfactory_none",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 31
   },
   {
     "Name": "int_FranklinAunt_small",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 21
   },
   {
     "Name": "stc_franklinsHouse",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 9
   },
   {
     "Name": "stc_coroners",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 14
   },
   {
     "Name": "stc_trevors",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 47
   },
   {
     "Name": "stc_deviant_lounge",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 8
   },
   {
     "Name": "stc_deviant_bedroom",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 9
   },
   {
     "Name": "int_carshowroom",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 37
   },
   {
     "Name": "int_Farmhouse_small",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 25
   },
   {
     "Name": "int_Farmhouse_none",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 24
   },
   {
     "Name": "int_carmod_small",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 33
   },
   {
     "Name": "SP1_03_drawDistance",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 5
   },
   {
     "Name": "int_clotheslow_large",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 30
   },
   {
     "Name": "v_bahama",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 30
   },
   {
     "Name": "gunclub",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 39
   },
   {
     "Name": "int_GasStation",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 26
   },
   {
     "Name": "PoliceStation",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 25
   },
   {
     "Name": "PoliceStationDark",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 25
   },
   {
     "Name": "Shop247",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 29
   },
   {
     "Name": "Shop247_none",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 24
   },
   {
     "Name": "Hicksbar",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 22
   },
   {
     "Name": "cBank_back",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 22
   },
   {
     "Name": "cBank_front",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 27
   },
   {
     "Name": "int_office_Lobby",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 21
   },
   {
     "Name": "int_office_LobbyHall",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 19
   },
   {
     "Name": "SheriffStation",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 18
   },
   {
     "Name": "LifeInvaderLOD",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 35
   },
   {
     "Name": "int_motelroom",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 21
   },
   {
     "Name": "metro",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 23
   },
   {
     "Name": "int_ClothesHi",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 30
   },
   {
     "Name": "FIB_5",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 25
   },
   {
     "Name": "int_chopshop",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 29
   },
   {
     "Name": "int_tattoo",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 31
   },
   {
     "Name": "gunstore",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 31
   },
   {
     "Name": "int_Hospital_Blue",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 45
   },
   {
     "Name": "FIB_6",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 44
   },
   {
     "Name": "FIB_B",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 19
   },
   {
     "Name": "FIB_A",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 34
   },
   {
     "Name": "lab_none",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 19
   },
   {
     "Name": "lab_none_dark",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 24
   },
   {
     "Name": "lab_none_dark_fog",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 25
   },
   {
     "Name": "MP_Garage_L",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 43
   },
   {
     "Name": "MP_Studio_Lo",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 35
   },
   {
     "Name": "StadLobby",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 35
   },
   {
     "Name": "Hanger_INTmods",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 29
   },
   {
     "Name": "MPApartHigh",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 56
   },
   {
     "Name": "int_Hospital_BlueB",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 46
   },
   {
     "Name": "int_tunnel_none_dark",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 34
   },
   {
     "Name": "MP_lowgarage",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 36
   },
   {
     "Name": "MP_MedGarage",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 30
   },
   {
     "Name": "shades_yellow",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 24
   },
   {
     "Name": "shades_pink",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 24
   },
   {
     "Name": "Mp_apart_mid",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 36
   },
   {
     "Name": "yell_tunnel_nodirect",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 31
   },
   {
     "Name": "int_carrier_hanger",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 24
   },
   {
     "Name": "int_carrier_stair",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 25
   },
   {
     "Name": "int_carrier_rear",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 25
   },
   {
     "Name": "int_carrier_control",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 24
   },
   {
     "Name": "int_carrier_control_2",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 24
   },
   {
     "Name": "default",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 0
   },
   {
     "Name": "gunshop",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 17
   },
   {
     "Name": "MichaelsDirectional",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 17
   },
   {
     "Name": "Bank_HLWD",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 32
   },
   {
     "Name": "MichaelsNODirectional",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 17
   },
   {
     "Name": "MichaelsDarkroom",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 25
   },
   {
     "Name": "int_lesters",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 22
   },
   {
     "Name": "Tunnel_green1",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 18
   },
   {
     "Name": "cinema_001",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 27
   },
   {
     "Name": "exile1_plane",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 45
   },
   {
     "Name": "player_transition",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 25
   },
   {
     "Name": "player_transition_no_scanlines",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 32
   },
   {
     "Name": "player_transition_scanlines",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 5
   },
   {
     "Name": "switch_cam_1",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 28
   },
   {
     "Name": "switch_cam_2",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 31
   },
   {
     "Name": "Bloom",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 3
   },
   {
     "Name": "BloomLight",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 2
   },
   {
     "Name": "BloomMid",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 7
   },
   {
     "Name": "DrivingFocusLight",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 27
   },
   {
     "Name": "DrivingFocusDark",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 27
   },
   {
     "Name": "RaceTurboLight",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 25
   },
   {
     "Name": "RaceTurboDark",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 25
   },
   {
     "Name": "BulletTimeLight",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 33
   },
   {
     "Name": "BulletTimeDark",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 28
   },
   {
     "Name": "REDMIST",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 56
   },
   {
     "Name": "REDMIST_blend",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 57
   },
   {
     "Name": "MP_Bull_tost",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 31
   },
   {
     "Name": "MP_Bull_tost_blend",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 31
   },
   {
     "Name": "MP_Powerplay",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 34
   },
   {
     "Name": "MP_Powerplay_blend",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 34
   },
   {
     "Name": "MP_Killstreak",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 34
   },
   {
     "Name": "MP_Killstreak_blend",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 34
   },
   {
     "Name": "MP_Loser",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 34
   },
   {
     "Name": "MP_Loser_blend",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 34
   },
   {
     "Name": "CHOP",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 27
   },
   {
     "Name": "FranklinColorCode",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 35
   },
   {
     "Name": "MichaelColorCode",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 35
   },
   {
     "Name": "TrevorColorCode",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 35
   },
   {
     "Name": "NeutralColorCode",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 35
   },
   {
     "Name": "NeutralColorCodeLight",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 17
   },
   {
     "Name": "FranklinColorCodeBasic",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 8
   },
   {
     "Name": "MichaelColorCodeBasic",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 8
   },
   {
     "Name": "TrevorColorCodeBasic",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 8
   },
   {
     "Name": "NeutralColorCodeBasic",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 8
   },
   {
     "Name": "DefaultColorCode",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 19
   },
   {
     "Name": "PlayerSwitchPulse",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 10
   },
   {
     "Name": "PlayerSwitchNeutralFlash",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 13
   },
   {
     "Name": "hud_def_lensdistortion",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 2
   },
   {
     "Name": "hud_def_lensdistortion_subtle",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 2
   },
   {
     "Name": "hud_def_blur",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 1
   },
   {
     "Name": "hud_def_colorgrade",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 29
   },
   {
     "Name": "hud_def_flash",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 13
   },
   {
     "Name": "hud_def_desatcrunch",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 31
   },
   {
     "Name": "hud_def_desat_switch",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 25
   },
   {
     "Name": "hud_def_desat_cold",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 37
   },
   {
     "Name": "hud_def_desat_cold_kill",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 40
   },
   {
     "Name": "hud_def_desat_Neutral",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 34
   },
   {
     "Name": "hud_def_focus",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 24
   },
   {
     "Name": "hud_def_desat_Franklin",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 38
   },
   {
     "Name": "hud_def_desat_Michael",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 38
   },
   {
     "Name": "hud_def_desat_Trevor",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 38
   },
   {
     "Name": "hud_def_Franklin",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 33
   },
   {
     "Name": "hud_def_Michael",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 33
   },
   {
     "Name": "hud_def_Trevor",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 33
   },
   {
     "Name": "michealspliff",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 59
   },
   {
     "Name": "michealspliff_blend",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 2
   },
   {
     "Name": "michealspliff_blend02",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 2
   },
   {
     "Name": "trevorspliff",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 59
   },
   {
     "Name": "trevorspliff_blend",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 2
   },
   {
     "Name": "trevorspliff_blend02",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 2
   },
   {
     "Name": "BarryFadeOut",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 12
   },
   {
     "Name": "stoned",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 42
   },
   {
     "Name": "stoned_cutscene",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 20
   },
   {
     "Name": "stoned_monkeys",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 21
   },
   {
     "Name": "stoned_aliens",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 25
   },
   {
     "Name": "Drunk",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 33
   },
   {
     "Name": "drug_flying_base",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 49
   },
   {
     "Name": "drug_flying_01",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 4
   },
   {
     "Name": "drug_flying_02",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 4
   },
   {
     "Name": "DRUG_gas_huffin",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 53
   },
   {
     "Name": "Drug_deadman",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 37
   },
   {
     "Name": "Drug_deadman_blend",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 30
   },
   {
     "Name": "DRUG_2_drive",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 33
   },
   {
     "Name": "drug_drive_blend01",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 32
   },
   {
     "Name": "drug_drive_blend02",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 35
   },
   {
     "Name": "drug_wobbly",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 56
   },
   {
     "Name": "Dont_tazeme_bro",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 22
   },
   {
     "Name": "dont_tazeme_bro_b",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 22
   },
   {
     "Name": "int_extlght_sm_cntrst",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 22
   },
   {
     "Name": "MP_heli_cam",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 31
   },
   {
     "Name": "helicamfirst",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 11
   },
   {
     "Name": "introblue",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 16
   },
   {
     "Name": "MP_select",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 4
   },
   {
     "Name": "PERSHING_water_reflect",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 1
   },
   {
     "Name": "exile1_exit",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 43
   },
   {
     "Name": "phone_cam",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 9
   },
   {
     "Name": "ExplosionJosh",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 10
   },
   {
     "Name": "RaceTurboFlash",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 13
   },
   {
     "Name": "MP_death_grade",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 37
   },
   {
     "Name": "MP_death_grade_blend01",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 37
   },
   {
     "Name": "MP_death_grade_blend02",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 7
   },
   {
     "Name": "NG_deathfail_BW_base",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 40
   },
   {
     "Name": "NG_deathfail_BW_blend01",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 2
   },
   {
     "Name": "NG_deathfail_BW_blend02",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 2
   },
   {
     "Name": "MP_job_win",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 35
   },
   {
     "Name": "MP_job_lose",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 35
   },
   {
     "Name": "MP_corona_tournament",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 34
   },
   {
     "Name": "MP_corona_heist",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 34
   },
   {
     "Name": "MP_corona_selection",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 31
   },
   {
     "Name": "WhiteOut",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 5
   },
   {
     "Name": "BlackOut",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 10
   },
   {
     "Name": "MP_job_load",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 33
   },
   {
     "Name": "MP_intro_logo",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 22
   },
   {
     "Name": "MP_corona_switch",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 34
   },
   {
     "Name": "MP_race_finish",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 29
   },
   {
     "Name": "phone_cam1",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 41
   },
   {
     "Name": "phone_cam2",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 25
   },
   {
     "Name": "phone_cam3",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 41
   },
   {
     "Name": "phone_cam4",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 28
   },
   {
     "Name": "phone_cam5",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 31
   },
   {
     "Name": "phone_cam6",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 33
   },
   {
     "Name": "phone_cam7",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 33
   },
   {
     "Name": "phone_cam9",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 33
   },
   {
     "Name": "phone_cam10",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 41
   },
   {
     "Name": "phone_cam11",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 27
   },
   {
     "Name": "phone_cam12",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 27
   },
   {
     "Name": "phone_cam13",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 25
   },
   {
     "Name": "FranklinColorCodeBright",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 30
   },
   {
     "Name": "MichaelColorCodeBright",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 30
   },
   {
     "Name": "TrevorColorCodeBright",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 30
   },
   {
     "Name": "NeutralColorCodeBright",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 30
   },
   {
     "Name": "Kifflom",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 34
   },
   {
     "Name": "MP_job_load_01",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 37
   },
   {
     "Name": "MP_job_load_02",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 40
   },
   {
     "Name": "MP_job_preload",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 37
   },
   {
     "Name": "MP_job_preload_blend",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 37
   },
   {
     "Name": "NG_filmnoir_BW01",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 36
   },
   {
     "Name": "NG_filmnoir_BW02",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 36
   },
   {
     "Name": "NG_filmic01",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 32
   },
   {
     "Name": "NG_filmic02",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 63
   },
   {
     "Name": "NG_filmic03",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 34
   },
   {
     "Name": "NG_filmic04",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 36
   },
   {
     "Name": "NG_filmic05",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 43
   },
   {
     "Name": "NG_filmic06",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 37
   },
   {
     "Name": "NG_filmic07",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 33
   },
   {
     "Name": "NG_filmic08",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 48
   },
   {
     "Name": "NG_filmic09",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 31
   },
   {
     "Name": "NG_filmic10",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 53
   },
   {
     "Name": "NG_filmic11",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 45
   },
   {
     "Name": "NG_filmic12",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 31
   },
   {
     "Name": "NG_filmic13",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 38
   },
   {
     "Name": "NG_filmic14",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 41
   },
   {
     "Name": "NG_filmic15",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 32
   },
   {
     "Name": "NG_filmic16",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 44
   },
   {
     "Name": "NG_filmic17",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 33
   },
   {
     "Name": "NG_filmic18",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 46
   },
   {
     "Name": "NG_filmic19",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 38
   },
   {
     "Name": "NG_filmic20",
-    "DlcName": "singleplayer",
+    "DlcName": "basegame",
     "ModificationsCount": 44
   },
   {

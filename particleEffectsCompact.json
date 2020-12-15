@@ -191,6 +191,7 @@
       "bul_mud_heli",
       "bul_cardboard",
       "bul_carmetal_heli",
+      "exp_grd_sub_large",
       "ped_foot_dirt_dry",
       "fire_petroltank_plane",
       "ent_col_rocks",
@@ -202,6 +203,7 @@
       "ent_amb_butterflys_swarm",
       "ent_amb_steam_vent_open_lgt",
       "veh_vent_heli_cargobob",
+      "water_splash_sub_null_trig",
       "veh_light_red",
       "water_boat_bow",
       "env_interior_dusty",
@@ -263,6 +265,7 @@
       "env_cloud",
       "exp_grd_boat_lod",
       "bul_glass_shotgun",
+      "ent_dst_ceramics_tint",
       "water_jetski_prop",
       "env_dust_motes_int_recycle",
       "ent_amb_sewer_drips_lg",
@@ -303,6 +306,7 @@
       "env_dust_devil_urban_lrg",
       "exp_water",
       "ent_ray_finale_vault_sparks",
+      "exp_grd_sub_large_spawn",
       "weap_hvy_turbulance_default",
       "ent_amb_steam_pipe_hvy",
       "bul_mud",
@@ -459,6 +463,7 @@
       "wheel_fric_hard_dusty_Tank",
       "water_jetski_bow1_mounted",
       "veh_vent_plane_duster",
+      "ent_dst_veg_shrub",
       "fire_wrecked_truck",
       "ent_amb_wind_tree_leaves",
       "water_cannon_jet",
@@ -488,6 +493,7 @@
       "fire_object",
       "proj_disturb_dust",
       "bullet_shotgun_tracer",
+      "water_splash_sub_null_loop",
       "ent_ray_ch2_farm_fire_l_l_l",
       "ent_amb_foundry_heat_haze",
       "ent_dst_donuts",
@@ -632,6 +638,7 @@
       "scrape_sand",
       "ent_amb_cockroach_swarm",
       "ent_amb_generator_smoke",
+      "exp_grd_sub_large_sp",
       "muz_laser",
       "env_gunsmoke_paper_factory",
       "veh_vent_heli",
@@ -771,6 +778,7 @@
       "ent_amb_stoner_falling_debris",
       "ent_sht_extinguisher_water",
       "fire_map",
+      "exp_grd_sub_large_spawn_sp",
       "ent_amb_fountain_pour",
       "weap_veh_turbulance_water",
       "weap_smoke_grenade",
@@ -3741,6 +3749,106 @@
     "DictionaryName": "weap_gr_weapons",
     "EffectNames": [
       "bullet_tracer_gr_tintable"
+    ]
+  },
+  {
+    "DictionaryName": "cut_hs4",
+    "EffectNames": [
+      "cut_hs4_cig_exhale_mouth",
+      "cut_hs4_champagne_spray",
+      "cut_hs4_cctv_animal_rip",
+      "cut_hs4_cig_smoke",
+      "cut_hs4_cctv_blood_pool",
+      "cut_hs4_cctv_animal_maul",
+      "cut_hs4_cctv_animal_bite",
+      "cut_hs4_plane_exhaust",
+      "cut_hs4_plane_exhaust_velum",
+      "cut_hs4_champagne_pour",
+      "cut_hs4_plane_land_disturb_dust",
+      "cut_hs4_winky_exhaust",
+      "cut_hs4_camera_flash",
+      "cut_hs4_wrench_bang_metal",
+      "cut_hs4_plane_land_wheel_skid"
+    ]
+  },
+  {
+    "DictionaryName": "cut_hs4f",
+    "EffectNames": [
+      "cut_hs4f_sub_propeller",
+      "cut_hs4f_app_exhaust_plane",
+      "cut_hs4f_scuba_breath",
+      "cut_hs4f_exp_gate",
+      "cut_hs4f_photo_burn",
+      "cut_hs4f_flipper_bubbles"
+    ]
+  },
+  {
+    "DictionaryName": "scr_ih_club",
+    "EffectNames": [
+      "scr_ih_club_sparkler"
+    ]
+  },
+  {
+    "DictionaryName": "scr_ih_col",
+    "EffectNames": [
+      "scr_ih_col_poster_spraytag"
+    ]
+  },
+  {
+    "DictionaryName": "scr_ih_fin",
+    "EffectNames": [
+      "scr_ih_fin_glass_cutter_overheat",
+      "scr_ih_fin_cutter_nozzle",
+      "scr_ih_fin_torch_flame",
+      "scr_ih_fin_grille_singed",
+      "scr_ih_fin_glass_cutter_cut",
+      "scr_ih_fin_torch_lock_break",
+      "scr_ih_fin_cutter_flame",
+      "scr_ih_fin_grille_cutting",
+      "scr_ih_fin_torch_lock_cutting",
+      "scr_ih_fin_torch_nozzle",
+      "scr_ih_fin_explosive_charge",
+      "scr_ih_fin_grille_break",
+      "scr_ih_fin_torch_lock_singed"
+    ]
+  },
+  {
+    "DictionaryName": "scr_ih_sub",
+    "EffectNames": [
+      "scr_ih_sub_water_drips",
+      "scr_ih_sub_propeller",
+      "scr_ih_sub_surface",
+      "scr_ih_sub_missile_launch",
+      "scr_ih_sub_pool_door"
+    ]
+  },
+  {
+    "DictionaryName": "veh_ih_alk",
+    "EffectNames": [
+      "veh_ih_exhaust_afterburner_alk"
+    ]
+  },
+  {
+    "DictionaryName": "weap_ih_gpistol",
+    "EffectNames": [
+      "muz_ih_gpistol",
+      "eject_ih_gpistol_fp",
+      "eject_ih_gpistol"
+    ]
+  },
+  {
+    "DictionaryName": "weap_ih_patrolboat",
+    "EffectNames": [
+      "muz_ih_turret_patrolboat",
+      "eject_ih_turret_patrolboat",
+      "eject_ih_turret_patrolboat_twinmg",
+      "bullet_tracer_ih_patrolboat"
+    ]
+  },
+  {
+    "DictionaryName": "weap_ih_vehicle_ann2",
+    "EffectNames": [
+      "eject_heli_gun_ann"
     ]
   },
   {

@@ -840,6 +840,222 @@
     "RadioStation": null
   },
   {
+    "Name": "dlc_h4_se_mpjo",
+    "Position": {
+      "X": 1210.0,
+      "Y": -455.0,
+      "Z": 69.0
+    },
+    "Flags": "0xAA045401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "radio_27_dlc_prhei4"
+  },
+  {
+    "Name": "dlc_h4_se_safe_codes_room_music",
+    "Position": {
+      "X": 2486.1,
+      "Y": -274.0,
+      "Z": -38.3
+    },
+    "Flags": "0xAA045401",
+    "Interior": "ch_dlc_casino_hotel",
+    "Room": "ch_dlc_casino_hotel_casino_hotel_corridor_2_rm",
+    "RadioStation": "hidden_radio_casino_penthouse_p"
+  },
+  {
+    "Name": "dlc_h4_se_safe_codes_penthouse_music",
+    "Position": {
+      "X": 946.5,
+      "Y": 16.0,
+      "Z": 119.5
+    },
+    "Flags": "0xAA044401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": null
+  },
+  {
+    "Name": "dlc_h4_se_safe_codes_penthouse_music_entryway",
+    "Position": {
+      "X": 980.0,
+      "Y": 57.0,
+      "Z": 118.0
+    },
+    "Flags": "0xAA040401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": null
+  },
+  {
+    "Name": "dlc_h4_se_safe_codes_penthouse_music_lounge",
+    "Position": {
+      "X": 963.0,
+      "Y": 47.5,
+      "Z": 118.0
+    },
+    "Flags": "0xAA040401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": null
+  },
+  {
+    "Name": "se_h4_dlc_int_02_h4_main_front_01",
+    "Position": {
+      "X": 1553.4,
+      "Y": 244.6,
+      "Z": -45.83
+    },
+    "Flags": "0xAA040501",
+    "Interior": "h4_dlc_int_02_h4",
+    "Room": "h4_dlc_int_02_h4_int_01_main_area",
+    "RadioStation": "radio_32_dlc_hei4_mm_club"
+  },
+  {
+    "Name": "se_h4_dlc_int_02_h4_main_front_02",
+    "Position": {
+      "X": 1552.9,
+      "Y": 256.5,
+      "Z": -45.95
+    },
+    "Flags": "0xAA040501",
+    "Interior": "h4_dlc_int_02_h4",
+    "Room": "h4_dlc_int_02_h4_int_01_main_area",
+    "RadioStation": "radio_32_dlc_hei4_mm_club"
+  },
+  {
+    "Name": "se_h4_dlc_int_02_h4_main_bar",
+    "Position": {
+      "X": 1570.46,
+      "Y": 249.99,
+      "Z": -45.29
+    },
+    "Flags": "0xAA040501",
+    "Interior": "h4_dlc_int_02_h4",
+    "Room": "h4_dlc_int_02_h4_int_01_main_area",
+    "RadioStation": "radio_32_dlc_hei4_mm_club"
+  },
+  {
+    "Name": "se_h4_dlc_int_02_h4_lobby",
+    "Position": {
+      "X": 1571.9,
+      "Y": 244.5,
+      "Z": -45.35
+    },
+    "Flags": "0xAA040501",
+    "Interior": "h4_dlc_int_02_h4",
+    "Room": "h4_dlc_int_02_h4_lobby",
+    "RadioStation": "radio_32_dlc_hei4_mm_club"
+  },
+  {
+    "Name": "se_h4_dlc_int_02_h4_bogs",
+    "Position": {
+      "X": 1546.7,
+      "Y": 256.7,
+      "Z": -47.2
+    },
+    "Flags": "0xAA040501",
+    "Interior": "h4_dlc_int_02_h4",
+    "Room": "h4_dlc_int_02_h4_int_01_bogs",
+    "RadioStation": "radio_32_dlc_hei4_mm_club"
+  },
+  {
+    "Name": "se_h4_dlc_int_02_h4_entrance_doorway",
+    "Position": {
+      "X": 986.36,
+      "Y": 77.92,
+      "Z": 81.66
+    },
+    "Flags": "0xAA040401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "radio_31_dlc_hei4_km_club"
+  },
+  {
+    "Name": "se_h4_dlc_int_02_h4_main_room_cutscenes",
+    "Position": {
+      "X": 1570.46,
+      "Y": 249.99,
+      "Z": -47.2
+    },
+    "Flags": "0xAA044501",
+    "Interior": "h4_dlc_int_02_h4",
+    "Room": "h4_dlc_int_02_h4_int_01_main_area",
+    "RadioStation": "radio_32_dlc_hei4_mm_club"
+  },
+  {
+    "Name": "se_hei4_int_sub_stream",
+    "Position": {
+      "X": 1558.983,
+      "Y": 382.149,
+      "Z": -48.12495
+    },
+    "Flags": "0xAA000001",
+    "Interior": "h4_int_sub_h4",
+    "Room": "h4_int_sub_h4_rm_command",
+    "RadioStation": null
+  },
+  {
+    "Name": "se_hei4_int_sub_mess_radio",
+    "Position": {
+      "X": 1563.2,
+      "Y": 385.5,
+      "Z": -53.211
+    },
+    "Flags": "0xAA045501",
+    "Interior": "h4_int_sub_h4",
+    "Room": "h4_int_sub_h4_rm_mess",
+    "RadioStation": "RADIO_17_FUNK"
+  },
+  {
+    "Name": "se_dlc_hei4_island_beach_party_music_new_01_left",
+    "Position": {
+      "X": 4896.5,
+      "Y": -4908.0,
+      "Z": 3.5
+    },
+    "Flags": "0xAA045501",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "radio_30_dlc_hei4_mix1_reverb"
+  },
+  {
+    "Name": "se_dlc_hei4_island_beach_party_music_new_02_right",
+    "Position": {
+      "X": 4890.4,
+      "Y": -4907.3,
+      "Z": 3.5
+    },
+    "Flags": "0xAA045501",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "radio_30_dlc_hei4_mix1_reverb"
+  },
+  {
+    "Name": "se_dlc_hei4_island_beach_party_music_new_04_reverb",
+    "Position": {
+      "X": 4965.4,
+      "Y": -4942.4,
+      "Z": 15.52
+    },
+    "Flags": "0xAA045401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "radio_30_dlc_hei4_mix1_reverb"
+  },
+  {
+    "Name": "se_dlc_hei4_island_beach_party_music_new_03_reverb",
+    "Position": {
+      "X": 4935.9,
+      "Y": -4891.2,
+      "Z": 26.47
+    },
+    "Flags": "0xAA045401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "radio_30_dlc_hei4_mix1_reverb"
+  },
+  {
     "Name": "se_ba_dlc_int_01_bars",
     "Position": {
       "X": -1579.0,
@@ -1869,7 +2085,7 @@
     "Flags": "0xAA041001",
     "Interior": null,
     "Room": null,
-    "RadioStation": "RADIO_13_JAZZ"
+    "RadioStation": "radio_13_jazz"
   },
   {
     "Name": "SE_COUNTRY_SAWMILL_MAIN_BUILDING",
@@ -3069,7 +3285,7 @@
     "Flags": "0xAA041001",
     "Interior": null,
     "Room": null,
-    "RadioStation": "RADIO_13_JAZZ"
+    "RadioStation": "radio_13_jazz"
   },
   {
     "Name": "collision_38cxop",
@@ -3093,7 +3309,7 @@
     "Flags": "0xAA041001",
     "Interior": null,
     "Room": null,
-    "RadioStation": "RADIO_13_JAZZ"
+    "RadioStation": "radio_13_jazz"
   },
   {
     "Name": "collision_9zhp4y5",
@@ -3225,7 +3441,7 @@
     "Flags": "0xAA041001",
     "Interior": null,
     "Room": null,
-    "RadioStation": "RADIO_13_JAZZ"
+    "RadioStation": "radio_13_jazz"
   },
   {
     "Name": "collision_9l2lpsj",
@@ -3237,7 +3453,7 @@
     "Flags": "0xAA041001",
     "Interior": null,
     "Room": null,
-    "RadioStation": "RADIO_13_JAZZ"
+    "RadioStation": "radio_13_jazz"
   },
   {
     "Name": "collision_9l2lpsm",
@@ -3249,7 +3465,7 @@
     "Flags": "0xAA041001",
     "Interior": null,
     "Room": null,
-    "RadioStation": "RADIO_13_JAZZ"
+    "RadioStation": "radio_13_jazz"
   },
   {
     "Name": "collision_9dpu563",
@@ -3285,7 +3501,7 @@
     "Flags": "0xAA041001",
     "Interior": null,
     "Room": null,
-    "RadioStation": "RADIO_13_JAZZ"
+    "RadioStation": "radio_13_jazz"
   },
   {
     "Name": "collision_8ymcf2u",
@@ -3345,7 +3561,7 @@
     "Flags": "0xAA041001",
     "Interior": null,
     "Room": null,
-    "RadioStation": "RADIO_13_JAZZ"
+    "RadioStation": "radio_13_jazz"
   },
   {
     "Name": "collision_9yjl1ld",
@@ -3381,7 +3597,7 @@
     "Flags": "0xAA041001",
     "Interior": null,
     "Room": null,
-    "RadioStation": "RADIO_13_JAZZ"
+    "RadioStation": "radio_13_jazz"
   },
   {
     "Name": "collision_51xnvr8",
@@ -3393,7 +3609,7 @@
     "Flags": "0xAA041001",
     "Interior": null,
     "Room": null,
-    "RadioStation": "RADIO_13_JAZZ"
+    "RadioStation": "radio_13_jazz"
   },
   {
     "Name": "collision_8i1gin5",
@@ -3501,7 +3717,7 @@
     "Flags": "0xAA041001",
     "Interior": null,
     "Room": null,
-    "RadioStation": "RADIO_13_JAZZ"
+    "RadioStation": "radio_13_jazz"
   },
   {
     "Name": "collision_9n5r228",
@@ -3525,7 +3741,7 @@
     "Flags": "0xAA041001",
     "Interior": null,
     "Room": null,
-    "RadioStation": "RADIO_13_JAZZ"
+    "RadioStation": "radio_13_jazz"
   },
   {
     "Name": "collision_76ky7bi",
@@ -3585,7 +3801,7 @@
     "Flags": "0xAA041001",
     "Interior": null,
     "Room": null,
-    "RadioStation": "RADIO_13_JAZZ"
+    "RadioStation": "radio_13_jazz"
   },
   {
     "Name": "collision_c95g12",
@@ -3597,7 +3813,7 @@
     "Flags": "0xAA041001",
     "Interior": null,
     "Room": null,
-    "RadioStation": "RADIO_13_JAZZ"
+    "RadioStation": "radio_13_jazz"
   },
   {
     "Name": "collision_8lxzkno",
@@ -3621,7 +3837,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "RADIO_13_JAZZ"
+    "RadioStation": "radio_13_jazz"
   },
   {
     "Name": "collision_89fr7mz",
@@ -3777,7 +3993,7 @@
     "Flags": "0xAA040001",
     "Interior": null,
     "Room": null,
-    "RadioStation": "RADIO_14_DANCE_02"
+    "RadioStation": "radio_14_dance_02"
   },
   {
     "Name": "collision_943rcy1",
@@ -5241,7 +5457,7 @@
     "Flags": "0xAA040011",
     "Interior": null,
     "Room": null,
-    "RadioStation": "RADIO_13_JAZZ"
+    "RadioStation": "radio_13_jazz"
   },
   {
     "Name": "collision_cjczcp",
@@ -6045,7 +6261,7 @@
     "Flags": "0xAA040001",
     "Interior": "v_gasstation",
     "Room": "hash_6F6654AA",
-    "RadioStation": "RADIO_13_JAZZ"
+    "RadioStation": "radio_13_jazz"
   },
   {
     "Name": "collision_7yvczh",
@@ -7221,7 +7437,7 @@
     "Flags": "0xAA041511",
     "Interior": null,
     "Room": null,
-    "RadioStation": "RADIO_14_DANCE_02"
+    "RadioStation": "radio_14_dance_02"
   },
   {
     "Name": "se_dlc_apt_yacht_bedroom",
@@ -7233,7 +7449,7 @@
     "Flags": "0xAA041511",
     "Interior": null,
     "Room": null,
-    "RadioStation": "RADIO_14_DANCE_02"
+    "RadioStation": "radio_14_dance_02"
   },
   {
     "Name": "se_dlc_apt_yacht_exterior_01",
@@ -7245,7 +7461,7 @@
     "Flags": "0xAA041411",
     "Interior": null,
     "Room": null,
-    "RadioStation": "RADIO_14_DANCE_02"
+    "RadioStation": "radio_14_dance_02"
   },
   {
     "Name": "se_dlc_apt_yacht_exterior_02",
@@ -7257,7 +7473,7 @@
     "Flags": "0xAA041411",
     "Interior": null,
     "Room": null,
-    "RadioStation": "RADIO_14_DANCE_02"
+    "RadioStation": "radio_14_dance_02"
   },
   {
     "Name": "se_dlc_apt_yacht_exterior_03",
@@ -7269,7 +7485,7 @@
     "Flags": "0xAA041411",
     "Interior": null,
     "Room": null,
-    "RadioStation": "RADIO_14_DANCE_02"
+    "RadioStation": "radio_14_dance_02"
   },
   {
     "Name": "se_dlc_apt_yacht_exterior_04",
@@ -7281,7 +7497,7 @@
     "Flags": "0xAA041411",
     "Interior": null,
     "Room": null,
-    "RadioStation": "RADIO_14_DANCE_02"
+    "RadioStation": "radio_14_dance_02"
   },
   {
     "Name": "se_dlc_apt_yacht_bedroom_02",
@@ -7293,7 +7509,7 @@
     "Flags": "0xAA041511",
     "Interior": null,
     "Room": null,
-    "RadioStation": "RADIO_14_DANCE_02"
+    "RadioStation": "radio_14_dance_02"
   },
   {
     "Name": "se_dlc_apt_yacht_bedroom_03",
@@ -7305,7 +7521,7 @@
     "Flags": "0xAA041511",
     "Interior": null,
     "Room": null,
-    "RadioStation": "RADIO_14_DANCE_02"
+    "RadioStation": "radio_14_dance_02"
   },
   {
     "Name": "se_dlc_apt_custom_bedroom",
@@ -7317,7 +7533,7 @@
     "Flags": "0xAA041511",
     "Interior": null,
     "Room": null,
-    "RadioStation": "RADIO_14_DANCE_02"
+    "RadioStation": "radio_14_dance_02"
   },
   {
     "Name": "se_dlc_apt_custom_heist_room",
@@ -7329,7 +7545,7 @@
     "Flags": "0xAA041511",
     "Interior": null,
     "Room": null,
-    "RadioStation": "RADIO_14_DANCE_02"
+    "RadioStation": "radio_14_dance_02"
   },
   {
     "Name": "se_dlc_apt_custom_living_room",
@@ -7341,7 +7557,7 @@
     "Flags": "0xAA041511",
     "Interior": null,
     "Room": null,
-    "RadioStation": "RADIO_14_DANCE_02"
+    "RadioStation": "radio_14_dance_02"
   },
   {
     "Name": "se_dlc_apt_stilts_a_living_room",
@@ -7353,7 +7569,7 @@
     "Flags": "0xAA041511",
     "Interior": null,
     "Room": null,
-    "RadioStation": "RADIO_14_DANCE_02"
+    "RadioStation": "radio_14_dance_02"
   },
   {
     "Name": "se_dlc_apt_stilts_a_bedroom",
@@ -7365,7 +7581,7 @@
     "Flags": "0xAA041511",
     "Interior": null,
     "Room": null,
-    "RadioStation": "RADIO_14_DANCE_02"
+    "RadioStation": "radio_14_dance_02"
   },
   {
     "Name": "se_dlc_apt_stilts_a_heist_room",
@@ -7377,7 +7593,7 @@
     "Flags": "0xAA041511",
     "Interior": null,
     "Room": null,
-    "RadioStation": "RADIO_14_DANCE_02"
+    "RadioStation": "radio_14_dance_02"
   },
   {
     "Name": "se_dlc_apt_stilts_b_living_room",
@@ -7389,7 +7605,7 @@
     "Flags": "0xAA041511",
     "Interior": null,
     "Room": null,
-    "RadioStation": "RADIO_14_DANCE_02"
+    "RadioStation": "radio_14_dance_02"
   },
   {
     "Name": "se_dlc_apt_stilts_b_heist_room",
@@ -7401,7 +7617,7 @@
     "Flags": "0xAA041511",
     "Interior": null,
     "Room": null,
-    "RadioStation": "RADIO_14_DANCE_02"
+    "RadioStation": "radio_14_dance_02"
   },
   {
     "Name": "se_dlc_apt_stilts_b_bedroom",
@@ -7413,7 +7629,7 @@
     "Flags": "0xAA041511",
     "Interior": null,
     "Room": null,
-    "RadioStation": "RADIO_14_DANCE_02"
+    "RadioStation": "radio_14_dance_02"
   },
   {
     "Name": "se_ex_int_office_01a_radio_01",
@@ -7857,7 +8073,7 @@
     "Flags": "0xAA041501",
     "Interior": "imp_impexp_intwaremed",
     "Room": "imp_impexp_intwaremed_intwaremed_room",
-    "RadioStation": "RADIO_14_DANCE_02"
+    "RadioStation": "radio_14_dance_02"
   },
   {
     "Name": "dlc_ie_office_garage_radio_01",
@@ -8169,7 +8385,7 @@
     "Flags": "0xAA041501",
     "Interior": "xs_arena_vip",
     "Room": "xs_arena_vip_vip_room",
-    "RadioStation": "RADIO_14_DANCE_02"
+    "RadioStation": "radio_14_dance_02"
   },
   {
     "Name": "se_dlc_aw_xs_x18_int_mod_garage_radio",
@@ -8181,7 +8397,7 @@
     "Flags": "0xAA041401",
     "Interior": "xs_x18_int_mod",
     "Room": "xs_x18_int_mod_arena_mod_rm",
-    "RadioStation": "RADIO_14_DANCE_02"
+    "RadioStation": "radio_14_dance_02"
   },
   {
     "Name": "se_dlc_aw_arena_construction_01",
@@ -8217,7 +8433,7 @@
     "Flags": "0xAA041501",
     "Interior": "xs_x18_int_mod2",
     "Room": "xs_x18_int_mod2_mod2_room",
-    "RadioStation": "RADIO_14_DANCE_02"
+    "RadioStation": "radio_14_dance_02"
   },
   {
     "Name": "se_vw_dlc_casino_apart_apart_default_room_radio",
@@ -8229,7 +8445,7 @@
     "Flags": "0xAA041401",
     "Interior": "vw_dlc_casino_apart",
     "Room": "vw_dlc_casino_apart_apart_default_room",
-    "RadioStation": "RADIO_14_DANCE_02"
+    "RadioStation": "radio_14_dance_02"
   },
   {
     "Name": "se_vw_dlc_casino_apart_apart_lounge_room_radio",
@@ -8241,7 +8457,7 @@
     "Flags": "0xAA041401",
     "Interior": "vw_dlc_casino_apart",
     "Room": "vw_dlc_casino_apart_apart_lounge_room",
-    "RadioStation": "RADIO_14_DANCE_02"
+    "RadioStation": "radio_14_dance_02"
   },
   {
     "Name": "se_vw_dlc_casino_apart_apart_arcade_room_radio",
@@ -8253,7 +8469,7 @@
     "Flags": "0xAA041401",
     "Interior": "vw_dlc_casino_apart",
     "Room": "vw_dlc_casino_apart_apart_arcade_room",
-    "RadioStation": "RADIO_14_DANCE_02"
+    "RadioStation": "radio_14_dance_02"
   },
   {
     "Name": "se_vw_dlc_casino_apart_apart_spa_room_water",

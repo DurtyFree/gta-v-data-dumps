@@ -65,6 +65,3565 @@
     ]
   },
   {
+    "Name": "az_dlc_h4_lsia_hangar_faux",
+    "Shape": "Box",
+    "Flags0": "0xAA800424",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": -1657.86,
+      "Y": -3150.9,
+      "Z": 13.33
+    },
+    "OuterSize": {
+      "X": 83.45,
+      "Y": 76.51,
+      "Z": 37.32
+    },
+    "InnerPosition": {
+      "X": -1662.97,
+      "Y": -3151.23,
+      "Z": 19.56
+    },
+    "InnerSize": {
+      "X": 64.45,
+      "Y": 53.05,
+      "Z": 17.32
+    },
+    "AmbientEmitters": [
+      "hash_9F620074"
+    ]
+  },
+  {
+    "Name": "iz_h4_dlc_int_02_h4_main_area",
+    "Shape": "Box",
+    "Flags0": "0xAA800425",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": -1594.55,
+      "Y": -3009.76,
+      "Z": -76.76
+    },
+    "OuterSize": {
+      "X": 26.01,
+      "Y": 18.86,
+      "Z": 6.73
+    },
+    "InnerPosition": {
+      "X": -1594.55,
+      "Y": -3009.76,
+      "Z": -76.76
+    },
+    "InnerSize": {
+      "X": 26.01,
+      "Y": 18.86,
+      "Z": 6.73
+    },
+    "AmbientEmitters": [
+      "hash_9F620074"
+    ]
+  },
+  {
+    "Name": "az_h4_dlc_int_02_h4_stockroommuffle",
+    "Shape": "Box",
+    "Flags0": "0xAA800424",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 1573.01,
+      "Y": 255.34,
+      "Z": -45.04
+    },
+    "OuterSize": {
+      "X": 2.52,
+      "Y": 3.82,
+      "Z": 3.47
+    },
+    "InnerPosition": {
+      "X": 1573.03,
+      "Y": 255.36,
+      "Z": -45.13
+    },
+    "InnerSize": {
+      "X": 2.48,
+      "Y": 3.77,
+      "Z": 3.47
+    },
+    "AmbientEmitters": [
+      "hash_9F620074"
+    ]
+  },
+  {
+    "Name": "iz_hei4_int_sub_rm_enginemain",
+    "Shape": "Box",
+    "Flags0": "0xAA800425",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "OuterSize": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "InnerPosition": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "InnerSize": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_hei4_int_sub_engine_main_machine",
+      "ar_dlc_hei4_int_sub_main_hatch_drip_02"
+    ]
+  },
+  {
+    "Name": "az_hei4_int_sub_main",
+    "Shape": "Box",
+    "Flags0": "0xAA800424",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 1563.4,
+      "Y": 394.07,
+      "Z": -52.17
+    },
+    "OuterSize": {
+      "X": 35.06,
+      "Y": 177.17,
+      "Z": 30.0
+    },
+    "InnerPosition": {
+      "X": 1563.4,
+      "Y": 394.07,
+      "Z": -52.17
+    },
+    "InnerSize": {
+      "X": 19.65,
+      "Y": 151.19,
+      "Z": 20.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_hei4_int_sub_engine_throb",
+      "ar_dlc_hei4_int_sub_metal_creaks"
+    ]
+  },
+  {
+    "Name": "iz_hei4_int_sub_rm_vehicles",
+    "Shape": "Box",
+    "Flags0": "0xAA800425",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "OuterSize": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "InnerPosition": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "InnerSize": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_hei4_int_sub_drips",
+      "ar_dlc_hei4_int_sub_vehicle_control_room_radio_01",
+      "ar_dlc_hei4_int_sub_heli_room_dripping_01"
+    ]
+  },
+  {
+    "Name": "iz_hei4_int_sub_rm_missiles",
+    "Shape": "Box",
+    "Flags0": "0xAA800425",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 1561.41,
+      "Y": 372.66,
+      "Z": -55.8
+    },
+    "OuterSize": {
+      "X": 6.03,
+      "Y": 10.42,
+      "Z": 2.62
+    },
+    "InnerPosition": {
+      "X": 1561.41,
+      "Y": 372.66,
+      "Z": -55.8
+    },
+    "InnerSize": {
+      "X": 6.03,
+      "Y": 10.42,
+      "Z": 2.62
+    },
+    "AmbientEmitters": [
+      "ar_dlc_hei4_int_sub_drips"
+    ]
+  },
+  {
+    "Name": "iz_dlc_hei4_int_sub_command",
+    "Shape": "Box",
+    "Flags0": "0xAA800425",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "OuterSize": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "InnerPosition": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "InnerSize": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_hei4_int_sub_command_dial_ticks_01",
+      "ar_dlc_hei4_int_sub_command_dial_ticks_02",
+      "ar_dlc_hei4_int_sub_command_dial_ticks_03",
+      "ar_dlc_hei4_int_sub_command_dial_ticks_04",
+      "ar_dlc_hei4_int_sub_command_beeps_00",
+      "ar_dlc_hei4_int_sub_command_beeps_01",
+      "ar_dlc_hei4_int_sub_command_beeps_02",
+      "ar_dlc_hei4_int_sub_command_beeps_03",
+      "ar_dlc_hei4_int_sub_command_beeps_04",
+      "ar_dlc_hei4_int_sub_command_beeps_01_01",
+      "ar_dlc_hei4_int_sub_main_hatch_drip_00",
+      "ar_dlc_hei4_int_sub_command_radio_01",
+      "ar_dlc_hei4_int_sub_command_radio_02",
+      "ar_dlc_hei4_int_sub_command_beeps_05",
+      "ar_dlc_hei4_int_sub_command_beeps_gm"
+    ]
+  },
+  {
+    "Name": "az_dlc_hei4_int_sub_command",
+    "Shape": "Box",
+    "Flags0": "0xAA800424",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 1561.56,
+      "Y": 387.44,
+      "Z": -48.99
+    },
+    "OuterSize": {
+      "X": 4.57,
+      "Y": 12.34,
+      "Z": 3.0
+    },
+    "InnerPosition": {
+      "X": 1562.01,
+      "Y": 386.66,
+      "Z": -48.99
+    },
+    "InnerSize": {
+      "X": 6.66,
+      "Y": 13.05,
+      "Z": 3.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_hei4_int_sub_command_sonar_01",
+      "ar_dlc_hei4_int_sub_command_sonar_02"
+    ]
+  },
+  {
+    "Name": "iz_hei4_int_sub_rm_stair1",
+    "Shape": "Box",
+    "Flags0": "0xAA800425",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 1561.0,
+      "Y": 374.05,
+      "Z": -51.09
+    },
+    "OuterSize": {
+      "X": 8.94,
+      "Y": 7.56,
+      "Z": 6.69
+    },
+    "InnerPosition": {
+      "X": 1561.0,
+      "Y": 374.05,
+      "Z": -51.09
+    },
+    "InnerSize": {
+      "X": 8.94,
+      "Y": 7.56,
+      "Z": 6.69
+    },
+    "AmbientEmitters": [
+      "ar_dlc_hei4_int_sub_main_hatch_drip_01"
+    ]
+  },
+  {
+    "Name": "iz_hei4_int_sub_rm_auxeng",
+    "Shape": "Box",
+    "Flags0": "0xAA800425",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "OuterSize": {
+      "X": 5.64,
+      "Y": 4.05,
+      "Z": 2.8
+    },
+    "InnerPosition": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "InnerSize": {
+      "X": 5.64,
+      "Y": 4.05,
+      "Z": 2.59
+    },
+    "AmbientEmitters": [
+      "ar_dlc_hei4_int_sub_auxeng_engine_small"
+    ]
+  },
+  {
+    "Name": "iz_h4_int_sub_h4_rm_stair3",
+    "Shape": "Box",
+    "Flags0": "0xAA800425",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 1560.42,
+      "Y": 395.83,
+      "Z": -54.57
+    },
+    "OuterSize": {
+      "X": 3.8,
+      "Y": 6.81,
+      "Z": 5.35
+    },
+    "InnerPosition": {
+      "X": 1560.42,
+      "Y": 395.83,
+      "Z": -54.57
+    },
+    "InnerSize": {
+      "X": 3.8,
+      "Y": 6.81,
+      "Z": 5.35
+    },
+    "AmbientEmitters": [
+      "ar_dlc_hei4_int_sub_stair3_dial_ticks"
+    ]
+  },
+  {
+    "Name": "az_dlc_hei4_int_sub_moonpool_water",
+    "Shape": "Box",
+    "Flags0": "0xAA800424",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 1561.35,
+      "Y": 413.06,
+      "Z": -54.47
+    },
+    "OuterSize": {
+      "X": 7.0,
+      "Y": 11.97,
+      "Z": 7.25
+    },
+    "InnerPosition": {
+      "X": 1561.24,
+      "Y": 413.55,
+      "Z": -54.8
+    },
+    "InnerSize": {
+      "X": 3.98,
+      "Y": 12.36,
+      "Z": 1.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_hei4_int_sub_moonpool_water_01",
+      "ar_dlc_hei4_int_sub_moon_pool_dripping_01"
+    ]
+  },
+  {
+    "Name": "iz_h4_int_sub_h4_rm_torpedo",
+    "Shape": "Box",
+    "Flags0": "0xAA800425",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 1561.41,
+      "Y": 371.4,
+      "Z": -55.8
+    },
+    "OuterSize": {
+      "X": 6.03,
+      "Y": 12.93,
+      "Z": 2.62
+    },
+    "InnerPosition": {
+      "X": 1561.41,
+      "Y": 371.4,
+      "Z": -55.8
+    },
+    "InnerSize": {
+      "X": 6.03,
+      "Y": 12.93,
+      "Z": 2.62
+    },
+    "AmbientEmitters": [
+      "ar_dlc_hei4_int_sub_drips_torpedo_01",
+      "ar_dlc_hei4_int_sub_drips_torpedo_02",
+      "ar_dlc_hei4_int_sub_torpedo_electrics"
+    ]
+  },
+  {
+    "Name": "iz_h4_int_sub_h4_rm_brig",
+    "Shape": "Box",
+    "Flags0": "0xAA800425",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 1561.5,
+      "Y": 381.91,
+      "Z": -55.8
+    },
+    "OuterSize": {
+      "X": 4.49,
+      "Y": 8.07,
+      "Z": 2.62
+    },
+    "InnerPosition": {
+      "X": 1561.5,
+      "Y": 381.91,
+      "Z": -55.8
+    },
+    "InnerSize": {
+      "X": 4.49,
+      "Y": 8.07,
+      "Z": 2.62
+    },
+    "AmbientEmitters": [
+      "ar_dlc_hei4_int_sub_brig_bleeps"
+    ]
+  },
+  {
+    "Name": "iz_h4_int_sub_h4_rm_stair2",
+    "Shape": "Box",
+    "Flags0": "0xAA800425",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 1561.61,
+      "Y": 375.83,
+      "Z": -52.64
+    },
+    "OuterSize": {
+      "X": 7.56,
+      "Y": 4.0,
+      "Z": 3.6
+    },
+    "InnerPosition": {
+      "X": 1561.61,
+      "Y": 375.83,
+      "Z": -52.64
+    },
+    "InnerSize": {
+      "X": 7.56,
+      "Y": 4.0,
+      "Z": 3.6
+    },
+    "AmbientEmitters": [
+      "ar_dlc_hei4_int_sub_stair_2_electrics"
+    ]
+  },
+  {
+    "Name": "iz_h4_int_sub_h4_rm_room2",
+    "Shape": "Box",
+    "Flags0": "0xAA800425",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 1560.36,
+      "Y": 396.27,
+      "Z": -49.3
+    },
+    "OuterSize": {
+      "X": 4.13,
+      "Y": 7.04,
+      "Z": 2.91
+    },
+    "InnerPosition": {
+      "X": 1560.36,
+      "Y": 396.27,
+      "Z": -49.3
+    },
+    "InnerSize": {
+      "X": 4.13,
+      "Y": 7.04,
+      "Z": 2.91
+    },
+    "AmbientEmitters": [
+      "ar_dlc_hei4_int_sub_room2_electrics"
+    ]
+  },
+  {
+    "Name": "iz_h4_int_sub_h4_rm_stair4",
+    "Shape": "Box",
+    "Flags0": "0xAA800425",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 1561.32,
+      "Y": 393.14,
+      "Z": -55.81
+    },
+    "OuterSize": {
+      "X": 5.59,
+      "Y": 6.28,
+      "Z": 2.87
+    },
+    "InnerPosition": {
+      "X": 1561.32,
+      "Y": 393.14,
+      "Z": -55.81
+    },
+    "InnerSize": {
+      "X": 5.59,
+      "Y": 6.28,
+      "Z": 2.87
+    },
+    "AmbientEmitters": [
+      "ar_dlc_hei4_int_sub_stair_4_electrics",
+      "ar_dlc_hei4_int_sub_stair4_dial_ticks"
+    ]
+  },
+  {
+    "Name": "iz_h4_dlc_island_office_island_office_rm",
+    "Shape": "Box",
+    "Flags0": "0xAA800425",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "OuterSize": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "InnerPosition": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "InnerSize": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "AmbientEmitters": null
+  },
+  {
+    "Name": "iz_h4_dlc_island_vault_sewer",
+    "Shape": "Box",
+    "Flags0": "0xAA800425",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 4994.57,
+      "Y": -5741.37,
+      "Z": 15.47
+    },
+    "OuterSize": {
+      "X": 12.89,
+      "Y": 25.9,
+      "Z": 5.28
+    },
+    "InnerPosition": {
+      "X": 4994.57,
+      "Y": -5741.37,
+      "Z": 15.47
+    },
+    "InnerSize": {
+      "X": 12.89,
+      "Y": 25.9,
+      "Z": 5.28
+    },
+    "AmbientEmitters": [
+      "ar_dlc_h4_ih_animals_rat_sewer"
+    ]
+  },
+  {
+    "Name": "iz_h4_dlc_island_vault_main_rm",
+    "Shape": "Box",
+    "Flags0": "0xAA800425",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 5008.47,
+      "Y": -5750.12,
+      "Z": 15.95
+    },
+    "OuterSize": {
+      "X": 19.54,
+      "Y": 16.95,
+      "Z": 4.49
+    },
+    "InnerPosition": {
+      "X": 5008.47,
+      "Y": -5750.12,
+      "Z": 15.95
+    },
+    "InnerSize": {
+      "X": 19.54,
+      "Y": 16.95,
+      "Z": 4.49
+    },
+    "AmbientEmitters": [
+      "ar_dlc_h4_ih_animals_rat_sewer"
+    ]
+  },
+  {
+    "Name": "az_h4_dlc_island_vault_extra_occlusion",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 4993.54,
+      "Y": -5741.53,
+      "Z": 13.94
+    },
+    "OuterSize": {
+      "X": 4.87,
+      "Y": 28.26,
+      "Z": 8.44
+    },
+    "InnerPosition": {
+      "X": 4993.78,
+      "Y": -5741.6,
+      "Z": 15.86
+    },
+    "InnerSize": {
+      "X": 3.04,
+      "Y": 28.06,
+      "Z": 5.0
+    },
+    "AmbientEmitters": [
+      "hash_9F620074"
+    ]
+  },
+  {
+    "Name": "az_h4_dlc_island_vault_water_channel",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 4994.58,
+      "Y": -5741.9,
+      "Z": 13.94
+    },
+    "OuterSize": {
+      "X": 36.06,
+      "Y": 27.79,
+      "Z": 9.95
+    },
+    "InnerPosition": {
+      "X": 4993.78,
+      "Y": -5741.6,
+      "Z": 15.86
+    },
+    "InnerSize": {
+      "X": 3.04,
+      "Y": 28.06,
+      "Z": 5.0
+    },
+    "AmbientEmitters": [
+      "h4_dlc_island_vault_rules_sewer_drip",
+      "h4_dlc_island_vault_rules_water_drip",
+      "h4_dlc_island_vault_rules_sewer"
+    ]
+  },
+  {
+    "Name": "iz_h4_mpapa_yacht_yachtrm_entry",
+    "Shape": "Box",
+    "Flags0": "0xAA800425",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": -1599.6,
+      "Y": -4078.31,
+      "Z": 6.52
+    },
+    "OuterSize": {
+      "X": 10.5,
+      "Y": 9.09,
+      "Z": 3.6
+    },
+    "InnerPosition": {
+      "X": -1599.6,
+      "Y": -4078.31,
+      "Z": 6.52
+    },
+    "InnerSize": {
+      "X": 10.5,
+      "Y": 9.09,
+      "Z": 3.6
+    },
+    "AmbientEmitters": [
+      "ar_dlc_h4_yacht_interior_engine",
+      "ar_dlc_h4_yachy_interior_bar_fridges",
+      "ar_dlc_h4_yachy_interior_rain_on_glass_roof",
+      "ar_dlc_h4_yacht_interior_creaks"
+    ]
+  },
+  {
+    "Name": "iz_h4_mpapa_yacht_yachtrm_bridge",
+    "Shape": "Box",
+    "Flags0": "0xAA800425",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": -3278.16,
+      "Y": 2148.67,
+      "Z": 12.63
+    },
+    "OuterSize": {
+      "X": 10.44,
+      "Y": 16.55,
+      "Z": 3.75
+    },
+    "InnerPosition": {
+      "X": -3278.16,
+      "Y": 2148.67,
+      "Z": 12.63
+    },
+    "InnerSize": {
+      "X": 10.44,
+      "Y": 16.55,
+      "Z": 3.75
+    },
+    "AmbientEmitters": [
+      "ar_h4_mpapa_yachtbridge_computer_console_sonar",
+      "ar_h4_mpapa_yachtbridge_computer_console_beeps",
+      "ar_h4_mpapa_yachtbridge_computer_console_hdd",
+      "ar_h4_mpapa_yachtbridge_computer_console_morsey",
+      "ar_h4_mpapa_yachtbridge_computer_console_radio"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_ih_docks_01",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 4954.49,
+      "Y": -5158.95,
+      "Z": 7.75
+    },
+    "OuterSize": {
+      "X": 95.63,
+      "Y": 111.42,
+      "Z": 12.0
+    },
+    "InnerPosition": {
+      "X": 4954.49,
+      "Y": -5158.95,
+      "Z": 7.75
+    },
+    "InnerSize": {
+      "X": 57.63,
+      "Y": 84.42,
+      "Z": 11.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_h4_ih_birds_tropical_mockingbird",
+      "ar_dlc_h4_ih_animals_bat_chitter",
+      "ar_dlc_h4_ih_animals_tropical_frog_low",
+      "ar_dlc_h4_ih_insects_cricket_synth_fm_day"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_ih_compound_01",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 5009.6,
+      "Y": -5756.79,
+      "Z": 36.89
+    },
+    "OuterSize": {
+      "X": 161.95,
+      "Y": 234.74,
+      "Z": 106.0
+    },
+    "InnerPosition": {
+      "X": 5009.6,
+      "Y": -5756.79,
+      "Z": 36.89
+    },
+    "InnerSize": {
+      "X": 105.72,
+      "Y": 99.51,
+      "Z": 50.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_h4_ih_birds_tropical_mockingbird",
+      "ar_dlc_h4_ih_insects_katydid_ratchet_tropical_24hr",
+      "ar_dlc_h4_ih_birds_parakeet",
+      "ar_dlc_h4_ih_insects_cricket_synth_am_night",
+      "ar_dlc_h4_ih_birds_pauraque",
+      "ar_dlc_h4_ih_birds_tropical_mockingbird_b",
+      "ar_dlc_h4_ih_birds_pidgeon",
+      "ar_dlc_h4_ih_insects_grasshopper_day",
+      "ar_dlc_h4_ih_birds_tropical_macaw",
+      "ar_dlc_h4_ih_birds_cockatoo",
+      "ar_dlc_h4_ih_birds_pidgeon_wings",
+      "pr_dlc_h4_ih_birds_tropical_persistent_01"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_ih_docks_02",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 4955.55,
+      "Y": -5154.92,
+      "Z": 7.75
+    },
+    "OuterSize": {
+      "X": 174.57,
+      "Y": 209.55,
+      "Z": 12.0
+    },
+    "InnerPosition": {
+      "X": 4935.69,
+      "Y": -5148.09,
+      "Z": 7.75
+    },
+    "InnerSize": {
+      "X": 81.28,
+      "Y": 115.99,
+      "Z": 11.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_h4_ih_birds_tropical_mockingbird"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_ih_beach_01",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 4904.41,
+      "Y": -4933.1,
+      "Z": 5.75
+    },
+    "OuterSize": {
+      "X": 133.88,
+      "Y": 178.46,
+      "Z": 12.0
+    },
+    "InnerPosition": {
+      "X": 4899.52,
+      "Y": -4928.48,
+      "Z": 5.75
+    },
+    "InnerSize": {
+      "X": 68.76,
+      "Y": 67.35,
+      "Z": 11.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_h4_ih_birds_seagull",
+      "ar_dlc_h4_ih_birds_seabird",
+      "ar_dlc_h4_ih_birds_seagull_distant",
+      "ar_dlc_h4_ih_birds_sandpiper"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_ih_barracks_03",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 4799.44,
+      "Y": -4335.98,
+      "Z": 20.03
+    },
+    "OuterSize": {
+      "X": 184.01,
+      "Y": 118.69,
+      "Z": 44.0
+    },
+    "InnerPosition": {
+      "X": 4799.44,
+      "Y": -4335.98,
+      "Z": 13.03
+    },
+    "InnerSize": {
+      "X": 67.58,
+      "Y": 39.93,
+      "Z": 20.0
+    },
+    "AmbientEmitters": [
+      "hash_627A2860",
+      "ar_dlc_h4_ih_insects_locust_ratchet_tropical_day",
+      "hash_07798F63",
+      "ar_dlc_h4_ih_birds_parakeet",
+      "ar_dlc_h4_ih_birds_pidgeon",
+      "hash_7997E62F",
+      "ar_dlc_h4_ih_birds_oropendola",
+      "ar_dlc_h4_ih_animals_bat_chitter",
+      "ar_dlc_h4_ih_animals_rat",
+      "pr_dlc_h4_ih_birds_junglebird_fixed_06"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_ih_pier_01",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 4939.31,
+      "Y": -5150.37,
+      "Z": 1.4
+    },
+    "OuterSize": {
+      "X": 49.56,
+      "Y": 27.11,
+      "Z": 20.0
+    },
+    "InnerPosition": {
+      "X": 4939.31,
+      "Y": -5150.37,
+      "Z": 1.4
+    },
+    "InnerSize": {
+      "X": 15.32,
+      "Y": 1.55,
+      "Z": 2.0
+    },
+    "AmbientEmitters": [
+      "hash_4CD46B8D",
+      "hash_A08270E7",
+      "hash_6A6467C0"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_ih_pier_02",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 4947.91,
+      "Y": -5159.19,
+      "Z": 1.4
+    },
+    "OuterSize": {
+      "X": 123.48,
+      "Y": 27.11,
+      "Z": 20.0
+    },
+    "InnerPosition": {
+      "X": 4947.91,
+      "Y": -5159.19,
+      "Z": 1.4
+    },
+    "InnerSize": {
+      "X": 72.25,
+      "Y": 1.55,
+      "Z": 2.0
+    },
+    "AmbientEmitters": [
+      "hash_4CD46B8D",
+      "hash_A08270E7",
+      "hash_6A6467C0"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_ih_pier_03",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 4905.22,
+      "Y": -5181.98,
+      "Z": 1.4
+    },
+    "OuterSize": {
+      "X": 99.34,
+      "Y": 24.99,
+      "Z": 20.0
+    },
+    "InnerPosition": {
+      "X": 4905.22,
+      "Y": -5181.98,
+      "Z": 1.4
+    },
+    "InnerSize": {
+      "X": 58.12,
+      "Y": 1.43,
+      "Z": 2.0
+    },
+    "AmbientEmitters": [
+      "hash_4CD46B8D",
+      "hash_A08270E7",
+      "hash_6A6467C0"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_ih_pier_05",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 5126.71,
+      "Y": -4632.13,
+      "Z": 1.0
+    },
+    "OuterSize": {
+      "X": 60.59,
+      "Y": 29.83,
+      "Z": 20.0
+    },
+    "InnerPosition": {
+      "X": 5127.18,
+      "Y": -4631.6,
+      "Z": 1.04
+    },
+    "InnerSize": {
+      "X": 36.56,
+      "Y": 2.87,
+      "Z": 2.0
+    },
+    "AmbientEmitters": [
+      "hash_4CD46B8D",
+      "hash_A08270E7",
+      "hash_6A6467C0"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_ih_pier_06",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 5160.9,
+      "Y": -4659.69,
+      "Z": 1.0
+    },
+    "OuterSize": {
+      "X": 42.32,
+      "Y": 20.43,
+      "Z": 20.0
+    },
+    "InnerPosition": {
+      "X": 5161.37,
+      "Y": -4659.16,
+      "Z": 1.04
+    },
+    "InnerSize": {
+      "X": 25.54,
+      "Y": 1.97,
+      "Z": 2.0
+    },
+    "AmbientEmitters": [
+      "hash_4CD46B8D",
+      "hash_A08270E7",
+      "hash_6A6467C0"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_ih_pier_04",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 5088.56,
+      "Y": -4653.62,
+      "Z": 1.0
+    },
+    "OuterSize": {
+      "X": 20.71,
+      "Y": 24.14,
+      "Z": 20.0
+    },
+    "InnerPosition": {
+      "X": 5088.56,
+      "Y": -4653.62,
+      "Z": 1.04
+    },
+    "InnerSize": {
+      "X": 12.12,
+      "Y": 1.38,
+      "Z": 2.0
+    },
+    "AmbientEmitters": [
+      "hash_4CD46B8D",
+      "hash_A08270E7",
+      "hash_6A6467C0"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_ih_main_09",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 4586.07,
+      "Y": -4910.86,
+      "Z": 25.75
+    },
+    "OuterSize": {
+      "X": 302.18,
+      "Y": 153.98,
+      "Z": 100.0
+    },
+    "InnerPosition": {
+      "X": 4577.22,
+      "Y": -4889.24,
+      "Z": 24.77
+    },
+    "InnerSize": {
+      "X": 123.97,
+      "Y": 48.24,
+      "Z": 50.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_h4_ih_insects_cicadas_tropical_day",
+      "ar_dlc_h4_ih_birds_tropical_mockingbird",
+      "ar_dlc_h4_ih_birds_tropical_mockingbird_b",
+      "ar_dlc_h4_ih_insects_cicadas_tropical_chirp_day",
+      "ar_dlc_h4_ih_insects_cricket_synth_am_night",
+      "ar_dlc_h4_ih_birds_tropical_mockingbird_b",
+      "ar_dlc_h4_ih_animals_rattle_snake",
+      "ar_dlc_h4_ih_insects_cicada_rasp_b_c_day",
+      "ar_dlc_h4_ih_birds_tropical_persistent",
+      "ar_dlc_h4_ih_birds_tropical_macaw"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_ih_crop_fields_02",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 5207.01,
+      "Y": -5199.19,
+      "Z": 25.64
+    },
+    "OuterSize": {
+      "X": 203.24,
+      "Y": 128.4,
+      "Z": 106.0
+    },
+    "InnerPosition": {
+      "X": 5207.01,
+      "Y": -5199.19,
+      "Z": 26.64
+    },
+    "InnerSize": {
+      "X": 84.5,
+      "Y": 41.67,
+      "Z": 50.0
+    },
+    "AmbientEmitters": [
+      "hash_627A2860",
+      "ar_dlc_h4_ih_insects_cicadas_tropical_day",
+      "ar_dlc_h4_ih_insects_cricket_synth_fm_day",
+      "ar_dlc_h4_ih_insects_locust_ratchet_tropical_day",
+      "ar_dlc_h4_ih_insects_cricket_synth_am_night",
+      "hash_07798F63",
+      "ar_dlc_h4_ih_animals_rattle_snake",
+      "ar_dlc_h4_ih_insects_grasshopper_day",
+      "ar_dlc_h4_ih_insects_cicada_rasp_b_c_day",
+      "ar_dlc_h4_ih_animals_bat_chitter",
+      "ar_dlc_h4_ih_animals_rat",
+      "ar_dlc_h4_ih_insects_locust_fly"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_ih_pier_07",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 5107.35,
+      "Y": -5160.52,
+      "Z": 1.66
+    },
+    "OuterSize": {
+      "X": 149.44,
+      "Y": 20.43,
+      "Z": 20.0
+    },
+    "InnerPosition": {
+      "X": 5107.35,
+      "Y": -5160.52,
+      "Z": 1.66
+    },
+    "InnerSize": {
+      "X": 90.19,
+      "Y": 1.97,
+      "Z": 2.0
+    },
+    "AmbientEmitters": [
+      "hash_4CD46B8D",
+      "hash_A08270E7",
+      "hash_6A6467C0"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_ih_barracks_04",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 4996.62,
+      "Y": -5194.95,
+      "Z": 20.03
+    },
+    "OuterSize": {
+      "X": 216.78,
+      "Y": 223.92,
+      "Z": 44.0
+    },
+    "InnerPosition": {
+      "X": 4996.62,
+      "Y": -5194.95,
+      "Z": 11.03
+    },
+    "InnerSize": {
+      "X": 80.05,
+      "Y": 104.53,
+      "Z": 20.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_h4_ih_birds_tropical_mockingbird",
+      "hash_627A2860",
+      "ar_dlc_h4_ih_insects_cicadas_tropical_day",
+      "ar_dlc_h4_ih_insects_locust_ratchet_tropical_day",
+      "hash_07798F63",
+      "ar_dlc_h4_ih_birds_creepy_macaw",
+      "ar_dlc_h4_ih_birds_parakeet",
+      "ar_dlc_h4_ih_birds_chicken",
+      "ar_dlc_h4_ih_birds_pidgeon"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_ih_substation_00",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 4481.65,
+      "Y": -4589.07,
+      "Z": 6.14
+    },
+    "OuterSize": {
+      "X": 117.96,
+      "Y": 110.24,
+      "Z": 20.0
+    },
+    "InnerPosition": {
+      "X": 4481.65,
+      "Y": -4589.07,
+      "Z": 6.14
+    },
+    "InnerSize": {
+      "X": 31.45,
+      "Y": 14.7,
+      "Z": 5.0
+    },
+    "AmbientEmitters": [
+      "hash_4FEA8EE9",
+      "hash_CDDB8B0D"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_ih_main_06b",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 4791.16,
+      "Y": -5795.48,
+      "Z": 45.75
+    },
+    "OuterSize": {
+      "X": 540.77,
+      "Y": 335.6,
+      "Z": 119.0
+    },
+    "InnerPosition": {
+      "X": 4798.17,
+      "Y": -5800.43,
+      "Z": 44.77
+    },
+    "InnerSize": {
+      "X": 280.18,
+      "Y": 73.71,
+      "Z": 69.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_h4_ih_insects_cicadas_tropical_day",
+      "ar_dlc_h4_ih_birds_tropical_mockingbird",
+      "ar_dlc_h4_ih_animals_jungle_cat",
+      "ar_dlc_h4_ih_birds_tropical_mockingbird_b",
+      "ar_dlc_h4_ih_insects_cicadas_tropical_chirp_day",
+      "ar_dlc_h4_ih_birds_tropical_mockingbird_b",
+      "ar_dlc_h4_ih_insects_cicada_rasp_b_c_day",
+      "ar_dlc_h4_ih_birds_tropical_macaw",
+      "ar_dlc_h4_ih_animals_tropical_frog_low",
+      "ar_dlc_h4_ih_animals_tropical_frog_weird",
+      "ar_dlc_h4_ih_animals_monkey_capuchin"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_ih_main_06",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 4932.12,
+      "Y": -5533.28,
+      "Z": 48.75
+    },
+    "OuterSize": {
+      "X": 477.82,
+      "Y": 385.16,
+      "Z": 114.0
+    },
+    "InnerPosition": {
+      "X": 4930.33,
+      "Y": -5529.2,
+      "Z": 47.77
+    },
+    "InnerSize": {
+      "X": 231.81,
+      "Y": 161.15,
+      "Z": 64.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_h4_ih_insects_cicadas_tropical_day",
+      "ar_dlc_h4_ih_birds_tropical_mockingbird",
+      "ar_dlc_h4_ih_animals_jungle_cat",
+      "hash_627A2860",
+      "ar_dlc_h4_ih_birds_tropical_mockingbird_b",
+      "ar_dlc_h4_ih_insects_cicadas_tropical_chirp_day",
+      "ar_dlc_h4_ih_insects_cricket_synth_am_night",
+      "ar_dlc_h4_ih_birds_tropical_mockingbird_b",
+      "ar_dlc_h4_ih_animals_rattle_snake",
+      "ar_dlc_h4_ih_insects_cicada_rasp_b_c_day",
+      "ar_dlc_h4_ih_birds_pauraque",
+      "ar_dlc_h4_ih_animals_bat_chitter",
+      "ar_dlc_h4_ih_birds_tropical_bird_a",
+      "ar_dlc_h4_ih_insects_grasshopper_fly_day",
+      "ar_dlc_h4_ih_insects_katydid_ratchet_tropical_24hr",
+      "ar_dlc_h4_ih_insects_cricket_night_extra_cycling"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_ih_main_07b",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 4991.69,
+      "Y": -5159.48,
+      "Z": 38.75
+    },
+    "OuterSize": {
+      "X": 501.25,
+      "Y": 426.83,
+      "Z": 129.0
+    },
+    "InnerPosition": {
+      "X": 4990.94,
+      "Y": -5163.4,
+      "Z": 37.77
+    },
+    "InnerSize": {
+      "X": 220.55,
+      "Y": 200.5,
+      "Z": 79.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_h4_ih_insects_cicadas_tropical_day",
+      "ar_dlc_h4_ih_birds_tropical_mockingbird",
+      "hash_627A2860",
+      "ar_dlc_h4_ih_birds_tropical_mockingbird_b",
+      "ar_dlc_h4_ih_insects_cicadas_tropical_chirp_day",
+      "ar_dlc_h4_ih_insects_cricket_synth_am_night",
+      "ar_dlc_h4_ih_birds_tropical_mockingbird_b",
+      "ar_dlc_h4_ih_insects_cicada_rasp_b_c_day",
+      "ar_dlc_h4_ih_birds_crow_warm",
+      "ar_dlc_h4_ih_animals_rat",
+      "ar_dlc_h4_ih_birds_kingbird",
+      "ar_dlc_h4_ih_insects_mosquitol_day",
+      "ar_dlc_h4_ih_birds_oropendola",
+      "ar_dlc_h4_ih_birds_cockatoo"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_ih_island_big_zone",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 4851.05,
+      "Y": -5150.03,
+      "Z": 300.0
+    },
+    "OuterSize": {
+      "X": 3533.25,
+      "Y": 2442.57,
+      "Z": 1000.0
+    },
+    "InnerPosition": {
+      "X": 4851.05,
+      "Y": -5150.03,
+      "Z": 300.0
+    },
+    "InnerSize": {
+      "X": 2428.62,
+      "Y": 1527.7,
+      "Z": 600.0
+    },
+    "AmbientEmitters": [
+      "pr_dlc_h4_ob_fallen_01",
+      "pr_dlc_h4_ob_fallen_02",
+      "pr_dlc_h4_cq_01",
+      "pr_dlc_h4_rv_01",
+      "pr_dlc_h4_co_01",
+      "pr_dlc_h4_wb_01",
+      "pr_dlc_h4_wb_02"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_ih_warehouse_01",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 4520.14,
+      "Y": -4524.15,
+      "Z": 5.14
+    },
+    "OuterSize": {
+      "X": 128.84,
+      "Y": 124.18,
+      "Z": 27.0
+    },
+    "InnerPosition": {
+      "X": 4517.83,
+      "Y": -4530.43,
+      "Z": 5.14
+    },
+    "InnerSize": {
+      "X": 50.53,
+      "Y": 36.81,
+      "Z": 12.0
+    },
+    "AmbientEmitters": [
+      "pr_dlc_h4_ih_animals_rat_01",
+      "pr_dlc_h4_ih_birds_pidgeon_01",
+      "pr_dlc_h4_ih_animals_rat_02"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_ih_airstrip_01b",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 4282.68,
+      "Y": -4423.09,
+      "Z": 5.86
+    },
+    "OuterSize": {
+      "X": 565.03,
+      "Y": 423.65,
+      "Z": 106.0
+    },
+    "InnerPosition": {
+      "X": 3329.53,
+      "Y": -4759.54,
+      "Z": 3.86
+    },
+    "InnerSize": {
+      "X": 199.57,
+      "Y": 135.7,
+      "Z": 50.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_h4_ih_birds_parakeet",
+      "ar_dlc_h4_ih_birds_quetzal",
+      "ar_dlc_h4_ih_animals_rat",
+      "ar_dlc_h4_ih_birds_tropical_bird_a",
+      "ar_dlc_h4_ih_insects_locust_fly",
+      "ar_dlc_h4_ih_insects_locust_ratchet_tropical_day",
+      "ar_dlc_h4_ih_animals_rattle_snake",
+      "ar_dlc_h4_ih_insects_grasshopper_chirping",
+      "ar_dlc_h4_ih_insects_cicadas_tropical_day",
+      "ar_dlc_h4_ih_birds_tropical_persistent",
+      "ar_dlc_h4_ih_birds_tropical_macaw",
+      "ar_dlc_h4_ih_birds_tropical_mockingbird",
+      "ar_dlc_h4_ih_insects_cricket_night_extra_cycling"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_ih_main_01a",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 4676.37,
+      "Y": -4510.19,
+      "Z": 15.45
+    },
+    "OuterSize": {
+      "X": 543.23,
+      "Y": 181.91,
+      "Z": 37.0
+    },
+    "InnerPosition": {
+      "X": 4690.02,
+      "Y": -4511.36,
+      "Z": 15.45
+    },
+    "InnerSize": {
+      "X": 293.23,
+      "Y": 47.26,
+      "Z": 27.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_h4_ih_animals_bat_chitter",
+      "hash_01733F21",
+      "hash_F351408F",
+      "ar_dlc_h4_ih_birds_quetzal",
+      "pr_dlc_h4_ih_birds_junglebird_fixed_01",
+      "pr_dlc_h4_ih_birds_junglebird_fixed_03",
+      "pr_dlc_h4_ih_birds_junglebird_fixed_02",
+      "pr_dlc_h4_ih_birds_quetzal_fixed_01"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_ih_main_02a",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 5066.02,
+      "Y": -4759.17,
+      "Z": 16.91
+    },
+    "OuterSize": {
+      "X": 262.05,
+      "Y": 181.2,
+      "Z": 37.0
+    },
+    "InnerPosition": {
+      "X": 5064.49,
+      "Y": -4758.68,
+      "Z": 16.91
+    },
+    "InnerSize": {
+      "X": 92.8,
+      "Y": 35.85,
+      "Z": 27.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_h4_ih_animals_bat_chitter",
+      "ar_dlc_h4_ih_birds_pauraque",
+      "hash_01733F21",
+      "hash_F351408F",
+      "hash_82C5D0DF",
+      "ar_dlc_h4_ih_birds_quetzal",
+      "ar_dlc_h4_ih_animals_monkey_capuchin",
+      "pr_dlc_h4_ih_birds_junglebird_fixed_04",
+      "ar_dlc_h4_ih_birds_creepy_macaw",
+      "ar_dlc_h4_ih_insects_grasshopper_fly_day"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_ih_pier_08",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 4779.3,
+      "Y": -4762.41,
+      "Z": 1.4
+    },
+    "OuterSize": {
+      "X": 82.88,
+      "Y": 52.31,
+      "Z": 24.0
+    },
+    "InnerPosition": {
+      "X": 4775.98,
+      "Y": -4764.52,
+      "Z": 1.4
+    },
+    "InnerSize": {
+      "X": 43.81,
+      "Y": 4.32,
+      "Z": 6.0
+    },
+    "AmbientEmitters": [
+      "hash_4CD46B8D",
+      "hash_A08270E7",
+      "hash_6A6467C0"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_ih_ruins_01",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 4876.03,
+      "Y": -4629.3,
+      "Z": 15.65
+    },
+    "OuterSize": {
+      "X": 65.37,
+      "Y": 60.61,
+      "Z": 19.0
+    },
+    "InnerPosition": {
+      "X": 4876.03,
+      "Y": -4629.3,
+      "Z": 15.65
+    },
+    "InnerSize": {
+      "X": 31.51,
+      "Y": 24.17,
+      "Z": 9.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_h4_ih_animals_rat",
+      "ar_dlc_h4_ih_animals_bat_chitter",
+      "ar_dlc_h4_ih_birds_pidgeon_wings",
+      "ar_dlc_h4_ih_insects_cricket_night_extra_beetle"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_ih_main_05a",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 5500.13,
+      "Y": -5737.58,
+      "Z": 35.16
+    },
+    "OuterSize": {
+      "X": 381.67,
+      "Y": 264.57,
+      "Z": 76.0
+    },
+    "InnerPosition": {
+      "X": 5498.46,
+      "Y": -5733.52,
+      "Z": 35.16
+    },
+    "InnerSize": {
+      "X": 188.16,
+      "Y": 50.74,
+      "Z": 56.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_h4_ih_birds_quetzal",
+      "ar_dlc_h4_ih_birds_pauraque",
+      "ar_dlc_h4_ih_birds_creepy_macaw",
+      "ar_dlc_h4_ih_animals_monkey_capuchin",
+      "ar_dlc_h4_ih_birds_parakeet",
+      "ar_dlc_h4_ih_birds_junglebirds"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_ih_main_04a",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 5085.4,
+      "Y": -5389.49,
+      "Z": 35.97
+    },
+    "OuterSize": {
+      "X": 335.52,
+      "Y": 253.32,
+      "Z": 73.0
+    },
+    "InnerPosition": {
+      "X": 5085.56,
+      "Y": -5389.84,
+      "Z": 35.97
+    },
+    "InnerSize": {
+      "X": 182.26,
+      "Y": 68.98,
+      "Z": 63.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_h4_ih_birds_pauraque",
+      "ar_dlc_h4_ih_birds_pidgeon_wings",
+      "ar_dlc_h4_ih_birds_creepy_macaw",
+      "ar_dlc_h4_ih_birds_quetzal",
+      "ar_dlc_h4_ih_birds_junglebirds",
+      "ar_dlc_h4_ih_animals_bat_chitter",
+      "ar_dlc_h4_ih_animals_jungle_cat",
+      "ar_dlc_h4_ih_animals_monkey_capuchin",
+      "ar_dlc_h4_ih_animals_tree_frog",
+      "ar_dlc_h4_ih_insects_katydid_ratchet_tropical_24hr",
+      "ar_dlc_h4_ih_insects_grasshopper_chirping",
+      "ar_dlc_h4_ih_insects_locust_ratchet_tropical_day",
+      "ar_dlc_h4_ih_insects_cricket_synth_am_night",
+      "ar_dlc_h4_ih_insects_cricket_night_extra_dutch"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_ih_main_07",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 4894.89,
+      "Y": -5614.89,
+      "Z": 53.75
+    },
+    "OuterSize": {
+      "X": 787.88,
+      "Y": 498.43,
+      "Z": 137.0
+    },
+    "InnerPosition": {
+      "X": 4877.46,
+      "Y": -5604.13,
+      "Z": 52.77
+    },
+    "InnerSize": {
+      "X": 538.7,
+      "Y": 138.44,
+      "Z": 87.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_h4_ih_insects_cicadas_tropical_day",
+      "ar_dlc_h4_ih_birds_tropical_mockingbird",
+      "hash_627A2860",
+      "ar_dlc_h4_ih_birds_tropical_mockingbird_b",
+      "ar_dlc_h4_ih_insects_cicadas_tropical_chirp_day",
+      "ar_dlc_h4_ih_insects_cricket_synth_am_night",
+      "ar_dlc_h4_ih_birds_tropical_mockingbird_b",
+      "ar_dlc_h4_ih_animals_rattle_snake",
+      "ar_dlc_h4_ih_insects_cicada_rasp_b_c_day",
+      "ar_dlc_h4_ih_birds_tropical_persistent",
+      "ar_dlc_h4_ih_birds_oropendola",
+      "ar_dlc_h4_ih_birds_kingbird",
+      "ar_dlc_h4_ih_birds_parakeet",
+      "ar_dlc_h4_ih_birds_cockatoo",
+      "ar_dlc_h4_ih_insects_grasshopper_day",
+      "ar_dlc_h4_ih_insects_grasshopper_fly_day",
+      "ar_dlc_h4_ih_birds_junglebirds_04",
+      "ar_dlc_h4_ih_birds_junglebirds_04_alt",
+      "ar_dlc_h4_ih_insects_cricket_fading_night"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_ih_barracks_01",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 5130.15,
+      "Y": -5180.69,
+      "Z": 19.03
+    },
+    "OuterSize": {
+      "X": 201.22,
+      "Y": 545.08,
+      "Z": 48.0
+    },
+    "InnerPosition": {
+      "X": 5130.15,
+      "Y": -5180.69,
+      "Z": 12.03
+    },
+    "InnerSize": {
+      "X": 33.67,
+      "Y": 135.32,
+      "Z": 24.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_h4_ih_birds_tropical_mockingbird",
+      "hash_627A2860",
+      "ar_dlc_h4_ih_insects_cicadas_tropical_day",
+      "ar_dlc_h4_ih_insects_locust_ratchet_tropical_day",
+      "hash_07798F63",
+      "ar_dlc_h4_ih_birds_creepy_macaw",
+      "ar_dlc_h4_ih_birds_pauraque",
+      "ar_dlc_h4_ih_birds_parakeet",
+      "ar_dlc_h4_ih_birds_chicken",
+      "ar_dlc_h4_ih_birds_pidgeon"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_ih_barracks_02",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 4929.92,
+      "Y": -5290.73,
+      "Z": 18.03
+    },
+    "OuterSize": {
+      "X": 216.78,
+      "Y": 223.92,
+      "Z": 48.0
+    },
+    "InnerPosition": {
+      "X": 4929.92,
+      "Y": -5290.73,
+      "Z": 11.03
+    },
+    "InnerSize": {
+      "X": 80.05,
+      "Y": 104.53,
+      "Z": 24.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_h4_ih_birds_tropical_mockingbird",
+      "hash_627A2860",
+      "ar_dlc_h4_ih_insects_cicadas_tropical_day",
+      "ar_dlc_h4_ih_insects_locust_ratchet_tropical_day",
+      "hash_07798F63",
+      "ar_dlc_h4_ih_birds_creepy_macaw",
+      "ar_dlc_h4_ih_birds_pauraque",
+      "ar_dlc_h4_ih_birds_parakeet",
+      "ar_dlc_h4_ih_birds_chicken",
+      "ar_dlc_h4_ih_birds_pidgeon"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_ih_main_04",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 5267.24,
+      "Y": -5393.77,
+      "Z": 70.75
+    },
+    "OuterSize": {
+      "X": 1040.05,
+      "Y": 954.31,
+      "Z": 173.0
+    },
+    "InnerPosition": {
+      "X": 5256.71,
+      "Y": -5407.27,
+      "Z": 48.77
+    },
+    "InnerSize": {
+      "X": 549.59,
+      "Y": 641.17,
+      "Z": 101.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_h4_ih_insects_cicadas_tropical_day",
+      "ar_dlc_h4_ih_birds_tropical_mockingbird",
+      "hash_627A2860",
+      "ar_dlc_h4_ih_birds_tropical_mockingbird_b",
+      "ar_dlc_h4_ih_insects_cicadas_tropical_chirp_day",
+      "ar_dlc_h4_ih_insects_cricket_synth_am_night",
+      "ar_dlc_h4_ih_birds_tropical_mockingbird_b",
+      "ar_dlc_h4_ih_animals_rattle_snake",
+      "ar_dlc_h4_ih_insects_cicada_rasp_b_c_day",
+      "ar_dlc_h4_ih_birds_tropical_bird_a",
+      "ar_dlc_h4_ih_birds_tropical_persistent",
+      "ar_dlc_h4_ih_insects_grasshopper_fly_day",
+      "ar_dlc_h4_ih_insects_grasshopper_day",
+      "ar_dlc_h4_ih_insects_locust_fly",
+      "ar_dlc_h4_ih_insects_locust_ratchet_tropical_day",
+      "ar_dlc_h4_ih_birds_cockatoo",
+      "ar_dlc_h4_ih_birds_junglebirds_04",
+      "ar_dlc_h4_ih_birds_junglebirds_04_alt",
+      "ar_dlc_h4_ih_insects_katydid_ratchet_tropical_24hr",
+      "ar_dlc_h4_ih_insects_cricket_fading_night"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_ih_main_05",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 5403.62,
+      "Y": -5652.46,
+      "Z": 54.75
+    },
+    "OuterSize": {
+      "X": 620.67,
+      "Y": 502.31,
+      "Z": 154.0
+    },
+    "InnerPosition": {
+      "X": 5389.02,
+      "Y": -5660.46,
+      "Z": 68.77
+    },
+    "InnerSize": {
+      "X": 362.17,
+      "Y": 222.03,
+      "Z": 112.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_h4_ih_insects_cicadas_tropical_day",
+      "ar_dlc_h4_ih_birds_tropical_mockingbird",
+      "ar_dlc_h4_ih_animals_jungle_cat",
+      "hash_627A2860",
+      "ar_dlc_h4_ih_birds_tropical_mockingbird_b",
+      "ar_dlc_h4_ih_insects_cicadas_tropical_chirp_day",
+      "ar_dlc_h4_ih_insects_cricket_synth_am_night",
+      "ar_dlc_h4_ih_birds_tropical_mockingbird_b",
+      "ar_dlc_h4_ih_animals_rattle_snake",
+      "ar_dlc_h4_ih_insects_cicada_rasp_b_c_day",
+      "ar_dlc_h4_ih_birds_tropical_persistent",
+      "ar_dlc_h4_ih_animals_rat",
+      "ar_dlc_h4_ih_insects_grasshopper_chirping",
+      "ar_dlc_h4_ih_insects_locust_fly",
+      "ar_dlc_h4_ih_birds_kingbird",
+      "ar_dlc_h4_ih_insects_cricket_shoreline",
+      "ar_dlc_h4_ih_birds_cockatoo"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_ih_docks_03",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 5107.48,
+      "Y": -4624.96,
+      "Z": 18.75
+    },
+    "OuterSize": {
+      "X": 417.44,
+      "Y": 349.81,
+      "Z": 42.0
+    },
+    "InnerPosition": {
+      "X": 5095.8,
+      "Y": -4667.22,
+      "Z": 18.75
+    },
+    "InnerSize": {
+      "X": 189.74,
+      "Y": 130.73,
+      "Z": 41.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_h4_ih_birds_tropical_mockingbird",
+      "ar_dlc_h4_ih_insects_katydid_ratchet_tropical_24hr",
+      "ar_dlc_h4_ih_insects_locust_fly",
+      "ar_dlc_h4_ih_insects_cicada_shoreline_b",
+      "ar_dlc_h4_ih_birds_pidgeon",
+      "ar_dlc_h4_ih_birds_pidgeon_wings",
+      "ar_dlc_h4_ih_birds_crow_warm",
+      "hash_627A2860",
+      "ar_dlc_h4_ih_animals_rat",
+      "ar_dlc_h4_ih_animals_tropical_frog_low",
+      "ar_dlc_h4_ih_birds_kingbird",
+      "ar_dlc_h4_ih_birds_seagull_distant",
+      "ar_dlc_h4_ih_birds_parakeet",
+      "ar_dlc_h4_ih_insects_mosquitol_day",
+      "ar_dlc_h4_ih_insects_grasshopper_fly_day"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_ih_main_03",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 5168.07,
+      "Y": -5020.02,
+      "Z": 47.75
+    },
+    "OuterSize": {
+      "X": 412.92,
+      "Y": 291.9,
+      "Z": 150.0
+    },
+    "InnerPosition": {
+      "X": 5160.32,
+      "Y": -5020.38,
+      "Z": 46.77
+    },
+    "InnerSize": {
+      "X": 224.03,
+      "Y": 114.8,
+      "Z": 100.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_h4_ih_insects_cicadas_tropical_day",
+      "ar_dlc_h4_ih_birds_tropical_mockingbird",
+      "hash_627A2860",
+      "ar_dlc_h4_ih_birds_tropical_mockingbird_b",
+      "ar_dlc_h4_ih_insects_cicadas_tropical_chirp_day",
+      "ar_dlc_h4_ih_insects_cricket_synth_am_night",
+      "ar_dlc_h4_ih_birds_tropical_mockingbird_b",
+      "ar_dlc_h4_ih_animals_rattle_snake",
+      "ar_dlc_h4_ih_insects_cicada_rasp_b_c_day",
+      "ar_dlc_h4_ih_birds_tropical_persistent",
+      "ar_dlc_h4_ih_birds_tropical_macaw",
+      "ar_dlc_h4_ih_insects_grasshopper_chirping",
+      "ar_dlc_h4_ih_insects_locust_ratchet_tropical_day",
+      "ar_dlc_h4_ih_insects_cricket_night_extra_cycling"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_ih_crop_fields_01",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 5344.13,
+      "Y": -5236.13,
+      "Z": 51.64
+    },
+    "OuterSize": {
+      "X": 272.96,
+      "Y": 221.76,
+      "Z": 112.0
+    },
+    "InnerPosition": {
+      "X": 5344.13,
+      "Y": -5236.13,
+      "Z": 39.64
+    },
+    "InnerSize": {
+      "X": 184.18,
+      "Y": 133.42,
+      "Z": 56.0
+    },
+    "AmbientEmitters": [
+      "hash_627A2860",
+      "ar_dlc_h4_ih_insects_cicadas_tropical_day",
+      "ar_dlc_h4_ih_insects_cricket_synth_fm_day",
+      "ar_dlc_h4_ih_insects_locust_ratchet_tropical_day",
+      "ar_dlc_h4_ih_insects_cricket_synth_am_night",
+      "hash_07798F63",
+      "ar_dlc_h4_ih_animals_rattle_snake",
+      "ar_dlc_h4_ih_insects_grasshopper_day",
+      "ar_dlc_h4_ih_insects_cicada_rasp_b_c_day",
+      "ar_dlc_h4_ih_animals_bat_chitter",
+      "ar_dlc_h4_ih_animals_rat",
+      "ar_dlc_h4_ih_insects_locust_fly",
+      "ar_dlc_h4_ih_insects_grasshopper_chirping"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_ih_main_02",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 5007.9,
+      "Y": -4785.88,
+      "Z": 41.75
+    },
+    "OuterSize": {
+      "X": 616.04,
+      "Y": 638.05,
+      "Z": 136.0
+    },
+    "InnerPosition": {
+      "X": 4998.71,
+      "Y": -4806.82,
+      "Z": 40.77
+    },
+    "InnerSize": {
+      "X": 188.13,
+      "Y": 298.76,
+      "Z": 86.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_h4_ih_insects_cicadas_tropical_day",
+      "ar_dlc_h4_ih_birds_tropical_mockingbird",
+      "ar_dlc_h4_ih_birds_tropical_mockingbird_b",
+      "ar_dlc_h4_ih_insects_cricket_synth_am_night",
+      "ar_dlc_h4_ih_birds_tropical_mockingbird_b",
+      "ar_dlc_h4_ih_animals_rattle_snake",
+      "ar_dlc_h4_ih_insects_cicada_rasp_b_c_day",
+      "ar_dlc_h4_ih_birds_kingbird",
+      "ar_dlc_h4_ih_birds_parakeet",
+      "ar_dlc_h4_ih_insects_cricket_shoreline",
+      "ar_dlc_h4_ih_birds_creepy_macaw",
+      "hash_A3B13A08",
+      "hash_2DEB35BA",
+      "ar_dlc_h4_ih_insects_locust_fly",
+      "ar_dlc_h4_ih_insects_grasshopper_day",
+      "ar_dlc_h4_ih_insects_cricket_synth_am_night",
+      "ar_dlc_h4_ih_insects_cricket_synth_fm_day",
+      "ar_dlc_h4_ih_animals_monkey_capuchin",
+      "pr_dlc_h4_ih_birds_junglebird_fixed_05",
+      "ar_dlc_h4_ih_birds_tropical_persistent",
+      "ar_dlc_h4_ih_birds_junglebirds_04",
+      "ar_dlc_h4_ih_birds_junglebirds_04_alt",
+      "ar_dlc_h4_ih_insects_cricket_fading_night",
+      "ar_dlc_h4_ih_insects_cricket_night_extra_dutch"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_ih_main_08",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 4947.44,
+      "Y": -5008.88,
+      "Z": 46.75
+    },
+    "OuterSize": {
+      "X": 439.12,
+      "Y": 138.44,
+      "Z": 104.0
+    },
+    "InnerPosition": {
+      "X": 4926.43,
+      "Y": -5002.73,
+      "Z": 48.77
+    },
+    "InnerSize": {
+      "X": 259.58,
+      "Y": 54.19,
+      "Z": 57.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_h4_ih_insects_cicadas_tropical_day",
+      "ar_dlc_h4_ih_birds_tropical_mockingbird",
+      "ar_dlc_h4_ih_animals_jungle_cat",
+      "hash_627A2860",
+      "ar_dlc_h4_ih_birds_tropical_mockingbird_b",
+      "ar_dlc_h4_ih_insects_cicadas_tropical_chirp_day",
+      "ar_dlc_h4_ih_insects_cricket_synth_am_night",
+      "ar_dlc_h4_ih_birds_tropical_mockingbird_b",
+      "ar_dlc_h4_ih_animals_rattle_snake",
+      "ar_dlc_h4_ih_insects_cicada_rasp_b_c_day",
+      "ar_dlc_h4_ih_birds_tropical_macaw",
+      "ar_dlc_h4_ih_birds_oropendola",
+      "ar_dlc_h4_ih_insects_cricket_night_extra_dutch"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_ih_detail_hanging_cage",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 5110.6,
+      "Y": -5404.4,
+      "Z": 24.38
+    },
+    "OuterSize": {
+      "X": 29.69,
+      "Y": 32.38,
+      "Z": 19.77
+    },
+    "InnerPosition": {
+      "X": 5111.63,
+      "Y": -5404.74,
+      "Z": 21.76
+    },
+    "InnerSize": {
+      "X": 1.43,
+      "Y": 2.44,
+      "Z": 5.45
+    },
+    "AmbientEmitters": [
+      "ar_dlc_h4_ih_insects_cricket_night_extra_beetle",
+      "hash_627A2860",
+      "hash_96DFFE87",
+      "ar_dlc_h4_hanging_cage_metal",
+      "ar_dlc_h4_hanging_cage_metal_squeal"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_ih_main_01",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 4762.58,
+      "Y": -4558.48,
+      "Z": 41.51
+    },
+    "OuterSize": {
+      "X": 894.39,
+      "Y": 497.6,
+      "Z": 133.0
+    },
+    "InnerPosition": {
+      "X": 4747.58,
+      "Y": -4561.89,
+      "Z": 41.69
+    },
+    "InnerSize": {
+      "X": 593.01,
+      "Y": 194.8,
+      "Z": 83.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_h4_ih_insects_cicadas_tropical_day",
+      "ar_dlc_h4_ih_birds_tropical_mockingbird",
+      "ar_dlc_h4_ih_insects_cicadas_tropical_chirp_day",
+      "ar_dlc_h4_ih_insects_cricket_synth_am_night",
+      "ar_dlc_h4_ih_birds_tropical_mockingbird_b",
+      "ar_dlc_h4_ih_insects_cicada_rasp_b_c_day",
+      "ar_dlc_h4_ih_birds_kingbird",
+      "ar_dlc_h4_ih_birds_tropical_bird_a",
+      "ar_dlc_h4_ih_insects_katydid_ratchet_tropical_24hr",
+      "hash_F351408F",
+      "hash_82C5D0DF",
+      "ar_dlc_h4_ih_animals_tropical_frog_weird",
+      "ar_dlc_h4_ih_animals_tropical_frog_chirp",
+      "hash_263CEE9A",
+      "ar_dlc_h4_ih_birds_creepy_macaw",
+      "ar_dlc_h4_ih_insects_grasshopper_chirping",
+      "hash_A3B13A08",
+      "ar_dlc_h4_ih_birds_tropical_persistent",
+      "ar_dlc_h4_ih_birds_tropical_macaw",
+      "ar_dlc_h4_ih_birds_junglebirds_04",
+      "ar_dlc_h4_ih_birds_junglebirds_04_alt",
+      "ar_dlc_h4_ih_insects_cricket_night_extra_cycling"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_ih_airstrip_01a",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 4200.29,
+      "Y": -4594.24,
+      "Z": 5.86
+    },
+    "OuterSize": {
+      "X": 988.34,
+      "Y": 250.59,
+      "Z": 106.0
+    },
+    "InnerPosition": {
+      "X": 4209.0,
+      "Y": -4592.32,
+      "Z": 5.86
+    },
+    "InnerSize": {
+      "X": 727.06,
+      "Y": 71.18,
+      "Z": 50.0
+    },
+    "AmbientEmitters": [
+      "hash_627A2860",
+      "ar_dlc_h4_ih_insects_cricket_synth_am_night",
+      "ar_dlc_h4_ih_animals_rat",
+      "ar_dlc_h4_ih_birds_tropical_bird_a",
+      "ar_dlc_h4_ih_insects_locust_fly",
+      "ar_dlc_h4_ih_insects_locust_ratchet_tropical_day",
+      "ar_dlc_h4_ih_insects_grasshopper_chirping",
+      "ar_dlc_h4_ih_insects_cicadas_tropical_day",
+      "ar_dlc_h4_ih_insects_katydid_ratchet_tropical_24hr",
+      "ar_dlc_h4_ih_birds_cockatoo",
+      "ar_dlc_h4_ih_birds_oropendola",
+      "ar_dlc_h4_ih_insects_grasshopper_fly_day",
+      "ar_dlc_h4_ih_birds_tropical_persistent",
+      "ar_dlc_h4_ih_birds_tropical_macaw",
+      "pr_dlc_h4_ih_birds_junglebird_fixed_07",
+      "pr_dlc_h4_ih_birds_junglebird_fixed_08"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_ih_coastal_10",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 4744.15,
+      "Y": -5498.5,
+      "Z": 45.05
+    },
+    "OuterSize": {
+      "X": 663.98,
+      "Y": 360.54,
+      "Z": 120.0
+    },
+    "InnerPosition": {
+      "X": 4743.24,
+      "Y": -5503.46,
+      "Z": 38.05
+    },
+    "InnerSize": {
+      "X": 439.38,
+      "Y": 111.74,
+      "Z": 88.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_h4_ih_insects_cicadas_tropical_day",
+      "ar_dlc_h4_ih_animals_tropical_frog_weird",
+      "ar_dlc_h4_ih_animals_tropical_frog_low",
+      "ar_dlc_h4_ih_birds_sandpiper",
+      "ar_dlc_h4_ih_birds_seabird",
+      "ar_dlc_h4_ih_birds_waterbird",
+      "ar_dlc_h4_ih_birds_seagull_distant",
+      "ar_dlc_h4_ih_insects_cicada_shoreline_b",
+      "ar_dlc_h4_ih_insects_cicada_shoreline_a",
+      "ar_dlc_h4_ih_insects_cricket_synth_fm_day",
+      "ar_dlc_h4_ih_insects_cricket_shoreline"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_ih_coastal_01",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 4718.91,
+      "Y": -5834.84,
+      "Z": 45.05
+    },
+    "OuterSize": {
+      "X": 655.34,
+      "Y": 566.14,
+      "Z": 120.0
+    },
+    "InnerPosition": {
+      "X": 4716.03,
+      "Y": -5829.23,
+      "Z": 38.05
+    },
+    "InnerSize": {
+      "X": 467.98,
+      "Y": 154.74,
+      "Z": 88.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_h4_ih_insects_cicadas_tropical_day",
+      "ar_dlc_h4_ih_birds_seabird",
+      "ar_dlc_h4_ih_animals_tropical_frog_low",
+      "ar_dlc_h4_ih_animals_tropical_frog_weird",
+      "ar_dlc_h4_ih_birds_sandpiper",
+      "ar_dlc_h4_ih_birds_waterbird",
+      "ar_dlc_h4_ih_birds_tropical_mockingbird_b",
+      "ar_dlc_h4_ih_birds_seabird",
+      "ar_dlc_h4_ih_birds_seagull",
+      "ar_dlc_h4_ih_insects_cicada_shoreline_b",
+      "ar_dlc_h4_ih_insects_cicada_shoreline_a",
+      "ar_dlc_h4_ih_insects_cricket_synth_am_night",
+      "ar_dlc_h4_ih_insects_cricket_shoreline"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_ih_coastal_02",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 4904.6,
+      "Y": -5955.08,
+      "Z": 45.05
+    },
+    "OuterSize": {
+      "X": 486.46,
+      "Y": 307.33,
+      "Z": 120.0
+    },
+    "InnerPosition": {
+      "X": 4904.35,
+      "Y": -5953.62,
+      "Z": 38.05
+    },
+    "InnerSize": {
+      "X": 334.55,
+      "Y": 140.79,
+      "Z": 88.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_h4_ih_insects_cicadas_tropical_day",
+      "ar_dlc_h4_ih_birds_waterbird",
+      "ar_dlc_h4_ih_birds_seagull_distant",
+      "ar_dlc_h4_ih_birds_seagull",
+      "ar_dlc_h4_ih_birds_seabird",
+      "ar_dlc_h4_ih_birds_sandpiper",
+      "ar_dlc_h4_ih_animals_tropical_frog_chirp",
+      "ar_dlc_h4_ih_animals_tropical_frog_high",
+      "ar_dlc_h4_ih_insects_cricket_synth_am_night",
+      "ar_dlc_h4_ih_insects_cricket_shoreline"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_ih_coastal_09",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 4779.32,
+      "Y": -5159.64,
+      "Z": 45.05
+    },
+    "OuterSize": {
+      "X": 515.74,
+      "Y": 411.46,
+      "Z": 120.0
+    },
+    "InnerPosition": {
+      "X": 4779.07,
+      "Y": -5158.17,
+      "Z": 38.05
+    },
+    "InnerSize": {
+      "X": 381.54,
+      "Y": 127.53,
+      "Z": 88.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_h4_ih_insects_cicadas_tropical_day",
+      "ar_dlc_h4_ih_animals_tropical_frog_weird",
+      "ar_dlc_h4_ih_animals_tropical_frog_high",
+      "ar_dlc_h4_ih_birds_seagull_distant",
+      "ar_dlc_h4_ih_birds_seagull",
+      "ar_dlc_h4_ih_birds_seabird",
+      "ar_dlc_h4_ih_insects_cricket_shoreline",
+      "ar_dlc_h4_ih_insects_cicada_shoreline_a",
+      "ar_dlc_h4_ih_insects_cricket_synth_am_night",
+      "ar_dlc_h4_ih_insects_mosquitol_day"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_ih_airstrip_coastal_03",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 3805.64,
+      "Y": -4740.28,
+      "Z": 45.05
+    },
+    "OuterSize": {
+      "X": 382.16,
+      "Y": 261.4,
+      "Z": 120.0
+    },
+    "InnerPosition": {
+      "X": 3789.82,
+      "Y": -4758.32,
+      "Z": 38.05
+    },
+    "InnerSize": {
+      "X": 272.58,
+      "Y": 124.0,
+      "Z": 88.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_h4_ih_insects_cicadas_tropical_day",
+      "ar_dlc_h4_ih_insects_cricket_shoreline",
+      "ar_dlc_h4_ih_birds_sandpiper",
+      "ar_dlc_h4_ih_animals_tropical_frog_low",
+      "ar_dlc_h4_ih_animals_tropical_frog_high",
+      "ar_dlc_h4_ih_animals_tropical_frog_whistle",
+      "ar_dlc_h4_ih_birds_waterbird",
+      "ar_dlc_h4_ih_birds_seabird",
+      "ar_dlc_h4_ih_birds_seagull_distant",
+      "ar_dlc_h4_ih_birds_seagull"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_ih_coastal_04",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 5646.69,
+      "Y": -5545.66,
+      "Z": 45.05
+    },
+    "OuterSize": {
+      "X": 1547.35,
+      "Y": 527.13,
+      "Z": 120.0
+    },
+    "InnerPosition": {
+      "X": 5638.83,
+      "Y": -5555.75,
+      "Z": 38.05
+    },
+    "InnerSize": {
+      "X": 980.47,
+      "Y": 200.34,
+      "Z": 88.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_h4_ih_insects_cicadas_tropical_day",
+      "ar_dlc_h4_ih_birds_seagull_distant",
+      "ar_dlc_h4_ih_birds_seabird",
+      "ar_dlc_h4_ih_birds_sandpiper",
+      "ar_dlc_h4_ih_birds_seagull",
+      "ar_dlc_h4_ih_birds_waterbird"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_ih_coastal_06",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 5058.3,
+      "Y": -4407.18,
+      "Z": 45.05
+    },
+    "OuterSize": {
+      "X": 1050.51,
+      "Y": 338.71,
+      "Z": 120.0
+    },
+    "InnerPosition": {
+      "X": 5058.05,
+      "Y": -4405.71,
+      "Z": 38.05
+    },
+    "InnerSize": {
+      "X": 722.47,
+      "Y": 155.18,
+      "Z": 88.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_h4_ih_insects_cicadas_tropical_day",
+      "ar_dlc_h4_ih_animals_tropical_frog_chirp",
+      "ar_dlc_h4_ih_animals_tropical_frog_high",
+      "ar_dlc_h4_ih_birds_seagull_distant",
+      "ar_dlc_h4_ih_insects_cricket_synth_am_night",
+      "ar_dlc_h4_ih_insects_cricket_shoreline",
+      "ar_dlc_h4_ih_birds_seabird",
+      "ar_dlc_h4_ih_insects_cicada_shoreline_a",
+      "ar_dlc_h4_ih_insects_locust_fly"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_ih_coastal_05",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 5388.3,
+      "Y": -4955.08,
+      "Z": 45.05
+    },
+    "OuterSize": {
+      "X": 814.17,
+      "Y": 388.0,
+      "Z": 120.0
+    },
+    "InnerPosition": {
+      "X": 5411.84,
+      "Y": -4924.38,
+      "Z": 38.05
+    },
+    "InnerSize": {
+      "X": 559.93,
+      "Y": 177.75,
+      "Z": 88.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_h4_ih_birds_seagull_distant",
+      "ar_dlc_h4_ih_birds_seabird",
+      "ar_dlc_h4_ih_birds_waterbird",
+      "ar_dlc_h4_ih_birds_sandpiper"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_ih_coastal_08",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 4626.81,
+      "Y": -4933.63,
+      "Z": 45.05
+    },
+    "OuterSize": {
+      "X": 503.57,
+      "Y": 707.07,
+      "Z": 120.0
+    },
+    "InnerPosition": {
+      "X": 4617.34,
+      "Y": -4932.78,
+      "Z": 38.05
+    },
+    "InnerSize": {
+      "X": 333.18,
+      "Y": 413.31,
+      "Z": 88.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_h4_ih_insects_cicadas_tropical_day",
+      "ar_dlc_h4_ih_birds_cockatoo",
+      "ar_dlc_h4_ih_birds_seabird",
+      "ar_dlc_h4_ih_birds_tropical_bird_a",
+      "ar_dlc_h4_ih_insects_cricket_synth_am_night",
+      "ar_dlc_h4_ih_animals_tropical_frog_low",
+      "ar_dlc_h4_ih_animals_tropical_frog_whistle",
+      "ar_dlc_h4_ih_birds_seagull",
+      "ar_dlc_h4_ih_birds_sandpiper",
+      "ar_dlc_h4_ih_insects_cicada_shoreline_b",
+      "ar_dlc_h4_ih_insects_grasshopper_chirping",
+      "ar_dlc_h4_ih_birds_waterbird",
+      "ar_dlc_h4_ih_insects_cicada_shoreline_a",
+      "ar_dlc_h4_ih_insects_cricket_shoreline"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_ih_coastal_03",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 5287.99,
+      "Y": -5882.03,
+      "Z": 45.05
+    },
+    "OuterSize": {
+      "X": 569.44,
+      "Y": 300.14,
+      "Z": 120.0
+    },
+    "InnerPosition": {
+      "X": 5280.13,
+      "Y": -5892.12,
+      "Z": 38.05
+    },
+    "InnerSize": {
+      "X": 453.19,
+      "Y": 114.07,
+      "Z": 88.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_h4_ih_insects_cicadas_tropical_day",
+      "ar_dlc_h4_ih_birds_seagull_distant",
+      "ar_dlc_h4_ih_birds_seabird",
+      "ar_dlc_h4_ih_birds_sandpiper",
+      "ar_dlc_h4_ih_birds_waterbird",
+      "ar_dlc_h4_ih_animals_tropical_frog_low",
+      "ar_dlc_h4_ih_animals_tropical_frog_whistle",
+      "ar_dlc_h4_ih_insects_cicada_shoreline_a",
+      "ar_dlc_h4_ih_insects_cricket_shoreline"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_ih_compound_coast_reduce_water_and_boats",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 5012.48,
+      "Y": -5748.44,
+      "Z": 36.89
+    },
+    "OuterSize": {
+      "X": 115.34,
+      "Y": 254.14,
+      "Z": 106.0
+    },
+    "InnerPosition": {
+      "X": 5021.32,
+      "Y": -5743.26,
+      "Z": 36.89
+    },
+    "InnerSize": {
+      "X": 53.69,
+      "Y": 112.37,
+      "Z": 50.0
+    },
+    "AmbientEmitters": [
+      "hash_9F620074"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_ih_compound_coastal_01",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 5068.94,
+      "Y": -5777.44,
+      "Z": 19.55
+    },
+    "OuterSize": {
+      "X": 129.19,
+      "Y": 84.55,
+      "Z": 29.0
+    },
+    "InnerPosition": {
+      "X": 5063.11,
+      "Y": -5780.43,
+      "Z": 19.55
+    },
+    "InnerSize": {
+      "X": 92.9,
+      "Y": 29.99,
+      "Z": 19.0
+    },
+    "AmbientEmitters": [
+      "hash_9F620074"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_ih_airstrip_coastal_01",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 4032.69,
+      "Y": -4487.58,
+      "Z": 45.05
+    },
+    "OuterSize": {
+      "X": 623.92,
+      "Y": 289.86,
+      "Z": 120.0
+    },
+    "InnerPosition": {
+      "X": 4023.14,
+      "Y": -4531.41,
+      "Z": 38.05
+    },
+    "InnerSize": {
+      "X": 466.22,
+      "Y": 137.5,
+      "Z": 88.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_h4_ih_insects_cicadas_tropical_day",
+      "ar_dlc_h4_ih_insects_cricket_shoreline",
+      "ar_dlc_h4_ih_birds_sandpiper",
+      "ar_dlc_h4_ih_animals_tropical_frog_low",
+      "ar_dlc_h4_ih_animals_tropical_frog_high",
+      "ar_dlc_h4_ih_animals_tropical_frog_whistle"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_ih_airstrip_coastal_02",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 4191.55,
+      "Y": -4734.69,
+      "Z": 45.05
+    },
+    "OuterSize": {
+      "X": 800.63,
+      "Y": 248.79,
+      "Z": 120.0
+    },
+    "InnerPosition": {
+      "X": 4172.21,
+      "Y": -4704.42,
+      "Z": 38.05
+    },
+    "InnerSize": {
+      "X": 584.06,
+      "Y": 125.28,
+      "Z": 88.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_h4_ih_insects_cicadas_tropical_day",
+      "ar_dlc_h4_ih_insects_cricket_shoreline",
+      "ar_dlc_h4_ih_birds_sandpiper",
+      "ar_dlc_h4_ih_animals_tropical_frog_low",
+      "ar_dlc_h4_ih_animals_tropical_frog_high",
+      "ar_dlc_h4_ih_animals_tropical_frog_whistle"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_ih_coastal_07",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 4483.01,
+      "Y": -4280.82,
+      "Z": 45.05
+    },
+    "OuterSize": {
+      "X": 997.97,
+      "Y": 493.38,
+      "Z": 120.0
+    },
+    "InnerPosition": {
+      "X": 4477.62,
+      "Y": -4328.6,
+      "Z": 38.05
+    },
+    "InnerSize": {
+      "X": 705.34,
+      "Y": 192.05,
+      "Z": 88.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_h4_ih_insects_cicada_shoreline_b",
+      "ar_dlc_h4_ih_insects_cricket_shoreline",
+      "ar_dlc_h4_ih_insects_locust_fly",
+      "ar_dlc_h4_ih_birds_seabird",
+      "ar_dlc_h4_ih_birds_seagull",
+      "ar_dlc_h4_ih_birds_seagull_distant",
+      "ar_dlc_h4_ih_birds_sandpiper",
+      "ar_dlc_h4_ih_insects_cricket_synth_am_night",
+      "ar_dlc_h4_ih_insects_mosquitol_day",
+      "ar_dlc_h4_ih_animals_tropical_frog_low",
+      "ar_dlc_h4_ih_animals_tropical_frog_weird",
+      "ar_dlc_h4_ih_animals_tropical_frog_chirp",
+      "ar_dlc_h4_ih_animals_tropical_frog_high"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_compound_fountain_00",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 5024.72,
+      "Y": -5784.88,
+      "Z": 17.7
+    },
+    "OuterSize": {
+      "X": 37.46,
+      "Y": 18.02,
+      "Z": 14.0
+    },
+    "InnerPosition": {
+      "X": 5025.7,
+      "Y": -5784.36,
+      "Z": 17.7
+    },
+    "InnerSize": {
+      "X": 2.61,
+      "Y": 2.18,
+      "Z": 4.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_h4_compound_fountain"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_compound_fountain_01",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 5016.74,
+      "Y": -5733.63,
+      "Z": 17.7
+    },
+    "OuterSize": {
+      "X": 35.39,
+      "Y": 27.34,
+      "Z": 14.0
+    },
+    "InnerPosition": {
+      "X": 5017.57,
+      "Y": -5732.98,
+      "Z": 17.7
+    },
+    "InnerSize": {
+      "X": 2.42,
+      "Y": 2.22,
+      "Z": 4.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_h4_compound_fountain"
+    ]
+  },
+  {
+    "Name": "az_dlc_hei4_island_beach_party",
+    "Shape": "Sphere",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 4892.5,
+      "Y": -4917.83,
+      "Z": 4.84
+    },
+    "OuterSize": {
+      "X": 80.0,
+      "Y": 9.88,
+      "Z": 10.0
+    },
+    "InnerPosition": {
+      "X": 4892.28,
+      "Y": -4925.38,
+      "Z": 4.84
+    },
+    "InnerSize": {
+      "X": 23.63,
+      "Y": 99.22,
+      "Z": 100.0
+    },
+    "AmbientEmitters": [
+      "hash_07798F63"
+    ]
+  },
+  {
+    "Name": "az_dlc_hei4_island_beach_party_music_leakage_bounds",
+    "Shape": "Sphere",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 4892.5,
+      "Y": -4917.83,
+      "Z": 4.84
+    },
+    "OuterSize": {
+      "X": 50.0,
+      "Y": 9.88,
+      "Z": 10.0
+    },
+    "InnerPosition": {
+      "X": 4892.28,
+      "Y": -4925.38,
+      "Z": 4.84
+    },
+    "InnerSize": {
+      "X": 12.0,
+      "Y": 99.22,
+      "Z": 100.0
+    },
+    "AmbientEmitters": null
+  },
+  {
+    "Name": "az_dlc_h4_obs_01",
+    "Shape": "Sphere",
+    "Flags0": "0xAA800424",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 4592.58,
+      "Y": -4871.02,
+      "Z": 18.55
+    },
+    "OuterSize": {
+      "X": 42.97,
+      "Y": 19.13,
+      "Z": 20.0
+    },
+    "InnerPosition": {
+      "X": 4592.58,
+      "Y": -4871.02,
+      "Z": 18.55
+    },
+    "InnerSize": {
+      "X": 10.0,
+      "Y": 10.0,
+      "Z": 10.0
+    },
+    "AmbientEmitters": [
+      "pr_dlc_h4_ob_01",
+      "pr_dlc_h4_ob_00",
+      "pr_dlc_h4_ob_02",
+      "pr_dlc_h4_ob_03",
+      "pr_dlc_h4_ob_04",
+      "pr_dlc_h4_ob_05",
+      "ar_dlc_h4_ih_insects_cricket_night_extra_beetle"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_special_peds_couple",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 4891.24,
+      "Y": -4958.56,
+      "Z": 7.88
+    },
+    "OuterSize": {
+      "X": 27.78,
+      "Y": 26.34,
+      "Z": 21.0
+    },
+    "InnerPosition": {
+      "X": 4891.24,
+      "Y": -4958.56,
+      "Z": 6.88
+    },
+    "InnerSize": {
+      "X": 17.38,
+      "Y": 14.04,
+      "Z": 10.0
+    },
+    "AmbientEmitters": [
+      "hash_9F620074"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_special_peds_girl",
+    "Shape": "Sphere",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 4854.53,
+      "Y": -4956.79,
+      "Z": 2.36
+    },
+    "OuterSize": {
+      "X": 14.35,
+      "Y": 25.29,
+      "Z": 21.0
+    },
+    "InnerPosition": {
+      "X": 4854.53,
+      "Y": -4956.79,
+      "Z": 2.36
+    },
+    "InnerSize": {
+      "X": 11.81,
+      "Y": 13.56,
+      "Z": 10.0
+    },
+    "AmbientEmitters": [
+      "hash_9F620074"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_radio_mast_tower",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 5266.26,
+      "Y": -5427.58,
+      "Z": 98.4
+    },
+    "OuterSize": {
+      "X": 33.0,
+      "Y": 33.36,
+      "Z": 164.29
+    },
+    "InnerPosition": {
+      "X": 5266.26,
+      "Y": -5427.58,
+      "Z": 118.25
+    },
+    "InnerSize": {
+      "X": 10.0,
+      "Y": 10.0,
+      "Z": 74.62
+    },
+    "AmbientEmitters": [
+      "ar_dlc_h4_tower_creaks",
+      "ar_dlc_h4_tower_creaks_light",
+      "pr_dlc_h4_tower_resonance_01",
+      "pr_dlc_h4_tower_resonance_02",
+      "pr_dlc_h4_tower_resonance_03",
+      "ar_dlc_h4_tower_wind",
+      "ar_dlc_h4_ih_birds_crow_warm_distant"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_guard_tower_01",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 5360.11,
+      "Y": -5436.7,
+      "Z": 63.06
+    },
+    "OuterSize": {
+      "X": 16.38,
+      "Y": 16.84,
+      "Z": 23.79
+    },
+    "InnerPosition": {
+      "X": 5360.11,
+      "Y": -5436.7,
+      "Z": 62.24
+    },
+    "InnerSize": {
+      "X": 5.24,
+      "Y": 3.96,
+      "Z": 10.68
+    },
+    "AmbientEmitters": [
+      "ar_dlc_h4_tower_creaks_light"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_guard_tower_02",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 5125.1,
+      "Y": -5525.97,
+      "Z": 53.05
+    },
+    "OuterSize": {
+      "X": 20.53,
+      "Y": 19.24,
+      "Z": 48.46
+    },
+    "InnerPosition": {
+      "X": 5126.78,
+      "Y": -5526.77,
+      "Z": 66.96
+    },
+    "InnerSize": {
+      "X": 3.73,
+      "Y": 3.95,
+      "Z": 10.68
+    },
+    "AmbientEmitters": [
+      "ar_dlc_h4_tower_creaks_light"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_guard_tower_03",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 4887.79,
+      "Y": -5457.19,
+      "Z": 40.96
+    },
+    "OuterSize": {
+      "X": 20.53,
+      "Y": 19.24,
+      "Z": 48.46
+    },
+    "InnerPosition": {
+      "X": 4887.79,
+      "Y": -5457.19,
+      "Z": 40.96
+    },
+    "InnerSize": {
+      "X": 3.73,
+      "Y": 3.95,
+      "Z": 10.68
+    },
+    "AmbientEmitters": [
+      "ar_dlc_h4_tower_creaks_light"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_guard_tower_04",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 5043.68,
+      "Y": -5115.05,
+      "Z": 18.71
+    },
+    "OuterSize": {
+      "X": 20.53,
+      "Y": 19.24,
+      "Z": 48.46
+    },
+    "InnerPosition": {
+      "X": 5043.68,
+      "Y": -5115.05,
+      "Z": 18.01
+    },
+    "InnerSize": {
+      "X": 3.73,
+      "Y": 3.95,
+      "Z": 10.68
+    },
+    "AmbientEmitters": [
+      "ar_dlc_h4_tower_creaks_light"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_guard_tower_05",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 5140.5,
+      "Y": -5243.96,
+      "Z": 23.66
+    },
+    "OuterSize": {
+      "X": 20.53,
+      "Y": 19.24,
+      "Z": 48.46
+    },
+    "InnerPosition": {
+      "X": 5140.5,
+      "Y": -5243.96,
+      "Z": 23.66
+    },
+    "InnerSize": {
+      "X": 3.73,
+      "Y": 3.95,
+      "Z": 10.68
+    },
+    "AmbientEmitters": [
+      "ar_dlc_h4_tower_creaks_light"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_guard_tower_06",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 5465.38,
+      "Y": -5236.27,
+      "Z": 41.04
+    },
+    "OuterSize": {
+      "X": 20.53,
+      "Y": 19.24,
+      "Z": 48.46
+    },
+    "InnerPosition": {
+      "X": 5465.38,
+      "Y": -5236.27,
+      "Z": 41.04
+    },
+    "InnerSize": {
+      "X": 3.73,
+      "Y": 3.95,
+      "Z": 10.68
+    },
+    "AmbientEmitters": [
+      "ar_dlc_h4_tower_creaks_light"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_guard_tower_07",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 5147.69,
+      "Y": -5052.15,
+      "Z": 13.09
+    },
+    "OuterSize": {
+      "X": 20.53,
+      "Y": 19.24,
+      "Z": 48.46
+    },
+    "InnerPosition": {
+      "X": 5147.69,
+      "Y": -5052.15,
+      "Z": 13.09
+    },
+    "InnerSize": {
+      "X": 3.73,
+      "Y": 3.95,
+      "Z": 10.68
+    },
+    "AmbientEmitters": [
+      "ar_dlc_h4_tower_creaks_light"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_guard_tower_08",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 5153.61,
+      "Y": -4932.85,
+      "Z": 25.44
+    },
+    "OuterSize": {
+      "X": 20.53,
+      "Y": 19.24,
+      "Z": 48.46
+    },
+    "InnerPosition": {
+      "X": 5153.61,
+      "Y": -4932.85,
+      "Z": 25.1
+    },
+    "InnerSize": {
+      "X": 3.73,
+      "Y": 3.95,
+      "Z": 10.68
+    },
+    "AmbientEmitters": [
+      "ar_dlc_h4_tower_creaks_light"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_guard_tower_09",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 5032.76,
+      "Y": -4631.06,
+      "Z": 16.04
+    },
+    "OuterSize": {
+      "X": 20.53,
+      "Y": 19.24,
+      "Z": 48.46
+    },
+    "InnerPosition": {
+      "X": 5032.76,
+      "Y": -4631.06,
+      "Z": 16.04
+    },
+    "InnerSize": {
+      "X": 3.73,
+      "Y": 3.95,
+      "Z": 10.68
+    },
+    "AmbientEmitters": [
+      "ar_dlc_h4_tower_creaks_light"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_guard_tower_10",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 4877.25,
+      "Y": -4488.2,
+      "Z": 22.03
+    },
+    "OuterSize": {
+      "X": 20.53,
+      "Y": 19.24,
+      "Z": 48.46
+    },
+    "InnerPosition": {
+      "X": 4877.25,
+      "Y": -4488.2,
+      "Z": 22.03
+    },
+    "InnerSize": {
+      "X": 3.73,
+      "Y": 3.95,
+      "Z": 10.68
+    },
+    "AmbientEmitters": [
+      "ar_dlc_h4_tower_creaks_light"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_water_tower_01",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 5106.92,
+      "Y": -4580.68,
+      "Z": 20.61
+    },
+    "OuterSize": {
+      "X": 16.38,
+      "Y": 16.84,
+      "Z": 41.8
+    },
+    "InnerPosition": {
+      "X": 5106.92,
+      "Y": -4580.68,
+      "Z": 19.7
+    },
+    "InnerSize": {
+      "X": 5.24,
+      "Y": 3.96,
+      "Z": 18.77
+    },
+    "AmbientEmitters": [
+      "ar_dlc_h4_tower_creaks_light"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_water_tower_02",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 4902.54,
+      "Y": -5336.47,
+      "Z": 23.73
+    },
+    "OuterSize": {
+      "X": 16.38,
+      "Y": 16.84,
+      "Z": 41.8
+    },
+    "InnerPosition": {
+      "X": 4902.54,
+      "Y": -5336.47,
+      "Z": 23.73
+    },
+    "InnerSize": {
+      "X": 5.24,
+      "Y": 3.96,
+      "Z": 18.77
+    },
+    "AmbientEmitters": [
+      "ar_dlc_h4_tower_creaks_light"
+    ]
+  },
+  {
+    "Name": "az_dlc_h4_radio_mast_tower_top",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 5266.26,
+      "Y": -5427.58,
+      "Z": 125.4
+    },
+    "OuterSize": {
+      "X": 25.96,
+      "Y": 26.44,
+      "Z": 50.29
+    },
+    "InnerPosition": {
+      "X": 5266.26,
+      "Y": -5427.58,
+      "Z": 140.25
+    },
+    "InnerSize": {
+      "X": 10.0,
+      "Y": 10.0,
+      "Z": 13.62
+    },
+    "AmbientEmitters": [
+      "hash_9F620074"
+    ]
+  },
+  {
     "Name": "iz_ba_dlc_int_01_ba_int_01_main_area",
     "Shape": "Box",
     "Flags0": "0xAA800525",

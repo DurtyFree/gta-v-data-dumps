@@ -748,5 +748,20 @@
     "Name": "PICKUP_WEAPON_NAVYREVOLVER",
     "Hash": 3392027813,
     "Model": "w_pi_wep2_gun"
+  },
+  {
+    "Name": "PICKUP_WEAPON_COMBATSHOTGUN",
+    "Hash": 2074855423,
+    "Model": "w_sg_pumpshotgunh4"
+  },
+  {
+    "Name": "PICKUP_WEAPON_GADGETPISTOL",
+    "Hash": 2010690963,
+    "Model": "w_pi_singleshoth4"
+  },
+  {
+    "Name": "PICKUP_WEAPON_MILITARYRIFLE",
+    "Hash": 884272848,
+    "Model": "w_ar_bullpuprifleh4"
   }
 ]

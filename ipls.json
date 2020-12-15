@@ -38923,6 +38923,3391 @@
     "ExtraData": {}
   },
   {
+    "Name": "h4_ch2_mansion_final",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": -1770.73608,
+      "Y": 437.291931,
+      "Z": 128.086823
+    },
+    "DimensionMin": {
+      "X": -1787.2522,
+      "Y": 424.820831,
+      "Z": 126.231918
+    },
+    "DimensionMax": {
+      "X": -1754.22,
+      "Y": 449.763,
+      "Z": 129.941711
+    },
+    "Entities": 32,
+    "ContentFlags": 65,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_clubposter_keinemusik",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 986.8822,
+      "Y": 79.4662,
+      "Z": 81.287384
+    },
+    "DimensionMin": {
+      "X": 986.7431,
+      "Y": 79.3792,
+      "Z": 81.04657
+    },
+    "DimensionMax": {
+      "X": 987.021362,
+      "Y": 79.55319,
+      "Z": 81.5282059
+    },
+    "Entities": 1,
+    "ContentFlags": 1,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 150"
+    }
+  },
+  {
+    "Name": "h4_clubposter_moodymann",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 986.604736,
+      "Y": 79.6396,
+      "Z": 81.63886
+    },
+    "DimensionMin": {
+      "X": 986.4733,
+      "Y": 79.55742,
+      "Z": 81.4039154
+    },
+    "DimensionMax": {
+      "X": 986.7362,
+      "Y": 79.72179,
+      "Z": 81.87381
+    },
+    "Entities": 1,
+    "ContentFlags": 1,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 150"
+    }
+  },
+  {
+    "Name": "h4_clubposter_palmstraxx",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 986.5084,
+      "Y": 79.69979,
+      "Z": 81.1068
+    },
+    "DimensionMin": {
+      "X": 986.368042,
+      "Y": 79.61201,
+      "Z": 80.865036
+    },
+    "DimensionMax": {
+      "X": 986.6488,
+      "Y": 79.7875748,
+      "Z": 81.34855
+    },
+    "Entities": 1,
+    "ContentFlags": 1,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 150"
+    }
+  },
+  {
+    "Name": "h4_islandx_yacht_01",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 50.61766,
+      "Y": -3294.43652,
+      "Z": 6.18374
+    },
+    "DimensionMin": {
+      "X": 42.6176529,
+      "Y": -3355.08667,
+      "Z": -4.56626
+    },
+    "DimensionMax": {
+      "X": 58.61767,
+      "Y": -3233.78662,
+      "Z": 16.93374
+    },
+    "Entities": 4,
+    "ContentFlags": 1,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 151"
+    }
+  },
+  {
+    "Name": "h4_islandx_yacht_01_int",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 50.6087265,
+      "Y": -3300.03076,
+      "Z": 9.71163
+    },
+    "DimensionMin": {
+      "X": 42.9370728,
+      "Y": -3325.96826,
+      "Z": 4.66752672
+    },
+    "DimensionMax": {
+      "X": 58.2803841,
+      "Y": -3274.09351,
+      "Z": 14.7557335
+    },
+    "Entities": 1,
+    "ContentFlags": 73,
+    "FoundByScripted": true,
+    "Interiors": [
+      {
+        "Id": 0,
+        "TypeName": "h4_mpapa_yacht",
+        "Entities": 446,
+        "Rooms": 63,
+        "Portals": 63,
+        "EntitySets": [
+          {
+            "Name": "Apart_Hi_Strip_C",
+            "EntitiesCount": 2,
+            "ExtraData": {
+              "Description": "Strip-tease Clothes on the ground, furnitures..."
+            }
+          },
+          {
+            "Name": "Apart_Hi_Smokes_A",
+            "EntitiesCount": 8,
+            "ExtraData": {
+              "Description": "Cigarettes and cigarettes packs"
+            }
+          },
+          {
+            "Name": "Apart_Hi_Smokes_C",
+            "EntitiesCount": 9,
+            "ExtraData": {
+              "Description": "Cigarettes and cigarettes packs"
+            }
+          },
+          {
+            "Name": "Apart_Hi_Strip_A",
+            "EntitiesCount": 2,
+            "ExtraData": {
+              "Description": "Strip-tease Clothes on the ground, furnitures..."
+            }
+          },
+          {
+            "Name": "Apart_Hi_Booze_B",
+            "EntitiesCount": 15,
+            "ExtraData": {
+              "Description": "Bottles here and there"
+            }
+          },
+          {
+            "Name": "Apart_Hi_Smokes_B",
+            "EntitiesCount": 10,
+            "ExtraData": {
+              "Description": "Cigarettes and cigarettes packs"
+            }
+          },
+          {
+            "Name": "Apart_Hi_Strip_B",
+            "EntitiesCount": 2,
+            "ExtraData": {
+              "Description": "Strip-tease Clothes on the ground, furnitures..."
+            }
+          },
+          {
+            "Name": "Apart_Hi_Booze_A",
+            "EntitiesCount": 13,
+            "ExtraData": {
+              "Description": "Bottles here and there"
+            }
+          },
+          {
+            "Name": "Apart_Hi_Booze_C",
+            "EntitiesCount": 9,
+            "ExtraData": {
+              "Description": "Bottles here and there"
+            }
+          }
+        ]
+      }
+    ],
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 151"
+    }
+  },
+  {
+    "Name": "h4_islandx_yacht_02",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": -3538.55127,
+      "Y": 738.462341,
+      "Z": 6.18374
+    },
+    "DimensionMin": {
+      "X": -3599.20117,
+      "Y": 730.462341,
+      "Z": -4.56626
+    },
+    "DimensionMax": {
+      "X": -3477.90112,
+      "Y": 746.462341,
+      "Z": 16.93374
+    },
+    "Entities": 5,
+    "ContentFlags": 1,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 152"
+    }
+  },
+  {
+    "Name": "h4_islandx_yacht_02_int",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": -3544.14551,
+      "Y": 738.4713,
+      "Z": 9.71163
+    },
+    "DimensionMin": {
+      "X": -3570.08276,
+      "Y": 730.7997,
+      "Z": 4.66752672
+    },
+    "DimensionMax": {
+      "X": -3518.208,
+      "Y": 746.1429,
+      "Z": 14.7557335
+    },
+    "Entities": 1,
+    "ContentFlags": 73,
+    "FoundByScripted": true,
+    "Interiors": [
+      {
+        "Id": 0,
+        "TypeName": "h4_mpapa_yacht",
+        "Entities": 446,
+        "Rooms": 63,
+        "Portals": 63,
+        "EntitySets": [
+          {
+            "Name": "Apart_Hi_Strip_C",
+            "EntitiesCount": 2,
+            "ExtraData": {
+              "Description": "Strip-tease Clothes on the ground, furnitures..."
+            }
+          },
+          {
+            "Name": "Apart_Hi_Smokes_A",
+            "EntitiesCount": 8,
+            "ExtraData": {
+              "Description": "Cigarettes and cigarettes packs"
+            }
+          },
+          {
+            "Name": "Apart_Hi_Smokes_C",
+            "EntitiesCount": 9,
+            "ExtraData": {
+              "Description": "Cigarettes and cigarettes packs"
+            }
+          },
+          {
+            "Name": "Apart_Hi_Strip_A",
+            "EntitiesCount": 2,
+            "ExtraData": {
+              "Description": "Strip-tease Clothes on the ground, furnitures..."
+            }
+          },
+          {
+            "Name": "Apart_Hi_Booze_B",
+            "EntitiesCount": 15,
+            "ExtraData": {
+              "Description": "Bottles here and there"
+            }
+          },
+          {
+            "Name": "Apart_Hi_Smokes_B",
+            "EntitiesCount": 10,
+            "ExtraData": {
+              "Description": "Cigarettes and cigarettes packs"
+            }
+          },
+          {
+            "Name": "Apart_Hi_Strip_B",
+            "EntitiesCount": 2,
+            "ExtraData": {
+              "Description": "Strip-tease Clothes on the ground, furnitures..."
+            }
+          },
+          {
+            "Name": "Apart_Hi_Booze_A",
+            "EntitiesCount": 13,
+            "ExtraData": {
+              "Description": "Bottles here and there"
+            }
+          },
+          {
+            "Name": "Apart_Hi_Booze_C",
+            "EntitiesCount": 9,
+            "ExtraData": {
+              "Description": "Bottles here and there"
+            }
+          }
+        ]
+      }
+    ],
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 152"
+    }
+  },
+  {
+    "Name": "h4_islandx_yacht_03",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": -1748.98462,
+      "Y": 5330.95,
+      "Z": 6.18374
+    },
+    "DimensionMin": {
+      "X": -1810.10229,
+      "Y": 5312.54,
+      "Z": -4.56626
+    },
+    "DimensionMax": {
+      "X": -1687.86682,
+      "Y": 5349.36035,
+      "Z": 16.93374
+    },
+    "Entities": 5,
+    "ContentFlags": 1,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 153"
+    }
+  },
+  {
+    "Name": "h4_islandx_yacht_03_int",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": -1754.4917,
+      "Y": 5331.93,
+      "Z": 9.71163
+    },
+    "DimensionMin": {
+      "X": -1781.35547,
+      "Y": 5319.911,
+      "Z": 4.66752672
+    },
+    "DimensionMax": {
+      "X": -1727.62793,
+      "Y": 5343.949,
+      "Z": 14.7557335
+    },
+    "Entities": 1,
+    "ContentFlags": 73,
+    "FoundByScripted": true,
+    "Interiors": [
+      {
+        "Id": 0,
+        "TypeName": "h4_mpapa_yacht",
+        "Entities": 446,
+        "Rooms": 63,
+        "Portals": 63,
+        "EntitySets": [
+          {
+            "Name": "Apart_Hi_Strip_C",
+            "EntitiesCount": 2,
+            "ExtraData": {
+              "Description": "Strip-tease Clothes on the ground, furnitures..."
+            }
+          },
+          {
+            "Name": "Apart_Hi_Smokes_A",
+            "EntitiesCount": 8,
+            "ExtraData": {
+              "Description": "Cigarettes and cigarettes packs"
+            }
+          },
+          {
+            "Name": "Apart_Hi_Smokes_C",
+            "EntitiesCount": 9,
+            "ExtraData": {
+              "Description": "Cigarettes and cigarettes packs"
+            }
+          },
+          {
+            "Name": "Apart_Hi_Strip_A",
+            "EntitiesCount": 2,
+            "ExtraData": {
+              "Description": "Strip-tease Clothes on the ground, furnitures..."
+            }
+          },
+          {
+            "Name": "Apart_Hi_Booze_B",
+            "EntitiesCount": 15,
+            "ExtraData": {
+              "Description": "Bottles here and there"
+            }
+          },
+          {
+            "Name": "Apart_Hi_Smokes_B",
+            "EntitiesCount": 10,
+            "ExtraData": {
+              "Description": "Cigarettes and cigarettes packs"
+            }
+          },
+          {
+            "Name": "Apart_Hi_Strip_B",
+            "EntitiesCount": 2,
+            "ExtraData": {
+              "Description": "Strip-tease Clothes on the ground, furnitures..."
+            }
+          },
+          {
+            "Name": "Apart_Hi_Booze_A",
+            "EntitiesCount": 13,
+            "ExtraData": {
+              "Description": "Bottles here and there"
+            }
+          },
+          {
+            "Name": "Apart_Hi_Booze_C",
+            "EntitiesCount": 9,
+            "ExtraData": {
+              "Description": "Bottles here and there"
+            }
+          }
+        ]
+      }
+    ],
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 153"
+    }
+  },
+  {
+    "Name": "h4_boatblockers",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 5150.08545,
+      "Y": -5457.23047,
+      "Z": 0.5
+    },
+    "DimensionMin": {
+      "X": 4702.537,
+      "Y": -5956.24463,
+      "Z": 0.0
+    },
+    "DimensionMax": {
+      "X": 5597.634,
+      "Y": -4958.217,
+      "Z": 1.0
+    },
+    "Entities": 13,
+    "ContentFlags": 1,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_islandx",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4931.949,
+      "Y": -4956.05,
+      "Z": 16.6474266
+    },
+    "DimensionMin": {
+      "X": 4738.544,
+      "Y": -5122.185,
+      "Z": 3.029979
+    },
+    "DimensionMax": {
+      "X": 5125.355,
+      "Y": -4789.915,
+      "Z": 30.2648735
+    },
+    "Entities": 32,
+    "ContentFlags": 1,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_islandx_disc_strandedshark",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 5236.052,
+      "Y": -4917.677,
+      "Z": 0.442455
+    },
+    "DimensionMin": {
+      "X": 5234.901,
+      "Y": -4919.6123,
+      "Z": -0.33599
+    },
+    "DimensionMax": {
+      "X": 5237.203,
+      "Y": -4915.7417,
+      "Z": 1.2209
+    },
+    "Entities": 1,
+    "ContentFlags": 1,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_islandx_disc_strandedwhale",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4770.078,
+      "Y": -4727.421,
+      "Z": 1.94193339
+    },
+    "DimensionMin": {
+      "X": 4760.57568,
+      "Y": -4736.8125,
+      "Z": -0.292269
+    },
+    "DimensionMax": {
+      "X": 4779.58,
+      "Y": -4718.03,
+      "Z": 4.176136
+    },
+    "Entities": 1,
+    "ContentFlags": 1,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_islandx_props",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4797.039,
+      "Y": -4953.76855,
+      "Z": -87.6406
+    },
+    "DimensionMin": {
+      "X": 3781.497,
+      "Y": -6190.70752,
+      "Z": -201.233734
+    },
+    "DimensionMax": {
+      "X": 5812.581,
+      "Y": -3716.82983,
+      "Z": 25.9525261
+    },
+    "Entities": 201,
+    "ContentFlags": 65,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_islandx_sea_mines",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4695.335,
+      "Y": -5156.913,
+      "Z": -81.4704
+    },
+    "DimensionMin": {
+      "X": 3672.5835,
+      "Y": -6187.282,
+      "Z": -162.479767
+    },
+    "DimensionMax": {
+      "X": 5718.087,
+      "Y": -4126.544,
+      "Z": -0.461024046
+    },
+    "Entities": 555,
+    "ContentFlags": 65,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_aa_guns",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4935.80225,
+      "Y": -5071.533,
+      "Z": 29.03702
+    },
+    "DimensionMin": {
+      "X": 4276.42334,
+      "Y": -5839.249,
+      "Z": 1.168346
+    },
+    "DimensionMax": {
+      "X": 5595.181,
+      "Y": -4303.818,
+      "Z": 56.9056931
+    },
+    "Entities": 587,
+    "ContentFlags": 65,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_beach",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4934.955,
+      "Y": -4890.184,
+      "Z": 6.73356
+    },
+    "DimensionMin": {
+      "X": 4861.504,
+      "Y": -4957.594,
+      "Z": 1.013391
+    },
+    "DimensionMax": {
+      "X": 5008.40625,
+      "Y": -4822.774,
+      "Z": 12.4537287
+    },
+    "Entities": 27,
+    "ContentFlags": 1,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_beach_bar_props",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4904.959,
+      "Y": -4942.17969,
+      "Z": 3.33972788
+    },
+    "DimensionMin": {
+      "X": 4898.897,
+      "Y": -4946.34326,
+      "Z": 2.272382
+    },
+    "DimensionMax": {
+      "X": 4911.02148,
+      "Y": -4938.0166,
+      "Z": 4.407074
+    },
+    "Entities": 124,
+    "ContentFlags": 65,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 154"
+    }
+  },
+  {
+    "Name": "h4_beach_party",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4897.99,
+      "Y": -4924.972,
+      "Z": 10.0704966
+    },
+    "DimensionMin": {
+      "X": 4875.663,
+      "Y": -4945.235,
+      "Z": 1.667412
+    },
+    "DimensionMax": {
+      "X": 4920.31738,
+      "Y": -4904.70947,
+      "Z": 18.4735813
+    },
+    "Entities": 12,
+    "ContentFlags": 65,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 154"
+    }
+  },
+  {
+    "Name": "h4_beach_props",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4850.322,
+      "Y": -4944.526,
+      "Z": 22.5308933
+    },
+    "DimensionMin": {
+      "X": 4625.768,
+      "Y": -5112.54,
+      "Z": -1.0948559
+    },
+    "DimensionMax": {
+      "X": 5074.87549,
+      "Y": -4776.51172,
+      "Z": 46.1566429
+    },
+    "Entities": 848,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_beach_props_party",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4894.77734,
+      "Y": -4928.02832,
+      "Z": 2.7253952
+    },
+    "DimensionMin": {
+      "X": 4871.47852,
+      "Y": -4949.324,
+      "Z": 1.90727019
+    },
+    "DimensionMax": {
+      "X": 4918.07666,
+      "Y": -4906.73242,
+      "Z": 3.54352
+    },
+    "Entities": 21,
+    "ContentFlags": 65,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 154"
+    }
+  },
+  {
+    "Name": "h4_island_padlock_props",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4917.543,
+      "Y": -4910.217,
+      "Z": 18.07903
+    },
+    "DimensionMin": {
+      "X": 4503.009,
+      "Y": -5269.20752,
+      "Z": 2.694026
+    },
+    "DimensionMax": {
+      "X": 5332.07764,
+      "Y": -4551.22559,
+      "Z": 33.46403
+    },
+    "Entities": 7,
+    "ContentFlags": 65,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_islandairstrip",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4719.906,
+      "Y": -4601.749,
+      "Z": 16.1122265
+    },
+    "DimensionMin": {
+      "X": 4359.14453,
+      "Y": -4783.30127,
+      "Z": -6.85704
+    },
+    "DimensionMax": {
+      "X": 5080.667,
+      "Y": -4420.19629,
+      "Z": 39.0814934
+    },
+    "Entities": 778,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_islandairstrip_doorsclosed",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4446.07227,
+      "Y": -4478.51465,
+      "Z": 6.4290657
+    },
+    "DimensionMin": {
+      "X": 4437.02637,
+      "Y": -4481.838,
+      "Z": 3.33884
+    },
+    "DimensionMax": {
+      "X": 4455.11768,
+      "Y": -4475.19141,
+      "Z": 9.519291
+    },
+    "Entities": 1,
+    "ContentFlags": 1,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 155"
+    }
+  },
+  {
+    "Name": "h4_islandairstrip_doorsopen",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4446.07227,
+      "Y": -4478.51465,
+      "Z": 6.4290657
+    },
+    "DimensionMin": {
+      "X": 4437.027,
+      "Y": -4481.838,
+      "Z": 3.33884
+    },
+    "DimensionMax": {
+      "X": 4455.11768,
+      "Y": -4475.19141,
+      "Z": 9.519292
+    },
+    "Entities": 1,
+    "ContentFlags": 1,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 155"
+    }
+  },
+  {
+    "Name": "h4_islandairstrip_hangar_props",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4444.66,
+      "Y": -4474.621,
+      "Z": 20.2298546
+    },
+    "DimensionMin": {
+      "X": 4392.69141,
+      "Y": -4533.256,
+      "Z": 1.21641314
+    },
+    "DimensionMax": {
+      "X": 4496.629,
+      "Y": -4415.986,
+      "Z": 39.2432938
+    },
+    "Entities": 136,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 155"
+    }
+  },
+  {
+    "Name": "h4_islandairstrip_props",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4606.001,
+      "Y": -4611.61865,
+      "Z": 19.0194016
+    },
+    "DimensionMin": {
+      "X": 4306.0166,
+      "Y": -4782.6626,
+      "Z": -1.53469324
+    },
+    "DimensionMax": {
+      "X": 4905.98535,
+      "Y": -4440.57471,
+      "Z": 39.573494
+    },
+    "Entities": 722,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_islandairstrip_propsb",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4197.5127,
+      "Y": -4595.72852,
+      "Z": 16.8360519
+    },
+    "DimensionMin": {
+      "X": 3868.414,
+      "Y": -4752.30127,
+      "Z": -2.339509
+    },
+    "DimensionMax": {
+      "X": 4526.61133,
+      "Y": -4439.156,
+      "Z": 36.0116119
+    },
+    "Entities": 620,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_islandx_barrack_hatch",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4902.977,
+      "Y": -5336.463,
+      "Z": 34.708744
+    },
+    "DimensionMin": {
+      "X": 4902.28027,
+      "Y": -5337.07,
+      "Z": 34.6233063
+    },
+    "DimensionMax": {
+      "X": 4903.674,
+      "Y": -5335.85645,
+      "Z": 34.79418
+    },
+    "Entities": 1,
+    "ContentFlags": 65,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_islandx_barrack_props",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4933.334,
+      "Y": -5282.964,
+      "Z": 19.0359039
+    },
+    "DimensionMin": {
+      "X": 4873.92871,
+      "Y": -5356.668,
+      "Z": 0.109925687
+    },
+    "DimensionMax": {
+      "X": 4992.73975,
+      "Y": -5209.25928,
+      "Z": 37.96188
+    },
+    "Entities": 854,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 156"
+    }
+  },
+  {
+    "Name": "h4_islandx_checkpoint",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 5167.924,
+      "Y": -5424.15674,
+      "Z": 15.26339
+    },
+    "DimensionMin": {
+      "X": 4716.48975,
+      "Y": -5928.97461,
+      "Z": -2.364691
+    },
+    "DimensionMax": {
+      "X": 5619.358,
+      "Y": -4919.339,
+      "Z": 32.891468
+    },
+    "Entities": 648,
+    "ContentFlags": 65,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_islandx_checkpoint_props",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4856.8916,
+      "Y": -4704.59473,
+      "Z": 22.1917915
+    },
+    "DimensionMin": {
+      "X": 4492.019,
+      "Y": -5120.652,
+      "Z": -0.166862249
+    },
+    "DimensionMax": {
+      "X": 5221.76465,
+      "Y": -4288.538,
+      "Z": 44.5504456
+    },
+    "Entities": 503,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_islandx_maindock",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 5139.19873,
+      "Y": -5335.418,
+      "Z": 32.18218
+    },
+    "DimensionMin": {
+      "X": 4814.732,
+      "Y": -5634.254,
+      "Z": -5.594196
+    },
+    "DimensionMax": {
+      "X": 5463.66553,
+      "Y": -5036.582,
+      "Z": 69.95856
+    },
+    "Entities": 81,
+    "ContentFlags": 1,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 157"
+    }
+  },
+  {
+    "Name": "h4_islandx_maindock_props",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4906.389,
+      "Y": -5154.84,
+      "Z": 15.0291882
+    },
+    "DimensionMin": {
+      "X": 4826.31,
+      "Y": -5226.993,
+      "Z": -0.322127938
+    },
+    "DimensionMax": {
+      "X": 4986.46826,
+      "Y": -5082.68652,
+      "Z": 30.3805046
+    },
+    "Entities": 650,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_islandx_maindock_props_2",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4992.05273,
+      "Y": -5152.44,
+      "Z": 17.4884415
+    },
+    "DimensionMin": {
+      "X": 4938.78955,
+      "Y": -5228.22949,
+      "Z": -0.198725939
+    },
+    "DimensionMax": {
+      "X": 5045.31641,
+      "Y": -5076.65039,
+      "Z": 35.17561
+    },
+    "Entities": 870,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 158"
+    }
+  },
+  {
+    "Name": "h4_islandx_mansion",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 5003.121,
+      "Y": -5741.06152,
+      "Z": 21.606266
+    },
+    "DimensionMin": {
+      "X": 4947.7417,
+      "Y": -5815.67529,
+      "Z": 10.180068
+    },
+    "DimensionMax": {
+      "X": 5058.5,
+      "Y": -5666.44727,
+      "Z": 33.0324631
+    },
+    "Entities": 192,
+    "ContentFlags": 65,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 159"
+    }
+  },
+  {
+    "Name": "h4_islandx_mansion_b",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4962.355,
+      "Y": -5702.872,
+      "Z": 10.0906
+    },
+    "DimensionMin": {
+      "X": 4814.92432,
+      "Y": -5821.80127,
+      "Z": -14.1344976
+    },
+    "DimensionMax": {
+      "X": 5109.78564,
+      "Y": -5583.94238,
+      "Z": 34.3156967
+    },
+    "Entities": 148,
+    "ContentFlags": 65,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_islandx_mansion_b_side_fence",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 5086.85938,
+      "Y": -5739.23535,
+      "Z": 19.6237583
+    },
+    "DimensionMin": {
+      "X": 5074.505,
+      "Y": -5748.70264,
+      "Z": 15.7582283
+    },
+    "DimensionMax": {
+      "X": 5099.214,
+      "Y": -5729.76855,
+      "Z": 23.4892883
+    },
+    "Entities": 2,
+    "ContentFlags": 1,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 160"
+    }
+  },
+  {
+    "Name": "h4_islandx_mansion_entrance_fence",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4982.62,
+      "Y": -5722.25,
+      "Z": 27.6219082
+    },
+    "DimensionMin": {
+      "X": 4952.931,
+      "Y": -5753.256,
+      "Z": 24.1047363
+    },
+    "DimensionMax": {
+      "X": 5012.309,
+      "Y": -5691.244,
+      "Z": 31.13908
+    },
+    "Entities": 5,
+    "ContentFlags": 1,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 161"
+    }
+  },
+  {
+    "Name": "h4_islandx_mansion_guardfence",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4964.13965,
+      "Y": -5789.31,
+      "Z": 27.4634457
+    },
+    "DimensionMin": {
+      "X": 4958.167,
+      "Y": -5795.30371,
+      "Z": 26.2689419
+    },
+    "DimensionMax": {
+      "X": 4970.113,
+      "Y": -5783.31641,
+      "Z": 28.65795
+    },
+    "Entities": 1,
+    "ContentFlags": 1,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_islandx_mansion_lights",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 5015.503,
+      "Y": -5727.94629,
+      "Z": 8.123016
+    },
+    "DimensionMin": {
+      "X": 4929.19873,
+      "Y": -5840.5415,
+      "Z": -15.3009014
+    },
+    "DimensionMax": {
+      "X": 5101.80762,
+      "Y": -5615.35059,
+      "Z": 31.5469341
+    },
+    "Entities": 177,
+    "ContentFlags": 65,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 159"
+    }
+  },
+  {
+    "Name": "h4_islandx_mansion_lockup_01",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 5028.18555,
+      "Y": -5737.19141,
+      "Z": 18.9654751
+    },
+    "DimensionMin": {
+      "X": 5022.74951,
+      "Y": -5742.66162,
+      "Z": 16.8654976
+    },
+    "DimensionMax": {
+      "X": 5033.621,
+      "Y": -5731.72168,
+      "Z": 21.0654526
+    },
+    "Entities": 1,
+    "ContentFlags": 73,
+    "FoundByScripted": true,
+    "Interiors": [
+      {
+        "Id": 0,
+        "TypeName": "h4_dlc_island_store_2",
+        "Entities": 72,
+        "Rooms": 5,
+        "Portals": 5,
+        "EntitySets": []
+      }
+    ],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_islandx_mansion_lockup_02",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 5009.164,
+      "Y": -5787.01563,
+      "Z": 18.93159
+    },
+    "DimensionMin": {
+      "X": 5004.35449,
+      "Y": -5791.8623,
+      "Z": 16.8316116
+    },
+    "DimensionMax": {
+      "X": 5013.97363,
+      "Y": -5782.16846,
+      "Z": 21.0315666
+    },
+    "Entities": 1,
+    "ContentFlags": 73,
+    "FoundByScripted": true,
+    "Interiors": [
+      {
+        "Id": 0,
+        "TypeName": "h4_dlc_island_store_3",
+        "Entities": 77,
+        "Rooms": 4,
+        "Portals": 4,
+        "EntitySets": []
+      }
+    ],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_islandx_mansion_lockup_03",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 5085.133,
+      "Y": -5759.888,
+      "Z": 16.92958
+    },
+    "DimensionMin": {
+      "X": 5077.515,
+      "Y": -5766.625,
+      "Z": 14.8296041
+    },
+    "DimensionMax": {
+      "X": 5092.751,
+      "Y": -5753.15137,
+      "Z": 19.0295582
+    },
+    "Entities": 1,
+    "ContentFlags": 73,
+    "FoundByScripted": true,
+    "Interiors": [
+      {
+        "Id": 0,
+        "TypeName": "h4_dlc_island_store_1",
+        "Entities": 68,
+        "Rooms": 4,
+        "Portals": 4,
+        "EntitySets": []
+      }
+    ],
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 160"
+    }
+  },
+  {
+    "Name": "h4_islandx_mansion_office",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 5010.591,
+      "Y": -5753.03,
+      "Z": 29.74533
+    },
+    "DimensionMin": {
+      "X": 5003.103,
+      "Y": -5760.72,
+      "Z": 27.8452263
+    },
+    "DimensionMax": {
+      "X": 5018.078,
+      "Y": -5745.33936,
+      "Z": 31.6454334
+    },
+    "Entities": 1,
+    "ContentFlags": 73,
+    "FoundByScripted": true,
+    "Interiors": [
+      {
+        "Id": 0,
+        "TypeName": "h4_dlc_island_office",
+        "Entities": 92,
+        "Rooms": 4,
+        "Portals": 4,
+        "EntitySets": []
+      }
+    ],
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 159"
+    }
+  },
+  {
+    "Name": "h4_islandx_mansion_props",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4973.81348,
+      "Y": -5704.2666,
+      "Z": 16.5586529
+    },
+    "DimensionMin": {
+      "X": 4839.038,
+      "Y": -5822.67529,
+      "Z": -14.8232555
+    },
+    "DimensionMax": {
+      "X": 5108.58838,
+      "Y": -5585.8584,
+      "Z": 47.94056
+    },
+    "Entities": 891,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 161"
+    }
+  },
+  {
+    "Name": "h4_islandx_mansion_vault",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 5000.55371,
+      "Y": -5746.08447,
+      "Z": 13.7858829
+    },
+    "DimensionMin": {
+      "X": 4969.41,
+      "Y": -5782.655,
+      "Z": 8.984867
+    },
+    "DimensionMax": {
+      "X": 5031.69727,
+      "Y": -5709.514,
+      "Z": 18.5868988
+    },
+    "Entities": 1,
+    "ContentFlags": 73,
+    "FoundByScripted": true,
+    "Interiors": [
+      {
+        "Id": 0,
+        "TypeName": "h4_dlc_island_vault",
+        "Entities": 254,
+        "Rooms": 9,
+        "Portals": 9,
+        "EntitySets": [
+          {
+            "Name": "3159243469",
+            "EntitiesCount": 1
+          },
+          {
+            "Name": "3829276324",
+            "EntitiesCount": 1
+          },
+          {
+            "Name": "3422990272",
+            "EntitiesCount": 1
+          },
+          {
+            "Name": "984660650",
+            "EntitiesCount": 2
+          },
+          {
+            "Name": "1264795531",
+            "EntitiesCount": 2
+          },
+          {
+            "Name": "1830087340",
+            "EntitiesCount": 1
+          }
+        ]
+      }
+    ],
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 159"
+    }
+  },
+  {
+    "Name": "h4_islandxcanal_props",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 5139.021,
+      "Y": -5332.73535,
+      "Z": 34.561058
+    },
+    "DimensionMin": {
+      "X": 4814.15234,
+      "Y": -5635.05029,
+      "Z": -0.9392085
+    },
+    "DimensionMax": {
+      "X": 5463.88965,
+      "Y": -5030.42041,
+      "Z": 70.0613251
+    },
+    "Entities": 774,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 157"
+    }
+  },
+  {
+    "Name": "h4_islandxdock",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4951.0,
+      "Y": -4670.68555,
+      "Z": 18.03824
+    },
+    "DimensionMin": {
+      "X": 4711.17041,
+      "Y": -5036.5127,
+      "Z": -7.203306
+    },
+    "DimensionMax": {
+      "X": 5190.83,
+      "Y": -4304.859,
+      "Z": 43.2797852
+    },
+    "Entities": 589,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_islandxdock_props",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 5133.51074,
+      "Y": -4639.58252,
+      "Z": 10.5580587
+    },
+    "DimensionMin": {
+      "X": 5034.138,
+      "Y": -4713.74658,
+      "Z": -5.53796673
+    },
+    "DimensionMax": {
+      "X": 5232.883,
+      "Y": -4565.41846,
+      "Z": 26.6540833
+    },
+    "Entities": 861,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 162"
+    }
+  },
+  {
+    "Name": "h4_islandxdock_props_2",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 5134.411,
+      "Y": -4638.793,
+      "Z": 20.7268543
+    },
+    "DimensionMin": {
+      "X": 5030.97754,
+      "Y": -4712.559,
+      "Z": -1.14928007
+    },
+    "DimensionMax": {
+      "X": 5237.844,
+      "Y": -4565.02734,
+      "Z": 42.60299
+    },
+    "Entities": 498,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 162"
+    }
+  },
+  {
+    "Name": "h4_islandxdock_water_hatch",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 5108.30029,
+      "Y": -4580.079,
+      "Z": 29.1344643
+    },
+    "DimensionMin": {
+      "X": 5106.34229,
+      "Y": -4583.887,
+      "Z": 28.7074356
+    },
+    "DimensionMax": {
+      "X": 5110.2583,
+      "Y": -4576.27051,
+      "Z": 29.561491
+    },
+    "Entities": 11,
+    "ContentFlags": 65,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_islandxtower",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 5109.10449,
+      "Y": -5077.513,
+      "Z": 73.68767
+    },
+    "DimensionMin": {
+      "X": 4596.2666,
+      "Y": -5855.514,
+      "Z": 0.025492
+    },
+    "DimensionMax": {
+      "X": 5621.943,
+      "Y": -4299.512,
+      "Z": 147.349854
+    },
+    "Entities": 639,
+    "ContentFlags": 65,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_islandxtower_veg",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 5185.647,
+      "Y": -5463.664,
+      "Z": 35.4548759
+    },
+    "DimensionMin": {
+      "X": 4754.167,
+      "Y": -5857.886,
+      "Z": 1.649424
+    },
+    "DimensionMax": {
+      "X": 5617.127,
+      "Y": -5069.44238,
+      "Z": 69.26032
+    },
+    "Entities": 517,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_mansion_gate_broken",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4980.128,
+      "Y": -5709.35938,
+      "Z": 20.9343433
+    },
+    "DimensionMin": {
+      "X": 4972.061,
+      "Y": -5717.43555,
+      "Z": 18.7883759
+    },
+    "DimensionMax": {
+      "X": 4988.195,
+      "Y": -5701.283,
+      "Z": 23.08031
+    },
+    "Entities": 1,
+    "ContentFlags": 65,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 161"
+    }
+  },
+  {
+    "Name": "h4_mansion_gate_closed",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4982.57275,
+      "Y": -5710.99756,
+      "Z": 20.9916763
+    },
+    "DimensionMin": {
+      "X": 4980.9707,
+      "Y": -5712.78662,
+      "Z": 18.8869
+    },
+    "DimensionMax": {
+      "X": 4984.175,
+      "Y": -5709.2085,
+      "Z": 23.0964546
+    },
+    "Entities": 2,
+    "ContentFlags": 65,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 161"
+    }
+  },
+  {
+    "Name": "h4_mansion_remains_cage",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4980.72559,
+      "Y": -5763.879,
+      "Z": 20.049
+    },
+    "DimensionMin": {
+      "X": 4978.595,
+      "Y": -5765.44336,
+      "Z": 19.9440117
+    },
+    "DimensionMax": {
+      "X": 4982.85645,
+      "Y": -5762.31445,
+      "Z": 20.1539879
+    },
+    "Entities": 1,
+    "ContentFlags": 1,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_ne_ipl_00",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 5038.06348,
+      "Y": -4511.65137,
+      "Z": 21.9226952
+    },
+    "DimensionMin": {
+      "X": 4831.073,
+      "Y": -4639.64746,
+      "Z": -1.7072835
+    },
+    "DimensionMax": {
+      "X": 5245.053,
+      "Y": -4383.655,
+      "Z": 45.5526733
+    },
+    "Entities": 774,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_ne_ipl_01",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4975.925,
+      "Y": -4692.671,
+      "Z": 20.8900986
+    },
+    "DimensionMin": {
+      "X": 4891.131,
+      "Y": -4800.8667,
+      "Z": -1.69338012
+    },
+    "DimensionMax": {
+      "X": 5060.71826,
+      "Y": -4584.47461,
+      "Z": 43.47358
+    },
+    "Entities": 826,
+    "ContentFlags": 513,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_ne_ipl_02",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 5049.32227,
+      "Y": -4789.592,
+      "Z": 20.3227863
+    },
+    "DimensionMin": {
+      "X": 4942.265,
+      "Y": -4904.244,
+      "Z": -2.89432645
+    },
+    "DimensionMax": {
+      "X": 5156.38,
+      "Y": -4674.93945,
+      "Z": 43.5399
+    },
+    "Entities": 900,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_ne_ipl_03",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 5168.38135,
+      "Y": -4962.72754,
+      "Z": 20.874424
+    },
+    "DimensionMin": {
+      "X": 4965.47,
+      "Y": -5090.481,
+      "Z": -2.37547159
+    },
+    "DimensionMax": {
+      "X": 5371.29248,
+      "Y": -4834.974,
+      "Z": 44.1243172
+    },
+    "Entities": 837,
+    "ContentFlags": 513,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_ne_ipl_04",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 5363.05859,
+      "Y": -5130.291,
+      "Z": 26.18593
+    },
+    "DimensionMin": {
+      "X": 5160.07764,
+      "Y": -5234.413,
+      "Z": -1.12607718
+    },
+    "DimensionMax": {
+      "X": 5566.04,
+      "Y": -5026.16846,
+      "Z": 53.49794
+    },
+    "Entities": 836,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_ne_ipl_05",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 5476.777,
+      "Y": -5311.666,
+      "Z": 31.8848934
+    },
+    "DimensionMin": {
+      "X": 5371.848,
+      "Y": -5395.405,
+      "Z": 9.746786
+    },
+    "DimensionMax": {
+      "X": 5581.70557,
+      "Y": -5227.927,
+      "Z": 54.023
+    },
+    "Entities": 776,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_ne_ipl_06",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 5216.11133,
+      "Y": -5320.211,
+      "Z": 33.493782
+    },
+    "DimensionMin": {
+      "X": 5090.137,
+      "Y": -5428.226,
+      "Z": -0.960789859
+    },
+    "DimensionMax": {
+      "X": 5342.08545,
+      "Y": -5212.196,
+      "Z": 67.94835
+    },
+    "Entities": 845,
+    "ContentFlags": 513,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_ne_ipl_07",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 5000.616,
+      "Y": -5166.64063,
+      "Z": 17.82779
+    },
+    "DimensionMin": {
+      "X": 4870.528,
+      "Y": -5305.64355,
+      "Z": -2.28305864
+    },
+    "DimensionMax": {
+      "X": 5130.70459,
+      "Y": -5027.6377,
+      "Z": 37.9386368
+    },
+    "Entities": 821,
+    "ContentFlags": 513,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 158"
+    }
+  },
+  {
+    "Name": "h4_ne_ipl_08",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4997.68652,
+      "Y": -5346.842,
+      "Z": 30.81084
+    },
+    "DimensionMin": {
+      "X": 4861.06836,
+      "Y": -5410.965,
+      "Z": 2.60781145
+    },
+    "DimensionMax": {
+      "X": 5134.30469,
+      "Y": -5282.71875,
+      "Z": 59.01387
+    },
+    "Entities": 860,
+    "ContentFlags": 513,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_ne_ipl_09",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 5376.65625,
+      "Y": -5394.912,
+      "Z": 24.2212811
+    },
+    "DimensionMin": {
+      "X": 5132.593,
+      "Y": -5609.71973,
+      "Z": 3.29891825
+    },
+    "DimensionMax": {
+      "X": 5620.719,
+      "Y": -5180.104,
+      "Z": 45.1436462
+    },
+    "Entities": 286,
+    "ContentFlags": 513,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_nw_ipl_00",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4816.83057,
+      "Y": -4664.08545,
+      "Z": 11.6509523
+    },
+    "DimensionMin": {
+      "X": 4733.098,
+      "Y": -4762.872,
+      "Z": 0.529007554
+    },
+    "DimensionMax": {
+      "X": 4900.563,
+      "Y": -4565.299,
+      "Z": 22.7728958
+    },
+    "Entities": 434,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_nw_ipl_01",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4527.831,
+      "Y": -4468.18555,
+      "Z": 18.4791775
+    },
+    "DimensionMin": {
+      "X": 4321.76855,
+      "Y": -4595.28369,
+      "Z": -0.342188239
+    },
+    "DimensionMax": {
+      "X": 4733.893,
+      "Y": -4341.087,
+      "Z": 37.30054
+    },
+    "Entities": 762,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_nw_ipl_02",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4584.541,
+      "Y": -4890.62,
+      "Z": 15.0667744
+    },
+    "DimensionMin": {
+      "X": 4496.19336,
+      "Y": -4982.31641,
+      "Z": 0.3483925
+    },
+    "DimensionMax": {
+      "X": 4672.889,
+      "Y": -4798.92432,
+      "Z": 29.7851563
+    },
+    "Entities": 594,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_nw_ipl_03",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4322.96875,
+      "Y": -4457.389,
+      "Z": 19.13181
+    },
+    "DimensionMin": {
+      "X": 4245.78,
+      "Y": -4527.818,
+      "Z": -0.5000982
+    },
+    "DimensionMax": {
+      "X": 4400.15771,
+      "Y": -4386.96045,
+      "Z": 38.7637138
+    },
+    "Entities": 460,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_nw_ipl_04",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4799.72656,
+      "Y": -4385.13672,
+      "Z": 21.5129547
+    },
+    "DimensionMin": {
+      "X": 4704.11,
+      "Y": -4499.098,
+      "Z": -1.32551336
+    },
+    "DimensionMax": {
+      "X": 4895.34375,
+      "Y": -4271.17529,
+      "Z": 44.3514252
+    },
+    "Entities": 816,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_nw_ipl_05",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4578.93359,
+      "Y": -4587.26172,
+      "Z": 21.0170441
+    },
+    "DimensionMin": {
+      "X": 4471.92334,
+      "Y": -4702.86,
+      "Z": -0.624505162
+    },
+    "DimensionMax": {
+      "X": 4685.94336,
+      "Y": -4471.664,
+      "Z": 42.658596
+    },
+    "Entities": 841,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_nw_ipl_06",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4256.5127,
+      "Y": -4359.995,
+      "Z": 22.5696163
+    },
+    "DimensionMin": {
+      "X": 4138.52441,
+      "Y": -4444.492,
+      "Z": -1.20466042
+    },
+    "DimensionMax": {
+      "X": 4374.501,
+      "Y": -4275.498,
+      "Z": 46.343895
+    },
+    "Entities": 855,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_nw_ipl_07",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 3970.07227,
+      "Y": -4688.584,
+      "Z": 17.1514378
+    },
+    "DimensionMin": {
+      "X": 3832.35864,
+      "Y": -4779.06543,
+      "Z": -0.802390456
+    },
+    "DimensionMax": {
+      "X": 4107.786,
+      "Y": -4598.102,
+      "Z": 35.1052666
+    },
+    "Entities": 447,
+    "ContentFlags": 513,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_nw_ipl_08",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4162.50244,
+      "Y": -4519.47949,
+      "Z": 17.2404785
+    },
+    "DimensionMin": {
+      "X": 4046.89136,
+      "Y": -4619.107,
+      "Z": -1.26750064
+    },
+    "DimensionMax": {
+      "X": 4278.11328,
+      "Y": -4419.85254,
+      "Z": 35.748455
+    },
+    "Entities": 804,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_nw_ipl_09",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4781.24072,
+      "Y": -4560.35254,
+      "Z": 22.149271
+    },
+    "DimensionMin": {
+      "X": 4662.95947,
+      "Y": -4661.04932,
+      "Z": 2.044643
+    },
+    "DimensionMax": {
+      "X": 4899.522,
+      "Y": -4459.656,
+      "Z": 42.2539
+    },
+    "Entities": 856,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_se_ipl_00",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 5433.626,
+      "Y": -5850.60352,
+      "Z": 32.4960976
+    },
+    "DimensionMin": {
+      "X": 5294.21436,
+      "Y": -5952.96631,
+      "Z": 7.208762
+    },
+    "DimensionMax": {
+      "X": 5573.0376,
+      "Y": -5748.241,
+      "Z": 57.783432
+    },
+    "Entities": 892,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_se_ipl_01",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 5115.797,
+      "Y": -5496.591,
+      "Z": 39.49551
+    },
+    "DimensionMin": {
+      "X": 5029.40869,
+      "Y": -5611.77734,
+      "Z": 11.5333929
+    },
+    "DimensionMax": {
+      "X": 5202.18457,
+      "Y": -5381.405,
+      "Z": 67.45763
+    },
+    "Entities": 923,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_se_ipl_02",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4933.462,
+      "Y": -5799.504,
+      "Z": 30.7129974
+    },
+    "DimensionMin": {
+      "X": 4859.49658,
+      "Y": -5926.57031,
+      "Z": 7.73459148
+    },
+    "DimensionMax": {
+      "X": 5007.427,
+      "Y": -5672.438,
+      "Z": 53.6914063
+    },
+    "Entities": 465,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_se_ipl_03",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4997.18652,
+      "Y": -5681.08,
+      "Z": 37.5036278
+    },
+    "DimensionMin": {
+      "X": 4869.405,
+      "Y": -5822.03857,
+      "Z": 15.0536966
+    },
+    "DimensionMax": {
+      "X": 5124.968,
+      "Y": -5540.121,
+      "Z": 59.95356
+    },
+    "Entities": 906,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_se_ipl_04",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 5474.95264,
+      "Y": -5484.043,
+      "Z": 30.4046917
+    },
+    "DimensionMin": {
+      "X": 5343.663,
+      "Y": -5579.559,
+      "Z": 3.56829524
+    },
+    "DimensionMax": {
+      "X": 5606.242,
+      "Y": -5388.52637,
+      "Z": 57.24109
+    },
+    "Entities": 917,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_se_ipl_05",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 5495.839,
+      "Y": -5662.492,
+      "Z": 29.88454
+    },
+    "DimensionMin": {
+      "X": 5381.845,
+      "Y": -5764.32227,
+      "Z": -2.05182767
+    },
+    "DimensionMax": {
+      "X": 5609.832,
+      "Y": -5560.662,
+      "Z": 61.82091
+    },
+    "Entities": 911,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_se_ipl_06",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 5274.93555,
+      "Y": -5504.65137,
+      "Z": 59.6439133
+    },
+    "DimensionMin": {
+      "X": 5152.02637,
+      "Y": -5618.48145,
+      "Z": 37.7217522
+    },
+    "DimensionMax": {
+      "X": 5397.845,
+      "Y": -5390.821,
+      "Z": 81.56607
+    },
+    "Entities": 806,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_se_ipl_07",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 5288.12158,
+      "Y": -5717.10156,
+      "Z": 33.19706
+    },
+    "DimensionMin": {
+      "X": 5191.04932,
+      "Y": -5813.505,
+      "Z": 9.093309
+    },
+    "DimensionMax": {
+      "X": 5385.194,
+      "Y": -5620.69873,
+      "Z": 57.300808
+    },
+    "Entities": 846,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_se_ipl_08",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4957.91162,
+      "Y": -5473.81445,
+      "Z": 40.0499268
+    },
+    "DimensionMin": {
+      "X": 4863.29,
+      "Y": -5563.6333,
+      "Z": 13.5361843
+    },
+    "DimensionMax": {
+      "X": 5052.533,
+      "Y": -5383.995,
+      "Z": 66.5636749
+    },
+    "Entities": 802,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_se_ipl_09",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 5136.453,
+      "Y": -5671.241,
+      "Z": 28.779007
+    },
+    "DimensionMin": {
+      "X": 5054.86572,
+      "Y": -5760.79346,
+      "Z": 6.51977444
+    },
+    "DimensionMax": {
+      "X": 5218.04053,
+      "Y": -5581.68945,
+      "Z": 51.03824
+    },
+    "Entities": 669,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_sw_ipl_00",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4915.37744,
+      "Y": -5034.371,
+      "Z": 26.5459785
+    },
+    "DimensionMin": {
+      "X": 4753.337,
+      "Y": -5126.518,
+      "Z": -3.20709229
+    },
+    "DimensionMax": {
+      "X": 5077.418,
+      "Y": -4942.22461,
+      "Z": 56.29905
+    },
+    "Entities": 371,
+    "ContentFlags": 513,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_sw_ipl_01",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4953.05,
+      "Y": -5295.72852,
+      "Z": 23.1744118
+    },
+    "DimensionMin": {
+      "X": 4837.168,
+      "Y": -5407.9707,
+      "Z": 0.196344972
+    },
+    "DimensionMax": {
+      "X": 5068.931,
+      "Y": -5183.487,
+      "Z": 46.15248
+    },
+    "Entities": 404,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 156"
+    }
+  },
+  {
+    "Name": "h4_sw_ipl_02",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4853.24463,
+      "Y": -5498.789,
+      "Z": 29.6874065
+    },
+    "DimensionMin": {
+      "X": 4771.73145,
+      "Y": -5582.201,
+      "Z": -0.05167687
+    },
+    "DimensionMax": {
+      "X": 4934.758,
+      "Y": -5415.37744,
+      "Z": 59.42649
+    },
+    "Entities": 419,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_sw_ipl_03",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4784.326,
+      "Y": -5550.946,
+      "Z": 27.9146423
+    },
+    "DimensionMin": {
+      "X": 4734.72559,
+      "Y": -5615.836,
+      "Z": 0.7207416
+    },
+    "DimensionMax": {
+      "X": 4833.92725,
+      "Y": -5486.05566,
+      "Z": 55.1085434
+    },
+    "Entities": 277,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_sw_ipl_04",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4846.874,
+      "Y": -5613.273,
+      "Z": 39.13871
+    },
+    "DimensionMin": {
+      "X": 4787.79834,
+      "Y": -5661.9165,
+      "Z": 19.3652554
+    },
+    "DimensionMax": {
+      "X": 4905.94971,
+      "Y": -5564.62939,
+      "Z": 58.91217
+    },
+    "Entities": 205,
+    "ContentFlags": 513,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 163"
+    }
+  },
+  {
+    "Name": "h4_sw_ipl_05",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4861.416,
+      "Y": -5717.921,
+      "Z": 36.4195023
+    },
+    "DimensionMin": {
+      "X": 4800.86963,
+      "Y": -5785.89258,
+      "Z": 17.9638557
+    },
+    "DimensionMax": {
+      "X": 4921.963,
+      "Y": -5649.94873,
+      "Z": 54.875145
+    },
+    "Entities": 307,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_sw_ipl_06",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4762.02441,
+      "Y": -5666.42041,
+      "Z": 26.64182
+    },
+    "DimensionMin": {
+      "X": 4668.405,
+      "Y": -5732.12256,
+      "Z": 0.435533524
+    },
+    "DimensionMax": {
+      "X": 4855.644,
+      "Y": -5600.71826,
+      "Z": 52.8481064
+    },
+    "Entities": 366,
+    "ContentFlags": 513,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_sw_ipl_07",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4763.93457,
+      "Y": -5764.2793,
+      "Z": 32.683197
+    },
+    "DimensionMin": {
+      "X": 4705.8335,
+      "Y": -5809.188,
+      "Z": 12.8824291
+    },
+    "DimensionMax": {
+      "X": 4822.03564,
+      "Y": -5719.37061,
+      "Z": 52.4839668
+    },
+    "Entities": 264,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_sw_ipl_08",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4815.7207,
+      "Y": -5848.408,
+      "Z": 21.4584236
+    },
+    "DimensionMin": {
+      "X": 4731.59961,
+      "Y": -5915.088,
+      "Z": 3.59139323
+    },
+    "DimensionMax": {
+      "X": 4899.842,
+      "Y": -5781.72852,
+      "Z": 39.3254547
+    },
+    "Entities": 330,
+    "ContentFlags": 513,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_sw_ipl_09",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4794.218,
+      "Y": -5926.508,
+      "Z": 29.6207142
+    },
+    "DimensionMin": {
+      "X": 4739.21973,
+      "Y": -6013.161,
+      "Z": 10.4934635
+    },
+    "DimensionMax": {
+      "X": 4849.21631,
+      "Y": -5839.85449,
+      "Z": 48.747963
+    },
+    "Entities": 563,
+    "ContentFlags": 513,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_underwater_gate_closed",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 5043.018,
+      "Y": -5814.24658,
+      "Z": -11.0101738
+    },
+    "DimensionMin": {
+      "X": 5042.13574,
+      "Y": -5814.91162,
+      "Z": -12.1629124
+    },
+    "DimensionMax": {
+      "X": 5043.90039,
+      "Y": -5813.58154,
+      "Z": -9.857436
+    },
+    "Entities": 1,
+    "ContentFlags": 1,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_islandx_placement_01",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4863.366,
+      "Y": -5832.125,
+      "Z": 38.066925
+    },
+    "DimensionMin": {
+      "X": 4729.254,
+      "Y": -5979.924,
+      "Z": 12.2364559
+    },
+    "DimensionMax": {
+      "X": 4997.47852,
+      "Y": -5684.326,
+      "Z": 63.8973923
+    },
+    "Entities": 999,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_islandx_placement_02",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4833.02539,
+      "Y": -5624.18945,
+      "Z": 35.7260971
+    },
+    "DimensionMin": {
+      "X": 4719.62549,
+      "Y": -5723.66064,
+      "Z": 16.0346088
+    },
+    "DimensionMax": {
+      "X": 4946.426,
+      "Y": -5524.718,
+      "Z": 55.41758
+    },
+    "Entities": 1000,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 163"
+    }
+  },
+  {
+    "Name": "h4_islandx_placement_03",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4905.831,
+      "Y": -5461.824,
+      "Z": 35.1220627
+    },
+    "DimensionMin": {
+      "X": 4764.51367,
+      "Y": -5587.16943,
+      "Z": 7.02899
+    },
+    "DimensionMax": {
+      "X": 5047.148,
+      "Y": -5336.47852,
+      "Z": 63.21514
+    },
+    "Entities": 1000,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_islandx_placement_04",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 5257.58447,
+      "Y": -5742.90625,
+      "Z": 51.59839
+    },
+    "DimensionMin": {
+      "X": 4990.92236,
+      "Y": -5916.933,
+      "Z": 11.05012
+    },
+    "DimensionMax": {
+      "X": 5524.24658,
+      "Y": -5568.87939,
+      "Z": 92.14665
+    },
+    "Entities": 1000,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_islandx_placement_05",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 5181.60156,
+      "Y": -5501.455,
+      "Z": 58.3053741
+    },
+    "DimensionMin": {
+      "X": 4993.258,
+      "Y": -5589.49268,
+      "Z": 28.5437546
+    },
+    "DimensionMax": {
+      "X": 5369.945,
+      "Y": -5413.418,
+      "Z": 88.06699
+    },
+    "Entities": 922,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_islandx_placement_06",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 5127.303,
+      "Y": -5318.31348,
+      "Z": 44.91467
+    },
+    "DimensionMin": {
+      "X": 4942.93848,
+      "Y": -5427.88232,
+      "Z": 1.03788352
+    },
+    "DimensionMax": {
+      "X": 5311.668,
+      "Y": -5208.74463,
+      "Z": 88.79145
+    },
+    "Entities": 771,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 157"
+    }
+  },
+  {
+    "Name": "h4_islandx_placement_07",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 5437.12842,
+      "Y": -5389.815,
+      "Z": 49.5368347
+    },
+    "DimensionMin": {
+      "X": 5289.109,
+      "Y": -5579.59766,
+      "Z": 9.993395
+    },
+    "DimensionMax": {
+      "X": 5585.148,
+      "Y": -5200.032,
+      "Z": 89.08028
+    },
+    "Entities": 712,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_islandx_placement_08",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 5257.837,
+      "Y": -5084.85742,
+      "Z": 28.3040066
+    },
+    "DimensionMin": {
+      "X": 5074.051,
+      "Y": -5220.04834,
+      "Z": 2.17592859
+    },
+    "DimensionMax": {
+      "X": 5441.62354,
+      "Y": -4949.666,
+      "Z": 54.4320869
+    },
+    "Entities": 634,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_islandx_placement_09",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4832.716,
+      "Y": -4807.17725,
+      "Z": 30.0188828
+    },
+    "DimensionMin": {
+      "X": 4527.396,
+      "Y": -5053.183,
+      "Z": 1.46870887
+    },
+    "DimensionMax": {
+      "X": 5138.036,
+      "Y": -4561.17139,
+      "Z": 58.5690575
+    },
+    "Entities": 576,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_islandx_placement_10",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4826.82471,
+      "Y": -4608.32129,
+      "Z": 28.719759
+    },
+    "DimensionMin": {
+      "X": 4616.00439,
+      "Y": -4715.38525,
+      "Z": 4.33824
+    },
+    "DimensionMax": {
+      "X": 5037.645,
+      "Y": -4501.25732,
+      "Z": 53.10128
+    },
+    "Entities": 1000,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "island_lodlights",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4928.333,
+      "Y": -5164.077,
+      "Z": 67.77225
+    },
+    "DimensionMin": {
+      "X": 4336.05566,
+      "Y": -5895.76758,
+      "Z": -22.4232674
+    },
+    "DimensionMax": {
+      "X": 5520.61,
+      "Y": -4432.387,
+      "Z": 157.967758
+    },
+    "Entities": 0,
+    "ContentFlags": 128,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_islandx_terrain_01",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4700.09,
+      "Y": -5150.548,
+      "Z": -143.032425
+    },
+    "DimensionMin": {
+      "X": 3675.663,
+      "Y": -6175.037,
+      "Z": -350.512543
+    },
+    "DimensionMax": {
+      "X": 5724.516,
+      "Y": -4126.058,
+      "Z": 64.4477
+    },
+    "Entities": 27,
+    "ContentFlags": 1,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 164"
+    }
+  },
+  {
+    "Name": "h4_islandx_terrain_02",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4700.0,
+      "Y": -5150.001,
+      "Z": -158.22818
+    },
+    "DimensionMin": {
+      "X": 3675.99756,
+      "Y": -6174.002,
+      "Z": -350.512543
+    },
+    "DimensionMax": {
+      "X": 5724.00244,
+      "Y": -4126.0,
+      "Z": 34.0562
+    },
+    "Entities": 689,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 164"
+    }
+  },
+  {
+    "Name": "h4_islandx_terrain_03",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4699.486,
+      "Y": -5152.9165,
+      "Z": -167.179733
+    },
+    "DimensionMin": {
+      "X": 3172.15649,
+      "Y": -6677.80566,
+      "Z": -350.512543
+    },
+    "DimensionMax": {
+      "X": 6226.81543,
+      "Y": -3628.02734,
+      "Z": 16.1530781
+    },
+    "Entities": 648,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 164"
+    }
+  },
+  {
+    "Name": "h4_islandx_terrain_04",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4700.0,
+      "Y": -5150.001,
+      "Z": -142.108765
+    },
+    "DimensionMin": {
+      "X": 3675.99756,
+      "Y": -6174.002,
+      "Z": -350.512543
+    },
+    "DimensionMax": {
+      "X": 5724.00244,
+      "Y": -4126.0,
+      "Z": 66.29502
+    },
+    "Entities": 590,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 164"
+    }
+  },
+  {
+    "Name": "h4_islandx_terrain_05",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4700.0,
+      "Y": -5150.001,
+      "Z": -152.182556
+    },
+    "DimensionMin": {
+      "X": 3675.99756,
+      "Y": -6174.002,
+      "Z": -350.512543
+    },
+    "DimensionMax": {
+      "X": 5724.00244,
+      "Y": -4126.0,
+      "Z": 46.1474457
+    },
+    "Entities": 58,
+    "ContentFlags": 1,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 164"
+    }
+  },
+  {
+    "Name": "h4_islandx_terrain_06",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4700.0,
+      "Y": -5150.001,
+      "Z": -141.890137
+    },
+    "DimensionMin": {
+      "X": 3675.99756,
+      "Y": -6174.002,
+      "Z": -350.512543
+    },
+    "DimensionMax": {
+      "X": 5724.00244,
+      "Y": -4126.0,
+      "Z": 66.7322845
+    },
+    "Entities": 46,
+    "ContentFlags": 1,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 164"
+    }
+  },
+  {
+    "Name": "h4_islandx_terrain_props_05_a",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 5288.1875,
+      "Y": -5250.60254,
+      "Z": 25.3371754
+    },
+    "DimensionMin": {
+      "X": 5192.959,
+      "Y": -5364.36035,
+      "Z": 7.661251
+    },
+    "DimensionMax": {
+      "X": 5383.41553,
+      "Y": -5136.844,
+      "Z": 43.0131
+    },
+    "Entities": 448,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 165"
+    }
+  },
+  {
+    "Name": "h4_islandx_terrain_props_05_b",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 5359.52539,
+      "Y": -5278.80957,
+      "Z": 35.27949
+    },
+    "DimensionMin": {
+      "X": 5284.965,
+      "Y": -5396.683,
+      "Z": 25.6684513
+    },
+    "DimensionMax": {
+      "X": 5434.08545,
+      "Y": -5160.93555,
+      "Z": 44.8905334
+    },
+    "Entities": 521,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_islandx_terrain_props_05_c",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 5350.56738,
+      "Y": -5173.174,
+      "Z": 27.08519
+    },
+    "DimensionMin": {
+      "X": 5313.329,
+      "Y": -5207.07031,
+      "Z": 21.63059
+    },
+    "DimensionMax": {
+      "X": 5387.805,
+      "Y": -5139.277,
+      "Z": 32.53979
+    },
+    "Entities": 295,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 166"
+    }
+  },
+  {
+    "Name": "h4_islandx_terrain_props_05_d",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 5290.14453,
+      "Y": -5249.96045,
+      "Z": 39.41664
+    },
+    "DimensionMin": {
+      "X": 5241.152,
+      "Y": -5314.607,
+      "Z": 21.05518
+    },
+    "DimensionMax": {
+      "X": 5339.13672,
+      "Y": -5185.314,
+      "Z": 57.7781029
+    },
+    "Entities": 562,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 165"
+    }
+  },
+  {
+    "Name": "h4_islandx_terrain_props_05_e",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 5382.745,
+      "Y": -5293.13037,
+      "Z": 45.22043
+    },
+    "DimensionMin": {
+      "X": 5284.07,
+      "Y": -5407.555,
+      "Z": 20.6231556
+    },
+    "DimensionMax": {
+      "X": 5481.42,
+      "Y": -5178.70557,
+      "Z": 69.8177
+    },
+    "Entities": 895,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_islandx_terrain_props_05_f",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 5334.09668,
+      "Y": -5165.35352,
+      "Z": 28.0261383
+    },
+    "DimensionMin": {
+      "X": 5166.7124,
+      "Y": -5247.371,
+      "Z": -2.1615572
+    },
+    "DimensionMax": {
+      "X": 5501.48145,
+      "Y": -5083.33643,
+      "Z": 58.2138367
+    },
+    "Entities": 846,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 166"
+    }
+  },
+  {
+    "Name": "h4_islandx_terrain_props_06_a",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 5164.89551,
+      "Y": -5170.775,
+      "Z": 40.9923248
+    },
+    "DimensionMin": {
+      "X": 4826.59473,
+      "Y": -5872.334,
+      "Z": 4.17170668
+    },
+    "DimensionMax": {
+      "X": 5503.197,
+      "Y": -4469.216,
+      "Z": 77.81294
+    },
+    "Entities": 788,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 167"
+    }
+  },
+  {
+    "Name": "h4_islandx_terrain_props_06_b",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 5435.664,
+      "Y": -5240.159,
+      "Z": 41.29708
+    },
+    "DimensionMin": {
+      "X": 5263.83,
+      "Y": -5410.767,
+      "Z": 7.43041658
+    },
+    "DimensionMax": {
+      "X": 5607.498,
+      "Y": -5069.552,
+      "Z": 75.16375
+    },
+    "Entities": 753,
+    "ContentFlags": 577,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_islandx_terrain_props_06_c",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 5159.586,
+      "Y": -5180.79932,
+      "Z": 29.5475254
+    },
+    "DimensionMin": {
+      "X": 5009.28271,
+      "Y": -5372.04834,
+      "Z": -0.40368408
+    },
+    "DimensionMax": {
+      "X": 5309.88867,
+      "Y": -4989.55029,
+      "Z": 59.4987373
+    },
+    "Entities": 826,
+    "ContentFlags": 65,
+    "FoundByScripted": true,
+    "Interiors": [],
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 167"
+    }
+  },
+  {
     "Name": "imp_dt1_02_cargarage_a",
     "DlcName": "mpimportexport",
     "Position": {
@@ -41829,7 +45214,7 @@
     "FoundByScripted": true,
     "Interiors": [],
     "ExtraData": {
-      "GroupName": "Auto IPL Group 151"
+      "GroupName": "Auto IPL Group 169"
     }
   },
   {
@@ -41928,7 +45313,7 @@
       }
     ],
     "ExtraData": {
-      "GroupName": "Auto IPL Group 151"
+      "GroupName": "Auto IPL Group 169"
     }
   },
   {
@@ -44133,7 +47518,7 @@
       }
     ],
     "ExtraData": {
-      "GroupName": "Auto IPL Group 155"
+      "GroupName": "Auto IPL Group 173"
     }
   },
   {
@@ -44232,7 +47617,7 @@
       }
     ],
     "ExtraData": {
-      "GroupName": "Auto IPL Group 157"
+      "GroupName": "Auto IPL Group 175"
     }
   },
   {
@@ -44331,7 +47716,7 @@
       }
     ],
     "ExtraData": {
-      "GroupName": "Auto IPL Group 157"
+      "GroupName": "Auto IPL Group 175"
     }
   },
   {
@@ -44818,7 +48203,7 @@
       }
     ],
     "ExtraData": {
-      "GroupName": "Auto IPL Group 158"
+      "GroupName": "Auto IPL Group 176"
     }
   },
   {
@@ -44917,7 +48302,7 @@
       }
     ],
     "ExtraData": {
-      "GroupName": "Auto IPL Group 153"
+      "GroupName": "Auto IPL Group 171"
     }
   },
   {
@@ -45016,7 +48401,7 @@
       }
     ],
     "ExtraData": {
-      "GroupName": "Auto IPL Group 158"
+      "GroupName": "Auto IPL Group 176"
     }
   },
   {
@@ -45515,7 +48900,7 @@
       }
     ],
     "ExtraData": {
-      "GroupName": "Auto IPL Group 154"
+      "GroupName": "Auto IPL Group 172"
     }
   },
   {
@@ -45614,7 +48999,7 @@
       }
     ],
     "ExtraData": {
-      "GroupName": "Auto IPL Group 154"
+      "GroupName": "Auto IPL Group 172"
     }
   },
   {
@@ -45713,7 +49098,7 @@
       }
     ],
     "ExtraData": {
-      "GroupName": "Auto IPL Group 152"
+      "GroupName": "Auto IPL Group 170"
     }
   },
   {
@@ -45812,7 +49197,7 @@
       }
     ],
     "ExtraData": {
-      "GroupName": "Auto IPL Group 152"
+      "GroupName": "Auto IPL Group 170"
     }
   },
   {
@@ -45911,7 +49296,7 @@
       }
     ],
     "ExtraData": {
-      "GroupName": "Auto IPL Group 152"
+      "GroupName": "Auto IPL Group 170"
     }
   },
   {
@@ -46010,7 +49395,7 @@
       }
     ],
     "ExtraData": {
-      "GroupName": "Auto IPL Group 153"
+      "GroupName": "Auto IPL Group 171"
     }
   },
   {
@@ -46142,7 +49527,7 @@
       }
     ],
     "ExtraData": {
-      "GroupName": "Auto IPL Group 154"
+      "GroupName": "Auto IPL Group 172"
     }
   },
   {
@@ -46342,7 +49727,7 @@
       }
     ],
     "ExtraData": {
-      "GroupName": "Auto IPL Group 155"
+      "GroupName": "Auto IPL Group 173"
     }
   },
   {
@@ -46441,7 +49826,7 @@
       }
     ],
     "ExtraData": {
-      "GroupName": "Auto IPL Group 156"
+      "GroupName": "Auto IPL Group 174"
     }
   },
   {
@@ -46637,7 +50022,7 @@
       }
     ],
     "ExtraData": {
-      "GroupName": "Auto IPL Group 155"
+      "GroupName": "Auto IPL Group 173"
     }
   },
   {
@@ -46784,7 +50169,7 @@
       }
     ],
     "ExtraData": {
-      "GroupName": "Auto IPL Group 159"
+      "GroupName": "Auto IPL Group 177"
     }
   },
   {
@@ -46819,7 +50204,7 @@
       }
     ],
     "ExtraData": {
-      "GroupName": "Auto IPL Group 159"
+      "GroupName": "Auto IPL Group 177"
     }
   },
   {
@@ -46854,7 +50239,7 @@
       }
     ],
     "ExtraData": {
-      "GroupName": "Auto IPL Group 160"
+      "GroupName": "Auto IPL Group 178"
     }
   },
   {
@@ -46889,7 +50274,7 @@
       }
     ],
     "ExtraData": {
-      "GroupName": "Auto IPL Group 160"
+      "GroupName": "Auto IPL Group 178"
     }
   },
   {
@@ -49490,7 +52875,7 @@
       }
     ],
     "ExtraData": {
-      "GroupName": "Auto IPL Group 161"
+      "GroupName": "Auto IPL Group 179"
     }
   },
   {
@@ -49533,7 +52918,7 @@
       }
     ],
     "ExtraData": {
-      "GroupName": "Auto IPL Group 161"
+      "GroupName": "Auto IPL Group 179"
     }
   },
   {
@@ -49642,7 +53027,7 @@
       }
     ],
     "ExtraData": {
-      "GroupName": "Auto IPL Group 162"
+      "GroupName": "Auto IPL Group 180"
     }
   },
   {
@@ -49710,7 +53095,7 @@
       }
     ],
     "ExtraData": {
-      "GroupName": "Auto IPL Group 162"
+      "GroupName": "Auto IPL Group 180"
     }
   },
   {
@@ -50911,7 +54296,7 @@
       }
     ],
     "ExtraData": {
-      "GroupName": "Auto IPL Group 163"
+      "GroupName": "Auto IPL Group 181"
     }
   },
   {
@@ -50946,7 +54331,7 @@
       }
     ],
     "ExtraData": {
-      "GroupName": "Auto IPL Group 164"
+      "GroupName": "Auto IPL Group 182"
     }
   },
   {
@@ -50981,7 +54366,7 @@
       }
     ],
     "ExtraData": {
-      "GroupName": "Auto IPL Group 165"
+      "GroupName": "Auto IPL Group 183"
     }
   },
   {
@@ -51016,7 +54401,7 @@
       }
     ],
     "ExtraData": {
-      "GroupName": "Auto IPL Group 166"
+      "GroupName": "Auto IPL Group 184"
     }
   },
   {
@@ -51051,7 +54436,7 @@
       }
     ],
     "ExtraData": {
-      "GroupName": "Auto IPL Group 167"
+      "GroupName": "Auto IPL Group 185"
     }
   },
   {
@@ -51086,7 +54471,7 @@
       }
     ],
     "ExtraData": {
-      "GroupName": "Auto IPL Group 168"
+      "GroupName": "Auto IPL Group 186"
     }
   },
   {
@@ -51121,7 +54506,7 @@
       }
     ],
     "ExtraData": {
-      "GroupName": "Auto IPL Group 169"
+      "GroupName": "Auto IPL Group 187"
     }
   },
   {
@@ -51156,7 +54541,7 @@
       }
     ],
     "ExtraData": {
-      "GroupName": "Auto IPL Group 170"
+      "GroupName": "Auto IPL Group 188"
     }
   },
   {
@@ -51191,7 +54576,7 @@
       }
     ],
     "ExtraData": {
-      "GroupName": "Auto IPL Group 171"
+      "GroupName": "Auto IPL Group 189"
     }
   },
   {
@@ -52397,7 +55782,7 @@
       }
     ],
     "ExtraData": {
-      "GroupName": "Auto IPL Group 172"
+      "GroupName": "Auto IPL Group 190"
     }
   },
   {
@@ -52474,7 +55859,7 @@
       }
     ],
     "ExtraData": {
-      "GroupName": "Auto IPL Group 172"
+      "GroupName": "Auto IPL Group 190"
     }
   },
   {
@@ -52509,7 +55894,7 @@
       }
     ],
     "ExtraData": {
-      "GroupName": "Auto IPL Group 163"
+      "GroupName": "Auto IPL Group 181"
     }
   },
   {
@@ -52544,7 +55929,7 @@
       }
     ],
     "ExtraData": {
-      "GroupName": "Auto IPL Group 169"
+      "GroupName": "Auto IPL Group 187"
     }
   },
   {
@@ -52579,7 +55964,7 @@
       }
     ],
     "ExtraData": {
-      "GroupName": "Auto IPL Group 172"
+      "GroupName": "Auto IPL Group 190"
     }
   },
   {
@@ -52614,7 +55999,7 @@
       }
     ],
     "ExtraData": {
-      "GroupName": "Auto IPL Group 171"
+      "GroupName": "Auto IPL Group 189"
     }
   },
   {
@@ -52649,7 +56034,7 @@
       }
     ],
     "ExtraData": {
-      "GroupName": "Auto IPL Group 170"
+      "GroupName": "Auto IPL Group 188"
     }
   },
   {
@@ -52684,7 +56069,7 @@
       }
     ],
     "ExtraData": {
-      "GroupName": "Auto IPL Group 168"
+      "GroupName": "Auto IPL Group 186"
     }
   },
   {
@@ -52719,7 +56104,7 @@
       }
     ],
     "ExtraData": {
-      "GroupName": "Auto IPL Group 167"
+      "GroupName": "Auto IPL Group 185"
     }
   },
   {
@@ -52754,7 +56139,7 @@
       }
     ],
     "ExtraData": {
-      "GroupName": "Auto IPL Group 165"
+      "GroupName": "Auto IPL Group 183"
     }
   },
   {
@@ -52855,7 +56240,7 @@
       }
     ],
     "ExtraData": {
-      "GroupName": "Auto IPL Group 166"
+      "GroupName": "Auto IPL Group 184"
     }
   },
   {
@@ -52890,7 +56275,7 @@
       }
     ],
     "ExtraData": {
-      "GroupName": "Auto IPL Group 164"
+      "GroupName": "Auto IPL Group 182"
     }
   },
   {
@@ -57970,7 +61355,7 @@
       }
     ],
     "ExtraData": {
-      "GroupName": "Auto IPL Group 174"
+      "GroupName": "Auto IPL Group 192"
     }
   },
   {
@@ -58381,7 +61766,7 @@
       }
     ],
     "ExtraData": {
-      "GroupName": "Auto IPL Group 175"
+      "GroupName": "Auto IPL Group 193"
     }
   },
   {
@@ -58480,7 +61865,7 @@
       }
     ],
     "ExtraData": {
-      "GroupName": "Auto IPL Group 175"
+      "GroupName": "Auto IPL Group 193"
     }
   },
   {
@@ -58871,7 +62256,7 @@
       }
     ],
     "ExtraData": {
-      "GroupName": "Auto IPL Group 174"
+      "GroupName": "Auto IPL Group 192"
     }
   },
   {
@@ -59945,7 +63330,7 @@
       }
     ],
     "ExtraData": {
-      "GroupName": "Auto IPL Group 176"
+      "GroupName": "Auto IPL Group 194"
     }
   },
   {
@@ -60037,7 +63422,7 @@
       }
     ],
     "ExtraData": {
-      "GroupName": "Auto IPL Group 177"
+      "GroupName": "Auto IPL Group 195"
     }
   },
   {
@@ -60105,7 +63490,7 @@
       }
     ],
     "ExtraData": {
-      "GroupName": "Auto IPL Group 176"
+      "GroupName": "Auto IPL Group 194"
     }
   },
   {
@@ -60183,7 +63568,7 @@
       }
     ],
     "ExtraData": {
-      "GroupName": "Auto IPL Group 177"
+      "GroupName": "Auto IPL Group 195"
     }
   },
   {
@@ -60609,5 +63994,293 @@
       }
     ],
     "ExtraData": {}
+  },
+  {
+    "Name": "h4_int_placement_h4_interior_1_dlc_int_02_h4_milo_",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 1560.10181,
+      "Y": 249.179291,
+      "Z": -46.4607925
+    },
+    "DimensionMin": {
+      "X": 1539.8429,
+      "Y": 237.187759,
+      "Z": -50.0228
+    },
+    "DimensionMax": {
+      "X": 1580.36072,
+      "Y": 261.1708,
+      "Z": -42.89879
+    },
+    "Entities": 1,
+    "ContentFlags": 73,
+    "FoundByScripted": false,
+    "Interiors": [
+      {
+        "Id": 0,
+        "TypeName": "h4_dlc_int_02_h4",
+        "Entities": 432,
+        "Rooms": 4,
+        "Portals": 4,
+        "EntitySets": [
+          {
+            "Name": "Int01_ba_security_upgrade",
+            "EntitiesCount": 5
+          },
+          {
+            "Name": "Int01_ba_equipment_upgrade",
+            "EntitiesCount": 11
+          },
+          {
+            "Name": "Int01_ba_equipment_setup",
+            "EntitiesCount": 9
+          },
+          {
+            "Name": "Int01_ba_style02_podium",
+            "EntitiesCount": 1
+          },
+          {
+            "Name": "Int01_ba_dj01",
+            "EntitiesCount": 30
+          },
+          {
+            "Name": "Int01_ba_dj02",
+            "EntitiesCount": 24
+          },
+          {
+            "Name": "Int01_ba_dj03",
+            "EntitiesCount": 34
+          },
+          {
+            "Name": "DJ_01_Lights_01",
+            "EntitiesCount": 3
+          },
+          {
+            "Name": "DJ_01_Lights_02",
+            "EntitiesCount": 3
+          },
+          {
+            "Name": "DJ_01_Lights_03",
+            "EntitiesCount": 3
+          },
+          {
+            "Name": "DJ_01_Lights_04",
+            "EntitiesCount": 6
+          },
+          {
+            "Name": "DJ_02_Lights_02",
+            "EntitiesCount": 3
+          },
+          {
+            "Name": "DJ_02_Lights_03",
+            "EntitiesCount": 3
+          },
+          {
+            "Name": "DJ_02_Lights_04",
+            "EntitiesCount": 6
+          },
+          {
+            "Name": "DJ_02_Lights_01",
+            "EntitiesCount": 3
+          },
+          {
+            "Name": "DJ_03_Lights_03",
+            "EntitiesCount": 3
+          },
+          {
+            "Name": "DJ_03_Lights_04",
+            "EntitiesCount": 6
+          },
+          {
+            "Name": "DJ_03_Lights_01",
+            "EntitiesCount": 3
+          },
+          {
+            "Name": "DJ_03_Lights_02",
+            "EntitiesCount": 3
+          },
+          {
+            "Name": "DJ_04_Lights_02",
+            "EntitiesCount": 3
+          },
+          {
+            "Name": "DJ_04_Lights_01",
+            "EntitiesCount": 3
+          },
+          {
+            "Name": "DJ_04_Lights_03",
+            "EntitiesCount": 3
+          },
+          {
+            "Name": "DJ_04_Lights_04",
+            "EntitiesCount": 6
+          },
+          {
+            "Name": "Int01_ba_bar_content",
+            "EntitiesCount": 43
+          },
+          {
+            "Name": "int01_ba_lights_screen",
+            "EntitiesCount": 1
+          },
+          {
+            "Name": "Int01_ba_Screen",
+            "EntitiesCount": 1
+          },
+          {
+            "Name": "Int01_ba_dj04",
+            "EntitiesCount": 14
+          },
+          {
+            "Name": "light_rigs_off",
+            "EntitiesCount": 4
+          },
+          {
+            "Name": "Int01_ba_dry_ice",
+            "EntitiesCount": 5
+          },
+          {
+            "Name": "Int01_ba_lightgrid_01",
+            "EntitiesCount": 1
+          },
+          {
+            "Name": "4218252250",
+            "EntitiesCount": 7
+          },
+          {
+            "Name": "1764320121",
+            "EntitiesCount": 15
+          },
+          {
+            "Name": "988735114",
+            "EntitiesCount": 15
+          },
+          {
+            "Name": "109135015",
+            "EntitiesCount": 1
+          }
+        ]
+      }
+    ],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_int_placement_h4_interior_0_int_sub_h4_milo_",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 1561.09412,
+      "Y": 406.587036,
+      "Z": -51.08252
+    },
+    "DimensionMin": {
+      "X": 1555.67822,
+      "Y": 364.365051,
+      "Z": -57.61035
+    },
+    "DimensionMax": {
+      "X": 1566.51,
+      "Y": 448.809,
+      "Z": -44.5546875
+    },
+    "Entities": 1,
+    "ContentFlags": 73,
+    "FoundByScripted": false,
+    "Interiors": [
+      {
+        "Id": 0,
+        "TypeName": "h4_int_sub_h4",
+        "Entities": 683,
+        "Rooms": 17,
+        "Portals": 17,
+        "EntitySets": [
+          {
+            "Name": "767312704",
+            "EntitiesCount": 3
+          },
+          {
+            "Name": "4294236907",
+            "EntitiesCount": 12
+          },
+          {
+            "Name": "3043738597",
+            "EntitiesCount": 6
+          },
+          {
+            "Name": "1490546636",
+            "EntitiesCount": 4
+          },
+          {
+            "Name": "1564872300",
+            "EntitiesCount": 4
+          },
+          {
+            "Name": "4260362478",
+            "EntitiesCount": 1
+          },
+          {
+            "Name": "335756799",
+            "EntitiesCount": 1
+          },
+          {
+            "Name": "2618982734",
+            "EntitiesCount": 1
+          },
+          {
+            "Name": "2704946544",
+            "EntitiesCount": 1
+          },
+          {
+            "Name": "4194453183",
+            "EntitiesCount": 1
+          },
+          {
+            "Name": "171629080",
+            "EntitiesCount": 1
+          }
+        ]
+      }
+    ],
+    "ExtraData": {}
+  },
+  {
+    "Name": "h4_mph4_airstrip_interior_0_airstrip_hanger",
+    "DlcName": "mpheist4",
+    "Position": {
+      "X": 4440.23145,
+      "Y": -4462.52344,
+      "Z": 6.55843067
+    },
+    "DimensionMin": {
+      "X": 4414.59,
+      "Y": -4488.70166,
+      "Z": 0.118652
+    },
+    "DimensionMax": {
+      "X": 4465.87256,
+      "Y": -4436.3457,
+      "Z": 12.99821
+    },
+    "Entities": 1,
+    "ContentFlags": 9,
+    "FoundByScripted": false,
+    "Interiors": [
+      {
+        "Id": 0,
+        "TypeName": "h4_airstrip_hanger",
+        "Entities": 248,
+        "Rooms": 17,
+        "Portals": 17,
+        "EntitySets": [
+          {
+            "Name": "2324281179",
+            "EntitiesCount": 2
+          }
+        ]
+      }
+    ],
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 155"
+    }
   }
 ]

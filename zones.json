@@ -5610,6 +5610,24 @@
     ]
   },
   {
+    "Name": "IsHeistZone",
+    "DisplayName": "Island",
+    "Bounds": [
+      {
+        "Minimum": {
+          "X": 1866.93,
+          "Y": -7170.07,
+          "Z": -30.0
+        },
+        "Maximum": {
+          "X": 7542.07,
+          "Y": -3108.11,
+          "Z": 430.954
+        }
+      }
+    ]
+  },
+  {
     "Name": "Jail",
     "DisplayName": "Bolingbroke Penitentiary",
     "Bounds": [

@@ -1480,6 +1480,14 @@
     "RecordedWaypointsCount": 92
   },
   {
+    "Name": "hi_land_cinematic",
+    "RecordedWaypointsCount": 33
+  },
+  {
+    "Name": "hi_take_off_cinematic",
+    "RecordedWaypointsCount": 103
+  },
+  {
     "Name": "hood1",
     "RecordedWaypointsCount": 36
   },
@@ -1698,6 +1706,14 @@
   {
     "Name": "lester1a_follow_e",
     "RecordedWaypointsCount": 37
+  },
+  {
+    "Name": "lsia_land_cinematic",
+    "RecordedWaypointsCount": 59
+  },
+  {
+    "Name": "lsia_take_off_cinematic",
+    "RecordedWaypointsCount": 137
   },
   {
     "Name": "magdemodive",

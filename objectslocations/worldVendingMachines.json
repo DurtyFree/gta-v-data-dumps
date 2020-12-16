@@ -2254,6 +2254,34 @@
     }
   },
   {
+    "Name": "prop_watercooler",
+    "Hash": 3158676050,
+    "Position": {
+      "X": 4369.643,
+      "Y": -4583.579,
+      "Z": 13.8782845
+    },
+    "Rotation": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": -160.000015
+    }
+  },
+  {
+    "Name": "prop_watercooler_dark",
+    "Hash": 2410663270,
+    "Position": {
+      "X": 5021.0166,
+      "Y": -5805.75635,
+      "Z": 16.489706
+    },
+    "Rotation": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 35.0000153
+    }
+  },
+  {
     "Name": "prop_watercooler_dark",
     "Hash": 2603322528,
     "Position": {

@@ -40385,27 +40385,27 @@
         "Portals": 9,
         "EntitySets": [
           {
-            "Name": "3159243469",
+            "Name": "files_set",
             "EntitiesCount": 1
           },
           {
-            "Name": "3829276324",
+            "Name": "bonds_set",
             "EntitiesCount": 1
           },
           {
-            "Name": "3422990272",
+            "Name": "panther_set",
             "EntitiesCount": 1
           },
           {
-            "Name": "984660650",
+            "Name": "pink_diamond_set",
             "EntitiesCount": 2
           },
           {
-            "Name": "1264795531",
+            "Name": "pearl_necklace_set",
             "EntitiesCount": 2
           },
           {
-            "Name": "1830087340",
+            "Name": "tequila_set",
             "EntitiesCount": 1
           }
         ]
@@ -64145,19 +64145,19 @@
             "EntitiesCount": 1
           },
           {
-            "Name": "4218252250",
+            "Name": "int01_ba_dj_palms_trax",
             "EntitiesCount": 7
           },
           {
-            "Name": "1764320121",
+            "Name": "int01_ba_dj_keinemusik",
             "EntitiesCount": 15
           },
           {
-            "Name": "988735114",
+            "Name": "int01_ba_dj_moodyman",
             "EntitiesCount": 15
           },
           {
-            "Name": "109135015",
+            "Name": "EntitySet_DJ_Lighting",
             "EntitiesCount": 1
           }
         ]
@@ -64195,47 +64195,47 @@
         "Portals": 17,
         "EntitySets": [
           {
-            "Name": "767312704",
+            "Name": "entity_set_brig",
             "EntitiesCount": 3
           },
           {
-            "Name": "4294236907",
+            "Name": "entity_set_weapons",
             "EntitiesCount": 12
           },
           {
-            "Name": "3043738597",
+            "Name": "entity_set_guide",
             "EntitiesCount": 6
           },
           {
-            "Name": "1490546636",
+            "Name": "entity_set_hatch_lights_on",
             "EntitiesCount": 4
           },
           {
-            "Name": "1564872300",
+            "Name": "entity_set_hatch_lights_off",
             "EntitiesCount": 4
           },
           {
-            "Name": "4260362478",
+            "Name": "entity_set_demolition",
             "EntitiesCount": 1
           },
           {
-            "Name": "335756799",
+            "Name": "entity_set_acetylene",
             "EntitiesCount": 1
           },
           {
-            "Name": "2618982734",
+            "Name": "entity_set_plasma",
             "EntitiesCount": 1
           },
           {
-            "Name": "2704946544",
+            "Name": "entity_set_fingerprint",
             "EntitiesCount": 1
           },
           {
-            "Name": "4194453183",
+            "Name": "entity_set_suppressors",
             "EntitiesCount": 1
           },
           {
-            "Name": "171629080",
+            "Name": "entity_set_jammer",
             "EntitiesCount": 1
           }
         ]
@@ -64273,7 +64273,7 @@
         "Portals": 17,
         "EntitySets": [
           {
-            "Name": "2324281179",
+            "Name": "island_hanger_padlock_props",
             "EntitiesCount": 2
           }
         ]

@@ -2875,11 +2875,6 @@
     "ModificationsCount": 44
   },
   {
-    "Name": "li",
-    "DlcName": "TitleUpdate",
-    "ModificationsCount": 32
-  },
-  {
     "Name": "underwater",
     "DlcName": "TitleUpdate",
     "ModificationsCount": 115
@@ -5327,7 +5322,117 @@
   {
     "Name": "Yacht_Mission_NoLig",
     "DlcName": "TitleUpdate",
-    "ModificationsCount": 34
+    "ModificationsCount": 35
+  },
+  {
+    "Name": "h4_beachparty",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 30
+  },
+  {
+    "Name": "h4_beachparty_day",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 20
+  },
+  {
+    "Name": "DLC_Island_Office",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 23
+  },
+  {
+    "Name": "dlc_island_vault",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 31
+  },
+  {
+    "Name": "h4_sub_vehiclebay",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 38
+  },
+  {
+    "Name": "h4_sub_main",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 38
+  },
+  {
+    "Name": "h4_sub_commandroom",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 35
+  },
+  {
+    "Name": "h4_sub_commandroom_BloomRedux",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 36
+  },
+  {
+    "Name": "DLC_Island_Storerooms",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 20
+  },
+  {
+    "Name": "DLC_Island_vault_01",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 17
+  },
+  {
+    "Name": "Mpheist4_Mansion_exterior",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 8
+  },
+  {
+    "Name": "MP_Heist4_Island_Mansion_Ext",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 8
+  },
+  {
+    "Name": "MP_Heist4_Docks_Ext",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 8
+  },
+  {
+    "Name": "MP_Heist4_Artificial_Amb_Mul",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 1
+  },
+  {
+    "Name": "DLC_Island_Storerooms2",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 19
+  },
+  {
+    "Name": "DLC_Island_main_hanger",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 24
+  },
+  {
+    "Name": "DLC_Island_main_hanger_office",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 24
+  },
+  {
+    "Name": "DLC_Island_main_hanger_door",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 24
+  },
+  {
+    "Name": "mp_heist4_office_door",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 21
+  },
+  {
+    "Name": "MP_Heist4_Storeroom_Door",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 19
+  },
+  {
+    "Name": "DLC_Island_vault_01_Door",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 17
+  },
+  {
+    "Name": "H4_Hanger_for_CU",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 18
   },
   {
     "Name": "RemoteSniper",
@@ -7208,6 +7313,111 @@
     "Name": "CarPitstopHealth02",
     "DlcName": "TitleUpdate",
     "ModificationsCount": 29
+  },
+  {
+    "Name": "MissileOutOfRange",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 26
+  },
+  {
+    "Name": "CCTV_overlay01",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 33
+  },
+  {
+    "Name": "CCTV_overlay02",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 41
+  },
+  {
+    "Name": "IslandGlassPlinthHeat",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 28
+  },
+  {
+    "Name": "IslandPeriscope",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 36
+  },
+  {
+    "Name": "Island_CCTV_ChannelFuzz",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 26
+  },
+  {
+    "Name": "Island_CCTV_Overlay",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 38
+  },
+  {
+    "Name": "DanceIntensityFlash",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 4
+  },
+  {
+    "Name": "DanceIntensity",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 21
+  },
+  {
+    "Name": "DanceIntensityDistortion",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 2
+  },
+  {
+    "Name": "Heist4CameraFlash",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 20
+  },
+  {
+    "Name": "DanceIntensityFlash01",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 4
+  },
+  {
+    "Name": "DanceIntensityFlash02",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 4
+  },
+  {
+    "Name": "DanceIntensityFlash03",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 4
+  },
+  {
+    "Name": "DanceIntensityDistortion01",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 2
+  },
+  {
+    "Name": "DanceIntensityDistortion02",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 2
+  },
+  {
+    "Name": "DanceIntensityDistortion03",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 2
+  },
+  {
+    "Name": "DanceIntensity01",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 21
+  },
+  {
+    "Name": "DanceIntensity02",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 21
+  },
+  {
+    "Name": "DanceIntensity03",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 21
+  },
+  {
+    "Name": "MP_island_heist",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 32
   },
   {
     "Name": "li",

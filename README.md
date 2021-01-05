@@ -41,18 +41,18 @@ If you are in search for an easy way to browse those GTA V data ingame, feel fre
 
 ## **Featured objects location dumps**
 Object location dumps contain positions of various objects of a specific type, on the GTA V map (including all interiors / MLOs).
-- **Vending Machines** (worldVendingMachines.json) **324** in total ([Click for more info](https://forum.altv.mp/topic/346-all-gta-v-vending-machine-prop-positions-rotations/))
-- **Bin/Dumpster/Recycle Bins** (worldBinsDumpsters.json & worldRecycleBins.json) **7600** bins/dumpsters in total & **127** recycle bins in total ([Click for more info](https://forum.altv.mp/topic/369-all-gta-v-bindumpsterrecycle-bin-prop-positions-rotations/))
-- **Gas Pump Stations** (worldGasPumps.json) **157** in total ([Click for more info](https://forum.altv.mp/topic/368-all-gta-v-gas-pump-prop-positions-rotations/))
-- **Jukeboxes** (worldJukeboxes.json) **6** in total ([Click for more info](https://forum.altv.mp/topic/365-all-gta-v-jukebox-prop-positions-rotations/))
-- **Dart Discs** (worldDartDiscs.json) **11** in total ([Click for more info](https://forum.altv.mp/topic/364-all-gta-v-dart-discs-positions-rotations/))
-- **Bus Stops** (worldBusStops.json & worldBusStopSigns.json) **48** bus stops in total & **1** bus stop sign in total ([Click for more info](https://forum.altv.mp/topic/342-all-gta-v-bus-stops-positions-rotations/))
-- **Parknmeters** (worldParknmeters.json) **547** in total ([Click for more info](https://forum.altv.mp/topic/345-all-gta-v-parknmeters-prop-positions-rotations/))
-- **Telescopes** (worldTelescopes.json) **106** in total ([Click for more info](https://forum.altv.mp/topic/344-all-gta-v-telescope-prop-positions-rotations/))
-- **News Paper Dispenser** (worldNewsPaperDispensers.json) **796** in total ([Click for more info](https://forum.altv.mp/topic/343-all-gta-v-news-paper-dispenser-prop-positions-rotations/))
-- **ATMs** (worldAtms.json) **121** in total ([Click for more info](https://forum.altv.mp/topic/340-all-gta-v-atm-prop-positions-rotations/))
-- **Public Phones** (worldPublicPhones.json & worldExtraPhones.json) **432** public phones in total & **294** extra phones in total ([Click for more info](https://forum.altv.mp/topic/341-all-gta-v-public-phone-prop-positions-rotations/))
-- **Radio Towers** (worldRadioTowers.json) **86** in total ([Click for more info](https://forum.altv.mp/topic/570-all-gta-v-radio-tower-prop-positions-rotations/))
+- **Vending Machines** (worldVendingMachines.json) **324** in total
+- **Bin/Dumpster/Recycle Bins** (worldBinsDumpsters.json & worldRecycleBins.json) **7600** bins/dumpsters in total & **127** recycle bins in total
+- **Gas Pump Stations** (worldGasPumps.json) **157** in total
+- **Jukeboxes** (worldJukeboxes.json) **6** in total
+- **Dart Discs** (worldDartDiscs.json) **11** in total
+- **Bus Stops** (worldBusStops.json & worldBusStopSigns.json) **48** bus stops in total & **1** bus stop sign in total
+- **Parknmeters** (worldParknmeters.json) **547** in total
+- **Telescopes** (worldTelescopes.json) **106** in total
+- **News Paper Dispenser** (worldNewsPaperDispensers.json) **796** in total
+- **ATMs** (worldAtms.json) **121** in total
+- **Public Phones** (worldPublicPhones.json & worldExtraPhones.json) **432** public phones in total & **294** extra phones in total
+- **Radio Towers** (worldRadioTowers.json) **86** in total
 - **Antennas** (worldAntennas.json) **4** in total
 - **Mobile Masts** (worldMobileMasts.json) **8** in total
 - **Air Masts** (worldAirMasts.json) **16** in total

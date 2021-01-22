@@ -1,14 +1,16 @@
 # GTA-V Extracted Data Dumps
 This is a collection of various GTA V data dumps mostly useful for modding &amp; scripting. All of these are auto generated and some are enhanced with data from my GTA V researches.
 
+# Useful projects
+If you are in search for an easy way to browse those GTA V data, try **Pleb Masters: Forge**.
+[![Pleb Masters Forge Logo](https://i.imgur.com/hotlSPf.png)](https://forge.plebmasters.de)
 [![Durty Map Editor Logo](https://i.imgur.com/WsRJv3u.png)](https://discord.gg/hgSutAU)
-If you are in search for an easy way to browse those GTA V data ingame, feel free to join my Map Editor Discord: https://discord.gg/hgSutAU
 
 ## All data up2date as of GTA V update: **v2189 (Online 1.52) [DLC: mpheist4]**
 ---
-## Please create an issue if you have any problems with the data, so I can improve my generator. You are also welcome to create issues for dumps you would like to see.
+### Please create an issue if you have any problems with the data, so I can improve my generator. You are also welcome to create issues for dumps you would like to see.
 ---
-## **Featured data dumps**
+## **Data dumps overview**
 - **IPLs** (ipls.json) **1143** ipls, **492** interiors & **5041** interior entity sets in total (Usable with IPL & entity / interior set natives)
 - **Speech Voices** (speeches.json) **1083** speech voices with **150055** speeches in total (Usable with PLAY AMBIENT SPEECH natives)
 - **Particle Effects** (particleEffectsCompact.json) **304** particle effect dictionaries & **2452** particle effects in total (Usable with START PARTICLE FX natives)
@@ -39,7 +41,7 @@ If you are in search for an easy way to browse those GTA V data ingame, feel fre
 - **Peds** (peds.json) **910** peds in total (Useful for various natives related to peds)
 - **Vehicle Colors** (vehicleColors.json) Contains all **Xenon Colors, Window Colors, PrimarySecondaryColors & Vehicle Plates** data (Useful for various natives related to vehicle)
 
-## **Featured objects location dumps**
+## **Objects location dumps**
 Object location dumps contain positions of various objects of a specific type, on the GTA V map (including all interiors / MLOs).
 - **Vending Machines** (worldVendingMachines.json) **324** in total
 - **Bin/Dumpster/Recycle Bins** (worldBinsDumpsters.json & worldRecycleBins.json) **7600** bins/dumpsters in total & **127** recycle bins in total

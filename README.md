@@ -40,6 +40,7 @@ If you are in search for an easy way to browse those GTA V data, try **Pleb Mast
 - **MLO / Interiors** (mloInteriors.json) **344** MLO interiors at 782 locations in total (Useful for modding, also contains in game locations of interiors)
 - **Peds** (peds.json) **910** peds in total (Useful for various natives related to peds)
 - **Vehicle Colors** (vehicleColors.json) Contains all **Xenon Colors, Window Colors, PrimarySecondaryColors & Vehicle Plates** data (Useful for various natives related to vehicle)
+- **Createable Objects** (ObjectList.ini) **16663** createable objects in total (Useful for CREATE_OBJECT native)
 
 ## **Objects location dumps**
 Object location dumps contain positions of various objects of a specific type, on the GTA V map (including all interiors / MLOs).

@@ -1,5 +1,893 @@
 [
   {
+    "Name": "collision_75oaiz",
+    "Position": {
+      "X": 500.0,
+      "Y": 0.0,
+      "Z": -200.0
+    },
+    "Flags": "0xAA040011",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
+  },
+  {
+    "Name": "collision_qyy0jp",
+    "Position": {
+      "X": 205.0,
+      "Y": 0.0,
+      "Z": -200.0
+    },
+    "Flags": "0xAA040011",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
+  },
+  {
+    "Name": "SE_Script_Placed_Prop_Emitter_Boombox",
+    "Position": {
+      "X": -100.0,
+      "Y": 0.0,
+      "Z": -200.0
+    },
+    "Flags": "0xAA040011",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
+  },
+  {
+    "Name": "SE_LR_Car_Park_Radio_01",
+    "Position": {
+      "X": -803.5,
+      "Y": -2381.0,
+      "Z": 14.0
+    },
+    "Flags": "0xAA044001",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "HIDDEN_RADIO_09_HIPHOP_OLD"
+  },
+  {
+    "Name": "se_mp_apt_1_1",
+    "Position": {
+      "X": -794.9223,
+      "Y": 335.2936,
+      "Z": 201.6748
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "collision_7e7mcx1",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_10_1",
+    "Position": {
+      "X": -911.0636,
+      "Y": -442.4949,
+      "Z": 115.6061
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "collision_7e7mcx1",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_11_1",
+    "Position": {
+      "X": -896.4674,
+      "Y": -432.5596,
+      "Z": 89.5326
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "collision_7e7mcx1",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_12_1",
+    "Position": {
+      "X": -36.7097,
+      "Y": -580.7258,
+      "Z": 83.8723
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "collision_7e7mcx1",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_13_1",
+    "Position": {
+      "X": -14.6156,
+      "Y": -589.1295,
+      "Z": 94.1579
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "collision_7e7mcx1",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_14_1",
+    "Position": {
+      "X": -902.5886,
+      "Y": -372.8203,
+      "Z": 79.4551
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "collision_7e7mcx1",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_15_1",
+    "Position": {
+      "X": -927.3589,
+      "Y": -378.412,
+      "Z": 103.3495
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "collision_7e7mcx1",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_16_1",
+    "Position": {
+      "X": -617.0798,
+      "Y": 60.2634,
+      "Z": 102.1335
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "collision_7e7mcx1",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_17_1",
+    "Position": {
+      "X": -584.1865,
+      "Y": 47.1539,
+      "Z": 87.5992
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "collision_7e7mcx1",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_2_1",
+    "Position": {
+      "X": -760.9844,
+      "Y": 322.1198,
+      "Z": 170.7925
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "collision_7e7mcx1",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_3_1",
+    "Position": {
+      "X": -761.1333,
+      "Y": 322.093,
+      "Z": 217.3184
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "collision_7e7mcx1",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_4_1",
+    "Position": {
+      "X": -795.3694,
+      "Y": 335.5568,
+      "Z": 153.9465
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "collision_7e7mcx1",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_5_1",
+    "Position": {
+      "X": -262.3579,
+      "Y": -949.122,
+      "Z": 71.2616
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "collision_7e7mcx1",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_6_1",
+    "Position": {
+      "X": -280.8582,
+      "Y": -959.214,
+      "Z": 86.4584
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "collision_7e7mcx1",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_7_1",
+    "Position": {
+      "X": -1469.336,
+      "Y": -534.425,
+      "Z": 63.5293
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "collision_7e7mcx1",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_8_1",
+    "Position": {
+      "X": -1469.288,
+      "Y": -534.4252,
+      "Z": 50.8548
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "collision_7e7mcx1",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_9_1",
+    "Position": {
+      "X": -887.3753,
+      "Y": -447.638,
+      "Z": 120.5694
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "collision_7e7mcx1",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_1_2",
+    "Position": {
+      "X": -800.4615,
+      "Y": 325.5955,
+      "Z": 206.1602
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "collision_9xltbmz",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_10_2",
+    "Position": {
+      "X": -911.6201,
+      "Y": -453.4501,
+      "Z": 120.2421
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "collision_9xltbmz",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_11_2",
+    "Position": {
+      "X": -907.5391,
+      "Y": -431.8744,
+      "Z": 94.0568
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "collision_9xltbmz",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_12_2",
+    "Position": {
+      "X": -44.9845,
+      "Y": -587.6182,
+      "Z": 88.7372
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "collision_9xltbmz",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_13_2",
+    "Position": {
+      "X": -21.7007,
+      "Y": -580.7242,
+      "Z": 98.8429
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "collision_9xltbmz",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_14_2",
+    "Position": {
+      "X": -902.1055,
+      "Y": -361.618,
+      "Z": 84.1714
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "collision_9xltbmz",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_15_2",
+    "Position": {
+      "X": -927.8866,
+      "Y": -389.6428,
+      "Z": 108.124
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "collision_9xltbmz",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_16_2",
+    "Position": {
+      "X": -622.583,
+      "Y": 50.7034,
+      "Z": 106.716
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "collision_9xltbmz",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_17_2",
+    "Position": {
+      "X": -578.6264,
+      "Y": 56.7979,
+      "Z": 92.1833
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "collision_9xltbmz",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_2_2",
+    "Position": {
+      "X": -755.5387,
+      "Y": 331.7519,
+      "Z": 175.3368
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "collision_9xltbmz",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_3_2",
+    "Position": {
+      "X": -755.7,
+      "Y": 331.5,
+      "Z": 221.9
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "collision_9xltbmz",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_4_2",
+    "Position": {
+      "X": -800.8968,
+      "Y": 325.9796,
+      "Z": 158.5876
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "collision_9xltbmz",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_5_2",
+    "Position": {
+      "X": -269.4216,
+      "Y": -940.7886,
+      "Z": 75.9659
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "collision_9xltbmz",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_6_2",
+    "Position": {
+      "X": -273.7138,
+      "Y": -967.5828,
+      "Z": 91.2162
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "collision_9xltbmz",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_7_2",
+    "Position": {
+      "X": -1468.316,
+      "Y": -545.2313,
+      "Z": 68.2274
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "collision_9xltbmz",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_8_2",
+    "Position": {
+      "X": -1468.404,
+      "Y": -545.4297,
+      "Z": 55.5886
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "collision_9xltbmz",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_9_2",
+    "Position": {
+      "X": -886.9307,
+      "Y": -436.4989,
+      "Z": 125.217
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "collision_9xltbmz",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_1_3",
+    "Position": {
+      "X": -777.6,
+      "Y": 332.2,
+      "Z": 207.6
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "collision_mok71n",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_10_3",
+    "Position": {
+      "X": -894.2,
+      "Y": -437.2,
+      "Z": 121.6
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "collision_mok71n",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_11_3",
+    "Position": {
+      "X": -891.3,
+      "Y": -449.4,
+      "Z": 95.7
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "collision_mok71n",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_12_3",
+    "Position": {
+      "X": -21.3,
+      "Y": -589.4,
+      "Z": 90.5
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "collision_mok71n",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_13_3",
+    "Position": {
+      "X": -23.4,
+      "Y": -604.3,
+      "Z": 100.5
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "collision_mok71n",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_14_3",
+    "Position": {
+      "X": -919.6,
+      "Y": -378.3,
+      "Z": 85.5
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "collision_mok71n",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_15_3",
+    "Position": {
+      "X": -910.6,
+      "Y": -372.9,
+      "Z": 109.4
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "collision_mok71n",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_16_3",
+    "Position": {
+      "X": -599.8,
+      "Y": 57.3,
+      "Z": 108.0
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "collision_mok71n",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_17_3",
+    "Position": {
+      "X": -601.4,
+      "Y": 50.1,
+      "Z": 94.0
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "collision_mok71n",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_3_3",
+    "Position": {
+      "X": -778.5,
+      "Y": 325.1,
+      "Z": 223.3
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "collision_mok71n",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_4_3",
+    "Position": {
+      "X": -778.1,
+      "Y": 332.5,
+      "Z": 160.0
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "collision_mok71n",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_5_3",
+    "Position": {
+      "X": -271.0,
+      "Y": -964.4,
+      "Z": 77.4
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "collision_mok71n",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_6_3",
+    "Position": {
+      "X": -272.3,
+      "Y": -944.0,
+      "Z": 92.8
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "collision_mok71n",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_7_3",
+    "Position": {
+      "X": -1453.4,
+      "Y": -526.8,
+      "Z": 69.5
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "collision_mok71n",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_8_3",
+    "Position": {
+      "X": -1453.3,
+      "Y": -526.8,
+      "Z": 56.8
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "collision_mok71n",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_9_3",
+    "Position": {
+      "X": -903.8,
+      "Y": -452.7,
+      "Z": 126.8
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "collision_mok71n",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_2_3",
+    "Position": {
+      "X": -778.6,
+      "Y": 325.0,
+      "Z": 176.8
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high_new",
+    "Room": "collision_mok71n",
+    "RadioStation": "RADIO_02_POP"
+  },
+  {
+    "Name": "se_mp_apt_new_1_2",
+    "Position": {
+      "X": -1465.8,
+      "Y": -546.3,
+      "Z": 76.1
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high2_new",
+    "Room": "collision_9mveknu",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_new_2_2",
+    "Position": {
+      "X": -909.7,
+      "Y": -379.2,
+      "Z": 115.9
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high2_new",
+    "Room": "collision_9mveknu",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_new_3_2",
+    "Position": {
+      "X": -605.5,
+      "Y": 44.6,
+      "Z": 99.6
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high2_new",
+    "Room": "collision_9mveknu",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_new_4_2",
+    "Position": {
+      "X": -782.4,
+      "Y": 338.4,
+      "Z": 212.5
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high2_new",
+    "Room": "collision_9mveknu",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_new_5_2",
+    "Position": {
+      "X": -23.6,
+      "Y": -582.8,
+      "Z": 82.2
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high2_new",
+    "Room": "collision_9mveknu",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_new_1_1",
+    "Position": {
+      "X": -1458.129,
+      "Y": -550.5645,
+      "Z": 71.884
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high2_new",
+    "Room": "collision_9ty32e3",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_new_2_1",
+    "Position": {
+      "X": -903.7225,
+      "Y": -371.8464,
+      "Z": 112.0
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high2_new",
+    "Room": "collision_9ty32e3",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_new_3_1",
+    "Position": {
+      "X": -598.2443,
+      "Y": 48.7751,
+      "Z": 96.0
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high2_new",
+    "Room": "collision_9ty32e3",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_new_4_1",
+    "Position": {
+      "X": -789.8164,
+      "Y": 334.0169,
+      "Z": 209.8369
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high2_new",
+    "Room": "collision_9ty32e3",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_new_5_1",
+    "Position": {
+      "X": -32.2672,
+      "Y": -583.5913,
+      "Z": 77.8706
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high2_new",
+    "Room": "collision_9ty32e3",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_new_4_3",
+    "Position": {
+      "X": -764.1,
+      "Y": 326.6,
+      "Z": 211.5
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high2_new",
+    "Room": "collision_7497x05",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_new_1_3",
+    "Position": {
+      "X": -1466.6,
+      "Y": -525.1,
+      "Z": 73.5
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high2_new",
+    "Room": "collision_7497x05",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_new_2_3",
+    "Position": {
+      "X": -929.9,
+      "Y": -377.2,
+      "Z": 113.8
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high2_new",
+    "Room": "collision_7497x05",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_new_3_3",
+    "Position": {
+      "X": -624.1,
+      "Y": 56.0,
+      "Z": 97.8
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high2_new",
+    "Room": "collision_7497x05",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_apt_new_5_3",
+    "Position": {
+      "X": -10.6,
+      "Y": -599.4,
+      "Z": 80.01
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_apart_high2_new",
+    "Room": "collision_7497x05",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "se_mp_ap_rad_v_apart_midspaz_lounge",
+    "Position": {
+      "X": 341.5,
+      "Y": -1001.0,
+      "Z": -98.8
+    },
+    "Flags": "0xAA045401",
+    "Interior": "v_apart_midspaz",
+    "Room": "v_apart_midspaz_rm_mid_lounge",
+    "RadioStation": "RADIO_03_HIPHOP_NEW"
+  },
+  {
+    "Name": "se_mp_ap_rad_v_studio_lo_living",
+    "Position": {
+      "X": 263.5,
+      "Y": -994.8,
+      "Z": -98.8
+    },
+    "Flags": "0xAA045401",
+    "Interior": "v_studio_lo",
+    "Room": "v_studio_lo_rm_living",
+    "RadioStation": "RADIO_01_CLASS_ROCK"
+  },
+  {
+    "Name": "SE_MP_GARAGE_L_RADIO",
+    "Position": {
+      "X": 230.9,
+      "Y": -975.5,
+      "Z": -98.0
+    },
+    "Flags": "0xAA045501",
+    "Interior": "hei_dlc_garage_high_new",
+    "Room": "collision_8182xil",
+    "RadioStation": "HIDDEN_RADIO_03_HIPHOP_NEW"
+  },
+  {
+    "Name": "collision_0hwahp",
+    "Position": {
+      "X": 118.4,
+      "Y": -1285.0,
+      "Z": 30.0
+    },
+    "Flags": "0xAA040101",
+    "Interior": "v_strip3",
+    "Room": "strp3mainrm",
+    "RadioStation": null
+  },
+  {
     "Name": "se_mp_apt_1_1",
     "Position": {
       "X": -794.9223,
@@ -838,378 +1726,6 @@
     "Interior": "v_strip3",
     "Room": "strp3mainrm",
     "RadioStation": null
-  },
-  {
-    "Name": "dlc_h4_se_mpjo",
-    "Position": {
-      "X": 1210.0,
-      "Y": -455.0,
-      "Z": 69.0
-    },
-    "Flags": "0xAA045401",
-    "Interior": null,
-    "Room": null,
-    "RadioStation": "radio_27_dlc_prhei4"
-  },
-  {
-    "Name": "dlc_h4_se_safe_codes_room_music",
-    "Position": {
-      "X": 2486.1,
-      "Y": -274.0,
-      "Z": -38.3
-    },
-    "Flags": "0xAA045401",
-    "Interior": "ch_dlc_casino_hotel",
-    "Room": "ch_dlc_casino_hotel_casino_hotel_corridor_2_rm",
-    "RadioStation": "hidden_radio_casino_penthouse_p"
-  },
-  {
-    "Name": "dlc_h4_se_safe_codes_penthouse_music",
-    "Position": {
-      "X": 946.5,
-      "Y": 16.0,
-      "Z": 119.5
-    },
-    "Flags": "0xAA044401",
-    "Interior": null,
-    "Room": null,
-    "RadioStation": null
-  },
-  {
-    "Name": "dlc_h4_se_safe_codes_penthouse_music_entryway",
-    "Position": {
-      "X": 980.0,
-      "Y": 57.0,
-      "Z": 118.0
-    },
-    "Flags": "0xAA040401",
-    "Interior": null,
-    "Room": null,
-    "RadioStation": null
-  },
-  {
-    "Name": "dlc_h4_se_safe_codes_penthouse_music_lounge",
-    "Position": {
-      "X": 963.0,
-      "Y": 47.5,
-      "Z": 118.0
-    },
-    "Flags": "0xAA040401",
-    "Interior": null,
-    "Room": null,
-    "RadioStation": null
-  },
-  {
-    "Name": "se_h4_dlc_int_02_h4_main_front_01",
-    "Position": {
-      "X": 1553.4,
-      "Y": 244.6,
-      "Z": -45.83
-    },
-    "Flags": "0xAA040501",
-    "Interior": "h4_dlc_int_02_h4",
-    "Room": "h4_dlc_int_02_h4_int_01_main_area",
-    "RadioStation": "radio_32_dlc_hei4_mm_club"
-  },
-  {
-    "Name": "se_h4_dlc_int_02_h4_main_front_02",
-    "Position": {
-      "X": 1552.9,
-      "Y": 256.5,
-      "Z": -45.95
-    },
-    "Flags": "0xAA040501",
-    "Interior": "h4_dlc_int_02_h4",
-    "Room": "h4_dlc_int_02_h4_int_01_main_area",
-    "RadioStation": "radio_32_dlc_hei4_mm_club"
-  },
-  {
-    "Name": "se_h4_dlc_int_02_h4_main_bar",
-    "Position": {
-      "X": 1570.46,
-      "Y": 249.99,
-      "Z": -45.29
-    },
-    "Flags": "0xAA040501",
-    "Interior": "h4_dlc_int_02_h4",
-    "Room": "h4_dlc_int_02_h4_int_01_main_area",
-    "RadioStation": "radio_32_dlc_hei4_mm_club"
-  },
-  {
-    "Name": "se_h4_dlc_int_02_h4_lobby",
-    "Position": {
-      "X": 1571.9,
-      "Y": 244.5,
-      "Z": -45.35
-    },
-    "Flags": "0xAA040501",
-    "Interior": "h4_dlc_int_02_h4",
-    "Room": "h4_dlc_int_02_h4_lobby",
-    "RadioStation": "radio_32_dlc_hei4_mm_club"
-  },
-  {
-    "Name": "se_h4_dlc_int_02_h4_bogs",
-    "Position": {
-      "X": 1546.7,
-      "Y": 256.7,
-      "Z": -47.2
-    },
-    "Flags": "0xAA040501",
-    "Interior": "h4_dlc_int_02_h4",
-    "Room": "h4_dlc_int_02_h4_int_01_bogs",
-    "RadioStation": "radio_32_dlc_hei4_mm_club"
-  },
-  {
-    "Name": "se_h4_dlc_int_02_h4_entrance_doorway",
-    "Position": {
-      "X": 986.36,
-      "Y": 77.92,
-      "Z": 81.66
-    },
-    "Flags": "0xAA040401",
-    "Interior": null,
-    "Room": null,
-    "RadioStation": "radio_31_dlc_hei4_km_club"
-  },
-  {
-    "Name": "se_h4_dlc_int_02_h4_main_room_cutscenes",
-    "Position": {
-      "X": 1570.46,
-      "Y": 249.99,
-      "Z": -47.2
-    },
-    "Flags": "0xAA044501",
-    "Interior": "h4_dlc_int_02_h4",
-    "Room": "h4_dlc_int_02_h4_int_01_main_area",
-    "RadioStation": "radio_32_dlc_hei4_mm_club"
-  },
-  {
-    "Name": "se_hei4_int_sub_stream",
-    "Position": {
-      "X": 1558.983,
-      "Y": 382.149,
-      "Z": -48.12495
-    },
-    "Flags": "0xAA000001",
-    "Interior": "h4_int_sub_h4",
-    "Room": "h4_int_sub_h4_rm_command",
-    "RadioStation": null
-  },
-  {
-    "Name": "se_hei4_int_sub_mess_radio",
-    "Position": {
-      "X": 1563.2,
-      "Y": 385.5,
-      "Z": -53.211
-    },
-    "Flags": "0xAA045501",
-    "Interior": "h4_int_sub_h4",
-    "Room": "h4_int_sub_h4_rm_mess",
-    "RadioStation": "RADIO_17_FUNK"
-  },
-  {
-    "Name": "se_dlc_hei4_island_beach_party_music_new_01_left",
-    "Position": {
-      "X": 4896.5,
-      "Y": -4908.0,
-      "Z": 3.5
-    },
-    "Flags": "0xAA045501",
-    "Interior": null,
-    "Room": null,
-    "RadioStation": "radio_30_dlc_hei4_mix1_reverb"
-  },
-  {
-    "Name": "se_dlc_hei4_island_beach_party_music_new_02_right",
-    "Position": {
-      "X": 4890.4,
-      "Y": -4907.3,
-      "Z": 3.5
-    },
-    "Flags": "0xAA045501",
-    "Interior": null,
-    "Room": null,
-    "RadioStation": "radio_30_dlc_hei4_mix1_reverb"
-  },
-  {
-    "Name": "se_dlc_hei4_island_beach_party_music_new_04_reverb",
-    "Position": {
-      "X": 4965.4,
-      "Y": -4942.4,
-      "Z": 15.52
-    },
-    "Flags": "0xAA045401",
-    "Interior": null,
-    "Room": null,
-    "RadioStation": "radio_30_dlc_hei4_mix1_reverb"
-  },
-  {
-    "Name": "se_dlc_hei4_island_beach_party_music_new_03_reverb",
-    "Position": {
-      "X": 4935.9,
-      "Y": -4891.2,
-      "Z": 26.47
-    },
-    "Flags": "0xAA045401",
-    "Interior": null,
-    "Room": null,
-    "RadioStation": "radio_30_dlc_hei4_mix1_reverb"
-  },
-  {
-    "Name": "se_ba_dlc_int_01_bars",
-    "Position": {
-      "X": -1579.0,
-      "Y": -3012.1,
-      "Z": -78.0
-    },
-    "Flags": "0xAA040501",
-    "Interior": "ba_dlc_int_01_ba",
-    "Room": null,
-    "RadioStation": "radio_22_dlc_battle_mix1_club"
-  },
-  {
-    "Name": "se_ba_dlc_int_01_entry_hall",
-    "Position": {
-      "X": -1569.3,
-      "Y": -3005.8,
-      "Z": -74.8
-    },
-    "Flags": "0xAA040501",
-    "Interior": "ba_dlc_int_01_ba",
-    "Room": "ba_dlc_int_01_ba_int_01_entry_hall",
-    "RadioStation": "radio_22_dlc_battle_mix1_club"
-  },
-  {
-    "Name": "se_ba_dlc_int_01_entry_stairs",
-    "Position": {
-      "X": -1573.8,
-      "Y": -3003.4,
-      "Z": -76.6
-    },
-    "Flags": "0xAA040501",
-    "Interior": "ba_dlc_int_01_ba",
-    "Room": "ba_dlc_int_01_ba_int_01_entry_stairs",
-    "RadioStation": "radio_22_dlc_battle_mix1_club"
-  },
-  {
-    "Name": "se_ba_dlc_int_01_garage",
-    "Position": {
-      "X": -1623.0,
-      "Y": -2998.0,
-      "Z": -77.0
-    },
-    "Flags": "0xAA040501",
-    "Interior": "ba_dlc_int_01_ba",
-    "Room": "ba_dlc_int_01_ba_int_01_garage",
-    "RadioStation": "radio_22_dlc_battle_mix1_club"
-  },
-  {
-    "Name": "se_ba_dlc_int_01_main_area",
-    "Position": {
-      "X": -1601.2,
-      "Y": -3012.6,
-      "Z": -77.0
-    },
-    "Flags": "0xAA040501",
-    "Interior": "ba_dlc_int_01_ba",
-    "Room": "ba_dlc_int_01_ba_int_01_main_area",
-    "RadioStation": "radio_22_dlc_battle_mix1_club"
-  },
-  {
-    "Name": "se_ba_dlc_int_01_office",
-    "Position": {
-      "X": -1607.8,
-      "Y": -3014.0,
-      "Z": -74.0
-    },
-    "Flags": "0xAA040501",
-    "Interior": "ba_dlc_int_01_ba",
-    "Room": "ba_dlc_int_01_ba_int_01_orifice",
-    "RadioStation": "radio_22_dlc_battle_mix1_club"
-  },
-  {
-    "Name": "se_ba_dlc_int_01_rear_l_corridor",
-    "Position": {
-      "X": -1607.9,
-      "Y": -3006.1,
-      "Z": -77.9
-    },
-    "Flags": "0xAA040501",
-    "Interior": "ba_dlc_int_01_ba",
-    "Room": "ba_dlc_int_01_ba_int_01_rear_l_corridor",
-    "RadioStation": "radio_22_dlc_battle_mix1_club"
-  },
-  {
-    "Name": "se_ba_dlc_club_exterior",
-    "Position": {
-      "X": 762.0,
-      "Y": -1332.0,
-      "Z": 26.0
-    },
-    "Flags": "0xAA044401",
-    "Interior": null,
-    "Room": null,
-    "RadioStation": "radio_22_dlc_battle_mix1_club"
-  },
-  {
-    "Name": "se_ba_dlc_int_01_bogs",
-    "Position": {
-      "X": -1609.6,
-      "Y": -3007.2,
-      "Z": -78.2
-    },
-    "Flags": "0xAA040501",
-    "Interior": "ba_dlc_int_01_ba",
-    "Room": "ba_dlc_int_01_ba_int_01_bogs",
-    "RadioStation": "radio_22_dlc_battle_mix1_club"
-  },
-  {
-    "Name": "se_ba_dlc_int_01_main_area_2",
-    "Position": {
-      "X": -1577.0,
-      "Y": -3003.6,
-      "Z": -77.0
-    },
-    "Flags": "0xAA040501",
-    "Interior": "ba_dlc_int_01_ba",
-    "Room": "ba_dlc_int_01_ba_int_01_main_area",
-    "RadioStation": "radio_22_dlc_battle_mix1_club"
-  },
-  {
-    "Name": "se_ba_int_02_ba_workshop_radio",
-    "Position": {
-      "X": -1517.0,
-      "Y": -3043.0,
-      "Z": -78.9
-    },
-    "Flags": "0xAA041401",
-    "Interior": "ba_dlc_int_02_ba",
-    "Room": "ba_dlc_int_02_ba_int_02_room1",
-    "RadioStation": "radio_22_dlc_battle_mix1_radio"
-  },
-  {
-    "Name": "se_ba_int_03_ba_hktrk_radio",
-    "Position": {
-      "X": -1420.0,
-      "Y": -3013.0,
-      "Z": -77.8
-    },
-    "Flags": "0xAA041501",
-    "Interior": "ba_dlc_int_03_ba",
-    "Room": "ba_dlc_int_03_ba_int_03_room1",
-    "RadioStation": "radio_22_dlc_battle_mix1_radio"
-  },
-  {
-    "Name": "se_dlc_btl_yacht_exterior_01",
-    "Position": {
-      "X": 0.0,
-      "Y": 0.0,
-      "Z": -200.0
-    },
-    "Flags": "0xAA040411",
-    "Interior": null,
-    "Room": null,
-    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
   },
   {
     "Name": "collision_7laprom",
@@ -6504,892 +7020,460 @@
     "RadioStation": null
   },
   {
-    "Name": "collision_75oaiz",
-    "Position": {
-      "X": 500.0,
-      "Y": 0.0,
-      "Z": -200.0
-    },
-    "Flags": "0xAA040011",
-    "Interior": null,
-    "Room": null,
-    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
-  },
-  {
-    "Name": "collision_qyy0jp",
-    "Position": {
-      "X": 205.0,
-      "Y": 0.0,
-      "Z": -200.0
-    },
-    "Flags": "0xAA040011",
-    "Interior": null,
-    "Room": null,
-    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
-  },
-  {
-    "Name": "SE_Script_Placed_Prop_Emitter_Boombox",
-    "Position": {
-      "X": -100.0,
-      "Y": 0.0,
-      "Z": -200.0
-    },
-    "Flags": "0xAA040011",
-    "Interior": null,
-    "Room": null,
-    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
-  },
-  {
-    "Name": "SE_LR_Car_Park_Radio_01",
-    "Position": {
-      "X": -803.5,
-      "Y": -2381.0,
-      "Z": 14.0
-    },
-    "Flags": "0xAA044001",
-    "Interior": null,
-    "Room": null,
-    "RadioStation": "HIDDEN_RADIO_09_HIPHOP_OLD"
-  },
-  {
-    "Name": "se_mp_apt_1_1",
-    "Position": {
-      "X": -794.9223,
-      "Y": 335.2936,
-      "Z": 201.6748
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high_new",
-    "Room": "collision_7e7mcx1",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_10_1",
-    "Position": {
-      "X": -911.0636,
-      "Y": -442.4949,
-      "Z": 115.6061
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high_new",
-    "Room": "collision_7e7mcx1",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_11_1",
-    "Position": {
-      "X": -896.4674,
-      "Y": -432.5596,
-      "Z": 89.5326
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high_new",
-    "Room": "collision_7e7mcx1",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_12_1",
-    "Position": {
-      "X": -36.7097,
-      "Y": -580.7258,
-      "Z": 83.8723
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high_new",
-    "Room": "collision_7e7mcx1",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_13_1",
-    "Position": {
-      "X": -14.6156,
-      "Y": -589.1295,
-      "Z": 94.1579
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high_new",
-    "Room": "collision_7e7mcx1",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_14_1",
-    "Position": {
-      "X": -902.5886,
-      "Y": -372.8203,
-      "Z": 79.4551
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high_new",
-    "Room": "collision_7e7mcx1",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_15_1",
-    "Position": {
-      "X": -927.3589,
-      "Y": -378.412,
-      "Z": 103.3495
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high_new",
-    "Room": "collision_7e7mcx1",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_16_1",
-    "Position": {
-      "X": -617.0798,
-      "Y": 60.2634,
-      "Z": 102.1335
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high_new",
-    "Room": "collision_7e7mcx1",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_17_1",
-    "Position": {
-      "X": -584.1865,
-      "Y": 47.1539,
-      "Z": 87.5992
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high_new",
-    "Room": "collision_7e7mcx1",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_2_1",
-    "Position": {
-      "X": -760.9844,
-      "Y": 322.1198,
-      "Z": 170.7925
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high_new",
-    "Room": "collision_7e7mcx1",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_3_1",
-    "Position": {
-      "X": -761.1333,
-      "Y": 322.093,
-      "Z": 217.3184
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high_new",
-    "Room": "collision_7e7mcx1",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_4_1",
-    "Position": {
-      "X": -795.3694,
-      "Y": 335.5568,
-      "Z": 153.9465
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high_new",
-    "Room": "collision_7e7mcx1",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_5_1",
-    "Position": {
-      "X": -262.3579,
-      "Y": -949.122,
-      "Z": 71.2616
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high_new",
-    "Room": "collision_7e7mcx1",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_6_1",
-    "Position": {
-      "X": -280.8582,
-      "Y": -959.214,
-      "Z": 86.4584
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high_new",
-    "Room": "collision_7e7mcx1",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_7_1",
-    "Position": {
-      "X": -1469.336,
-      "Y": -534.425,
-      "Z": 63.5293
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high_new",
-    "Room": "collision_7e7mcx1",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_8_1",
-    "Position": {
-      "X": -1469.288,
-      "Y": -534.4252,
-      "Z": 50.8548
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high_new",
-    "Room": "collision_7e7mcx1",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_9_1",
-    "Position": {
-      "X": -887.3753,
-      "Y": -447.638,
-      "Z": 120.5694
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high_new",
-    "Room": "collision_7e7mcx1",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_1_2",
-    "Position": {
-      "X": -800.4615,
-      "Y": 325.5955,
-      "Z": 206.1602
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high_new",
-    "Room": "collision_9xltbmz",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_10_2",
-    "Position": {
-      "X": -911.6201,
-      "Y": -453.4501,
-      "Z": 120.2421
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high_new",
-    "Room": "collision_9xltbmz",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_11_2",
-    "Position": {
-      "X": -907.5391,
-      "Y": -431.8744,
-      "Z": 94.0568
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high_new",
-    "Room": "collision_9xltbmz",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_12_2",
-    "Position": {
-      "X": -44.9845,
-      "Y": -587.6182,
-      "Z": 88.7372
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high_new",
-    "Room": "collision_9xltbmz",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_13_2",
-    "Position": {
-      "X": -21.7007,
-      "Y": -580.7242,
-      "Z": 98.8429
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high_new",
-    "Room": "collision_9xltbmz",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_14_2",
-    "Position": {
-      "X": -902.1055,
-      "Y": -361.618,
-      "Z": 84.1714
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high_new",
-    "Room": "collision_9xltbmz",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_15_2",
-    "Position": {
-      "X": -927.8866,
-      "Y": -389.6428,
-      "Z": 108.124
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high_new",
-    "Room": "collision_9xltbmz",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_16_2",
-    "Position": {
-      "X": -622.583,
-      "Y": 50.7034,
-      "Z": 106.716
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high_new",
-    "Room": "collision_9xltbmz",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_17_2",
-    "Position": {
-      "X": -578.6264,
-      "Y": 56.7979,
-      "Z": 92.1833
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high_new",
-    "Room": "collision_9xltbmz",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_2_2",
-    "Position": {
-      "X": -755.5387,
-      "Y": 331.7519,
-      "Z": 175.3368
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high_new",
-    "Room": "collision_9xltbmz",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_3_2",
-    "Position": {
-      "X": -755.7,
-      "Y": 331.5,
-      "Z": 221.9
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high_new",
-    "Room": "collision_9xltbmz",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_4_2",
-    "Position": {
-      "X": -800.8968,
-      "Y": 325.9796,
-      "Z": 158.5876
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high_new",
-    "Room": "collision_9xltbmz",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_5_2",
-    "Position": {
-      "X": -269.4216,
-      "Y": -940.7886,
-      "Z": 75.9659
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high_new",
-    "Room": "collision_9xltbmz",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_6_2",
-    "Position": {
-      "X": -273.7138,
-      "Y": -967.5828,
-      "Z": 91.2162
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high_new",
-    "Room": "collision_9xltbmz",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_7_2",
-    "Position": {
-      "X": -1468.316,
-      "Y": -545.2313,
-      "Z": 68.2274
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high_new",
-    "Room": "collision_9xltbmz",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_8_2",
-    "Position": {
-      "X": -1468.404,
-      "Y": -545.4297,
-      "Z": 55.5886
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high_new",
-    "Room": "collision_9xltbmz",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_9_2",
-    "Position": {
-      "X": -886.9307,
-      "Y": -436.4989,
-      "Z": 125.217
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high_new",
-    "Room": "collision_9xltbmz",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_1_3",
-    "Position": {
-      "X": -777.6,
-      "Y": 332.2,
-      "Z": 207.6
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high_new",
-    "Room": "collision_mok71n",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_10_3",
-    "Position": {
-      "X": -894.2,
-      "Y": -437.2,
-      "Z": 121.6
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high_new",
-    "Room": "collision_mok71n",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_11_3",
-    "Position": {
-      "X": -891.3,
-      "Y": -449.4,
-      "Z": 95.7
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high_new",
-    "Room": "collision_mok71n",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_12_3",
-    "Position": {
-      "X": -21.3,
-      "Y": -589.4,
-      "Z": 90.5
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high_new",
-    "Room": "collision_mok71n",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_13_3",
-    "Position": {
-      "X": -23.4,
-      "Y": -604.3,
-      "Z": 100.5
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high_new",
-    "Room": "collision_mok71n",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_14_3",
-    "Position": {
-      "X": -919.6,
-      "Y": -378.3,
-      "Z": 85.5
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high_new",
-    "Room": "collision_mok71n",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_15_3",
-    "Position": {
-      "X": -910.6,
-      "Y": -372.9,
-      "Z": 109.4
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high_new",
-    "Room": "collision_mok71n",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_16_3",
-    "Position": {
-      "X": -599.8,
-      "Y": 57.3,
-      "Z": 108.0
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high_new",
-    "Room": "collision_mok71n",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_17_3",
-    "Position": {
-      "X": -601.4,
-      "Y": 50.1,
-      "Z": 94.0
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high_new",
-    "Room": "collision_mok71n",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_3_3",
-    "Position": {
-      "X": -778.5,
-      "Y": 325.1,
-      "Z": 223.3
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high_new",
-    "Room": "collision_mok71n",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_4_3",
-    "Position": {
-      "X": -778.1,
-      "Y": 332.5,
-      "Z": 160.0
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high_new",
-    "Room": "collision_mok71n",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_5_3",
-    "Position": {
-      "X": -271.0,
-      "Y": -964.4,
-      "Z": 77.4
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high_new",
-    "Room": "collision_mok71n",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_6_3",
-    "Position": {
-      "X": -272.3,
-      "Y": -944.0,
-      "Z": 92.8
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high_new",
-    "Room": "collision_mok71n",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_7_3",
-    "Position": {
-      "X": -1453.4,
-      "Y": -526.8,
-      "Z": 69.5
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high_new",
-    "Room": "collision_mok71n",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_8_3",
-    "Position": {
-      "X": -1453.3,
-      "Y": -526.8,
-      "Z": 56.8
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high_new",
-    "Room": "collision_mok71n",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_9_3",
-    "Position": {
-      "X": -903.8,
-      "Y": -452.7,
-      "Z": 126.8
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high_new",
-    "Room": "collision_mok71n",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_2_3",
-    "Position": {
-      "X": -778.6,
-      "Y": 325.0,
-      "Z": 176.8
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high_new",
-    "Room": "collision_mok71n",
-    "RadioStation": "RADIO_02_POP"
-  },
-  {
-    "Name": "se_mp_apt_new_1_2",
-    "Position": {
-      "X": -1465.8,
-      "Y": -546.3,
-      "Z": 76.1
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high2_new",
-    "Room": "collision_9mveknu",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_new_2_2",
-    "Position": {
-      "X": -909.7,
-      "Y": -379.2,
-      "Z": 115.9
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high2_new",
-    "Room": "collision_9mveknu",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_new_3_2",
-    "Position": {
-      "X": -605.5,
-      "Y": 44.6,
-      "Z": 99.6
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high2_new",
-    "Room": "collision_9mveknu",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_new_4_2",
-    "Position": {
-      "X": -782.4,
-      "Y": 338.4,
-      "Z": 212.5
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high2_new",
-    "Room": "collision_9mveknu",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_new_5_2",
-    "Position": {
-      "X": -23.6,
-      "Y": -582.8,
-      "Z": 82.2
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high2_new",
-    "Room": "collision_9mveknu",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_new_1_1",
-    "Position": {
-      "X": -1458.129,
-      "Y": -550.5645,
-      "Z": 71.884
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high2_new",
-    "Room": "collision_9ty32e3",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_new_2_1",
-    "Position": {
-      "X": -903.7225,
-      "Y": -371.8464,
-      "Z": 112.0
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high2_new",
-    "Room": "collision_9ty32e3",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_new_3_1",
-    "Position": {
-      "X": -598.2443,
-      "Y": 48.7751,
-      "Z": 96.0
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high2_new",
-    "Room": "collision_9ty32e3",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_new_4_1",
-    "Position": {
-      "X": -789.8164,
-      "Y": 334.0169,
-      "Z": 209.8369
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high2_new",
-    "Room": "collision_9ty32e3",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_new_5_1",
-    "Position": {
-      "X": -32.2672,
-      "Y": -583.5913,
-      "Z": 77.8706
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high2_new",
-    "Room": "collision_9ty32e3",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_new_4_3",
-    "Position": {
-      "X": -764.1,
-      "Y": 326.6,
-      "Z": 211.5
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high2_new",
-    "Room": "collision_7497x05",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_new_1_3",
-    "Position": {
-      "X": -1466.6,
-      "Y": -525.1,
-      "Z": 73.5
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high2_new",
-    "Room": "collision_7497x05",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_new_2_3",
-    "Position": {
-      "X": -929.9,
-      "Y": -377.2,
-      "Z": 113.8
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high2_new",
-    "Room": "collision_7497x05",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_new_3_3",
-    "Position": {
-      "X": -624.1,
-      "Y": 56.0,
-      "Z": 97.8
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high2_new",
-    "Room": "collision_7497x05",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_apt_new_5_3",
-    "Position": {
-      "X": -10.6,
-      "Y": -599.4,
-      "Z": 80.01
-    },
-    "Flags": "0xAA045501",
-    "Interior": "hei_dlc_apart_high2_new",
-    "Room": "collision_7497x05",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
-  },
-  {
-    "Name": "se_mp_ap_rad_v_apart_midspaz_lounge",
-    "Position": {
-      "X": 341.5,
-      "Y": -1001.0,
-      "Z": -98.8
-    },
-    "Flags": "0xAA045401",
-    "Interior": "v_apart_midspaz",
-    "Room": "v_apart_midspaz_rm_mid_lounge",
+    "Name": "se_mp_garage_m_radio",
+    "Position": {
+      "X": 202.23,
+      "Y": -994.03,
+      "Z": -98.65
+    },
+    "Flags": "0xAA041411",
+    "Interior": "v_garagem",
+    "Room": "v_garagem_gtamloroom002",
     "RadioStation": "RADIO_03_HIPHOP_NEW"
   },
   {
-    "Name": "se_mp_ap_rad_v_studio_lo_living",
+    "Name": "se_xm_int_01_avngr_radio",
     "Position": {
-      "X": 263.5,
-      "Y": -994.8,
-      "Z": -98.8
+      "X": 520.0,
+      "Y": 4748.0,
+      "Z": -69.0
+    },
+    "Flags": "0xAA041501",
+    "Interior": "xm_x17dlc_int_01",
+    "Room": "xm_x17dlc_int_01_gtamloroom001",
+    "RadioStation": "radio_21_dlc_xm17"
+  },
+  {
+    "Name": "se_xm_int_02_lounge_radio",
+    "Position": {
+      "X": 361.0,
+      "Y": 4840.0,
+      "Z": -59.0
+    },
+    "Flags": "0xAA041411",
+    "Interior": "xm_x17dlc_int_02",
+    "Room": "xm_x17dlc_int_02_int02_base_data",
+    "RadioStation": "radio_21_dlc_xm17"
+  },
+  {
+    "Name": "se_xm_int_02_bedroom_radio",
+    "Position": {
+      "X": 368.0,
+      "Y": 4823.0,
+      "Z": -59.0
+    },
+    "Flags": "0xAA041511",
+    "Interior": "xm_x17dlc_int_02",
+    "Room": "xm_x17dlc_int_02_int02_base_bedrom",
+    "RadioStation": "radio_21_dlc_xm17"
+  },
+  {
+    "Name": "se_xm_x17dlc_int_sub_stream",
+    "Position": {
+      "X": 513.0,
+      "Y": 4861.5,
+      "Z": -62.6
+    },
+    "Flags": "0xAA044101",
+    "Interior": "xm_x17dlc_int_sub",
+    "Room": "xm_x17dlc_int_sub_rm_command",
+    "RadioStation": null
+  },
+  {
+    "Name": "se_dlc_aw_arena_crowd_background_main",
+    "Position": {
+      "X": 2800.0,
+      "Y": -3800.0,
+      "Z": 190.0
+    },
+    "Flags": "0xAA004401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": null
+  },
+  {
+    "Name": "se_dlc_aw_arena_crowd_exterior_lobby",
+    "Position": {
+      "X": -119.0,
+      "Y": -2243.0,
+      "Z": 70.0
+    },
+    "Flags": "0xAA004401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": null
+  },
+  {
+    "Name": "se_dlc_aw_arena_crowd_interior_lobby",
+    "Position": {
+      "X": 204.8,
+      "Y": 5162.03,
+      "Z": -85.0
+    },
+    "Flags": "0xAA004401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": null
+  },
+  {
+    "Name": "se_dlc_aw_xs_arena_vip_radio",
+    "Position": {
+      "X": 2802.0,
+      "Y": -3941.0,
+      "Z": 186.0
+    },
+    "Flags": "0xAA041501",
+    "Interior": "xs_arena_vip",
+    "Room": "xs_arena_vip_vip_room",
+    "RadioStation": "radio_14_dance_02"
+  },
+  {
+    "Name": "se_dlc_aw_xs_x18_int_mod_garage_radio",
+    "Position": {
+      "X": 202.5,
+      "Y": 5186.4,
+      "Z": -88.5
+    },
+    "Flags": "0xAA041401",
+    "Interior": "xs_x18_int_mod",
+    "Room": "xs_x18_int_mod_arena_mod_rm",
+    "RadioStation": "radio_14_dance_02"
+  },
+  {
+    "Name": "se_dlc_aw_arena_construction_01",
+    "Position": {
+      "X": 231.2,
+      "Y": 5180.0,
+      "Z": -85.3
+    },
+    "Flags": "0xAA000401",
+    "Interior": "xs_x18_int_mod",
+    "Room": "xs_x18_int_mod_arena_mod_rm",
+    "RadioStation": null
+  },
+  {
+    "Name": "se_dlc_aw_xs_x18_int_mod_garage_office_theme",
+    "Position": {
+      "X": 206.5,
+      "Y": 5162.0,
+      "Z": -85.0
+    },
+    "Flags": "0xAA041401",
+    "Interior": "xs_x18_int_mod",
+    "Room": "xs_x18_int_mod_arena_office_rm",
+    "RadioStation": null
+  },
+  {
+    "Name": "se_dlc_aw_xs_x18_int_mod2_garage_radio",
+    "Position": {
+      "X": 172.9,
+      "Y": 5198.5,
+      "Z": 12.0
+    },
+    "Flags": "0xAA041501",
+    "Interior": "xs_x18_int_mod2",
+    "Room": "xs_x18_int_mod2_mod2_room",
+    "RadioStation": "radio_14_dance_02"
+  },
+  {
+    "Name": "dlc_h3_arcade_main_area_music_emitter",
+    "Position": {
+      "X": 2721.0,
+      "Y": -381.0,
+      "Z": -48.0
+    },
+    "Flags": "0xAA041501",
+    "Interior": "ch_dlc_arcade",
+    "Room": "ch_dlc_arcade_mainw_rm",
+    "RadioStation": "hidden_radio_arcade_edm"
+  },
+  {
+    "Name": "dlc_h3_arcade_planning_room_radio_emitter",
+    "Position": {
+      "X": 2717.0,
+      "Y": -363.0,
+      "Z": -53.3
+    },
+    "Flags": "0xAA041401",
+    "Interior": "ch_dlc_plan",
+    "Room": "ch_dlc_plan_main_rm",
+    "RadioStation": "hidden_radio_arcade_edm"
+  },
+  {
+    "Name": "dlc_h3_fm_prep_explosives_radio",
+    "Position": {
+      "X": 1742.0,
+      "Y": 3863.0,
+      "Z": 36.0
+    },
+    "Flags": "0xAA045411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "HIDDEN_RADIO_06_COUNTRY"
+  },
+  {
+    "Name": "dlc_h3_fm_cashier_radio_01",
+    "Position": {
+      "X": -1226.0,
+      "Y": 622.0,
+      "Z": 138.0
+    },
+    "Flags": "0xAA045411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
+  },
+  {
+    "Name": "dlc_h3_fm_cashier_radio_02",
+    "Position": {
+      "X": -1221.0,
+      "Y": 628.0,
+      "Z": 138.0
+    },
+    "Flags": "0xAA045411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
+  },
+  {
+    "Name": "dlc_h3_fm_cashier_radio_03",
+    "Position": {
+      "X": -1985.0,
+      "Y": 246.0,
+      "Z": 87.0
+    },
+    "Flags": "0xAA045411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
+  },
+  {
+    "Name": "dlc_h3_fm_cashier_radio_04",
+    "Position": {
+      "X": -1984.0,
+      "Y": 228.0,
+      "Z": 87.0
+    },
+    "Flags": "0xAA045411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
+  },
+  {
+    "Name": "dlc_h4_se_mpjo",
+    "Position": {
+      "X": 1210.0,
+      "Y": -455.0,
+      "Z": 69.0
     },
     "Flags": "0xAA045401",
-    "Interior": "v_studio_lo",
-    "Room": "v_studio_lo_rm_living",
-    "RadioStation": "RADIO_01_CLASS_ROCK"
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "radio_27_dlc_prhei4"
   },
   {
-    "Name": "SE_MP_GARAGE_L_RADIO",
+    "Name": "dlc_h4_se_safe_codes_room_music",
     "Position": {
-      "X": 230.9,
-      "Y": -975.5,
-      "Z": -98.0
+      "X": 2486.1,
+      "Y": -274.0,
+      "Z": -38.3
+    },
+    "Flags": "0xAA045401",
+    "Interior": "ch_dlc_casino_hotel",
+    "Room": "ch_dlc_casino_hotel_casino_hotel_corridor_2_rm",
+    "RadioStation": "hidden_radio_casino_penthouse_p"
+  },
+  {
+    "Name": "dlc_h4_se_safe_codes_penthouse_music",
+    "Position": {
+      "X": 946.5,
+      "Y": 16.0,
+      "Z": 119.5
+    },
+    "Flags": "0xAA044401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": null
+  },
+  {
+    "Name": "dlc_h4_se_safe_codes_penthouse_music_entryway",
+    "Position": {
+      "X": 980.0,
+      "Y": 57.0,
+      "Z": 118.0
+    },
+    "Flags": "0xAA040401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": null
+  },
+  {
+    "Name": "dlc_h4_se_safe_codes_penthouse_music_lounge",
+    "Position": {
+      "X": 963.0,
+      "Y": 47.5,
+      "Z": 118.0
+    },
+    "Flags": "0xAA040401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": null
+  },
+  {
+    "Name": "se_h4_dlc_int_02_h4_main_front_01",
+    "Position": {
+      "X": 1553.4,
+      "Y": 244.6,
+      "Z": -45.83
+    },
+    "Flags": "0xAA040501",
+    "Interior": "h4_dlc_int_02_h4",
+    "Room": "h4_dlc_int_02_h4_int_01_main_area",
+    "RadioStation": "radio_32_dlc_hei4_mm_club"
+  },
+  {
+    "Name": "se_h4_dlc_int_02_h4_main_front_02",
+    "Position": {
+      "X": 1552.9,
+      "Y": 256.5,
+      "Z": -45.95
+    },
+    "Flags": "0xAA040501",
+    "Interior": "h4_dlc_int_02_h4",
+    "Room": "h4_dlc_int_02_h4_int_01_main_area",
+    "RadioStation": "radio_32_dlc_hei4_mm_club"
+  },
+  {
+    "Name": "se_h4_dlc_int_02_h4_main_bar",
+    "Position": {
+      "X": 1570.46,
+      "Y": 249.99,
+      "Z": -45.29
+    },
+    "Flags": "0xAA040501",
+    "Interior": "h4_dlc_int_02_h4",
+    "Room": "h4_dlc_int_02_h4_int_01_main_area",
+    "RadioStation": "radio_32_dlc_hei4_mm_club"
+  },
+  {
+    "Name": "se_h4_dlc_int_02_h4_lobby",
+    "Position": {
+      "X": 1571.9,
+      "Y": 244.5,
+      "Z": -45.35
+    },
+    "Flags": "0xAA040501",
+    "Interior": "h4_dlc_int_02_h4",
+    "Room": "h4_dlc_int_02_h4_lobby",
+    "RadioStation": "radio_32_dlc_hei4_mm_club"
+  },
+  {
+    "Name": "se_h4_dlc_int_02_h4_bogs",
+    "Position": {
+      "X": 1546.7,
+      "Y": 256.7,
+      "Z": -47.2
+    },
+    "Flags": "0xAA040501",
+    "Interior": "h4_dlc_int_02_h4",
+    "Room": "h4_dlc_int_02_h4_int_01_bogs",
+    "RadioStation": "radio_32_dlc_hei4_mm_club"
+  },
+  {
+    "Name": "se_h4_dlc_int_02_h4_entrance_doorway",
+    "Position": {
+      "X": 986.36,
+      "Y": 77.92,
+      "Z": 81.66
+    },
+    "Flags": "0xAA040401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "radio_31_dlc_hei4_km_club"
+  },
+  {
+    "Name": "se_h4_dlc_int_02_h4_main_room_cutscenes",
+    "Position": {
+      "X": 1570.46,
+      "Y": 249.99,
+      "Z": -47.2
+    },
+    "Flags": "0xAA044501",
+    "Interior": "h4_dlc_int_02_h4",
+    "Room": "h4_dlc_int_02_h4_int_01_main_area",
+    "RadioStation": "radio_32_dlc_hei4_mm_club"
+  },
+  {
+    "Name": "se_hei4_int_sub_stream",
+    "Position": {
+      "X": 1558.983,
+      "Y": 382.149,
+      "Z": -48.12495
+    },
+    "Flags": "0xAA000001",
+    "Interior": "h4_int_sub_h4",
+    "Room": "h4_int_sub_h4_rm_command",
+    "RadioStation": null
+  },
+  {
+    "Name": "se_hei4_int_sub_mess_radio",
+    "Position": {
+      "X": 1563.2,
+      "Y": 385.5,
+      "Z": -53.211
     },
     "Flags": "0xAA045501",
-    "Interior": "hei_dlc_garage_high_new",
-    "Room": "collision_8182xil",
-    "RadioStation": "HIDDEN_RADIO_03_HIPHOP_NEW"
+    "Interior": "h4_int_sub_h4",
+    "Room": "h4_int_sub_h4_rm_mess",
+    "RadioStation": "RADIO_17_FUNK"
   },
   {
-    "Name": "collision_0hwahp",
+    "Name": "se_dlc_hei4_island_beach_party_music_new_01_left",
     "Position": {
-      "X": 118.4,
-      "Y": -1285.0,
-      "Z": 30.0
+      "X": 4896.5,
+      "Y": -4908.0,
+      "Z": 3.5
     },
-    "Flags": "0xAA040101",
-    "Interior": "v_strip3",
-    "Room": "strp3mainrm",
-    "RadioStation": null
+    "Flags": "0xAA045501",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "radio_30_dlc_hei4_mix1_reverb"
+  },
+  {
+    "Name": "se_dlc_hei4_island_beach_party_music_new_02_right",
+    "Position": {
+      "X": 4890.4,
+      "Y": -4907.3,
+      "Z": 3.5
+    },
+    "Flags": "0xAA045501",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "radio_30_dlc_hei4_mix1_reverb"
+  },
+  {
+    "Name": "se_dlc_hei4_island_beach_party_music_new_04_reverb",
+    "Position": {
+      "X": 4965.4,
+      "Y": -4942.4,
+      "Z": 15.52
+    },
+    "Flags": "0xAA045401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "radio_30_dlc_hei4_mix1_reverb"
+  },
+  {
+    "Name": "se_dlc_hei4_island_beach_party_music_new_03_reverb",
+    "Position": {
+      "X": 4935.9,
+      "Y": -4891.2,
+      "Z": 26.47
+    },
+    "Flags": "0xAA045401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "radio_30_dlc_hei4_mix1_reverb"
   },
   {
     "Name": "se_dmod_trailer_radio",
@@ -7776,6 +7860,150 @@
     "RadioStation": "HIDDEN_RADIO_02_POP"
   },
   {
+    "Name": "dlc_ie_steal_photo_shoot_radio_emitter",
+    "Position": {
+      "X": 642.3,
+      "Y": 3004.4,
+      "Z": 43.9
+    },
+    "Flags": "0xAA045401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "HIDDEN_RADIO_STRIP_CLUB"
+  },
+  {
+    "Name": "dlc_ie_steal_photo_shoot_wind_farm_radio_emitter",
+    "Position": {
+      "X": 2166.0,
+      "Y": 2111.0,
+      "Z": 126.7
+    },
+    "Flags": "0xAA045411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "HIDDEN_RADIO_STRIP_CLUB"
+  },
+  {
+    "Name": "dlc_ie_steal_photo_shoot_pier_radio_emitter",
+    "Position": {
+      "X": -1709.3,
+      "Y": -1000.0,
+      "Z": 6.9
+    },
+    "Flags": "0xAA045411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "HIDDEN_RADIO_STRIP_CLUB"
+  },
+  {
+    "Name": "dlc_ie_steal_photo_shoot_sonora_desert_radio_emitter",
+    "Position": {
+      "X": 642.3,
+      "Y": 3004.4,
+      "Z": 43.9
+    },
+    "Flags": "0xAA045411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "HIDDEN_RADIO_STRIP_CLUB"
+  },
+  {
+    "Name": "dlc_ie_steal_pool_party_default_radio_emitter",
+    "Position": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "Flags": "0xAA045401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
+  },
+  {
+    "Name": "dlc_ie_steal_pool_party_lake_vine_radio_emitter",
+    "Position": {
+      "X": -138.0,
+      "Y": 869.0,
+      "Z": 233.0
+    },
+    "Flags": "0xAA044411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
+  },
+  {
+    "Name": "dlc_ie_steal_pool_party_milton_rd__radio_emitter",
+    "Position": {
+      "X": -667.0,
+      "Y": 861.0,
+      "Z": 225.0
+    },
+    "Flags": "0xAA044411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "HIDDEN_RADIO_02_POP"
+  },
+  {
+    "Name": "dlc_ie_steal_tow_sandy_shores_radio_emitter",
+    "Position": {
+      "X": 914.9,
+      "Y": 3557.9,
+      "Z": 34.1
+    },
+    "Flags": "0xAA044401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "HIDDEN_RADIO_04_PUNK"
+  },
+  {
+    "Name": "dlc_ie_steal_tow_mirror_park_radio_emitter",
+    "Position": {
+      "X": 1138.0,
+      "Y": -786.5,
+      "Z": 57.7
+    },
+    "Flags": "0xAA044401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "RADIO_09_HIPHOP_OLD"
+  },
+  {
+    "Name": "dlc_ie_warehouse_radio_01",
+    "Position": {
+      "X": 970.9,
+      "Y": -3003.0,
+      "Z": -39.6
+    },
+    "Flags": "0xAA041501",
+    "Interior": "imp_impexp_intwaremed",
+    "Room": "imp_impexp_intwaremed_intwaremed_room",
+    "RadioStation": "radio_14_dance_02"
+  },
+  {
+    "Name": "dlc_ie_office_garage_radio_01",
+    "Position": {
+      "X": -82.1,
+      "Y": -826.5,
+      "Z": 222.0
+    },
+    "Flags": "0xAA045501",
+    "Interior": "imp_impexp_int_01",
+    "Room": "imp_impexp_int_01_mainroom001",
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
+  },
+  {
+    "Name": "dlc_ie_office_garage_mod_shop_radio_01",
+    "Position": {
+      "X": -73.3,
+      "Y": -823.6,
+      "Z": 285.0
+    },
+    "Flags": "0xAA045501",
+    "Interior": "imp_imptexp_mod_int_01",
+    "Room": "imp_imptexp_mod_int_01_mainroom",
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
+  },
+  {
     "Name": "se_dlc_biker_tequilala_exterior_emitter",
     "Position": {
       "X": -564.5,
@@ -7954,150 +8182,6 @@
     "Interior": "bkr_biker_dlc_int_ware05",
     "Room": "bkr_biker_dlc_int_ware05_office",
     "RadioStation": "RADIO_02_POP"
-  },
-  {
-    "Name": "dlc_ie_steal_photo_shoot_radio_emitter",
-    "Position": {
-      "X": 642.3,
-      "Y": 3004.4,
-      "Z": 43.9
-    },
-    "Flags": "0xAA045401",
-    "Interior": null,
-    "Room": null,
-    "RadioStation": "HIDDEN_RADIO_STRIP_CLUB"
-  },
-  {
-    "Name": "dlc_ie_steal_photo_shoot_wind_farm_radio_emitter",
-    "Position": {
-      "X": 2166.0,
-      "Y": 2111.0,
-      "Z": 126.7
-    },
-    "Flags": "0xAA045411",
-    "Interior": null,
-    "Room": null,
-    "RadioStation": "HIDDEN_RADIO_STRIP_CLUB"
-  },
-  {
-    "Name": "dlc_ie_steal_photo_shoot_pier_radio_emitter",
-    "Position": {
-      "X": -1709.3,
-      "Y": -1000.0,
-      "Z": 6.9
-    },
-    "Flags": "0xAA045411",
-    "Interior": null,
-    "Room": null,
-    "RadioStation": "HIDDEN_RADIO_STRIP_CLUB"
-  },
-  {
-    "Name": "dlc_ie_steal_photo_shoot_sonora_desert_radio_emitter",
-    "Position": {
-      "X": 642.3,
-      "Y": 3004.4,
-      "Z": 43.9
-    },
-    "Flags": "0xAA045411",
-    "Interior": null,
-    "Room": null,
-    "RadioStation": "HIDDEN_RADIO_STRIP_CLUB"
-  },
-  {
-    "Name": "dlc_ie_steal_pool_party_default_radio_emitter",
-    "Position": {
-      "X": 0.0,
-      "Y": 0.0,
-      "Z": 0.0
-    },
-    "Flags": "0xAA045401",
-    "Interior": null,
-    "Room": null,
-    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
-  },
-  {
-    "Name": "dlc_ie_steal_pool_party_lake_vine_radio_emitter",
-    "Position": {
-      "X": -138.0,
-      "Y": 869.0,
-      "Z": 233.0
-    },
-    "Flags": "0xAA044411",
-    "Interior": null,
-    "Room": null,
-    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
-  },
-  {
-    "Name": "dlc_ie_steal_pool_party_milton_rd__radio_emitter",
-    "Position": {
-      "X": -667.0,
-      "Y": 861.0,
-      "Z": 225.0
-    },
-    "Flags": "0xAA044411",
-    "Interior": null,
-    "Room": null,
-    "RadioStation": "HIDDEN_RADIO_02_POP"
-  },
-  {
-    "Name": "dlc_ie_steal_tow_sandy_shores_radio_emitter",
-    "Position": {
-      "X": 914.9,
-      "Y": 3557.9,
-      "Z": 34.1
-    },
-    "Flags": "0xAA044401",
-    "Interior": null,
-    "Room": null,
-    "RadioStation": "HIDDEN_RADIO_04_PUNK"
-  },
-  {
-    "Name": "dlc_ie_steal_tow_mirror_park_radio_emitter",
-    "Position": {
-      "X": 1138.0,
-      "Y": -786.5,
-      "Z": 57.7
-    },
-    "Flags": "0xAA044401",
-    "Interior": null,
-    "Room": null,
-    "RadioStation": "RADIO_09_HIPHOP_OLD"
-  },
-  {
-    "Name": "dlc_ie_warehouse_radio_01",
-    "Position": {
-      "X": 970.9,
-      "Y": -3003.0,
-      "Z": -39.6
-    },
-    "Flags": "0xAA041501",
-    "Interior": "imp_impexp_intwaremed",
-    "Room": "imp_impexp_intwaremed_intwaremed_room",
-    "RadioStation": "radio_14_dance_02"
-  },
-  {
-    "Name": "dlc_ie_office_garage_radio_01",
-    "Position": {
-      "X": -82.1,
-      "Y": -826.5,
-      "Z": 222.0
-    },
-    "Flags": "0xAA045501",
-    "Interior": "imp_impexp_int_01",
-    "Room": "imp_impexp_int_01_mainroom001",
-    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
-  },
-  {
-    "Name": "dlc_ie_office_garage_mod_shop_radio_01",
-    "Position": {
-      "X": -73.3,
-      "Y": -823.6,
-      "Z": 285.0
-    },
-    "Flags": "0xAA045501",
-    "Interior": "imp_imptexp_mod_int_01",
-    "Room": "imp_imptexp_mod_int_01_mainroom",
-    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
   },
   {
     "Name": "se_dlc_gr_moc_radio_01",
@@ -8280,160 +8364,160 @@
     "RadioStation": "HIDDEN_RADIO_01_CLASS_ROCK"
   },
   {
-    "Name": "se_mp_garage_m_radio",
+    "Name": "se_ba_dlc_int_01_bars",
     "Position": {
-      "X": 202.23,
-      "Y": -994.03,
-      "Z": -98.65
+      "X": -1579.0,
+      "Y": -3012.1,
+      "Z": -78.0
     },
-    "Flags": "0xAA041411",
-    "Interior": "v_garagem",
-    "Room": "v_garagem_gtamloroom002",
-    "RadioStation": "RADIO_03_HIPHOP_NEW"
+    "Flags": "0xAA040501",
+    "Interior": "ba_dlc_int_01_ba",
+    "Room": null,
+    "RadioStation": "radio_22_dlc_battle_mix1_club"
   },
   {
-    "Name": "se_xm_int_01_avngr_radio",
+    "Name": "se_ba_dlc_int_01_entry_hall",
     "Position": {
-      "X": 520.0,
-      "Y": 4748.0,
-      "Z": -69.0
+      "X": -1569.3,
+      "Y": -3005.8,
+      "Z": -74.8
     },
-    "Flags": "0xAA041501",
-    "Interior": "xm_x17dlc_int_01",
-    "Room": "xm_x17dlc_int_01_gtamloroom001",
-    "RadioStation": "radio_21_dlc_xm17"
+    "Flags": "0xAA040501",
+    "Interior": "ba_dlc_int_01_ba",
+    "Room": "ba_dlc_int_01_ba_int_01_entry_hall",
+    "RadioStation": "radio_22_dlc_battle_mix1_club"
   },
   {
-    "Name": "se_xm_int_02_lounge_radio",
+    "Name": "se_ba_dlc_int_01_entry_stairs",
     "Position": {
-      "X": 361.0,
-      "Y": 4840.0,
-      "Z": -59.0
+      "X": -1573.8,
+      "Y": -3003.4,
+      "Z": -76.6
     },
-    "Flags": "0xAA041411",
-    "Interior": "xm_x17dlc_int_02",
-    "Room": "xm_x17dlc_int_02_int02_base_data",
-    "RadioStation": "radio_21_dlc_xm17"
+    "Flags": "0xAA040501",
+    "Interior": "ba_dlc_int_01_ba",
+    "Room": "ba_dlc_int_01_ba_int_01_entry_stairs",
+    "RadioStation": "radio_22_dlc_battle_mix1_club"
   },
   {
-    "Name": "se_xm_int_02_bedroom_radio",
+    "Name": "se_ba_dlc_int_01_garage",
     "Position": {
-      "X": 368.0,
-      "Y": 4823.0,
-      "Z": -59.0
+      "X": -1623.0,
+      "Y": -2998.0,
+      "Z": -77.0
     },
-    "Flags": "0xAA041511",
-    "Interior": "xm_x17dlc_int_02",
-    "Room": "xm_x17dlc_int_02_int02_base_bedrom",
-    "RadioStation": "radio_21_dlc_xm17"
+    "Flags": "0xAA040501",
+    "Interior": "ba_dlc_int_01_ba",
+    "Room": "ba_dlc_int_01_ba_int_01_garage",
+    "RadioStation": "radio_22_dlc_battle_mix1_club"
   },
   {
-    "Name": "se_xm_x17dlc_int_sub_stream",
+    "Name": "se_ba_dlc_int_01_main_area",
     "Position": {
-      "X": 513.0,
-      "Y": 4861.5,
-      "Z": -62.6
+      "X": -1601.2,
+      "Y": -3012.6,
+      "Z": -77.0
     },
-    "Flags": "0xAA044101",
-    "Interior": "xm_x17dlc_int_sub",
-    "Room": "xm_x17dlc_int_sub_rm_command",
-    "RadioStation": null
+    "Flags": "0xAA040501",
+    "Interior": "ba_dlc_int_01_ba",
+    "Room": "ba_dlc_int_01_ba_int_01_main_area",
+    "RadioStation": "radio_22_dlc_battle_mix1_club"
   },
   {
-    "Name": "se_dlc_aw_arena_crowd_background_main",
+    "Name": "se_ba_dlc_int_01_office",
     "Position": {
-      "X": 2800.0,
-      "Y": -3800.0,
-      "Z": 190.0
+      "X": -1607.8,
+      "Y": -3014.0,
+      "Z": -74.0
     },
-    "Flags": "0xAA004401",
+    "Flags": "0xAA040501",
+    "Interior": "ba_dlc_int_01_ba",
+    "Room": "ba_dlc_int_01_ba_int_01_orifice",
+    "RadioStation": "radio_22_dlc_battle_mix1_club"
+  },
+  {
+    "Name": "se_ba_dlc_int_01_rear_l_corridor",
+    "Position": {
+      "X": -1607.9,
+      "Y": -3006.1,
+      "Z": -77.9
+    },
+    "Flags": "0xAA040501",
+    "Interior": "ba_dlc_int_01_ba",
+    "Room": "ba_dlc_int_01_ba_int_01_rear_l_corridor",
+    "RadioStation": "radio_22_dlc_battle_mix1_club"
+  },
+  {
+    "Name": "se_ba_dlc_club_exterior",
+    "Position": {
+      "X": 762.0,
+      "Y": -1332.0,
+      "Z": 26.0
+    },
+    "Flags": "0xAA044401",
     "Interior": null,
     "Room": null,
-    "RadioStation": null
+    "RadioStation": "radio_22_dlc_battle_mix1_club"
   },
   {
-    "Name": "se_dlc_aw_arena_crowd_exterior_lobby",
+    "Name": "se_ba_dlc_int_01_bogs",
     "Position": {
-      "X": -119.0,
-      "Y": -2243.0,
-      "Z": 70.0
+      "X": -1609.6,
+      "Y": -3007.2,
+      "Z": -78.2
     },
-    "Flags": "0xAA004401",
-    "Interior": null,
-    "Room": null,
-    "RadioStation": null
+    "Flags": "0xAA040501",
+    "Interior": "ba_dlc_int_01_ba",
+    "Room": "ba_dlc_int_01_ba_int_01_bogs",
+    "RadioStation": "radio_22_dlc_battle_mix1_club"
   },
   {
-    "Name": "se_dlc_aw_arena_crowd_interior_lobby",
+    "Name": "se_ba_dlc_int_01_main_area_2",
     "Position": {
-      "X": 204.8,
-      "Y": 5162.03,
-      "Z": -85.0
+      "X": -1577.0,
+      "Y": -3003.6,
+      "Z": -77.0
     },
-    "Flags": "0xAA004401",
-    "Interior": null,
-    "Room": null,
-    "RadioStation": null
+    "Flags": "0xAA040501",
+    "Interior": "ba_dlc_int_01_ba",
+    "Room": "ba_dlc_int_01_ba_int_01_main_area",
+    "RadioStation": "radio_22_dlc_battle_mix1_club"
   },
   {
-    "Name": "se_dlc_aw_xs_arena_vip_radio",
+    "Name": "se_ba_int_02_ba_workshop_radio",
     "Position": {
-      "X": 2802.0,
-      "Y": -3941.0,
-      "Z": 186.0
-    },
-    "Flags": "0xAA041501",
-    "Interior": "xs_arena_vip",
-    "Room": "xs_arena_vip_vip_room",
-    "RadioStation": "radio_14_dance_02"
-  },
-  {
-    "Name": "se_dlc_aw_xs_x18_int_mod_garage_radio",
-    "Position": {
-      "X": 202.5,
-      "Y": 5186.4,
-      "Z": -88.5
+      "X": -1517.0,
+      "Y": -3043.0,
+      "Z": -78.9
     },
     "Flags": "0xAA041401",
-    "Interior": "xs_x18_int_mod",
-    "Room": "xs_x18_int_mod_arena_mod_rm",
-    "RadioStation": "radio_14_dance_02"
+    "Interior": "ba_dlc_int_02_ba",
+    "Room": "ba_dlc_int_02_ba_int_02_room1",
+    "RadioStation": "radio_22_dlc_battle_mix1_radio"
   },
   {
-    "Name": "se_dlc_aw_arena_construction_01",
+    "Name": "se_ba_int_03_ba_hktrk_radio",
     "Position": {
-      "X": 231.2,
-      "Y": 5180.0,
-      "Z": -85.3
-    },
-    "Flags": "0xAA000401",
-    "Interior": "xs_x18_int_mod",
-    "Room": "xs_x18_int_mod_arena_mod_rm",
-    "RadioStation": null
-  },
-  {
-    "Name": "se_dlc_aw_xs_x18_int_mod_garage_office_theme",
-    "Position": {
-      "X": 206.5,
-      "Y": 5162.0,
-      "Z": -85.0
-    },
-    "Flags": "0xAA041401",
-    "Interior": "xs_x18_int_mod",
-    "Room": "xs_x18_int_mod_arena_office_rm",
-    "RadioStation": null
-  },
-  {
-    "Name": "se_dlc_aw_xs_x18_int_mod2_garage_radio",
-    "Position": {
-      "X": 172.9,
-      "Y": 5198.5,
-      "Z": 12.0
+      "X": -1420.0,
+      "Y": -3013.0,
+      "Z": -77.8
     },
     "Flags": "0xAA041501",
-    "Interior": "xs_x18_int_mod2",
-    "Room": "xs_x18_int_mod2_mod2_room",
-    "RadioStation": "radio_14_dance_02"
+    "Interior": "ba_dlc_int_03_ba",
+    "Room": "ba_dlc_int_03_ba_int_03_room1",
+    "RadioStation": "radio_22_dlc_battle_mix1_radio"
+  },
+  {
+    "Name": "se_dlc_btl_yacht_exterior_01",
+    "Position": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": -200.0
+    },
+    "Flags": "0xAA040411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
   },
   {
     "Name": "se_vw_dlc_casino_apart_apart_default_room_radio",
@@ -8722,90 +8806,6 @@
     "Interior": "vw_dlc_casino_main",
     "Room": "vw_dlc_casino_main_rm_bettingroom",
     "RadioStation": "hidden_radio_casino"
-  },
-  {
-    "Name": "dlc_h3_arcade_main_area_music_emitter",
-    "Position": {
-      "X": 2721.0,
-      "Y": -381.0,
-      "Z": -48.0
-    },
-    "Flags": "0xAA041501",
-    "Interior": "ch_dlc_arcade",
-    "Room": "ch_dlc_arcade_mainw_rm",
-    "RadioStation": "hidden_radio_arcade_edm"
-  },
-  {
-    "Name": "dlc_h3_arcade_planning_room_radio_emitter",
-    "Position": {
-      "X": 2717.0,
-      "Y": -363.0,
-      "Z": -53.3
-    },
-    "Flags": "0xAA041401",
-    "Interior": "ch_dlc_plan",
-    "Room": "ch_dlc_plan_main_rm",
-    "RadioStation": "hidden_radio_arcade_edm"
-  },
-  {
-    "Name": "dlc_h3_fm_prep_explosives_radio",
-    "Position": {
-      "X": 1742.0,
-      "Y": 3863.0,
-      "Z": 36.0
-    },
-    "Flags": "0xAA045411",
-    "Interior": null,
-    "Room": null,
-    "RadioStation": "HIDDEN_RADIO_06_COUNTRY"
-  },
-  {
-    "Name": "dlc_h3_fm_cashier_radio_01",
-    "Position": {
-      "X": -1226.0,
-      "Y": 622.0,
-      "Z": 138.0
-    },
-    "Flags": "0xAA045411",
-    "Interior": null,
-    "Room": null,
-    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
-  },
-  {
-    "Name": "dlc_h3_fm_cashier_radio_02",
-    "Position": {
-      "X": -1221.0,
-      "Y": 628.0,
-      "Z": 138.0
-    },
-    "Flags": "0xAA045411",
-    "Interior": null,
-    "Room": null,
-    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
-  },
-  {
-    "Name": "dlc_h3_fm_cashier_radio_03",
-    "Position": {
-      "X": -1985.0,
-      "Y": 246.0,
-      "Z": 87.0
-    },
-    "Flags": "0xAA045411",
-    "Interior": null,
-    "Room": null,
-    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
-  },
-  {
-    "Name": "dlc_h3_fm_cashier_radio_04",
-    "Position": {
-      "X": -1984.0,
-      "Y": 228.0,
-      "Z": 87.0
-    },
-    "Flags": "0xAA045411",
-    "Interior": null,
-    "Room": null,
-    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
   },
   {
     "Name": "se_mp_apt_1_1",

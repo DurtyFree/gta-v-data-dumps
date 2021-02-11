@@ -2853,7 +2853,6 @@
       "bullet_tracer_xs_sr",
       "proj_xs_sr_raygun_trail",
       "muz_xs_sr_carbine",
-      "exp_xs_ray",
       "muz_xs_sr_raygun",
       "muz_xs_sr_minigun"
     ]
@@ -3108,7 +3107,8 @@
   {
     "DictionaryName": "weap_ie_vehicle_mg",
     "EffectNames": [
-      "muz_ie_vehicle_mg"
+      "muz_ie_vehicle_mg",
+      "bullet_tracer_ie_vehicle_mg"
     ]
   },
   {
@@ -3174,7 +3174,6 @@
   {
     "DictionaryName": "weap_sm_bom",
     "EffectNames": [
-      "proj_rpg_barrage_trail",
       "veh_vent_plane_bom",
       "eject_sm_bom_twinmg",
       "muz_sm_bom_cannon",

@@ -4,9 +4,9 @@ This is a collection of various GTA V data dumps mostly useful for modding &amp;
 # Useful projects
 If you are in search for an easy way to browse those GTA V data, try **Pleb Masters: Forge**.
 [![Pleb Masters Forge Logo](https://i.imgur.com/hotlSPf.png)](https://forge.plebmasters.de)
-[![Durty Map Editor Logo](https://i.imgur.com/WsRJv3u.png)](https://discord.gg/hgSutAU)
+[![Durty Map Editor Logo](https://i.imgur.com/WsRJv3u.png)](https://durty.me)
 
-## All data up2date as of GTA V update: **v2215 (Online 1.53) [DLC: patchday24ng]**
+## All data up2date as of GTA V update: **v2245 (Online 1.54) [DLC: patchday24ng]**
 ---
 ### Please create an issue if you have any problems with the data, so I can improve my generator. You are also welcome to create issues for dumps you would like to see.
 ---

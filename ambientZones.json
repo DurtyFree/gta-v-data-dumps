@@ -3880,23 +3880,23 @@
     "Flags1": "0x00000000",
     "Flags2": "0x00000000",
     "OuterPosition": {
-      "X": -1081.041,
-      "Y": 2738.736,
+      "X": -1081.0414,
+      "Y": 2738.7356,
       "Z": 18.0
     },
     "OuterSize": {
-      "X": 386.6658,
-      "Y": 898.3638,
+      "X": 386.66577,
+      "Y": 898.36383,
       "Z": 36.0
     },
     "InnerPosition": {
-      "X": -1081.041,
-      "Y": 2738.736,
+      "X": -1081.0414,
+      "Y": 2738.7356,
       "Z": 5.0
     },
     "InnerSize": {
-      "X": 299.6658,
-      "Y": 811.3638,
+      "X": 299.66577,
+      "Y": 811.36383,
       "Z": 10.0
     },
     "AmbientEmitters": [
@@ -3927,22 +3927,22 @@
     "Flags1": "0x00000000",
     "Flags2": "0x00000000",
     "OuterPosition": {
-      "X": -325.2898,
+      "X": -325.28983,
       "Y": 3031.357,
       "Z": 20.0
     },
     "OuterSize": {
-      "X": 391.3627,
+      "X": 391.36267,
       "Y": 904.9836,
       "Z": 36.0
     },
     "InnerPosition": {
-      "X": -325.2898,
+      "X": -325.28983,
       "Y": 3031.357,
       "Z": 14.0
     },
     "InnerSize": {
-      "X": 304.3627,
+      "X": 304.36267,
       "Y": 817.9836,
       "Z": 10.0
     },
@@ -5242,8 +5242,8 @@
     "Flags1": "0x00000000",
     "Flags2": "0x00000000",
     "OuterPosition": {
-      "X": -1481.881,
-      "Y": 2408.217,
+      "X": -1481.8812,
+      "Y": 2408.2173,
       "Z": 5.283079
     },
     "OuterSize": {
@@ -5252,7 +5252,7 @@
       "Z": 156.4
     },
     "InnerPosition": {
-      "X": -1474.782,
+      "X": -1474.7821,
       "Y": 2387.665,
       "Z": 6.301359
     },
@@ -5272,8 +5272,8 @@
     "Flags1": "0x00000000",
     "Flags2": "0x00000000",
     "OuterPosition": {
-      "X": -1424.09,
-      "Y": 2220.952,
+      "X": -1424.0905,
+      "Y": 2220.9524,
       "Z": 21.83643
     },
     "OuterSize": {
@@ -5282,8 +5282,8 @@
       "Z": 156.4
     },
     "InnerPosition": {
-      "X": -1424.09,
-      "Y": 2220.952,
+      "X": -1424.0905,
+      "Y": 2220.9524,
       "Z": 21.83643
     },
     "InnerSize": {
@@ -5303,8 +5303,8 @@
     "Flags2": "0x00000000",
     "OuterPosition": {
       "X": -1415.937,
-      "Y": 2174.192,
-      "Z": 25.61035
+      "Y": 2174.1917,
+      "Z": 25.610346
     },
     "OuterSize": {
       "X": 200.0,
@@ -5313,8 +5313,8 @@
     },
     "InnerPosition": {
       "X": -1415.937,
-      "Y": 2174.192,
-      "Z": 25.61035
+      "Y": 2174.1917,
+      "Z": 25.610346
     },
     "InnerSize": {
       "X": 20.0,
@@ -5332,8 +5332,8 @@
     "Flags1": "0x00000000",
     "Flags2": "0x00000000",
     "OuterPosition": {
-      "X": -1439.648,
-      "Y": 2121.888,
+      "X": -1439.6481,
+      "Y": 2121.8877,
       "Z": 36.17527
     },
     "OuterSize": {
@@ -5342,8 +5342,8 @@
       "Z": 171.49
     },
     "InnerPosition": {
-      "X": -1439.648,
-      "Y": 2121.888,
+      "X": -1439.6481,
+      "Y": 2121.8877,
       "Z": 36.17527
     },
     "InnerSize": {
@@ -5362,9 +5362,9 @@
     "Flags1": "0x00000000",
     "Flags2": "0x00000000",
     "OuterPosition": {
-      "X": -1451.827,
-      "Y": 2089.822,
-      "Z": 48.1464
+      "X": -1451.8274,
+      "Y": 2089.8218,
+      "Z": 48.146397
     },
     "OuterSize": {
       "X": 300.0,
@@ -5372,9 +5372,9 @@
       "Z": 171.49
     },
     "InnerPosition": {
-      "X": -1451.827,
-      "Y": 2089.822,
-      "Z": 48.1464
+      "X": -1451.8274,
+      "Y": 2089.8218,
+      "Z": 48.146397
     },
     "InnerSize": {
       "X": 6.12,
@@ -5392,8 +5392,8 @@
     "Flags1": "0x00000000",
     "Flags2": "0x00000000",
     "OuterPosition": {
-      "X": -1470.182,
-      "Y": 1954.234,
+      "X": -1470.1819,
+      "Y": 1954.2338,
       "Z": 60.69822
     },
     "OuterSize": {
@@ -5402,9 +5402,9 @@
       "Z": 156.4
     },
     "InnerPosition": {
-      "X": -1469.768,
-      "Y": 1946.905,
-      "Z": 63.52081
+      "X": -1469.7677,
+      "Y": 1946.9049,
+      "Z": 63.520813
     },
     "InnerSize": {
       "X": 36.33,
@@ -5422,8 +5422,8 @@
     "Flags1": "0x00000000",
     "Flags2": "0x00000000",
     "OuterPosition": {
-      "X": -1493.322,
-      "Y": 1799.886,
+      "X": -1493.3224,
+      "Y": 1799.8857,
       "Z": 82.9347
     },
     "OuterSize": {
@@ -5432,8 +5432,8 @@
       "Z": 156.4
     },
     "InnerPosition": {
-      "X": -1493.322,
-      "Y": 1799.886,
+      "X": -1493.3224,
+      "Y": 1799.8857,
       "Z": 82.9347
     },
     "InnerSize": {
@@ -5452,8 +5452,8 @@
     "Flags1": "0x00000000",
     "Flags2": "0x00000000",
     "OuterPosition": {
-      "X": -1493.322,
-      "Y": 1799.886,
+      "X": -1493.3224,
+      "Y": 1799.8857,
       "Z": 82.9347
     },
     "OuterSize": {
@@ -5462,8 +5462,8 @@
       "Z": 156.4
     },
     "InnerPosition": {
-      "X": -1511.985,
-      "Y": 1767.439,
+      "X": -1511.9852,
+      "Y": 1767.4386,
       "Z": 84.26415
     },
     "InnerSize": {
@@ -5482,9 +5482,9 @@
     "Flags1": "0x00000000",
     "Flags2": "0x00000000",
     "OuterPosition": {
-      "X": -1547.908,
-      "Y": 1690.342,
-      "Z": 97.0098
+      "X": -1547.9077,
+      "Y": 1690.3416,
+      "Z": 97.009796
     },
     "OuterSize": {
       "X": 300.0,
@@ -5492,9 +5492,9 @@
       "Z": 171.49
     },
     "InnerPosition": {
-      "X": -1547.908,
-      "Y": 1690.342,
-      "Z": 97.0098
+      "X": -1547.9077,
+      "Y": 1690.3416,
+      "Z": 97.009796
     },
     "InnerSize": {
       "X": 6.12,
@@ -5512,9 +5512,9 @@
     "Flags1": "0x00000000",
     "Flags2": "0x00000000",
     "OuterPosition": {
-      "X": -1539.199,
-      "Y": 1459.027,
-      "Z": 114.2585
+      "X": -1539.1986,
+      "Y": 1459.0271,
+      "Z": 114.25846
     },
     "OuterSize": {
       "X": 300.0,
@@ -5522,9 +5522,9 @@
       "Z": 171.49
     },
     "InnerPosition": {
-      "X": -1539.199,
-      "Y": 1459.027,
-      "Z": 114.2585
+      "X": -1539.1986,
+      "Y": 1459.0271,
+      "Z": 114.25846
     },
     "InnerSize": {
       "X": 6.12,
@@ -5542,9 +5542,9 @@
     "Flags1": "0x00000000",
     "Flags2": "0x00000000",
     "OuterPosition": {
-      "X": -1465.881,
-      "Y": 2238.217,
-      "Z": 22.40174
+      "X": -1465.8807,
+      "Y": 2238.2166,
+      "Z": 22.401735
     },
     "OuterSize": {
       "X": 300.0,
@@ -5552,9 +5552,9 @@
       "Z": 171.49
     },
     "InnerPosition": {
-      "X": -1465.881,
-      "Y": 2238.217,
-      "Z": 22.40174
+      "X": -1465.8807,
+      "Y": 2238.2166,
+      "Z": 22.401735
     },
     "InnerSize": {
       "X": 6.12,
@@ -5572,9 +5572,9 @@
     "Flags1": "0x00000000",
     "Flags2": "0x00000000",
     "OuterPosition": {
-      "X": -1514.351,
-      "Y": 1669.76,
-      "Z": 105.6125
+      "X": -1514.3508,
+      "Y": 1669.7598,
+      "Z": 105.61255
     },
     "OuterSize": {
       "X": 200.0,
@@ -5582,8 +5582,8 @@
       "Z": 156.4
     },
     "InnerPosition": {
-      "X": -1529.636,
-      "Y": 1670.48,
+      "X": -1529.6357,
+      "Y": 1670.4801,
       "Z": 95.96924
     },
     "InnerSize": {
@@ -5602,7 +5602,7 @@
     "Flags1": "0x00000000",
     "Flags2": "0x00000000",
     "OuterPosition": {
-      "X": -1508.08,
+      "X": -1508.0796,
       "Y": 1610.92,
       "Z": 109.9901
     },
@@ -5612,9 +5612,9 @@
       "Z": 156.4
     },
     "InnerPosition": {
-      "X": -1522.54,
-      "Y": 1611.84,
-      "Z": 103.8222
+      "X": -1522.5396,
+      "Y": 1611.8398,
+      "Z": 103.822235
     },
     "InnerSize": {
       "X": 36.33,
@@ -5633,8 +5633,8 @@
     "Flags2": "0x00000000",
     "OuterPosition": {
       "X": -1415.937,
-      "Y": 2174.192,
-      "Z": 25.61035
+      "Y": 2174.1917,
+      "Z": 25.610346
     },
     "OuterSize": {
       "X": 200.0,
@@ -5642,9 +5642,9 @@
       "Z": 156.4
     },
     "InnerPosition": {
-      "X": -1425.737,
-      "Y": 2153.922,
-      "Z": 32.53313
+      "X": -1425.7372,
+      "Y": 2153.9219,
+      "Z": 32.533134
     },
     "InnerSize": {
       "X": 15.0,
@@ -5662,7 +5662,7 @@
     "Flags1": "0x00000000",
     "Flags2": "0x00000000",
     "OuterPosition": {
-      "X": -1508.08,
+      "X": -1508.0796,
       "Y": 1550.92,
       "Z": 109.9901
     },
@@ -5672,9 +5672,9 @@
       "Z": 156.4
     },
     "InnerPosition": {
-      "X": -1507.364,
-      "Y": 1558.322,
-      "Z": 109.4013
+      "X": -1507.3639,
+      "Y": 1558.3219,
+      "Z": 109.40132
     },
     "InnerSize": {
       "X": 36.33,
@@ -5692,8 +5692,8 @@
     "Flags1": "0x00000000",
     "Flags2": "0x00000000",
     "OuterPosition": {
-      "X": -1470.182,
-      "Y": 1954.234,
+      "X": -1470.1819,
+      "Y": 1954.2338,
       "Z": 60.69822
     },
     "OuterSize": {
@@ -5702,8 +5702,8 @@
       "Z": 156.4
     },
     "InnerPosition": {
-      "X": -1463.692,
-      "Y": 1892.612,
+      "X": -1463.6924,
+      "Y": 1892.6117,
       "Z": 69.63128
     },
     "InnerSize": {
@@ -6126,8 +6126,8 @@
     "Flags2": "0x00000000",
     "OuterPosition": {
       "X": 83.9189,
-      "Y": 3243.618,
-      "Z": 28.41196
+      "Y": 3243.6177,
+      "Z": 28.411957
     },
     "OuterSize": {
       "X": 200.0,
@@ -6136,8 +6136,8 @@
     },
     "InnerPosition": {
       "X": 83.9189,
-      "Y": 3243.618,
-      "Z": 28.41196
+      "Y": 3243.6177,
+      "Z": 28.411957
     },
     "InnerSize": {
       "X": 55.0,
@@ -6897,9 +6897,9 @@
     "Flags1": "0x00000000",
     "Flags2": "0x00000000",
     "OuterPosition": {
-      "X": 136.2521,
-      "Y": -749.5593,
-      "Z": 266.1401
+      "X": 136.25212,
+      "Y": -749.55927,
+      "Z": 266.14014
     },
     "OuterSize": {
       "X": 100.0,
@@ -6907,9 +6907,9 @@
       "Z": 100.0
     },
     "InnerPosition": {
-      "X": 136.2521,
-      "Y": -749.5593,
-      "Z": 266.1401
+      "X": 136.25212,
+      "Y": -749.55927,
+      "Z": 266.14014
     },
     "InnerSize": {
       "X": 60.0,
@@ -7161,7 +7161,7 @@
     "InnerPosition": {
       "X": -159.8841,
       "Y": -983.0037,
-      "Z": 269.8296
+      "Z": 269.82956
     },
     "InnerSize": {
       "X": 100.0,
@@ -7177,9 +7177,9 @@
     "Flags1": "0x00000000",
     "Flags2": "0x00000000",
     "OuterPosition": {
-      "X": -1230.275,
+      "X": -1230.2747,
       "Y": 4566.511,
-      "Z": 188.9451
+      "Z": 188.94514
     },
     "OuterSize": {
       "X": 150.0,
@@ -7187,9 +7187,9 @@
       "Z": 100.0
     },
     "InnerPosition": {
-      "X": -1230.275,
+      "X": -1230.2747,
       "Y": 4566.511,
-      "Z": 188.9451
+      "Z": 188.94514
     },
     "InnerSize": {
       "X": 100.0,
@@ -7205,9 +7205,9 @@
     "Flags1": "0x00000000",
     "Flags2": "0x00000000",
     "OuterPosition": {
-      "X": -778.9846,
+      "X": -778.98456,
       "Y": 333.2523,
-      "Z": 241.3087
+      "Z": 241.30872
     },
     "OuterSize": {
       "X": 100.0,
@@ -7215,9 +7215,9 @@
       "Z": 100.0
     },
     "InnerPosition": {
-      "X": -778.9846,
+      "X": -778.98456,
       "Y": 333.2523,
-      "Z": 241.3087
+      "Z": 241.30872
     },
     "InnerSize": {
       "X": 70.0,
@@ -7235,7 +7235,7 @@
     "OuterPosition": {
       "X": -765.9107,
       "Y": 4336.249,
-      "Z": 147.4691
+      "Z": 147.46906
     },
     "OuterSize": {
       "X": 75.0,
@@ -7245,7 +7245,7 @@
     "InnerPosition": {
       "X": -765.9107,
       "Y": 4336.249,
-      "Z": 147.4691
+      "Z": 147.46906
     },
     "InnerSize": {
       "X": 50.0,
@@ -7262,7 +7262,7 @@
     "Flags2": "0x00000000",
     "OuterPosition": {
       "X": 411.6489,
-      "Y": 5702.526,
+      "Y": 5702.5264,
       "Z": 697.7377
     },
     "OuterSize": {
@@ -7272,7 +7272,7 @@
     },
     "InnerPosition": {
       "X": 411.6489,
-      "Y": 5702.526,
+      "Y": 5702.5264,
       "Z": 697.7377
     },
     "InnerSize": {
@@ -7839,8 +7839,8 @@
       "Z": 20.0
     },
     "InnerPosition": {
-      "X": 3110.793,
-      "Y": 5546.252,
+      "X": 3110.7935,
+      "Y": 5546.2524,
       "Z": 191.0535
     },
     "InnerSize": {
@@ -7869,8 +7869,8 @@
       "Z": 20.0
     },
     "InnerPosition": {
-      "X": 3110.793,
-      "Y": 5546.252,
+      "X": 3110.7935,
+      "Y": 5546.2524,
       "Z": 191.0535
     },
     "InnerSize": {
@@ -10324,7 +10324,7 @@
     "Flags2": "0x00000000",
     "OuterPosition": {
       "X": 737.2523,
-      "Y": 2578.614,
+      "Y": 2578.6138,
       "Z": 100.0
     },
     "OuterSize": {
@@ -10334,7 +10334,7 @@
     },
     "InnerPosition": {
       "X": 753.1417,
-      "Y": 2581.553,
+      "Y": 2581.5532,
       "Z": 157.6403
     },
     "InnerSize": {
@@ -10962,7 +10962,7 @@
     "Flags2": "0x00000000",
     "OuterPosition": {
       "X": -564.5446,
-      "Y": 5370.895,
+      "Y": 5370.8945,
       "Z": 69.2151
     },
     "OuterSize": {
@@ -10972,7 +10972,7 @@
     },
     "InnerPosition": {
       "X": -564.5446,
-      "Y": 5370.895,
+      "Y": 5370.8945,
       "Z": 69.2151
     },
     "InnerSize": {
@@ -32762,7 +32762,7 @@
     "Flags1": "0x00000000",
     "Flags2": "0x00000000",
     "OuterPosition": {
-      "X": 3161.202,
+      "X": 3161.2024,
       "Y": -276.3214,
       "Z": -15.4357
     },
@@ -32772,7 +32772,7 @@
       "Z": 250.0
     },
     "InnerPosition": {
-      "X": 3161.202,
+      "X": 3161.2024,
       "Y": -276.3214,
       "Z": -15.4357
     },
@@ -35863,693 +35863,6 @@
       "pr_dlc_aw_iz_xs_x18_int_mod_arena_garage_ac_03",
       "pr_dlc_aw_iz_xs_x18_int_mod_arena_garage_ac_04",
       "pr_dlc_aw_iz_xs_x18_int_mod_arena_garage_ac_01"
-    ]
-  },
-  {
-    "Name": "az_ch_dlc_arcade_office_area",
-    "Shape": "Box",
-    "Flags0": "0xAA800424",
-    "Flags1": "0x00000000",
-    "Flags2": "0x00000000",
-    "OuterPosition": {
-      "X": 2725.02,
-      "Y": -370.15,
-      "Z": -45.73
-    },
-    "OuterSize": {
-      "X": 9.11,
-      "Y": 17.49,
-      "Z": 12.0
-    },
-    "InnerPosition": {
-      "X": 2724.99,
-      "Y": -371.83,
-      "Z": -43.02
-    },
-    "InnerSize": {
-      "X": 9.05,
-      "Y": 14.05,
-      "Z": 14.0
-    },
-    "AmbientEmitters": null
-  },
-  {
-    "Name": "az_ch_dlc_arcade_entrance_area",
-    "Shape": "Box",
-    "Flags0": "0xAA800424",
-    "Flags1": "0x00000000",
-    "Flags2": "0x00000000",
-    "OuterPosition": {
-      "X": 2738.12,
-      "Y": -374.85,
-      "Z": -46.81
-    },
-    "OuterSize": {
-      "X": 2.42,
-      "Y": 6.49,
-      "Z": 12.0
-    },
-    "InnerPosition": {
-      "X": 2737.8,
-      "Y": -374.79,
-      "Z": -47.81
-    },
-    "InnerSize": {
-      "X": 2.35,
-      "Y": 3.05,
-      "Z": 5.0
-    },
-    "AmbientEmitters": null
-  },
-  {
-    "Name": "az_ch_dlc_arcade_stairs_and_basement",
-    "Shape": "Box",
-    "Flags0": "0xAA800424",
-    "Flags1": "0x00000000",
-    "Flags2": "0x00000000",
-    "OuterPosition": {
-      "X": 2725.45,
-      "Y": -357.83,
-      "Z": -52.45
-    },
-    "OuterSize": {
-      "X": 6.49,
-      "Y": 24.57,
-      "Z": 15.67
-    },
-    "InnerPosition": {
-      "X": 2727.58,
-      "Y": -361.34,
-      "Z": -51.9
-    },
-    "InnerSize": {
-      "X": 3.53,
-      "Y": 7.86,
-      "Z": 9.41
-    },
-    "AmbientEmitters": null
-  },
-  {
-    "Name": "iz_ch_dlc_casino_back_waste_3_rm",
-    "Shape": "Box",
-    "Flags0": "0xAA800425",
-    "Flags1": "0x00000000",
-    "Flags2": "0x00000000",
-    "OuterPosition": {
-      "X": 2543.09,
-      "Y": -214.69,
-      "Z": -59.22
-    },
-    "OuterSize": {
-      "X": 6.82,
-      "Y": 7.13,
-      "Z": 6.22
-    },
-    "InnerPosition": {
-      "X": 2543.09,
-      "Y": -214.69,
-      "Z": -59.22
-    },
-    "InnerSize": {
-      "X": 6.82,
-      "Y": 7.13,
-      "Z": 6.22
-    },
-    "AmbientEmitters": [
-      "hash_26BFCD02",
-      "pr_ch_dlc_casino_back_waste_3_rm_buzzing"
-    ]
-  },
-  {
-    "Name": "iz_ch_dlc_casino_back_corridor_3_rm",
-    "Shape": "Box",
-    "Flags0": "0xAA800425",
-    "Flags1": "0x00000000",
-    "Flags2": "0x00000000",
-    "OuterPosition": {
-      "X": 2547.85,
-      "Y": -229.71,
-      "Z": -59.44
-    },
-    "OuterSize": {
-      "X": 7.75,
-      "Y": 34.16,
-      "Z": 5.79
-    },
-    "InnerPosition": {
-      "X": 2547.85,
-      "Y": -229.71,
-      "Z": -59.44
-    },
-    "InnerSize": {
-      "X": 7.75,
-      "Y": 34.16,
-      "Z": 5.79
-    },
-    "AmbientEmitters": [
-      "hash_26BFCD02"
-    ]
-  },
-  {
-    "Name": "iz_ch_dlc_casino_back_waste_1_rm",
-    "Shape": "Box",
-    "Flags0": "0xAA800425",
-    "Flags1": "0x00000000",
-    "Flags2": "0x00000000",
-    "OuterPosition": {
-      "X": 2544.07,
-      "Y": -252.29,
-      "Z": -59.09
-    },
-    "OuterSize": {
-      "X": 10.56,
-      "Y": 13.89,
-      "Z": 6.49
-    },
-    "InnerPosition": {
-      "X": 2544.07,
-      "Y": -257.29,
-      "Z": -59.09
-    },
-    "InnerSize": {
-      "X": 10.56,
-      "Y": 13.89,
-      "Z": 6.49
-    },
-    "AmbientEmitters": [
-      "hash_26BFCD02",
-      "pr_ch_dlc_casino_back_waste_1_rm_buzzing"
-    ]
-  },
-  {
-    "Name": "iz_ch_dlc_casino_back_security_rm",
-    "Shape": "Box",
-    "Flags0": "0xAA800425",
-    "Flags1": "0x00000000",
-    "Flags2": "0x00000000",
-    "OuterPosition": {
-      "X": 2534.51,
-      "Y": -278.13,
-      "Z": -58.48
-    },
-    "OuterSize": {
-      "X": 21.54,
-      "Y": 13.63,
-      "Z": 4.15
-    },
-    "InnerPosition": {
-      "X": 2534.51,
-      "Y": -278.13,
-      "Z": -58.48
-    },
-    "InnerSize": {
-      "X": 21.54,
-      "Y": 13.63,
-      "Z": 4.15
-    },
-    "AmbientEmitters": [
-      "pr_ch_dlc_casino_back_security_rm_computers_01",
-      "pr_ch_dlc_casino_back_security_rm_computers_02",
-      "pr_ch_dlc_casino_back_security_rm_computers_scrambler",
-      "pr_ch_dlc_casino_back_security_rm_computers_03",
-      "pr_ch_dlc_casino_back_security_rm_computers_04",
-      "pr_ch_dlc_casino_back_security_rm_computers_alarms",
-      "pr_ch_dlc_casino_back_security_rm_computers_alarms"
-    ]
-  },
-  {
-    "Name": "iz_ch_dlc_casino_back_laundry_rm",
-    "Shape": "Box",
-    "Flags0": "0xAA800425",
-    "Flags1": "0x00000000",
-    "Flags2": "0x00000000",
-    "OuterPosition": {
-      "X": 2536.83,
-      "Y": -298.3,
-      "Z": -58.31
-    },
-    "OuterSize": {
-      "X": 16.36,
-      "Y": 9.82,
-      "Z": 4.48
-    },
-    "InnerPosition": {
-      "X": 2536.83,
-      "Y": -298.3,
-      "Z": -58.31
-    },
-    "InnerSize": {
-      "X": 16.36,
-      "Y": 9.82,
-      "Z": 4.48
-    },
-    "AmbientEmitters": [
-      "pr_ch_dlc_casino_back_laundry_rm_rumble"
-    ]
-  },
-  {
-    "Name": "iz_ch_dlc_casino_heist_rm_gamingfloor_01",
-    "Shape": "Box",
-    "Flags0": "0xAA800421",
-    "Flags1": "0x00000000",
-    "Flags2": "0x00000000",
-    "OuterPosition": {
-      "X": 2480.84,
-      "Y": -278.91,
-      "Z": -56.87
-    },
-    "OuterSize": {
-      "X": 40.32,
-      "Y": 49.47,
-      "Z": 6.76
-    },
-    "InnerPosition": {
-      "X": 2480.84,
-      "Y": -278.91,
-      "Z": -56.87
-    },
-    "InnerSize": {
-      "X": 40.32,
-      "Y": 49.47,
-      "Z": 6.76
-    },
-    "AmbientEmitters": [
-      "pr_dlc_h3_slot_machine_effects_gf_01_01",
-      "pr_dlc_h3_slot_machine_effects_gf_01_02",
-      "pr_dlc_h3_slot_machine_effects_gf_01_03"
-    ]
-  },
-  {
-    "Name": "iz_ch_dlc_casino_heist_rm_gamingfloor_02",
-    "Shape": "Box",
-    "Flags0": "0xAA800421",
-    "Flags1": "0x00000000",
-    "Flags2": "0x00000000",
-    "OuterPosition": {
-      "X": 2518.42,
-      "Y": -236.78,
-      "Z": -58.3
-    },
-    "OuterSize": {
-      "X": 33.68,
-      "Y": 33.71,
-      "Z": 7.9
-    },
-    "InnerPosition": {
-      "X": 2518.42,
-      "Y": -236.78,
-      "Z": -58.3
-    },
-    "InnerSize": {
-      "X": 33.68,
-      "Y": 33.71,
-      "Z": 7.9
-    },
-    "AmbientEmitters": [
-      "pr_dlc_h3_slot_machine_effects_gf_03_01",
-      "pr_dlc_h3_slot_machine_effects_gf_03_02",
-      "pr_dlc_h3_slot_machine_effects_gf_03_03"
-    ]
-  },
-  {
-    "Name": "iz_ch_dlc_casino_loading_office_rm",
-    "Shape": "Box",
-    "Flags0": "0xAA800425",
-    "Flags1": "0x00000000",
-    "Flags2": "0x00000000",
-    "OuterPosition": {
-      "X": 2552.54,
-      "Y": -289.44,
-      "Z": -64.45
-    },
-    "OuterSize": {
-      "X": 10.53,
-      "Y": 8.39,
-      "Z": 2.85
-    },
-    "InnerPosition": {
-      "X": 2552.54,
-      "Y": -289.44,
-      "Z": -64.45
-    },
-    "InnerSize": {
-      "X": 10.53,
-      "Y": 8.39,
-      "Z": 2.85
-    },
-    "AmbientEmitters": [
-      "pr_ch_dlc_casino_loading_office_rm_computer_01",
-      "pr_ch_dlc_casino_loading_office_rm_computer_02",
-      "pr_ch_dlc_casino_loading_office_rm_computer_03"
-    ]
-  },
-  {
-    "Name": "iz_ch_dlc_casino_utility_stairs_rm",
-    "Shape": "Box",
-    "Flags0": "0xAA800425",
-    "Flags1": "0x00000000",
-    "Flags2": "0x00000000",
-    "OuterPosition": {
-      "X": 2527.61,
-      "Y": -253.11,
-      "Z": -31.33
-    },
-    "OuterSize": {
-      "X": 6.43,
-      "Y": 18.16,
-      "Z": 17.87
-    },
-    "InnerPosition": {
-      "X": 2527.61,
-      "Y": -253.11,
-      "Z": -31.33
-    },
-    "InnerSize": {
-      "X": 6.43,
-      "Y": 18.16,
-      "Z": 17.87
-    },
-    "AmbientEmitters": [
-      "ar_dlc_ch_casino_electrical_room_extra_ac",
-      "ar_dlc_ch_casino_electrical_room_hum"
-    ]
-  },
-  {
-    "Name": "iz_ch_dlc_casino_utility_main_rm",
-    "Shape": "Box",
-    "Flags0": "0xAA800425",
-    "Flags1": "0x00000000",
-    "Flags2": "0x00000000",
-    "OuterPosition": {
-      "X": 2520.28,
-      "Y": -254.24,
-      "Z": -26.87
-    },
-    "OuterSize": {
-      "X": 15.07,
-      "Y": 21.88,
-      "Z": 8.65
-    },
-    "InnerPosition": {
-      "X": 2520.28,
-      "Y": -254.24,
-      "Z": -26.87
-    },
-    "InnerSize": {
-      "X": 15.07,
-      "Y": 21.88,
-      "Z": 8.65
-    },
-    "AmbientEmitters": [
-      "pr_dlc_ch_casino_utility_rm_electrical_boxes",
-      "pr_dlc_ch_casino_utility_rm_lift_a",
-      "pr_dlc_ch_casino_utility_rm_lift_b",
-      "ar_dlc_ch_casino_utility_room_bass",
-      "pr_dlc_ch_casino_utility_rm_machinery_a",
-      "pr_dlc_ch_casino_utility_rm_machinery_b"
-    ]
-  },
-  {
-    "Name": "iz_ch_dlc_casino_vault_main_rm",
-    "Shape": "Box",
-    "Flags0": "0xAA800425",
-    "Flags1": "0x00000000",
-    "Flags2": "0x00000000",
-    "OuterPosition": {
-      "X": 2479.41,
-      "Y": -266.92,
-      "Z": -70.19
-    },
-    "OuterSize": {
-      "X": 30.66,
-      "Y": 37.58,
-      "Z": 4.89
-    },
-    "InnerPosition": {
-      "X": 2479.41,
-      "Y": -266.92,
-      "Z": -70.19
-    },
-    "InnerSize": {
-      "X": 30.66,
-      "Y": 37.58,
-      "Z": 4.89
-    },
-    "AmbientEmitters": [
-      "pr_ch_dlc_casino_vault_main_rm_ac_unit",
-      "pr_ch_dlc_casino_vault_main_rm_ac_unit_02",
-      "pr_ch_dlc_casino_vault_main_rm_ac_unit_03",
-      "pr_ch_dlc_casino_vault_security_room_computer_01",
-      "pr_ch_dlc_casino_vault_security_room_tone"
-    ]
-  },
-  {
-    "Name": "iz_ch_dlc_casino_vault_storage_rm",
-    "Shape": "Box",
-    "Flags0": "0xAA800425",
-    "Flags1": "0x00000000",
-    "Flags2": "0x00000000",
-    "OuterPosition": {
-      "X": 2516.88,
-      "Y": -278.97,
-      "Z": -70.08
-    },
-    "OuterSize": {
-      "X": 44.86,
-      "Y": 14.05,
-      "Z": 4.66
-    },
-    "InnerPosition": {
-      "X": 2516.88,
-      "Y": -278.97,
-      "Z": -70.08
-    },
-    "InnerSize": {
-      "X": 44.86,
-      "Y": 14.05,
-      "Z": 4.66
-    },
-    "AmbientEmitters": [
-      "pr_ch_dlc_casino_vault_storage_rm_ac_unit_01",
-      "pr_ch_dlc_casino_vault_storage_rm_ac_unit_02",
-      "pr_ch_dlc_casino_vault_storage_rm_ac_unit_03",
-      "pr_ch_dlc_casino_vault_storage_rm_ac_unit_04"
-    ]
-  },
-  {
-    "Name": "iz_ch_dlc_tunnel_main_rm",
-    "Shape": "Box",
-    "Flags0": "0xAA800425",
-    "Flags1": "0x00000000",
-    "Flags2": "0x00000000",
-    "OuterPosition": {
-      "X": 2507.29,
-      "Y": -310.69,
-      "Z": -70.0
-    },
-    "OuterSize": {
-      "X": 57.81,
-      "Y": 37.42,
-      "Z": 3.42
-    },
-    "InnerPosition": {
-      "X": 2507.29,
-      "Y": -310.69,
-      "Z": -70.0
-    },
-    "InnerSize": {
-      "X": 57.81,
-      "Y": 37.42,
-      "Z": 3.42
-    },
-    "AmbientEmitters": [
-      "pr_ch_dlc_tunnel_main_rm_dripping",
-      "pr_ch_dlc_tunnel_main_rm_dripping_02",
-      "hash_D9DEC33C",
-      "hash_6CBEDA84",
-      "pr_ch_dlc_tunnel_main_rm_entrance_wind"
-    ]
-  },
-  {
-    "Name": "az_dlc_ch_plan_drone_station",
-    "Shape": "Box",
-    "Flags0": "0xAA800420",
-    "Flags1": "0x00000000",
-    "Flags2": "0x00000000",
-    "OuterPosition": {
-      "X": 2695.36,
-      "Y": -369.47,
-      "Z": -54.87
-    },
-    "OuterSize": {
-      "X": 16.07,
-      "Y": 15.64,
-      "Z": 7.0
-    },
-    "InnerPosition": {
-      "X": 2695.52,
-      "Y": -369.46,
-      "Z": -54.87
-    },
-    "InnerSize": {
-      "X": 1.37,
-      "Y": 1.07,
-      "Z": 2.0
-    },
-    "AmbientEmitters": [
-      "ar_dlc_ch_plan_drone_station_hum"
-    ]
-  },
-  {
-    "Name": "az_dlc_ch_plan_master_control",
-    "Shape": "Box",
-    "Flags0": "0xAA800420",
-    "Flags1": "0x00000000",
-    "Flags2": "0x00000000",
-    "OuterPosition": {
-      "X": 2717.03,
-      "Y": -361.72,
-      "Z": -53.3
-    },
-    "OuterSize": {
-      "X": 18.34,
-      "Y": 8.65,
-      "Z": 5.0
-    },
-    "InnerPosition": {
-      "X": 2719.67,
-      "Y": -364.02,
-      "Z": -53.3
-    },
-    "InnerSize": {
-      "X": 4.56,
-      "Y": 0.79,
-      "Z": 2.0
-    },
-    "AmbientEmitters": [
-      "ar_dlc_ch_plan_master_control_hum",
-      "pr_dlc_ch_plan_master_control_terminal_01",
-      "pr_dlc_ch_plan_master_control_terminal_02",
-      "pr_dlc_ch_plan_master_control_terminal_03"
-    ]
-  },
-  {
-    "Name": "iz_ch_dlc_plan_main_rm",
-    "Shape": "Box",
-    "Flags0": "0xAA800425",
-    "Flags1": "0x00000000",
-    "Flags2": "0x00000000",
-    "OuterPosition": {
-      "X": 2702.48,
-      "Y": -375.77,
-      "Z": -53.35
-    },
-    "OuterSize": {
-      "X": 51.12,
-      "Y": 48.53,
-      "Z": 8.85
-    },
-    "InnerPosition": {
-      "X": 2702.48,
-      "Y": -375.77,
-      "Z": -53.35
-    },
-    "InnerSize": {
-      "X": 51.12,
-      "Y": 48.53,
-      "Z": 8.85
-    },
-    "AmbientEmitters": null
-  },
-  {
-    "Name": "az_dlc_ch_plan_hacker_area",
-    "Shape": "Box",
-    "Flags0": "0xAA800420",
-    "Flags1": "0x00000000",
-    "Flags2": "0x00000000",
-    "OuterPosition": {
-      "X": 2712.47,
-      "Y": -356.46,
-      "Z": -54.69
-    },
-    "OuterSize": {
-      "X": 8.71,
-      "Y": 9.32,
-      "Z": 5.0
-    },
-    "InnerPosition": {
-      "X": 2712.44,
-      "Y": -352.44,
-      "Z": -54.69
-    },
-    "InnerSize": {
-      "X": 3.84,
-      "Y": 0.68,
-      "Z": 2.0
-    },
-    "AmbientEmitters": [
-      "ar_dlc_ch_plan_hacker_terminal_hum",
-      "pr_dlc_ch_plan_hacker_terminal_01"
-    ]
-  },
-  {
-    "Name": "az_h3_casino_alarm_zone_01_exterior",
-    "Shape": "Sphere",
-    "Flags0": "0xAA800420",
-    "Flags1": "0x00000000",
-    "Flags2": "0x00000000",
-    "OuterPosition": {
-      "X": 955.0,
-      "Y": 35.0,
-      "Z": 85.0
-    },
-    "OuterSize": {
-      "X": 1000.0,
-      "Y": 1000.0,
-      "Z": 1000.0
-    },
-    "InnerPosition": {
-      "X": 955.0,
-      "Y": 35.0,
-      "Z": 85.0
-    },
-    "InnerSize": {
-      "X": 250.0,
-      "Y": 250.0,
-      "Z": 250.0
-    },
-    "AmbientEmitters": [
-      "pr_h3_casino_alarm_zone_01_exterior_main_alarm"
-    ]
-  },
-  {
-    "Name": "az_h3_casino_alarm_zone_02_interior",
-    "Shape": "Sphere",
-    "Flags0": "0xAA800420",
-    "Flags1": "0x00000000",
-    "Flags2": "0x00000000",
-    "OuterPosition": {
-      "X": 2500.0,
-      "Y": -256.0,
-      "Z": -60.0
-    },
-    "OuterSize": {
-      "X": 150.0,
-      "Y": 150.0,
-      "Z": 150.0
-    },
-    "InnerPosition": {
-      "X": 2500.0,
-      "Y": -256.0,
-      "Z": -60.0
-    },
-    "InnerSize": {
-      "X": 150.0,
-      "Y": 150.0,
-      "Z": 150.0
-    },
-    "AmbientEmitters": [
-      "pr_h3_casino_alarm_zone_02_interior_main_alarm"
     ]
   },
   {
@@ -40899,6 +40212,693 @@
     },
     "AmbientEmitters": [
       "hash_9F620074"
+    ]
+  },
+  {
+    "Name": "az_ch_dlc_arcade_office_area",
+    "Shape": "Box",
+    "Flags0": "0xAA800424",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 2725.02,
+      "Y": -370.15,
+      "Z": -45.73
+    },
+    "OuterSize": {
+      "X": 9.11,
+      "Y": 17.49,
+      "Z": 12.0
+    },
+    "InnerPosition": {
+      "X": 2724.99,
+      "Y": -371.83,
+      "Z": -43.02
+    },
+    "InnerSize": {
+      "X": 9.05,
+      "Y": 14.05,
+      "Z": 14.0
+    },
+    "AmbientEmitters": null
+  },
+  {
+    "Name": "az_ch_dlc_arcade_entrance_area",
+    "Shape": "Box",
+    "Flags0": "0xAA800424",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 2738.12,
+      "Y": -374.85,
+      "Z": -46.81
+    },
+    "OuterSize": {
+      "X": 2.42,
+      "Y": 6.49,
+      "Z": 12.0
+    },
+    "InnerPosition": {
+      "X": 2737.8,
+      "Y": -374.79,
+      "Z": -47.81
+    },
+    "InnerSize": {
+      "X": 2.35,
+      "Y": 3.05,
+      "Z": 5.0
+    },
+    "AmbientEmitters": null
+  },
+  {
+    "Name": "az_ch_dlc_arcade_stairs_and_basement",
+    "Shape": "Box",
+    "Flags0": "0xAA800424",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 2725.45,
+      "Y": -357.83,
+      "Z": -52.45
+    },
+    "OuterSize": {
+      "X": 6.49,
+      "Y": 24.57,
+      "Z": 15.67
+    },
+    "InnerPosition": {
+      "X": 2727.58,
+      "Y": -361.34,
+      "Z": -51.9
+    },
+    "InnerSize": {
+      "X": 3.53,
+      "Y": 7.86,
+      "Z": 9.41
+    },
+    "AmbientEmitters": null
+  },
+  {
+    "Name": "iz_ch_dlc_casino_back_waste_3_rm",
+    "Shape": "Box",
+    "Flags0": "0xAA800425",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 2543.09,
+      "Y": -214.69,
+      "Z": -59.22
+    },
+    "OuterSize": {
+      "X": 6.82,
+      "Y": 7.13,
+      "Z": 6.22
+    },
+    "InnerPosition": {
+      "X": 2543.09,
+      "Y": -214.69,
+      "Z": -59.22
+    },
+    "InnerSize": {
+      "X": 6.82,
+      "Y": 7.13,
+      "Z": 6.22
+    },
+    "AmbientEmitters": [
+      "hash_26BFCD02",
+      "pr_ch_dlc_casino_back_waste_3_rm_buzzing"
+    ]
+  },
+  {
+    "Name": "iz_ch_dlc_casino_back_corridor_3_rm",
+    "Shape": "Box",
+    "Flags0": "0xAA800425",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 2547.85,
+      "Y": -229.71,
+      "Z": -59.44
+    },
+    "OuterSize": {
+      "X": 7.75,
+      "Y": 34.16,
+      "Z": 5.79
+    },
+    "InnerPosition": {
+      "X": 2547.85,
+      "Y": -229.71,
+      "Z": -59.44
+    },
+    "InnerSize": {
+      "X": 7.75,
+      "Y": 34.16,
+      "Z": 5.79
+    },
+    "AmbientEmitters": [
+      "hash_26BFCD02"
+    ]
+  },
+  {
+    "Name": "iz_ch_dlc_casino_back_waste_1_rm",
+    "Shape": "Box",
+    "Flags0": "0xAA800425",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 2544.07,
+      "Y": -252.29,
+      "Z": -59.09
+    },
+    "OuterSize": {
+      "X": 10.56,
+      "Y": 13.89,
+      "Z": 6.49
+    },
+    "InnerPosition": {
+      "X": 2544.07,
+      "Y": -257.29,
+      "Z": -59.09
+    },
+    "InnerSize": {
+      "X": 10.56,
+      "Y": 13.89,
+      "Z": 6.49
+    },
+    "AmbientEmitters": [
+      "hash_26BFCD02",
+      "pr_ch_dlc_casino_back_waste_1_rm_buzzing"
+    ]
+  },
+  {
+    "Name": "iz_ch_dlc_casino_back_security_rm",
+    "Shape": "Box",
+    "Flags0": "0xAA800425",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 2534.51,
+      "Y": -278.13,
+      "Z": -58.48
+    },
+    "OuterSize": {
+      "X": 21.54,
+      "Y": 13.63,
+      "Z": 4.15
+    },
+    "InnerPosition": {
+      "X": 2534.51,
+      "Y": -278.13,
+      "Z": -58.48
+    },
+    "InnerSize": {
+      "X": 21.54,
+      "Y": 13.63,
+      "Z": 4.15
+    },
+    "AmbientEmitters": [
+      "pr_ch_dlc_casino_back_security_rm_computers_01",
+      "pr_ch_dlc_casino_back_security_rm_computers_02",
+      "pr_ch_dlc_casino_back_security_rm_computers_scrambler",
+      "pr_ch_dlc_casino_back_security_rm_computers_03",
+      "pr_ch_dlc_casino_back_security_rm_computers_04",
+      "pr_ch_dlc_casino_back_security_rm_computers_alarms",
+      "pr_ch_dlc_casino_back_security_rm_computers_alarms"
+    ]
+  },
+  {
+    "Name": "iz_ch_dlc_casino_back_laundry_rm",
+    "Shape": "Box",
+    "Flags0": "0xAA800425",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 2536.83,
+      "Y": -298.3,
+      "Z": -58.31
+    },
+    "OuterSize": {
+      "X": 16.36,
+      "Y": 9.82,
+      "Z": 4.48
+    },
+    "InnerPosition": {
+      "X": 2536.83,
+      "Y": -298.3,
+      "Z": -58.31
+    },
+    "InnerSize": {
+      "X": 16.36,
+      "Y": 9.82,
+      "Z": 4.48
+    },
+    "AmbientEmitters": [
+      "pr_ch_dlc_casino_back_laundry_rm_rumble"
+    ]
+  },
+  {
+    "Name": "iz_ch_dlc_casino_heist_rm_gamingfloor_01",
+    "Shape": "Box",
+    "Flags0": "0xAA800421",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 2480.84,
+      "Y": -278.91,
+      "Z": -56.87
+    },
+    "OuterSize": {
+      "X": 40.32,
+      "Y": 49.47,
+      "Z": 6.76
+    },
+    "InnerPosition": {
+      "X": 2480.84,
+      "Y": -278.91,
+      "Z": -56.87
+    },
+    "InnerSize": {
+      "X": 40.32,
+      "Y": 49.47,
+      "Z": 6.76
+    },
+    "AmbientEmitters": [
+      "pr_dlc_h3_slot_machine_effects_gf_01_01",
+      "pr_dlc_h3_slot_machine_effects_gf_01_02",
+      "pr_dlc_h3_slot_machine_effects_gf_01_03"
+    ]
+  },
+  {
+    "Name": "iz_ch_dlc_casino_heist_rm_gamingfloor_02",
+    "Shape": "Box",
+    "Flags0": "0xAA800421",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 2518.42,
+      "Y": -236.78,
+      "Z": -58.3
+    },
+    "OuterSize": {
+      "X": 33.68,
+      "Y": 33.71,
+      "Z": 7.9
+    },
+    "InnerPosition": {
+      "X": 2518.42,
+      "Y": -236.78,
+      "Z": -58.3
+    },
+    "InnerSize": {
+      "X": 33.68,
+      "Y": 33.71,
+      "Z": 7.9
+    },
+    "AmbientEmitters": [
+      "pr_dlc_h3_slot_machine_effects_gf_03_01",
+      "pr_dlc_h3_slot_machine_effects_gf_03_02",
+      "pr_dlc_h3_slot_machine_effects_gf_03_03"
+    ]
+  },
+  {
+    "Name": "iz_ch_dlc_casino_loading_office_rm",
+    "Shape": "Box",
+    "Flags0": "0xAA800425",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 2552.54,
+      "Y": -289.44,
+      "Z": -64.45
+    },
+    "OuterSize": {
+      "X": 10.53,
+      "Y": 8.39,
+      "Z": 2.85
+    },
+    "InnerPosition": {
+      "X": 2552.54,
+      "Y": -289.44,
+      "Z": -64.45
+    },
+    "InnerSize": {
+      "X": 10.53,
+      "Y": 8.39,
+      "Z": 2.85
+    },
+    "AmbientEmitters": [
+      "pr_ch_dlc_casino_loading_office_rm_computer_01",
+      "pr_ch_dlc_casino_loading_office_rm_computer_02",
+      "pr_ch_dlc_casino_loading_office_rm_computer_03"
+    ]
+  },
+  {
+    "Name": "iz_ch_dlc_casino_utility_stairs_rm",
+    "Shape": "Box",
+    "Flags0": "0xAA800425",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 2527.61,
+      "Y": -253.11,
+      "Z": -31.33
+    },
+    "OuterSize": {
+      "X": 6.43,
+      "Y": 18.16,
+      "Z": 17.87
+    },
+    "InnerPosition": {
+      "X": 2527.61,
+      "Y": -253.11,
+      "Z": -31.33
+    },
+    "InnerSize": {
+      "X": 6.43,
+      "Y": 18.16,
+      "Z": 17.87
+    },
+    "AmbientEmitters": [
+      "ar_dlc_ch_casino_electrical_room_extra_ac",
+      "ar_dlc_ch_casino_electrical_room_hum"
+    ]
+  },
+  {
+    "Name": "iz_ch_dlc_casino_utility_main_rm",
+    "Shape": "Box",
+    "Flags0": "0xAA800425",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 2520.28,
+      "Y": -254.24,
+      "Z": -26.87
+    },
+    "OuterSize": {
+      "X": 15.07,
+      "Y": 21.88,
+      "Z": 8.65
+    },
+    "InnerPosition": {
+      "X": 2520.28,
+      "Y": -254.24,
+      "Z": -26.87
+    },
+    "InnerSize": {
+      "X": 15.07,
+      "Y": 21.88,
+      "Z": 8.65
+    },
+    "AmbientEmitters": [
+      "pr_dlc_ch_casino_utility_rm_electrical_boxes",
+      "pr_dlc_ch_casino_utility_rm_lift_a",
+      "pr_dlc_ch_casino_utility_rm_lift_b",
+      "ar_dlc_ch_casino_utility_room_bass",
+      "pr_dlc_ch_casino_utility_rm_machinery_a",
+      "pr_dlc_ch_casino_utility_rm_machinery_b"
+    ]
+  },
+  {
+    "Name": "iz_ch_dlc_casino_vault_main_rm",
+    "Shape": "Box",
+    "Flags0": "0xAA800425",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 2479.41,
+      "Y": -266.92,
+      "Z": -70.19
+    },
+    "OuterSize": {
+      "X": 30.66,
+      "Y": 37.58,
+      "Z": 4.89
+    },
+    "InnerPosition": {
+      "X": 2479.41,
+      "Y": -266.92,
+      "Z": -70.19
+    },
+    "InnerSize": {
+      "X": 30.66,
+      "Y": 37.58,
+      "Z": 4.89
+    },
+    "AmbientEmitters": [
+      "pr_ch_dlc_casino_vault_main_rm_ac_unit",
+      "pr_ch_dlc_casino_vault_main_rm_ac_unit_02",
+      "pr_ch_dlc_casino_vault_main_rm_ac_unit_03",
+      "pr_ch_dlc_casino_vault_security_room_computer_01",
+      "pr_ch_dlc_casino_vault_security_room_tone"
+    ]
+  },
+  {
+    "Name": "iz_ch_dlc_casino_vault_storage_rm",
+    "Shape": "Box",
+    "Flags0": "0xAA800425",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 2516.88,
+      "Y": -278.97,
+      "Z": -70.08
+    },
+    "OuterSize": {
+      "X": 44.86,
+      "Y": 14.05,
+      "Z": 4.66
+    },
+    "InnerPosition": {
+      "X": 2516.88,
+      "Y": -278.97,
+      "Z": -70.08
+    },
+    "InnerSize": {
+      "X": 44.86,
+      "Y": 14.05,
+      "Z": 4.66
+    },
+    "AmbientEmitters": [
+      "pr_ch_dlc_casino_vault_storage_rm_ac_unit_01",
+      "pr_ch_dlc_casino_vault_storage_rm_ac_unit_02",
+      "pr_ch_dlc_casino_vault_storage_rm_ac_unit_03",
+      "pr_ch_dlc_casino_vault_storage_rm_ac_unit_04"
+    ]
+  },
+  {
+    "Name": "iz_ch_dlc_tunnel_main_rm",
+    "Shape": "Box",
+    "Flags0": "0xAA800425",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 2507.29,
+      "Y": -310.69,
+      "Z": -70.0
+    },
+    "OuterSize": {
+      "X": 57.81,
+      "Y": 37.42,
+      "Z": 3.42
+    },
+    "InnerPosition": {
+      "X": 2507.29,
+      "Y": -310.69,
+      "Z": -70.0
+    },
+    "InnerSize": {
+      "X": 57.81,
+      "Y": 37.42,
+      "Z": 3.42
+    },
+    "AmbientEmitters": [
+      "pr_ch_dlc_tunnel_main_rm_dripping",
+      "pr_ch_dlc_tunnel_main_rm_dripping_02",
+      "hash_D9DEC33C",
+      "hash_6CBEDA84",
+      "pr_ch_dlc_tunnel_main_rm_entrance_wind"
+    ]
+  },
+  {
+    "Name": "az_dlc_ch_plan_drone_station",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 2695.36,
+      "Y": -369.47,
+      "Z": -54.87
+    },
+    "OuterSize": {
+      "X": 16.07,
+      "Y": 15.64,
+      "Z": 7.0
+    },
+    "InnerPosition": {
+      "X": 2695.52,
+      "Y": -369.46,
+      "Z": -54.87
+    },
+    "InnerSize": {
+      "X": 1.37,
+      "Y": 1.07,
+      "Z": 2.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_ch_plan_drone_station_hum"
+    ]
+  },
+  {
+    "Name": "az_dlc_ch_plan_master_control",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 2717.03,
+      "Y": -361.72,
+      "Z": -53.3
+    },
+    "OuterSize": {
+      "X": 18.34,
+      "Y": 8.65,
+      "Z": 5.0
+    },
+    "InnerPosition": {
+      "X": 2719.67,
+      "Y": -364.02,
+      "Z": -53.3
+    },
+    "InnerSize": {
+      "X": 4.56,
+      "Y": 0.79,
+      "Z": 2.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_ch_plan_master_control_hum",
+      "pr_dlc_ch_plan_master_control_terminal_01",
+      "pr_dlc_ch_plan_master_control_terminal_02",
+      "pr_dlc_ch_plan_master_control_terminal_03"
+    ]
+  },
+  {
+    "Name": "iz_ch_dlc_plan_main_rm",
+    "Shape": "Box",
+    "Flags0": "0xAA800425",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 2702.48,
+      "Y": -375.77,
+      "Z": -53.35
+    },
+    "OuterSize": {
+      "X": 51.12,
+      "Y": 48.53,
+      "Z": 8.85
+    },
+    "InnerPosition": {
+      "X": 2702.48,
+      "Y": -375.77,
+      "Z": -53.35
+    },
+    "InnerSize": {
+      "X": 51.12,
+      "Y": 48.53,
+      "Z": 8.85
+    },
+    "AmbientEmitters": null
+  },
+  {
+    "Name": "az_dlc_ch_plan_hacker_area",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 2712.47,
+      "Y": -356.46,
+      "Z": -54.69
+    },
+    "OuterSize": {
+      "X": 8.71,
+      "Y": 9.32,
+      "Z": 5.0
+    },
+    "InnerPosition": {
+      "X": 2712.44,
+      "Y": -352.44,
+      "Z": -54.69
+    },
+    "InnerSize": {
+      "X": 3.84,
+      "Y": 0.68,
+      "Z": 2.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_ch_plan_hacker_terminal_hum",
+      "pr_dlc_ch_plan_hacker_terminal_01"
+    ]
+  },
+  {
+    "Name": "az_h3_casino_alarm_zone_01_exterior",
+    "Shape": "Sphere",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 955.0,
+      "Y": 35.0,
+      "Z": 85.0
+    },
+    "OuterSize": {
+      "X": 1000.0,
+      "Y": 1000.0,
+      "Z": 1000.0
+    },
+    "InnerPosition": {
+      "X": 955.0,
+      "Y": 35.0,
+      "Z": 85.0
+    },
+    "InnerSize": {
+      "X": 250.0,
+      "Y": 250.0,
+      "Z": 250.0
+    },
+    "AmbientEmitters": [
+      "pr_h3_casino_alarm_zone_01_exterior_main_alarm"
+    ]
+  },
+  {
+    "Name": "az_h3_casino_alarm_zone_02_interior",
+    "Shape": "Sphere",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 2500.0,
+      "Y": -256.0,
+      "Z": -60.0
+    },
+    "OuterSize": {
+      "X": 150.0,
+      "Y": 150.0,
+      "Z": 150.0
+    },
+    "InnerPosition": {
+      "X": 2500.0,
+      "Y": -256.0,
+      "Z": -60.0
+    },
+    "InnerSize": {
+      "X": 150.0,
+      "Y": 150.0,
+      "Z": 150.0
+    },
+    "AmbientEmitters": [
+      "pr_h3_casino_alarm_zone_02_interior_main_alarm"
     ]
   },
   {

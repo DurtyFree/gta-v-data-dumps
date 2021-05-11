@@ -218,7 +218,7 @@
   {
     "Name": "se_mp_apt_7_1",
     "Position": {
-      "X": -1469.336,
+      "X": -1469.3363,
       "Y": -534.425,
       "Z": 63.5293
     },
@@ -230,7 +230,7 @@
   {
     "Name": "se_mp_apt_8_1",
     "Position": {
-      "X": -1469.288,
+      "X": -1469.2878,
       "Y": -534.4252,
       "Z": 50.8548
     },
@@ -422,7 +422,7 @@
   {
     "Name": "se_mp_apt_7_2",
     "Position": {
-      "X": -1468.316,
+      "X": -1468.3159,
       "Y": -545.2313,
       "Z": 68.2274
     },
@@ -434,7 +434,7 @@
   {
     "Name": "se_mp_apt_8_2",
     "Position": {
-      "X": -1468.404,
+      "X": -1468.4042,
       "Y": -545.4297,
       "Z": 55.5886
     },
@@ -722,7 +722,7 @@
   {
     "Name": "se_mp_apt_new_1_1",
     "Position": {
-      "X": -1458.129,
+      "X": -1458.1292,
       "Y": -550.5645,
       "Z": 71.884
     },
@@ -1058,7 +1058,7 @@
   {
     "Name": "se_mp_apt_7_1",
     "Position": {
-      "X": -1469.336,
+      "X": -1469.3363,
       "Y": -534.425,
       "Z": 63.5293
     },
@@ -1070,7 +1070,7 @@
   {
     "Name": "se_mp_apt_8_1",
     "Position": {
-      "X": -1469.288,
+      "X": -1469.2878,
       "Y": -534.4252,
       "Z": 50.8548
     },
@@ -1262,7 +1262,7 @@
   {
     "Name": "se_mp_apt_7_2",
     "Position": {
-      "X": -1468.316,
+      "X": -1468.3159,
       "Y": -545.2313,
       "Z": 68.2274
     },
@@ -1274,7 +1274,7 @@
   {
     "Name": "se_mp_apt_8_2",
     "Position": {
-      "X": -1468.404,
+      "X": -1468.4042,
       "Y": -545.4297,
       "Z": 55.5886
     },
@@ -1562,7 +1562,7 @@
   {
     "Name": "se_mp_apt_new_1_1",
     "Position": {
-      "X": -1458.129,
+      "X": -1458.1292,
       "Y": -550.5645,
       "Z": 71.884
     },
@@ -4514,7 +4514,7 @@
   {
     "Name": "collision_943rcy1",
     "Position": {
-      "X": -1122.465,
+      "X": -1122.4655,
       "Y": -1647.694,
       "Z": 5.3793
     },
@@ -4526,8 +4526,8 @@
   {
     "Name": "collision_7rumtj",
     "Position": {
-      "X": -1143.612,
-      "Y": -1618.197,
+      "X": -1143.6117,
+      "Y": -1618.1965,
       "Z": 5.8687
     },
     "Flags": "0xAA041401",
@@ -4550,8 +4550,8 @@
   {
     "Name": "collision_rgaq9k",
     "Position": {
-      "X": -1227.464,
-      "Y": -1478.784,
+      "X": -1227.4635,
+      "Y": -1478.7843,
       "Z": 6.1092
     },
     "Flags": "0xAA041401",
@@ -4562,8 +4562,8 @@
   {
     "Name": "collision_bzxvde",
     "Position": {
-      "X": -1257.565,
-      "Y": -1443.328,
+      "X": -1257.5654,
+      "Y": -1443.3276,
       "Z": 6.1869
     },
     "Flags": "0xAA041401",
@@ -4574,8 +4574,8 @@
   {
     "Name": "collision_p60z6f",
     "Position": {
-      "X": -1299.072,
-      "Y": -1378.825,
+      "X": -1299.0715,
+      "Y": -1378.8251,
       "Z": 5.638
     },
     "Flags": "0xAA041401",
@@ -4586,7 +4586,7 @@
   {
     "Name": "collision_mb7p65",
     "Position": {
-      "X": -1484.628,
+      "X": -1484.6277,
       "Y": -946.4939,
       "Z": 11.0855
     },
@@ -4598,7 +4598,7 @@
   {
     "Name": "collision_tw7p12",
     "Position": {
-      "X": -1519.297,
+      "X": -1519.2974,
       "Y": -918.0931,
       "Z": 10.9531
     },
@@ -4610,7 +4610,7 @@
   {
     "Name": "collision_gev3g8",
     "Position": {
-      "X": -1533.774,
+      "X": -1533.7739,
       "Y": -904.6111,
       "Z": 10.9189
     },
@@ -4622,8 +4622,8 @@
   {
     "Name": "collision_8ns1y3c",
     "Position": {
-      "X": -1654.433,
-      "Y": -1036.862,
+      "X": -1654.4331,
+      "Y": -1036.8618,
       "Z": 14.0206
     },
     "Flags": "0xAA041401",
@@ -4634,8 +4634,8 @@
   {
     "Name": "collision_jtz75d",
     "Position": {
-      "X": -1685.081,
-      "Y": -1070.414,
+      "X": -1685.0808,
+      "Y": -1070.4141,
       "Z": 15.2082
     },
     "Flags": "0xAA041401",
@@ -4646,8 +4646,8 @@
   {
     "Name": "collision_8k5km34",
     "Position": {
-      "X": -1687.953,
-      "Y": -1093.378,
+      "X": -1687.9535,
+      "Y": -1093.3777,
       "Z": 17.3954
     },
     "Flags": "0xAA041401",
@@ -7176,90 +7176,6 @@
     "RadioStation": "radio_14_dance_02"
   },
   {
-    "Name": "dlc_h3_arcade_main_area_music_emitter",
-    "Position": {
-      "X": 2721.0,
-      "Y": -381.0,
-      "Z": -48.0
-    },
-    "Flags": "0xAA041501",
-    "Interior": "ch_dlc_arcade",
-    "Room": "ch_dlc_arcade_mainw_rm",
-    "RadioStation": "hidden_radio_arcade_edm"
-  },
-  {
-    "Name": "dlc_h3_arcade_planning_room_radio_emitter",
-    "Position": {
-      "X": 2717.0,
-      "Y": -363.0,
-      "Z": -53.3
-    },
-    "Flags": "0xAA041401",
-    "Interior": "ch_dlc_plan",
-    "Room": "ch_dlc_plan_main_rm",
-    "RadioStation": "hidden_radio_arcade_edm"
-  },
-  {
-    "Name": "dlc_h3_fm_prep_explosives_radio",
-    "Position": {
-      "X": 1742.0,
-      "Y": 3863.0,
-      "Z": 36.0
-    },
-    "Flags": "0xAA045411",
-    "Interior": null,
-    "Room": null,
-    "RadioStation": "HIDDEN_RADIO_06_COUNTRY"
-  },
-  {
-    "Name": "dlc_h3_fm_cashier_radio_01",
-    "Position": {
-      "X": -1226.0,
-      "Y": 622.0,
-      "Z": 138.0
-    },
-    "Flags": "0xAA045411",
-    "Interior": null,
-    "Room": null,
-    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
-  },
-  {
-    "Name": "dlc_h3_fm_cashier_radio_02",
-    "Position": {
-      "X": -1221.0,
-      "Y": 628.0,
-      "Z": 138.0
-    },
-    "Flags": "0xAA045411",
-    "Interior": null,
-    "Room": null,
-    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
-  },
-  {
-    "Name": "dlc_h3_fm_cashier_radio_03",
-    "Position": {
-      "X": -1985.0,
-      "Y": 246.0,
-      "Z": 87.0
-    },
-    "Flags": "0xAA045411",
-    "Interior": null,
-    "Room": null,
-    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
-  },
-  {
-    "Name": "dlc_h3_fm_cashier_radio_04",
-    "Position": {
-      "X": -1984.0,
-      "Y": 228.0,
-      "Z": 87.0
-    },
-    "Flags": "0xAA045411",
-    "Interior": null,
-    "Room": null,
-    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
-  },
-  {
     "Name": "dlc_h4_se_mpjo",
     "Position": {
       "X": 1210.0,
@@ -7406,8 +7322,8 @@
   {
     "Name": "se_hei4_int_sub_stream",
     "Position": {
-      "X": 1558.983,
-      "Y": 382.149,
+      "X": 1558.9827,
+      "Y": 382.14902,
       "Z": -48.12495
     },
     "Flags": "0xAA000001",
@@ -7474,6 +7390,90 @@
     "Interior": null,
     "Room": null,
     "RadioStation": "radio_30_dlc_hei4_mix1_reverb"
+  },
+  {
+    "Name": "dlc_h3_arcade_main_area_music_emitter",
+    "Position": {
+      "X": 2721.0,
+      "Y": -381.0,
+      "Z": -48.0
+    },
+    "Flags": "0xAA041501",
+    "Interior": "ch_dlc_arcade",
+    "Room": "ch_dlc_arcade_mainw_rm",
+    "RadioStation": "hidden_radio_arcade_edm"
+  },
+  {
+    "Name": "dlc_h3_arcade_planning_room_radio_emitter",
+    "Position": {
+      "X": 2717.0,
+      "Y": -363.0,
+      "Z": -53.3
+    },
+    "Flags": "0xAA041401",
+    "Interior": "ch_dlc_plan",
+    "Room": "ch_dlc_plan_main_rm",
+    "RadioStation": "hidden_radio_arcade_edm"
+  },
+  {
+    "Name": "dlc_h3_fm_prep_explosives_radio",
+    "Position": {
+      "X": 1742.0,
+      "Y": 3863.0,
+      "Z": 36.0
+    },
+    "Flags": "0xAA045411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "HIDDEN_RADIO_06_COUNTRY"
+  },
+  {
+    "Name": "dlc_h3_fm_cashier_radio_01",
+    "Position": {
+      "X": -1226.0,
+      "Y": 622.0,
+      "Z": 138.0
+    },
+    "Flags": "0xAA045411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
+  },
+  {
+    "Name": "dlc_h3_fm_cashier_radio_02",
+    "Position": {
+      "X": -1221.0,
+      "Y": 628.0,
+      "Z": 138.0
+    },
+    "Flags": "0xAA045411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
+  },
+  {
+    "Name": "dlc_h3_fm_cashier_radio_03",
+    "Position": {
+      "X": -1985.0,
+      "Y": 246.0,
+      "Z": 87.0
+    },
+    "Flags": "0xAA045411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
+  },
+  {
+    "Name": "dlc_h3_fm_cashier_radio_04",
+    "Position": {
+      "X": -1984.0,
+      "Y": 228.0,
+      "Z": 87.0
+    },
+    "Flags": "0xAA045411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
   },
   {
     "Name": "se_dmod_trailer_radio",
@@ -8211,7 +8211,7 @@
     "Name": "se_dlc_gr_bunker_radio_02",
     "Position": {
       "X": 874.2026,
-      "Y": -3244.895,
+      "Y": -3244.8948,
       "Z": -94.48377
     },
     "Flags": "0xAA041101",
@@ -8223,8 +8223,8 @@
     "Name": "se_dlc_gr_bunker_radio_03",
     "Position": {
       "X": 967.9625,
-      "Y": -3245.394,
-      "Z": -88.24039
+      "Y": -3245.3936,
+      "Z": -88.240395
     },
     "Flags": "0xAA041101",
     "Interior": null,
@@ -8235,7 +8235,7 @@
     "Name": "se_dlc_gr_bunker_radio_04",
     "Position": {
       "X": 841.4431,
-      "Y": -3238.174,
+      "Y": -3238.1738,
       "Z": -93.599
     },
     "Flags": "0xAA041101",
@@ -8248,7 +8248,7 @@
     "Position": {
       "X": 894.2596,
       "Y": -3178.375,
-      "Z": -94.73158
+      "Z": -94.731575
     },
     "Flags": "0xAA041101",
     "Interior": "gr_grdlc_int_02",
@@ -8258,7 +8258,7 @@
   {
     "Name": "se_dlc_gr_bunker_radio_06",
     "Position": {
-      "X": 933.3492,
+      "X": 933.34924,
       "Y": -3215.027,
       "Z": -97.03413
     },
@@ -8271,7 +8271,7 @@
     "Name": "se_dlc_gr_bunker_radio_07",
     "Position": {
       "X": 871.2695,
-      "Y": -3215.538,
+      "Y": -3215.5383,
       "Z": -95.38543
     },
     "Flags": "0xAA041101",
@@ -8284,7 +8284,7 @@
     "Position": {
       "X": -1298.94,
       "Y": -3012.248,
-      "Z": -47.43714
+      "Z": -47.437138
     },
     "Flags": "0xAA041001",
     "Interior": "sm_smugdlc_int_01",
@@ -8978,7 +8978,7 @@
   {
     "Name": "se_mp_apt_7_1",
     "Position": {
-      "X": -1469.336,
+      "X": -1469.3363,
       "Y": -534.425,
       "Z": 63.5293
     },
@@ -8990,7 +8990,7 @@
   {
     "Name": "se_mp_apt_8_1",
     "Position": {
-      "X": -1469.288,
+      "X": -1469.2878,
       "Y": -534.4252,
       "Z": 50.8548
     },
@@ -9182,7 +9182,7 @@
   {
     "Name": "se_mp_apt_7_2",
     "Position": {
-      "X": -1468.316,
+      "X": -1468.3159,
       "Y": -545.2313,
       "Z": 68.2274
     },
@@ -9194,7 +9194,7 @@
   {
     "Name": "se_mp_apt_8_2",
     "Position": {
-      "X": -1468.404,
+      "X": -1468.4042,
       "Y": -545.4297,
       "Z": 55.5886
     },
@@ -9422,7 +9422,7 @@
   {
     "Name": "se_mp_apt_new_1_2",
     "Position": {
-      "X": -1463.221,
+      "X": -1463.2214,
       "Y": -549.78,
       "Z": 72.2442
     },

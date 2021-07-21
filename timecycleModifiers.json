@@ -3055,7 +3055,7 @@
     "ModificationsCount": 1
   },
   {
-    "Name": "garage",
+    "Name": "Garage",
     "DlcName": "TitleUpdate",
     "ModificationsCount": 12
   },
@@ -4305,11 +4305,6 @@
     "ModificationsCount": 20
   },
   {
-    "Name": "INT_smshop",
-    "DlcName": "TitleUpdate",
-    "ModificationsCount": 38
-  },
-  {
     "Name": "INT_mall",
     "DlcName": "TitleUpdate",
     "ModificationsCount": 48
@@ -5337,7 +5332,7 @@
   {
     "Name": "DLC_Island_Office",
     "DlcName": "TitleUpdate",
-    "ModificationsCount": 23
+    "ModificationsCount": 28
   },
   {
     "Name": "dlc_island_vault",
@@ -5372,7 +5367,7 @@
   {
     "Name": "DLC_Island_vault_01",
     "DlcName": "TitleUpdate",
-    "ModificationsCount": 17
+    "ModificationsCount": 18
   },
   {
     "Name": "Mpheist4_Mansion_exterior",
@@ -5427,12 +5422,97 @@
   {
     "Name": "DLC_Island_vault_01_Door",
     "DlcName": "TitleUpdate",
-    "ModificationsCount": 17
+    "ModificationsCount": 18
   },
   {
     "Name": "H4_Hanger_for_CU",
     "DlcName": "TitleUpdate",
     "ModificationsCount": 18
+  },
+  {
+    "Name": "underwater_PC_FPS_Heistfix",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 1
+  },
+  {
+    "Name": "MP_Heist_Tuner_SmShop_Light",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 45
+  },
+  {
+    "Name": "MP_Heist_Tuner_SmShop_Dark",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 44
+  },
+  {
+    "Name": "MP_Heist_Tuner_Sandbox",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 132
+  },
+  {
+    "Name": "MP_Heist_Tuner_Meet",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 132
+  },
+  {
+    "Name": "MP_Heist_Tuner_SmShop_Default",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 44
+  },
+  {
+    "Name": "MP_Heist_Tuner_MethLab",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 40
+  },
+  {
+    "Name": "INT_smshop",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 38
+  },
+  {
+    "Name": "MP_Heist_Tuner_SmShop_WildStyle",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 45
+  },
+  {
+    "Name": "MP_Heist_Tuner_SmShop_Gamer",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 44
+  },
+  {
+    "Name": "MP_Heist_Tuner_SmShop_Grey",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 44
+  },
+  {
+    "Name": "MP_Heist_Tuner_SmShop_Nostalgia",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 44
+  },
+  {
+    "Name": "MP_Heist_Tuner_SmShop_Americana",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 45
+  },
+  {
+    "Name": "MP_Heist_Tuner_SmShop_JapTunner",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 44
+  },
+  {
+    "Name": "MP_Heist_Tuner_Meet_High_Ref",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 1
+  },
+  {
+    "Name": "MP_Heist_Tuner_Meet_Low_Ref",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 1
+  },
+  {
+    "Name": "MP_Heist_Tuner_Sandbox_Low_Ref",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 1
   },
   {
     "Name": "RemoteSniper",

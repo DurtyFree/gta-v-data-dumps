@@ -600,6 +600,38 @@
     "RecordedWaypointsCount": 8
   },
   {
+    "Name": "carmod_carmeet_intro",
+    "RecordedWaypointsCount": 7
+  },
+  {
+    "Name": "carmod_carmeet_intro_2",
+    "RecordedWaypointsCount": 8
+  },
+  {
+    "Name": "carmod_carmeet_intro_3",
+    "RecordedWaypointsCount": 9
+  },
+  {
+    "Name": "carmod_carmeet_intro_4",
+    "RecordedWaypointsCount": 6
+  },
+  {
+    "Name": "carmod_carmeet_outro",
+    "RecordedWaypointsCount": 7
+  },
+  {
+    "Name": "carmod_carmeet_outro_2",
+    "RecordedWaypointsCount": 6
+  },
+  {
+    "Name": "carmod_carmeet_outro_3",
+    "RecordedWaypointsCount": 6
+  },
+  {
+    "Name": "carmod_carmeet_outro_4",
+    "RecordedWaypointsCount": 6
+  },
+  {
     "Name": "carmod_fam1",
     "RecordedWaypointsCount": 12
   },
@@ -658,6 +690,22 @@
   {
     "Name": "carmod_sm_outro",
     "RecordedWaypointsCount": 13
+  },
+  {
+    "Name": "carmod_tuner_owner_intro",
+    "RecordedWaypointsCount": 11
+  },
+  {
+    "Name": "carmod_tuner_owner_outro",
+    "RecordedWaypointsCount": 12
+  },
+  {
+    "Name": "carmod_tuner_remote_intro",
+    "RecordedWaypointsCount": 9
+  },
+  {
+    "Name": "carmod_tuner_remote_outro",
+    "RecordedWaypointsCount": 9
   },
   {
     "Name": "carsteal5_01",

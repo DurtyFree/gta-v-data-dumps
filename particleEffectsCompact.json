@@ -378,6 +378,7 @@
       "ent_amb_steam_vent_round",
       "ent_brk_tree_leaves",
       "scrape_veg",
+      "ent_amb_barrel_fire_race",
       "ent_amb_moths_swarm",
       "exp_air_rpg_plane_lod",
       "wheel_fric_gravel",
@@ -3924,6 +3925,61 @@
     "EffectNames": [
       "scr_sum_q3_block_destroy",
       "scr_sum_q3_block_destroy_charge"
+    ]
+  },
+  {
+    "DictionaryName": "cut_tn",
+    "EffectNames": [
+      "cut_tn_shop_drug_dust",
+      "cut_tn_swat_van_skid_smoke",
+      "cut_tn_punch_mouth_blood",
+      "cut_tn_punch_blood_drips",
+      "cut_tn_meet_burnout_smoke"
+    ]
+  },
+  {
+    "DictionaryName": "scr_tn_ia",
+    "EffectNames": [
+      "scr_tn_ia_dig_dirt_left",
+      "scr_tn_ia_dig_dirt_right",
+      "scr_tn_ia_dig_dirt_forward"
+    ]
+  },
+  {
+    "DictionaryName": "scr_tn_meet",
+    "EffectNames": [
+      "scr_tn_meet_sandbox_burnout_smoke",
+      "scr_tn_meet_cig_exhale_mouth",
+      "scr_tn_meet_cig_exhale_nose",
+      "scr_tn_meet_cig_smoke",
+      "scr_tn_meet_phone_camera_flash"
+    ]
+  },
+  {
+    "DictionaryName": "scr_tn_phantom",
+    "EffectNames": [
+      "scr_tn_phantom_flames"
+    ]
+  },
+  {
+    "DictionaryName": "scr_tn_pr",
+    "EffectNames": [
+      "scr_tn_pr_cig_smoke"
+    ]
+  },
+  {
+    "DictionaryName": "scr_tn_slick",
+    "EffectNames": [
+      "scr_tn_exp_mine_slick_nodecal"
+    ]
+  },
+  {
+    "DictionaryName": "scr_tn_tr",
+    "EffectNames": [
+      "scr_exp_train_brake",
+      "scr_tn_tr_door_explosion",
+      "scr_tn_tr_door_smoke",
+      "scr_tn_tr_angle_grinder_sparks"
     ]
   },
   {

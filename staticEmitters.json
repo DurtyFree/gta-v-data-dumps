@@ -7020,66 +7020,6 @@
     "RadioStation": null
   },
   {
-    "Name": "se_mp_garage_m_radio",
-    "Position": {
-      "X": 202.23,
-      "Y": -994.03,
-      "Z": -98.65
-    },
-    "Flags": "0xAA041411",
-    "Interior": "v_garagem",
-    "Room": "v_garagem_gtamloroom002",
-    "RadioStation": "RADIO_03_HIPHOP_NEW"
-  },
-  {
-    "Name": "se_xm_int_01_avngr_radio",
-    "Position": {
-      "X": 520.0,
-      "Y": 4748.0,
-      "Z": -69.0
-    },
-    "Flags": "0xAA041501",
-    "Interior": "xm_x17dlc_int_01",
-    "Room": "xm_x17dlc_int_01_gtamloroom001",
-    "RadioStation": "radio_21_dlc_xm17"
-  },
-  {
-    "Name": "se_xm_int_02_lounge_radio",
-    "Position": {
-      "X": 361.0,
-      "Y": 4840.0,
-      "Z": -59.0
-    },
-    "Flags": "0xAA041411",
-    "Interior": "xm_x17dlc_int_02",
-    "Room": "xm_x17dlc_int_02_int02_base_data",
-    "RadioStation": "radio_21_dlc_xm17"
-  },
-  {
-    "Name": "se_xm_int_02_bedroom_radio",
-    "Position": {
-      "X": 368.0,
-      "Y": 4823.0,
-      "Z": -59.0
-    },
-    "Flags": "0xAA041511",
-    "Interior": "xm_x17dlc_int_02",
-    "Room": "xm_x17dlc_int_02_int02_base_bedrom",
-    "RadioStation": "radio_21_dlc_xm17"
-  },
-  {
-    "Name": "se_xm_x17dlc_int_sub_stream",
-    "Position": {
-      "X": 513.0,
-      "Y": 4861.5,
-      "Z": -62.6
-    },
-    "Flags": "0xAA044101",
-    "Interior": "xm_x17dlc_int_sub",
-    "Room": "xm_x17dlc_int_sub_rm_command",
-    "RadioStation": null
-  },
-  {
     "Name": "se_dlc_aw_arena_crowd_background_main",
     "Position": {
       "X": 2800.0,
@@ -7174,6 +7114,150 @@
     "Interior": "xs_x18_int_mod2",
     "Room": "xs_x18_int_mod2_mod2_room",
     "RadioStation": "radio_14_dance_02"
+  },
+  {
+    "Name": "se_mp_garage_m_radio",
+    "Position": {
+      "X": 202.23,
+      "Y": -994.03,
+      "Z": -98.65
+    },
+    "Flags": "0xAA041411",
+    "Interior": "v_garagem",
+    "Room": "v_garagem_gtamloroom002",
+    "RadioStation": "RADIO_03_HIPHOP_NEW"
+  },
+  {
+    "Name": "se_xm_int_01_avngr_radio",
+    "Position": {
+      "X": 520.0,
+      "Y": 4748.0,
+      "Z": -69.0
+    },
+    "Flags": "0xAA041501",
+    "Interior": "xm_x17dlc_int_01",
+    "Room": "xm_x17dlc_int_01_gtamloroom001",
+    "RadioStation": "radio_21_dlc_xm17"
+  },
+  {
+    "Name": "se_xm_int_02_lounge_radio",
+    "Position": {
+      "X": 361.0,
+      "Y": 4840.0,
+      "Z": -59.0
+    },
+    "Flags": "0xAA041411",
+    "Interior": "xm_x17dlc_int_02",
+    "Room": "xm_x17dlc_int_02_int02_base_data",
+    "RadioStation": "radio_21_dlc_xm17"
+  },
+  {
+    "Name": "se_xm_int_02_bedroom_radio",
+    "Position": {
+      "X": 368.0,
+      "Y": 4823.0,
+      "Z": -59.0
+    },
+    "Flags": "0xAA041511",
+    "Interior": "xm_x17dlc_int_02",
+    "Room": "xm_x17dlc_int_02_int02_base_bedrom",
+    "RadioStation": "radio_21_dlc_xm17"
+  },
+  {
+    "Name": "se_xm_x17dlc_int_sub_stream",
+    "Position": {
+      "X": 513.0,
+      "Y": 4861.5,
+      "Z": -62.6
+    },
+    "Flags": "0xAA044101",
+    "Interior": "xm_x17dlc_int_sub",
+    "Room": "xm_x17dlc_int_sub_rm_command",
+    "RadioStation": null
+  },
+  {
+    "Name": "dlc_h3_arcade_main_area_music_emitter",
+    "Position": {
+      "X": 2721.0,
+      "Y": -381.0,
+      "Z": -48.0
+    },
+    "Flags": "0xAA041501",
+    "Interior": "ch_dlc_arcade",
+    "Room": "ch_dlc_arcade_mainw_rm",
+    "RadioStation": "hidden_radio_arcade_edm"
+  },
+  {
+    "Name": "dlc_h3_arcade_planning_room_radio_emitter",
+    "Position": {
+      "X": 2717.0,
+      "Y": -363.0,
+      "Z": -53.3
+    },
+    "Flags": "0xAA041401",
+    "Interior": "ch_dlc_plan",
+    "Room": "ch_dlc_plan_main_rm",
+    "RadioStation": "hidden_radio_arcade_edm"
+  },
+  {
+    "Name": "dlc_h3_fm_prep_explosives_radio",
+    "Position": {
+      "X": 1742.0,
+      "Y": 3863.0,
+      "Z": 36.0
+    },
+    "Flags": "0xAA045411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "HIDDEN_RADIO_06_COUNTRY"
+  },
+  {
+    "Name": "dlc_h3_fm_cashier_radio_01",
+    "Position": {
+      "X": -1226.0,
+      "Y": 622.0,
+      "Z": 138.0
+    },
+    "Flags": "0xAA045411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
+  },
+  {
+    "Name": "dlc_h3_fm_cashier_radio_02",
+    "Position": {
+      "X": -1221.0,
+      "Y": 628.0,
+      "Z": 138.0
+    },
+    "Flags": "0xAA045411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
+  },
+  {
+    "Name": "dlc_h3_fm_cashier_radio_03",
+    "Position": {
+      "X": -1985.0,
+      "Y": 246.0,
+      "Z": 87.0
+    },
+    "Flags": "0xAA045411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
+  },
+  {
+    "Name": "dlc_h3_fm_cashier_radio_04",
+    "Position": {
+      "X": -1984.0,
+      "Y": 228.0,
+      "Z": 87.0
+    },
+    "Flags": "0xAA045411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
   },
   {
     "Name": "dlc_h4_se_mpjo",
@@ -7390,90 +7474,6 @@
     "Interior": null,
     "Room": null,
     "RadioStation": "radio_30_dlc_hei4_mix1_reverb"
-  },
-  {
-    "Name": "dlc_h3_arcade_main_area_music_emitter",
-    "Position": {
-      "X": 2721.0,
-      "Y": -381.0,
-      "Z": -48.0
-    },
-    "Flags": "0xAA041501",
-    "Interior": "ch_dlc_arcade",
-    "Room": "ch_dlc_arcade_mainw_rm",
-    "RadioStation": "hidden_radio_arcade_edm"
-  },
-  {
-    "Name": "dlc_h3_arcade_planning_room_radio_emitter",
-    "Position": {
-      "X": 2717.0,
-      "Y": -363.0,
-      "Z": -53.3
-    },
-    "Flags": "0xAA041401",
-    "Interior": "ch_dlc_plan",
-    "Room": "ch_dlc_plan_main_rm",
-    "RadioStation": "hidden_radio_arcade_edm"
-  },
-  {
-    "Name": "dlc_h3_fm_prep_explosives_radio",
-    "Position": {
-      "X": 1742.0,
-      "Y": 3863.0,
-      "Z": 36.0
-    },
-    "Flags": "0xAA045411",
-    "Interior": null,
-    "Room": null,
-    "RadioStation": "HIDDEN_RADIO_06_COUNTRY"
-  },
-  {
-    "Name": "dlc_h3_fm_cashier_radio_01",
-    "Position": {
-      "X": -1226.0,
-      "Y": 622.0,
-      "Z": 138.0
-    },
-    "Flags": "0xAA045411",
-    "Interior": null,
-    "Room": null,
-    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
-  },
-  {
-    "Name": "dlc_h3_fm_cashier_radio_02",
-    "Position": {
-      "X": -1221.0,
-      "Y": 628.0,
-      "Z": 138.0
-    },
-    "Flags": "0xAA045411",
-    "Interior": null,
-    "Room": null,
-    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
-  },
-  {
-    "Name": "dlc_h3_fm_cashier_radio_03",
-    "Position": {
-      "X": -1985.0,
-      "Y": 246.0,
-      "Z": 87.0
-    },
-    "Flags": "0xAA045411",
-    "Interior": null,
-    "Room": null,
-    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
-  },
-  {
-    "Name": "dlc_h3_fm_cashier_radio_04",
-    "Position": {
-      "X": -1984.0,
-      "Y": 228.0,
-      "Z": 87.0
-    },
-    "Flags": "0xAA045411",
-    "Interior": null,
-    "Room": null,
-    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
   },
   {
     "Name": "se_dmod_trailer_radio",
@@ -8806,6 +8806,222 @@
     "Interior": "vw_dlc_casino_main",
     "Room": "vw_dlc_casino_main_rm_bettingroom",
     "RadioStation": "hidden_radio_casino"
+  },
+  {
+    "Name": "dlc_tuner_meet_building_engines",
+    "Position": {
+      "X": 766.6,
+      "Y": -1850.0,
+      "Z": 33.0
+    },
+    "Flags": "0xAA045401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": null
+  },
+  {
+    "Name": "dlc_tuner_meet_building_music",
+    "Position": {
+      "X": 766.6,
+      "Y": -1850.0,
+      "Z": 33.0
+    },
+    "Flags": "0xAA045401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "RADIO_07_DANCE_01"
+  },
+  {
+    "Name": "se_tr_tuner_car_meet_meet_rm_music_01",
+    "Position": {
+      "X": -2196.91,
+      "Y": 1139.22,
+      "Z": -21.1
+    },
+    "Flags": "0xAA041501",
+    "Interior": "tr_tuner_car_meet",
+    "Room": "tr_tuner_car_meet_meet_rm",
+    "RadioStation": "hidden_radio_tuner_car_meet"
+  },
+  {
+    "Name": "se_tr_tuner_car_meet_meet_rm_music_02",
+    "Position": {
+      "X": -2145.37,
+      "Y": 1146.9,
+      "Z": -23.88
+    },
+    "Flags": "0xAA041401",
+    "Interior": "tr_tuner_car_meet",
+    "Room": "tr_tuner_car_meet_meet_rm",
+    "RadioStation": "hidden_radio_tuner_car_meet"
+  },
+  {
+    "Name": "se_tr_tuner_car_meet_meet_rm_music_03",
+    "Position": {
+      "X": -2145.03,
+      "Y": 1088.25,
+      "Z": -24.36
+    },
+    "Flags": "0xAA041401",
+    "Interior": "tr_tuner_car_meet",
+    "Room": "tr_tuner_car_meet_meet_rm",
+    "RadioStation": "hidden_radio_tuner_car_meet"
+  },
+  {
+    "Name": "se_tr_tuner_car_meet_meet_rm_music_04",
+    "Position": {
+      "X": -2178.04,
+      "Y": 1096.61,
+      "Z": -24.18
+    },
+    "Flags": "0xAA041401",
+    "Interior": "tr_tuner_car_meet",
+    "Room": "tr_tuner_car_meet_meet_rm",
+    "RadioStation": "hidden_radio_tuner_car_meet"
+  },
+  {
+    "Name": "se_tr_tuner_car_meet_meet_rm_music_05",
+    "Position": {
+      "X": -2201.15,
+      "Y": 1074.1,
+      "Z": -22.97
+    },
+    "Flags": "0xAA041401",
+    "Interior": "tr_tuner_car_meet",
+    "Room": "tr_tuner_car_meet_meet_rm",
+    "RadioStation": "hidden_radio_tuner_car_meet"
+  },
+  {
+    "Name": "se_tr_tuner_car_meet_meet_rm_music_00",
+    "Position": {
+      "X": -2208.0,
+      "Y": 1115.0,
+      "Z": -22.0
+    },
+    "Flags": "0xAA045401",
+    "Interior": "tr_tuner_car_meet",
+    "Room": "tr_tuner_car_meet_meet_rm",
+    "RadioStation": "hidden_radio_tuner_car_meet"
+  },
+  {
+    "Name": "se_tr_tuner_car_meet_sandbox_music_01",
+    "Position": {
+      "X": -2142.32,
+      "Y": 1085.72,
+      "Z": 29.75
+    },
+    "Flags": "0xAA041401",
+    "Interior": "tr_tuner_car_meet",
+    "Room": "tr_tuner_car_meet_main_rm",
+    "RadioStation": "hidden_radio_tuner_test_area"
+  },
+  {
+    "Name": "se_tr_tuner_car_meet_sandbox_music_02",
+    "Position": {
+      "X": -2141.98,
+      "Y": 1131.58,
+      "Z": 30.68
+    },
+    "Flags": "0xAA041401",
+    "Interior": "tr_tuner_car_meet",
+    "Room": "tr_tuner_car_meet_main_rm",
+    "RadioStation": "hidden_radio_tuner_test_area"
+  },
+  {
+    "Name": "se_tr_tuner_car_meet_main_rm_vehicle_noise_02",
+    "Position": {
+      "X": -2138.08,
+      "Y": 1140.19,
+      "Z": -23.07
+    },
+    "Flags": "0xAA041401",
+    "Interior": "tr_tuner_car_meet",
+    "Room": "tr_tuner_car_meet_meet_rm",
+    "RadioStation": null
+  },
+  {
+    "Name": "se_tr_tuner_car_meet_main_rm_vehicle_noise_01",
+    "Position": {
+      "X": -2122.48,
+      "Y": 1076.74,
+      "Z": -23.53
+    },
+    "Flags": "0xAA041401",
+    "Interior": "tr_tuner_car_meet",
+    "Room": "tr_tuner_car_meet_meet_rm",
+    "RadioStation": null
+  },
+  {
+    "Name": "se_tr_tuner_car_meet_sandbox_viewer_area_music_01_b",
+    "Position": {
+      "X": -2051.19,
+      "Y": 979.07,
+      "Z": 29.68
+    },
+    "Flags": "0xAA041401",
+    "Interior": "tr_tuner_car_meet",
+    "Room": "tr_tuner_car_meet_main_rm",
+    "RadioStation": "hidden_radio_tuner_test_area"
+  },
+  {
+    "Name": "se_tr_tuner_car_meet_sandbox_viewer_area_music_01",
+    "Position": {
+      "X": -2069.05,
+      "Y": 980.71,
+      "Z": 29.56
+    },
+    "Flags": "0xAA041401",
+    "Interior": "tr_tuner_car_meet",
+    "Room": "tr_tuner_car_meet_main_rm",
+    "RadioStation": "hidden_radio_tuner_test_area"
+  },
+  {
+    "Name": "se_tr_tuner_car_meet_sandbox_viewer_area_music_02",
+    "Position": {
+      "X": -1962.48,
+      "Y": 1241.92,
+      "Z": 29.38
+    },
+    "Flags": "0xAA041401",
+    "Interior": "tr_tuner_car_meet",
+    "Room": "tr_tuner_car_meet_main_rm",
+    "RadioStation": "hidden_radio_tuner_test_area"
+  },
+  {
+    "Name": "se_tr_tuner_car_meet_sandbox_viewer_area_music_02_b",
+    "Position": {
+      "X": -1978.81,
+      "Y": 1242.26,
+      "Z": 29.47
+    },
+    "Flags": "0xAA041401",
+    "Interior": "tr_tuner_car_meet",
+    "Room": "tr_tuner_car_meet_main_rm",
+    "RadioStation": "hidden_radio_tuner_test_area"
+  },
+  {
+    "Name": "se_tr_tuner_car_meet_meet_rm_music_takeover",
+    "Position": {
+      "X": -2179.0,
+      "Y": 1106.0,
+      "Z": -21.0
+    },
+    "Flags": "0xAA045501",
+    "Interior": "tr_tuner_car_meet",
+    "Room": "tr_tuner_car_meet_meet_rm",
+    "RadioStation": "hidden_radio_tuner_car_meet"
+  },
+  {
+    "Name": "se_tr_tuner_mod_garage_radio_01",
+    "Position": {
+      "X": -1352.21,
+      "Y": 154.07,
+      "Z": -94.69
+    },
+    "Flags": "0xAA041501",
+    "Interior": "tr_tuner_mod_garage",
+    "Room": "tr_tuner_mod_garage_modroom1",
+    "RadioStation": "hidden_radio_tuner_mm"
   },
   {
     "Name": "se_mp_apt_1_1",

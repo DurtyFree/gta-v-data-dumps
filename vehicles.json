@@ -6473,8 +6473,16 @@
     "ModKits": [
       "457_calico_modkit"
     ],
-    "DimensionsMin": null,
-    "DimensionsMax": null,
+    "DimensionsMin": {
+      "X": -0.93478745,
+      "Y": -2.0112247,
+      "Z": -0.39018914
+    },
+    "DimensionsMax": {
+      "X": 0.93480283,
+      "Y": 2.5620136,
+      "Z": 0.97951937
+    },
     "BoundingCenter": {
       "X": -0.0,
       "Y": 0.29613,
@@ -6482,14 +6490,14 @@
     },
     "BoundingSphereRadius": 2.495175,
     "Rewards": null,
-    "MaxBraking": -1.0,
-    "MaxBrakingMods": -1.0,
-    "MaxSpeed": -1.0,
-    "MaxTraction": -1.0,
-    "Acceleration": -1.0,
-    "Agility": -1.0,
-    "MaxKnots": -1.0,
-    "MoveResistance": -1.0
+    "MaxBraking": 0.825,
+    "MaxBrakingMods": 0.925,
+    "MaxSpeed": 49.4621,
+    "MaxTraction": 2.435,
+    "Acceleration": 0.3385,
+    "Agility": 0.7185,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0
   },
   {
     "Name": "CAMPER",
@@ -8740,8 +8748,16 @@
     "ModKits": [
       "463_comet6_modkit"
     ],
-    "DimensionsMin": null,
-    "DimensionsMax": null,
+    "DimensionsMin": {
+      "X": -1.0251689,
+      "Y": -2.5106459,
+      "Z": -0.41613197
+    },
+    "DimensionsMax": {
+      "X": 1.0251687,
+      "Y": 2.2958567,
+      "Z": 1.3751004
+    },
     "BoundingCenter": {
       "X": 0.0,
       "Y": 0.000311,
@@ -8749,14 +8765,14 @@
     },
     "BoundingSphereRadius": 2.535046,
     "Rewards": null,
-    "MaxBraking": -1.0,
-    "MaxBrakingMods": -1.0,
-    "MaxSpeed": -1.0,
-    "MaxTraction": -1.0,
-    "Acceleration": -1.0,
-    "Agility": -1.0,
-    "MaxKnots": -1.0,
-    "MoveResistance": -1.0
+    "MaxBraking": 0.88,
+    "MaxBrakingMods": 0.98,
+    "MaxSpeed": 50.15962,
+    "MaxTraction": 2.655,
+    "Acceleration": 0.346,
+    "Agility": 0.726,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0
   },
   {
     "Name": "contender",
@@ -9384,8 +9400,16 @@
     "ModKits": [
       "460_cypher_modkit"
     ],
-    "DimensionsMin": null,
-    "DimensionsMax": null,
+    "DimensionsMin": {
+      "X": -0.98357755,
+      "Y": -2.088602,
+      "Z": -0.410007
+    },
+    "DimensionsMax": {
+      "X": 0.98357695,
+      "Y": 2.457146,
+      "Z": 1.0339744
+    },
     "BoundingCenter": {
       "X": 0.0,
       "Y": 0.184549,
@@ -9393,14 +9417,14 @@
     },
     "BoundingSphereRadius": 2.525641,
     "Rewards": null,
-    "MaxBraking": -1.0,
-    "MaxBrakingMods": -1.0,
-    "MaxSpeed": -1.0,
-    "MaxTraction": -1.0,
-    "Acceleration": -1.0,
-    "Agility": -1.0,
-    "MaxKnots": -1.0,
-    "MoveResistance": -1.0
+    "MaxBraking": 0.7,
+    "MaxBrakingMods": 0.8,
+    "MaxSpeed": 45.565796,
+    "MaxTraction": 2.59,
+    "Acceleration": 0.326,
+    "Agility": 0.70600003,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0
   },
   {
     "Name": "daemon",
@@ -11147,8 +11171,16 @@
     "ModKits": [
       "462_dominator7_modkit"
     ],
-    "DimensionsMin": null,
-    "DimensionsMax": null,
+    "DimensionsMin": {
+      "X": -0.98063207,
+      "Y": -2.318079,
+      "Z": -0.4171025
+    },
+    "DimensionsMax": {
+      "X": 0.9806323,
+      "Y": 2.4365454,
+      "Z": 0.96232253
+    },
     "BoundingCenter": {
       "X": 0.0,
       "Y": 0.087197,
@@ -11156,14 +11188,14 @@
     },
     "BoundingSphereRadius": 2.546059,
     "Rewards": null,
-    "MaxBraking": -1.0,
-    "MaxBrakingMods": -1.0,
-    "MaxSpeed": -1.0,
-    "MaxTraction": -1.0,
-    "Acceleration": -1.0,
-    "Agility": -1.0,
-    "MaxKnots": -1.0,
-    "MoveResistance": -1.0
+    "MaxBraking": 0.92,
+    "MaxBrakingMods": 1.02,
+    "MaxSpeed": 50.091324,
+    "MaxTraction": 2.535,
+    "Acceleration": 0.342,
+    "Agility": 0.722,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0
   },
   {
     "Name": "dominator8",
@@ -11194,8 +11226,16 @@
     "ModKits": [
       "469_dominator8_modkit"
     ],
-    "DimensionsMin": null,
-    "DimensionsMax": null,
+    "DimensionsMin": {
+      "X": -0.9036784,
+      "Y": -2.423687,
+      "Z": -0.533412
+    },
+    "DimensionsMax": {
+      "X": 0.90367854,
+      "Y": 2.4027305,
+      "Z": 0.790237
+    },
     "BoundingCenter": {
       "X": 0.0,
       "Y": -0.013479,
@@ -11203,14 +11243,14 @@
     },
     "BoundingSphereRadius": 2.602915,
     "Rewards": null,
-    "MaxBraking": -1.0,
-    "MaxBrakingMods": -1.0,
-    "MaxSpeed": -1.0,
-    "MaxTraction": -1.0,
-    "Acceleration": -1.0,
-    "Agility": -1.0,
-    "MaxKnots": -1.0,
-    "MoveResistance": -1.0
+    "MaxBraking": 0.75,
+    "MaxBrakingMods": 0.85,
+    "MaxSpeed": 45.949604,
+    "MaxTraction": 2.5,
+    "Acceleration": 0.3027,
+    "Agility": 0.68270004,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0
   },
   {
     "Name": "double",
@@ -12823,8 +12863,16 @@
     "ModKits": [
       "468_euros_modkit"
     ],
-    "DimensionsMin": null,
-    "DimensionsMax": null,
+    "DimensionsMin": {
+      "X": -0.94481236,
+      "Y": -2.138389,
+      "Z": -0.33907998
+    },
+    "DimensionsMax": {
+      "X": 0.9446905,
+      "Y": 2.1920364,
+      "Z": 1.0111079
+    },
     "BoundingCenter": {
       "X": 0.00013,
       "Y": 0.021676,
@@ -12832,14 +12880,14 @@
     },
     "BoundingSphereRadius": 2.411519,
     "Rewards": null,
-    "MaxBraking": -1.0,
-    "MaxBrakingMods": -1.0,
-    "MaxSpeed": -1.0,
-    "MaxTraction": -1.0,
-    "Acceleration": -1.0,
-    "Agility": -1.0,
-    "MaxKnots": -1.0,
-    "MoveResistance": -1.0
+    "MaxBraking": 0.9,
+    "MaxBrakingMods": 1.0,
+    "MaxSpeed": 47.347527,
+    "MaxTraction": 2.5615,
+    "Acceleration": 0.324,
+    "Agility": 0.704,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0
   },
   {
     "Name": "everon",
@@ -14628,8 +14676,16 @@
     "HasSirens": false,
     "Weapons": [],
     "ModKits": [],
-    "DimensionsMin": null,
-    "DimensionsMax": null,
+    "DimensionsMin": {
+      "X": -1.6716852,
+      "Y": -9.241064,
+      "Z": -0.57601625
+    },
+    "DimensionsMax": {
+      "X": 1.671685,
+      "Y": 9.193296,
+      "Z": 2.6302085
+    },
     "BoundingCenter": {
       "X": -0.003469,
       "Y": 0.000101,
@@ -14637,14 +14693,14 @@
     },
     "BoundingSphereRadius": 9.856183,
     "Rewards": null,
-    "MaxBraking": -1.0,
-    "MaxBrakingMods": -1.0,
-    "MaxSpeed": -1.0,
-    "MaxTraction": -1.0,
-    "Acceleration": -1.0,
-    "Agility": -1.0,
-    "MaxKnots": -1.0,
-    "MoveResistance": -1.0
+    "MaxBraking": 5.0,
+    "MaxBrakingMods": 5.1,
+    "MaxSpeed": 26.66667,
+    "MaxTraction": 2.5,
+    "Acceleration": 0.2,
+    "Agility": 0.58,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0
   },
   {
     "Name": "freightcont1",
@@ -15318,8 +15374,16 @@
     "ModKits": [
       "471_futo2_modkit"
     ],
-    "DimensionsMin": null,
-    "DimensionsMax": null,
+    "DimensionsMin": {
+      "X": -0.97133166,
+      "Y": -2.696784,
+      "Z": -0.48615748
+    },
+    "DimensionsMax": {
+      "X": 0.9713312,
+      "Y": 2.211675,
+      "Z": 1.315095
+    },
     "BoundingCenter": {
       "X": 0.0,
       "Y": 0.052819,
@@ -15327,14 +15391,14 @@
     },
     "BoundingSphereRadius": 2.376118,
     "Rewards": null,
-    "MaxBraking": -1.0,
-    "MaxBrakingMods": -1.0,
-    "MaxSpeed": -1.0,
-    "MaxTraction": -1.0,
-    "Acceleration": -1.0,
-    "Agility": -1.0,
-    "MaxKnots": -1.0,
-    "MoveResistance": -1.0
+    "MaxBraking": 0.525,
+    "MaxBrakingMods": 0.625,
+    "MaxSpeed": 45.66667,
+    "MaxTraction": 2.095,
+    "Acceleration": 0.2965,
+    "Agility": 0.6765,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0
   },
   {
     "Name": "gargoyle",
@@ -16237,8 +16301,16 @@
     "ModKits": [
       "472_growler_modkit"
     ],
-    "DimensionsMin": null,
-    "DimensionsMax": null,
+    "DimensionsMin": {
+      "X": -0.9468098,
+      "Y": -2.219656,
+      "Z": -0.352
+    },
+    "DimensionsMax": {
+      "X": 0.9468097,
+      "Y": 2.3194158,
+      "Z": 1.2440658
+    },
     "BoundingCenter": {
       "X": 0.0,
       "Y": 0.066553,
@@ -16246,14 +16318,14 @@
     },
     "BoundingSphereRadius": 2.485073,
     "Rewards": null,
-    "MaxBraking": -1.0,
-    "MaxBrakingMods": -1.0,
-    "MaxSpeed": -1.0,
-    "MaxTraction": -1.0,
-    "Acceleration": -1.0,
-    "Agility": -1.0,
-    "MaxKnots": -1.0,
-    "MoveResistance": -1.0
+    "MaxBraking": 0.84,
+    "MaxBrakingMods": 0.94,
+    "MaxSpeed": 49.75962,
+    "MaxTraction": 2.63,
+    "Acceleration": 0.33375,
+    "Agility": 0.71375,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0
   },
   {
     "Name": "gt500",
@@ -19475,8 +19547,16 @@
     "ModKits": [
       "456_jester4_modkit"
     ],
-    "DimensionsMin": null,
-    "DimensionsMax": null,
+    "DimensionsMin": {
+      "X": -0.969302,
+      "Y": -2.4543357,
+      "Z": -0.35000196
+    },
+    "DimensionsMax": {
+      "X": 0.9693026,
+      "Y": 2.2856133,
+      "Z": 0.98303646
+    },
     "BoundingCenter": {
       "X": 0.0,
       "Y": 0.033731,
@@ -19484,14 +19564,14 @@
     },
     "BoundingSphereRadius": 2.456686,
     "Rewards": null,
-    "MaxBraking": -1.0,
-    "MaxBrakingMods": -1.0,
-    "MaxSpeed": -1.0,
-    "MaxTraction": -1.0,
-    "Acceleration": -1.0,
-    "Agility": -1.0,
-    "MaxKnots": -1.0,
-    "MoveResistance": -1.0
+    "MaxBraking": 0.85,
+    "MaxBrakingMods": 0.95000005,
+    "MaxSpeed": 48.03665,
+    "MaxTraction": 2.59,
+    "Acceleration": 0.3291,
+    "Agility": 0.7091,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0
   },
   {
     "Name": "jet",
@@ -27399,8 +27479,16 @@
     "ModKits": [
       "470_previon_modkit"
     ],
-    "DimensionsMin": null,
-    "DimensionsMax": null,
+    "DimensionsMin": {
+      "X": -0.99008715,
+      "Y": -2.8288193,
+      "Z": -0.664164
+    },
+    "DimensionsMax": {
+      "X": 0.99008715,
+      "Y": 2.4618678,
+      "Z": 0.8119402
+    },
     "BoundingCenter": {
       "X": -2.6E-05,
       "Y": -0.056126,
@@ -27408,14 +27496,14 @@
     },
     "BoundingSphereRadius": 2.714141,
     "Rewards": null,
-    "MaxBraking": -1.0,
-    "MaxBrakingMods": -1.0,
-    "MaxSpeed": -1.0,
-    "MaxTraction": -1.0,
-    "Acceleration": -1.0,
-    "Agility": -1.0,
-    "MaxKnots": -1.0,
-    "MoveResistance": -1.0
+    "MaxBraking": 0.85,
+    "MaxBrakingMods": 0.95000005,
+    "MaxSpeed": 47.008526,
+    "MaxTraction": 2.4865,
+    "Acceleration": 0.3185,
+    "Agility": 0.69850004,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0
   },
   {
     "Name": "primo",
@@ -28858,8 +28946,16 @@
     "ModKits": [
       "459_remus_modkit"
     ],
-    "DimensionsMin": null,
-    "DimensionsMax": null,
+    "DimensionsMin": {
+      "X": -0.89329976,
+      "Y": -2.956403,
+      "Z": -0.29769012
+    },
+    "DimensionsMax": {
+      "X": 0.89329904,
+      "Y": 2.250401,
+      "Z": 1.4824857
+    },
     "BoundingCenter": {
       "X": 0.0,
       "Y": -0.056257,
@@ -28867,14 +28963,14 @@
     },
     "BoundingSphereRadius": 2.491467,
     "Rewards": null,
-    "MaxBraking": -1.0,
-    "MaxBrakingMods": -1.0,
-    "MaxSpeed": -1.0,
-    "MaxTraction": -1.0,
-    "Acceleration": -1.0,
-    "Agility": -1.0,
-    "MaxKnots": -1.0,
-    "MoveResistance": -1.0
+    "MaxBraking": 0.9,
+    "MaxBrakingMods": 1.0,
+    "MaxSpeed": 47.01226,
+    "MaxTraction": 2.685,
+    "Acceleration": 0.327,
+    "Agility": 0.707,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0
   },
   {
     "Name": "Rentalbus",
@@ -29757,8 +29853,16 @@
     "ModKits": [
       "464_rt3000_modkit"
     ],
-    "DimensionsMin": null,
-    "DimensionsMax": null,
+    "DimensionsMin": {
+      "X": -0.9088334,
+      "Y": -2.2614067,
+      "Z": -0.32345098
+    },
+    "DimensionsMax": {
+      "X": 0.9088334,
+      "Y": 2.030561,
+      "Z": 0.9840117
+    },
     "BoundingCenter": {
       "X": 0.0,
       "Y": -0.068682,
@@ -29766,14 +29870,14 @@
     },
     "BoundingSphereRadius": 2.338011,
     "Rewards": null,
-    "MaxBraking": -1.0,
-    "MaxBrakingMods": -1.0,
-    "MaxSpeed": -1.0,
-    "MaxTraction": -1.0,
-    "Acceleration": -1.0,
-    "Agility": -1.0,
-    "MaxKnots": -1.0,
-    "MoveResistance": -1.0
+    "MaxBraking": 1.0,
+    "MaxBrakingMods": 1.1,
+    "MaxSpeed": 48.131428,
+    "MaxTraction": 2.58,
+    "Acceleration": 0.312,
+    "Agility": 0.69200003,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0
   },
   {
     "Name": "Rubble",
@@ -35421,8 +35525,16 @@
     "ModKits": [
       "467_sultan3_modkit"
     ],
-    "DimensionsMin": null,
-    "DimensionsMax": null,
+    "DimensionsMin": {
+      "X": -0.9812451,
+      "Y": -2.3298137,
+      "Z": -0.36568412
+    },
+    "DimensionsMax": {
+      "X": 0.98124415,
+      "Y": 2.1769943,
+      "Z": 1.3070141
+    },
     "BoundingCenter": {
       "X": -0.0,
       "Y": -0.015116,
@@ -35430,14 +35542,14 @@
     },
     "BoundingSphereRadius": 2.449849,
     "Rewards": null,
-    "MaxBraking": -1.0,
-    "MaxBrakingMods": -1.0,
-    "MaxSpeed": -1.0,
-    "MaxTraction": -1.0,
-    "Acceleration": -1.0,
-    "Agility": -1.0,
-    "MaxKnots": -1.0,
-    "MoveResistance": -1.0
+    "MaxBraking": 0.52,
+    "MaxBrakingMods": 0.62,
+    "MaxSpeed": 47.214905,
+    "MaxTraction": 2.485,
+    "Acceleration": 0.3385,
+    "Agility": 0.7185,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0
   },
   {
     "Name": "sultanrs",
@@ -36366,8 +36478,16 @@
     "ModKits": [
       "466_tailgater2_modkit"
     ],
-    "DimensionsMin": null,
-    "DimensionsMax": null,
+    "DimensionsMin": {
+      "X": -0.9694035,
+      "Y": -2.44119,
+      "Z": -0.3684731
+    },
+    "DimensionsMax": {
+      "X": 0.9694064,
+      "Y": 2.2461545,
+      "Z": 1.0868995
+    },
     "BoundingCenter": {
       "X": 4E-06,
       "Y": -0.065272,
@@ -36375,14 +36495,14 @@
     },
     "BoundingSphereRadius": 2.528178,
     "Rewards": null,
-    "MaxBraking": -1.0,
-    "MaxBrakingMods": -1.0,
-    "MaxSpeed": -1.0,
-    "MaxTraction": -1.0,
-    "Acceleration": -1.0,
-    "Agility": -1.0,
-    "MaxKnots": -1.0,
-    "MoveResistance": -1.0
+    "MaxBraking": 0.88,
+    "MaxBrakingMods": 0.98,
+    "MaxSpeed": 46.56702,
+    "MaxTraction": 2.595,
+    "Acceleration": 0.2775,
+    "Agility": 0.6575,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0
   },
   {
     "Name": "taipan",
@@ -41070,8 +41190,16 @@
     "ModKits": [
       "461_vectre_modkit"
     ],
-    "DimensionsMin": null,
-    "DimensionsMax": null,
+    "DimensionsMin": {
+      "X": -0.9728068,
+      "Y": -2.555377,
+      "Z": -0.333081
+    },
+    "DimensionsMax": {
+      "X": 0.9727944,
+      "Y": 2.3437893,
+      "Z": 1.1071887
+    },
     "BoundingCenter": {
       "X": -6E-06,
       "Y": -0.062972,
@@ -41079,14 +41207,14 @@
     },
     "BoundingSphereRadius": 2.638365,
     "Rewards": null,
-    "MaxBraking": -1.0,
-    "MaxBrakingMods": -1.0,
-    "MaxSpeed": -1.0,
-    "MaxTraction": -1.0,
-    "Acceleration": -1.0,
-    "Agility": -1.0,
-    "MaxKnots": -1.0,
-    "MoveResistance": -1.0
+    "MaxBraking": 0.6,
+    "MaxBrakingMods": 0.70000005,
+    "MaxSpeed": 44.123577,
+    "MaxTraction": 2.635,
+    "Acceleration": 0.324,
+    "Agility": 0.704,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0
   },
   {
     "Name": "velum",
@@ -42608,8 +42736,16 @@
     "ModKits": [
       "465_warrener2_modkit"
     ],
-    "DimensionsMin": null,
-    "DimensionsMax": null,
+    "DimensionsMin": {
+      "X": -0.94027805,
+      "Y": -2.8116415,
+      "Z": -0.20148611
+    },
+    "DimensionsMax": {
+      "X": 0.9405396,
+      "Y": 2.262914,
+      "Z": 1.2334425
+    },
     "BoundingCenter": {
       "X": -1E-06,
       "Y": -0.095866,
@@ -42617,14 +42753,14 @@
     },
     "BoundingSphereRadius": 2.528751,
     "Rewards": null,
-    "MaxBraking": -1.0,
-    "MaxBrakingMods": -1.0,
-    "MaxSpeed": -1.0,
-    "MaxTraction": -1.0,
-    "Acceleration": -1.0,
-    "Agility": -1.0,
-    "MaxKnots": -1.0,
-    "MoveResistance": -1.0
+    "MaxBraking": 0.95,
+    "MaxBrakingMods": 1.05,
+    "MaxSpeed": 40.249367,
+    "MaxTraction": 2.16,
+    "Acceleration": 0.265,
+    "Agility": 0.645,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0
   },
   {
     "Name": "washington",
@@ -44117,8 +44253,16 @@
     "ModKits": [
       "458_zr350_modkit"
     ],
-    "DimensionsMin": null,
-    "DimensionsMax": null,
+    "DimensionsMin": {
+      "X": -0.9900872,
+      "Y": -2.446281,
+      "Z": -0.61276996
+    },
+    "DimensionsMax": {
+      "X": 0.9900871,
+      "Y": 2.065291,
+      "Z": 0.8046558
+    },
     "BoundingCenter": {
       "X": -0.0,
       "Y": -0.116078,
@@ -44126,14 +44270,14 @@
     },
     "BoundingSphereRadius": 2.38948,
     "Rewards": null,
-    "MaxBraking": -1.0,
-    "MaxBrakingMods": -1.0,
-    "MaxSpeed": -1.0,
-    "MaxTraction": -1.0,
-    "Acceleration": -1.0,
-    "Agility": -1.0,
-    "MaxKnots": -1.0,
-    "MoveResistance": -1.0
+    "MaxBraking": 0.85,
+    "MaxBrakingMods": 0.95000005,
+    "MaxSpeed": 48.093773,
+    "MaxTraction": 2.485,
+    "Acceleration": 0.33,
+    "Agility": 0.71000004,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0
   },
   {
     "Name": "zr380",

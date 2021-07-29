@@ -41,6 +41,7 @@ If you are in search for an easy way to browse those GTA V data, try **Pleb Mast
 - **Peds** (peds.json) **934** peds in total (Useful for various natives related to peds)
 - **Vehicle Colors** (vehicleColors.json) Contains all **Xenon Colors, Window Colors, PrimarySecondaryColors & Vehicle Plates** data (Useful for various natives related to vehicle)
 - **Createable Objects** (ObjectList.ini) **17255** createable objects in total (Useful for CREATE_OBJECT native)
+- **Alarm Sound names** (alarmSounds.json) **60** alarm sound names in total (Usable with ALARM natives)
 
 ## **Objects location dumps**
 Object location dumps contain positions of various objects of a specific type, on the GTA V map (including all interiors / MLOs).

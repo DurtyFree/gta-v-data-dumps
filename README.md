@@ -24,7 +24,7 @@ If you are in search for an easy way to browse those GTA V data, try **Pleb Mast
 - **Timecycle Modifiers** (timecycleModifiers.json) **2871** timecycle modifiers in total (Usable with TIMECYCLE MODIFIER natives)
 - **Explosion Types (Names)** (explosionTypesCompact.json) **78** explosion types in total (Usable with ADD EXPLOSION native)
 - **Cam Shake Types (Names)** (camShakeTypesCompact.json) **21** cam shake types in total (Usable with SHAKE CAM & SHAKE GAMEPLAY cam natives)
-- **Audio / Sound names & ref names** (soundNames.json) **2009** audio names from a total of **62** unique audio refs (Usable with PLAY_SOUND natives)
+- **Audio / Sound names & ref names** (soundNames.json) **2077** audio names from a total of **62** unique audio refs (Usable with PLAY_SOUND natives)
 - **Pickup Types (Names)** (pickupTypes.json) **154** pickup types in total (Usable with CREATE PICKUP natives)
 - **Vehicle Mod Kits & Mods** (vehicleModKits.json) **442** vehicle mod kit infos with **52898** mods in total (Usable with SET_VEHICLE_MOD_KIT,SET_VEHICLE_LIVERY & SET_VEHICLE_MOD natives)
 - **Vehicles** (vehicles.json) **741** vehicle infos in total (Usable with VEHICLE natives)

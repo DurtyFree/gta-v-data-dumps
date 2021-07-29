@@ -448,16 +448,16 @@
     "AudioRef": "0"
   },
   {
-    "AudioName": "Sink",
-    "AudioRef": "DLC_H4_Submarine_Sinking_Sounds"
-  },
-  {
     "AudioName": "Garage_Door_Open",
     "AudioRef": "GTAO_Script_Doors_Faded_Screen_Sounds"
   },
   {
     "AudioName": "Event_Message_Purple",
     "AudioRef": "GTAO_FM_Events_Soundset"
+  },
+  {
+    "AudioName": "Sink",
+    "AudioRef": "DLC_H4_Submarine_Sinking_Sounds"
   },
   {
     "AudioName": "LIMIT",
@@ -732,6 +732,10 @@
     "AudioRef": "HUD_FREEMODE_SOUNDSET"
   },
   {
+    "AudioName": "ERROR",
+    "AudioRef": "HUD_FRONTEND_DEFAULT_SOUNDSET"
+  },
+  {
     "AudioName": "NAV_UP_DOWN",
     "AudioRef": "HUD_LIQUOR_STORE_SOUNDSET"
   },
@@ -777,10 +781,6 @@
   },
   {
     "AudioName": "PICK_UP",
-    "AudioRef": "HUD_FRONTEND_DEFAULT_SOUNDSET"
-  },
-  {
-    "AudioName": "ERROR",
     "AudioRef": "HUD_FRONTEND_DEFAULT_SOUNDSET"
   },
   {
@@ -1196,26 +1196,6 @@
     "AudioRef": "MP_PROPERTIES_ELEVATOR_DOORS"
   },
   {
-    "AudioName": "DLC_Biker_Warehouse_Intro_Inventory_Sounds",
-    "AudioRef": "0"
-  },
-  {
-    "AudioName": "DLC_VW_RULES",
-    "AudioRef": "dlc_vw_table_games_frontend_sounds"
-  },
-  {
-    "AudioName": "DLC_VW_CONTINUE",
-    "AudioRef": "dlc_vw_table_games_frontend_sounds"
-  },
-  {
-    "AudioName": "Inside_Track_Start",
-    "AudioRef": "DLC_AW_Casino_Track_Inside_Game_Sounds"
-  },
-  {
-    "AudioName": "dlc_vw_am_cabinet_sounds",
-    "AudioRef": "0"
-  },
-  {
     "AudioName": "Retune_Low",
     "AudioRef": "MP_RADIO_SFX"
   },
@@ -1234,6 +1214,30 @@
   {
     "AudioName": "Off_High",
     "AudioRef": "MP_RADIO_SFX"
+  },
+  {
+    "AudioName": "DLC_Biker_Warehouse_Intro_Inventory_Sounds",
+    "AudioRef": "0"
+  },
+  {
+    "AudioName": "radio_tower_fixed",
+    "AudioRef": "dlc_hei4_hidden_collectibles_sounds"
+  },
+  {
+    "AudioName": "DLC_VW_RULES",
+    "AudioRef": "dlc_vw_table_games_frontend_sounds"
+  },
+  {
+    "AudioName": "DLC_VW_CONTINUE",
+    "AudioRef": "dlc_vw_table_games_frontend_sounds"
+  },
+  {
+    "AudioName": "Inside_Track_Start",
+    "AudioRef": "DLC_AW_Casino_Track_Inside_Game_Sounds"
+  },
+  {
+    "AudioName": "dlc_vw_am_cabinet_sounds",
+    "AudioRef": "0"
   },
   {
     "AudioName": "Beat_Pulse_Default",
@@ -3860,6 +3864,14 @@
     "AudioRef": "DLC_Stunt_Race_Frontend_Sounds"
   },
   {
+    "AudioName": "Checkpoint_Finish",
+    "AudioRef": "Car_Club_Races_Pursuit_Series_Sounds"
+  },
+  {
+    "AudioName": "Checkpoint_Finish",
+    "AudioRef": "Car_Club_Races_Street_Race_Sounds"
+  },
+  {
     "AudioName": "Checkpoint_Lap",
     "AudioRef": "DLC_AW_Frontend_Sounds"
   },
@@ -3870,6 +3882,14 @@
   {
     "AudioName": "Checkpoint_Lap",
     "AudioRef": "DLC_Stunt_Race_Frontend_Sounds"
+  },
+  {
+    "AudioName": "Checkpoint_Lap",
+    "AudioRef": "Car_Club_Races_Pursuit_Series_Sounds"
+  },
+  {
+    "AudioName": "Checkpoint_Lap",
+    "AudioRef": "Car_Club_Races_Street_Race_Sounds"
   },
   {
     "AudioName": "Orientation_Success",
@@ -3894,6 +3914,14 @@
   {
     "AudioName": "Checkpoint",
     "AudioRef": "DLC_Stunt_Race_Frontend_Sounds"
+  },
+  {
+    "AudioName": "Checkpoint",
+    "AudioRef": "Car_Club_Races_Pursuit_Series_Sounds"
+  },
+  {
+    "AudioName": "Checkpoint",
+    "AudioRef": "Car_Club_Races_Street_Race_Sounds"
   },
   {
     "AudioName": "CHECKPOINT_AHEAD",
@@ -4024,6 +4052,14 @@
     "AudioRef": "0"
   },
   {
+    "AudioName": "321",
+    "AudioRef": "Car_Club_Races_Pursuit_Series_Sounds"
+  },
+  {
+    "AudioName": "321",
+    "AudioRef": "Car_Club_Races_Street_Race_Sounds"
+  },
+  {
     "AudioName": "Countdown_2",
     "AudioRef": "0"
   },
@@ -4032,12 +4068,24 @@
     "AudioRef": "0"
   },
   {
+    "AudioName": "Go",
+    "AudioRef": "Car_Club_Races_Pursuit_Series_Sounds"
+  },
+  {
+    "AudioName": "Go",
+    "AudioRef": "Car_Club_Races_Street_Race_Sounds"
+  },
+  {
     "AudioName": "Open_Wheel_Racing_Start_Lights_Sounds",
     "AudioRef": "0"
   },
   {
     "AudioName": "Round_Start_Blade",
     "AudioRef": "POWER_PLAY_General_Soundset"
+  },
+  {
+    "AudioName": "FE_Intro_Banner",
+    "AudioRef": "Go_Kart_Death_Match_Soundset"
   },
   {
     "AudioName": "LEADER_BOARD",
@@ -4108,6 +4156,10 @@
     "AudioRef": "GTAO_Boss_Goons_FM_Shard_Sounds"
   },
   {
+    "AudioName": "PowerupShard_Disappear",
+    "AudioRef": "Go_Kart_Death_Match_Soundset"
+  },
+  {
     "AudioName": "Shard_Disappear",
     "AudioRef": "GTAO_FM_Events_Soundset"
   },
@@ -4134,6 +4186,10 @@
   {
     "AudioName": "killer_down",
     "AudioRef": "dlc_ch_hidden_collectibles_sk_sounds"
+  },
+  {
+    "AudioName": "PowerupShard_Appear",
+    "AudioRef": "Go_Kart_Death_Match_Soundset"
   },
   {
     "AudioName": "MP_RANK_UP",
@@ -4320,6 +4376,114 @@
     "AudioRef": "DLC_SUM20_HIDDEN_COLLECTIBLES"
   },
   {
+    "AudioName": "Spawn_FE",
+    "AudioRef": "0"
+  },
+  {
+    "AudioName": "FE_Spawn",
+    "AudioRef": "DLC_Tuner_Halloween_Slasher_Soundset"
+  },
+  {
+    "AudioName": "Ingame_Spawn",
+    "AudioRef": "DLC_Tuner_Halloween_Slasher_Soundset"
+  },
+  {
+    "AudioName": "Character_Loop",
+    "AudioRef": "DLC_Tuner_Halloween_Slasher_Soundset"
+  },
+  {
+    "AudioName": "Despawn_FE",
+    "AudioRef": "DLC_Tuner_Halloween_Slasher_Soundset"
+  },
+  {
+    "AudioName": "Despawn_Ingame",
+    "AudioRef": "DLC_Tuner_Halloween_Slasher_Soundset"
+  },
+  {
+    "AudioName": "FE_Spawn",
+    "AudioRef": "DLC_Tuner_Halloween_Driver_Soundset"
+  },
+  {
+    "AudioName": "Ingame_Spawn",
+    "AudioRef": "DLC_Tuner_Halloween_Driver_Soundset"
+  },
+  {
+    "AudioName": "Character_Loop",
+    "AudioRef": "DLC_Tuner_Halloween_Driver_Soundset"
+  },
+  {
+    "AudioName": "Despawn_FE",
+    "AudioRef": "DLC_Tuner_Halloween_Driver_Soundset"
+  },
+  {
+    "AudioName": "Despawn_Ingame",
+    "AudioRef": "DLC_Tuner_Halloween_Driver_Soundset"
+  },
+  {
+    "AudioName": "FE_Spawn",
+    "AudioRef": "DLC_Tuner_Halloween_Psycho_Soundset"
+  },
+  {
+    "AudioName": "Ingame_Spawn",
+    "AudioRef": "DLC_Tuner_Halloween_Psycho_Soundset"
+  },
+  {
+    "AudioName": "Character_Loop",
+    "AudioRef": "DLC_Tuner_Halloween_Psycho_Soundset"
+  },
+  {
+    "AudioName": "Despawn_FE",
+    "AudioRef": "DLC_Tuner_Halloween_Psycho_Soundset"
+  },
+  {
+    "AudioName": "Despawn_Ingame",
+    "AudioRef": "DLC_Tuner_Halloween_Psycho_Soundset"
+  },
+  {
+    "AudioName": "FE_Spawn",
+    "AudioRef": "DLC_Tuner_Halloween_Clown_Soundset"
+  },
+  {
+    "AudioName": "Ingame_Spawn",
+    "AudioRef": "DLC_Tuner_Halloween_Clown_Soundset"
+  },
+  {
+    "AudioName": "Character_Loop",
+    "AudioRef": "DLC_Tuner_Halloween_Clown_Soundset"
+  },
+  {
+    "AudioName": "Honk_Loop",
+    "AudioRef": "DLC_Tuner_Halloween_Clown_Soundset"
+  },
+  {
+    "AudioName": "Despawn_FE",
+    "AudioRef": "DLC_Tuner_Halloween_Clown_Soundset"
+  },
+  {
+    "AudioName": "Despawn_Ingame",
+    "AudioRef": "DLC_Tuner_Halloween_Clown_Soundset"
+  },
+  {
+    "AudioName": "Attach",
+    "AudioRef": "Prep_Signal_Jammers_Sounds"
+  },
+  {
+    "AudioName": "Collect_Pass",
+    "AudioRef": "Prep_Elevator_Pass_Sounds"
+  },
+  {
+    "AudioName": "Door_Close",
+    "AudioRef": "LIFT_NORMAL_SOUNDSET"
+  },
+  {
+    "AudioName": "Tone",
+    "AudioRef": "LIFT_NORMAL_SOUNDSET"
+  },
+  {
+    "AudioName": "Push",
+    "AudioRef": "GTAO_APT_DOOR_DOWNSTAIRS_WOOD_SOUNDS"
+  },
+  {
     "AudioName": "Focus",
     "AudioRef": "DLC_AW_Trap_Controller_Sounds"
   },
@@ -4394,6 +4558,38 @@
   {
     "AudioName": "Airhorn",
     "AudioRef": "DLC_TG_Running_Back_Sounds"
+  },
+  {
+    "AudioName": "Go_Kart_Death_Match_Soundset",
+    "AudioRef": "0"
+  },
+  {
+    "AudioName": "PowerupShard_Attract_Loop",
+    "AudioRef": "Go_Kart_Death_Match_Soundset"
+  },
+  {
+    "AudioName": "Fire_Powerup_Amped",
+    "AudioRef": "Go_Kart_Death_Match_Soundset"
+  },
+  {
+    "AudioName": "Fire_Loop",
+    "AudioRef": "DLC_IE_VV_Gun_Player_Sounds"
+  },
+  {
+    "AudioName": "30_Secs_Remaining",
+    "AudioRef": "Go_Kart_Death_Match_Soundset"
+  },
+  {
+    "AudioName": "20_Secs_Remaining",
+    "AudioRef": "Go_Kart_Death_Match_Soundset"
+  },
+  {
+    "AudioName": "10_Secs_Countdown",
+    "AudioRef": "Go_Kart_Death_Match_Soundset"
+  },
+  {
+    "AudioName": "Powerup_Block_Loop",
+    "AudioRef": "Go_Kart_Death_Match_Soundset"
   },
   {
     "AudioName": "Out_of_Bounds_Explode",
@@ -4486,10 +4682,6 @@
   {
     "AudioName": "vault_unlock",
     "AudioRef": "dlc_heist_fleeca_bank_door_sounds"
-  },
-  {
-    "AudioName": "Tone",
-    "AudioRef": "LIFT_NORMAL_SOUNDSET"
   },
   {
     "AudioName": "Gain_Point",
@@ -5712,6 +5904,10 @@
     "AudioRef": "DLC_H4_anims_glass_cutter_Sounds"
   },
   {
+    "AudioName": "Input_Code_Enter_Correct",
+    "AudioRef": "Safe_Minigame_Sounds"
+  },
+  {
     "AudioName": "Input_Code_Up",
     "AudioRef": "Safe_Minigame_Sounds"
   },
@@ -5720,15 +5916,11 @@
     "AudioRef": "Safe_Minigame_Sounds"
   },
   {
-    "AudioName": "Idcnput_Code_Enter_Correct_Final",
+    "AudioName": "Input_Code_Enter_Correct_Final",
     "AudioRef": "Safe_Minigame_Sounds"
   },
   {
     "AudioName": "Input_Code_Enter_Wrong",
-    "AudioRef": "Safe_Minigame_Sounds"
-  },
-  {
-    "AudioName": "Input_Code_Enter_Correct",
     "AudioRef": "Safe_Minigame_Sounds"
   },
   {
@@ -5776,6 +5968,10 @@
     "AudioRef": "GTAO_Change_Outfit_Sounds"
   },
   {
+    "AudioName": "Hack",
+    "AudioRef": "Military_Convoy_HiJack_Sounds"
+  },
+  {
     "AudioName": "Remove_Keycard",
     "AudioRef": "Twin_Card_Entry_Sounds"
   },
@@ -5796,6 +5992,22 @@
     "AudioRef": "Twin_Card_Entry_Sounds"
   },
   {
+    "AudioName": "Fake_Close",
+    "AudioRef": "Union_Depository_Elevator_Sounds"
+  },
+  {
+    "AudioName": "Elevator_Moving",
+    "AudioRef": "Union_Depository_Elevator_Sounds"
+  },
+  {
+    "AudioName": "Fake_Arrival",
+    "AudioRef": "Union_Depository_Elevator_Sounds"
+  },
+  {
+    "AudioName": "Hang_Up",
+    "AudioRef": "Phone_SoundSet_Default"
+  },
+  {
     "AudioName": "PowerUp",
     "AudioRef": "DLC_H4_scripted_island_power_sounds"
   },
@@ -5808,6 +6020,30 @@
     "AudioRef": "DLC_H4_Island_Defences_Soundset"
   },
   {
+    "AudioName": "Methamphetamine_Job_Sounds",
+    "AudioRef": "0"
+  },
+  {
+    "AudioName": "External_Explosion",
+    "AudioRef": "Methamphetamine_Job_Sounds"
+  },
+  {
+    "AudioName": "Internal_Explosion",
+    "AudioRef": "Methamphetamine_Job_Sounds"
+  },
+  {
+    "AudioName": "PT_FAKE_CAR_ONE_REV_SLOW",
+    "AudioRef": "0"
+  },
+  {
+    "AudioName": "PT_FAKE_CAR_TWO_REVS_FAST",
+    "AudioRef": "0"
+  },
+  {
+    "AudioName": "PT_FAKE_CAR_THREE_QUICK_REVS",
+    "AudioRef": "0"
+  },
+  {
     "AudioName": "Pickup_Keyring",
     "AudioRef": "dlc_h4_heist_finale_sounds_soundset"
   },
@@ -5818,10 +6054,6 @@
   {
     "AudioName": "Keycard_Wait_Loop",
     "AudioRef": "Twin_Card_Entry_Sounds"
-  },
-  {
-    "AudioName": "radio_tower_fixed",
-    "AudioRef": "dlc_hei4_hidden_collectibles_sounds"
   },
   {
     "AudioName": "Goon_Paid_Large",
@@ -6022,6 +6254,10 @@
   {
     "AudioName": "radio_tower_attract_loop",
     "AudioRef": "dlc_hei4_hidden_collectibles_sounds"
+  },
+  {
+    "AudioName": "Shipwreck_Attract",
+    "AudioRef": "Tuner_Collectables_General_Sounds"
   },
   {
     "AudioName": "EMP_vehicle_affected",
@@ -8022,6 +8258,42 @@
   {
     "AudioName": "BACK",
     "AudioRef": "HUD_MINI_GAME_SOUNDSET"
+  },
+  {
+    "AudioName": "Checkpoint_Finish",
+    "AudioRef": "Car_Club_Races_Sprint_Challenge_Sounds"
+  },
+  {
+    "AudioName": "Checkpoint",
+    "AudioRef": "Car_Club_Races_Sprint_Challenge_Sounds"
+  },
+  {
+    "AudioName": "Go",
+    "AudioRef": "DLC_Tuner_Car_Meet_Test_Area_Events_Sounds"
+  },
+  {
+    "AudioName": "321",
+    "AudioRef": "DLC_Tuner_Car_Meet_Test_Area_Events_Sounds"
+  },
+  {
+    "AudioName": "Checkpoint_Finish_Winner",
+    "AudioRef": "DLC_Tuner_Car_Meet_Test_Area_Events_Sounds"
+  },
+  {
+    "AudioName": "Checkpoint",
+    "AudioRef": "DLC_Tuner_Car_Meet_Test_Area_Events_Sounds"
+  },
+  {
+    "AudioName": "Go",
+    "AudioRef": "Car_Club_Races_Sprint_Challenge_Sounds"
+  },
+  {
+    "AudioName": "321",
+    "AudioRef": "Car_Club_Races_Sprint_Challenge_Sounds"
+  },
+  {
+    "AudioName": "Checkpoint_Lap",
+    "AudioRef": "DLC_Tuner_Car_Meet_Test_Area_Events_Sounds"
   },
   {
     "AudioName": "05",

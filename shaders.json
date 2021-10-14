@@ -1,0 +1,2087 @@
+[
+  {
+    "Name": "alpha",
+    "FileName": "alpha.sps",
+    "Hash": 767087018
+  },
+  {
+    "Name": "terrain_cb_4lyr_2tex_blend",
+    "FileName": "terrain_cb_4lyr_2tex_blend.sps",
+    "Hash": 1299307264
+  },
+  {
+    "Name": "terrain_cb_4lyr_2tex",
+    "FileName": "terrain_cb_4lyr_2tex.sps",
+    "Hash": 2403202493
+  },
+  {
+    "Name": "terrain_cb_4lyr",
+    "FileName": "terrain_cb_4lyr.sps",
+    "Hash": 2203434457
+  },
+  {
+    "Name": "spec_tnt",
+    "FileName": "spec_tnt.sps",
+    "Hash": 3209377098
+  },
+  {
+    "Name": "spec_screendooralpha",
+    "FileName": "spec_screendooralpha.sps",
+    "Hash": 3675780866
+  },
+  {
+    "Name": "spec_reflect_screendooralpha",
+    "FileName": "spec_reflect_screendooralpha.sps",
+    "Hash": 973075231
+  },
+  {
+    "Name": "spec_reflect_decal",
+    "FileName": "spec_reflect_decal.sps",
+    "Hash": 1223374419
+  },
+  {
+    "Name": "spec_reflect_alpha",
+    "FileName": "spec_reflect_alpha.sps",
+    "Hash": 942369980
+  },
+  {
+    "Name": "spec_reflect",
+    "FileName": "spec_reflect.sps",
+    "Hash": 3985016362
+  },
+  {
+    "Name": "spec_decal",
+    "FileName": "spec_decal.sps",
+    "Hash": 2767358585
+  },
+  {
+    "Name": "terrain_cb_4lyr_2tex_blend_lod",
+    "FileName": "terrain_cb_4lyr_2tex_blend_lod.sps",
+    "Hash": 699134121
+  },
+  {
+    "Name": "spec_const",
+    "FileName": "spec_const.sps",
+    "Hash": 2695912430
+  },
+  {
+    "Name": "spec",
+    "FileName": "spec.sps",
+    "Hash": 1912906641
+  },
+  {
+    "Name": "sky_system",
+    "FileName": "sky_system.sps",
+    "Hash": 3174561342
+  },
+  {
+    "Name": "silhouettelayer",
+    "FileName": "silhouettelayer.sps",
+    "Hash": 2043760250
+  },
+  {
+    "Name": "reflect_decal",
+    "FileName": "reflect_decal.sps",
+    "Hash": 1174007185
+  },
+  {
+    "Name": "reflect_alpha",
+    "FileName": "reflect_alpha.sps",
+    "Hash": 435898014
+  },
+  {
+    "Name": "reflect",
+    "FileName": "reflect.sps",
+    "Hash": 2562472254
+  },
+  {
+    "Name": "rage_default",
+    "FileName": "rage_default.sps",
+    "Hash": 3757116973
+  },
+  {
+    "Name": "rage_billboard_nobump",
+    "FileName": "rage_billboard_nobump.sps",
+    "Hash": 2795889633
+  },
+  {
+    "Name": "radar",
+    "FileName": "radar.sps",
+    "Hash": 3103374064
+  },
+  {
+    "Name": "ptfx_model",
+    "FileName": "ptfx_model.sps",
+    "Hash": 1269247087
+  },
+  {
+    "Name": "spec_alpha",
+    "FileName": "spec_alpha.sps",
+    "Hash": 212923074
+  },
+  {
+    "Name": "ped_wrinkle_enveff",
+    "FileName": "ped_wrinkle_enveff.sps",
+    "Hash": 2214276184
+  },
+  {
+    "Name": "terrain_cb_4lyr_2tex_pxm",
+    "FileName": "terrain_cb_4lyr_2tex_pxm.sps",
+    "Hash": 979220570
+  },
+  {
+    "Name": "terrain_cb_4lyr_cm_tnt",
+    "FileName": "terrain_cb_4lyr_cm_tnt.sps",
+    "Hash": 2913823732
+  },
+  {
+    "Name": "terrain_cb_w_4lyr_pxm_spm",
+    "FileName": "terrain_cb_w_4lyr_pxm_spm.sps",
+    "Hash": 3400824277
+  },
+  {
+    "Name": "terrain_cb_w_4lyr_pxm",
+    "FileName": "terrain_cb_w_4lyr_pxm.sps",
+    "Hash": 4105814572
+  },
+  {
+    "Name": "terrain_cb_w_4lyr_lod",
+    "FileName": "terrain_cb_w_4lyr_lod.sps",
+    "Hash": 137526804
+  },
+  {
+    "Name": "terrain_cb_w_4lyr_cm_tnt_pxm",
+    "FileName": "terrain_cb_w_4lyr_cm_tnt_pxm.sps",
+    "Hash": 3313022563
+  },
+  {
+    "Name": "terrain_cb_w_4lyr_cm_tnt",
+    "FileName": "terrain_cb_w_4lyr_cm_tnt.sps",
+    "Hash": 417637541
+  },
+  {
+    "Name": "terrain_cb_w_4lyr_cm_pxm_tnt",
+    "FileName": "terrain_cb_w_4lyr_cm_pxm_tnt.sps",
+    "Hash": 3965214311
+  },
+  {
+    "Name": "terrain_cb_w_4lyr_cm_pxm",
+    "FileName": "terrain_cb_w_4lyr_cm_pxm.sps",
+    "Hash": 4186046662
+  },
+  {
+    "Name": "terrain_cb_w_4lyr_cm",
+    "FileName": "terrain_cb_w_4lyr_cm.sps",
+    "Hash": 295525123
+  },
+  {
+    "Name": "terrain_cb_w_4lyr_2tex_pxm",
+    "FileName": "terrain_cb_w_4lyr_2tex_pxm.sps",
+    "Hash": 1888432890
+  },
+  {
+    "Name": "terrain_cb_w_4lyr_2tex_blend_ttn",
+    "FileName": "terrain_cb_w_4lyr_2tex_blend_ttn.sps",
+    "Hash": 3441023985
+  },
+  {
+    "Name": "terrain_cb_4lyr_cm",
+    "FileName": "terrain_cb_4lyr_cm.sps",
+    "Hash": 2026671129
+  },
+  {
+    "Name": "terrain_cb_w_4lyr_2tex_blend_tt",
+    "FileName": "terrain_cb_w_4lyr_2tex_blend_tt.sps",
+    "Hash": 794257120
+  },
+  {
+    "Name": "terrain_cb_w_4lyr_2tex_blend_pxm_tn_spm",
+    "FileName": "terrain_cb_w_4lyr_2tex_blend_pxm_tn_spm.sps",
+    "Hash": 2424978599
+  },
+  {
+    "Name": "terrain_cb_w_4lyr_2tex_blend_pxm_spm",
+    "FileName": "terrain_cb_w_4lyr_2tex_blend_pxm_spm.sps",
+    "Hash": 653544224
+  },
+  {
+    "Name": "terrain_cb_w_4lyr_2tex_blend_pxm",
+    "FileName": "terrain_cb_w_4lyr_2tex_blend_pxm.sps",
+    "Hash": 2486206885
+  },
+  {
+    "Name": "terrain_cb_w_4lyr_2tex_blend_lod",
+    "FileName": "terrain_cb_w_4lyr_2tex_blend_lod.sps",
+    "Hash": 2535953532
+  },
+  {
+    "Name": "terrain_cb_w_4lyr_2tex_blend",
+    "FileName": "terrain_cb_w_4lyr_2tex_blend.sps",
+    "Hash": 2316006813
+  },
+  {
+    "Name": "terrain_cb_w_4lyr_2tex",
+    "FileName": "terrain_cb_w_4lyr_2tex.sps",
+    "Hash": 3112820305
+  },
+  {
+    "Name": "terrain_cb_w_4lyr",
+    "FileName": "terrain_cb_w_4lyr.sps",
+    "Hash": 3051127652
+  },
+  {
+    "Name": "terrain_cb_4lyr_spec",
+    "FileName": "terrain_cb_4lyr_spec.sps",
+    "Hash": 3851246504
+  },
+  {
+    "Name": "terrain_cb_4lyr_pxm",
+    "FileName": "terrain_cb_4lyr_pxm.sps",
+    "Hash": 1092775368
+  },
+  {
+    "Name": "terrain_cb_4lyr_lod",
+    "FileName": "terrain_cb_4lyr_lod.sps",
+    "Hash": 3987849828
+  },
+  {
+    "Name": "terrain_cb_w_4lyr_2tex_blend_pxm_tt_spm",
+    "FileName": "terrain_cb_w_4lyr_2tex_blend_pxm_tt_spm.sps",
+    "Hash": 1196893299
+  },
+  {
+    "Name": "terrain_cb_w_4lyr_spec",
+    "FileName": "terrain_cb_w_4lyr_spec.sps",
+    "Hash": 646532852
+  },
+  {
+    "Name": "ped_wrinkle_cs",
+    "FileName": "ped_wrinkle_cs.sps",
+    "Hash": 1361318130
+  },
+  {
+    "Name": "ped_wrinkle_cloth",
+    "FileName": "ped_wrinkle_cloth.sps",
+    "Hash": 2221671518
+  },
+  {
+    "Name": "parallax_specmap",
+    "FileName": "parallax_specmap.sps",
+    "Hash": 2848430421
+  },
+  {
+    "Name": "parallax",
+    "FileName": "parallax.sps",
+    "Hash": 549662965
+  },
+  {
+    "Name": "normal_wind",
+    "FileName": "normal_wind.sps",
+    "Hash": 3662052429
+  },
+  {
+    "Name": "normal_um_tnt",
+    "FileName": "normal_um_tnt.sps",
+    "Hash": 1874823887
+  },
+  {
+    "Name": "normal_um",
+    "FileName": "normal_um.sps",
+    "Hash": 2894858246
+  },
+  {
+    "Name": "normal_tnt_pxm",
+    "FileName": "normal_tnt_pxm.sps",
+    "Hash": 2741458751
+  },
+  {
+    "Name": "normal_tnt_alpha",
+    "FileName": "normal_tnt_alpha.sps",
+    "Hash": 260088262
+  },
+  {
+    "Name": "normal_tnt",
+    "FileName": "normal_tnt.sps",
+    "Hash": 454324273
+  },
+  {
+    "Name": "normal_terrain_wet_pxm",
+    "FileName": "normal_terrain_wet_pxm.sps",
+    "Hash": 2626216791
+  },
+  {
+    "Name": "normal_terrain_wet",
+    "FileName": "normal_terrain_wet.sps",
+    "Hash": 2081537210
+  },
+  {
+    "Name": "parallax_steep",
+    "FileName": "parallax_steep.sps",
+    "Hash": 1033066908
+  },
+  {
+    "Name": "normal_spec_wrinkle",
+    "FileName": "normal_spec_wrinkle.sps",
+    "Hash": 1184361071
+  },
+  {
+    "Name": "normal_spec_tnt_pxm",
+    "FileName": "normal_spec_tnt_pxm.sps",
+    "Hash": 1248807924
+  },
+  {
+    "Name": "normal_spec_tnt",
+    "FileName": "normal_spec_tnt.sps",
+    "Hash": 1825862491
+  },
+  {
+    "Name": "normal_spec_screendooralpha",
+    "FileName": "normal_spec_screendooralpha.sps",
+    "Hash": 1721872650
+  },
+  {
+    "Name": "normal_spec_reflect_emissivenight_alpha",
+    "FileName": "normal_spec_reflect_emissivenight_alpha.sps",
+    "Hash": 2876967440
+  },
+  {
+    "Name": "normal_spec_reflect_emissivenight",
+    "FileName": "normal_spec_reflect_emissivenight.sps",
+    "Hash": 1179264518
+  },
+  {
+    "Name": "normal_spec_reflect_decal",
+    "FileName": "normal_spec_reflect_decal.sps",
+    "Hash": 4124550951
+  },
+  {
+    "Name": "normal_spec_reflect_alpha",
+    "FileName": "normal_spec_reflect_alpha.sps",
+    "Hash": 1306617655
+  },
+  {
+    "Name": "normal_spec_reflect",
+    "FileName": "normal_spec_reflect.sps",
+    "Hash": 558091605
+  },
+  {
+    "Name": "normal_spec_pxm_tnt",
+    "FileName": "normal_spec_pxm_tnt.sps",
+    "Hash": 3325912056
+  },
+  {
+    "Name": "normal_spec_pxm",
+    "FileName": "normal_spec_pxm.sps",
+    "Hash": 1605449169
+  },
+  {
+    "Name": "normal_spec_um",
+    "FileName": "normal_spec_um.sps",
+    "Hash": 309164450
+  },
+  {
+    "Name": "ped_wrinkle_cloth_enveff",
+    "FileName": "ped_wrinkle_cloth_enveff.sps",
+    "Hash": 2612976080
+  },
+  {
+    "Name": "ped",
+    "FileName": "ped.sps",
+    "Hash": 886638433
+  },
+  {
+    "Name": "ped_cloth",
+    "FileName": "ped_cloth.sps",
+    "Hash": 506382198
+  },
+  {
+    "Name": "ped_wrinkle",
+    "FileName": "ped_wrinkle.sps",
+    "Hash": 1614746199
+  },
+  {
+    "Name": "ped_palette",
+    "FileName": "ped_palette.sps",
+    "Hash": 2837298126
+  },
+  {
+    "Name": "ped_nopeddamagedecals",
+    "FileName": "ped_nopeddamagedecals.sps",
+    "Hash": 2611951610
+  },
+  {
+    "Name": "ped_hair_spiked_noalpha",
+    "FileName": "ped_hair_spiked_noalpha.sps",
+    "Hash": 525239884
+  },
+  {
+    "Name": "ped_hair_spiked_enveff",
+    "FileName": "ped_hair_spiked_enveff.sps",
+    "Hash": 2127389919
+  },
+  {
+    "Name": "ped_hair_spiked",
+    "FileName": "ped_hair_spiked.sps",
+    "Hash": 1109523081
+  },
+  {
+    "Name": "ped_hair_cutout_alpha_cloth",
+    "FileName": "ped_hair_cutout_alpha_cloth.sps",
+    "Hash": 2500974923
+  },
+  {
+    "Name": "ped_hair_cutout_alpha",
+    "FileName": "ped_hair_cutout_alpha.sps",
+    "Hash": 2471469887
+  },
+  {
+    "Name": "ped_fur",
+    "FileName": "ped_fur.sps",
+    "Hash": 1725213687
+  },
+  {
+    "Name": "ped_enveff",
+    "FileName": "ped_enveff.sps",
+    "Hash": 3678503582
+  },
+  {
+    "Name": "ped_alpha",
+    "FileName": "ped_alpha.sps",
+    "Hash": 1148754598
+  },
+  {
+    "Name": "ped_default_palette",
+    "FileName": "ped_default_palette.sps",
+    "Hash": 479373401
+  },
+  {
+    "Name": "ped_default_enveff",
+    "FileName": "ped_default_enveff.sps",
+    "Hash": 293484717
+  },
+  {
+    "Name": "ped_default_cutout",
+    "FileName": "ped_default_cutout.sps",
+    "Hash": 2674461339
+  },
+  {
+    "Name": "ped_default_cloth",
+    "FileName": "ped_default_cloth.sps",
+    "Hash": 2473097676
+  },
+  {
+    "Name": "ped_default",
+    "FileName": "ped_default.sps",
+    "Hash": 695944937
+  },
+  {
+    "Name": "ped_decal_nodiff",
+    "FileName": "ped_decal_nodiff.sps",
+    "Hash": 3437173555
+  },
+  {
+    "Name": "ped_decal_medals",
+    "FileName": "ped_decal_medals.sps",
+    "Hash": 1787744693
+  },
+  {
+    "Name": "ped_decal_expensive",
+    "FileName": "ped_decal_expensive.sps",
+    "Hash": 3756892583
+  },
+  {
+    "Name": "ped_decal_decoration",
+    "FileName": "ped_decal_decoration.sps",
+    "Hash": 1276163621
+  },
+  {
+    "Name": "ped_decal",
+    "FileName": "ped_decal.sps",
+    "Hash": 3487304994
+  },
+  {
+    "Name": "ped_cloth_enveff",
+    "FileName": "ped_cloth_enveff.sps",
+    "Hash": 2852964370
+  },
+  {
+    "Name": "ped_default_mp",
+    "FileName": "ped_default_mp.sps",
+    "Hash": 607978158
+  },
+  {
+    "Name": "terrain_cb_w_4lyr_spec_int",
+    "FileName": "terrain_cb_w_4lyr_spec_int.sps",
+    "Hash": 4250002265
+  },
+  {
+    "Name": "terrain_cb_w_4lyr_spec_int_pxm",
+    "FileName": "terrain_cb_w_4lyr_spec_int_pxm.sps",
+    "Hash": 3903474784
+  },
+  {
+    "Name": "terrain_cb_w_4lyr_spec_pxm",
+    "FileName": "terrain_cb_w_4lyr_spec_pxm.sps",
+    "Hash": 2601000386
+  },
+  {
+    "Name": "weapon_normal_spec_detail_tnt",
+    "FileName": "weapon_normal_spec_detail_tnt.sps",
+    "Hash": 1906917187
+  },
+  {
+    "Name": "weapon_normal_spec_detail_palette",
+    "FileName": "weapon_normal_spec_detail_palette.sps",
+    "Hash": 1609575459
+  },
+  {
+    "Name": "weapon_normal_spec_cutout_palette",
+    "FileName": "weapon_normal_spec_cutout_palette.sps",
+    "Hash": 546876722
+  },
+  {
+    "Name": "weapon_normal_spec_alpha",
+    "FileName": "weapon_normal_spec_alpha.sps",
+    "Hash": 1036342559
+  },
+  {
+    "Name": "weapon_emissivestrong_alpha",
+    "FileName": "weapon_emissivestrong_alpha.sps",
+    "Hash": 1504857405
+  },
+  {
+    "Name": "water_terrainfoam",
+    "FileName": "water_terrainfoam.sps",
+    "Hash": 3222616480
+  },
+  {
+    "Name": "water_shallow",
+    "FileName": "water_shallow.sps",
+    "Hash": 3850721615
+  },
+  {
+    "Name": "water_rivershallow",
+    "FileName": "water_rivershallow.sps",
+    "Hash": 2475580800
+  },
+  {
+    "Name": "water_riverocean",
+    "FileName": "water_riverocean.sps",
+    "Hash": 2177656755
+  },
+  {
+    "Name": "water_riverlod",
+    "FileName": "water_riverlod.sps",
+    "Hash": 3681740687
+  },
+  {
+    "Name": "weapon_normal_spec_palette",
+    "FileName": "weapon_normal_spec_palette.sps",
+    "Hash": 2567283181
+  },
+  {
+    "Name": "water_riverfoam",
+    "FileName": "water_riverfoam.sps",
+    "Hash": 187120504
+  },
+  {
+    "Name": "water_poolenv",
+    "FileName": "water_poolenv.sps",
+    "Hash": 1218144439
+  },
+  {
+    "Name": "water_mesh",
+    "FileName": "water_mesh.sps",
+    "Hash": 3111382721
+  },
+  {
+    "Name": "water_fountain",
+    "FileName": "water_fountain.sps",
+    "Hash": 123116704
+  },
+  {
+    "Name": "water_foam",
+    "FileName": "water_foam.sps",
+    "Hash": 368907584
+  },
+  {
+    "Name": "water_decal",
+    "FileName": "water_decal.sps",
+    "Hash": 775879738
+  },
+  {
+    "Name": "vehicle_vehglass_inner",
+    "FileName": "vehicle_vehglass_inner.sps",
+    "Hash": 3381030082
+  },
+  {
+    "Name": "vehicle_vehglass",
+    "FileName": "vehicle_vehglass.sps",
+    "Hash": 2090390023
+  },
+  {
+    "Name": "vehicle_track_cutout",
+    "FileName": "vehicle_track_cutout.sps",
+    "Hash": 729807872
+  },
+  {
+    "Name": "vehicle_track",
+    "FileName": "vehicle_track.sps",
+    "Hash": 966135461
+  },
+  {
+    "Name": "vehicle_tire",
+    "FileName": "vehicle_tire.sps",
+    "Hash": 492767694
+  },
+  {
+    "Name": "water_river",
+    "FileName": "water_river.sps",
+    "Hash": 951624891
+  },
+  {
+    "Name": "vehicle_shuts",
+    "FileName": "vehicle_shuts.sps",
+    "Hash": 176503834
+  },
+  {
+    "Name": "weapon_normal_spec_tnt",
+    "FileName": "weapon_normal_spec_tnt.sps",
+    "Hash": 2255922757
+  },
+  {
+    "Name": "ped_hair_spiked_mask",
+    "FileName": "ped_hair_spiked_mask.sps",
+    "Hash": 2898006994
+  },
+  {
+    "Name": "vehicle_emissive_alpha",
+    "FileName": "vehicle_emissive_alpha.sps",
+    "Hash": 1578802357
+  },
+  {
+    "Name": "vehicle_cutout",
+    "FileName": "vehicle_cutout.sps",
+    "Hash": 574204710
+  },
+  {
+    "Name": "spec_twiddle_tnt",
+    "FileName": "spec_twiddle_tnt.sps",
+    "Hash": 1974497390
+  },
+  {
+    "Name": "ped_emissive",
+    "FileName": "ped_emissive.sps",
+    "Hash": 1870918114
+  },
+  {
+    "Name": "normal_tnt_alpha",
+    "FileName": "normal_tnt_alpha.sps",
+    "Hash": 260088262
+  },
+  {
+    "Name": "normal_spec_twiddle_tnt",
+    "FileName": "normal_spec_twiddle_tnt.sps",
+    "Hash": 2447870674
+  },
+  {
+    "Name": "albedo_alpha",
+    "FileName": "albedo_alpha.sps",
+    "Hash": 2968997155
+  },
+  {
+    "Name": "vehicle_track_siren",
+    "FileName": "vehicle_track_siren.sps",
+    "Hash": 775017545
+  },
+  {
+    "Name": "vehicle_track_emissive",
+    "FileName": "vehicle_track_emissive.sps",
+    "Hash": 2231080580
+  },
+  {
+    "Name": "vehicle_track_ammo",
+    "FileName": "vehicle_track_ammo.sps",
+    "Hash": 691199436
+  },
+  {
+    "Name": "emissive_additive_uv_alpha",
+    "FileName": "emissive_additive_uv_alpha.sps",
+    "Hash": 2545191278
+  },
+  {
+    "Name": "vehicle_track2_emissive",
+    "FileName": "vehicle_track2_emissive.sps",
+    "Hash": 262794466
+  },
+  {
+    "Name": "vehicle_tire_emissive",
+    "FileName": "vehicle_tire_emissive.sps",
+    "Hash": 1968139782
+  },
+  {
+    "Name": "vehicle_paint9",
+    "FileName": "vehicle_paint9.sps",
+    "Hash": 2012671786
+  },
+  {
+    "Name": "vehicle_paint8",
+    "FileName": "vehicle_paint8.sps",
+    "Hash": 2254015471
+  },
+  {
+    "Name": "vehicle_paint7_enveff",
+    "FileName": "vehicle_paint7_enveff.sps",
+    "Hash": 1855245510
+  },
+  {
+    "Name": "vehicle_paint7",
+    "FileName": "vehicle_paint7.sps",
+    "Hash": 2503092640
+  },
+  {
+    "Name": "vehicle_paint4_emissive",
+    "FileName": "vehicle_paint4_emissive.sps",
+    "Hash": 1926278280
+  },
+  {
+    "Name": "vehicle_paint3_lvr",
+    "FileName": "vehicle_paint3_lvr.sps",
+    "Hash": 2553143950
+  },
+  {
+    "Name": "vehicle_mesh2_enveff",
+    "FileName": "vehicle_mesh2_enveff.sps",
+    "Hash": 2787787854
+  },
+  {
+    "Name": "vehicle_lightsemissive_siren",
+    "FileName": "vehicle_lightsemissive_siren.sps",
+    "Hash": 3130254271
+  },
+  {
+    "Name": "vehicle_blurredrotor_emissive",
+    "FileName": "vehicle_blurredrotor_emissive.sps",
+    "Hash": 3548898909
+  },
+  {
+    "Name": "vehicle_track2",
+    "FileName": "vehicle_track2.sps",
+    "Hash": 4084005721
+  },
+  {
+    "Name": "vehicle_paint6_enveff",
+    "FileName": "vehicle_paint6_enveff.sps",
+    "Hash": 3271584184
+  },
+  {
+    "Name": "vehicle_paint6",
+    "FileName": "vehicle_paint6.sps",
+    "Hash": 2709275188
+  },
+  {
+    "Name": "vehicle_paint5_enveff",
+    "FileName": "vehicle_paint5_enveff.sps",
+    "Hash": 3835168619
+  },
+  {
+    "Name": "vehicle_blurredrotor",
+    "FileName": "vehicle_blurredrotor.sps",
+    "Hash": 714695282
+  },
+  {
+    "Name": "vehicle_basic",
+    "FileName": "vehicle_basic.sps",
+    "Hash": 3988535674
+  },
+  {
+    "Name": "vehicle_badges",
+    "FileName": "vehicle_badges.sps",
+    "Hash": 4293327850
+  },
+  {
+    "Name": "trees_tnt",
+    "FileName": "trees_tnt.sps",
+    "Hash": 2025232660
+  },
+  {
+    "Name": "trees_shadow_proxy",
+    "FileName": "trees_shadow_proxy.sps",
+    "Hash": 3054167257
+  },
+  {
+    "Name": "trees_normal_spec_wind",
+    "FileName": "trees_normal_spec_wind.sps",
+    "Hash": 3579189101
+  },
+  {
+    "Name": "trees_normal_spec_tnt",
+    "FileName": "trees_normal_spec_tnt.sps",
+    "Hash": 776124898
+  },
+  {
+    "Name": "trees_normal_spec_camera_facing_tnt",
+    "FileName": "trees_normal_spec_camera_facing_tnt.sps",
+    "Hash": 1624431611
+  },
+  {
+    "Name": "trees_normal_spec_camera_facing",
+    "FileName": "trees_normal_spec_camera_facing.sps",
+    "Hash": 3342324456
+  },
+  {
+    "Name": "trees_normal_spec_camera_aligned_tnt",
+    "FileName": "trees_normal_spec_camera_aligned_tnt.sps",
+    "Hash": 1455726692
+  },
+  {
+    "Name": "vehicle_cloth",
+    "FileName": "vehicle_cloth.sps",
+    "Hash": 2470557232
+  },
+  {
+    "Name": "trees_normal_spec_camera_aligned",
+    "FileName": "trees_normal_spec_camera_aligned.sps",
+    "Hash": 1072482705
+  },
+  {
+    "Name": "trees_normal_diffspec_tnt",
+    "FileName": "trees_normal_diffspec_tnt.sps",
+    "Hash": 1336392653
+  },
+  {
+    "Name": "trees_normal_diffspec",
+    "FileName": "trees_normal_diffspec.sps",
+    "Hash": 178347763
+  },
+  {
+    "Name": "trees_normal",
+    "FileName": "trees_normal.sps",
+    "Hash": 3810197176
+  },
+  {
+    "Name": "trees_lod_tnt",
+    "FileName": "trees_lod_tnt.sps",
+    "Hash": 1684697908
+  },
+  {
+    "Name": "trees_lod2d",
+    "FileName": "trees_lod2d.sps",
+    "Hash": 2714729319
+  },
+  {
+    "Name": "trees_lod2",
+    "FileName": "trees_lod2.sps",
+    "Hash": 1874959840
+  },
+  {
+    "Name": "trees_lod",
+    "FileName": "trees_lod.sps",
+    "Hash": 2706862382
+  },
+  {
+    "Name": "trees_camera_facing",
+    "FileName": "trees_camera_facing.sps",
+    "Hash": 3585720296
+  },
+  {
+    "Name": "trees_camera_aligned",
+    "FileName": "trees_camera_aligned.sps",
+    "Hash": 3069953419
+  },
+  {
+    "Name": "trees",
+    "FileName": "trees.sps",
+    "Hash": 1469151247
+  },
+  {
+    "Name": "trees_normal_spec",
+    "FileName": "trees_normal_spec.sps",
+    "Hash": 2534069932
+  },
+  {
+    "Name": "vehicle_cloth2",
+    "FileName": "vehicle_cloth2.sps",
+    "Hash": 1548471821
+  },
+  {
+    "Name": "vehicle_dash_emissive",
+    "FileName": "vehicle_dash_emissive.sps",
+    "Hash": 260821129
+  },
+  {
+    "Name": "vehicle_dash_emissive_opaque",
+    "FileName": "vehicle_dash_emissive_opaque.sps",
+    "Hash": 2032241304
+  },
+  {
+    "Name": "vehicle_paint4_enveff",
+    "FileName": "vehicle_paint4_enveff.sps",
+    "Hash": 2879672637
+  },
+  {
+    "Name": "vehicle_paint4",
+    "FileName": "vehicle_paint4.sps",
+    "Hash": 3234562258
+  },
+  {
+    "Name": "vehicle_paint3_enveff",
+    "FileName": "vehicle_paint3_enveff.sps",
+    "Hash": 3968766621
+  },
+  {
+    "Name": "vehicle_paint3",
+    "FileName": "vehicle_paint3.sps",
+    "Hash": 3760832398
+  },
+  {
+    "Name": "vehicle_paint2_enveff",
+    "FileName": "vehicle_paint2_enveff.sps",
+    "Hash": 266822471
+  },
+  {
+    "Name": "vehicle_paint2",
+    "FileName": "vehicle_paint2.sps",
+    "Hash": 3991427851
+  },
+  {
+    "Name": "vehicle_paint1_enveff",
+    "FileName": "vehicle_paint1_enveff.sps",
+    "Hash": 589796251
+  },
+  {
+    "Name": "vehicle_paint1",
+    "FileName": "vehicle_paint1.sps",
+    "Hash": 4194005809
+  },
+  {
+    "Name": "vehicle_nowater",
+    "FileName": "vehicle_nowater.sps",
+    "Hash": 3408479353
+  },
+  {
+    "Name": "vehicle_nosplash",
+    "FileName": "vehicle_nosplash.sps",
+    "Hash": 3256581549
+  },
+  {
+    "Name": "vehicle_mesh_enveff",
+    "FileName": "vehicle_mesh_enveff.sps",
+    "Hash": 3982309824
+  },
+  {
+    "Name": "vehicle_mesh",
+    "FileName": "vehicle_mesh.sps",
+    "Hash": 3647190411
+  },
+  {
+    "Name": "vehicle_lightsemissive",
+    "FileName": "vehicle_lightsemissive.sps",
+    "Hash": 3843401447
+  },
+  {
+    "Name": "vehicle_lights",
+    "FileName": "vehicle_lights.sps",
+    "Hash": 3746771053
+  },
+  {
+    "Name": "vehicle_licenseplate",
+    "FileName": "vehicle_licenseplate.sps",
+    "Hash": 2323262447
+  },
+  {
+    "Name": "vehicle_interior2",
+    "FileName": "vehicle_interior2.sps",
+    "Hash": 714256100
+  },
+  {
+    "Name": "vehicle_interior",
+    "FileName": "vehicle_interior.sps",
+    "Hash": 4116157573
+  },
+  {
+    "Name": "vehicle_generic",
+    "FileName": "vehicle_generic.sps",
+    "Hash": 753296299
+  },
+  {
+    "Name": "vehicle_emissive_opaque",
+    "FileName": "vehicle_emissive_opaque.sps",
+    "Hash": 2201700338
+  },
+  {
+    "Name": "vehicle_detail2",
+    "FileName": "vehicle_detail2.sps",
+    "Hash": 530836718
+  },
+  {
+    "Name": "vehicle_detail",
+    "FileName": "vehicle_detail.sps",
+    "Hash": 1624338048
+  },
+  {
+    "Name": "vehicle_decal2",
+    "FileName": "vehicle_decal2.sps",
+    "Hash": 2046914023
+  },
+  {
+    "Name": "vehicle_decal",
+    "FileName": "vehicle_decal.sps",
+    "Hash": 1476233142
+  },
+  {
+    "Name": "normal_spec_emissive",
+    "FileName": "normal_spec_emissive.sps",
+    "Hash": 2858749359
+  },
+  {
+    "Name": "weapon_emissive_tnt",
+    "FileName": "weapon_emissive_tnt.sps",
+    "Hash": 1680670073
+  },
+  {
+    "Name": "normal_spec_dpm",
+    "FileName": "normal_spec_dpm.sps",
+    "Hash": 3131874099
+  },
+  {
+    "Name": "normal_spec_detail_tnt",
+    "FileName": "normal_spec_detail_tnt.sps",
+    "Hash": 2799537561
+  },
+  {
+    "Name": "glass_spec",
+    "FileName": "glass_spec.sps",
+    "Hash": 2846288772
+  },
+  {
+    "Name": "glass_reflect",
+    "FileName": "glass_reflect.sps",
+    "Hash": 3061885788
+  },
+  {
+    "Name": "glass_pv_env",
+    "FileName": "glass_pv_env.sps",
+    "Hash": 3305737954
+  },
+  {
+    "Name": "glass_pv",
+    "FileName": "glass_pv.sps",
+    "Hash": 1886009122
+  },
+  {
+    "Name": "glass_normal_spec_reflect",
+    "FileName": "glass_normal_spec_reflect.sps",
+    "Hash": 2777112714
+  },
+  {
+    "Name": "glass_env",
+    "FileName": "glass_env.sps",
+    "Hash": 2242617867
+  },
+  {
+    "Name": "glass_emissivenight_alpha",
+    "FileName": "glass_emissivenight_alpha.sps",
+    "Hash": 2003529381
+  },
+  {
+    "Name": "glass_emissivenight",
+    "FileName": "glass_emissivenight.sps",
+    "Hash": 1159135461
+  },
+  {
+    "Name": "glass_emissive_alpha",
+    "FileName": "glass_emissive_alpha.sps",
+    "Hash": 2109635618
+  },
+  {
+    "Name": "glass_emissive",
+    "FileName": "glass_emissive.sps",
+    "Hash": 445713287
+  },
+  {
+    "Name": "grass",
+    "FileName": "grass.sps",
+    "Hash": 1919038356
+  },
+  {
+    "Name": "glass_displacement",
+    "FileName": "glass_displacement.sps",
+    "Hash": 1654393052
+  },
+  {
+    "Name": "glass_breakable",
+    "FileName": "glass_breakable.sps",
+    "Hash": 3100082587
+  },
+  {
+    "Name": "glass",
+    "FileName": "glass.sps",
+    "Hash": 3656960447
+  },
+  {
+    "Name": "emissivestrong_alpha",
+    "FileName": "emissivestrong_alpha.sps",
+    "Hash": 3713990737
+  },
+  {
+    "Name": "emissivestrong",
+    "FileName": "emissivestrong.sps",
+    "Hash": 205143670
+  },
+  {
+    "Name": "emissivenight_geomnightonly",
+    "FileName": "emissivenight_geomnightonly.sps",
+    "Hash": 564913250
+  },
+  {
+    "Name": "emissivenight_alpha",
+    "FileName": "emissivenight_alpha.sps",
+    "Hash": 299227460
+  },
+  {
+    "Name": "emissivenight",
+    "FileName": "emissivenight.sps",
+    "Hash": 2961990709
+  },
+  {
+    "Name": "emissive_tnt",
+    "FileName": "emissive_tnt.sps",
+    "Hash": 365505589
+  },
+  {
+    "Name": "emissive_speclum",
+    "FileName": "emissive_speclum.sps",
+    "Hash": 3819347700
+  },
+  {
+    "Name": "emissive_clip",
+    "FileName": "emissive_clip.sps",
+    "Hash": 2462058153
+  },
+  {
+    "Name": "glass_breakable_screendooralpha",
+    "FileName": "glass_breakable_screendooralpha.sps",
+    "Hash": 2672585416
+  },
+  {
+    "Name": "emissive_alpha_tnt",
+    "FileName": "emissive_alpha_tnt.sps",
+    "Hash": 3905461487
+  },
+  {
+    "Name": "grass_batch",
+    "FileName": "grass_batch.sps",
+    "Hash": 282539382
+  },
+  {
+    "Name": "grass_batch_camera_facing",
+    "FileName": "grass_batch_camera_facing.sps",
+    "Hash": 1954439223
+  },
+  {
+    "Name": "gta_emissivestrong_alpha",
+    "FileName": "gta_emissivestrong_alpha.sps",
+    "Hash": 2938010411
+  },
+  {
+    "Name": "gta_emissivestrong",
+    "FileName": "gta_emissivestrong.sps",
+    "Hash": 3677132553
+  },
+  {
+    "Name": "gta_emissivenight_alpha",
+    "FileName": "gta_emissivenight_alpha.sps",
+    "Hash": 3817282132
+  },
+  {
+    "Name": "gta_emissivenight",
+    "FileName": "gta_emissivenight.sps",
+    "Hash": 1621089404
+  },
+  {
+    "Name": "gta_emissive_alpha",
+    "FileName": "gta_emissive_alpha.sps",
+    "Hash": 126206626
+  },
+  {
+    "Name": "gta_emissive",
+    "FileName": "gta_emissive.sps",
+    "Hash": 324443683
+  },
+  {
+    "Name": "gta_default",
+    "FileName": "gta_default.sps",
+    "Hash": 2066433082
+  },
+  {
+    "Name": "gta_decal_normal_only",
+    "FileName": "gta_decal_normal_only.sps",
+    "Hash": 1878770439
+  },
+  {
+    "Name": "gta_decal_glue",
+    "FileName": "gta_decal_glue.sps",
+    "Hash": 4034916068
+  },
+  {
+    "Name": "gta_decal_dirt",
+    "FileName": "gta_decal_dirt.sps",
+    "Hash": 3574987772
+  },
+  {
+    "Name": "grass_batch_camera_aligned",
+    "FileName": "grass_batch_camera_aligned.sps",
+    "Hash": 3310054578
+  },
+  {
+    "Name": "gta_decal_amb_only",
+    "FileName": "gta_decal_amb_only.sps",
+    "Hash": 3354947960
+  },
+  {
+    "Name": "gta_cutout_fence",
+    "FileName": "gta_cutout_fence.sps",
+    "Hash": 1389095975
+  },
+  {
+    "Name": "gta_cutout",
+    "FileName": "gta_cutout.sps",
+    "Hash": 1257607493
+  },
+  {
+    "Name": "gta_cubemap_reflect",
+    "FileName": "gta_cubemap_reflect.sps",
+    "Hash": 2270182178
+  },
+  {
+    "Name": "gta_alpha",
+    "FileName": "gta_alpha.sps",
+    "Hash": 1430730675
+  },
+  {
+    "Name": "grass_fur_tnt",
+    "FileName": "grass_fur_tnt.sps",
+    "Hash": 79147117
+  },
+  {
+    "Name": "grass_fur_mask",
+    "FileName": "grass_fur_mask.sps",
+    "Hash": 3668098687
+  },
+  {
+    "Name": "grass_fur_lod",
+    "FileName": "grass_fur_lod.sps",
+    "Hash": 93641610
+  },
+  {
+    "Name": "grass_fur",
+    "FileName": "grass_fur.sps",
+    "Hash": 908546335
+  },
+  {
+    "Name": "grass_camera_facing",
+    "FileName": "grass_camera_facing.sps",
+    "Hash": 555850950
+  },
+  {
+    "Name": "grass_camera_aligned",
+    "FileName": "grass_camera_aligned.sps",
+    "Hash": 3178634381
+  },
+  {
+    "Name": "gta_decal",
+    "FileName": "gta_decal.sps",
+    "Hash": 2823741819
+  },
+  {
+    "Name": "gta_glass",
+    "FileName": "gta_glass.sps",
+    "Hash": 3431201671
+  },
+  {
+    "Name": "emissive_alpha",
+    "FileName": "emissive_alpha.sps",
+    "Hash": 787470569
+  },
+  {
+    "Name": "emissive",
+    "FileName": "emissive.sps",
+    "Hash": 2401522793
+  },
+  {
+    "Name": "cutout_fence",
+    "FileName": "cutout_fence.sps",
+    "Hash": 1336160935
+  },
+  {
+    "Name": "cutout",
+    "FileName": "cutout.sps",
+    "Hash": 2133268634
+  },
+  {
+    "Name": "cubemap_reflect",
+    "FileName": "cubemap_reflect.sps",
+    "Hash": 2678624933
+  },
+  {
+    "Name": "cpv_only",
+    "FileName": "cpv_only.sps",
+    "Hash": 3856117637
+  },
+  {
+    "Name": "clouds_soft",
+    "FileName": "clouds_soft.sps",
+    "Hash": 4099035341
+  },
+  {
+    "Name": "clouds_fog",
+    "FileName": "clouds_fog.sps",
+    "Hash": 913501805
+  },
+  {
+    "Name": "clouds_fast",
+    "FileName": "clouds_fast.sps",
+    "Hash": 1760888715
+  },
+  {
+    "Name": "clouds_billboard_soft",
+    "FileName": "clouds_billboard_soft.sps",
+    "Hash": 3621157449
+  },
+  {
+    "Name": "clouds_billboard_fast",
+    "FileName": "clouds_billboard_fast.sps",
+    "Hash": 184869650
+  },
+  {
+    "Name": "clouds_animsoft",
+    "FileName": "clouds_animsoft.sps",
+    "Hash": 3759393171
+  },
+  {
+    "Name": "cutout_fence_normal",
+    "FileName": "cutout_fence_normal.sps",
+    "Hash": 104293071
+  },
+  {
+    "Name": "clouds_anim",
+    "FileName": "clouds_anim.sps",
+    "Hash": 530560059
+  },
+  {
+    "Name": "cloth_spec_cutout",
+    "FileName": "cloth_spec_cutout.sps",
+    "Hash": 1700488755
+  },
+  {
+    "Name": "cloth_spec_alpha",
+    "FileName": "cloth_spec_alpha.sps",
+    "Hash": 2505270630
+  },
+  {
+    "Name": "cloth_normal_spec_tnt",
+    "FileName": "cloth_normal_spec_tnt.sps",
+    "Hash": 3375152849
+  },
+  {
+    "Name": "cloth_normal_spec_cutout",
+    "FileName": "cloth_normal_spec_cutout.sps",
+    "Hash": 1045671722
+  },
+  {
+    "Name": "cloth_normal_spec_alpha",
+    "FileName": "cloth_normal_spec_alpha.sps",
+    "Hash": 79611903
+  },
+  {
+    "Name": "cloth_normal_spec",
+    "FileName": "cloth_normal_spec.sps",
+    "Hash": 3183647948
+  },
+  {
+    "Name": "cloth_default",
+    "FileName": "cloth_default.sps",
+    "Hash": 1535203820
+  },
+  {
+    "Name": "cable",
+    "FileName": "cable.sps",
+    "Hash": 23089171
+  },
+  {
+    "Name": "blend_2lyr",
+    "FileName": "blend_2lyr.sps",
+    "Hash": 749403737
+  },
+  {
+    "Name": "billboard_nobump",
+    "FileName": "billboard_nobump.sps",
+    "Hash": 1044654035
+  },
+  {
+    "Name": "clouds_altitude",
+    "FileName": "clouds_altitude.sps",
+    "Hash": 1920620933
+  },
+  {
+    "Name": "emissive_additive_alpha",
+    "FileName": "emissive_additive_alpha.sps",
+    "Hash": 3025131022
+  },
+  {
+    "Name": "cutout_hard",
+    "FileName": "cutout_hard.sps",
+    "Hash": 1453501989
+  },
+  {
+    "Name": "cutout_tnt",
+    "FileName": "cutout_tnt.sps",
+    "Hash": 3501912970
+  },
+  {
+    "Name": "distance_map",
+    "FileName": "distance_map.sps",
+    "Hash": 3764329026
+  },
+  {
+    "Name": "default_um",
+    "FileName": "default_um.sps",
+    "Hash": 3383412017
+  },
+  {
+    "Name": "default_tnt",
+    "FileName": "default_tnt.sps",
+    "Hash": 356542852
+  },
+  {
+    "Name": "default_terrain_wet",
+    "FileName": "default_terrain_wet.sps",
+    "Hash": 3937123418
+  },
+  {
+    "Name": "default_spec",
+    "FileName": "default_spec.sps",
+    "Hash": 793475536
+  },
+  {
+    "Name": "default_noedge",
+    "FileName": "default_noedge.sps",
+    "Hash": 3696978995
+  },
+  {
+    "Name": "default_detail",
+    "FileName": "default_detail.sps",
+    "Hash": 3558173830
+  },
+  {
+    "Name": "default",
+    "FileName": "default.sps",
+    "Hash": 3839837909
+  },
+  {
+    "Name": "decal_tnt",
+    "FileName": "decal_tnt.sps",
+    "Hash": 350527346
+  },
+  {
+    "Name": "decal_spec_only",
+    "FileName": "decal_spec_only.sps",
+    "Hash": 3908047251
+  },
+  {
+    "Name": "cutout_spec_tnt",
+    "FileName": "cutout_spec_tnt.sps",
+    "Hash": 464961183
+  },
+  {
+    "Name": "decal_shadow_only",
+    "FileName": "decal_shadow_only.sps",
+    "Hash": 1453723429
+  },
+  {
+    "Name": "decal_normal_only",
+    "FileName": "decal_normal_only.sps",
+    "Hash": 3369308108
+  },
+  {
+    "Name": "decal_normal_blend_2lyr",
+    "FileName": "decal_normal_blend_2lyr.sps",
+    "Hash": 831735085
+  },
+  {
+    "Name": "decal_glue",
+    "FileName": "decal_glue.sps",
+    "Hash": 935781888
+  },
+  {
+    "Name": "decal_emissivenight_only",
+    "FileName": "decal_emissivenight_only.sps",
+    "Hash": 3581119515
+  },
+  {
+    "Name": "decal_emissive_only",
+    "FileName": "decal_emissive_only.sps",
+    "Hash": 530103687
+  },
+  {
+    "Name": "decal_dirt",
+    "FileName": "decal_dirt.sps",
+    "Hash": 3645727493
+  },
+  {
+    "Name": "decal_diff_only_um",
+    "FileName": "decal_diff_only_um.sps",
+    "Hash": 448337796
+  },
+  {
+    "Name": "decal_amb_only",
+    "FileName": "decal_amb_only.sps",
+    "Hash": 2924834062
+  },
+  {
+    "Name": "decal",
+    "FileName": "decal.sps",
+    "Hash": 4035389908
+  },
+  {
+    "Name": "cutout_um",
+    "FileName": "cutout_um.sps",
+    "Hash": 919607430
+  },
+  {
+    "Name": "decal_normal_spec_um",
+    "FileName": "decal_normal_spec_um.sps",
+    "Hash": 1661808802
+  },
+  {
+    "Name": "gta_glass_emissive",
+    "FileName": "gta_glass_emissive.sps",
+    "Hash": 527508546
+  },
+  {
+    "Name": "gta_glass_emissive_alpha",
+    "FileName": "gta_glass_emissive_alpha.sps",
+    "Hash": 314974383
+  },
+  {
+    "Name": "gta_glass_emissivenight",
+    "FileName": "gta_glass_emissivenight.sps",
+    "Hash": 2712127876
+  },
+  {
+    "Name": "normal_diffspec_detail_tnt",
+    "FileName": "normal_diffspec_detail_tnt.sps",
+    "Hash": 575186623
+  },
+  {
+    "Name": "normal_diffspec_detail_dpm_wind",
+    "FileName": "normal_diffspec_detail_dpm_wind.sps",
+    "Hash": 2630547812
+  },
+  {
+    "Name": "normal_diffspec_detail_dpm_tnt",
+    "FileName": "normal_diffspec_detail_dpm_tnt.sps",
+    "Hash": 1512320401
+  },
+  {
+    "Name": "normal_diffspec_detail_dpm",
+    "FileName": "normal_diffspec_detail_dpm.sps",
+    "Hash": 3037403165
+  },
+  {
+    "Name": "normal_diffspec_detail",
+    "FileName": "normal_diffspec_detail.sps",
+    "Hash": 2052810483
+  },
+  {
+    "Name": "normal_diffspec",
+    "FileName": "normal_diffspec.sps",
+    "Hash": 1770723557
+  },
+  {
+    "Name": "normal_detail_tnt_dpm",
+    "FileName": "normal_detail_tnt_dpm.sps",
+    "Hash": 943346117
+  },
+  {
+    "Name": "normal_detail_dpm_tnt",
+    "FileName": "normal_detail_dpm_tnt.sps",
+    "Hash": 3855219614
+  },
+  {
+    "Name": "normal_detail_dpm",
+    "FileName": "normal_detail_dpm.sps",
+    "Hash": 3709016711
+  },
+  {
+    "Name": "normal_detail",
+    "FileName": "normal_detail.sps",
+    "Hash": 419906089
+  },
+  {
+    "Name": "normal_diffspec_detail_tnt_dpm",
+    "FileName": "normal_diffspec_detail_tnt_dpm.sps",
+    "Hash": 2612718373
+  },
+  {
+    "Name": "normal_decal_tnt_pxm",
+    "FileName": "normal_decal_tnt_pxm.sps",
+    "Hash": 3903724710
+  },
+  {
+    "Name": "normal_decal_pxm_tnt",
+    "FileName": "normal_decal_pxm_tnt.sps",
+    "Hash": 10069461
+  },
+  {
+    "Name": "normal_decal_pxm",
+    "FileName": "normal_decal_pxm.sps",
+    "Hash": 2201003
+  },
+  {
+    "Name": "normal_decal",
+    "FileName": "normal_decal.sps",
+    "Hash": 353430503
+  },
+  {
+    "Name": "normal_cutout_um",
+    "FileName": "normal_cutout_um.sps",
+    "Hash": 2848602182
+  },
+  {
+    "Name": "normal_cutout_tnt",
+    "FileName": "normal_cutout_tnt.sps",
+    "Hash": 108136828
+  },
+  {
+    "Name": "normal_cutout",
+    "FileName": "normal_cutout.sps",
+    "Hash": 3565001264
+  },
+  {
+    "Name": "normal_cubemap_reflect",
+    "FileName": "normal_cubemap_reflect.sps",
+    "Hash": 664911280
+  },
+  {
+    "Name": "normal_alpha",
+    "FileName": "normal_alpha.sps",
+    "Hash": 928491618
+  },
+  {
+    "Name": "normal",
+    "FileName": "normal.sps",
+    "Hash": 1330140418
+  },
+  {
+    "Name": "mirror_default",
+    "FileName": "mirror_default.sps",
+    "Hash": 187787561
+  },
+  {
+    "Name": "normal_decal_tnt",
+    "FileName": "normal_decal_tnt.sps",
+    "Hash": 2475575793
+  },
+  {
+    "Name": "mirror_decal",
+    "FileName": "mirror_decal.sps",
+    "Hash": 4271479320
+  },
+  {
+    "Name": "normal_diffspec_dpm",
+    "FileName": "normal_diffspec_dpm.sps",
+    "Hash": 2394792464
+  },
+  {
+    "Name": "normal_pxm",
+    "FileName": "normal_pxm.sps",
+    "Hash": 3573804754
+  },
+  {
+    "Name": "normal_spec_detail_dpm_vertdecal_tnt",
+    "FileName": "normal_spec_detail_dpm_vertdecal_tnt.sps",
+    "Hash": 1596395344
+  },
+  {
+    "Name": "normal_spec_detail_dpm_tnt",
+    "FileName": "normal_spec_detail_dpm_tnt.sps",
+    "Hash": 1269913752
+  },
+  {
+    "Name": "normal_spec_detail_dpm_texdecal_tnt",
+    "FileName": "normal_spec_detail_dpm_texdecal_tnt.sps",
+    "Hash": 2693229048
+  },
+  {
+    "Name": "normal_spec_detail_dpm",
+    "FileName": "normal_spec_detail_dpm.sps",
+    "Hash": 313105353
+  },
+  {
+    "Name": "normal_spec_detail",
+    "FileName": "normal_spec_detail.sps",
+    "Hash": 3620052489
+  },
+  {
+    "Name": "normal_spec_decal_tnt",
+    "FileName": "normal_spec_decal_tnt.sps",
+    "Hash": 1908067341
+  },
+  {
+    "Name": "normal_spec_decal_pxm",
+    "FileName": "normal_spec_decal_pxm.sps",
+    "Hash": 1685310865
+  },
+  {
+    "Name": "normal_spec_decal_nopuddle",
+    "FileName": "normal_spec_decal_nopuddle.sps",
+    "Hash": 2506005564
+  },
+  {
+    "Name": "normal_spec_decal_detail",
+    "FileName": "normal_spec_decal_detail.sps",
+    "Hash": 3812717079
+  },
+  {
+    "Name": "normal_spec_decal",
+    "FileName": "normal_spec_decal.sps",
+    "Hash": 471606640
+  },
+  {
+    "Name": "normal_diffspec_tnt",
+    "FileName": "normal_diffspec_tnt.sps",
+    "Hash": 2554586754
+  },
+  {
+    "Name": "normal_spec_cutout_tnt",
+    "FileName": "normal_spec_cutout_tnt.sps",
+    "Hash": 1390160229
+  },
+  {
+    "Name": "normal_spec_cubemap_reflect",
+    "FileName": "normal_spec_cubemap_reflect.sps",
+    "Hash": 3216221906
+  },
+  {
+    "Name": "normal_spec_batch",
+    "FileName": "normal_spec_batch.sps",
+    "Hash": 797688845
+  },
+  {
+    "Name": "normal_spec_alpha",
+    "FileName": "normal_spec_alpha.sps",
+    "Hash": 2243735549
+  },
+  {
+    "Name": "normal_spec",
+    "FileName": "normal_spec.sps",
+    "Hash": 954007775
+  },
+  {
+    "Name": "normal_screendooralpha",
+    "FileName": "normal_screendooralpha.sps",
+    "Hash": 2297472419
+  },
+  {
+    "Name": "normal_reflect_screendooralpha",
+    "FileName": "normal_reflect_screendooralpha.sps",
+    "Hash": 1724484221
+  },
+  {
+    "Name": "normal_reflect_decal",
+    "FileName": "normal_reflect_decal.sps",
+    "Hash": 2223979604
+  },
+  {
+    "Name": "normal_reflect_alpha",
+    "FileName": "normal_reflect_alpha.sps",
+    "Hash": 1681740382
+  },
+  {
+    "Name": "normal_reflect",
+    "FileName": "normal_reflect.sps",
+    "Hash": 4163455306
+  },
+  {
+    "Name": "normal_pxm_tnt",
+    "FileName": "normal_pxm_tnt.sps",
+    "Hash": 4234438410
+  },
+  {
+    "Name": "normal_spec_cutout",
+    "FileName": "normal_spec_cutout.sps",
+    "Hash": 1378977045
+  },
+  {
+    "Name": "mirror_crack",
+    "FileName": "mirror_crack.sps",
+    "Hash": 1612752374
+  },
+  {
+    "Name": "mirror",
+    "FileName": "mirror.sps",
+    "Hash": 1415590947
+  },
+  {
+    "Name": "minimap",
+    "FileName": "minimap.sps",
+    "Hash": 1032385525
+  },
+  {
+    "Name": "gta_normal_spec_decal_nopuddle",
+    "FileName": "gta_normal_spec_decal_nopuddle.sps",
+    "Hash": 1535277786
+  },
+  {
+    "Name": "gta_normal_spec_decal",
+    "FileName": "gta_normal_spec_decal.sps",
+    "Hash": 557891021
+  },
+  {
+    "Name": "gta_normal_spec_cubemap_reflect",
+    "FileName": "gta_normal_spec_cubemap_reflect.sps",
+    "Hash": 2200736691
+  },
+  {
+    "Name": "gta_normal_spec_alpha",
+    "FileName": "gta_normal_spec_alpha.sps",
+    "Hash": 4139781778
+  },
+  {
+    "Name": "gta_normal_spec",
+    "FileName": "gta_normal_spec.sps",
+    "Hash": 3022020999
+  },
+  {
+    "Name": "gta_normal_screendooralpha",
+    "FileName": "gta_normal_screendooralpha.sps",
+    "Hash": 3890485875
+  },
+  {
+    "Name": "gta_normal_reflect_screendooralpha",
+    "FileName": "gta_normal_reflect_screendooralpha.sps",
+    "Hash": 697585548
+  },
+  {
+    "Name": "gta_normal_reflect_decal",
+    "FileName": "gta_normal_reflect_decal.sps",
+    "Hash": 72477194
+  },
+  {
+    "Name": "gta_normal_reflect_alpha",
+    "FileName": "gta_normal_reflect_alpha.sps",
+    "Hash": 733321926
+  },
+  {
+    "Name": "gta_normal_reflect",
+    "FileName": "gta_normal_reflect.sps",
+    "Hash": 2511772191
+  },
+  {
+    "Name": "gta_normal_spec_reflect",
+    "FileName": "gta_normal_spec_reflect.sps",
+    "Hash": 1258254618
+  },
+  {
+    "Name": "gta_normal_decal",
+    "FileName": "gta_normal_decal.sps",
+    "Hash": 2631982205
+  },
+  {
+    "Name": "gta_normal_cubemap_reflect",
+    "FileName": "gta_normal_cubemap_reflect.sps",
+    "Hash": 2311775938
+  },
+  {
+    "Name": "gta_normal_alpha",
+    "FileName": "gta_normal_alpha.sps",
+    "Hash": 506498752
+  },
+  {
+    "Name": "gta_normal",
+    "FileName": "gta_normal.sps",
+    "Hash": 2437839163
+  },
+  {
+    "Name": "gta_mirror",
+    "FileName": "gta_mirror.sps",
+    "Hash": 3954812646
+  },
+  {
+    "Name": "gta_leaves",
+    "FileName": "gta_leaves.sps",
+    "Hash": 2949450815
+  },
+  {
+    "Name": "gta_hair_sorted_alpha_expensive",
+    "FileName": "gta_hair_sorted_alpha_expensive.sps",
+    "Hash": 394128061
+  },
+  {
+    "Name": "gta_glass_spec",
+    "FileName": "gta_glass_spec.sps",
+    "Hash": 2411612333
+  },
+  {
+    "Name": "gta_glass_reflect",
+    "FileName": "gta_glass_reflect.sps",
+    "Hash": 1873517053
+  },
+  {
+    "Name": "gta_glass_normal_spec_reflect",
+    "FileName": "gta_glass_normal_spec_reflect.sps",
+    "Hash": 4112607771
+  },
+  {
+    "Name": "gta_glass_emissivenight_alpha",
+    "FileName": "gta_glass_emissivenight_alpha.sps",
+    "Hash": 576857417
+  },
+  {
+    "Name": "gta_normal_cutout",
+    "FileName": "gta_normal_cutout.sps",
+    "Hash": 2858321253
+  },
+  {
+    "Name": "gta_normal_spec_reflect_alpha",
+    "FileName": "gta_normal_spec_reflect_alpha.sps",
+    "Hash": 934980087
+  },
+  {
+    "Name": "gta_normal_spec_reflect_decal",
+    "FileName": "gta_normal_spec_reflect_decal.sps",
+    "Hash": 1727553464
+  },
+  {
+    "Name": "gta_normal_spec_reflect_emissive",
+    "FileName": "gta_normal_spec_reflect_emissive.sps",
+    "Hash": 3402264723
+  },
+  {
+    "Name": "leaves",
+    "FileName": "leaves.sps",
+    "Hash": 3518764609
+  },
+  {
+    "Name": "gta_trees",
+    "FileName": "gta_trees.sps",
+    "Hash": 2761675188
+  },
+  {
+    "Name": "gta_spec_screendooralpha",
+    "FileName": "gta_spec_screendooralpha.sps",
+    "Hash": 2070796870
+  },
+  {
+    "Name": "gta_spec_reflect_screendooralpha",
+    "FileName": "gta_spec_reflect_screendooralpha.sps",
+    "Hash": 2381253792
+  },
+  {
+    "Name": "gta_spec_reflect_decal",
+    "FileName": "gta_spec_reflect_decal.sps",
+    "Hash": 2928354651
+  },
+  {
+    "Name": "gta_spec_reflect_alpha",
+    "FileName": "gta_spec_reflect_alpha.sps",
+    "Hash": 3863156474
+  },
+  {
+    "Name": "gta_spec_reflect",
+    "FileName": "gta_spec_reflect.sps",
+    "Hash": 1715773380
+  },
+  {
+    "Name": "gta_spec_decal",
+    "FileName": "gta_spec_decal.sps",
+    "Hash": 862765624
+  },
+  {
+    "Name": "gta_spec_const",
+    "FileName": "gta_spec_const.sps",
+    "Hash": 2190823648
+  },
+  {
+    "Name": "gta_spec_alpha",
+    "FileName": "gta_spec_alpha.sps",
+    "Hash": 4052095185
+  },
+  {
+    "Name": "gta_spec",
+    "FileName": "gta_spec.sps",
+    "Hash": 3938600544
+  },
+  {
+    "Name": "gta_rmptfx_mesh",
+    "FileName": "gta_rmptfx_mesh.sps",
+    "Hash": 1945840976
+  },
+  {
+    "Name": "gta_reflect_decal",
+    "FileName": "gta_reflect_decal.sps",
+    "Hash": 853132736
+  },
+  {
+    "Name": "gta_reflect_alpha",
+    "FileName": "gta_reflect_alpha.sps",
+    "Hash": 1271176616
+  },
+  {
+    "Name": "gta_reflect",
+    "FileName": "gta_reflect.sps",
+    "Hash": 1514356879
+  },
+  {
+    "Name": "gta_radar",
+    "FileName": "gta_radar.sps",
+    "Hash": 2882575642
+  },
+  {
+    "Name": "gta_parallax_steep",
+    "FileName": "gta_parallax_steep.sps",
+    "Hash": 1934609446
+  },
+  {
+    "Name": "gta_parallax_specmap",
+    "FileName": "gta_parallax_specmap.sps",
+    "Hash": 2895691524
+  },
+  {
+    "Name": "gta_parallax",
+    "FileName": "gta_parallax.sps",
+    "Hash": 1344416654
+  },
+  {
+    "Name": "gta_normal_spec_screendooralpha",
+    "FileName": "gta_normal_spec_screendooralpha.sps",
+    "Hash": 2143231280
+  },
+  {
+    "Name": "gta_normal_spec_reflect_emissivenight_alpha",
+    "FileName": "gta_normal_spec_reflect_emissivenight_alpha.sps",
+    "Hash": 1628788668
+  },
+  {
+    "Name": "gta_normal_spec_reflect_emissivenight",
+    "FileName": "gta_normal_spec_reflect_emissivenight.sps",
+    "Hash": 582164033
+  },
+  {
+    "Name": "gta_normal_spec_reflect_emissive_alpha",
+    "FileName": "gta_normal_spec_reflect_emissive_alpha.sps",
+    "Hash": 3238806828
+  },
+  {
+    "Name": "normal_spec_detail_tnt_dpm",
+    "FileName": "normal_spec_detail_tnt_dpm.sps",
+    "Hash": 3555887389
+  },
+  {
+    "Name": "weapon_normal_spec_palette",
+    "FileName": "weapon_normal_spec_palette.sps",
+    "Hash": 2567283181
+  }
+]

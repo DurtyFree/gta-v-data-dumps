@@ -6,7 +6,7 @@ If you are in search for an easy way to browse those GTA V data, try **Pleb Mast
 [![Pleb Masters Forge Logo](https://i.imgur.com/hotlSPf.png)](https://forge.plebmasters.de)
 [![Durty Map Editor Logo](https://i.imgur.com/WsRJv3u.png)](https://durty.me)
 
-## All data up2date as of GTA V update: **v2372 (Online 1.57) [DLC: mptuner]**
+## All data up2date as of GTA V update: **v2372.2 (Online 1.57) [DLC: patchday25ng]**
 ---
 ### Please create an issue if you have any problems with the data, so I can improve my generator. You are also welcome to create issues for dumps you would like to see.
 ---

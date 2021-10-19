@@ -1,0 +1,4889 @@
+[
+  {
+    "Name": "vehshare_truck",
+    "VehicleModels": [
+      null,
+      null,
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_comet_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_btype_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehshare_worn",
+    "VehicleModels": [
+      "boattrailer",
+      "boattrailer"
+    ]
+  },
+  {
+    "Name": "vehshare_army",
+    "VehicleModels": [
+      "boattrailer"
+    ]
+  },
+  {
+    "Name": "vehicles_blista2_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_futo_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_monster_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_journey_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_van_interior",
+    "VehicleModels": [
+      "boattrailer"
+    ]
+  },
+  {
+    "Name": "vehicles_elegy_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_feltzer_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_bodhi_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_peyote_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_voodoo_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_sportbk_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_vacca_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_worn_van",
+    "VehicleModels": [
+      "boattrailer"
+    ]
+  },
+  {
+    "Name": "vehicles_boat_interior",
+    "VehicleModels": [
+      "boattrailer"
+    ]
+  },
+  {
+    "Name": "vehicles_flyer_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_wornflyer_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_chopperbk_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_worn_army_flyer_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_stinger_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_monroe_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_jet_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_cav_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_supergt_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_bob_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_feroci_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_coquette_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_bob_brown_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_sultan_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_tornado_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_banshee_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_speedo_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_speedo2_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_cavarmy_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_schaf_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_schaf_brown_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_poltax_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_dom_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "cavalcade",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "cavalcade2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "akuma",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "sanchez",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "sanchez2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "ruffian",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "nemesis",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "PCJ",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "double",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "carbonrs",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "bati",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "bati2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "bagger",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "policeb",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "faggio2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "daemon",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vader",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "feltzer2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "bullet",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "penumbra",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "peyote",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "hotknife",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "voodoo2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "minivan",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "baller",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "baller2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "bison",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "bison2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "bison3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "granger",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "fbi2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "mesa",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "mesa2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "mesa3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "gresley",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "rocoto",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "bjxl",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "radi",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "crusader",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "dubsta",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "dubsta2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "patriot",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "sadler",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "sadler2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "sandking",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "sandking2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "seminole",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "sheriff2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "lguard",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "pranger",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "landstalker",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "adder",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "entityxf",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "ninef",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "ninef2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "exemplar",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "rapidGT",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "rapidGT2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "f620",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "surano",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "voltic",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "tailgater",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "issi2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "jackal",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "surge",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "oracle",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "oracle2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "cogcabrio",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "prairie",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "primo",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "romero",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "schafter2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "schwarzer",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "asea",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "asea2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "asterope",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "blista",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "carbonizzare",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "superd",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "felon",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "elegy2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "stinger",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "stingergt",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vacca",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "felon2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "police",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "police2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "police3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "police4",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "buffalo",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "buffalo2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "dilettante2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "dilettante",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "fbi",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "fugitive",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "premier",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "stretch",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "sheriff",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "taxi",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "stanier",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "washington",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "bobcatxl",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "intruder",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "coquette",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "fq2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "habanero",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "serrano",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "stratum",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "ingot",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "policeold1",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "rancherxl",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "rancherxl2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "picador",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "rebel2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "dloader",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "ratloader",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "towtruck2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "rebel",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "dominator",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "sabregt",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "regina",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "phoenix",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "gauntlet",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "buccaneer",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "ruiner",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "manana",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "monroe",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "policeold2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "jb700",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "emperor",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vigero",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "tornado",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "tornado2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "tornado3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "emperor2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "emperor3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "bfinjection",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "tornado4",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "docktug",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "sultan",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "sentinel",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "sentinel2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "fusilade",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "khamelion",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "zion",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "zion2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "banshee",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "cheetah",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "speedo",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "shamal",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "cargoplane",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "luxor",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "buzzard",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "buzzard2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "maverick",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "submersible",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "blimp",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "frogger",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "frogger2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "polmav",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "mammatus",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "velum",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "jet",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "titan",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "docktrailer",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "lazer",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "annihilator",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "duster",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "cuban800",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "stunt",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "skylift",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "tractor2",
+    "VehicleModels": [
+      "boattrailer"
+    ]
+  },
+  {
+    "Name": "tractor3",
+    "VehicleModels": [
+      "boattrailer"
+    ]
+  },
+  {
+    "Name": "predator",
+    "VehicleModels": [
+      "boattrailer"
+    ]
+  },
+  {
+    "Name": "tiptruck",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "tiptruck2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "utillitruck3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "utillitruck2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "utillitruck",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "squalo",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "surfer2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "camper",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "barracks",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "barracks2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "benson",
+    "VehicleModels": [
+      "boattrailer"
+    ]
+  },
+  {
+    "Name": "biff",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "dune",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "bodhi2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "dump",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "towtruck",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "mixer",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "mixer2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "freight",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "phantom",
+    "VehicleModels": [
+      "boattrailer"
+    ]
+  },
+  {
+    "Name": "pony",
+    "VehicleModels": [
+      "boattrailer"
+    ]
+  },
+  {
+    "Name": "pony2",
+    "VehicleModels": [
+      "boattrailer"
+    ]
+  },
+  {
+    "Name": "hauler",
+    "VehicleModels": [
+      "boattrailer"
+    ]
+  },
+  {
+    "Name": "freightcar",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "freightcont1",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "freightcont2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "tankercar",
+    "VehicleModels": [
+      "boattrailer"
+    ]
+  },
+  {
+    "Name": "trash",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "tr3",
+    "VehicleModels": [
+      "boattrailer"
+    ]
+  },
+  {
+    "Name": "ripley",
+    "VehicleModels": [
+      "boattrailer"
+    ]
+  },
+  {
+    "Name": "airtug",
+    "VehicleModels": [
+      "boattrailer"
+    ]
+  },
+  {
+    "Name": "rhino",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "burrito",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "burrito2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "burrito3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "burrito4",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "burrito5",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "surfer",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "journey",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "mule",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "mule2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "taco",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "boxville",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "boxville2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "boxville3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "rumpo",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "rumpo2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "youga",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "gburrito",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "ambulance",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "rentalbus",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "tourbus",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "policet",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "riot",
+    "VehicleModels": [
+      "boattrailer"
+    ]
+  },
+  {
+    "Name": "stockade3",
+    "VehicleModels": [
+      "boattrailer"
+    ]
+  },
+  {
+    "Name": "flatbed",
+    "VehicleModels": [
+      "boattrailer"
+    ]
+  },
+  {
+    "Name": "pbus",
+    "VehicleModels": [
+      "boattrailer"
+    ]
+  },
+  {
+    "Name": "firetruk",
+    "VehicleModels": [
+      "boattrailer"
+    ]
+  },
+  {
+    "Name": "coach",
+    "VehicleModels": [
+      "boattrailer"
+    ]
+  },
+  {
+    "Name": "vehicles_worn_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_bob_worn_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "bulldozer",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "cutter",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "seashark2",
+    "VehicleModels": [
+      "boattrailer"
+    ]
+  },
+  {
+    "Name": "caddy2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "suntrap",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "metrotrain",
+    "VehicleModels": [
+      "boattrailer"
+    ]
+  },
+  {
+    "Name": "mower",
+    "VehicleModels": [
+      "boattrailer"
+    ]
+  },
+  {
+    "Name": "speedo2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "handler",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "trflat",
+    "VehicleModels": [
+      "boattrailer"
+    ]
+  },
+  {
+    "Name": "boattrailer",
+    "VehicleModels": [
+      "boattrailer"
+    ]
+  },
+  {
+    "Name": "stockade",
+    "VehicleModels": [
+      "boattrailer"
+    ]
+  },
+  {
+    "Name": "rubble",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "scrap",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "bus",
+    "VehicleModels": [
+      "boattrailer"
+    ]
+  },
+  {
+    "Name": "tropic",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "marquis",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "pounder",
+    "VehicleModels": [
+      "boattrailer"
+    ]
+  },
+  {
+    "Name": "jetmax",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "dinghy",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "dinghy2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "forklift",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "packer",
+    "VehicleModels": [
+      "boattrailer"
+    ]
+  },
+  {
+    "Name": "trailers2",
+    "VehicleModels": [
+      "boattrailer"
+    ]
+  },
+  {
+    "Name": "trailers3",
+    "VehicleModels": [
+      "boattrailer"
+    ]
+  },
+  {
+    "Name": "armytanker",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "airbus",
+    "VehicleModels": [
+      "boattrailer"
+    ]
+  },
+  {
+    "Name": "seashark",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "armytrailer",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "armytrailer2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "tanker",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "tvtrailer",
+    "VehicleModels": [
+      "boattrailer"
+    ]
+  },
+  {
+    "Name": "baletrailer",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "freighttrailer",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "graintrailer",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "cargobob",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "cargobob2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "cargobob3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "infernus",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "comet2",
+    "VehicleModels": [
+      null,
+      null
+    ]
+  },
+  {
+    "Name": "ztype",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "futo",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "tampa",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "kalahari",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "paradise",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "speeder",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "alpha",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "jester",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "turismor",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vestra",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "huntley",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "thrust",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "massacro",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "zentorno",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "jester2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "massacro2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "slamvan",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "ratloader2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "riata",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "kamacho",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "akula",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "avenger",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "avenger2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "deluxo",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "sentinel3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "stromberg",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "chernobog",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "riot2",
+    "VehicleModels": [
+      "boattrailer"
+    ]
+  },
+  {
+    "Name": "yosemite",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "hermes",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "volatol",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "savestra",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "neon",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "comet4",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "streiter",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "z190",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "viseris",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "barrage",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "thruster",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "gt500",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "autarch",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "revolter",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "sc1",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "hustler",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "pariah",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "raiden",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "comet5",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_itali_w_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_arena",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_wasteland",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_scifi",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_consumer",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "bruiser",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "bruiser2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "bruiser3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "brutus",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "brutus2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "brutus3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "cerberus",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "cerberus2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "cerberus3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "clique",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "deathbike",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "deathbike3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "deveste",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "deviant",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "dominator4",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "dominator5",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "dominator6",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "impaler",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "impaler2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "impaler3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "impaler4",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "imperator",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "imperator2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "imperator3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "issi4",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "issi5",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "issi6",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "italigto",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "monster3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "monster4",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "monster5",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "schlagen",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "slamvan4",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "slamvan5",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "slamvan6",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "scarab",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "scarab2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "scarab3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "toros",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "tulip",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vamos",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "zr380",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "zr3802",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "zr3803",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "btype3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "btype",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "blade",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "glendale",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "panto",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "pigalle",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "warrener",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "rhapsody",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "dubsta3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "monster",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "sovereign",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "swift",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "besra",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "miljet",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "coquette2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "buffalo3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "dominator2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "gauntlet2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "blimp2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "marshall",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "dukes",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "dukes2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "stalion",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "stalion2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "blista2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "blista3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "dodo",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "submersible2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "innovation",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "hakuchou",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "furoregt",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "technical",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "boxville4",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "insurgent",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "insurgent2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "guardian",
+    "VehicleModels": [
+      "boattrailer"
+    ]
+  },
+  {
+    "Name": "hydra",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "savage",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "dinghy3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "mule3",
+    "VehicleModels": [
+      "boattrailer"
+    ]
+  },
+  {
+    "Name": "trash2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "velum2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "gburrito2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "enduro",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "casco",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "kuruma",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "kuruma2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "lectro",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "barracks3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "valkyrie",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "slamvan2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_biker_shared",
+    "VehicleModels": [
+      null,
+      null
+    ]
+  },
+  {
+    "Name": "outlaw",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "Stryder",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_racecar",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "Sugoi",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "jb7002",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "everon",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "komoda",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vstr",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "kanjo",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "imorgon",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "asbo",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "rebla",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "furia",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "zhaba",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "sultan2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "formula",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "formula2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "yosemite2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "retinue2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vagrant",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_gendials",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "avisa",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "squaddie",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "annihilator2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "verus",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "weevil",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "alkonost",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "longfin",
+    "VehicleModels": [
+      "boattrailer"
+    ]
+  },
+  {
+    "Name": "seasparrow2",
+    "VehicleModels": [
+      null,
+      null
+    ]
+  },
+  {
+    "Name": "seasparrow3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "manchez2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "italirsx",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "veto",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "kosatka",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "winky",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "brioso2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vetir",
+    "VehicleModels": [
+      "boattrailer"
+    ]
+  },
+  {
+    "Name": "toreador",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "dinghy5",
+    "VehicleModels": [
+      "boattrailer"
+    ]
+  },
+  {
+    "Name": "patrolboat",
+    "VehicleModels": [
+      "boattrailer"
+    ]
+  },
+  {
+    "Name": "slamtruck",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vindicator",
+    "VehicleModels": [
+      "boattrailer"
+    ]
+  },
+  {
+    "Name": "toro",
+    "VehicleModels": [
+      "boattrailer"
+    ]
+  },
+  {
+    "Name": "t20",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "chino",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "brawler",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "coquette3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "swift2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "luxor2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "feltzer3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "virgo",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "osiris",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "windsor",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_faction_interior",
+    "VehicleModels": [
+      null,
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_bob_w_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_tornado_w_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_cav_w_interior",
+    "VehicleModels": [
+      null,
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_faction_w_interior",
+    "VehicleModels": [
+      null,
+      null
+    ]
+  },
+  {
+    "Name": "faction3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "sabregt2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "minivan2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "slamvan3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "tornado5",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "virgo2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "virgo3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_lowrider",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_dom_w_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_peyote_w_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_schaf_w_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "faction",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "voodoo",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "faction2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "primo2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "moonbeam",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "moonbeam2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "chino2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "buccaneer2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "lurcher",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "btype2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_schaf_w2_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_cav_w2_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "supervolito",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "supervolito2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "mamba",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "nightshade",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "verlierer2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "limo2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "schafter3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "schafter4",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "schafter5",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "schafter6",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "cog55",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "cog552",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "cognoscenti",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "cognoscenti2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "baller3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "baller4",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "baller5",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "baller6",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "tropic2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "dinghy4",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "seashark3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "speeder2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "toro2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "cargobob4",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "valkyrie2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_race_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_sultanrs_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_banshee_w_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "banshee2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "sultanrs",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_proto_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_proto_w_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_fmj_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "fmj",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "xls",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "xls2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "brickade",
+    "VehicleModels": [
+      "boattrailer"
+    ]
+  },
+  {
+    "Name": "rumpo3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "nimbus",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "volatus",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "seven70",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "prototipo",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "bestiagts",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "pfister811",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "windsor2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "reaper",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "tug",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_race_generic",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "trophytruck",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "trophytruck2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "rallytruck",
+    "VehicleModels": [
+      "boattrailer"
+    ]
+  },
+  {
+    "Name": "omnis",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "tyrus",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "sheava",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "tampa2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "tropos",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "le7b",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "contender",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "cliffhanger",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "bf400",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "brioso",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "gargoyle",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "lynx",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_elegy_race",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_nero_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_nero_w_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_specter_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_specter_w_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_comet_race",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_worn_race",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "dune4",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "dune5",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "wastelander",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "diablous",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "diablous2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "ruiner2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "phantom2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "voltic2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "boxville5",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "technical2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "penetrator",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "fcr",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "fcr2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "comet3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "blazer5",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "nero",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "nero2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "specter",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "specter2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "italigtb",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "tempesta",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "italigtb2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "elegy",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "ruiner3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "nightblade",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "hakuchou2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "zombiea",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "zombieb",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "avarus",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "sanctus",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "raptor",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vortex",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "defiler",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "chimera",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "daemon2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "ratbike",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "esskey",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "shotaro",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "wolfsbane",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "manchez",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "blazer4",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "faggio3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "faggio",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "tornado6",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "youga2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "infernus2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "turismo2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "ruston",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "gp1",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "phantom3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "hauler2",
+    "VehicleModels": [
+      "boattrailer"
+    ]
+  },
+  {
+    "Name": "trailerlarge",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "trailersmall2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "apc",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "dune3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "torero",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "halftrack",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "tampa3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "insurgent3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "caddy3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "nightshark",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "technical3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "ardent",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "cheetah2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "oppressor",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vagner",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "xa21",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "hunter",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "tula",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "pyro",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "howard",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "bombushka",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "havok",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "microlight",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "alphaz1",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "seabreeze",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "rogue",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "mogul",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "starling",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "retinue",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "rapidgt3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "cyclone",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "visione",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vigilante",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "seasparrow",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "caracara",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "issi3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "taipan",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "gb200",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "tezeract",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "tyrant",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "dominator3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "flashgt",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "jester3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "fagaloa",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "ellie",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "michelli",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "hotring",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "cheburek",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "entity2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "speedo4",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "freecrawler",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "mule4",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "strikeforce",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "pounder2",
+    "VehicleModels": [
+      "boattrailer"
+    ]
+  },
+  {
+    "Name": "swinger",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "blimp3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "oppressor2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "pbus2",
+    "VehicleModels": [
+      "boattrailer"
+    ]
+  },
+  {
+    "Name": "patriot2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "terbyte",
+    "VehicleModels": [
+      "boattrailer"
+    ]
+  },
+  {
+    "Name": "menacer",
+    "VehicleModels": [
+      "boattrailer"
+    ]
+  },
+  {
+    "Name": "scramjet",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "stafford",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_jugular_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_zion3_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_trike_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_sup1_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_sup1_w_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_sup2_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_sup2_w_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_futo2_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_s80_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_muscle_supercharger",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_muscle_o_w_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_muscle_n_w_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_muscle_dom_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_muscle_pey_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_muscle_fac_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "jugular",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "zion3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "rrocket",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "gauntlet4",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "paragon",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "paragon2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "nebula",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "gauntlet3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "thrax",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "s80",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "neo",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "caracara2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "hellion",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "drafter",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "locust",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "issi7",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "novak",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "zorrusso",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "krieger",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "emerus",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "dynasty",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "peyote2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "penumbra2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "dukes3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "tigon",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "youga3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "landstalker2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "openwheel1",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "manana2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "club",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "gauntlet5",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "yosemite3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "peyote3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "glendale2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "seminole2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "openwheel2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "coquette4",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_pfister_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_fmj_w_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_jugular_w_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_coquette_w1_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_coquette_w2_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_fmj_w_race_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_futo_race_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_jugular_race_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_monroe_race_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_muscle_o_race_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_pfister_race_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_supergt_w1_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_supergt_w2_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "euros",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "tailgater2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vectre",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "dominator7",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "zr350",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "previon",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "warrener2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "jester4",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "cypher",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "calico",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "sultan3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "remus",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "rt3000",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "comet6",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "growler",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "futo2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "dominator8",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "freightcar2",
+    "VehicleModels": [
+      null
+    ]
+  }
+]

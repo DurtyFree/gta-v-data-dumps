@@ -79,7 +79,9 @@
         "Italian": "Nessuna",
         "Russian": "Нет",
         "Polish": "Brak",
-        "Name": null
+        "Name": null,
+        "TraditionalChinese": "無",
+        "SimplifiedChinese": null
       }
     },
     {
@@ -94,7 +96,9 @@
         "Italian": "Leggermente oscurati",
         "Russian": "Слабое затемнение",
         "Polish": "Lekko przydymione",
-        "Name": "CMOD_WIN_1"
+        "Name": "CMOD_WIN_1",
+        "TraditionalChinese": "淡色煙霧",
+        "SimplifiedChinese": null
       }
     },
     {
@@ -109,7 +113,9 @@
         "Italian": "Molto oscurati",
         "Russian": "Среднее затемнение",
         "Polish": "Mocno przydymione",
-        "Name": "CMOD_WIN_2"
+        "Name": "CMOD_WIN_2",
+        "TraditionalChinese": "深色煙霧",
+        "SimplifiedChinese": null
       }
     },
     {
@@ -124,7 +130,9 @@
         "Italian": "Limousine",
         "Russian": "Лимузин",
         "Polish": "Limuzynowe",
-        "Name": "CMOD_WIN_3"
+        "Name": "CMOD_WIN_3",
+        "TraditionalChinese": "長形禮車",
+        "SimplifiedChinese": null
       }
     },
     {
@@ -139,7 +147,9 @@
         "Italian": "Tinti",
         "Russian": "Тонировка",
         "Polish": "Barwione",
-        "Name": "CMOD_WIN_4"
+        "Name": "CMOD_WIN_4",
+        "TraditionalChinese": "調色",
+        "SimplifiedChinese": null
       }
     }
   ],
@@ -1767,7 +1777,9 @@
         "Italian": "Blu su bianco 1",
         "Russian": "Синий на белом 1",
         "Polish": "Błękit na bieli 1",
-        "Name": null
+        "Name": null,
+        "TraditionalChinese": "白底藍花樣式µ1",
+        "SimplifiedChinese": null
       },
       "FontColorHex": "FF0F2352",
       "FontOutlineColorHex": "FFFFFF"
@@ -1783,7 +1795,9 @@
         "Italian": "Blu su bianco 2",
         "Russian": "Синий на белом 2",
         "Polish": "Błękit na bieli 2",
-        "Name": "CMOD_PLA_1"
+        "Name": "CMOD_PLA_1",
+        "TraditionalChinese": "白底藍花樣式µ2",
+        "SimplifiedChinese": null
       },
       "FontColorHex": "FFCF9E00",
       "FontOutlineColorHex": "FFFFFF"
@@ -1799,7 +1813,9 @@
         "Italian": "Blu su bianco 3",
         "Russian": "Синий на белом 3",
         "Polish": "Błękit na bieli 3",
-        "Name": "CMOD_PLA_2"
+        "Name": "CMOD_PLA_2",
+        "TraditionalChinese": "白底藍花樣式µ3",
+        "SimplifiedChinese": null
       },
       "FontColorHex": "FFBD7121",
       "FontOutlineColorHex": "FFFFFF"
@@ -1815,7 +1831,9 @@
         "Italian": "Giallo su blu",
         "Russian": "Желтый на синем",
         "Polish": "Żółty na błękicie",
-        "Name": "CMOD_PLA_3"
+        "Name": "CMOD_PLA_3",
+        "TraditionalChinese": "藍底橙字樣式",
+        "SimplifiedChinese": null
       },
       "FontColorHex": "FF0F2352",
       "FontOutlineColorHex": "FFFF0000"
@@ -1831,7 +1849,9 @@
         "Italian": "Giallo su nero",
         "Russian": "Желтый на черном",
         "Polish": "Żółty na czerni",
-        "Name": "CMOD_PLA_4"
+        "Name": "CMOD_PLA_4",
+        "TraditionalChinese": "黑底黃花樣式",
+        "SimplifiedChinese": null
       },
       "FontColorHex": "FF0F2352",
       "FontOutlineColorHex": "FFFFFF"

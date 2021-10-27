@@ -53,6 +53,7 @@ If you are in search for an easy way to browse those GTA V data, try **Pleb Mast
 - **Mission Complete Audio names** ([missionCompleteAudioNames.json](missionCompleteAudioNames.json)) **4** mission complete audio names in total (Usable with PLAY_MISSION_COMPLETE_AUDIO native)
 - **Police Report names** ([policeReportNames.json](policeReportNames.json)) **50** police report names in total (Usable with PLAY_​POLICE_​REPORT native)
 - **Audio Scene names** ([audioSceneNames.json](audioSceneNames.json)) **1116** audio scene names in total (Usable with AUDIO_SCENE natives)
+- **Cutscene names** ([cutsceneNames.json](cutsceneNames.json)) **704** cut scene names in total (Usable with CUT_ or CUTSCENE_ natives)
 
 ## **Objects location dumps**
 Object location dumps contain positions of various objects of a specific type, on the GTA V map (including all interiors / MLOs).
@@ -77,7 +78,7 @@ Object location dumps contain positions of various objects of a specific type, o
 - **Harvest fields** (orange trees, vine grapes, corns, salad, pumpkin, tomatoes) ([worldHarvestFields.json](worldHarvestFields.json)) **623** in total
 - **Fruit stands** ([worldFruitStands.json](worldFruitStands.json)) **13** in total
 - **Seats** (Benches, Chairs etc.) ([worldSeats.json](worldSeats.json)) **7952** in total
-- **Food stands** ([worldFoodStands.json](worldFoodStands.json)(Hotdogs & Burger)) **23** in total
+- **Food stands** (Hotdogs & Burger) ([worldFoodStands.json](worldFoodStands.json)) **23** in total
 - **Container cabins** ([worldContainerCabins.json](worldContainerCabins.json)) **154** in total
 - **Street lights** ([worldStreetLights.json](worldStreetLights.json)) **5873** in total
 - **Traffic lights** ([worldTrafficLights.json](worldTrafficLights.json)) **1058** in total

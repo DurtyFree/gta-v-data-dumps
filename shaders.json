@@ -675,11 +675,6 @@
     "Hash": 1870918114
   },
   {
-    "Name": "normal_tnt_alpha",
-    "FileName": "normal_tnt_alpha.sps",
-    "Hash": 260088262
-  },
-  {
     "Name": "normal_spec_twiddle_tnt",
     "FileName": "normal_spec_twiddle_tnt.sps",
     "Hash": 2447870674
@@ -2078,10 +2073,5 @@
     "Name": "normal_spec_detail_tnt_dpm",
     "FileName": "normal_spec_detail_tnt_dpm.sps",
     "Hash": 3555887389
-  },
-  {
-    "Name": "weapon_normal_spec_palette",
-    "FileName": "weapon_normal_spec_palette.sps",
-    "Hash": 2567283181
   }
 ]

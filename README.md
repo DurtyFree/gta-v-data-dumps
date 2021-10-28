@@ -43,7 +43,7 @@ If you are in search for an easy way to browse those GTA V data, try **Pleb Mast
 - **Vehicle Colors** ([vehicleColors.json](vehicleColors.json)) Contains all **Xenon Colors, Window Colors, PrimarySecondaryColors & Vehicle Plates** data (Useful for various natives related to vehicle)
 - **Createable Objects** ([ObjectList.ini](ObjectList.ini) **17255** createable objects in total (The objects that can be created with most common loaded ytyps) (Useful for CREATE_OBJECT native)
 - **Alarm Sound names** ([alarmSounds.json](alarmSounds.json)) **60** alarm sound names in total (Usable with ALARM natives)
-- **Shaders** ([shaders.json](shaders.json)) **417** shaders in total
+- **Shaders** ([shaders.json](shaders.json)) **415** shaders in total
 - **Train tracks** ([traintracks.json](traintracks.json)) **12** train tracks in total (Usable with TRACK natives)
 - **Ped Damage Packs** ([pedDamagePacks.json](pedDamagePacks.json)) **72** ped damage packs in total (Usable with APPLY_​PED_​DAMAGE_​PACK native)
 - **Music Event names** ([musicEventNames.json](musicEventNames.json)) **1549** music event names in total (Usable with MUSIC_EVENT natives)
@@ -57,31 +57,31 @@ If you are in search for an easy way to browse those GTA V data, try **Pleb Mast
 
 ## **Objects location dumps**
 Object location dumps contain positions of various objects of a specific type, on the GTA V map (including all interiors / MLOs).
-- **Vending Machines** ([worldVendingMachines.json](worldVendingMachines.json)) **329** in total
-- **Bin/Dumpster/Recycle Bins** ([worldBinsDumpsters.json](worldBinsDumpsters.json) & [worldRecycleBins.json](worldRecycleBins.json)) **7751** bins/dumpsters in total & **127** recycle bins in total
-- **Gas Pump Stations** ([worldGasPumps.json](worldGasPumps.json)) **157** in total
-- **Jukeboxes** ([worldJukeboxes.json](worldJukeboxes.json)) **6** in total
-- **Dart Discs** ([worldDartDiscs.json](worldDartDiscs.json)) **12** in total
-- **Bus Stops** ([worldBusStops.json](worldBusStops.json) & [worldBusStopSigns.json](worldBusStopSigns.json)) **48** bus stops in total & **1** bus stop sign in total
-- **Parknmeters** ([worldParknmeters.json](worldParknmeters.json)) **547** in total
-- **Telescopes** ([worldTelescopes.json](worldTelescopes.json)) **106** in total
-- **News Paper Dispenser** ([worldNewsPaperDispensers.json](worldNewsPaperDispensers.json)) **796** in total
-- **ATMs** ([worldAtms.json](worldAtms.json)) **121** in total
-- **Public Phones** ([worldPublicPhones.json](worldPublicPhones.json) & [worldExtraPhones.json](worldExtraPhones.json)) **432** public phones in total & **310** extra phones in total
-- **Radio Towers** ([worldRadioTowers.json](worldRadioTowers.json)) **86** in total
-- **Antennas** ([worldAntennas.json](worldAntennas.json)) **4** in total
-- **Mobile Masts** ([worldMobileMasts.json](worldMobileMasts.json)) **8** in total
-- **Air Masts** ([worldAirMasts.json](worldAirMasts.json)) **16** in total
-- **Fire Hydrants, Hoses & Drisers** ([worldFireHydrantDriser.json](worldFireHydrantDriser.json)) **1430** in total
-- **Post Boxes** ([worldPostBoxes.json](worldPostBoxes.json)) **195** in total
-- **Letter Boxes** ([worldLetterBoxes.json](worldLetterBoxes.json)) **378** in total
-- **Harvest fields** (orange trees, vine grapes, corns, salad, pumpkin, tomatoes) ([worldHarvestFields.json](worldHarvestFields.json)) **623** in total
-- **Fruit stands** ([worldFruitStands.json](worldFruitStands.json)) **13** in total
-- **Seats** (Benches, Chairs etc.) ([worldSeats.json](worldSeats.json)) **7952** in total
-- **Food stands** (Hotdogs & Burger) ([worldFoodStands.json](worldFoodStands.json)) **23** in total
-- **Container cabins** ([worldContainerCabins.json](worldContainerCabins.json)) **154** in total
-- **Street lights** ([worldStreetLights.json](worldStreetLights.json)) **5873** in total
-- **Traffic lights** ([worldTrafficLights.json](worldTrafficLights.json)) **1058** in total
-- **Cctv cameras** ([worldCctvs.json](worldCctvs.json)) **1606** in total
-- **Electricity boxes** ([worldElectricityBoxes.json](worldElectricityBoxes.json)) **1904** in total
-- **Wrecked vehicles** ([worldWreckedCars.json](worldWreckedCars.json) & [worldWreckedBikes.json](worldWreckedBikes.json)) **484** wrecked cars in total & **148** wrecked bikes in total
+- **Vending Machines** ([worldVendingMachines.json](objectslocations/worldVendingMachines.json)) **329** in total
+- **Bin/Dumpster/Recycle Bins** ([worldBinsDumpsters.json](objectslocations/worldBinsDumpsters.json) & [worldRecycleBins.json](objectslocations/worldRecycleBins.json)) **7751** bins/dumpsters in total & **127** recycle bins in total
+- **Gas Pump Stations** ([worldGasPumps.json](objectslocations/worldGasPumps.json)) **157** in total
+- **Jukeboxes** ([worldJukeboxes.json](objectslocations/worldJukeboxes.json)) **6** in total
+- **Dart Discs** ([worldDartDiscs.json](objectslocations/worldDartDiscs.json)) **12** in total
+- **Bus Stops** ([worldBusStops.json](objectslocations/worldBusStops.json) & [worldBusStopSigns.json](objectslocations/worldBusStopSigns.json)) **48** bus stops in total & **1** bus stop sign in total
+- **Parknmeters** ([worldParknmeters.json](objectslocations/worldParknmeters.json)) **547** in total
+- **Telescopes** ([worldTelescopes.json](objectslocations/worldTelescopes.json)) **106** in total
+- **News Paper Dispenser** ([worldNewsPaperDispensers.json](objectslocations/worldNewsPaperDispensers.json)) **796** in total
+- **ATMs** ([worldAtms.json](objectslocations/worldAtms.json)) **121** in total
+- **Public Phones** ([worldPublicPhones.json](objectslocations/worldPublicPhones.json) & [worldExtraPhones.json](objectslocations/worldExtraPhones.json)) **432** public phones in total & **310** extra phones in total
+- **Radio Towers** ([worldRadioTowers.json](objectslocations/worldRadioTowers.json)) **86** in total
+- **Antennas** ([worldAntennas.json](objectslocations/worldAntennas.json)) **4** in total
+- **Mobile Masts** ([worldMobileMasts.json](objectslocations/worldMobileMasts.json)) **8** in total
+- **Air Masts** ([worldAirMasts.json](objectslocations/worldAirMasts.json)) **16** in total
+- **Fire Hydrants, Hoses & Drisers** ([worldFireHydrantDriser.json](objectslocations/worldFireHydrantDriser.json)) **1430** in total
+- **Post Boxes** ([worldPostBoxes.json](objectslocations/worldPostBoxes.json)) **195** in total
+- **Letter Boxes** ([worldLetterBoxes.json](objectslocations/worldLetterBoxes.json)) **378** in total
+- **Harvest fields** (orange trees, vine grapes, corns, salad, pumpkin, tomatoes) ([worldHarvestFields.json](objectslocations/worldHarvestFields.json)) **623** in total
+- **Fruit stands** ([worldFruitStands.json](objectslocations/worldFruitStands.json)) **13** in total
+- **Seats** (Benches, Chairs etc.) ([worldSeats.json](objectslocations/worldSeats.json)) **7952** in total
+- **Food stands** (Hotdogs & Burger) ([worldFoodStands.json](objectslocations/worldFoodStands.json)) **23** in total
+- **Container cabins** ([worldContainerCabins.json](objectslocations/worldContainerCabins.json)) **154** in total
+- **Street lights** ([worldStreetLights.json](objectslocations/worldStreetLights.json)) **5873** in total
+- **Traffic lights** ([worldTrafficLights.json](objectslocations/worldTrafficLights.json)) **1058** in total
+- **Cctv cameras** ([worldCctvs.json](objectslocations/worldCctvs.json)) **1606** in total
+- **Electricity boxes** ([worldElectricityBoxes.json](objectslocations/worldElectricityBoxes.json)) **1904** in total
+- **Wrecked vehicles** ([worldWreckedCars.json](objectslocations/worldWreckedCars.json) & [worldWreckedBikes.json](objectslocations/worldWreckedBikes.json)) **484** wrecked cars in total & **148** wrecked bikes in total

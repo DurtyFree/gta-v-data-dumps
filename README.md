@@ -85,3 +85,4 @@ Object location dumps contain positions of various objects of a specific type, o
 - **Cctv cameras** ([worldCctvs.json](objectslocations/worldCctvs.json)) **1606** in total
 - **Electricity boxes** ([worldElectricityBoxes.json](objectslocations/worldElectricityBoxes.json)) **1904** in total
 - **Wrecked vehicles** ([worldWreckedCars.json](objectslocations/worldWreckedCars.json) & [worldWreckedBikes.json](objectslocations/worldWreckedBikes.json)) **484** wrecked cars in total & **148** wrecked bikes in total
+- **Oil jacks** ([worldOilJacks.json](objectslocations/worldOilJacks.json)) **62** in total

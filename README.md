@@ -54,6 +54,7 @@ If you are in search for an easy way to browse those GTA V data, try **Pleb Mast
 - **Police Report names** ([policeReportNames.json](policeReportNames.json)) **50** police report names in total (Usable with PLAY_​POLICE_​REPORT native)
 - **Audio Scene names** ([audioSceneNames.json](audioSceneNames.json)) **1116** audio scene names in total (Usable with AUDIO_SCENE natives)
 - **Cutscene names** ([cutsceneNames.json](cutsceneNames.json)) **704** cut scene names in total (Usable with CUT_ or CUTSCENE_ natives)
+- **Weapons** ([weapons.json](weapons.json)) **165** weapons with **418** components in total (Usable with WEAPON natives)
 
 ## **Objects location dumps**
 Object location dumps contain positions of various objects of a specific type, on the GTA V map (including all interiors / MLOs).

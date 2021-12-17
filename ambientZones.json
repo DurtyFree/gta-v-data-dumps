@@ -44514,6 +44514,764 @@
     ]
   },
   {
+    "Name": "az_dlc_fixer_data_leak_mansion_party_area_01",
+    "Shape": "Box",
+    "Flags0": "0xAA800420",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": -1525.41,
+      "Y": 113.18,
+      "Z": 61.53
+    },
+    "OuterSize": {
+      "X": 493.59,
+      "Y": 267.98,
+      "Z": 27.0
+    },
+    "InnerPosition": {
+      "X": -1525.41,
+      "Y": 113.18,
+      "Z": 61.53
+    },
+    "InnerSize": {
+      "X": 160.94,
+      "Y": 96.72,
+      "Z": 17.0
+    },
+    "AmbientEmitters": [
+      "hash_9F620074",
+      "pc_dlc_fixer_rich_party_laughs",
+      "pr_dlc_fixer_rich_party_claps",
+      "pr_dlc_fixer_rich_party_whoops"
+    ]
+  },
+  {
+    "Name": "az_dlc_fixer_agency_apartment_00",
+    "Shape": "Box",
+    "Flags0": "0xAA800424",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 381.73,
+      "Y": -65.9,
+      "Z": 113.23
+    },
+    "OuterSize": {
+      "X": 31.9,
+      "Y": 12.19,
+      "Z": 5.04
+    },
+    "InnerPosition": {
+      "X": 383.95,
+      "Y": -67.78,
+      "Z": 113.19
+    },
+    "InnerSize": {
+      "X": 24.32,
+      "Y": 8.97,
+      "Z": 4.92
+    },
+    "AmbientEmitters": [
+      "hash_9F620074"
+    ]
+  },
+  {
+    "Name": "az_dlc_fixer_agency_player_office_00",
+    "Shape": "Box",
+    "Flags0": "0xAA800424",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 376.13,
+      "Y": -61.64,
+      "Z": 107.77
+    },
+    "OuterSize": {
+      "X": 8.51,
+      "Y": 8.5,
+      "Z": 4.05
+    },
+    "InnerPosition": {
+      "X": 376.0,
+      "Y": -61.75,
+      "Z": 108.02
+    },
+    "InnerSize": {
+      "X": 7.75,
+      "Y": 7.29,
+      "Z": 3.62
+    },
+    "AmbientEmitters": [
+      "hash_9F620074"
+    ]
+  },
+  {
+    "Name": "az_dlc_fixer_agency_franklin_office_00",
+    "Shape": "Box",
+    "Flags0": "0xAA800424",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 395.22,
+      "Y": -62.53,
+      "Z": 107.77
+    },
+    "OuterSize": {
+      "X": 8.61,
+      "Y": 10.39,
+      "Z": 4.05
+    },
+    "InnerPosition": {
+      "X": 395.05,
+      "Y": -62.77,
+      "Z": 108.02
+    },
+    "InnerSize": {
+      "X": 7.84,
+      "Y": 8.91,
+      "Z": 3.62
+    },
+    "AmbientEmitters": [
+      "hash_9F620074"
+    ]
+  },
+  {
+    "Name": "az_dlc_fixer_agency_franklin_office_01",
+    "Shape": "Box",
+    "Flags0": "0xAA800424",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": -1011.08,
+      "Y": -421.47,
+      "Z": 68.61
+    },
+    "OuterSize": {
+      "X": 8.61,
+      "Y": 10.39,
+      "Z": 4.05
+    },
+    "InnerPosition": {
+      "X": -1011.08,
+      "Y": -421.47,
+      "Z": 68.61
+    },
+    "InnerSize": {
+      "X": 7.84,
+      "Y": 8.91,
+      "Z": 3.62
+    },
+    "AmbientEmitters": [
+      "hash_9F620074"
+    ]
+  },
+  {
+    "Name": "az_dlc_fixer_agency_apartment_01",
+    "Shape": "Box",
+    "Flags0": "0xAA800424",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": -1017.68,
+      "Y": -432.2,
+      "Z": 72.83
+    },
+    "OuterSize": {
+      "X": 33.92,
+      "Y": 12.55,
+      "Z": 5.04
+    },
+    "InnerPosition": {
+      "X": -1016.04,
+      "Y": -432.92,
+      "Z": 72.83
+    },
+    "InnerSize": {
+      "X": 24.32,
+      "Y": 8.97,
+      "Z": 4.92
+    },
+    "AmbientEmitters": [
+      "hash_9F620074"
+    ]
+  },
+  {
+    "Name": "az_dlc_fixer_agency_franklin_office_02",
+    "Shape": "Box",
+    "Flags0": "0xAA800424",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": -599.48,
+      "Y": -718.02,
+      "Z": 117.55
+    },
+    "OuterSize": {
+      "X": 8.61,
+      "Y": 10.39,
+      "Z": 4.1
+    },
+    "InnerPosition": {
+      "X": -599.59,
+      "Y": -717.95,
+      "Z": 117.59
+    },
+    "InnerSize": {
+      "X": 7.84,
+      "Y": 8.91,
+      "Z": 3.67
+    },
+    "AmbientEmitters": [
+      "hash_9F620074"
+    ]
+  },
+  {
+    "Name": "az_dlc_fixer_agency_player_office_02",
+    "Shape": "Box",
+    "Flags0": "0xAA800424",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": -581.73,
+      "Y": -712.59,
+      "Z": 118.04
+    },
+    "OuterSize": {
+      "X": 8.51,
+      "Y": 8.5,
+      "Z": 4.02
+    },
+    "InnerPosition": {
+      "X": -581.73,
+      "Y": -712.59,
+      "Z": 117.66
+    },
+    "InnerSize": {
+      "X": 7.75,
+      "Y": 7.29,
+      "Z": 3.59
+    },
+    "AmbientEmitters": [
+      "hash_9F620074"
+    ]
+  },
+  {
+    "Name": "az_dlc_fixer_agency_apartment_02",
+    "Shape": "Box",
+    "Flags0": "0xAA800424",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": -590.48,
+      "Y": -709.82,
+      "Z": 122.48
+    },
+    "OuterSize": {
+      "X": 33.92,
+      "Y": 12.55,
+      "Z": 5.04
+    },
+    "InnerPosition": {
+      "X": -590.48,
+      "Y": -709.82,
+      "Z": 122.48
+    },
+    "InnerSize": {
+      "X": 24.32,
+      "Y": 8.97,
+      "Z": 4.92
+    },
+    "AmbientEmitters": [
+      "hash_9F620074"
+    ]
+  },
+  {
+    "Name": "az_dlc_fixer_agency_franklin_office_03",
+    "Shape": "Box",
+    "Flags0": "0xAA800424",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": -1005.45,
+      "Y": -749.44,
+      "Z": 66.42
+    },
+    "OuterSize": {
+      "X": 8.61,
+      "Y": 10.39,
+      "Z": 4.1
+    },
+    "InnerPosition": {
+      "X": -1005.45,
+      "Y": -749.44,
+      "Z": 66.42
+    },
+    "InnerSize": {
+      "X": 7.84,
+      "Y": 8.91,
+      "Z": 3.67
+    },
+    "AmbientEmitters": [
+      "hash_9F620074"
+    ]
+  },
+  {
+    "Name": "az_dlc_fixer_agency_player_office_03",
+    "Shape": "Box",
+    "Flags0": "0xAA800424",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": -999.97,
+      "Y": -767.26,
+      "Z": 66.35
+    },
+    "OuterSize": {
+      "X": 8.51,
+      "Y": 8.5,
+      "Z": 4.19
+    },
+    "InnerPosition": {
+      "X": -999.97,
+      "Y": -767.26,
+      "Z": 66.39
+    },
+    "InnerSize": {
+      "X": 7.75,
+      "Y": 7.29,
+      "Z": 3.74
+    },
+    "AmbientEmitters": [
+      "hash_9F620074"
+    ]
+  },
+  {
+    "Name": "az_dlc_fixer_agency_apartment_03",
+    "Shape": "Box",
+    "Flags0": "0xAA800424",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": -997.42,
+      "Y": -758.54,
+      "Z": 70.97
+    },
+    "OuterSize": {
+      "X": 33.92,
+      "Y": 12.55,
+      "Z": 5.04
+    },
+    "InnerPosition": {
+      "X": -997.42,
+      "Y": -758.54,
+      "Z": 70.97
+    },
+    "InnerSize": {
+      "X": 24.32,
+      "Y": 8.97,
+      "Z": 4.92
+    },
+    "AmbientEmitters": [
+      "hash_9F620074"
+    ]
+  },
+  {
+    "Name": "az_dlc_fixer_agency_rodeo_garage_exit_fauxclusion",
+    "Shape": "Box",
+    "Flags0": "0xAA800424",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": -1032.62,
+      "Y": -402.33,
+      "Z": 25.29
+    },
+    "OuterSize": {
+      "X": 57.87,
+      "Y": 20.69,
+      "Z": 26.33
+    },
+    "InnerPosition": {
+      "X": -1037.41,
+      "Y": -406.67,
+      "Z": 33.7
+    },
+    "InnerSize": {
+      "X": 47.5,
+      "Y": 22.53,
+      "Z": 6.78
+    },
+    "AmbientEmitters": [
+      "hash_9F620074"
+    ]
+  },
+  {
+    "Name": "az_dlc_fixer_agency_hacker_chill_room_03",
+    "Shape": "Box",
+    "Flags0": "0xAA800424",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": -1012.72,
+      "Y": -749.48,
+      "Z": 71.74
+    },
+    "OuterSize": {
+      "X": 8.83,
+      "Y": 9.21,
+      "Z": 5.89
+    },
+    "InnerPosition": {
+      "X": -1012.74,
+      "Y": -749.45,
+      "Z": 71.74
+    },
+    "InnerSize": {
+      "X": 7.42,
+      "Y": 7.97,
+      "Z": 5.27
+    },
+    "AmbientEmitters": [
+      "hash_9F620074"
+    ]
+  },
+  {
+    "Name": "az_dlc_fixer_agency_hacker_chill_room_00",
+    "Shape": "Box",
+    "Flags0": "0xAA800424",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 397.47,
+      "Y": -56.2,
+      "Z": 113.51
+    },
+    "OuterSize": {
+      "X": 8.83,
+      "Y": 9.21,
+      "Z": 5.89
+    },
+    "InnerPosition": {
+      "X": 397.47,
+      "Y": -56.2,
+      "Z": 113.45
+    },
+    "InnerSize": {
+      "X": 7.42,
+      "Y": 7.97,
+      "Z": 5.27
+    },
+    "AmbientEmitters": [
+      "hash_9F620074"
+    ]
+  },
+  {
+    "Name": "az_dlc_fixer_agency_hacker_chill_room_01",
+    "Shape": "Box",
+    "Flags0": "0xAA800424",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": -1014.85,
+      "Y": -414.95,
+      "Z": 73.99
+    },
+    "OuterSize": {
+      "X": 8.83,
+      "Y": 9.21,
+      "Z": 5.89
+    },
+    "InnerPosition": {
+      "X": -1014.85,
+      "Y": -414.95,
+      "Z": 73.95
+    },
+    "InnerSize": {
+      "X": 7.42,
+      "Y": 7.97,
+      "Z": 5.27
+    },
+    "AmbientEmitters": [
+      "hash_9F620074"
+    ]
+  },
+  {
+    "Name": "az_dlc_fixer_agency_hacker_chill_room_02",
+    "Shape": "Box",
+    "Flags0": "0xAA800424",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": -600.01,
+      "Y": -725.05,
+      "Z": 122.86
+    },
+    "OuterSize": {
+      "X": 8.83,
+      "Y": 9.21,
+      "Z": 5.89
+    },
+    "InnerPosition": {
+      "X": -600.01,
+      "Y": -725.05,
+      "Z": 122.85
+    },
+    "InnerSize": {
+      "X": 7.42,
+      "Y": 7.97,
+      "Z": 5.27
+    },
+    "AmbientEmitters": [
+      "hash_9F620074"
+    ]
+  },
+  {
+    "Name": "az_dlc_fixer_agency_player_office_01",
+    "Shape": "Box",
+    "Flags0": "0xAA800424",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": -1026.14,
+      "Y": -434.51,
+      "Z": 68.54
+    },
+    "OuterSize": {
+      "X": 8.7,
+      "Y": 10.7,
+      "Z": 4.05
+    },
+    "InnerPosition": {
+      "X": -1025.88,
+      "Y": -434.33,
+      "Z": 68.54
+    },
+    "InnerSize": {
+      "X": 7.86,
+      "Y": 8.87,
+      "Z": 3.62
+    },
+    "AmbientEmitters": [
+      "hash_9F620074"
+    ]
+  },
+  {
+    "Name": "az_dlc_fixer_agency_boardroom_00",
+    "Shape": "Box",
+    "Flags0": "0xAA800424",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 388.43,
+      "Y": -53.5,
+      "Z": 107.77
+    },
+    "OuterSize": {
+      "X": 10.38,
+      "Y": 10.39,
+      "Z": 4.05
+    },
+    "InnerPosition": {
+      "X": 388.54,
+      "Y": -53.81,
+      "Z": 108.02
+    },
+    "InnerSize": {
+      "X": 9.78,
+      "Y": 8.91,
+      "Z": 3.62
+    },
+    "AmbientEmitters": [
+      "hash_9F620074"
+    ]
+  },
+  {
+    "Name": "az_dlc_fixer_agency_boardroom_02",
+    "Shape": "Box",
+    "Flags0": "0xAA800424",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": -590.7,
+      "Y": -724.29,
+      "Z": 117.59
+    },
+    "OuterSize": {
+      "X": 10.38,
+      "Y": 10.39,
+      "Z": 4.05
+    },
+    "InnerPosition": {
+      "X": -590.7,
+      "Y": -724.29,
+      "Z": 117.59
+    },
+    "InnerSize": {
+      "X": 9.78,
+      "Y": 8.91,
+      "Z": 3.62
+    },
+    "AmbientEmitters": [
+      "hash_9F620074"
+    ]
+  },
+  {
+    "Name": "az_dlc_fixer_agency_boardroom_03",
+    "Shape": "Box",
+    "Flags0": "0xAA800424",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": -1011.16,
+      "Y": -759.8,
+      "Z": 66.04
+    },
+    "OuterSize": {
+      "X": 8.53,
+      "Y": 12.93,
+      "Z": 4.05
+    },
+    "InnerPosition": {
+      "X": -1011.01,
+      "Y": -758.92,
+      "Z": 66.04
+    },
+    "InnerSize": {
+      "X": 7.49,
+      "Y": 10.84,
+      "Z": 3.62
+    },
+    "AmbientEmitters": [
+      "hash_9F620074"
+    ]
+  },
+  {
+    "Name": "az_dlc_fixer_agency_boardroom_01",
+    "Shape": "Box",
+    "Flags0": "0xAA800424",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": -1022.93,
+      "Y": -420.18,
+      "Z": 68.11
+    },
+    "OuterSize": {
+      "X": 8.96,
+      "Y": 10.52,
+      "Z": 4.05
+    },
+    "InnerPosition": {
+      "X": -1022.62,
+      "Y": -420.0,
+      "Z": 68.11
+    },
+    "InnerSize": {
+      "X": 8.47,
+      "Y": 9.78,
+      "Z": 3.62
+    },
+    "AmbientEmitters": [
+      "hash_9F620074"
+    ]
+  },
+  {
+    "Name": "az_dlc_security_writers_room",
+    "Shape": "Box",
+    "Flags0": "0xAA800424",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": -1004.93,
+      "Y": -78.67,
+      "Z": -99.05
+    },
+    "OuterSize": {
+      "X": 6.91,
+      "Y": 8.62,
+      "Z": 8.0
+    },
+    "InnerPosition": {
+      "X": -1004.96,
+      "Y": -78.44,
+      "Z": -99.05
+    },
+    "InnerSize": {
+      "X": 6.62,
+      "Y": 7.58,
+      "Z": 6.0
+    },
+    "AmbientEmitters": [
+      "hash_9F620074"
+    ]
+  },
+  {
+    "Name": "az_dlc_sec_warehouse_ceiling",
+    "Shape": "Box",
+    "Flags0": "0xAA800424",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 2919.9,
+      "Y": 4476.61,
+      "Z": -99.0
+    },
+    "OuterSize": {
+      "X": 50.0,
+      "Y": 40.0,
+      "Z": 17.0
+    },
+    "InnerPosition": {
+      "X": 2918.75,
+      "Y": 4474.37,
+      "Z": -95.77
+    },
+    "InnerSize": {
+      "X": 14.14,
+      "Y": 19.6,
+      "Z": 0.5
+    },
+    "AmbientEmitters": [
+      "ar_dlc_sec_weed_neon_up"
+    ]
+  },
+  {
+    "Name": "az_dlc_sec_warehouse_normal",
+    "Shape": "Box",
+    "Flags0": "0xAA800424",
+    "Flags1": "0x00000000",
+    "Flags2": "0x00000000",
+    "OuterPosition": {
+      "X": 2919.9,
+      "Y": 4476.61,
+      "Z": -98.99
+    },
+    "OuterSize": {
+      "X": 50.0,
+      "Y": 40.0,
+      "Z": 17.0
+    },
+    "InnerPosition": {
+      "X": 2909.23,
+      "Y": 4476.91,
+      "Z": -98.99
+    },
+    "InnerSize": {
+      "X": 37.89,
+      "Y": 28.37,
+      "Z": 7.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_sec_weed_warehouse_normal_hum",
+      "pr_dlc_sec_weed_rattle_ac_01",
+      "pr_dlc_sec_weed_rattle_ac_02",
+      "pr_dlc_sec_weed_rattle_ac_03",
+      "pr_dlc_sec_weed_rattle_ac_04",
+      "ar_dlc_sec_weed_fly"
+    ]
+  },
+  {
     "Name": "az_dlc_heists_bahama_mamas",
     "Shape": "Box",
     "Flags0": "0xAA800424",

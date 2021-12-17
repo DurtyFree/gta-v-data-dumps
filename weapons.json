@@ -2651,6 +2651,30 @@
           }
         ],
         "DlcName": "TitleUpdate"
+      },
+      {
+        "Name": "COMPONENT_APPISTOL_VARMOD_SECURITY",
+        "IsDefault": false,
+        "TranslatedLabel": null,
+        "TranslatedDescription": {
+          "Hash": 1982573486,
+          "English": "Invalid Attachment Weapon Description.",
+          "German": "Ungültige Waffenerweiterungsbeschreibung.",
+          "French": "Description d'accessoire d'arme non valide.",
+          "Italian": "Descrizione innesto arma non valida.",
+          "Russian": "*placeholder* Invalid Attachment Weapon Description.",
+          "Polish": "Opis niewłaściwego dodatku do broni.",
+          "Name": "WCD_INVALID",
+          "TraditionalChinese": "無法使用的武器配件敘述",
+          "SimplifiedChinese": null,
+          "Spanish": "Descripción de accesorio no válida."
+        },
+        "Hash": 1657753414,
+        "IntHash": 1657753414,
+        "AttachBone": "gun_root",
+        "Type": "CWeaponComponentVariantModelInfo",
+        "Variants": [],
+        "DlcName": "TitleUpdate"
       }
     ],
     "Liveries": []
@@ -3415,6 +3439,30 @@
             "Name": "COMPONENT_AT_AR_SUPP_02"
           }
         ],
+        "DlcName": "TitleUpdate"
+      },
+      {
+        "Name": "COMPONENT_MICROSMG_VARMOD_SECURITY",
+        "IsDefault": false,
+        "TranslatedLabel": null,
+        "TranslatedDescription": {
+          "Hash": 1982573486,
+          "English": "Invalid Attachment Weapon Description.",
+          "German": "Ungültige Waffenerweiterungsbeschreibung.",
+          "French": "Description d'accessoire d'arme non valide.",
+          "Italian": "Descrizione innesto arma non valida.",
+          "Russian": "*placeholder* Invalid Attachment Weapon Description.",
+          "Polish": "Opis niewłaściwego dodatku do broni.",
+          "Name": "WCD_INVALID",
+          "TraditionalChinese": "無法使用的武器配件敘述",
+          "SimplifiedChinese": null,
+          "Spanish": "Descripción de accesorio no válida."
+        },
+        "Hash": 2012362801,
+        "IntHash": 2012362801,
+        "AttachBone": "gun_root",
+        "Type": "CWeaponComponentVariantModelInfo",
+        "Variants": [],
         "DlcName": "TitleUpdate"
       }
     ],
@@ -6771,6 +6819,30 @@
         "IntHash": 1623028892,
         "AttachBone": "gun_gripr",
         "Type": "CWeaponComponentInfo",
+        "Variants": [],
+        "DlcName": "TitleUpdate"
+      },
+      {
+        "Name": "COMPONENT_PUMPSHOTGUN_VARMOD_SECURITY",
+        "IsDefault": false,
+        "TranslatedLabel": null,
+        "TranslatedDescription": {
+          "Hash": 1982573486,
+          "English": "Invalid Attachment Weapon Description.",
+          "German": "Ungültige Waffenerweiterungsbeschreibung.",
+          "French": "Description d'accessoire d'arme non valide.",
+          "Italian": "Descrizione innesto arma non valida.",
+          "Russian": "*placeholder* Invalid Attachment Weapon Description.",
+          "Polish": "Opis niewłaściwego dodatku do broni.",
+          "Name": "WCD_INVALID",
+          "TraditionalChinese": "無法使用的武器配件敘述",
+          "SimplifiedChinese": null,
+          "Spanish": "Descripción de accesorio no válida."
+        },
+        "Hash": 4052644405,
+        "IntHash": -242322891,
+        "AttachBone": "gun_root",
+        "Type": "CWeaponComponentVariantModelInfo",
         "Variants": [],
         "DlcName": "TitleUpdate"
       }
@@ -37819,6 +37891,306 @@
     "Liveries": []
   },
   {
+    "Name": "WEAPON_COMPACTRIFLE",
+    "TranslatedLabel": {
+      "Hash": 3999883767,
+      "English": "Compact Rifle",
+      "German": "Kompaktgewehr",
+      "French": "Fusil compact",
+      "Italian": "Fucile compatto",
+      "Russian": "Укороченная винтовка",
+      "Polish": "Karabin kompaktowy",
+      "Name": "WT_CMPRIFLE",
+      "TraditionalChinese": "精簡型步槍",
+      "SimplifiedChinese": "紧凑型步枪",
+      "Spanish": "Fusil compacto"
+    },
+    "Hash": 1649403952,
+    "IntHash": 1649403952,
+    "DlcName": "mplowrider2",
+    "Category": "GROUP_RIFLE",
+    "TranslatedDescription": {
+      "Hash": 1509964501,
+      "English": "Half the size, all the power, double the recoil: there's no riskier way to say \"I'm compensating for something\". Part of Lowriders: Custom Classics.",
+      "German": "Halbe Größe, volle Kraft, doppelter Rückstoß: der sicherste Weg, zu zeigen, dass man irgendwas kompensieren muss. Teil von Lowriders: Custom Classics.",
+      "French": "Aussi petit que puissant, ce fusil crie au monde entier que vous avez quelque chose à compenser. Disponible dans Lowriders : on astique les classiques.",
+      "Italian": "Dimensioni dimezzate, stessa potenza, rinculo raddoppiato. Non c'è modo più rischioso per affermare: \"È per compensare.\" Parte di Lowrider: Custom classic .",
+      "Russian": "Размер - вдвое меньше, мощь - такая же, а отдача - вдвое сильнее. Входит в \"Лоурайдеры: классика на заказ\".",
+      "Polish": "Połowa rozmiaru, ta sama moc, podwójny odrzut: to najbardziej ryzykowny sposób, by pokazać, że ma się kompleksy. Część aktualizacji Lowridery: Podrasowane klasyki.",
+      "Name": "WTD_CMPRIFLE",
+      "TraditionalChinese": "大小減半、火力不減、雙倍後座力。您終於可以大膽地說「老子短小但精悍」。係屬古惑跳跳車：改裝經典。",
+      "SimplifiedChinese": "大小减半，火力不减，双倍后坐力。没有比拿着它大喊\"我短小精悍\"更冒险的事了。属于《古惑跳跳车：改装经典》。",
+      "Spanish": "La mitad de tamaño, toda la potencia y el doble de retroceso: no hay una forma más peligrosa de decir \"estoy compensando algo\". Parte de Lowriders: Custom Classics."
+    },
+    "Tints": [
+      {
+        "Index": 0,
+        "TranslatedLabel": {
+          "Hash": 3773086928,
+          "English": "Black tint",
+          "German": "Schwarzer Farbton",
+          "French": "Teinte noire",
+          "Italian": "Colorazione nera",
+          "Russian": "Черная расцветка",
+          "Polish": "Czarny kolor",
+          "Name": "WM_TINT0",
+          "TraditionalChinese": "黑色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte negro"
+        }
+      },
+      {
+        "Index": 1,
+        "TranslatedLabel": {
+          "Hash": 3271590152,
+          "English": "Green tint",
+          "German": "Grüner Farbton",
+          "French": "Teinte verte",
+          "Italian": "Colorazione verde",
+          "Russian": "Зеленая расцветка",
+          "Polish": "Zielony kolor",
+          "Name": "WM_TINT1",
+          "TraditionalChinese": "綠色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte verde"
+        }
+      },
+      {
+        "Index": 2,
+        "TranslatedLabel": {
+          "Hash": 2948160122,
+          "English": "Gold tint",
+          "German": "Goldfarbton",
+          "French": "Teinte or",
+          "Italian": "Colorazione oro",
+          "Russian": "Золотая расцветка",
+          "Polish": "Złoty kolor",
+          "Name": "WM_TINT2",
+          "TraditionalChinese": "金色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte dorado"
+        }
+      },
+      {
+        "Index": 3,
+        "TranslatedLabel": {
+          "Hash": 1643790077,
+          "English": "Pink tint",
+          "German": "Pinker Farbton",
+          "French": "Teinte rose",
+          "Italian": "Colorazione rosa",
+          "Russian": "Розовая расцветка",
+          "Polish": "Różowy kolor",
+          "Name": "WM_TINT3",
+          "TraditionalChinese": "粉紅色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte rosa"
+        }
+      },
+      {
+        "Index": 4,
+        "TranslatedLabel": {
+          "Hash": 2351731553,
+          "English": "Army tint",
+          "German": "Armeefarbton",
+          "French": "Teinte armée",
+          "Italian": "Colorazione militare",
+          "Russian": "Армейская расцветка",
+          "Polish": "Wojskowe barwy",
+          "Name": "WM_TINT4",
+          "TraditionalChinese": "軍用色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte militar"
+        }
+      },
+      {
+        "Index": 5,
+        "TranslatedLabel": {
+          "Hash": 2316504878,
+          "English": "LSPD tint",
+          "German": "LSPD-Farbton",
+          "French": "Teinte LSPD",
+          "Italian": "Colorazione LSPD",
+          "Russian": "Полицейская расцветка",
+          "Polish": "Policyjne barwy",
+          "Name": "WM_TINT5",
+          "TraditionalChinese": "洛聖都警局色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte policial"
+        }
+      },
+      {
+        "Index": 6,
+        "TranslatedLabel": {
+          "Hash": 1747143503,
+          "English": "Orange tint",
+          "German": "Oranger Farbton",
+          "French": "Teinte orange",
+          "Italian": "Colorazione arancione",
+          "Russian": "Оранжевая расцветка",
+          "Polish": "Pomarańczowy kolor",
+          "Name": "WM_TINT6",
+          "TraditionalChinese": "橘色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte naranja"
+        }
+      },
+      {
+        "Index": 7,
+        "TranslatedLabel": {
+          "Hash": 442970072,
+          "English": "Platinum tint",
+          "German": "Platinfarbton",
+          "French": "Teinte platine",
+          "Italian": "Colorazione platino",
+          "Russian": "Платиновая расцветка",
+          "Polish": "Platynowy kolor",
+          "Name": "WM_TINT7",
+          "TraditionalChinese": "白金色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte platino"
+        }
+      }
+    ],
+    "IsVehicleWeapon": false,
+    "Flags": [
+      "CarriedInHand",
+      "Automatic",
+      "Gun",
+      "CanLockonOnFoot",
+      "CanLockonInVehicle",
+      "CanFreeAim",
+      "TwoHanded",
+      "AnimReload",
+      "AnimCrouchFire",
+      "TreatAsOneHandedInCover",
+      "UsableOnFoot",
+      "UsableInCover",
+      "AllowEarlyExitFromFireAnimAfterBulletFired",
+      "NoLeftHandIKWhenBlocked",
+      "AllowCloseQuarterKills",
+      "HasLowCoverReloads",
+      "HasLowCoverSwaps",
+      "TorsoIKForWeaponBlock",
+      "LongWeapon",
+      "UseFPSAimIK",
+      "UseFPSSecondaryMotion",
+      "FPSOnlyExitFireAnimAfterRecoilEnds",
+      "DisableLeftHandIkInDriveby"
+    ],
+    "Components": [
+      {
+        "Name": "COMPONENT_COMPACTRIFLE_CLIP_01",
+        "IsDefault": true,
+        "TranslatedLabel": {
+          "Hash": 1458711463,
+          "English": "Default clip",
+          "German": "Standardmagazin",
+          "French": "Chargeur par défaut",
+          "Italian": "Caricatore standard",
+          "Russian": "Стандартный магазин",
+          "Polish": "Standardowy magazynek",
+          "Name": "WCT_CLIP1",
+          "TraditionalChinese": "預設彈匣",
+          "SimplifiedChinese": null,
+          "Spanish": "Cargador predeterminado"
+        },
+        "TranslatedDescription": {
+          "Hash": 1296666401,
+          "English": "Standard capacity for Compact Rifle.",
+          "German": "Standardkapazität für Kompaktgewehr.",
+          "French": "Capacité standard pour fusil compact.",
+          "Italian": "Capienza standard per il fucile compatto.",
+          "Russian": "Стандартный боекомплект для укороченной винтовки.",
+          "Polish": "Standardowa pojemność magazynka karabinu kompaktowego.",
+          "Name": "WCD_CMPR_CLIP1",
+          "TraditionalChinese": "精簡型步槍的標準容量彈匣。",
+          "SimplifiedChinese": "紧凑型步枪标准容量。",
+          "Spanish": "Capacidad estándar para el fusil compacto."
+        },
+        "Hash": 1363085923,
+        "IntHash": 1363085923,
+        "AttachBone": "WAPClip",
+        "Type": "CWeaponComponentClipInfo",
+        "Variants": [],
+        "DlcName": "mplowrider2"
+      },
+      {
+        "Name": "COMPONENT_COMPACTRIFLE_CLIP_02",
+        "IsDefault": false,
+        "TranslatedLabel": {
+          "Hash": 615958321,
+          "English": "Extended clip",
+          "German": "Größeres Magazin",
+          "French": "Chargeur grande capacité",
+          "Italian": "Caricatore esteso",
+          "Russian": "Магазин большой емкости",
+          "Polish": "Powiększony magazynek",
+          "Name": "WCT_CLIP2",
+          "TraditionalChinese": "擴充彈匣",
+          "SimplifiedChinese": null,
+          "Spanish": "Cargador ampliado"
+        },
+        "TranslatedDescription": {
+          "Hash": 461417356,
+          "English": "Extended capacity for Compact Rifle.",
+          "German": "Größere Kapazität für Kompaktgewehr.",
+          "French": "Grande capacité pour fusil compact.",
+          "Italian": "Capienza aumentata per il fucile compatto.",
+          "Russian": "Увеличенный боекомплект для укороченной винтовки.",
+          "Polish": "Zwiększona pojemność magazynka karabinu kompaktowego.",
+          "Name": "WCD_CMPR_CLIP2",
+          "TraditionalChinese": "精簡型步槍的擴充容量彈匣。",
+          "SimplifiedChinese": "紧凑型步枪扩展容量。",
+          "Spanish": "Capacidad ampliada para el fusil compacto."
+        },
+        "Hash": 1509923832,
+        "IntHash": 1509923832,
+        "AttachBone": "WAPClip",
+        "Type": "CWeaponComponentClipInfo",
+        "Variants": [],
+        "DlcName": "mplowrider2"
+      },
+      {
+        "Name": "COMPONENT_COMPACTRIFLE_CLIP_03",
+        "IsDefault": false,
+        "TranslatedLabel": {
+          "Hash": 980794689,
+          "English": "Drum magazine",
+          "German": "Trommelmagazin",
+          "French": "Chargeur tambour",
+          "Italian": "Caricatore a tamburo",
+          "Russian": "Барабанный магазин",
+          "Polish": "Magazynek bębnowy",
+          "Name": "WCT_CLIP_DRM",
+          "TraditionalChinese": "彈鼓",
+          "SimplifiedChinese": "鼓式弹匣",
+          "Spanish": "Cargador de tambor"
+        },
+        "TranslatedDescription": {
+          "Hash": 962092882,
+          "English": "Expanded capacity and slower reload.",
+          "German": "Noch größere Kapazität und langsameres Nachladen.",
+          "French": "Très grande capacité mais lent à recharger.",
+          "Italian": "Capienza ottimizzata e ricarica più lenta.",
+          "Russian": "Расширенный магазин и более медленная перезарядка.",
+          "Polish": "Zwiększona pojemność i wolniejsze przeładowywanie.",
+          "Name": "WCD_CLIP3",
+          "TraditionalChinese": "增強版擴充容量彈匣但裝填彈藥速度較慢。",
+          "SimplifiedChinese": "容量提高，换弹频率降低。",
+          "Spanish": "Capacidad expandida y recarga más lenta."
+        },
+        "Hash": 3322377230,
+        "IntHash": -972590066,
+        "AttachBone": "WAPClip",
+        "Type": "CWeaponComponentClipInfo",
+        "Variants": [],
+        "DlcName": "TitleUpdate"
+      }
+    ],
+    "Liveries": []
+  },
+  {
     "Name": "WEAPON_MACHINEPISTOL",
     "TranslatedLabel": {
       "Hash": 3596245543,
@@ -38145,306 +38517,6 @@
         "IntHash": -1023114086,
         "AttachBone": "WAPSupp",
         "Type": "CWeaponComponentSuppressorInfo",
-        "Variants": [],
-        "DlcName": "TitleUpdate"
-      }
-    ],
-    "Liveries": []
-  },
-  {
-    "Name": "WEAPON_COMPACTRIFLE",
-    "TranslatedLabel": {
-      "Hash": 3999883767,
-      "English": "Compact Rifle",
-      "German": "Kompaktgewehr",
-      "French": "Fusil compact",
-      "Italian": "Fucile compatto",
-      "Russian": "Укороченная винтовка",
-      "Polish": "Karabin kompaktowy",
-      "Name": "WT_CMPRIFLE",
-      "TraditionalChinese": "精簡型步槍",
-      "SimplifiedChinese": "紧凑型步枪",
-      "Spanish": "Fusil compacto"
-    },
-    "Hash": 1649403952,
-    "IntHash": 1649403952,
-    "DlcName": "mplowrider2",
-    "Category": "GROUP_RIFLE",
-    "TranslatedDescription": {
-      "Hash": 1509964501,
-      "English": "Half the size, all the power, double the recoil: there's no riskier way to say \"I'm compensating for something\". Part of Lowriders: Custom Classics.",
-      "German": "Halbe Größe, volle Kraft, doppelter Rückstoß: der sicherste Weg, zu zeigen, dass man irgendwas kompensieren muss. Teil von Lowriders: Custom Classics.",
-      "French": "Aussi petit que puissant, ce fusil crie au monde entier que vous avez quelque chose à compenser. Disponible dans Lowriders : on astique les classiques.",
-      "Italian": "Dimensioni dimezzate, stessa potenza, rinculo raddoppiato. Non c'è modo più rischioso per affermare: \"È per compensare.\" Parte di Lowrider: Custom classic .",
-      "Russian": "Размер - вдвое меньше, мощь - такая же, а отдача - вдвое сильнее. Входит в \"Лоурайдеры: классика на заказ\".",
-      "Polish": "Połowa rozmiaru, ta sama moc, podwójny odrzut: to najbardziej ryzykowny sposób, by pokazać, że ma się kompleksy. Część aktualizacji Lowridery: Podrasowane klasyki.",
-      "Name": "WTD_CMPRIFLE",
-      "TraditionalChinese": "大小減半、火力不減、雙倍後座力。您終於可以大膽地說「老子短小但精悍」。係屬古惑跳跳車：改裝經典。",
-      "SimplifiedChinese": "大小减半，火力不减，双倍后坐力。没有比拿着它大喊\"我短小精悍\"更冒险的事了。属于《古惑跳跳车：改装经典》。",
-      "Spanish": "La mitad de tamaño, toda la potencia y el doble de retroceso: no hay una forma más peligrosa de decir \"estoy compensando algo\". Parte de Lowriders: Custom Classics."
-    },
-    "Tints": [
-      {
-        "Index": 0,
-        "TranslatedLabel": {
-          "Hash": 3773086928,
-          "English": "Black tint",
-          "German": "Schwarzer Farbton",
-          "French": "Teinte noire",
-          "Italian": "Colorazione nera",
-          "Russian": "Черная расцветка",
-          "Polish": "Czarny kolor",
-          "Name": "WM_TINT0",
-          "TraditionalChinese": "黑色調",
-          "SimplifiedChinese": null,
-          "Spanish": "Tinte negro"
-        }
-      },
-      {
-        "Index": 1,
-        "TranslatedLabel": {
-          "Hash": 3271590152,
-          "English": "Green tint",
-          "German": "Grüner Farbton",
-          "French": "Teinte verte",
-          "Italian": "Colorazione verde",
-          "Russian": "Зеленая расцветка",
-          "Polish": "Zielony kolor",
-          "Name": "WM_TINT1",
-          "TraditionalChinese": "綠色調",
-          "SimplifiedChinese": null,
-          "Spanish": "Tinte verde"
-        }
-      },
-      {
-        "Index": 2,
-        "TranslatedLabel": {
-          "Hash": 2948160122,
-          "English": "Gold tint",
-          "German": "Goldfarbton",
-          "French": "Teinte or",
-          "Italian": "Colorazione oro",
-          "Russian": "Золотая расцветка",
-          "Polish": "Złoty kolor",
-          "Name": "WM_TINT2",
-          "TraditionalChinese": "金色調",
-          "SimplifiedChinese": null,
-          "Spanish": "Tinte dorado"
-        }
-      },
-      {
-        "Index": 3,
-        "TranslatedLabel": {
-          "Hash": 1643790077,
-          "English": "Pink tint",
-          "German": "Pinker Farbton",
-          "French": "Teinte rose",
-          "Italian": "Colorazione rosa",
-          "Russian": "Розовая расцветка",
-          "Polish": "Różowy kolor",
-          "Name": "WM_TINT3",
-          "TraditionalChinese": "粉紅色調",
-          "SimplifiedChinese": null,
-          "Spanish": "Tinte rosa"
-        }
-      },
-      {
-        "Index": 4,
-        "TranslatedLabel": {
-          "Hash": 2351731553,
-          "English": "Army tint",
-          "German": "Armeefarbton",
-          "French": "Teinte armée",
-          "Italian": "Colorazione militare",
-          "Russian": "Армейская расцветка",
-          "Polish": "Wojskowe barwy",
-          "Name": "WM_TINT4",
-          "TraditionalChinese": "軍用色調",
-          "SimplifiedChinese": null,
-          "Spanish": "Tinte militar"
-        }
-      },
-      {
-        "Index": 5,
-        "TranslatedLabel": {
-          "Hash": 2316504878,
-          "English": "LSPD tint",
-          "German": "LSPD-Farbton",
-          "French": "Teinte LSPD",
-          "Italian": "Colorazione LSPD",
-          "Russian": "Полицейская расцветка",
-          "Polish": "Policyjne barwy",
-          "Name": "WM_TINT5",
-          "TraditionalChinese": "洛聖都警局色調",
-          "SimplifiedChinese": null,
-          "Spanish": "Tinte policial"
-        }
-      },
-      {
-        "Index": 6,
-        "TranslatedLabel": {
-          "Hash": 1747143503,
-          "English": "Orange tint",
-          "German": "Oranger Farbton",
-          "French": "Teinte orange",
-          "Italian": "Colorazione arancione",
-          "Russian": "Оранжевая расцветка",
-          "Polish": "Pomarańczowy kolor",
-          "Name": "WM_TINT6",
-          "TraditionalChinese": "橘色調",
-          "SimplifiedChinese": null,
-          "Spanish": "Tinte naranja"
-        }
-      },
-      {
-        "Index": 7,
-        "TranslatedLabel": {
-          "Hash": 442970072,
-          "English": "Platinum tint",
-          "German": "Platinfarbton",
-          "French": "Teinte platine",
-          "Italian": "Colorazione platino",
-          "Russian": "Платиновая расцветка",
-          "Polish": "Platynowy kolor",
-          "Name": "WM_TINT7",
-          "TraditionalChinese": "白金色調",
-          "SimplifiedChinese": null,
-          "Spanish": "Tinte platino"
-        }
-      }
-    ],
-    "IsVehicleWeapon": false,
-    "Flags": [
-      "CarriedInHand",
-      "Automatic",
-      "Gun",
-      "CanLockonOnFoot",
-      "CanLockonInVehicle",
-      "CanFreeAim",
-      "TwoHanded",
-      "AnimReload",
-      "AnimCrouchFire",
-      "TreatAsOneHandedInCover",
-      "UsableOnFoot",
-      "UsableInCover",
-      "AllowEarlyExitFromFireAnimAfterBulletFired",
-      "NoLeftHandIKWhenBlocked",
-      "AllowCloseQuarterKills",
-      "HasLowCoverReloads",
-      "HasLowCoverSwaps",
-      "TorsoIKForWeaponBlock",
-      "LongWeapon",
-      "UseFPSAimIK",
-      "UseFPSSecondaryMotion",
-      "FPSOnlyExitFireAnimAfterRecoilEnds",
-      "DisableLeftHandIkInDriveby"
-    ],
-    "Components": [
-      {
-        "Name": "COMPONENT_COMPACTRIFLE_CLIP_01",
-        "IsDefault": true,
-        "TranslatedLabel": {
-          "Hash": 1458711463,
-          "English": "Default clip",
-          "German": "Standardmagazin",
-          "French": "Chargeur par défaut",
-          "Italian": "Caricatore standard",
-          "Russian": "Стандартный магазин",
-          "Polish": "Standardowy magazynek",
-          "Name": "WCT_CLIP1",
-          "TraditionalChinese": "預設彈匣",
-          "SimplifiedChinese": null,
-          "Spanish": "Cargador predeterminado"
-        },
-        "TranslatedDescription": {
-          "Hash": 1296666401,
-          "English": "Standard capacity for Compact Rifle.",
-          "German": "Standardkapazität für Kompaktgewehr.",
-          "French": "Capacité standard pour fusil compact.",
-          "Italian": "Capienza standard per il fucile compatto.",
-          "Russian": "Стандартный боекомплект для укороченной винтовки.",
-          "Polish": "Standardowa pojemność magazynka karabinu kompaktowego.",
-          "Name": "WCD_CMPR_CLIP1",
-          "TraditionalChinese": "精簡型步槍的標準容量彈匣。",
-          "SimplifiedChinese": "紧凑型步枪标准容量。",
-          "Spanish": "Capacidad estándar para el fusil compacto."
-        },
-        "Hash": 1363085923,
-        "IntHash": 1363085923,
-        "AttachBone": "WAPClip",
-        "Type": "CWeaponComponentClipInfo",
-        "Variants": [],
-        "DlcName": "mplowrider2"
-      },
-      {
-        "Name": "COMPONENT_COMPACTRIFLE_CLIP_02",
-        "IsDefault": false,
-        "TranslatedLabel": {
-          "Hash": 615958321,
-          "English": "Extended clip",
-          "German": "Größeres Magazin",
-          "French": "Chargeur grande capacité",
-          "Italian": "Caricatore esteso",
-          "Russian": "Магазин большой емкости",
-          "Polish": "Powiększony magazynek",
-          "Name": "WCT_CLIP2",
-          "TraditionalChinese": "擴充彈匣",
-          "SimplifiedChinese": null,
-          "Spanish": "Cargador ampliado"
-        },
-        "TranslatedDescription": {
-          "Hash": 461417356,
-          "English": "Extended capacity for Compact Rifle.",
-          "German": "Größere Kapazität für Kompaktgewehr.",
-          "French": "Grande capacité pour fusil compact.",
-          "Italian": "Capienza aumentata per il fucile compatto.",
-          "Russian": "Увеличенный боекомплект для укороченной винтовки.",
-          "Polish": "Zwiększona pojemność magazynka karabinu kompaktowego.",
-          "Name": "WCD_CMPR_CLIP2",
-          "TraditionalChinese": "精簡型步槍的擴充容量彈匣。",
-          "SimplifiedChinese": "紧凑型步枪扩展容量。",
-          "Spanish": "Capacidad ampliada para el fusil compacto."
-        },
-        "Hash": 1509923832,
-        "IntHash": 1509923832,
-        "AttachBone": "WAPClip",
-        "Type": "CWeaponComponentClipInfo",
-        "Variants": [],
-        "DlcName": "mplowrider2"
-      },
-      {
-        "Name": "COMPONENT_COMPACTRIFLE_CLIP_03",
-        "IsDefault": false,
-        "TranslatedLabel": {
-          "Hash": 980794689,
-          "English": "Drum magazine",
-          "German": "Trommelmagazin",
-          "French": "Chargeur tambour",
-          "Italian": "Caricatore a tamburo",
-          "Russian": "Барабанный магазин",
-          "Polish": "Magazynek bębnowy",
-          "Name": "WCT_CLIP_DRM",
-          "TraditionalChinese": "彈鼓",
-          "SimplifiedChinese": "鼓式弹匣",
-          "Spanish": "Cargador de tambor"
-        },
-        "TranslatedDescription": {
-          "Hash": 962092882,
-          "English": "Expanded capacity and slower reload.",
-          "German": "Noch größere Kapazität und langsameres Nachladen.",
-          "French": "Très grande capacité mais lent à recharger.",
-          "Italian": "Capienza ottimizzata e ricarica più lenta.",
-          "Russian": "Расширенный магазин и более медленная перезарядка.",
-          "Polish": "Zwiększona pojemność i wolniejsze przeładowywanie.",
-          "Name": "WCD_CLIP3",
-          "TraditionalChinese": "增強版擴充容量彈匣但裝填彈藥速度較慢。",
-          "SimplifiedChinese": "容量提高，换弹频率降低。",
-          "Spanish": "Capacidad expandida y recarga más lenta."
-        },
-        "Hash": 3322377230,
-        "IntHash": -972590066,
-        "AttachBone": "WAPClip",
-        "Type": "CWeaponComponentClipInfo",
         "Variants": [],
         "DlcName": "TitleUpdate"
       }
@@ -39189,304 +39261,6 @@
     "Liveries": []
   },
   {
-    "Name": "WEAPON_SWITCHBLADE",
-    "TranslatedLabel": {
-      "Hash": 3202642234,
-      "English": "Switchblade",
-      "German": "Springmesser",
-      "French": "Cran d'arrêt",
-      "Italian": "Coltello a serramanico",
-      "Russian": "Выкидной нож",
-      "Polish": "Sprężynowiec",
-      "Name": "WT_SWBLADE",
-      "TraditionalChinese": "彈簧刀",
-      "SimplifiedChinese": "弹簧刀",
-      "Spanish": "Navaja"
-    },
-    "Hash": 3756226112,
-    "IntHash": -538741184,
-    "DlcName": "mpapartment",
-    "Category": "GROUP_MELEE",
-    "TranslatedDescription": {
-      "Hash": 2451445094,
-      "English": "From your pocket to hilt-deep in the other guy's ribs in under a second: folding knives will never go out of style. Part of Executives and Other Criminals.",
-      "German": "Von \"In deiner Tasche\" auf \"Zwischen seinen Rippen\" in weniger als einer Sekunde: Klappbare Klingen sind zeitlos. Teil von Executives and Other Criminals.",
-      "French": "Enfoncé dans les côtes de votre adversaire en moins d'une secondeµ: le couteau pliable ne passera jamais de mode. Disponible dans Truands en col blanc.",
-      "Italian": "Dalla tua tasca agli organi interni del prossimo in meno di un secondo. I coltelli a serramanico non passano mai di moda. Parte di Dirigenti e altri criminali.",
-      "Russian": "Вот он в кармане, а вот - меж ребер противника! Выкидные ножи никогда не выйдут из моды. Входит в \"Большие люди и другие бандиты\".",
-      "Polish": "Z kieszeni między czyjeś żebra w mniej niż sekundę: składane noże nigdy nie wyjdą z mody. Część Szefów i innych przestępców.",
-      "Name": "WTD_SWBLADE",
-      "TraditionalChinese": "瞬息間便可從口袋取出並深深刺入他人肋骨，伸縮自如的刀片永遠不退流行。係屬權貴天下。",
-      "SimplifiedChinese": "不消一秒便能从口袋里掏出并深深刺入他人胸腔：折叠小刀永不过时。属于《权贵天下》。",
-      "Spanish": "De tu bolsillo a las costillas de tu enemigo en menos de un segundo. Este tipo de navaja nunca dejará de estar de moda. Parte de Ejecutivos y otros criminales."
-    },
-    "Tints": [
-      {
-        "Index": 0,
-        "TranslatedLabel": {
-          "Hash": 3773086928,
-          "English": "Black tint",
-          "German": "Schwarzer Farbton",
-          "French": "Teinte noire",
-          "Italian": "Colorazione nera",
-          "Russian": "Черная расцветка",
-          "Polish": "Czarny kolor",
-          "Name": "WM_TINT0",
-          "TraditionalChinese": "黑色調",
-          "SimplifiedChinese": null,
-          "Spanish": "Tinte negro"
-        }
-      },
-      {
-        "Index": 1,
-        "TranslatedLabel": {
-          "Hash": 3271590152,
-          "English": "Green tint",
-          "German": "Grüner Farbton",
-          "French": "Teinte verte",
-          "Italian": "Colorazione verde",
-          "Russian": "Зеленая расцветка",
-          "Polish": "Zielony kolor",
-          "Name": "WM_TINT1",
-          "TraditionalChinese": "綠色調",
-          "SimplifiedChinese": null,
-          "Spanish": "Tinte verde"
-        }
-      },
-      {
-        "Index": 2,
-        "TranslatedLabel": {
-          "Hash": 2948160122,
-          "English": "Gold tint",
-          "German": "Goldfarbton",
-          "French": "Teinte or",
-          "Italian": "Colorazione oro",
-          "Russian": "Золотая расцветка",
-          "Polish": "Złoty kolor",
-          "Name": "WM_TINT2",
-          "TraditionalChinese": "金色調",
-          "SimplifiedChinese": null,
-          "Spanish": "Tinte dorado"
-        }
-      },
-      {
-        "Index": 3,
-        "TranslatedLabel": {
-          "Hash": 1643790077,
-          "English": "Pink tint",
-          "German": "Pinker Farbton",
-          "French": "Teinte rose",
-          "Italian": "Colorazione rosa",
-          "Russian": "Розовая расцветка",
-          "Polish": "Różowy kolor",
-          "Name": "WM_TINT3",
-          "TraditionalChinese": "粉紅色調",
-          "SimplifiedChinese": null,
-          "Spanish": "Tinte rosa"
-        }
-      },
-      {
-        "Index": 4,
-        "TranslatedLabel": {
-          "Hash": 2351731553,
-          "English": "Army tint",
-          "German": "Armeefarbton",
-          "French": "Teinte armée",
-          "Italian": "Colorazione militare",
-          "Russian": "Армейская расцветка",
-          "Polish": "Wojskowe barwy",
-          "Name": "WM_TINT4",
-          "TraditionalChinese": "軍用色調",
-          "SimplifiedChinese": null,
-          "Spanish": "Tinte militar"
-        }
-      },
-      {
-        "Index": 5,
-        "TranslatedLabel": {
-          "Hash": 2316504878,
-          "English": "LSPD tint",
-          "German": "LSPD-Farbton",
-          "French": "Teinte LSPD",
-          "Italian": "Colorazione LSPD",
-          "Russian": "Полицейская расцветка",
-          "Polish": "Policyjne barwy",
-          "Name": "WM_TINT5",
-          "TraditionalChinese": "洛聖都警局色調",
-          "SimplifiedChinese": null,
-          "Spanish": "Tinte policial"
-        }
-      },
-      {
-        "Index": 6,
-        "TranslatedLabel": {
-          "Hash": 1747143503,
-          "English": "Orange tint",
-          "German": "Oranger Farbton",
-          "French": "Teinte orange",
-          "Italian": "Colorazione arancione",
-          "Russian": "Оранжевая расцветка",
-          "Polish": "Pomarańczowy kolor",
-          "Name": "WM_TINT6",
-          "TraditionalChinese": "橘色調",
-          "SimplifiedChinese": null,
-          "Spanish": "Tinte naranja"
-        }
-      },
-      {
-        "Index": 7,
-        "TranslatedLabel": {
-          "Hash": 442970072,
-          "English": "Platinum tint",
-          "German": "Platinfarbton",
-          "French": "Teinte platine",
-          "Italian": "Colorazione platino",
-          "Russian": "Платиновая расцветка",
-          "Polish": "Platynowy kolor",
-          "Name": "WM_TINT7",
-          "TraditionalChinese": "白金色調",
-          "SimplifiedChinese": null,
-          "Spanish": "Tinte platino"
-        }
-      }
-    ],
-    "IsVehicleWeapon": false,
-    "Flags": [
-      "CarriedInHand",
-      "ArmourPenetrating",
-      "CanLockonOnFoot",
-      "CanLockonInVehicle",
-      "MeleeBlade",
-      "UsableOnFoot",
-      "UsableClimbing",
-      "UsableInCover",
-      "DoesRevivableDamage",
-      "AllowCloseQuarterKills",
-      "HasLowCoverSwaps",
-      "NoWheelStats",
-      "DangerousLookingMeleeWeapon",
-      "QuitTransitionToIdleIntroOnWeaponChange",
-      "DisableLeftHandIkWhenOnFoot",
-      "NoAmmoDisplay",
-      "UseFPSAimIK",
-      "UseFPSSecondaryMotion",
-      "AllowMeleeBlock",
-      "UseHolsterAnimation",
-      "PairedWeaponHolsterAnimation"
-    ],
-    "Components": [
-      {
-        "Name": "COMPONENT_SWITCHBLADE_VARMOD_BASE",
-        "IsDefault": false,
-        "TranslatedLabel": {
-          "Hash": 718263592,
-          "English": "Default Handle",
-          "German": "Standardgriff",
-          "French": "Poignée par défaut",
-          "Italian": "Impugnatura normale",
-          "Russian": "Стандартная рукоять",
-          "Polish": "Wariant domyślny",
-          "Name": "WCT_SB_BASE",
-          "TraditionalChinese": "原裝刀柄",
-          "SimplifiedChinese": "默认刀柄",
-          "Spanish": "Empuñadura pred."
-        },
-        "TranslatedDescription": {
-          "Hash": 1982573486,
-          "English": "Invalid Attachment Weapon Description.",
-          "German": "Ungültige Waffenerweiterungsbeschreibung.",
-          "French": "Description d'accessoire d'arme non valide.",
-          "Italian": "Descrizione innesto arma non valida.",
-          "Russian": "*placeholder* Invalid Attachment Weapon Description.",
-          "Polish": "Opis niewłaściwego dodatku do broni.",
-          "Name": "WCD_INVALID",
-          "TraditionalChinese": "無法使用的武器配件敘述",
-          "SimplifiedChinese": null,
-          "Spanish": "Descripción de accesorio no válida."
-        },
-        "Hash": 2436343040,
-        "IntHash": -1858624256,
-        "AttachBone": "gun_root",
-        "Type": "CWeaponComponentVariantModelInfo",
-        "Variants": [],
-        "DlcName": "mpapartment"
-      },
-      {
-        "Name": "COMPONENT_SWITCHBLADE_VARMOD_VAR1",
-        "IsDefault": false,
-        "TranslatedLabel": {
-          "Hash": 1883779903,
-          "English": "VIP Variant",
-          "German": "VIP-Variante",
-          "French": "Variante de gros bonnet",
-          "Italian": "Variante boss",
-          "Russian": "Вариант для босса",
-          "Polish": "Wariant VIP-a",
-          "Name": "WCT_SB_VAR1",
-          "TraditionalChinese": "老大款式",
-          "SimplifiedChinese": "VIPµ样式",
-          "Spanish": "Variante del vip"
-        },
-        "TranslatedDescription": {
-          "Hash": 1982573486,
-          "English": "Invalid Attachment Weapon Description.",
-          "German": "Ungültige Waffenerweiterungsbeschreibung.",
-          "French": "Description d'accessoire d'arme non valide.",
-          "Italian": "Descrizione innesto arma non valida.",
-          "Russian": "*placeholder* Invalid Attachment Weapon Description.",
-          "Polish": "Opis niewłaściwego dodatku do broni.",
-          "Name": "WCD_INVALID",
-          "TraditionalChinese": "無法使用的武器配件敘述",
-          "SimplifiedChinese": null,
-          "Spanish": "Descripción de accesorio no válida."
-        },
-        "Hash": 1530822070,
-        "IntHash": 1530822070,
-        "AttachBone": "gun_root",
-        "Type": "CWeaponComponentVariantModelInfo",
-        "Variants": [],
-        "DlcName": "mpapartment"
-      },
-      {
-        "Name": "COMPONENT_SWITCHBLADE_VARMOD_VAR2",
-        "IsDefault": false,
-        "TranslatedLabel": {
-          "Hash": 1156897945,
-          "English": "Bodyguard Variant",
-          "German": "Leibwächter-Variante",
-          "French": "Variante de garde du corps",
-          "Italian": "Variante guardia",
-          "Russian": "Вариант для громилы",
-          "Polish": "Wariant ochroniarza",
-          "Name": "WCT_SB_VAR2",
-          "TraditionalChinese": "保鏢款式",
-          "SimplifiedChinese": "保镖样式",
-          "Spanish": "Variante del escolta"
-        },
-        "TranslatedDescription": {
-          "Hash": 1982573486,
-          "English": "Invalid Attachment Weapon Description.",
-          "German": "Ungültige Waffenerweiterungsbeschreibung.",
-          "French": "Description d'accessoire d'arme non valide.",
-          "Italian": "Descrizione innesto arma non valida.",
-          "Russian": "*placeholder* Invalid Attachment Weapon Description.",
-          "Polish": "Opis niewłaściwego dodatku do broni.",
-          "Name": "WCD_INVALID",
-          "TraditionalChinese": "無法使用的武器配件敘述",
-          "SimplifiedChinese": null,
-          "Spanish": "Descripción de accesorio no válida."
-        },
-        "Hash": 3885209186,
-        "IntHash": -409758110,
-        "AttachBone": "gun_root",
-        "Type": "CWeaponComponentVariantModelInfo",
-        "Variants": [],
-        "DlcName": "mpapartment"
-      }
-    ],
-    "Liveries": []
-  },
-  {
     "Name": "WEAPON_REVOLVER",
     "TranslatedLabel": {
       "Hash": 1509559905,
@@ -39815,6 +39589,304 @@
     "Liveries": []
   },
   {
+    "Name": "WEAPON_SWITCHBLADE",
+    "TranslatedLabel": {
+      "Hash": 3202642234,
+      "English": "Switchblade",
+      "German": "Springmesser",
+      "French": "Cran d'arrêt",
+      "Italian": "Coltello a serramanico",
+      "Russian": "Выкидной нож",
+      "Polish": "Sprężynowiec",
+      "Name": "WT_SWBLADE",
+      "TraditionalChinese": "彈簧刀",
+      "SimplifiedChinese": "弹簧刀",
+      "Spanish": "Navaja"
+    },
+    "Hash": 3756226112,
+    "IntHash": -538741184,
+    "DlcName": "mpapartment",
+    "Category": "GROUP_MELEE",
+    "TranslatedDescription": {
+      "Hash": 2451445094,
+      "English": "From your pocket to hilt-deep in the other guy's ribs in under a second: folding knives will never go out of style. Part of Executives and Other Criminals.",
+      "German": "Von \"In deiner Tasche\" auf \"Zwischen seinen Rippen\" in weniger als einer Sekunde: Klappbare Klingen sind zeitlos. Teil von Executives and Other Criminals.",
+      "French": "Enfoncé dans les côtes de votre adversaire en moins d'une secondeµ: le couteau pliable ne passera jamais de mode. Disponible dans Truands en col blanc.",
+      "Italian": "Dalla tua tasca agli organi interni del prossimo in meno di un secondo. I coltelli a serramanico non passano mai di moda. Parte di Dirigenti e altri criminali.",
+      "Russian": "Вот он в кармане, а вот - меж ребер противника! Выкидные ножи никогда не выйдут из моды. Входит в \"Большие люди и другие бандиты\".",
+      "Polish": "Z kieszeni między czyjeś żebra w mniej niż sekundę: składane noże nigdy nie wyjdą z mody. Część Szefów i innych przestępców.",
+      "Name": "WTD_SWBLADE",
+      "TraditionalChinese": "瞬息間便可從口袋取出並深深刺入他人肋骨，伸縮自如的刀片永遠不退流行。係屬權貴天下。",
+      "SimplifiedChinese": "不消一秒便能从口袋里掏出并深深刺入他人胸腔：折叠小刀永不过时。属于《权贵天下》。",
+      "Spanish": "De tu bolsillo a las costillas de tu enemigo en menos de un segundo. Este tipo de navaja nunca dejará de estar de moda. Parte de Ejecutivos y otros criminales."
+    },
+    "Tints": [
+      {
+        "Index": 0,
+        "TranslatedLabel": {
+          "Hash": 3773086928,
+          "English": "Black tint",
+          "German": "Schwarzer Farbton",
+          "French": "Teinte noire",
+          "Italian": "Colorazione nera",
+          "Russian": "Черная расцветка",
+          "Polish": "Czarny kolor",
+          "Name": "WM_TINT0",
+          "TraditionalChinese": "黑色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte negro"
+        }
+      },
+      {
+        "Index": 1,
+        "TranslatedLabel": {
+          "Hash": 3271590152,
+          "English": "Green tint",
+          "German": "Grüner Farbton",
+          "French": "Teinte verte",
+          "Italian": "Colorazione verde",
+          "Russian": "Зеленая расцветка",
+          "Polish": "Zielony kolor",
+          "Name": "WM_TINT1",
+          "TraditionalChinese": "綠色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte verde"
+        }
+      },
+      {
+        "Index": 2,
+        "TranslatedLabel": {
+          "Hash": 2948160122,
+          "English": "Gold tint",
+          "German": "Goldfarbton",
+          "French": "Teinte or",
+          "Italian": "Colorazione oro",
+          "Russian": "Золотая расцветка",
+          "Polish": "Złoty kolor",
+          "Name": "WM_TINT2",
+          "TraditionalChinese": "金色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte dorado"
+        }
+      },
+      {
+        "Index": 3,
+        "TranslatedLabel": {
+          "Hash": 1643790077,
+          "English": "Pink tint",
+          "German": "Pinker Farbton",
+          "French": "Teinte rose",
+          "Italian": "Colorazione rosa",
+          "Russian": "Розовая расцветка",
+          "Polish": "Różowy kolor",
+          "Name": "WM_TINT3",
+          "TraditionalChinese": "粉紅色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte rosa"
+        }
+      },
+      {
+        "Index": 4,
+        "TranslatedLabel": {
+          "Hash": 2351731553,
+          "English": "Army tint",
+          "German": "Armeefarbton",
+          "French": "Teinte armée",
+          "Italian": "Colorazione militare",
+          "Russian": "Армейская расцветка",
+          "Polish": "Wojskowe barwy",
+          "Name": "WM_TINT4",
+          "TraditionalChinese": "軍用色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte militar"
+        }
+      },
+      {
+        "Index": 5,
+        "TranslatedLabel": {
+          "Hash": 2316504878,
+          "English": "LSPD tint",
+          "German": "LSPD-Farbton",
+          "French": "Teinte LSPD",
+          "Italian": "Colorazione LSPD",
+          "Russian": "Полицейская расцветка",
+          "Polish": "Policyjne barwy",
+          "Name": "WM_TINT5",
+          "TraditionalChinese": "洛聖都警局色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte policial"
+        }
+      },
+      {
+        "Index": 6,
+        "TranslatedLabel": {
+          "Hash": 1747143503,
+          "English": "Orange tint",
+          "German": "Oranger Farbton",
+          "French": "Teinte orange",
+          "Italian": "Colorazione arancione",
+          "Russian": "Оранжевая расцветка",
+          "Polish": "Pomarańczowy kolor",
+          "Name": "WM_TINT6",
+          "TraditionalChinese": "橘色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte naranja"
+        }
+      },
+      {
+        "Index": 7,
+        "TranslatedLabel": {
+          "Hash": 442970072,
+          "English": "Platinum tint",
+          "German": "Platinfarbton",
+          "French": "Teinte platine",
+          "Italian": "Colorazione platino",
+          "Russian": "Платиновая расцветка",
+          "Polish": "Platynowy kolor",
+          "Name": "WM_TINT7",
+          "TraditionalChinese": "白金色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte platino"
+        }
+      }
+    ],
+    "IsVehicleWeapon": false,
+    "Flags": [
+      "CarriedInHand",
+      "ArmourPenetrating",
+      "CanLockonOnFoot",
+      "CanLockonInVehicle",
+      "MeleeBlade",
+      "UsableOnFoot",
+      "UsableClimbing",
+      "UsableInCover",
+      "DoesRevivableDamage",
+      "AllowCloseQuarterKills",
+      "HasLowCoverSwaps",
+      "NoWheelStats",
+      "DangerousLookingMeleeWeapon",
+      "QuitTransitionToIdleIntroOnWeaponChange",
+      "DisableLeftHandIkWhenOnFoot",
+      "NoAmmoDisplay",
+      "UseFPSAimIK",
+      "UseFPSSecondaryMotion",
+      "AllowMeleeBlock",
+      "UseHolsterAnimation",
+      "PairedWeaponHolsterAnimation"
+    ],
+    "Components": [
+      {
+        "Name": "COMPONENT_SWITCHBLADE_VARMOD_BASE",
+        "IsDefault": false,
+        "TranslatedLabel": {
+          "Hash": 718263592,
+          "English": "Default Handle",
+          "German": "Standardgriff",
+          "French": "Poignée par défaut",
+          "Italian": "Impugnatura normale",
+          "Russian": "Стандартная рукоять",
+          "Polish": "Wariant domyślny",
+          "Name": "WCT_SB_BASE",
+          "TraditionalChinese": "原裝刀柄",
+          "SimplifiedChinese": "默认刀柄",
+          "Spanish": "Empuñadura pred."
+        },
+        "TranslatedDescription": {
+          "Hash": 1982573486,
+          "English": "Invalid Attachment Weapon Description.",
+          "German": "Ungültige Waffenerweiterungsbeschreibung.",
+          "French": "Description d'accessoire d'arme non valide.",
+          "Italian": "Descrizione innesto arma non valida.",
+          "Russian": "*placeholder* Invalid Attachment Weapon Description.",
+          "Polish": "Opis niewłaściwego dodatku do broni.",
+          "Name": "WCD_INVALID",
+          "TraditionalChinese": "無法使用的武器配件敘述",
+          "SimplifiedChinese": null,
+          "Spanish": "Descripción de accesorio no válida."
+        },
+        "Hash": 2436343040,
+        "IntHash": -1858624256,
+        "AttachBone": "gun_root",
+        "Type": "CWeaponComponentVariantModelInfo",
+        "Variants": [],
+        "DlcName": "mpapartment"
+      },
+      {
+        "Name": "COMPONENT_SWITCHBLADE_VARMOD_VAR1",
+        "IsDefault": false,
+        "TranslatedLabel": {
+          "Hash": 1883779903,
+          "English": "VIP Variant",
+          "German": "VIP-Variante",
+          "French": "Variante de gros bonnet",
+          "Italian": "Variante boss",
+          "Russian": "Вариант для босса",
+          "Polish": "Wariant VIP-a",
+          "Name": "WCT_SB_VAR1",
+          "TraditionalChinese": "老大款式",
+          "SimplifiedChinese": "VIPµ样式",
+          "Spanish": "Variante del vip"
+        },
+        "TranslatedDescription": {
+          "Hash": 1982573486,
+          "English": "Invalid Attachment Weapon Description.",
+          "German": "Ungültige Waffenerweiterungsbeschreibung.",
+          "French": "Description d'accessoire d'arme non valide.",
+          "Italian": "Descrizione innesto arma non valida.",
+          "Russian": "*placeholder* Invalid Attachment Weapon Description.",
+          "Polish": "Opis niewłaściwego dodatku do broni.",
+          "Name": "WCD_INVALID",
+          "TraditionalChinese": "無法使用的武器配件敘述",
+          "SimplifiedChinese": null,
+          "Spanish": "Descripción de accesorio no válida."
+        },
+        "Hash": 1530822070,
+        "IntHash": 1530822070,
+        "AttachBone": "gun_root",
+        "Type": "CWeaponComponentVariantModelInfo",
+        "Variants": [],
+        "DlcName": "mpapartment"
+      },
+      {
+        "Name": "COMPONENT_SWITCHBLADE_VARMOD_VAR2",
+        "IsDefault": false,
+        "TranslatedLabel": {
+          "Hash": 1156897945,
+          "English": "Bodyguard Variant",
+          "German": "Leibwächter-Variante",
+          "French": "Variante de garde du corps",
+          "Italian": "Variante guardia",
+          "Russian": "Вариант для громилы",
+          "Polish": "Wariant ochroniarza",
+          "Name": "WCT_SB_VAR2",
+          "TraditionalChinese": "保鏢款式",
+          "SimplifiedChinese": "保镖样式",
+          "Spanish": "Variante del escolta"
+        },
+        "TranslatedDescription": {
+          "Hash": 1982573486,
+          "English": "Invalid Attachment Weapon Description.",
+          "German": "Ungültige Waffenerweiterungsbeschreibung.",
+          "French": "Description d'accessoire d'arme non valide.",
+          "Italian": "Descrizione innesto arma non valida.",
+          "Russian": "*placeholder* Invalid Attachment Weapon Description.",
+          "Polish": "Opis niewłaściwego dodatku do broni.",
+          "Name": "WCD_INVALID",
+          "TraditionalChinese": "無法使用的武器配件敘述",
+          "SimplifiedChinese": null,
+          "Spanish": "Descripción de accesorio no válida."
+        },
+        "Hash": 3885209186,
+        "IntHash": -409758110,
+        "AttachBone": "gun_root",
+        "Type": "CWeaponComponentVariantModelInfo",
+        "Variants": [],
+        "DlcName": "mpapartment"
+      }
+    ],
+    "Liveries": []
+  },
+  {
     "Name": "VEHICLE_WEAPON_TURRET_BOXVILLE",
     "TranslatedLabel": {
       "Hash": 1381256622,
@@ -39973,6 +40045,168 @@
       "StaticReticulePosition",
       "ApplyVehicleDamageToEngine",
       "Turret"
+    ],
+    "Components": [],
+    "Liveries": []
+  },
+  {
+    "Name": "VEHICLE_WEAPON_CANNON_BLAZER",
+    "TranslatedLabel": {
+      "Hash": 251255724,
+      "English": "Machine Gun",
+      "German": "Maschinengewehr",
+      "French": "Mitrailleuse",
+      "Italian": "Mitragliatrice",
+      "Russian": "Пулемет",
+      "Polish": "Działko",
+      "Name": "WT_V_PLRBUL",
+      "TraditionalChinese": "機關槍",
+      "SimplifiedChinese": null,
+      "Spanish": "Ametralladora"
+    },
+    "Hash": 3959029566,
+    "IntHash": -335937730,
+    "DlcName": "mpimportexport",
+    "Category": null,
+    "TranslatedDescription": null,
+    "Tints": [
+      {
+        "Index": 0,
+        "TranslatedLabel": {
+          "Hash": 3773086928,
+          "English": "Black tint",
+          "German": "Schwarzer Farbton",
+          "French": "Teinte noire",
+          "Italian": "Colorazione nera",
+          "Russian": "Черная расцветка",
+          "Polish": "Czarny kolor",
+          "Name": "WM_TINT0",
+          "TraditionalChinese": "黑色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte negro"
+        }
+      },
+      {
+        "Index": 1,
+        "TranslatedLabel": {
+          "Hash": 3271590152,
+          "English": "Green tint",
+          "German": "Grüner Farbton",
+          "French": "Teinte verte",
+          "Italian": "Colorazione verde",
+          "Russian": "Зеленая расцветка",
+          "Polish": "Zielony kolor",
+          "Name": "WM_TINT1",
+          "TraditionalChinese": "綠色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte verde"
+        }
+      },
+      {
+        "Index": 2,
+        "TranslatedLabel": {
+          "Hash": 2948160122,
+          "English": "Gold tint",
+          "German": "Goldfarbton",
+          "French": "Teinte or",
+          "Italian": "Colorazione oro",
+          "Russian": "Золотая расцветка",
+          "Polish": "Złoty kolor",
+          "Name": "WM_TINT2",
+          "TraditionalChinese": "金色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte dorado"
+        }
+      },
+      {
+        "Index": 3,
+        "TranslatedLabel": {
+          "Hash": 1643790077,
+          "English": "Pink tint",
+          "German": "Pinker Farbton",
+          "French": "Teinte rose",
+          "Italian": "Colorazione rosa",
+          "Russian": "Розовая расцветка",
+          "Polish": "Różowy kolor",
+          "Name": "WM_TINT3",
+          "TraditionalChinese": "粉紅色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte rosa"
+        }
+      },
+      {
+        "Index": 4,
+        "TranslatedLabel": {
+          "Hash": 2351731553,
+          "English": "Army tint",
+          "German": "Armeefarbton",
+          "French": "Teinte armée",
+          "Italian": "Colorazione militare",
+          "Russian": "Армейская расцветка",
+          "Polish": "Wojskowe barwy",
+          "Name": "WM_TINT4",
+          "TraditionalChinese": "軍用色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte militar"
+        }
+      },
+      {
+        "Index": 5,
+        "TranslatedLabel": {
+          "Hash": 2316504878,
+          "English": "LSPD tint",
+          "German": "LSPD-Farbton",
+          "French": "Teinte LSPD",
+          "Italian": "Colorazione LSPD",
+          "Russian": "Полицейская расцветка",
+          "Polish": "Policyjne barwy",
+          "Name": "WM_TINT5",
+          "TraditionalChinese": "洛聖都警局色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte policial"
+        }
+      },
+      {
+        "Index": 6,
+        "TranslatedLabel": {
+          "Hash": 1747143503,
+          "English": "Orange tint",
+          "German": "Oranger Farbton",
+          "French": "Teinte orange",
+          "Italian": "Colorazione arancione",
+          "Russian": "Оранжевая расцветка",
+          "Polish": "Pomarańczowy kolor",
+          "Name": "WM_TINT6",
+          "TraditionalChinese": "橘色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte naranja"
+        }
+      },
+      {
+        "Index": 7,
+        "TranslatedLabel": {
+          "Hash": 442970072,
+          "English": "Platinum tint",
+          "German": "Platinfarbton",
+          "French": "Teinte platine",
+          "Italian": "Colorazione platino",
+          "Russian": "Платиновая расцветка",
+          "Polish": "Platynowy kolor",
+          "Name": "WM_TINT7",
+          "TraditionalChinese": "白金色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte platino"
+        }
+      }
+    ],
+    "IsVehicleWeapon": true,
+    "Flags": [
+      "Gun",
+      "UsableOnFoot",
+      "Vehicle",
+      "ForceEjectShellAfterFiring",
+      "ApplyVehicleDamageToEngine",
+      "UseVehicleWeaponBoneForward"
     ],
     "Components": [],
     "Liveries": []
@@ -40305,198 +40539,36 @@
     "Liveries": []
   },
   {
-    "Name": "VEHICLE_WEAPON_CANNON_BLAZER",
+    "Name": "WEAPON_AUTOSHOTGUN",
     "TranslatedLabel": {
-      "Hash": 251255724,
-      "English": "Machine Gun",
-      "German": "Maschinengewehr",
-      "French": "Mitrailleuse",
-      "Italian": "Mitragliatrice",
-      "Russian": "Пулемет",
-      "Polish": "Działko",
-      "Name": "WT_V_PLRBUL",
-      "TraditionalChinese": "機關槍",
-      "SimplifiedChinese": null,
-      "Spanish": "Ametralladora"
+      "Hash": 2887394372,
+      "English": "Sweeper Shotgun",
+      "German": "Automatische Schrotflinte",
+      "French": "Fusil à pompe compact",
+      "Italian": "Fucile a pompa Sweeper",
+      "Russian": "Автоматический дробовик",
+      "Polish": "Strzelba automatyczna",
+      "Name": "WT_AUTOSHGN",
+      "TraditionalChinese": "衝鋒霰彈槍",
+      "SimplifiedChinese": "冲锋霰弹枪",
+      "Spanish": "Escopeta Sweeper"
     },
-    "Hash": 3959029566,
-    "IntHash": -335937730,
-    "DlcName": "mpimportexport",
-    "Category": null,
-    "TranslatedDescription": null,
-    "Tints": [
-      {
-        "Index": 0,
-        "TranslatedLabel": {
-          "Hash": 3773086928,
-          "English": "Black tint",
-          "German": "Schwarzer Farbton",
-          "French": "Teinte noire",
-          "Italian": "Colorazione nera",
-          "Russian": "Черная расцветка",
-          "Polish": "Czarny kolor",
-          "Name": "WM_TINT0",
-          "TraditionalChinese": "黑色調",
-          "SimplifiedChinese": null,
-          "Spanish": "Tinte negro"
-        }
-      },
-      {
-        "Index": 1,
-        "TranslatedLabel": {
-          "Hash": 3271590152,
-          "English": "Green tint",
-          "German": "Grüner Farbton",
-          "French": "Teinte verte",
-          "Italian": "Colorazione verde",
-          "Russian": "Зеленая расцветка",
-          "Polish": "Zielony kolor",
-          "Name": "WM_TINT1",
-          "TraditionalChinese": "綠色調",
-          "SimplifiedChinese": null,
-          "Spanish": "Tinte verde"
-        }
-      },
-      {
-        "Index": 2,
-        "TranslatedLabel": {
-          "Hash": 2948160122,
-          "English": "Gold tint",
-          "German": "Goldfarbton",
-          "French": "Teinte or",
-          "Italian": "Colorazione oro",
-          "Russian": "Золотая расцветка",
-          "Polish": "Złoty kolor",
-          "Name": "WM_TINT2",
-          "TraditionalChinese": "金色調",
-          "SimplifiedChinese": null,
-          "Spanish": "Tinte dorado"
-        }
-      },
-      {
-        "Index": 3,
-        "TranslatedLabel": {
-          "Hash": 1643790077,
-          "English": "Pink tint",
-          "German": "Pinker Farbton",
-          "French": "Teinte rose",
-          "Italian": "Colorazione rosa",
-          "Russian": "Розовая расцветка",
-          "Polish": "Różowy kolor",
-          "Name": "WM_TINT3",
-          "TraditionalChinese": "粉紅色調",
-          "SimplifiedChinese": null,
-          "Spanish": "Tinte rosa"
-        }
-      },
-      {
-        "Index": 4,
-        "TranslatedLabel": {
-          "Hash": 2351731553,
-          "English": "Army tint",
-          "German": "Armeefarbton",
-          "French": "Teinte armée",
-          "Italian": "Colorazione militare",
-          "Russian": "Армейская расцветка",
-          "Polish": "Wojskowe barwy",
-          "Name": "WM_TINT4",
-          "TraditionalChinese": "軍用色調",
-          "SimplifiedChinese": null,
-          "Spanish": "Tinte militar"
-        }
-      },
-      {
-        "Index": 5,
-        "TranslatedLabel": {
-          "Hash": 2316504878,
-          "English": "LSPD tint",
-          "German": "LSPD-Farbton",
-          "French": "Teinte LSPD",
-          "Italian": "Colorazione LSPD",
-          "Russian": "Полицейская расцветка",
-          "Polish": "Policyjne barwy",
-          "Name": "WM_TINT5",
-          "TraditionalChinese": "洛聖都警局色調",
-          "SimplifiedChinese": null,
-          "Spanish": "Tinte policial"
-        }
-      },
-      {
-        "Index": 6,
-        "TranslatedLabel": {
-          "Hash": 1747143503,
-          "English": "Orange tint",
-          "German": "Oranger Farbton",
-          "French": "Teinte orange",
-          "Italian": "Colorazione arancione",
-          "Russian": "Оранжевая расцветка",
-          "Polish": "Pomarańczowy kolor",
-          "Name": "WM_TINT6",
-          "TraditionalChinese": "橘色調",
-          "SimplifiedChinese": null,
-          "Spanish": "Tinte naranja"
-        }
-      },
-      {
-        "Index": 7,
-        "TranslatedLabel": {
-          "Hash": 442970072,
-          "English": "Platinum tint",
-          "German": "Platinfarbton",
-          "French": "Teinte platine",
-          "Italian": "Colorazione platino",
-          "Russian": "Платиновая расцветка",
-          "Polish": "Platynowy kolor",
-          "Name": "WM_TINT7",
-          "TraditionalChinese": "白金色調",
-          "SimplifiedChinese": null,
-          "Spanish": "Tinte platino"
-        }
-      }
-    ],
-    "IsVehicleWeapon": true,
-    "Flags": [
-      "Gun",
-      "UsableOnFoot",
-      "Vehicle",
-      "ForceEjectShellAfterFiring",
-      "ApplyVehicleDamageToEngine",
-      "UseVehicleWeaponBoneForward"
-    ],
-    "Components": [],
-    "Liveries": []
-  },
-  {
-    "Name": "WEAPON_WRENCH",
-    "TranslatedLabel": {
-      "Hash": 3002809962,
-      "English": "Pipe Wrench",
-      "German": "Rohrzange",
-      "French": "Clé anglaise",
-      "Italian": "Giratubi",
-      "Russian": "Разводной ключ",
-      "Polish": "Klucz",
-      "Name": "WT_WRENCH",
-      "TraditionalChinese": "管鉗扳手",
-      "SimplifiedChinese": "管钳扳手",
-      "Spanish": "Llave grifa"
-    },
-    "Hash": 419712736,
-    "IntHash": 419712736,
+    "Hash": 317205821,
+    "IntHash": 317205821,
     "DlcName": "mpbiker",
-    "Category": "GROUP_MELEE",
+    "Category": "GROUP_SHOTGUN",
     "TranslatedDescription": {
-      "Hash": 2660579766,
-      "English": "Perennial favourite of apocalyptic survivalists and violent fathers the world over, apparently it also doubles as some kind of tool. Part of Bikers.",
-      "German": "Zeitloser Favorit aller Apokalypse- Überlebensfreaks und Prügelväter der Welt. Soll angeblich noch als eine Art Werkzeug einsetzbar sein. Teil von Bikers.",
-      "French": "Chouchou des survivalistes et des pères violents du monde entier, cette arme dévastatrice peut aussi faire office d'outil. Disponible dans Motos, boulots, bobos.",
-      "Italian": "Da sempre apprezzata da survivalisti e padri violenti di tutto il mondo, pare che possa fungere anche da attrezzo. Parte di Centauri.",
-      "Russian": "Любимая вещь агрессивных папаш и параноидальных выживальщиков. Говорят, его можно использовать и как инструмент. Часть обновления \"Байкеры\".",
-      "Polish": "Popularny wśród fanatyków apokaliptycznego surwiwalu i agresywnych ojców. Podobno może też służyć jako narzędzie. Część Motocyklistów.",
-      "Name": "WTD_WRENCH",
-      "TraditionalChinese": "長期受到全球的末日生還者與家暴老爹喜愛，而且還可兼作其他工具使用。係屬狂野飆客。",
-      "SimplifiedChinese": "全世界灾难生存专家和暴力老爹常年追捧之物，显然它还能兼作其他工具。属于《狂野飙客》。",
-      "Spanish": "La favorita de los locos de la supervivencia apocalípticos y de todos los padres violentos. Al parecer, también hace las veces de herramienta. Parte de Moteros."
+      "Hash": 779077663,
+      "English": "How many effective tools for riot control can you tuck into your pants? OK, two. But this is the other one. Part of Bikers.",
+      "German": "Wie viele wirksame Geräte zur Massenbefriedung kannst du in deine Hose stecken? Okay, zwei. Aber das hier ist das andere. Teil von Bikers.",
+      "French": "Qu'est-ce qui est petit, prêt à balancer la sauce et rentre dans votre frocµ? Perdu, c'était l'autre. Disponible dans Motos, boulots, bobos.",
+      "Italian": "Quante armi antisommossa puoi dire di avere nei pantaloni? OK, due. Ma questa è quella che puoi mostrare in giro. Parte di Centauri.",
+      "Russian": "Сколько эффективных инструментов управления толпой можно засунуть в штаны? Ну ладно, два. И это - второй. Часть обновления \"Байкеры\".",
+      "Polish": "Ile skutecznych narzędzi do panowania nad tłumem możesz zmieścić w spodniach? No dobra, dwa. I to jest to drugie. Część Motocyklistów.",
+      "Name": "WTD_AUTOSHGN",
+      "TraditionalChinese": "一條褲子能塞進多少有用的鎮暴工具？答案是，兩樣。而這就是不長在身上的那一樣。係屬狂野飆客。",
+      "SimplifiedChinese": "你究竟能在裤裆里塞进几样有效的防暴工具？好吧，两样。这是另外一样。属于《狂野飙客》。",
+      "Spanish": "¿Cuántos instrumentos antidisturbios eficaces te puedes guardar en los pantalones? Vale, dos. Pero este es el otro. Parte de Moteros."
     },
     "Tints": [
       {
@@ -40630,26 +40702,263 @@
     ],
     "IsVehicleWeapon": false,
     "Flags": [
-      "AllowMeleeBlock",
       "CarriedInHand",
-      "ArmourPenetrating",
+      "Automatic",
+      "ApplyBulletForce",
+      "Gun",
       "CanLockonOnFoot",
       "CanLockonInVehicle",
-      "MeleeClub",
+      "CanFreeAim",
+      "TwoHanded",
+      "AnimReload",
+      "AnimCrouchFire",
+      "TreatAsOneHandedInCover",
       "UsableOnFoot",
-      "UsableClimbing",
       "UsableInCover",
-      "DoesRevivableDamage",
+      "AllowEarlyExitFromFireAnimAfterBulletFired",
+      "NoLeftHandIKWhenBlocked",
       "AllowCloseQuarterKills",
+      "HasLowCoverReloads",
       "HasLowCoverSwaps",
-      "NoWheelStats",
-      "QuitTransitionToIdleIntroOnWeaponChange",
-      "DisableLeftHandIkWhenOnFoot",
+      "LongWeapon",
       "UseFPSAimIK",
       "UseFPSSecondaryMotion",
-      "CanUseInVehMelee"
+      "FPSOnlyExitFireAnimAfterRecoilEnds"
     ],
-    "Components": [],
+    "Components": [
+      {
+        "Name": "COMPONENT_AUTOSHOTGUN_CLIP_01",
+        "IsDefault": true,
+        "TranslatedLabel": {
+          "Hash": 1458711463,
+          "English": "Default clip",
+          "German": "Standardmagazin",
+          "French": "Chargeur par défaut",
+          "Italian": "Caricatore standard",
+          "Russian": "Стандартный магазин",
+          "Polish": "Standardowy magazynek",
+          "Name": "WCT_CLIP1",
+          "TraditionalChinese": "預設彈匣",
+          "SimplifiedChinese": null,
+          "Spanish": "Cargador predeterminado"
+        },
+        "TranslatedDescription": null,
+        "Hash": 169463950,
+        "IntHash": 169463950,
+        "AttachBone": "WAPClip",
+        "Type": "CWeaponComponentClipInfo",
+        "Variants": [],
+        "DlcName": "mpbiker"
+      }
+    ],
+    "Liveries": []
+  },
+  {
+    "Name": "WEAPON_COMPACTLAUNCHER",
+    "TranslatedLabel": {
+      "Hash": 2815159513,
+      "English": "Compact Grenade Launcher",
+      "German": "Kompakter Granatwerfer",
+      "French": "Lance-grenades compact",
+      "Italian": "Lanciagranate compatto",
+      "Russian": "Укороченный гранатомет",
+      "Polish": "Granatnik kompaktowy",
+      "Name": "WT_CMPGL",
+      "TraditionalChinese": "精簡榴彈發射器",
+      "SimplifiedChinese": "紧凑型榴弹发射器",
+      "Spanish": "Lanzagranadas compacto"
+    },
+    "Hash": 125959754,
+    "IntHash": 125959754,
+    "DlcName": "mpbiker",
+    "Category": "GROUP_HEAVY",
+    "TranslatedDescription": {
+      "Hash": 3918169429,
+      "English": "Focus groups using the regular model suggested it was too accurate and found it awkward to use with one hand on the throttle. Easy fix. Part of Bikers.",
+      "German": "Testpersonen bemängelten, die serienmäßige Version sei zu präzise und umständlich zu bedienen mit einer Hand am Gas. Leicht zu ändern. Teil von Bikers.",
+      "French": "Certains trouvaient le modèle standard trop précis et difficile à utiliser en tenant le guidon. Problème résolu. Disponible dans Motos, boulots, bobos.",
+      "Italian": "È stato dimostrato che il modello base era troppo preciso e difficile da usare con una mano sull'acceleratore. Problema risolto. Parte di Centauri.",
+      "Russian": "Фокус-группы утверждают, что обычная модель стреляла слишком точно, и ей неудобно было пользоваться. Все исправили! Часть обновления \"Байкеры\".",
+      "Polish": "Testujący zwykły model uznali go za zbyt celny i trudny w obsłudze, gdy jedna ręka jest na gazie. Łatwo to naprawiliśmy. Część Motocyklistów.",
+      "Name": "WTD_CMPGL",
+      "TraditionalChinese": "測試團說普通型的太過精準，而且一手抓著油門時使用上有點棘手。現在都迎刃而解了！係屬狂野飆客。",
+      "SimplifiedChinese": "测试团认为普通型号武器太过精准，而且在摩托车上单手操作特别别扭。现在问题解决了。属于《狂野飙客》。",
+      "Spanish": "Los grupos de prueba que usaban el modelo normal se quejaban de su precisión y de su difícil uso con una mano al volante. Arreglado. Parte de Moteros."
+    },
+    "Tints": [
+      {
+        "Index": 0,
+        "TranslatedLabel": {
+          "Hash": 3773086928,
+          "English": "Black tint",
+          "German": "Schwarzer Farbton",
+          "French": "Teinte noire",
+          "Italian": "Colorazione nera",
+          "Russian": "Черная расцветка",
+          "Polish": "Czarny kolor",
+          "Name": "WM_TINT0",
+          "TraditionalChinese": "黑色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte negro"
+        }
+      },
+      {
+        "Index": 1,
+        "TranslatedLabel": {
+          "Hash": 3271590152,
+          "English": "Green tint",
+          "German": "Grüner Farbton",
+          "French": "Teinte verte",
+          "Italian": "Colorazione verde",
+          "Russian": "Зеленая расцветка",
+          "Polish": "Zielony kolor",
+          "Name": "WM_TINT1",
+          "TraditionalChinese": "綠色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte verde"
+        }
+      },
+      {
+        "Index": 2,
+        "TranslatedLabel": {
+          "Hash": 2948160122,
+          "English": "Gold tint",
+          "German": "Goldfarbton",
+          "French": "Teinte or",
+          "Italian": "Colorazione oro",
+          "Russian": "Золотая расцветка",
+          "Polish": "Złoty kolor",
+          "Name": "WM_TINT2",
+          "TraditionalChinese": "金色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte dorado"
+        }
+      },
+      {
+        "Index": 3,
+        "TranslatedLabel": {
+          "Hash": 1643790077,
+          "English": "Pink tint",
+          "German": "Pinker Farbton",
+          "French": "Teinte rose",
+          "Italian": "Colorazione rosa",
+          "Russian": "Розовая расцветка",
+          "Polish": "Różowy kolor",
+          "Name": "WM_TINT3",
+          "TraditionalChinese": "粉紅色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte rosa"
+        }
+      },
+      {
+        "Index": 4,
+        "TranslatedLabel": {
+          "Hash": 2351731553,
+          "English": "Army tint",
+          "German": "Armeefarbton",
+          "French": "Teinte armée",
+          "Italian": "Colorazione militare",
+          "Russian": "Армейская расцветка",
+          "Polish": "Wojskowe barwy",
+          "Name": "WM_TINT4",
+          "TraditionalChinese": "軍用色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte militar"
+        }
+      },
+      {
+        "Index": 5,
+        "TranslatedLabel": {
+          "Hash": 2316504878,
+          "English": "LSPD tint",
+          "German": "LSPD-Farbton",
+          "French": "Teinte LSPD",
+          "Italian": "Colorazione LSPD",
+          "Russian": "Полицейская расцветка",
+          "Polish": "Policyjne barwy",
+          "Name": "WM_TINT5",
+          "TraditionalChinese": "洛聖都警局色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte policial"
+        }
+      },
+      {
+        "Index": 6,
+        "TranslatedLabel": {
+          "Hash": 1747143503,
+          "English": "Orange tint",
+          "German": "Oranger Farbton",
+          "French": "Teinte orange",
+          "Italian": "Colorazione arancione",
+          "Russian": "Оранжевая расцветка",
+          "Polish": "Pomarańczowy kolor",
+          "Name": "WM_TINT6",
+          "TraditionalChinese": "橘色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte naranja"
+        }
+      },
+      {
+        "Index": 7,
+        "TranslatedLabel": {
+          "Hash": 442970072,
+          "English": "Platinum tint",
+          "German": "Platinfarbton",
+          "French": "Teinte platine",
+          "Italian": "Colorazione platino",
+          "Russian": "Платиновая расцветка",
+          "Polish": "Platynowy kolor",
+          "Name": "WM_TINT7",
+          "TraditionalChinese": "白金色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte platino"
+        }
+      }
+    ],
+    "IsVehicleWeapon": false,
+    "Flags": [
+      "CarriedInHand",
+      "Gun",
+      "CanFreeAim",
+      "Launched",
+      "AnimReload",
+      "AnimCrouchFire",
+      "UsableOnFoot",
+      "UsableInCover",
+      "AllowCloseQuarterKills",
+      "HasLowCoverReloads",
+      "HasLowCoverSwaps",
+      "DelayedFiringAfterAutoSwap",
+      "UseFPSAimIK",
+      "UseFPSSecondaryMotion",
+      "DontPlayDryFireAnim"
+    ],
+    "Components": [
+      {
+        "Name": "COMPONENT_COMPACTLAUNCHER_CLIP_01",
+        "IsDefault": true,
+        "TranslatedLabel": {
+          "Hash": 1458711463,
+          "English": "Default clip",
+          "German": "Standardmagazin",
+          "French": "Chargeur par défaut",
+          "Italian": "Caricatore standard",
+          "Russian": "Стандартный магазин",
+          "Polish": "Standardowy magazynek",
+          "Name": "WCT_CLIP1",
+          "TraditionalChinese": "預設彈匣",
+          "SimplifiedChinese": null,
+          "Spanish": "Cargador predeterminado"
+        },
+        "TranslatedDescription": null,
+        "Hash": 1235472140,
+        "IntHash": 1235472140,
+        "AttachBone": "WAPClip",
+        "Type": "CWeaponComponentClipInfo",
+        "Variants": [],
+        "DlcName": "mpbiker"
+      }
+    ],
     "Liveries": []
   },
   {
@@ -40914,214 +41223,6 @@
     "Liveries": []
   },
   {
-    "Name": "WEAPON_COMPACTLAUNCHER",
-    "TranslatedLabel": {
-      "Hash": 2815159513,
-      "English": "Compact Grenade Launcher",
-      "German": "Kompakter Granatwerfer",
-      "French": "Lance-grenades compact",
-      "Italian": "Lanciagranate compatto",
-      "Russian": "Укороченный гранатомет",
-      "Polish": "Granatnik kompaktowy",
-      "Name": "WT_CMPGL",
-      "TraditionalChinese": "精簡榴彈發射器",
-      "SimplifiedChinese": "紧凑型榴弹发射器",
-      "Spanish": "Lanzagranadas compacto"
-    },
-    "Hash": 125959754,
-    "IntHash": 125959754,
-    "DlcName": "mpbiker",
-    "Category": "GROUP_HEAVY",
-    "TranslatedDescription": {
-      "Hash": 3918169429,
-      "English": "Focus groups using the regular model suggested it was too accurate and found it awkward to use with one hand on the throttle. Easy fix. Part of Bikers.",
-      "German": "Testpersonen bemängelten, die serienmäßige Version sei zu präzise und umständlich zu bedienen mit einer Hand am Gas. Leicht zu ändern. Teil von Bikers.",
-      "French": "Certains trouvaient le modèle standard trop précis et difficile à utiliser en tenant le guidon. Problème résolu. Disponible dans Motos, boulots, bobos.",
-      "Italian": "È stato dimostrato che il modello base era troppo preciso e difficile da usare con una mano sull'acceleratore. Problema risolto. Parte di Centauri.",
-      "Russian": "Фокус-группы утверждают, что обычная модель стреляла слишком точно, и ей неудобно было пользоваться. Все исправили! Часть обновления \"Байкеры\".",
-      "Polish": "Testujący zwykły model uznali go za zbyt celny i trudny w obsłudze, gdy jedna ręka jest na gazie. Łatwo to naprawiliśmy. Część Motocyklistów.",
-      "Name": "WTD_CMPGL",
-      "TraditionalChinese": "測試團說普通型的太過精準，而且一手抓著油門時使用上有點棘手。現在都迎刃而解了！係屬狂野飆客。",
-      "SimplifiedChinese": "测试团认为普通型号武器太过精准，而且在摩托车上单手操作特别别扭。现在问题解决了。属于《狂野飙客》。",
-      "Spanish": "Los grupos de prueba que usaban el modelo normal se quejaban de su precisión y de su difícil uso con una mano al volante. Arreglado. Parte de Moteros."
-    },
-    "Tints": [
-      {
-        "Index": 0,
-        "TranslatedLabel": {
-          "Hash": 3773086928,
-          "English": "Black tint",
-          "German": "Schwarzer Farbton",
-          "French": "Teinte noire",
-          "Italian": "Colorazione nera",
-          "Russian": "Черная расцветка",
-          "Polish": "Czarny kolor",
-          "Name": "WM_TINT0",
-          "TraditionalChinese": "黑色調",
-          "SimplifiedChinese": null,
-          "Spanish": "Tinte negro"
-        }
-      },
-      {
-        "Index": 1,
-        "TranslatedLabel": {
-          "Hash": 3271590152,
-          "English": "Green tint",
-          "German": "Grüner Farbton",
-          "French": "Teinte verte",
-          "Italian": "Colorazione verde",
-          "Russian": "Зеленая расцветка",
-          "Polish": "Zielony kolor",
-          "Name": "WM_TINT1",
-          "TraditionalChinese": "綠色調",
-          "SimplifiedChinese": null,
-          "Spanish": "Tinte verde"
-        }
-      },
-      {
-        "Index": 2,
-        "TranslatedLabel": {
-          "Hash": 2948160122,
-          "English": "Gold tint",
-          "German": "Goldfarbton",
-          "French": "Teinte or",
-          "Italian": "Colorazione oro",
-          "Russian": "Золотая расцветка",
-          "Polish": "Złoty kolor",
-          "Name": "WM_TINT2",
-          "TraditionalChinese": "金色調",
-          "SimplifiedChinese": null,
-          "Spanish": "Tinte dorado"
-        }
-      },
-      {
-        "Index": 3,
-        "TranslatedLabel": {
-          "Hash": 1643790077,
-          "English": "Pink tint",
-          "German": "Pinker Farbton",
-          "French": "Teinte rose",
-          "Italian": "Colorazione rosa",
-          "Russian": "Розовая расцветка",
-          "Polish": "Różowy kolor",
-          "Name": "WM_TINT3",
-          "TraditionalChinese": "粉紅色調",
-          "SimplifiedChinese": null,
-          "Spanish": "Tinte rosa"
-        }
-      },
-      {
-        "Index": 4,
-        "TranslatedLabel": {
-          "Hash": 2351731553,
-          "English": "Army tint",
-          "German": "Armeefarbton",
-          "French": "Teinte armée",
-          "Italian": "Colorazione militare",
-          "Russian": "Армейская расцветка",
-          "Polish": "Wojskowe barwy",
-          "Name": "WM_TINT4",
-          "TraditionalChinese": "軍用色調",
-          "SimplifiedChinese": null,
-          "Spanish": "Tinte militar"
-        }
-      },
-      {
-        "Index": 5,
-        "TranslatedLabel": {
-          "Hash": 2316504878,
-          "English": "LSPD tint",
-          "German": "LSPD-Farbton",
-          "French": "Teinte LSPD",
-          "Italian": "Colorazione LSPD",
-          "Russian": "Полицейская расцветка",
-          "Polish": "Policyjne barwy",
-          "Name": "WM_TINT5",
-          "TraditionalChinese": "洛聖都警局色調",
-          "SimplifiedChinese": null,
-          "Spanish": "Tinte policial"
-        }
-      },
-      {
-        "Index": 6,
-        "TranslatedLabel": {
-          "Hash": 1747143503,
-          "English": "Orange tint",
-          "German": "Oranger Farbton",
-          "French": "Teinte orange",
-          "Italian": "Colorazione arancione",
-          "Russian": "Оранжевая расцветка",
-          "Polish": "Pomarańczowy kolor",
-          "Name": "WM_TINT6",
-          "TraditionalChinese": "橘色調",
-          "SimplifiedChinese": null,
-          "Spanish": "Tinte naranja"
-        }
-      },
-      {
-        "Index": 7,
-        "TranslatedLabel": {
-          "Hash": 442970072,
-          "English": "Platinum tint",
-          "German": "Platinfarbton",
-          "French": "Teinte platine",
-          "Italian": "Colorazione platino",
-          "Russian": "Платиновая расцветка",
-          "Polish": "Platynowy kolor",
-          "Name": "WM_TINT7",
-          "TraditionalChinese": "白金色調",
-          "SimplifiedChinese": null,
-          "Spanish": "Tinte platino"
-        }
-      }
-    ],
-    "IsVehicleWeapon": false,
-    "Flags": [
-      "CarriedInHand",
-      "Gun",
-      "CanFreeAim",
-      "Launched",
-      "AnimReload",
-      "AnimCrouchFire",
-      "UsableOnFoot",
-      "UsableInCover",
-      "AllowCloseQuarterKills",
-      "HasLowCoverReloads",
-      "HasLowCoverSwaps",
-      "DelayedFiringAfterAutoSwap",
-      "UseFPSAimIK",
-      "UseFPSSecondaryMotion",
-      "DontPlayDryFireAnim"
-    ],
-    "Components": [
-      {
-        "Name": "COMPONENT_COMPACTLAUNCHER_CLIP_01",
-        "IsDefault": true,
-        "TranslatedLabel": {
-          "Hash": 1458711463,
-          "English": "Default clip",
-          "German": "Standardmagazin",
-          "French": "Chargeur par défaut",
-          "Italian": "Caricatore standard",
-          "Russian": "Стандартный магазин",
-          "Polish": "Standardowy magazynek",
-          "Name": "WCT_CLIP1",
-          "TraditionalChinese": "預設彈匣",
-          "SimplifiedChinese": null,
-          "Spanish": "Cargador predeterminado"
-        },
-        "TranslatedDescription": null,
-        "Hash": 1235472140,
-        "IntHash": 1235472140,
-        "AttachBone": "WAPClip",
-        "Type": "CWeaponComponentClipInfo",
-        "Variants": [],
-        "DlcName": "mpbiker"
-      }
-    ],
-    "Liveries": []
-  },
-  {
     "Name": "WEAPON_POOLCUE",
     "TranslatedLabel": {
       "Hash": 129417395,
@@ -41301,221 +41402,6 @@
       "AllowMeleeBlock"
     ],
     "Components": [],
-    "Liveries": []
-  },
-  {
-    "Name": "WEAPON_AUTOSHOTGUN",
-    "TranslatedLabel": {
-      "Hash": 2887394372,
-      "English": "Sweeper Shotgun",
-      "German": "Automatische Schrotflinte",
-      "French": "Fusil à pompe compact",
-      "Italian": "Fucile a pompa Sweeper",
-      "Russian": "Автоматический дробовик",
-      "Polish": "Strzelba automatyczna",
-      "Name": "WT_AUTOSHGN",
-      "TraditionalChinese": "衝鋒霰彈槍",
-      "SimplifiedChinese": "冲锋霰弹枪",
-      "Spanish": "Escopeta Sweeper"
-    },
-    "Hash": 317205821,
-    "IntHash": 317205821,
-    "DlcName": "mpbiker",
-    "Category": "GROUP_SHOTGUN",
-    "TranslatedDescription": {
-      "Hash": 779077663,
-      "English": "How many effective tools for riot control can you tuck into your pants? OK, two. But this is the other one. Part of Bikers.",
-      "German": "Wie viele wirksame Geräte zur Massenbefriedung kannst du in deine Hose stecken? Okay, zwei. Aber das hier ist das andere. Teil von Bikers.",
-      "French": "Qu'est-ce qui est petit, prêt à balancer la sauce et rentre dans votre frocµ? Perdu, c'était l'autre. Disponible dans Motos, boulots, bobos.",
-      "Italian": "Quante armi antisommossa puoi dire di avere nei pantaloni? OK, due. Ma questa è quella che puoi mostrare in giro. Parte di Centauri.",
-      "Russian": "Сколько эффективных инструментов управления толпой можно засунуть в штаны? Ну ладно, два. И это - второй. Часть обновления \"Байкеры\".",
-      "Polish": "Ile skutecznych narzędzi do panowania nad tłumem możesz zmieścić w spodniach? No dobra, dwa. I to jest to drugie. Część Motocyklistów.",
-      "Name": "WTD_AUTOSHGN",
-      "TraditionalChinese": "一條褲子能塞進多少有用的鎮暴工具？答案是，兩樣。而這就是不長在身上的那一樣。係屬狂野飆客。",
-      "SimplifiedChinese": "你究竟能在裤裆里塞进几样有效的防暴工具？好吧，两样。这是另外一样。属于《狂野飙客》。",
-      "Spanish": "¿Cuántos instrumentos antidisturbios eficaces te puedes guardar en los pantalones? Vale, dos. Pero este es el otro. Parte de Moteros."
-    },
-    "Tints": [
-      {
-        "Index": 0,
-        "TranslatedLabel": {
-          "Hash": 3773086928,
-          "English": "Black tint",
-          "German": "Schwarzer Farbton",
-          "French": "Teinte noire",
-          "Italian": "Colorazione nera",
-          "Russian": "Черная расцветка",
-          "Polish": "Czarny kolor",
-          "Name": "WM_TINT0",
-          "TraditionalChinese": "黑色調",
-          "SimplifiedChinese": null,
-          "Spanish": "Tinte negro"
-        }
-      },
-      {
-        "Index": 1,
-        "TranslatedLabel": {
-          "Hash": 3271590152,
-          "English": "Green tint",
-          "German": "Grüner Farbton",
-          "French": "Teinte verte",
-          "Italian": "Colorazione verde",
-          "Russian": "Зеленая расцветка",
-          "Polish": "Zielony kolor",
-          "Name": "WM_TINT1",
-          "TraditionalChinese": "綠色調",
-          "SimplifiedChinese": null,
-          "Spanish": "Tinte verde"
-        }
-      },
-      {
-        "Index": 2,
-        "TranslatedLabel": {
-          "Hash": 2948160122,
-          "English": "Gold tint",
-          "German": "Goldfarbton",
-          "French": "Teinte or",
-          "Italian": "Colorazione oro",
-          "Russian": "Золотая расцветка",
-          "Polish": "Złoty kolor",
-          "Name": "WM_TINT2",
-          "TraditionalChinese": "金色調",
-          "SimplifiedChinese": null,
-          "Spanish": "Tinte dorado"
-        }
-      },
-      {
-        "Index": 3,
-        "TranslatedLabel": {
-          "Hash": 1643790077,
-          "English": "Pink tint",
-          "German": "Pinker Farbton",
-          "French": "Teinte rose",
-          "Italian": "Colorazione rosa",
-          "Russian": "Розовая расцветка",
-          "Polish": "Różowy kolor",
-          "Name": "WM_TINT3",
-          "TraditionalChinese": "粉紅色調",
-          "SimplifiedChinese": null,
-          "Spanish": "Tinte rosa"
-        }
-      },
-      {
-        "Index": 4,
-        "TranslatedLabel": {
-          "Hash": 2351731553,
-          "English": "Army tint",
-          "German": "Armeefarbton",
-          "French": "Teinte armée",
-          "Italian": "Colorazione militare",
-          "Russian": "Армейская расцветка",
-          "Polish": "Wojskowe barwy",
-          "Name": "WM_TINT4",
-          "TraditionalChinese": "軍用色調",
-          "SimplifiedChinese": null,
-          "Spanish": "Tinte militar"
-        }
-      },
-      {
-        "Index": 5,
-        "TranslatedLabel": {
-          "Hash": 2316504878,
-          "English": "LSPD tint",
-          "German": "LSPD-Farbton",
-          "French": "Teinte LSPD",
-          "Italian": "Colorazione LSPD",
-          "Russian": "Полицейская расцветка",
-          "Polish": "Policyjne barwy",
-          "Name": "WM_TINT5",
-          "TraditionalChinese": "洛聖都警局色調",
-          "SimplifiedChinese": null,
-          "Spanish": "Tinte policial"
-        }
-      },
-      {
-        "Index": 6,
-        "TranslatedLabel": {
-          "Hash": 1747143503,
-          "English": "Orange tint",
-          "German": "Oranger Farbton",
-          "French": "Teinte orange",
-          "Italian": "Colorazione arancione",
-          "Russian": "Оранжевая расцветка",
-          "Polish": "Pomarańczowy kolor",
-          "Name": "WM_TINT6",
-          "TraditionalChinese": "橘色調",
-          "SimplifiedChinese": null,
-          "Spanish": "Tinte naranja"
-        }
-      },
-      {
-        "Index": 7,
-        "TranslatedLabel": {
-          "Hash": 442970072,
-          "English": "Platinum tint",
-          "German": "Platinfarbton",
-          "French": "Teinte platine",
-          "Italian": "Colorazione platino",
-          "Russian": "Платиновая расцветка",
-          "Polish": "Platynowy kolor",
-          "Name": "WM_TINT7",
-          "TraditionalChinese": "白金色調",
-          "SimplifiedChinese": null,
-          "Spanish": "Tinte platino"
-        }
-      }
-    ],
-    "IsVehicleWeapon": false,
-    "Flags": [
-      "CarriedInHand",
-      "Automatic",
-      "ApplyBulletForce",
-      "Gun",
-      "CanLockonOnFoot",
-      "CanLockonInVehicle",
-      "CanFreeAim",
-      "TwoHanded",
-      "AnimReload",
-      "AnimCrouchFire",
-      "TreatAsOneHandedInCover",
-      "UsableOnFoot",
-      "UsableInCover",
-      "AllowEarlyExitFromFireAnimAfterBulletFired",
-      "NoLeftHandIKWhenBlocked",
-      "AllowCloseQuarterKills",
-      "HasLowCoverReloads",
-      "HasLowCoverSwaps",
-      "LongWeapon",
-      "UseFPSAimIK",
-      "UseFPSSecondaryMotion",
-      "FPSOnlyExitFireAnimAfterRecoilEnds"
-    ],
-    "Components": [
-      {
-        "Name": "COMPONENT_AUTOSHOTGUN_CLIP_01",
-        "IsDefault": true,
-        "TranslatedLabel": {
-          "Hash": 1458711463,
-          "English": "Default clip",
-          "German": "Standardmagazin",
-          "French": "Chargeur par défaut",
-          "Italian": "Caricatore standard",
-          "Russian": "Стандартный магазин",
-          "Polish": "Standardowy magazynek",
-          "Name": "WCT_CLIP1",
-          "TraditionalChinese": "預設彈匣",
-          "SimplifiedChinese": null,
-          "Spanish": "Cargador predeterminado"
-        },
-        "TranslatedDescription": null,
-        "Hash": 169463950,
-        "IntHash": 169463950,
-        "AttachBone": "WAPClip",
-        "Type": "CWeaponComponentClipInfo",
-        "Variants": [],
-        "DlcName": "mpbiker"
-      }
-    ],
     "Liveries": []
   },
   {
@@ -41702,6 +41588,192 @@
       "UseFPSSecondaryMotion",
       "AllowMeleeBlock",
       "DangerousLookingMeleeWeapon",
+      "CanUseInVehMelee"
+    ],
+    "Components": [],
+    "Liveries": []
+  },
+  {
+    "Name": "WEAPON_WRENCH",
+    "TranslatedLabel": {
+      "Hash": 3002809962,
+      "English": "Pipe Wrench",
+      "German": "Rohrzange",
+      "French": "Clé anglaise",
+      "Italian": "Giratubi",
+      "Russian": "Разводной ключ",
+      "Polish": "Klucz",
+      "Name": "WT_WRENCH",
+      "TraditionalChinese": "管鉗扳手",
+      "SimplifiedChinese": "管钳扳手",
+      "Spanish": "Llave grifa"
+    },
+    "Hash": 419712736,
+    "IntHash": 419712736,
+    "DlcName": "mpbiker",
+    "Category": "GROUP_MELEE",
+    "TranslatedDescription": {
+      "Hash": 2660579766,
+      "English": "Perennial favourite of apocalyptic survivalists and violent fathers the world over, apparently it also doubles as some kind of tool. Part of Bikers.",
+      "German": "Zeitloser Favorit aller Apokalypse- Überlebensfreaks und Prügelväter der Welt. Soll angeblich noch als eine Art Werkzeug einsetzbar sein. Teil von Bikers.",
+      "French": "Chouchou des survivalistes et des pères violents du monde entier, cette arme dévastatrice peut aussi faire office d'outil. Disponible dans Motos, boulots, bobos.",
+      "Italian": "Da sempre apprezzata da survivalisti e padri violenti di tutto il mondo, pare che possa fungere anche da attrezzo. Parte di Centauri.",
+      "Russian": "Любимая вещь агрессивных папаш и параноидальных выживальщиков. Говорят, его можно использовать и как инструмент. Часть обновления \"Байкеры\".",
+      "Polish": "Popularny wśród fanatyków apokaliptycznego surwiwalu i agresywnych ojców. Podobno może też służyć jako narzędzie. Część Motocyklistów.",
+      "Name": "WTD_WRENCH",
+      "TraditionalChinese": "長期受到全球的末日生還者與家暴老爹喜愛，而且還可兼作其他工具使用。係屬狂野飆客。",
+      "SimplifiedChinese": "全世界灾难生存专家和暴力老爹常年追捧之物，显然它还能兼作其他工具。属于《狂野飙客》。",
+      "Spanish": "La favorita de los locos de la supervivencia apocalípticos y de todos los padres violentos. Al parecer, también hace las veces de herramienta. Parte de Moteros."
+    },
+    "Tints": [
+      {
+        "Index": 0,
+        "TranslatedLabel": {
+          "Hash": 3773086928,
+          "English": "Black tint",
+          "German": "Schwarzer Farbton",
+          "French": "Teinte noire",
+          "Italian": "Colorazione nera",
+          "Russian": "Черная расцветка",
+          "Polish": "Czarny kolor",
+          "Name": "WM_TINT0",
+          "TraditionalChinese": "黑色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte negro"
+        }
+      },
+      {
+        "Index": 1,
+        "TranslatedLabel": {
+          "Hash": 3271590152,
+          "English": "Green tint",
+          "German": "Grüner Farbton",
+          "French": "Teinte verte",
+          "Italian": "Colorazione verde",
+          "Russian": "Зеленая расцветка",
+          "Polish": "Zielony kolor",
+          "Name": "WM_TINT1",
+          "TraditionalChinese": "綠色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte verde"
+        }
+      },
+      {
+        "Index": 2,
+        "TranslatedLabel": {
+          "Hash": 2948160122,
+          "English": "Gold tint",
+          "German": "Goldfarbton",
+          "French": "Teinte or",
+          "Italian": "Colorazione oro",
+          "Russian": "Золотая расцветка",
+          "Polish": "Złoty kolor",
+          "Name": "WM_TINT2",
+          "TraditionalChinese": "金色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte dorado"
+        }
+      },
+      {
+        "Index": 3,
+        "TranslatedLabel": {
+          "Hash": 1643790077,
+          "English": "Pink tint",
+          "German": "Pinker Farbton",
+          "French": "Teinte rose",
+          "Italian": "Colorazione rosa",
+          "Russian": "Розовая расцветка",
+          "Polish": "Różowy kolor",
+          "Name": "WM_TINT3",
+          "TraditionalChinese": "粉紅色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte rosa"
+        }
+      },
+      {
+        "Index": 4,
+        "TranslatedLabel": {
+          "Hash": 2351731553,
+          "English": "Army tint",
+          "German": "Armeefarbton",
+          "French": "Teinte armée",
+          "Italian": "Colorazione militare",
+          "Russian": "Армейская расцветка",
+          "Polish": "Wojskowe barwy",
+          "Name": "WM_TINT4",
+          "TraditionalChinese": "軍用色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte militar"
+        }
+      },
+      {
+        "Index": 5,
+        "TranslatedLabel": {
+          "Hash": 2316504878,
+          "English": "LSPD tint",
+          "German": "LSPD-Farbton",
+          "French": "Teinte LSPD",
+          "Italian": "Colorazione LSPD",
+          "Russian": "Полицейская расцветка",
+          "Polish": "Policyjne barwy",
+          "Name": "WM_TINT5",
+          "TraditionalChinese": "洛聖都警局色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte policial"
+        }
+      },
+      {
+        "Index": 6,
+        "TranslatedLabel": {
+          "Hash": 1747143503,
+          "English": "Orange tint",
+          "German": "Oranger Farbton",
+          "French": "Teinte orange",
+          "Italian": "Colorazione arancione",
+          "Russian": "Оранжевая расцветка",
+          "Polish": "Pomarańczowy kolor",
+          "Name": "WM_TINT6",
+          "TraditionalChinese": "橘色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte naranja"
+        }
+      },
+      {
+        "Index": 7,
+        "TranslatedLabel": {
+          "Hash": 442970072,
+          "English": "Platinum tint",
+          "German": "Platinfarbton",
+          "French": "Teinte platine",
+          "Italian": "Colorazione platino",
+          "Russian": "Платиновая расцветка",
+          "Polish": "Platynowy kolor",
+          "Name": "WM_TINT7",
+          "TraditionalChinese": "白金色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte platino"
+        }
+      }
+    ],
+    "IsVehicleWeapon": false,
+    "Flags": [
+      "AllowMeleeBlock",
+      "CarriedInHand",
+      "ArmourPenetrating",
+      "CanLockonOnFoot",
+      "CanLockonInVehicle",
+      "MeleeClub",
+      "UsableOnFoot",
+      "UsableClimbing",
+      "UsableInCover",
+      "DoesRevivableDamage",
+      "AllowCloseQuarterKills",
+      "HasLowCoverSwaps",
+      "NoWheelStats",
+      "QuitTransitionToIdleIntroOnWeaponChange",
+      "DisableLeftHandIkWhenOnFoot",
+      "UseFPSAimIK",
+      "UseFPSSecondaryMotion",
       "CanUseInVehMelee"
     ],
     "Components": [],
@@ -43247,36 +43319,36 @@
     ]
   },
   {
-    "Name": "WEAPON_COMBATMG_MK2",
+    "Name": "WEAPON_ASSAULTRIFLE_MK2",
     "TranslatedLabel": {
-      "Hash": 2040348685,
-      "English": "Combat MG Mk II",
-      "German": "Gefechts-MG Mk II",
-      "French": "Mitrailleuse de combat Mk II",
-      "Italian": "MG da combattimento Mk II",
-      "Russian": "Тяжелый пулемет Mk II",
-      "Polish": "Bojowy KM wer. 2",
-      "Name": "WT_MG_CBT2",
-      "TraditionalChinese": "戰鬥機關槍µMkµII",
-      "SimplifiedChinese": "Mkµ2µ战斗机枪",
-      "Spanish": "Ametralladora combate Mk II"
+      "Hash": 1394808640,
+      "English": "Assault Rifle Mk II",
+      "German": "Sturmgewehr Mk II",
+      "French": "Fusil d'assaut Mk II",
+      "Italian": "Fucile d'assalto Mk II",
+      "Russian": "Штурмовая винтовка Mk II",
+      "Polish": "Karabin szturmowy wer. 2",
+      "Name": "WT_RIFLE_ASL2",
+      "TraditionalChinese": "突擊步槍µMkµII",
+      "SimplifiedChinese": "Mkµ2µ突击步枪",
+      "Spanish": "Fusil de asalto Mk II"
     },
-    "Hash": 3686625920,
-    "IntHash": -608341376,
+    "Hash": 961495388,
+    "IntHash": 961495388,
     "DlcName": "mpgunrunning",
-    "Category": "GROUP_MG",
+    "Category": "GROUP_RIFLE",
     "TranslatedDescription": {
-      "Hash": 757191440,
-      "English": "You can never have too much of a good thing: after all, if the first shot counts, then the next hundred or so must count for double.",
-      "German": "Von etwas Gutem kann man nie zu viel haben: Wenn schon der erste Treffer zählt, dann müssen die nächsten hundert ja eigentlich doppelt zählen.",
-      "French": "Il faut toujours savoir profiter des bonnes chosesµ: après tout, si le premier tir compte, alors la centaine suivante compte double.",
-      "Italian": "Non ne hai mai abbastanza delle cose che funzionano. Se il primo colpo è quello che conta, i cento successivi dovrebbero valere doppio!",
-      "Russian": "Кашу маслом не испортишь. В конце концов, если первый выстрел важен, то последующие сто с лишним важны вдвойне.",
-      "Polish": "Dobrego nigdy za wiele: w końcu jeśli pierwszy strzał trafi, to kolejnych sto już liczy się podwójnie.",
-      "Name": "WTD_MG_CBT2",
-      "TraditionalChinese": "俗話說，好東西永遠不嫌多：畢竟，如果射中第一發就很爽的話，那麼接下來的幾百發就更加爽翻倍。",
-      "SimplifiedChinese": "俗话说，好东西永远不嫌多：毕竟，如果射中的第一发就很爽，那接下来的几百发必将快感倍增。",
-      "Spanish": "Uno nunca se cansa de lo bueno: al fin al cabo, si el primer disparo cuenta, los cien siguientes tienen que contar el doble."
+      "Hash": 1178858646,
+      "English": "The definitive revision of an all-time classic: all it takes is a little work, and looks can kill after all.",
+      "German": "Die endgültige Fassung eines unsterblichen Klassikers: Mit etwas Zeit und Mühe können (An-)Blicke tatsächlich töten.",
+      "French": "Un grand classique revisité de la plus belle des façonsµ: avec ces petites améliorations, vous ferez littéralement des ravages.",
+      "Italian": "La versione definitiva di un classico senza tempo. Con un po' di impegno, anche un'arma può essere bella... da morire.",
+      "Russian": "Оптимальная переработка нестареющей классики: все-таки красота действительно может быть убийственной.",
+      "Polish": "Ostateczna wersja ponadczasowego klasyka: nieco wysiłku i wygląd jednak może zabijać.",
+      "Name": "WTD_RIFLE_ASL2",
+      "TraditionalChinese": "絕對堪稱經典之作的終極必殺改裝：只需要一點小小的改變，看起來就會充滿殺氣。",
+      "SimplifiedChinese": "经典之作的终极改装：一点小小的变动，立马杀气毕露。",
+      "Spanish": "La revisión definitiva de un clásico de siempre: solo hace falta un poco de trabajo para que las miradas maten de verdad."
     },
     "Tints": [
       {
@@ -43814,6 +43886,7 @@
       "AllowCloseQuarterKills",
       "HasLowCoverReloads",
       "HasLowCoverSwaps",
+      "TorsoIKForWeaponBlock",
       "LongWeapon",
       "UseFPSAimIK",
       "UseFPSSecondaryMotion",
@@ -43821,7 +43894,7 @@
     ],
     "Components": [
       {
-        "Name": "COMPONENT_COMBATMG_MK2_CLIP_01",
+        "Name": "COMPONENT_ASSAULTRIFLE_MK2_CLIP_01",
         "IsDefault": true,
         "TranslatedLabel": {
           "Hash": 1458711463,
@@ -43849,15 +43922,15 @@
           "SimplifiedChinese": "常规弹药标准容量。",
           "Spanish": "Capacidad estándar para munición normal."
         },
-        "Hash": 1227564412,
-        "IntHash": 1227564412,
+        "Hash": 2249208895,
+        "IntHash": -2045758401,
         "AttachBone": "WAPClip",
         "Type": "CWeaponComponentClipInfo",
         "Variants": [],
         "DlcName": "mpgunrunning"
       },
       {
-        "Name": "COMPONENT_COMBATMG_MK2_CLIP_02",
+        "Name": "COMPONENT_ASSAULTRIFLE_MK2_CLIP_02",
         "IsDefault": false,
         "TranslatedLabel": {
           "Hash": 615958321,
@@ -43885,15 +43958,15 @@
           "SimplifiedChinese": "常规弹药扩充容量。",
           "Spanish": "Capacidad ampliada para munición normal."
         },
-        "Hash": 400507625,
-        "IntHash": 400507625,
+        "Hash": 3509242479,
+        "IntHash": -785724817,
         "AttachBone": "WAPClip",
         "Type": "CWeaponComponentClipInfo",
         "Variants": [],
         "DlcName": "mpgunrunning"
       },
       {
-        "Name": "COMPONENT_COMBATMG_MK2_CLIP_ARMORPIERCING",
+        "Name": "COMPONENT_ASSAULTRIFLE_MK2_CLIP_ARMORPIERCING",
         "IsDefault": false,
         "TranslatedLabel": {
           "Hash": 3854750036,
@@ -43921,15 +43994,15 @@
           "SimplifiedChinese": "提升穿透护甲的能力。弹匣容量减少。",
           "Spanish": "Penetración de blindaje aumentada. Capacidad reducida."
         },
-        "Hash": 696788003,
-        "IntHash": 696788003,
+        "Hash": 2816286296,
+        "IntHash": -1478681000,
         "AttachBone": "WAPClip",
         "Type": "CWeaponComponentClipInfo",
         "Variants": [],
         "DlcName": "mpgunrunning"
       },
       {
-        "Name": "COMPONENT_COMBATMG_MK2_CLIP_FMJ",
+        "Name": "COMPONENT_ASSAULTRIFLE_MK2_CLIP_FMJ",
         "IsDefault": false,
         "TranslatedLabel": {
           "Hash": 3292758637,
@@ -43957,15 +44030,15 @@
           "SimplifiedChinese": "加剧对载具的伤害，同时可穿透载具的阻弹和防弹玻璃。弹匣容量减少。",
           "Spanish": "Aumenta el daño a vehículos. Además, penetra cristales reforzados o antibalas de vehículos. Capacidad reducida."
         },
-        "Hash": 1475288264,
-        "IntHash": 1475288264,
+        "Hash": 1675665560,
+        "IntHash": 1675665560,
         "AttachBone": "WAPClip",
         "Type": "CWeaponComponentClipInfo",
         "Variants": [],
         "DlcName": "mpgunrunning"
       },
       {
-        "Name": "COMPONENT_COMBATMG_MK2_CLIP_INCENDIARY",
+        "Name": "COMPONENT_ASSAULTRIFLE_MK2_CLIP_INCENDIARY",
         "IsDefault": false,
         "TranslatedLabel": {
           "Hash": 2232305552,
@@ -43993,15 +44066,15 @@
           "SimplifiedChinese": "发射时可能会点燃目标。弹匣容量减少。",
           "Spanish": "Balas que tienen probabilidades de prender fuego a los objetivos. Capacidad reducida."
         },
-        "Hash": 3274096058,
-        "IntHash": -1020871238,
+        "Hash": 4218476627,
+        "IntHash": -76490669,
         "AttachBone": "WAPClip",
         "Type": "CWeaponComponentClipInfo",
         "Variants": [],
         "DlcName": "mpgunrunning"
       },
       {
-        "Name": "COMPONENT_COMBATMG_MK2_CLIP_TRACER",
+        "Name": "COMPONENT_ASSAULTRIFLE_MK2_CLIP_TRACER",
         "IsDefault": false,
         "TranslatedLabel": {
           "Hash": 3804780200,
@@ -44029,12 +44102,48 @@
           "SimplifiedChinese": "子弹带有亮色可见标记，标记颜色与枪支配色匹配。标准容量弹匣。",
           "Spanish": "Balas con marcadores visibles brillantes del color del tinte del arma. Capacidad estándar."
         },
-        "Hash": 4133787461,
-        "IntHash": -161179835,
+        "Hash": 4012669121,
+        "IntHash": -282298175,
         "AttachBone": "WAPClip",
         "Type": "CWeaponComponentClipInfo",
         "Variants": [],
         "DlcName": "mpgunrunning"
+      },
+      {
+        "Name": "COMPONENT_AT_AR_FLSH",
+        "IsDefault": false,
+        "TranslatedLabel": {
+          "Hash": 2633762459,
+          "English": "Flashlight",
+          "German": "Taktisches Licht",
+          "French": "Torche",
+          "Italian": "Torcia",
+          "Russian": "Фонарь",
+          "Polish": "Latarka",
+          "Name": "WCT_FLASH",
+          "TraditionalChinese": "手電筒",
+          "SimplifiedChinese": null,
+          "Spanish": "Linterna"
+        },
+        "TranslatedDescription": {
+          "Hash": 4187991109,
+          "English": "Aids low light target acquisition.",
+          "German": "Hilft bei der Zielerfassung bei schwachem Licht.",
+          "French": "Favorise l'acquisition des cibles dans l'obscurité.",
+          "Italian": "Aiuta nell'acquisizione di bersagli con poca luce.",
+          "Russian": "Облегчает прицеливание при слабой освещенности.",
+          "Polish": "Wspomaga wyszukiwanie celów w ciemności.",
+          "Name": "WCD_FLASH",
+          "TraditionalChinese": "協助使用者在低光源場合找到目標。",
+          "SimplifiedChinese": null,
+          "Spanish": "Facilita la localización del blanco con poca luz."
+        },
+        "Hash": 2076495324,
+        "IntHash": 2076495324,
+        "AttachBone": "WAPFlshLasr_2",
+        "Type": "CWeaponComponentFlashLightInfo",
+        "Variants": [],
+        "DlcName": "TitleUpdate"
       },
       {
         "Name": "COMPONENT_AT_SIGHTS",
@@ -44073,36 +44182,36 @@
         "DlcName": "mpgunrunning"
       },
       {
-        "Name": "COMPONENT_AT_SCOPE_SMALL_MK2",
+        "Name": "COMPONENT_AT_SCOPE_MACRO_MK2",
         "IsDefault": false,
         "TranslatedLabel": {
-          "Hash": 2841847200,
-          "English": "Medium Scope",
-          "German": "Mittleres Zielfernrohr",
-          "French": "Lunette moyenne",
-          "Italian": "Mirino medio",
-          "Russian": "Средний прицел",
-          "Polish": "Średnia luneta",
-          "Name": "WCT_SCOPE_SML2",
-          "TraditionalChinese": "中型瞄準鏡",
-          "SimplifiedChinese": "中型瞄准镜",
-          "Spanish": "Mira mediana"
+          "Hash": 1780909588,
+          "English": "Small Scope",
+          "German": "Kleines Zielfernrohr",
+          "French": "Petite lunette",
+          "Italian": "Mirino piccolo",
+          "Russian": "Маленький прицел",
+          "Polish": "Mała luneta",
+          "Name": "WCT_SCOPE_MAC2",
+          "TraditionalChinese": "小型瞄準鏡",
+          "SimplifiedChinese": "小型瞄准镜",
+          "Spanish": "Mira pequeña"
         },
         "TranslatedDescription": {
-          "Hash": 914265237,
-          "English": "Medium-range zoom functionality.",
-          "German": "Zoomfunktion mit mittlerer Reichweite.",
-          "French": "Lunette grossissante de moyenne portée.",
-          "Italian": "Funzionalità di zoom a distanza media.",
-          "Russian": "Среднее приближение.",
-          "Polish": "Oferuje średnie przybliżenie.",
-          "Name": "WCD_SCOPE_SML",
-          "TraditionalChinese": "提供中距離的縮放視野功能。",
+          "Hash": 181463024,
+          "English": "Standard-range zoom functionality.",
+          "German": "Zoomfunktion mit Standard-Reichweite.",
+          "French": "Lunette grossissante standard.",
+          "Italian": "Funzionalità di zoom a distanza standard.",
+          "Russian": "Стандартное приближение.",
+          "Polish": "Oferuje standardowe przybliżenie.",
+          "Name": "WCD_SCOPE_MAC",
+          "TraditionalChinese": "提供標準距離的縮放視野功能。",
           "SimplifiedChinese": null,
-          "Spanish": "Con función de zoom de alcance intermedio."
+          "Spanish": "Con función de zoom de alcance estándar."
         },
-        "Hash": 1060929921,
-        "IntHash": 1060929921,
+        "Hash": 77277509,
+        "IntHash": 77277509,
         "AttachBone": "WAPScop_2",
         "Type": "CWeaponComponentScopeInfo",
         "Variants": [],
@@ -44145,6 +44254,42 @@
         "DlcName": "mpgunrunning"
       },
       {
+        "Name": "COMPONENT_AT_AR_SUPP_02",
+        "IsDefault": false,
+        "TranslatedLabel": {
+          "Hash": 2231215523,
+          "English": "Suppressor",
+          "German": "Schalldämpfer",
+          "French": "Silencieux",
+          "Italian": "Silenziatore",
+          "Russian": "Глушитель",
+          "Polish": "Tłumik",
+          "Name": "WCT_SUPP",
+          "TraditionalChinese": "滅音器",
+          "SimplifiedChinese": null,
+          "Spanish": "Silenciador"
+        },
+        "TranslatedDescription": {
+          "Hash": 2664741619,
+          "English": "Reduces noise and muzzle flash.",
+          "German": "Verringert Geräusch und Mündungsfeuer.",
+          "French": "Réduit le bruit et le flash lumineux.",
+          "Italian": "Riduce il rumore e la fiammata dell'arma.",
+          "Russian": "Гасит звук выстрела и дульную вспышку.",
+          "Polish": "Redukuje odgłos wystrzału i błysk.",
+          "Name": "WCD_AR_SUPP2",
+          "TraditionalChinese": "降低槍聲以及槍口的火光。",
+          "SimplifiedChinese": null,
+          "Spanish": "Reduce el ruido y los fogonazos."
+        },
+        "Hash": 2805810788,
+        "IntHash": -1489156508,
+        "AttachBone": "WAPSupp_2",
+        "Type": "CWeaponComponentSuppressorInfo",
+        "Variants": [],
+        "DlcName": "TitleUpdate"
+      },
+      {
         "Name": "COMPONENT_AT_MUZZLE_01",
         "IsDefault": false,
         "TranslatedLabel": {
@@ -44175,7 +44320,7 @@
         },
         "Hash": 3113485012,
         "IntHash": -1181482284,
-        "AttachBone": "WAPSupp",
+        "AttachBone": "WAPSupp_2",
         "Type": "CWeaponComponentSuppressorInfo",
         "Variants": [],
         "DlcName": "mpgunrunning"
@@ -44211,7 +44356,7 @@
         },
         "Hash": 3362234491,
         "IntHash": -932732805,
-        "AttachBone": "WAPSupp",
+        "AttachBone": "WAPSupp_2",
         "Type": "CWeaponComponentSuppressorInfo",
         "Variants": [],
         "DlcName": "mpgunrunning"
@@ -44247,7 +44392,7 @@
         },
         "Hash": 3725708239,
         "IntHash": -569259057,
-        "AttachBone": "WAPSupp",
+        "AttachBone": "WAPSupp_2",
         "Type": "CWeaponComponentSuppressorInfo",
         "Variants": [],
         "DlcName": "mpgunrunning"
@@ -44283,7 +44428,7 @@
         },
         "Hash": 3968886988,
         "IntHash": -326080308,
-        "AttachBone": "WAPSupp",
+        "AttachBone": "WAPSupp_2",
         "Type": "CWeaponComponentSuppressorInfo",
         "Variants": [],
         "DlcName": "mpgunrunning"
@@ -44319,7 +44464,7 @@
         },
         "Hash": 48731514,
         "IntHash": 48731514,
-        "AttachBone": "WAPSupp",
+        "AttachBone": "WAPSupp_2",
         "Type": "CWeaponComponentSuppressorInfo",
         "Variants": [],
         "DlcName": "mpgunrunning"
@@ -44355,7 +44500,7 @@
         },
         "Hash": 880736428,
         "IntHash": 880736428,
-        "AttachBone": "WAPSupp",
+        "AttachBone": "WAPSupp_2",
         "Type": "CWeaponComponentSuppressorInfo",
         "Variants": [],
         "DlcName": "mpgunrunning"
@@ -44391,7 +44536,7 @@
         },
         "Hash": 1303784126,
         "IntHash": 1303784126,
-        "AttachBone": "WAPSupp",
+        "AttachBone": "WAPSupp_2",
         "Type": "CWeaponComponentSuppressorInfo",
         "Variants": [],
         "DlcName": "mpgunrunning"
@@ -44427,13 +44572,13 @@
         },
         "Hash": 2640679034,
         "IntHash": -1654288262,
-        "AttachBone": "WAPGrip_2",
+        "AttachBone": "WAPGrip",
         "Type": "CWeaponComponentInfo",
         "Variants": [],
         "DlcName": "mpgunrunning"
       },
       {
-        "Name": "COMPONENT_AT_MG_BARREL_01",
+        "Name": "COMPONENT_AT_AR_BARREL_01",
         "IsDefault": true,
         "TranslatedLabel": {
           "Hash": 1987434570,
@@ -44461,15 +44606,15 @@
           "SimplifiedChinese": "原装枪管配件。",
           "Spanish": "Accesorio por defecto del cañón."
         },
-        "Hash": 3276730932,
-        "IntHash": -1018236364,
+        "Hash": 1134861606,
+        "IntHash": 1134861606,
         "AttachBone": "WAPBarrel",
         "Type": "CWeaponComponentInfo",
         "Variants": [],
         "DlcName": "mpgunrunning"
       },
       {
-        "Name": "COMPONENT_AT_MG_BARREL_02",
+        "Name": "COMPONENT_AT_AR_BARREL_02",
         "IsDefault": false,
         "TranslatedLabel": {
           "Hash": 966304150,
@@ -44497,8 +44642,8 @@
           "SimplifiedChinese": "增加对远距离目标造成的伤害。",
           "Spanish": "Aumenta el daño causado a objetivos a larga distancia."
         },
-        "Hash": 3051509595,
-        "IntHash": -1243457701,
+        "Hash": 1447477866,
+        "IntHash": 1447477866,
         "AttachBone": "WAPBarrel",
         "Type": "CWeaponComponentInfo",
         "Variants": [],
@@ -44507,9 +44652,9 @@
     ],
     "Liveries": [
       {
-        "Name": "COMPONENT_COMBATMG_MK2_CAMO",
-        "Hash": 1249283253,
-        "IntHash": 1249283253,
+        "Name": "COMPONENT_ASSAULTRIFLE_MK2_CAMO",
+        "Hash": 2434475183,
+        "IntHash": -1860492113,
         "TranslatedLabel": {
           "Hash": 670835400,
           "English": "Digital Camo",
@@ -44526,9 +44671,9 @@
         "DlcName": "mpgunrunning"
       },
       {
-        "Name": "COMPONENT_COMBATMG_MK2_CAMO_02",
-        "Hash": 3437259709,
-        "IntHash": -857707587,
+        "Name": "COMPONENT_ASSAULTRIFLE_MK2_CAMO_02",
+        "Hash": 937772107,
+        "IntHash": 937772107,
         "TranslatedLabel": {
           "Hash": 415532117,
           "English": "Brushstroke Camo",
@@ -44545,9 +44690,9 @@
         "DlcName": "mpgunrunning"
       },
       {
-        "Name": "COMPONENT_COMBATMG_MK2_CAMO_03",
-        "Hash": 3197423398,
-        "IntHash": -1097543898,
+        "Name": "COMPONENT_ASSAULTRIFLE_MK2_CAMO_03",
+        "Hash": 1401650071,
+        "IntHash": 1401650071,
         "TranslatedLabel": {
           "Hash": 728344991,
           "English": "Woodland Camo",
@@ -44564,9 +44709,9 @@
         "DlcName": "mpgunrunning"
       },
       {
-        "Name": "COMPONENT_COMBATMG_MK2_CAMO_04",
-        "Hash": 1980349969,
-        "IntHash": 1980349969,
+        "Name": "COMPONENT_ASSAULTRIFLE_MK2_CAMO_04",
+        "Hash": 628662130,
+        "IntHash": 628662130,
         "TranslatedLabel": {
           "Hash": 271217437,
           "English": "Skull",
@@ -44583,9 +44728,9 @@
         "DlcName": "mpgunrunning"
       },
       {
-        "Name": "COMPONENT_COMBATMG_MK2_CAMO_05",
-        "Hash": 1219453777,
-        "IntHash": 1219453777,
+        "Name": "COMPONENT_ASSAULTRIFLE_MK2_CAMO_05",
+        "Hash": 3309920045,
+        "IntHash": -985047251,
         "TranslatedLabel": {
           "Hash": 3739783322,
           "English": "Sessanta Nove",
@@ -44602,9 +44747,9 @@
         "DlcName": "mpgunrunning"
       },
       {
-        "Name": "COMPONENT_COMBATMG_MK2_CAMO_06",
-        "Hash": 2441508106,
-        "IntHash": -1853459190,
+        "Name": "COMPONENT_ASSAULTRIFLE_MK2_CAMO_06",
+        "Hash": 3482022833,
+        "IntHash": -812944463,
         "TranslatedLabel": {
           "Hash": 4089363014,
           "English": "Perseus",
@@ -44621,9 +44766,9 @@
         "DlcName": "mpgunrunning"
       },
       {
-        "Name": "COMPONENT_COMBATMG_MK2_CAMO_07",
-        "Hash": 2220186280,
-        "IntHash": -2074781016,
+        "Name": "COMPONENT_ASSAULTRIFLE_MK2_CAMO_07",
+        "Hash": 2847614993,
+        "IntHash": -1447352303,
         "TranslatedLabel": {
           "Hash": 3316243997,
           "English": "Leopard",
@@ -44640,9 +44785,9 @@
         "DlcName": "mpgunrunning"
       },
       {
-        "Name": "COMPONENT_COMBATMG_MK2_CAMO_08",
-        "Hash": 457967755,
-        "IntHash": 457967755,
+        "Name": "COMPONENT_ASSAULTRIFLE_MK2_CAMO_08",
+        "Hash": 4234628436,
+        "IntHash": -60338860,
         "TranslatedLabel": {
           "Hash": 3347374547,
           "English": "Zebra",
@@ -44659,9 +44804,9 @@
         "DlcName": "mpgunrunning"
       },
       {
-        "Name": "COMPONENT_COMBATMG_MK2_CAMO_09",
-        "Hash": 235171324,
-        "IntHash": 235171324,
+        "Name": "COMPONENT_ASSAULTRIFLE_MK2_CAMO_09",
+        "Hash": 2088750491,
+        "IntHash": 2088750491,
         "TranslatedLabel": {
           "Hash": 2571961700,
           "English": "Geometric",
@@ -44678,9 +44823,9 @@
         "DlcName": "mpgunrunning"
       },
       {
-        "Name": "COMPONENT_COMBATMG_MK2_CAMO_10",
-        "Hash": 42685294,
-        "IntHash": 42685294,
+        "Name": "COMPONENT_ASSAULTRIFLE_MK2_CAMO_10",
+        "Hash": 2781053842,
+        "IntHash": -1513913454,
         "TranslatedLabel": {
           "Hash": 1745080084,
           "English": "Boom!",
@@ -44697,9 +44842,9 @@
         "DlcName": "mpgunrunning"
       },
       {
-        "Name": "COMPONENT_COMBATMG_MK2_CAMO_IND_01",
-        "Hash": 3607349581,
-        "IntHash": -687617715,
+        "Name": "COMPONENT_ASSAULTRIFLE_MK2_CAMO_IND_01",
+        "Hash": 3115408816,
+        "IntHash": -1179558480,
         "TranslatedLabel": {
           "Hash": 2638516272,
           "English": "Patriotic",
@@ -46261,36 +46406,36 @@
     ]
   },
   {
-    "Name": "WEAPON_ASSAULTRIFLE_MK2",
+    "Name": "WEAPON_COMBATMG_MK2",
     "TranslatedLabel": {
-      "Hash": 1394808640,
-      "English": "Assault Rifle Mk II",
-      "German": "Sturmgewehr Mk II",
-      "French": "Fusil d'assaut Mk II",
-      "Italian": "Fucile d'assalto Mk II",
-      "Russian": "Штурмовая винтовка Mk II",
-      "Polish": "Karabin szturmowy wer. 2",
-      "Name": "WT_RIFLE_ASL2",
-      "TraditionalChinese": "突擊步槍µMkµII",
-      "SimplifiedChinese": "Mkµ2µ突击步枪",
-      "Spanish": "Fusil de asalto Mk II"
+      "Hash": 2040348685,
+      "English": "Combat MG Mk II",
+      "German": "Gefechts-MG Mk II",
+      "French": "Mitrailleuse de combat Mk II",
+      "Italian": "MG da combattimento Mk II",
+      "Russian": "Тяжелый пулемет Mk II",
+      "Polish": "Bojowy KM wer. 2",
+      "Name": "WT_MG_CBT2",
+      "TraditionalChinese": "戰鬥機關槍µMkµII",
+      "SimplifiedChinese": "Mkµ2µ战斗机枪",
+      "Spanish": "Ametralladora combate Mk II"
     },
-    "Hash": 961495388,
-    "IntHash": 961495388,
+    "Hash": 3686625920,
+    "IntHash": -608341376,
     "DlcName": "mpgunrunning",
-    "Category": "GROUP_RIFLE",
+    "Category": "GROUP_MG",
     "TranslatedDescription": {
-      "Hash": 1178858646,
-      "English": "The definitive revision of an all-time classic: all it takes is a little work, and looks can kill after all.",
-      "German": "Die endgültige Fassung eines unsterblichen Klassikers: Mit etwas Zeit und Mühe können (An-)Blicke tatsächlich töten.",
-      "French": "Un grand classique revisité de la plus belle des façonsµ: avec ces petites améliorations, vous ferez littéralement des ravages.",
-      "Italian": "La versione definitiva di un classico senza tempo. Con un po' di impegno, anche un'arma può essere bella... da morire.",
-      "Russian": "Оптимальная переработка нестареющей классики: все-таки красота действительно может быть убийственной.",
-      "Polish": "Ostateczna wersja ponadczasowego klasyka: nieco wysiłku i wygląd jednak może zabijać.",
-      "Name": "WTD_RIFLE_ASL2",
-      "TraditionalChinese": "絕對堪稱經典之作的終極必殺改裝：只需要一點小小的改變，看起來就會充滿殺氣。",
-      "SimplifiedChinese": "经典之作的终极改装：一点小小的变动，立马杀气毕露。",
-      "Spanish": "La revisión definitiva de un clásico de siempre: solo hace falta un poco de trabajo para que las miradas maten de verdad."
+      "Hash": 757191440,
+      "English": "You can never have too much of a good thing: after all, if the first shot counts, then the next hundred or so must count for double.",
+      "German": "Von etwas Gutem kann man nie zu viel haben: Wenn schon der erste Treffer zählt, dann müssen die nächsten hundert ja eigentlich doppelt zählen.",
+      "French": "Il faut toujours savoir profiter des bonnes chosesµ: après tout, si le premier tir compte, alors la centaine suivante compte double.",
+      "Italian": "Non ne hai mai abbastanza delle cose che funzionano. Se il primo colpo è quello che conta, i cento successivi dovrebbero valere doppio!",
+      "Russian": "Кашу маслом не испортишь. В конце концов, если первый выстрел важен, то последующие сто с лишним важны вдвойне.",
+      "Polish": "Dobrego nigdy za wiele: w końcu jeśli pierwszy strzał trafi, to kolejnych sto już liczy się podwójnie.",
+      "Name": "WTD_MG_CBT2",
+      "TraditionalChinese": "俗話說，好東西永遠不嫌多：畢竟，如果射中第一發就很爽的話，那麼接下來的幾百發就更加爽翻倍。",
+      "SimplifiedChinese": "俗话说，好东西永远不嫌多：毕竟，如果射中的第一发就很爽，那接下来的几百发必将快感倍增。",
+      "Spanish": "Uno nunca se cansa de lo bueno: al fin al cabo, si el primer disparo cuenta, los cien siguientes tienen que contar el doble."
     },
     "Tints": [
       {
@@ -46828,7 +46973,6 @@
       "AllowCloseQuarterKills",
       "HasLowCoverReloads",
       "HasLowCoverSwaps",
-      "TorsoIKForWeaponBlock",
       "LongWeapon",
       "UseFPSAimIK",
       "UseFPSSecondaryMotion",
@@ -46836,7 +46980,7 @@
     ],
     "Components": [
       {
-        "Name": "COMPONENT_ASSAULTRIFLE_MK2_CLIP_01",
+        "Name": "COMPONENT_COMBATMG_MK2_CLIP_01",
         "IsDefault": true,
         "TranslatedLabel": {
           "Hash": 1458711463,
@@ -46864,15 +47008,15 @@
           "SimplifiedChinese": "常规弹药标准容量。",
           "Spanish": "Capacidad estándar para munición normal."
         },
-        "Hash": 2249208895,
-        "IntHash": -2045758401,
+        "Hash": 1227564412,
+        "IntHash": 1227564412,
         "AttachBone": "WAPClip",
         "Type": "CWeaponComponentClipInfo",
         "Variants": [],
         "DlcName": "mpgunrunning"
       },
       {
-        "Name": "COMPONENT_ASSAULTRIFLE_MK2_CLIP_02",
+        "Name": "COMPONENT_COMBATMG_MK2_CLIP_02",
         "IsDefault": false,
         "TranslatedLabel": {
           "Hash": 615958321,
@@ -46900,15 +47044,15 @@
           "SimplifiedChinese": "常规弹药扩充容量。",
           "Spanish": "Capacidad ampliada para munición normal."
         },
-        "Hash": 3509242479,
-        "IntHash": -785724817,
+        "Hash": 400507625,
+        "IntHash": 400507625,
         "AttachBone": "WAPClip",
         "Type": "CWeaponComponentClipInfo",
         "Variants": [],
         "DlcName": "mpgunrunning"
       },
       {
-        "Name": "COMPONENT_ASSAULTRIFLE_MK2_CLIP_ARMORPIERCING",
+        "Name": "COMPONENT_COMBATMG_MK2_CLIP_ARMORPIERCING",
         "IsDefault": false,
         "TranslatedLabel": {
           "Hash": 3854750036,
@@ -46936,15 +47080,15 @@
           "SimplifiedChinese": "提升穿透护甲的能力。弹匣容量减少。",
           "Spanish": "Penetración de blindaje aumentada. Capacidad reducida."
         },
-        "Hash": 2816286296,
-        "IntHash": -1478681000,
+        "Hash": 696788003,
+        "IntHash": 696788003,
         "AttachBone": "WAPClip",
         "Type": "CWeaponComponentClipInfo",
         "Variants": [],
         "DlcName": "mpgunrunning"
       },
       {
-        "Name": "COMPONENT_ASSAULTRIFLE_MK2_CLIP_FMJ",
+        "Name": "COMPONENT_COMBATMG_MK2_CLIP_FMJ",
         "IsDefault": false,
         "TranslatedLabel": {
           "Hash": 3292758637,
@@ -46972,15 +47116,15 @@
           "SimplifiedChinese": "加剧对载具的伤害，同时可穿透载具的阻弹和防弹玻璃。弹匣容量减少。",
           "Spanish": "Aumenta el daño a vehículos. Además, penetra cristales reforzados o antibalas de vehículos. Capacidad reducida."
         },
-        "Hash": 1675665560,
-        "IntHash": 1675665560,
+        "Hash": 1475288264,
+        "IntHash": 1475288264,
         "AttachBone": "WAPClip",
         "Type": "CWeaponComponentClipInfo",
         "Variants": [],
         "DlcName": "mpgunrunning"
       },
       {
-        "Name": "COMPONENT_ASSAULTRIFLE_MK2_CLIP_INCENDIARY",
+        "Name": "COMPONENT_COMBATMG_MK2_CLIP_INCENDIARY",
         "IsDefault": false,
         "TranslatedLabel": {
           "Hash": 2232305552,
@@ -47008,15 +47152,15 @@
           "SimplifiedChinese": "发射时可能会点燃目标。弹匣容量减少。",
           "Spanish": "Balas que tienen probabilidades de prender fuego a los objetivos. Capacidad reducida."
         },
-        "Hash": 4218476627,
-        "IntHash": -76490669,
+        "Hash": 3274096058,
+        "IntHash": -1020871238,
         "AttachBone": "WAPClip",
         "Type": "CWeaponComponentClipInfo",
         "Variants": [],
         "DlcName": "mpgunrunning"
       },
       {
-        "Name": "COMPONENT_ASSAULTRIFLE_MK2_CLIP_TRACER",
+        "Name": "COMPONENT_COMBATMG_MK2_CLIP_TRACER",
         "IsDefault": false,
         "TranslatedLabel": {
           "Hash": 3804780200,
@@ -47044,48 +47188,12 @@
           "SimplifiedChinese": "子弹带有亮色可见标记，标记颜色与枪支配色匹配。标准容量弹匣。",
           "Spanish": "Balas con marcadores visibles brillantes del color del tinte del arma. Capacidad estándar."
         },
-        "Hash": 4012669121,
-        "IntHash": -282298175,
+        "Hash": 4133787461,
+        "IntHash": -161179835,
         "AttachBone": "WAPClip",
         "Type": "CWeaponComponentClipInfo",
         "Variants": [],
         "DlcName": "mpgunrunning"
-      },
-      {
-        "Name": "COMPONENT_AT_AR_FLSH",
-        "IsDefault": false,
-        "TranslatedLabel": {
-          "Hash": 2633762459,
-          "English": "Flashlight",
-          "German": "Taktisches Licht",
-          "French": "Torche",
-          "Italian": "Torcia",
-          "Russian": "Фонарь",
-          "Polish": "Latarka",
-          "Name": "WCT_FLASH",
-          "TraditionalChinese": "手電筒",
-          "SimplifiedChinese": null,
-          "Spanish": "Linterna"
-        },
-        "TranslatedDescription": {
-          "Hash": 4187991109,
-          "English": "Aids low light target acquisition.",
-          "German": "Hilft bei der Zielerfassung bei schwachem Licht.",
-          "French": "Favorise l'acquisition des cibles dans l'obscurité.",
-          "Italian": "Aiuta nell'acquisizione di bersagli con poca luce.",
-          "Russian": "Облегчает прицеливание при слабой освещенности.",
-          "Polish": "Wspomaga wyszukiwanie celów w ciemności.",
-          "Name": "WCD_FLASH",
-          "TraditionalChinese": "協助使用者在低光源場合找到目標。",
-          "SimplifiedChinese": null,
-          "Spanish": "Facilita la localización del blanco con poca luz."
-        },
-        "Hash": 2076495324,
-        "IntHash": 2076495324,
-        "AttachBone": "WAPFlshLasr_2",
-        "Type": "CWeaponComponentFlashLightInfo",
-        "Variants": [],
-        "DlcName": "TitleUpdate"
       },
       {
         "Name": "COMPONENT_AT_SIGHTS",
@@ -47124,36 +47232,36 @@
         "DlcName": "mpgunrunning"
       },
       {
-        "Name": "COMPONENT_AT_SCOPE_MACRO_MK2",
+        "Name": "COMPONENT_AT_SCOPE_SMALL_MK2",
         "IsDefault": false,
         "TranslatedLabel": {
-          "Hash": 1780909588,
-          "English": "Small Scope",
-          "German": "Kleines Zielfernrohr",
-          "French": "Petite lunette",
-          "Italian": "Mirino piccolo",
-          "Russian": "Маленький прицел",
-          "Polish": "Mała luneta",
-          "Name": "WCT_SCOPE_MAC2",
-          "TraditionalChinese": "小型瞄準鏡",
-          "SimplifiedChinese": "小型瞄准镜",
-          "Spanish": "Mira pequeña"
+          "Hash": 2841847200,
+          "English": "Medium Scope",
+          "German": "Mittleres Zielfernrohr",
+          "French": "Lunette moyenne",
+          "Italian": "Mirino medio",
+          "Russian": "Средний прицел",
+          "Polish": "Średnia luneta",
+          "Name": "WCT_SCOPE_SML2",
+          "TraditionalChinese": "中型瞄準鏡",
+          "SimplifiedChinese": "中型瞄准镜",
+          "Spanish": "Mira mediana"
         },
         "TranslatedDescription": {
-          "Hash": 181463024,
-          "English": "Standard-range zoom functionality.",
-          "German": "Zoomfunktion mit Standard-Reichweite.",
-          "French": "Lunette grossissante standard.",
-          "Italian": "Funzionalità di zoom a distanza standard.",
-          "Russian": "Стандартное приближение.",
-          "Polish": "Oferuje standardowe przybliżenie.",
-          "Name": "WCD_SCOPE_MAC",
-          "TraditionalChinese": "提供標準距離的縮放視野功能。",
+          "Hash": 914265237,
+          "English": "Medium-range zoom functionality.",
+          "German": "Zoomfunktion mit mittlerer Reichweite.",
+          "French": "Lunette grossissante de moyenne portée.",
+          "Italian": "Funzionalità di zoom a distanza media.",
+          "Russian": "Среднее приближение.",
+          "Polish": "Oferuje średnie przybliżenie.",
+          "Name": "WCD_SCOPE_SML",
+          "TraditionalChinese": "提供中距離的縮放視野功能。",
           "SimplifiedChinese": null,
-          "Spanish": "Con función de zoom de alcance estándar."
+          "Spanish": "Con función de zoom de alcance intermedio."
         },
-        "Hash": 77277509,
-        "IntHash": 77277509,
+        "Hash": 1060929921,
+        "IntHash": 1060929921,
         "AttachBone": "WAPScop_2",
         "Type": "CWeaponComponentScopeInfo",
         "Variants": [],
@@ -47196,42 +47304,6 @@
         "DlcName": "mpgunrunning"
       },
       {
-        "Name": "COMPONENT_AT_AR_SUPP_02",
-        "IsDefault": false,
-        "TranslatedLabel": {
-          "Hash": 2231215523,
-          "English": "Suppressor",
-          "German": "Schalldämpfer",
-          "French": "Silencieux",
-          "Italian": "Silenziatore",
-          "Russian": "Глушитель",
-          "Polish": "Tłumik",
-          "Name": "WCT_SUPP",
-          "TraditionalChinese": "滅音器",
-          "SimplifiedChinese": null,
-          "Spanish": "Silenciador"
-        },
-        "TranslatedDescription": {
-          "Hash": 2664741619,
-          "English": "Reduces noise and muzzle flash.",
-          "German": "Verringert Geräusch und Mündungsfeuer.",
-          "French": "Réduit le bruit et le flash lumineux.",
-          "Italian": "Riduce il rumore e la fiammata dell'arma.",
-          "Russian": "Гасит звук выстрела и дульную вспышку.",
-          "Polish": "Redukuje odgłos wystrzału i błysk.",
-          "Name": "WCD_AR_SUPP2",
-          "TraditionalChinese": "降低槍聲以及槍口的火光。",
-          "SimplifiedChinese": null,
-          "Spanish": "Reduce el ruido y los fogonazos."
-        },
-        "Hash": 2805810788,
-        "IntHash": -1489156508,
-        "AttachBone": "WAPSupp_2",
-        "Type": "CWeaponComponentSuppressorInfo",
-        "Variants": [],
-        "DlcName": "TitleUpdate"
-      },
-      {
         "Name": "COMPONENT_AT_MUZZLE_01",
         "IsDefault": false,
         "TranslatedLabel": {
@@ -47262,7 +47334,7 @@
         },
         "Hash": 3113485012,
         "IntHash": -1181482284,
-        "AttachBone": "WAPSupp_2",
+        "AttachBone": "WAPSupp",
         "Type": "CWeaponComponentSuppressorInfo",
         "Variants": [],
         "DlcName": "mpgunrunning"
@@ -47298,7 +47370,7 @@
         },
         "Hash": 3362234491,
         "IntHash": -932732805,
-        "AttachBone": "WAPSupp_2",
+        "AttachBone": "WAPSupp",
         "Type": "CWeaponComponentSuppressorInfo",
         "Variants": [],
         "DlcName": "mpgunrunning"
@@ -47334,7 +47406,7 @@
         },
         "Hash": 3725708239,
         "IntHash": -569259057,
-        "AttachBone": "WAPSupp_2",
+        "AttachBone": "WAPSupp",
         "Type": "CWeaponComponentSuppressorInfo",
         "Variants": [],
         "DlcName": "mpgunrunning"
@@ -47370,7 +47442,7 @@
         },
         "Hash": 3968886988,
         "IntHash": -326080308,
-        "AttachBone": "WAPSupp_2",
+        "AttachBone": "WAPSupp",
         "Type": "CWeaponComponentSuppressorInfo",
         "Variants": [],
         "DlcName": "mpgunrunning"
@@ -47406,7 +47478,7 @@
         },
         "Hash": 48731514,
         "IntHash": 48731514,
-        "AttachBone": "WAPSupp_2",
+        "AttachBone": "WAPSupp",
         "Type": "CWeaponComponentSuppressorInfo",
         "Variants": [],
         "DlcName": "mpgunrunning"
@@ -47442,7 +47514,7 @@
         },
         "Hash": 880736428,
         "IntHash": 880736428,
-        "AttachBone": "WAPSupp_2",
+        "AttachBone": "WAPSupp",
         "Type": "CWeaponComponentSuppressorInfo",
         "Variants": [],
         "DlcName": "mpgunrunning"
@@ -47478,7 +47550,7 @@
         },
         "Hash": 1303784126,
         "IntHash": 1303784126,
-        "AttachBone": "WAPSupp_2",
+        "AttachBone": "WAPSupp",
         "Type": "CWeaponComponentSuppressorInfo",
         "Variants": [],
         "DlcName": "mpgunrunning"
@@ -47514,13 +47586,13 @@
         },
         "Hash": 2640679034,
         "IntHash": -1654288262,
-        "AttachBone": "WAPGrip",
+        "AttachBone": "WAPGrip_2",
         "Type": "CWeaponComponentInfo",
         "Variants": [],
         "DlcName": "mpgunrunning"
       },
       {
-        "Name": "COMPONENT_AT_AR_BARREL_01",
+        "Name": "COMPONENT_AT_MG_BARREL_01",
         "IsDefault": true,
         "TranslatedLabel": {
           "Hash": 1987434570,
@@ -47548,15 +47620,15 @@
           "SimplifiedChinese": "原装枪管配件。",
           "Spanish": "Accesorio por defecto del cañón."
         },
-        "Hash": 1134861606,
-        "IntHash": 1134861606,
+        "Hash": 3276730932,
+        "IntHash": -1018236364,
         "AttachBone": "WAPBarrel",
         "Type": "CWeaponComponentInfo",
         "Variants": [],
         "DlcName": "mpgunrunning"
       },
       {
-        "Name": "COMPONENT_AT_AR_BARREL_02",
+        "Name": "COMPONENT_AT_MG_BARREL_02",
         "IsDefault": false,
         "TranslatedLabel": {
           "Hash": 966304150,
@@ -47584,8 +47656,8 @@
           "SimplifiedChinese": "增加对远距离目标造成的伤害。",
           "Spanish": "Aumenta el daño causado a objetivos a larga distancia."
         },
-        "Hash": 1447477866,
-        "IntHash": 1447477866,
+        "Hash": 3051509595,
+        "IntHash": -1243457701,
         "AttachBone": "WAPBarrel",
         "Type": "CWeaponComponentInfo",
         "Variants": [],
@@ -47594,9 +47666,9 @@
     ],
     "Liveries": [
       {
-        "Name": "COMPONENT_ASSAULTRIFLE_MK2_CAMO",
-        "Hash": 2434475183,
-        "IntHash": -1860492113,
+        "Name": "COMPONENT_COMBATMG_MK2_CAMO",
+        "Hash": 1249283253,
+        "IntHash": 1249283253,
         "TranslatedLabel": {
           "Hash": 670835400,
           "English": "Digital Camo",
@@ -47613,9 +47685,9 @@
         "DlcName": "mpgunrunning"
       },
       {
-        "Name": "COMPONENT_ASSAULTRIFLE_MK2_CAMO_02",
-        "Hash": 937772107,
-        "IntHash": 937772107,
+        "Name": "COMPONENT_COMBATMG_MK2_CAMO_02",
+        "Hash": 3437259709,
+        "IntHash": -857707587,
         "TranslatedLabel": {
           "Hash": 415532117,
           "English": "Brushstroke Camo",
@@ -47632,9 +47704,9 @@
         "DlcName": "mpgunrunning"
       },
       {
-        "Name": "COMPONENT_ASSAULTRIFLE_MK2_CAMO_03",
-        "Hash": 1401650071,
-        "IntHash": 1401650071,
+        "Name": "COMPONENT_COMBATMG_MK2_CAMO_03",
+        "Hash": 3197423398,
+        "IntHash": -1097543898,
         "TranslatedLabel": {
           "Hash": 728344991,
           "English": "Woodland Camo",
@@ -47651,9 +47723,9 @@
         "DlcName": "mpgunrunning"
       },
       {
-        "Name": "COMPONENT_ASSAULTRIFLE_MK2_CAMO_04",
-        "Hash": 628662130,
-        "IntHash": 628662130,
+        "Name": "COMPONENT_COMBATMG_MK2_CAMO_04",
+        "Hash": 1980349969,
+        "IntHash": 1980349969,
         "TranslatedLabel": {
           "Hash": 271217437,
           "English": "Skull",
@@ -47670,9 +47742,9 @@
         "DlcName": "mpgunrunning"
       },
       {
-        "Name": "COMPONENT_ASSAULTRIFLE_MK2_CAMO_05",
-        "Hash": 3309920045,
-        "IntHash": -985047251,
+        "Name": "COMPONENT_COMBATMG_MK2_CAMO_05",
+        "Hash": 1219453777,
+        "IntHash": 1219453777,
         "TranslatedLabel": {
           "Hash": 3739783322,
           "English": "Sessanta Nove",
@@ -47689,9 +47761,9 @@
         "DlcName": "mpgunrunning"
       },
       {
-        "Name": "COMPONENT_ASSAULTRIFLE_MK2_CAMO_06",
-        "Hash": 3482022833,
-        "IntHash": -812944463,
+        "Name": "COMPONENT_COMBATMG_MK2_CAMO_06",
+        "Hash": 2441508106,
+        "IntHash": -1853459190,
         "TranslatedLabel": {
           "Hash": 4089363014,
           "English": "Perseus",
@@ -47708,9 +47780,9 @@
         "DlcName": "mpgunrunning"
       },
       {
-        "Name": "COMPONENT_ASSAULTRIFLE_MK2_CAMO_07",
-        "Hash": 2847614993,
-        "IntHash": -1447352303,
+        "Name": "COMPONENT_COMBATMG_MK2_CAMO_07",
+        "Hash": 2220186280,
+        "IntHash": -2074781016,
         "TranslatedLabel": {
           "Hash": 3316243997,
           "English": "Leopard",
@@ -47727,9 +47799,9 @@
         "DlcName": "mpgunrunning"
       },
       {
-        "Name": "COMPONENT_ASSAULTRIFLE_MK2_CAMO_08",
-        "Hash": 4234628436,
-        "IntHash": -60338860,
+        "Name": "COMPONENT_COMBATMG_MK2_CAMO_08",
+        "Hash": 457967755,
+        "IntHash": 457967755,
         "TranslatedLabel": {
           "Hash": 3347374547,
           "English": "Zebra",
@@ -47746,9 +47818,9 @@
         "DlcName": "mpgunrunning"
       },
       {
-        "Name": "COMPONENT_ASSAULTRIFLE_MK2_CAMO_09",
-        "Hash": 2088750491,
-        "IntHash": 2088750491,
+        "Name": "COMPONENT_COMBATMG_MK2_CAMO_09",
+        "Hash": 235171324,
+        "IntHash": 235171324,
         "TranslatedLabel": {
           "Hash": 2571961700,
           "English": "Geometric",
@@ -47765,9 +47837,9 @@
         "DlcName": "mpgunrunning"
       },
       {
-        "Name": "COMPONENT_ASSAULTRIFLE_MK2_CAMO_10",
-        "Hash": 2781053842,
-        "IntHash": -1513913454,
+        "Name": "COMPONENT_COMBATMG_MK2_CAMO_10",
+        "Hash": 42685294,
+        "IntHash": 42685294,
         "TranslatedLabel": {
           "Hash": 1745080084,
           "English": "Boom!",
@@ -47784,9 +47856,9 @@
         "DlcName": "mpgunrunning"
       },
       {
-        "Name": "COMPONENT_ASSAULTRIFLE_MK2_CAMO_IND_01",
-        "Hash": 3115408816,
-        "IntHash": -1179558480,
+        "Name": "COMPONENT_COMBATMG_MK2_CAMO_IND_01",
+        "Hash": 3607349581,
+        "IntHash": -687617715,
         "TranslatedLabel": {
           "Hash": 2638516272,
           "English": "Patriotic",
@@ -50822,6 +50894,1048 @@
       "CanUseInVehMelee"
     ],
     "Components": [],
+    "Liveries": []
+  },
+  {
+    "Name": "WEAPON_STUNGUN_MP",
+    "TranslatedLabel": {
+      "Hash": 556987460,
+      "English": "Stun Gun",
+      "German": "Elektroschocker",
+      "French": "Pistolet paralysant",
+      "Italian": "Storditore",
+      "Russian": "Шокер",
+      "Polish": "Paralizator",
+      "Name": "WT_STUN",
+      "TraditionalChinese": "電擊槍",
+      "SimplifiedChinese": null,
+      "Spanish": "Pistola eléctrica"
+    },
+    "Hash": 1171102963,
+    "IntHash": 1171102963,
+    "DlcName": "mpsecurity",
+    "Category": "GROUP_STUNGUN",
+    "TranslatedDescription": {
+      "Hash": 3792200338,
+      "English": "It's, like, literally stunning.",
+      "German": "Schockierend. Im wahrsten Sinne.",
+      "French": "C'est vraiment électrisant, littéralement.",
+      "Italian": "Ti farà tremare le ginocchia, vedrai.",
+      "Russian": "В буквальном смысле сногсшибательно.",
+      "Polish": "Gadżet dosłownie oszałamiający.",
+      "Name": null,
+      "TraditionalChinese": "彷彿觸電一般......不對，是真的觸電。",
+      "SimplifiedChinese": "这，是，真正的震撼。",
+      "Spanish": "Es realmente... electrizante."
+    },
+    "Tints": [
+      {
+        "Index": 0,
+        "TranslatedLabel": {
+          "Hash": 3773086928,
+          "English": "Black tint",
+          "German": "Schwarzer Farbton",
+          "French": "Teinte noire",
+          "Italian": "Colorazione nera",
+          "Russian": "Черная расцветка",
+          "Polish": "Czarny kolor",
+          "Name": "WM_TINT0",
+          "TraditionalChinese": "黑色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte negro"
+        }
+      },
+      {
+        "Index": 1,
+        "TranslatedLabel": {
+          "Hash": 3271590152,
+          "English": "Green tint",
+          "German": "Grüner Farbton",
+          "French": "Teinte verte",
+          "Italian": "Colorazione verde",
+          "Russian": "Зеленая расцветка",
+          "Polish": "Zielony kolor",
+          "Name": "WM_TINT1",
+          "TraditionalChinese": "綠色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte verde"
+        }
+      },
+      {
+        "Index": 2,
+        "TranslatedLabel": {
+          "Hash": 2948160122,
+          "English": "Gold tint",
+          "German": "Goldfarbton",
+          "French": "Teinte or",
+          "Italian": "Colorazione oro",
+          "Russian": "Золотая расцветка",
+          "Polish": "Złoty kolor",
+          "Name": "WM_TINT2",
+          "TraditionalChinese": "金色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte dorado"
+        }
+      },
+      {
+        "Index": 3,
+        "TranslatedLabel": {
+          "Hash": 1643790077,
+          "English": "Pink tint",
+          "German": "Pinker Farbton",
+          "French": "Teinte rose",
+          "Italian": "Colorazione rosa",
+          "Russian": "Розовая расцветка",
+          "Polish": "Różowy kolor",
+          "Name": "WM_TINT3",
+          "TraditionalChinese": "粉紅色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte rosa"
+        }
+      },
+      {
+        "Index": 4,
+        "TranslatedLabel": {
+          "Hash": 2351731553,
+          "English": "Army tint",
+          "German": "Armeefarbton",
+          "French": "Teinte armée",
+          "Italian": "Colorazione militare",
+          "Russian": "Армейская расцветка",
+          "Polish": "Wojskowe barwy",
+          "Name": "WM_TINT4",
+          "TraditionalChinese": "軍用色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte militar"
+        }
+      },
+      {
+        "Index": 5,
+        "TranslatedLabel": {
+          "Hash": 2316504878,
+          "English": "LSPD tint",
+          "German": "LSPD-Farbton",
+          "French": "Teinte LSPD",
+          "Italian": "Colorazione LSPD",
+          "Russian": "Полицейская расцветка",
+          "Polish": "Policyjne barwy",
+          "Name": "WM_TINT5",
+          "TraditionalChinese": "洛聖都警局色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte policial"
+        }
+      },
+      {
+        "Index": 6,
+        "TranslatedLabel": {
+          "Hash": 1747143503,
+          "English": "Orange tint",
+          "German": "Oranger Farbton",
+          "French": "Teinte orange",
+          "Italian": "Colorazione arancione",
+          "Russian": "Оранжевая расцветка",
+          "Polish": "Pomarańczowy kolor",
+          "Name": "WM_TINT6",
+          "TraditionalChinese": "橘色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte naranja"
+        }
+      },
+      {
+        "Index": 7,
+        "TranslatedLabel": {
+          "Hash": 442970072,
+          "English": "Platinum tint",
+          "German": "Platinfarbton",
+          "French": "Teinte platine",
+          "Italian": "Colorazione platino",
+          "Russian": "Платиновая расцветка",
+          "Polish": "Platynowy kolor",
+          "Name": "WM_TINT7",
+          "TraditionalChinese": "白金色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte platino"
+        }
+      }
+    ],
+    "IsVehicleWeapon": false,
+    "Flags": [
+      "CarriedInHand",
+      "Gun",
+      "CanLockonOnFoot",
+      "CanLockonInVehicle",
+      "CanFreeAim",
+      "AnimCrouchFire",
+      "UsableOnFoot",
+      "UsableClimbing",
+      "UsableInCover",
+      "DoesRevivableDamage",
+      "DisplayRechargeTimeHUD",
+      "OnlyFireOneShot",
+      "NonLethal",
+      "AllowCloseQuarterKills",
+      "DisablePlayerBlockingInMP",
+      "CanPerformArrest",
+      "HasLowCoverSwaps",
+      "DontBreakRopes",
+      "QuitTransitionToIdleIntroOnWeaponChange",
+      "DisableLeftHandIkWhenOnFoot",
+      "TorsoIKForWeaponBlock",
+      "UseFPSAimIK",
+      "UseFPSSecondaryMotion",
+      "DontPlayDryFireAnim",
+      "FireAnimRateScaledToTimeBetweenShots"
+    ],
+    "Components": [],
+    "Liveries": []
+  },
+  {
+    "Name": "WEAPON_FERTILIZERCAN",
+    "TranslatedLabel": {
+      "Hash": 1729452267,
+      "English": "Fertilizer Can",
+      "German": "Düngerkanister",
+      "French": "Bidon de fertilisant",
+      "Italian": "Tanica di fertilizzante",
+      "Russian": "Канистра с удобрениями",
+      "Polish": "Kanister z nawozem",
+      "Name": null,
+      "TraditionalChinese": "肥料桶",
+      "SimplifiedChinese": "肥料桶",
+      "Spanish": "Bidón de fertilizante"
+    },
+    "Hash": 406929569,
+    "IntHash": 406929569,
+    "DlcName": "mpsecurity",
+    "Category": "GROUP_PETROLCAN",
+    "TranslatedDescription": null,
+    "Tints": [
+      {
+        "Index": 0,
+        "TranslatedLabel": {
+          "Hash": 3773086928,
+          "English": "Black tint",
+          "German": "Schwarzer Farbton",
+          "French": "Teinte noire",
+          "Italian": "Colorazione nera",
+          "Russian": "Черная расцветка",
+          "Polish": "Czarny kolor",
+          "Name": "WM_TINT0",
+          "TraditionalChinese": "黑色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte negro"
+        }
+      },
+      {
+        "Index": 1,
+        "TranslatedLabel": {
+          "Hash": 3271590152,
+          "English": "Green tint",
+          "German": "Grüner Farbton",
+          "French": "Teinte verte",
+          "Italian": "Colorazione verde",
+          "Russian": "Зеленая расцветка",
+          "Polish": "Zielony kolor",
+          "Name": "WM_TINT1",
+          "TraditionalChinese": "綠色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte verde"
+        }
+      },
+      {
+        "Index": 2,
+        "TranslatedLabel": {
+          "Hash": 2948160122,
+          "English": "Gold tint",
+          "German": "Goldfarbton",
+          "French": "Teinte or",
+          "Italian": "Colorazione oro",
+          "Russian": "Золотая расцветка",
+          "Polish": "Złoty kolor",
+          "Name": "WM_TINT2",
+          "TraditionalChinese": "金色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte dorado"
+        }
+      },
+      {
+        "Index": 3,
+        "TranslatedLabel": {
+          "Hash": 1643790077,
+          "English": "Pink tint",
+          "German": "Pinker Farbton",
+          "French": "Teinte rose",
+          "Italian": "Colorazione rosa",
+          "Russian": "Розовая расцветка",
+          "Polish": "Różowy kolor",
+          "Name": "WM_TINT3",
+          "TraditionalChinese": "粉紅色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte rosa"
+        }
+      },
+      {
+        "Index": 4,
+        "TranslatedLabel": {
+          "Hash": 2351731553,
+          "English": "Army tint",
+          "German": "Armeefarbton",
+          "French": "Teinte armée",
+          "Italian": "Colorazione militare",
+          "Russian": "Армейская расцветка",
+          "Polish": "Wojskowe barwy",
+          "Name": "WM_TINT4",
+          "TraditionalChinese": "軍用色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte militar"
+        }
+      },
+      {
+        "Index": 5,
+        "TranslatedLabel": {
+          "Hash": 2316504878,
+          "English": "LSPD tint",
+          "German": "LSPD-Farbton",
+          "French": "Teinte LSPD",
+          "Italian": "Colorazione LSPD",
+          "Russian": "Полицейская расцветка",
+          "Polish": "Policyjne barwy",
+          "Name": "WM_TINT5",
+          "TraditionalChinese": "洛聖都警局色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte policial"
+        }
+      },
+      {
+        "Index": 6,
+        "TranslatedLabel": {
+          "Hash": 1747143503,
+          "English": "Orange tint",
+          "German": "Oranger Farbton",
+          "French": "Teinte orange",
+          "Italian": "Colorazione arancione",
+          "Russian": "Оранжевая расцветка",
+          "Polish": "Pomarańczowy kolor",
+          "Name": "WM_TINT6",
+          "TraditionalChinese": "橘色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte naranja"
+        }
+      },
+      {
+        "Index": 7,
+        "TranslatedLabel": {
+          "Hash": 442970072,
+          "English": "Platinum tint",
+          "German": "Platinfarbton",
+          "French": "Teinte platine",
+          "Italian": "Colorazione platino",
+          "Russian": "Платиновая расцветка",
+          "Polish": "Platynowy kolor",
+          "Name": "WM_TINT7",
+          "TraditionalChinese": "白金色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte platino"
+        }
+      }
+    ],
+    "IsVehicleWeapon": false,
+    "Flags": [
+      "CarriedInHand",
+      "Automatic",
+      "Silenced",
+      "AnimCrouchFire",
+      "UsableOnFoot",
+      "UsableClimbing",
+      "AllowEarlyExitFromFireAnimAfterBulletFired",
+      "CanBeFiredLikeGun",
+      "OnlyAllowFiring",
+      "SuppressGunshotEvent",
+      "NoAutoRunWhenFiring",
+      "DontBlendFireOutro",
+      "DiscardWhenOutOfAmmo",
+      "CreatesAPotentialExplosionEventWhenFired",
+      "DelayedFiringAfterAutoSwapPreviousWeapon",
+      "DisableCombatRoll",
+      "NoWheelStats",
+      "DisableStealth",
+      "OnlyUseAimingInfoInFPS",
+      "EnableFPSRNGOnly",
+      "AttachFPSLeftHandIKToRight",
+      "UseFPSAimIK",
+      "UseFPSSecondaryMotion",
+      "HideReticule"
+    ],
+    "Components": [],
+    "Liveries": []
+  },
+  {
+    "Name": "WEAPON_HEAVYRIFLE",
+    "TranslatedLabel": {
+      "Hash": 1751751550,
+      "English": "Heavy Rifle",
+      "German": "Schweres Gewehr",
+      "French": "Fusil lourd",
+      "Italian": "Fucile pesante",
+      "Russian": "Тяжелая винтовка",
+      "Polish": "Ciężki karabin",
+      "Name": null,
+      "TraditionalChinese": "重型步槍",
+      "SimplifiedChinese": "重型步枪",
+      "Spanish": "Fusil pesado"
+    },
+    "Hash": 3347935668,
+    "IntHash": -947031628,
+    "DlcName": "mpsecurity",
+    "Category": "GROUP_RIFLE",
+    "TranslatedDescription": {
+      "Hash": 2473290595,
+      "English": "The no-holds-barred 30-round answer to that eternal question, how do I get this guy off my back?",
+      "German": "Die völlig kompromisslose 30-Schuss-Antwort auf die ewige Frage, wie ich diesen Mistkerl endlich loswerde.",
+      "French": "La réponse expéditive, en 30µarguments percutants, à l'éternelle questionµ: comment me débarrasser de ce typeµ?",
+      "Italian": "La risposta in 30 colpi all'eterna domanda: come mi libero di quel tipo?",
+      "Russian": "Этот впечатляющий 30-зарядный магазин дает ответ на извечный вопрос: как мне избавиться от того парня?",
+      "Polish": "Bezkompromisowa, 30-nabojowa odpowiedź na odwieczne pytanie: jak mam się pozbyć tego gościa?",
+      "Name": null,
+      "TraditionalChinese": "您還在煩惱怎麼幹掉煩人的傢伙嗎？這把無法無天的µ30µ發重型步槍就是這個亙古問題的最佳解答。",
+      "SimplifiedChinese": "该如何甩掉紧追不舍的家伙？这款百无禁忌的µ30µ发子弹武器能为您解答这道永恒问题。",
+      "Spanish": "La respuesta directa con 30 proyectiles a la eterna pregunta: \"¿Cómo me quito a este tipo de encima?\"."
+    },
+    "Tints": [
+      {
+        "Index": 0,
+        "TranslatedLabel": {
+          "Hash": 3773086928,
+          "English": "Black tint",
+          "German": "Schwarzer Farbton",
+          "French": "Teinte noire",
+          "Italian": "Colorazione nera",
+          "Russian": "Черная расцветка",
+          "Polish": "Czarny kolor",
+          "Name": "WM_TINT0",
+          "TraditionalChinese": "黑色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte negro"
+        }
+      },
+      {
+        "Index": 1,
+        "TranslatedLabel": {
+          "Hash": 3271590152,
+          "English": "Green tint",
+          "German": "Grüner Farbton",
+          "French": "Teinte verte",
+          "Italian": "Colorazione verde",
+          "Russian": "Зеленая расцветка",
+          "Polish": "Zielony kolor",
+          "Name": "WM_TINT1",
+          "TraditionalChinese": "綠色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte verde"
+        }
+      },
+      {
+        "Index": 2,
+        "TranslatedLabel": {
+          "Hash": 2948160122,
+          "English": "Gold tint",
+          "German": "Goldfarbton",
+          "French": "Teinte or",
+          "Italian": "Colorazione oro",
+          "Russian": "Золотая расцветка",
+          "Polish": "Złoty kolor",
+          "Name": "WM_TINT2",
+          "TraditionalChinese": "金色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte dorado"
+        }
+      },
+      {
+        "Index": 3,
+        "TranslatedLabel": {
+          "Hash": 1643790077,
+          "English": "Pink tint",
+          "German": "Pinker Farbton",
+          "French": "Teinte rose",
+          "Italian": "Colorazione rosa",
+          "Russian": "Розовая расцветка",
+          "Polish": "Różowy kolor",
+          "Name": "WM_TINT3",
+          "TraditionalChinese": "粉紅色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte rosa"
+        }
+      },
+      {
+        "Index": 4,
+        "TranslatedLabel": {
+          "Hash": 2351731553,
+          "English": "Army tint",
+          "German": "Armeefarbton",
+          "French": "Teinte armée",
+          "Italian": "Colorazione militare",
+          "Russian": "Армейская расцветка",
+          "Polish": "Wojskowe barwy",
+          "Name": "WM_TINT4",
+          "TraditionalChinese": "軍用色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte militar"
+        }
+      },
+      {
+        "Index": 5,
+        "TranslatedLabel": {
+          "Hash": 2316504878,
+          "English": "LSPD tint",
+          "German": "LSPD-Farbton",
+          "French": "Teinte LSPD",
+          "Italian": "Colorazione LSPD",
+          "Russian": "Полицейская расцветка",
+          "Polish": "Policyjne barwy",
+          "Name": "WM_TINT5",
+          "TraditionalChinese": "洛聖都警局色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte policial"
+        }
+      },
+      {
+        "Index": 6,
+        "TranslatedLabel": {
+          "Hash": 1747143503,
+          "English": "Orange tint",
+          "German": "Oranger Farbton",
+          "French": "Teinte orange",
+          "Italian": "Colorazione arancione",
+          "Russian": "Оранжевая расцветка",
+          "Polish": "Pomarańczowy kolor",
+          "Name": "WM_TINT6",
+          "TraditionalChinese": "橘色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte naranja"
+        }
+      },
+      {
+        "Index": 7,
+        "TranslatedLabel": {
+          "Hash": 442970072,
+          "English": "Platinum tint",
+          "German": "Platinfarbton",
+          "French": "Teinte platine",
+          "Italian": "Colorazione platino",
+          "Russian": "Платиновая расцветка",
+          "Polish": "Platynowy kolor",
+          "Name": "WM_TINT7",
+          "TraditionalChinese": "白金色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte platino"
+        }
+      }
+    ],
+    "IsVehicleWeapon": false,
+    "Flags": [
+      "CarriedInHand",
+      "Automatic",
+      "Gun",
+      "CanLockonOnFoot",
+      "CanLockonInVehicle",
+      "CanFreeAim",
+      "TwoHanded",
+      "AnimReload",
+      "AnimCrouchFire",
+      "UsableOnFoot",
+      "UsableInCover",
+      "AllowEarlyExitFromFireAnimAfterBulletFired",
+      "NoLeftHandIKWhenBlocked",
+      "AllowCloseQuarterKills",
+      "HasLowCoverReloads",
+      "HasLowCoverSwaps",
+      "LongWeapon",
+      "UseFPSAimIK",
+      "UseFPSSecondaryMotion",
+      "FPSOnlyExitFireAnimAfterRecoilEnds"
+    ],
+    "Components": [
+      {
+        "Name": "COMPONENT_HEAVYRIFLE_CLIP_01",
+        "IsDefault": true,
+        "TranslatedLabel": {
+          "Hash": 1458711463,
+          "English": "Default clip",
+          "German": "Standardmagazin",
+          "French": "Chargeur par défaut",
+          "Italian": "Caricatore standard",
+          "Russian": "Стандартный магазин",
+          "Polish": "Standardowy magazynek",
+          "Name": "WCT_CLIP1",
+          "TraditionalChinese": "預設彈匣",
+          "SimplifiedChinese": null,
+          "Spanish": "Cargador predeterminado"
+        },
+        "TranslatedDescription": {
+          "Hash": 1082547763,
+          "English": "Standard capacity for Heavy Rifle.",
+          "German": "Standardkapazität für schweres Gewehr.",
+          "French": "Capacité standard pour fusil lourd.",
+          "Italian": "Capienza standard per il fucile pesante.",
+          "Russian": "Стандартный магазин для тяжелой винтовки.",
+          "Polish": "Normalny magazynek ciężkiego karabinu.",
+          "Name": null,
+          "TraditionalChinese": "重型步槍的標準容量彈匣。",
+          "SimplifiedChinese": "重型步枪标准容量。",
+          "Spanish": "Capacidad estándar para el fusil pesado."
+        },
+        "Hash": 1525977990,
+        "IntHash": 1525977990,
+        "AttachBone": "WAPClip",
+        "Type": "CWeaponComponentClipInfo",
+        "Variants": [],
+        "DlcName": "mpsecurity"
+      },
+      {
+        "Name": "COMPONENT_HEAVYRIFLE_CLIP_02",
+        "IsDefault": false,
+        "TranslatedLabel": {
+          "Hash": 615958321,
+          "English": "Extended clip",
+          "German": "Größeres Magazin",
+          "French": "Chargeur grande capacité",
+          "Italian": "Caricatore esteso",
+          "Russian": "Магазин большой емкости",
+          "Polish": "Powiększony magazynek",
+          "Name": "WCT_CLIP2",
+          "TraditionalChinese": "擴充彈匣",
+          "SimplifiedChinese": null,
+          "Spanish": "Cargador ampliado"
+        },
+        "TranslatedDescription": {
+          "Hash": 1864317796,
+          "English": "Extended capacity for Heavy Rifle.",
+          "German": "Erhöhte Kapazität für schweres Gewehr.",
+          "French": "Grande capacité pour fusil lourd.",
+          "Italian": "Capienza aumentata per il fucile pesante.",
+          "Russian": "Увеличенный магазин для тяжелой винтовки.",
+          "Polish": "Powiększony magazynek ciężkiego karabinu.",
+          "Name": null,
+          "TraditionalChinese": "重型步槍的擴充容量彈匣。",
+          "SimplifiedChinese": "重型步枪扩充容量。",
+          "Spanish": "Capacidad ampliada para el fusil pesado."
+        },
+        "Hash": 1824470811,
+        "IntHash": 1824470811,
+        "AttachBone": "WAPClip",
+        "Type": "CWeaponComponentClipInfo",
+        "Variants": [],
+        "DlcName": "mpsecurity"
+      },
+      {
+        "Name": "COMPONENT_HEAVYRIFLE_SIGHT_01",
+        "IsDefault": true,
+        "TranslatedLabel": {
+          "Hash": 3870352016,
+          "English": "Iron Sights",
+          "German": "Kimme und Korn",
+          "French": "Viseur",
+          "Italian": "Visuale mirino",
+          "Russian": "Мушка",
+          "Polish": "Celownik broni",
+          "Name": null,
+          "TraditionalChinese": "機械瞄具",
+          "SimplifiedChinese": "机械瞄具",
+          "Spanish": "Miras"
+        },
+        "TranslatedDescription": {
+          "Hash": 852496392,
+          "English": "Default rail-mounted iron sights.",
+          "German": "Visier auf Schiene (Standard)",
+          "French": "Viseur par défaut.",
+          "Italian": "Mirino su guida predefinito.",
+          "Russian": "Стандартная мушка на планке.",
+          "Polish": "Domyślny celownik mechaniczny.",
+          "Name": null,
+          "TraditionalChinese": "預設軌道式機械瞄具。",
+          "SimplifiedChinese": "默认的导轨挂载机械瞄具。",
+          "Spanish": "Miras de hierro sobre rieles predeterminadas."
+        },
+        "Hash": 3017917522,
+        "IntHash": -1277049774,
+        "AttachBone": "WAPScop_3",
+        "Type": "CWeaponComponentScopeInfo",
+        "Variants": [],
+        "DlcName": "mpsecurity"
+      },
+      {
+        "Name": "COMPONENT_AT_SCOPE_MEDIUM",
+        "IsDefault": false,
+        "TranslatedLabel": {
+          "Hash": 2602739656,
+          "English": "Scope",
+          "German": "Zielfernrohr",
+          "French": "Lunette",
+          "Italian": "Mirino",
+          "Russian": "Прицел",
+          "Polish": "Luneta",
+          "Name": "WCT_SCOPE_MED",
+          "TraditionalChinese": "中型瞄準鏡",
+          "SimplifiedChinese": null,
+          "Spanish": "Mira"
+        },
+        "TranslatedDescription": {
+          "Hash": 461098577,
+          "English": "Extended-range zoom functionality.",
+          "German": "Zoomfunktion mit vergrößerter Reichweite.",
+          "French": "Lunette grossissante de longue portée.",
+          "Italian": "Funzionalità di zoom a distanza estesa.",
+          "Russian": "Улучшенное приближение.",
+          "Polish": "Oferuje znaczne przybliżenie.",
+          "Name": "WCD_SCOPE_MED",
+          "TraditionalChinese": "提供中長距離的縮放視野功能。",
+          "SimplifiedChinese": null,
+          "Spanish": "Con función de zoom de alcance amplio."
+        },
+        "Hash": 2698550338,
+        "IntHash": -1596416958,
+        "AttachBone": "WAPScop_3",
+        "Type": "CWeaponComponentScopeInfo",
+        "Variants": [],
+        "DlcName": "TitleUpdate"
+      },
+      {
+        "Name": "COMPONENT_AT_AR_FLSH",
+        "IsDefault": false,
+        "TranslatedLabel": {
+          "Hash": 2633762459,
+          "English": "Flashlight",
+          "German": "Taktisches Licht",
+          "French": "Torche",
+          "Italian": "Torcia",
+          "Russian": "Фонарь",
+          "Polish": "Latarka",
+          "Name": "WCT_FLASH",
+          "TraditionalChinese": "手電筒",
+          "SimplifiedChinese": null,
+          "Spanish": "Linterna"
+        },
+        "TranslatedDescription": {
+          "Hash": 4187991109,
+          "English": "Aids low light target acquisition.",
+          "German": "Hilft bei der Zielerfassung bei schwachem Licht.",
+          "French": "Favorise l'acquisition des cibles dans l'obscurité.",
+          "Italian": "Aiuta nell'acquisizione di bersagli con poca luce.",
+          "Russian": "Облегчает прицеливание при слабой освещенности.",
+          "Polish": "Wspomaga wyszukiwanie celów w ciemności.",
+          "Name": "WCD_FLASH",
+          "TraditionalChinese": "協助使用者在低光源場合找到目標。",
+          "SimplifiedChinese": null,
+          "Spanish": "Facilita la localización del blanco con poca luz."
+        },
+        "Hash": 2076495324,
+        "IntHash": 2076495324,
+        "AttachBone": "WAPFlshLasr_3",
+        "Type": "CWeaponComponentFlashLightInfo",
+        "Variants": [],
+        "DlcName": "TitleUpdate"
+      },
+      {
+        "Name": "COMPONENT_AT_AR_SUPP",
+        "IsDefault": false,
+        "TranslatedLabel": {
+          "Hash": 2231215523,
+          "English": "Suppressor",
+          "German": "Schalldämpfer",
+          "French": "Silencieux",
+          "Italian": "Silenziatore",
+          "Russian": "Глушитель",
+          "Polish": "Tłumik",
+          "Name": "WCT_SUPP",
+          "TraditionalChinese": "滅音器",
+          "SimplifiedChinese": null,
+          "Spanish": "Silenciador"
+        },
+        "TranslatedDescription": {
+          "Hash": 1975025719,
+          "English": "Reduces noise and muzzle flash.",
+          "German": "Verringert Geräusch und Mündungsfeuer.",
+          "French": "Réduit le bruit et le flash lumineux.",
+          "Italian": "Riduce il rumore e la fiammata dell'arma.",
+          "Russian": "Гасит звук выстрела и дульную вспышку.",
+          "Polish": "Redukuje odgłos wystrzału i błysk.",
+          "Name": "WCD_AR_SUPP",
+          "TraditionalChinese": "降低槍聲以及槍口的火光。",
+          "SimplifiedChinese": null,
+          "Spanish": "Reduce el ruido y los fogonazos."
+        },
+        "Hash": 2205435306,
+        "IntHash": -2089531990,
+        "AttachBone": "WAPSupp_3",
+        "Type": "CWeaponComponentSuppressorInfo",
+        "Variants": [],
+        "DlcName": "TitleUpdate"
+      },
+      {
+        "Name": "COMPONENT_AT_AR_AFGRIP",
+        "IsDefault": false,
+        "TranslatedLabel": {
+          "Hash": 395076542,
+          "English": "Grip",
+          "German": "Griff",
+          "French": "Poignée",
+          "Italian": "Impugnatura",
+          "Russian": "Рукоятка",
+          "Polish": "Uchwyt",
+          "Name": "WCT_GRIP",
+          "TraditionalChinese": "握把",
+          "SimplifiedChinese": null,
+          "Spanish": "Empuñadura"
+        },
+        "TranslatedDescription": {
+          "Hash": 2101158188,
+          "English": "Improves weapon accuracy.",
+          "German": "Verbessert die Treffgenauigkeit der Waffe.",
+          "French": "Améliore la précision de l'arme.",
+          "Italian": "Aumenta la precisione dell'arma.",
+          "Russian": "Улучшает точность оружия.",
+          "Polish": "Poprawia celność broni.",
+          "Name": "WCD_GRIP",
+          "TraditionalChinese": "改善武器準確度。",
+          "SimplifiedChinese": null,
+          "Spanish": "Mejora la precisión del arma."
+        },
+        "Hash": 202788691,
+        "IntHash": 202788691,
+        "AttachBone": "WAPGrip_3",
+        "Type": "CWeaponComponentInfo",
+        "Variants": [],
+        "DlcName": "TitleUpdate"
+      }
+    ],
+    "Liveries": [
+      {
+        "Name": "COMPONENT_HEAVYRIFLE_CAMO1",
+        "Hash": 3969903833,
+        "IntHash": -325063463,
+        "TranslatedLabel": {
+          "Hash": 670835400,
+          "English": "Digital Camo",
+          "German": "Digitaltarnung",
+          "French": "Camouflage pixel",
+          "Italian": "Mimetica digitale",
+          "Russian": "Цифровой камуфляж",
+          "Polish": "Kamuflaż cyfrowy",
+          "Name": "WCT_CAMO_1",
+          "TraditionalChinese": "數碼迷彩",
+          "SimplifiedChinese": "数码迷彩",
+          "Spanish": "Camuflaje digital"
+        },
+        "DlcName": "mpsecurity"
+      }
+    ]
+  },
+  {
+    "Name": "WEAPON_EMPLAUNCHER",
+    "TranslatedLabel": {
+      "Hash": 3300662936,
+      "English": "Compact EMP Launcher",
+      "German": "Kompakter EMP-Werfer",
+      "French": "Lanceur IEM compact",
+      "Italian": "Lanciagranate EMP compatto",
+      "Russian": "Компактный ЭМИ",
+      "Polish": "Kompaktowa wyrzutnia EM",
+      "Name": null,
+      "TraditionalChinese": "精簡型電磁脈衝發射器",
+      "SimplifiedChinese": "紧凑型电磁脉冲发射器",
+      "Spanish": "Lanzador de PEM compacto"
+    },
+    "Hash": 3676729658,
+    "IntHash": -618237638,
+    "DlcName": "mpsecurity",
+    "Category": "GROUP_HEAVY",
+    "TranslatedDescription": {
+      "Hash": 2181151610,
+      "English": "Ever seen a confetti cannon? The Compact EMP Launcher is just like that, but instead of paper and happiness, it's an electromagnetic pulse, short circuits and shattered dreams.",
+      "German": "Der kompakte EMP-Werfer funktioniert wie eine Konfettikanone. Nur dass er statt bunten Papierschnipseln elektromagnetische Impulse, Kurzschlüsse und zerstörte Träume ausspuckt.",
+      "French": "Le lanceur IEM compact, c'est comme un canon à confettis qui enverrait des pulsations électromagnétiques n'entraînant que courts-circuits et désespoir.",
+      "Italian": "Hai mai visto un cannone spara coriandoli? Il lanciagranate EMP compatto è quasi uguale, ma invece di carta e felicità, spara impulsi elettromagnetici e sogni infranti.",
+      "Russian": "У вас когда-нибудь была хлопушка? Компактный ЭМИ-гранатомет похож на нее, но вместо чудесных конфетти выпускает электромагнитный импульс.",
+      "Polish": "Znasz armatki na confetti? Kompaktowa wyrzutnia EM działa podobnie, ale zamiast kolorowych papierków wysyła impuls powodujący zwarcia i zdruzgotane marzenia.",
+      "Name": null,
+      "TraditionalChinese": "看過彩紙砲嗎？跟精簡型電磁脈衝發射器很像，但射的不是紙片和歡樂，是電磁脈衝、短路、粉碎的夢。",
+      "SimplifiedChinese": "见过彩纸炮吗？紧凑型电磁脉冲发射器差不多，但不喷纸屑与欢乐，而是电磁脉冲、短路和破碎的梦。",
+      "Spanish": "¿Has visto un cañón de confeti? El lanzador de PEM compacto es igual, pero con pulsos electromagnéticos, cortocircuitos y sueños rotos, en lugar de papelitos y felicidad."
+    },
+    "Tints": [
+      {
+        "Index": 0,
+        "TranslatedLabel": {
+          "Hash": 3773086928,
+          "English": "Black tint",
+          "German": "Schwarzer Farbton",
+          "French": "Teinte noire",
+          "Italian": "Colorazione nera",
+          "Russian": "Черная расцветка",
+          "Polish": "Czarny kolor",
+          "Name": "WM_TINT0",
+          "TraditionalChinese": "黑色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte negro"
+        }
+      },
+      {
+        "Index": 1,
+        "TranslatedLabel": {
+          "Hash": 3271590152,
+          "English": "Green tint",
+          "German": "Grüner Farbton",
+          "French": "Teinte verte",
+          "Italian": "Colorazione verde",
+          "Russian": "Зеленая расцветка",
+          "Polish": "Zielony kolor",
+          "Name": "WM_TINT1",
+          "TraditionalChinese": "綠色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte verde"
+        }
+      },
+      {
+        "Index": 2,
+        "TranslatedLabel": {
+          "Hash": 2948160122,
+          "English": "Gold tint",
+          "German": "Goldfarbton",
+          "French": "Teinte or",
+          "Italian": "Colorazione oro",
+          "Russian": "Золотая расцветка",
+          "Polish": "Złoty kolor",
+          "Name": "WM_TINT2",
+          "TraditionalChinese": "金色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte dorado"
+        }
+      },
+      {
+        "Index": 3,
+        "TranslatedLabel": {
+          "Hash": 1643790077,
+          "English": "Pink tint",
+          "German": "Pinker Farbton",
+          "French": "Teinte rose",
+          "Italian": "Colorazione rosa",
+          "Russian": "Розовая расцветка",
+          "Polish": "Różowy kolor",
+          "Name": "WM_TINT3",
+          "TraditionalChinese": "粉紅色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte rosa"
+        }
+      },
+      {
+        "Index": 4,
+        "TranslatedLabel": {
+          "Hash": 2351731553,
+          "English": "Army tint",
+          "German": "Armeefarbton",
+          "French": "Teinte armée",
+          "Italian": "Colorazione militare",
+          "Russian": "Армейская расцветка",
+          "Polish": "Wojskowe barwy",
+          "Name": "WM_TINT4",
+          "TraditionalChinese": "軍用色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte militar"
+        }
+      },
+      {
+        "Index": 5,
+        "TranslatedLabel": {
+          "Hash": 2316504878,
+          "English": "LSPD tint",
+          "German": "LSPD-Farbton",
+          "French": "Teinte LSPD",
+          "Italian": "Colorazione LSPD",
+          "Russian": "Полицейская расцветка",
+          "Polish": "Policyjne barwy",
+          "Name": "WM_TINT5",
+          "TraditionalChinese": "洛聖都警局色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte policial"
+        }
+      },
+      {
+        "Index": 6,
+        "TranslatedLabel": {
+          "Hash": 1747143503,
+          "English": "Orange tint",
+          "German": "Oranger Farbton",
+          "French": "Teinte orange",
+          "Italian": "Colorazione arancione",
+          "Russian": "Оранжевая расцветка",
+          "Polish": "Pomarańczowy kolor",
+          "Name": "WM_TINT6",
+          "TraditionalChinese": "橘色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte naranja"
+        }
+      },
+      {
+        "Index": 7,
+        "TranslatedLabel": {
+          "Hash": 442970072,
+          "English": "Platinum tint",
+          "German": "Platinfarbton",
+          "French": "Teinte platine",
+          "Italian": "Colorazione platino",
+          "Russian": "Платиновая расцветка",
+          "Polish": "Platynowy kolor",
+          "Name": "WM_TINT7",
+          "TraditionalChinese": "白金色調",
+          "SimplifiedChinese": null,
+          "Spanish": "Tinte platino"
+        }
+      }
+    ],
+    "IsVehicleWeapon": false,
+    "Flags": [
+      "CarriedInHand",
+      "Gun",
+      "CanFreeAim",
+      "Launched",
+      "AnimReload",
+      "AnimCrouchFire",
+      "UsableOnFoot",
+      "UsableInCover",
+      "AllowCloseQuarterKills",
+      "HasLowCoverReloads",
+      "HasLowCoverSwaps",
+      "DelayedFiringAfterAutoSwap",
+      "UseFPSAimIK",
+      "UseFPSSecondaryMotion",
+      "DontPlayDryFireAnim"
+    ],
+    "Components": [
+      {
+        "Name": "COMPONENT_EMPLAUNCHER_CLIP_01",
+        "IsDefault": true,
+        "TranslatedLabel": {
+          "Hash": 1458711463,
+          "English": "Default clip",
+          "German": "Standardmagazin",
+          "French": "Chargeur par défaut",
+          "Italian": "Caricatore standard",
+          "Russian": "Стандартный магазин",
+          "Polish": "Standardowy magazynek",
+          "Name": "WCT_CLIP1",
+          "TraditionalChinese": "預設彈匣",
+          "SimplifiedChinese": null,
+          "Spanish": "Cargador predeterminado"
+        },
+        "TranslatedDescription": null,
+        "Hash": 3532609777,
+        "IntHash": -762357519,
+        "AttachBone": "WAPClip",
+        "Type": "CWeaponComponentClipInfo",
+        "Variants": [],
+        "DlcName": "mpsecurity"
+      }
+    ],
     "Liveries": []
   }
 ]

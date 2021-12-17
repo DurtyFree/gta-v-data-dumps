@@ -448,7 +448,19 @@
     "AudioRef": "0"
   },
   {
+    "AudioName": "OPENING",
+    "AudioRef": "MP_PROPERTIES_ELEVATOR_DOORS"
+  },
+  {
+    "AudioName": "OPENED",
+    "AudioRef": "MP_PROPERTIES_ELEVATOR_DOORS"
+  },
+  {
     "AudioName": "Garage_Door_Open",
+    "AudioRef": "GTAO_Script_Doors_Faded_Screen_Sounds"
+  },
+  {
+    "AudioName": "Garage_Door_Close",
     "AudioRef": "GTAO_Script_Doors_Faded_Screen_Sounds"
   },
   {
@@ -525,14 +537,6 @@
   },
   {
     "AudioName": "CLOSING",
-    "AudioRef": "MP_PROPERTIES_ELEVATOR_DOORS"
-  },
-  {
-    "AudioName": "OPENING",
-    "AudioRef": "MP_PROPERTIES_ELEVATOR_DOORS"
-  },
-  {
-    "AudioName": "OPENED",
     "AudioRef": "MP_PROPERTIES_ELEVATOR_DOORS"
   },
   {
@@ -1188,10 +1192,6 @@
     "AudioRef": "MP_PROPERTIES_ELEVATOR_DOORS"
   },
   {
-    "AudioName": "Garage_Door_Close",
-    "AudioRef": "GTAO_Script_Doors_Faded_Screen_Sounds"
-  },
-  {
     "AudioName": "BUTTON",
     "AudioRef": "MP_PROPERTIES_ELEVATOR_DOORS"
   },
@@ -1220,6 +1220,18 @@
     "AudioRef": "0"
   },
   {
+    "AudioName": "Wasted",
+    "AudioRef": "POWER_PLAY_General_Soundset"
+  },
+  {
+    "AudioName": "MP_Flash",
+    "AudioRef": "WastedSounds"
+  },
+  {
+    "AudioName": "MP_Impact",
+    "AudioRef": "WastedSounds"
+  },
+  {
     "AudioName": "radio_tower_fixed",
     "AudioRef": "dlc_hei4_hidden_collectibles_sounds"
   },
@@ -1246,18 +1258,6 @@
   {
     "AudioName": "Background",
     "AudioRef": "DLC_XM17_Facility_Strike_PC_Sounds"
-  },
-  {
-    "AudioName": "Wasted",
-    "AudioRef": "POWER_PLAY_General_Soundset"
-  },
-  {
-    "AudioName": "MP_Flash",
-    "AudioRef": "WastedSounds"
-  },
-  {
-    "AudioName": "MP_Impact",
-    "AudioRef": "WastedSounds"
   },
   {
     "AudioName": "Login",
@@ -1977,6 +1977,10 @@
   },
   {
     "AudioName": "Notification",
+    "AudioRef": "0"
+  },
+  {
+    "AudioName": "DLC_Fixer_Agency_Computer_Soundset",
     "AudioRef": "0"
   },
   {
@@ -4376,8 +4380,60 @@
     "AudioRef": "DLC_SUM20_HIDDEN_COLLECTIBLES"
   },
   {
+    "AudioName": "Crush_Car",
+    "AudioRef": "DLC_IE_Deliver_Vehicle_Scrapyard_Sounds"
+  },
+  {
     "AudioName": "Spawn_FE",
     "AudioRef": "0"
+  },
+  {
+    "AudioName": "Push",
+    "AudioRef": "GTAO_APT_DOOR_DOWNSTAIRS_WOOD_SOUNDS"
+  },
+  {
+    "AudioName": "Destroy",
+    "AudioRef": "DLC_SECURITY_TAIL_AND_DESTROY_Sounds"
+  },
+  {
+    "AudioName": "Explosion_Internal",
+    "AudioRef": "DLC_SECURITY_TAIL_AND_DESTROY_Sounds"
+  },
+  {
+    "AudioName": "Countdown_Main",
+    "AudioRef": "DLC_SECURITY_TAIL_AND_DESTROY_Sounds"
+  },
+  {
+    "AudioName": "Countdown_5_secs",
+    "AudioRef": "DLC_SECURITY_TAIL_AND_DESTROY_Sounds"
+  },
+  {
+    "AudioName": "Countdown_0_secs",
+    "AudioRef": "DLC_SECURITY_TAIL_AND_DESTROY_Sounds"
+  },
+  {
+    "AudioName": "Smoke_Loop",
+    "AudioRef": "DLC_SECURITY_TAIL_AND_DESTROY_Sounds"
+  },
+  {
+    "AudioName": "Explosion_External",
+    "AudioRef": "DLC_SECURITY_TAIL_AND_DESTROY_Sounds"
+  },
+  {
+    "AudioName": "Metal_Door_Push",
+    "AudioRef": "GTAO_Script_Doors_Sounds"
+  },
+  {
+    "AudioName": "Barge_Door_Metal",
+    "AudioRef": "DLC_Security_Door_Barge_Sounds"
+  },
+  {
+    "AudioName": "Press",
+    "AudioRef": "DLC_SECURITY_BUTTON_PRESS_SOUNDS"
+  },
+  {
+    "AudioName": "Collect_Pass",
+    "AudioRef": "PrSCRV_Elevator_Pass_Sounds"
   },
   {
     "AudioName": "FE_Spawn",
@@ -4480,8 +4536,20 @@
     "AudioRef": "LIFT_NORMAL_SOUNDSET"
   },
   {
-    "AudioName": "Push",
-    "AudioRef": "GTAO_APT_DOOR_DOWNSTAIRS_WOOD_SOUNDS"
+    "AudioName": "Air_Defences_Disabled",
+    "AudioRef": "DLC_Security_Investigation_The_Yacht_Sounds"
+  },
+  {
+    "AudioName": "Upload_Complete",
+    "AudioRef": "DLC_Security_Investigations_The_Limo_Sounds"
+  },
+  {
+    "AudioName": "Software_Installing_Loop",
+    "AudioRef": "DLC_Security_Investigations_Setup_Sounds"
+  },
+  {
+    "AudioName": "Software_Installing_Success",
+    "AudioRef": "DLC_Security_Investigations_Setup_Sounds"
   },
   {
     "AudioName": "Focus",
@@ -5888,6 +5956,10 @@
     "AudioRef": "0"
   },
   {
+    "AudioName": "Pit_Stop_Complete",
+    "AudioRef": "DLC_H3_Circuit_Racing_Sounds"
+  },
+  {
     "AudioName": "dlc_ch_heist_finale_HEALTH_DRAIN_ZONE_coughs_sounds",
     "AudioRef": "0"
   },
@@ -5972,6 +6044,14 @@
     "AudioRef": "Military_Convoy_HiJack_Sounds"
   },
   {
+    "AudioName": "Keypad_Access_Player",
+    "AudioRef": "DLC_Security_Data_Leak_2_Sounds"
+  },
+  {
+    "AudioName": "Keypad_Access",
+    "AudioRef": "DLC_Security_Data_Leak_2_Sounds"
+  },
+  {
     "AudioName": "Remove_Keycard",
     "AudioRef": "Twin_Card_Entry_Sounds"
   },
@@ -5992,6 +6072,14 @@
     "AudioRef": "Twin_Card_Entry_Sounds"
   },
   {
+    "AudioName": "Music_Stream_Stop",
+    "AudioRef": "DLC_Security_Data_Leak_3_Hood_Pass_Sounds"
+  },
+  {
+    "AudioName": "Generic_Door_Push",
+    "AudioRef": "GTAO_Script_Doors_Sounds"
+  },
+  {
     "AudioName": "Fake_Close",
     "AudioRef": "Union_Depository_Elevator_Sounds"
   },
@@ -6006,6 +6094,14 @@
   {
     "AudioName": "Hang_Up",
     "AudioRef": "Phone_SoundSet_Default"
+  },
+  {
+    "AudioName": "Music_Cut",
+    "AudioRef": "DLC_Security_Data_Leak_2_Sounds"
+  },
+  {
+    "AudioName": "song",
+    "AudioRef": "dlc_sec_promoter_music_moment"
   },
   {
     "AudioName": "PowerUp",
@@ -6826,10 +6922,6 @@
   {
     "AudioName": "Boss_Blipped",
     "AudioRef": "GTAO_Magnate_Hunt_Boss_SoundSet"
-  },
-  {
-    "AudioName": "Crush_Car",
-    "AudioRef": "DLC_IE_Deliver_Vehicle_Scrapyard_Sounds"
   },
   {
     "AudioName": "Door_Open",

@@ -480,6 +480,21 @@
     "Model": "w_ar_bullpuprifle"
   },
   {
+    "Name": "PICKUP_WEAPON_RAYPISTOL",
+    "Hash": 3812817136,
+    "Model": "W_PI_RAYGUN"
+  },
+  {
+    "Name": "PICKUP_WEAPON_RAYCARBINE",
+    "Hash": 1959050722,
+    "Model": "W_AR_SRIFLE"
+  },
+  {
+    "Name": "PICKUP_WEAPON_RAYMINIGUN",
+    "Hash": 1000920287,
+    "Model": "W_MG_SMINIGUN"
+  },
+  {
     "Name": "PICKUP_WEAPON_BULLPUPRIFLE_MK2",
     "Hash": 2349845267,
     "Model": "W_AR_BullpupRifleMK2"
@@ -528,21 +543,6 @@
     "Name": "PICKUP_AMMO_HOMINGLAUNCHER",
     "Hash": 1548844439,
     "Model": "prop_ld_ammo_pack_02"
-  },
-  {
-    "Name": "PICKUP_WEAPON_RAYPISTOL",
-    "Hash": 3812817136,
-    "Model": "W_PI_RAYGUN"
-  },
-  {
-    "Name": "PICKUP_WEAPON_RAYCARBINE",
-    "Hash": 1959050722,
-    "Model": "W_AR_SRIFLE"
-  },
-  {
-    "Name": "PICKUP_WEAPON_RAYMINIGUN",
-    "Hash": 1000920287,
-    "Model": "W_MG_SMINIGUN"
   },
   {
     "Name": "PICKUP_WEAPON_GUSENBERG",
@@ -605,21 +605,6 @@
     "Model": "w_sr_marksmanrifle"
   },
   {
-    "Name": "PICKUP_WEAPON_COMBATSHOTGUN",
-    "Hash": 2074855423,
-    "Model": "w_sg_pumpshotgunh4"
-  },
-  {
-    "Name": "PICKUP_WEAPON_GADGETPISTOL",
-    "Hash": 2010690963,
-    "Model": "w_pi_singleshoth4"
-  },
-  {
-    "Name": "PICKUP_WEAPON_MILITARYRIFLE",
-    "Hash": 884272848,
-    "Model": "w_ar_bullpuprifleh4"
-  },
-  {
     "Name": "PICKUP_WEAPON_CERAMICPISTOL",
     "Hash": 1601729296,
     "Model": "w_pi_ceramic_pistol"
@@ -635,6 +620,21 @@
     "Model": "w_pi_wep2_gun"
   },
   {
+    "Name": "PICKUP_WEAPON_COMBATSHOTGUN",
+    "Hash": 2074855423,
+    "Model": "w_sg_pumpshotgunh4"
+  },
+  {
+    "Name": "PICKUP_WEAPON_GADGETPISTOL",
+    "Hash": 2010690963,
+    "Model": "w_pi_singleshoth4"
+  },
+  {
+    "Name": "PICKUP_WEAPON_MILITARYRIFLE",
+    "Hash": 884272848,
+    "Model": "w_ar_bullpuprifleh4"
+  },
+  {
     "Name": "PICKUP_WEAPON_FLAREGUN",
     "Hash": 3175998018,
     "Model": "w_pi_flaregun"
@@ -643,6 +643,11 @@
     "Name": "PICKUP_AMMO_FLAREGUN",
     "Hash": 3759398940,
     "Model": "w_pi_flaregun_shell"
+  },
+  {
+    "Name": "PICKUP_WEAPON_COMBATPDW",
+    "Hash": 2023061218,
+    "Model": "W_SB_PDW"
   },
   {
     "Name": "PICKUP_WEAPON_KNUCKLE",
@@ -655,24 +660,9 @@
     "Model": "W_PI_SingleShot"
   },
   {
-    "Name": "PICKUP_WEAPON_COMBATPDW",
-    "Hash": 2023061218,
-    "Model": "W_SB_PDW"
-  },
-  {
     "Name": "PICKUP_PORTABLE_CRATE_FIXED_INCAR",
     "Hash": 3993904883,
     "Model": "PROP_DRUG_PACKAGE"
-  },
-  {
-    "Name": "PICKUP_WEAPON_MACHETE",
-    "Hash": 3626334911,
-    "Model": "w_me_machette_lr"
-  },
-  {
-    "Name": "PICKUP_WEAPON_MACHINEPISTOL",
-    "Hash": 4123384540,
-    "Model": "W_SB_CompactSMG"
   },
   {
     "Name": "PICKUP_WEAPON_COMPACTRIFLE",
@@ -683,6 +673,16 @@
     "Name": "PICKUP_WEAPON_DBSHOTGUN",
     "Hash": 4192395039,
     "Model": "w_sg_doublebarrel"
+  },
+  {
+    "Name": "PICKUP_WEAPON_MACHETE",
+    "Hash": 3626334911,
+    "Model": "w_me_machette_lr"
+  },
+  {
+    "Name": "PICKUP_WEAPON_MACHINEPISTOL",
+    "Hash": 4123384540,
+    "Model": "W_SB_CompactSMG"
   },
   {
     "Name": "PICKUP_WEAPON_FLASHLIGHT",
@@ -768,5 +768,35 @@
     "Name": "PICKUP_WEAPON_STONE_HATCHET",
     "Hash": 3432031091,
     "Model": "w_me_Stonehatchet"
+  },
+  {
+    "Name": "PICKUP_WEAPON_EMPLAUNCHER",
+    "Hash": 4284229131,
+    "Model": "W_LR_CompactML"
+  },
+  {
+    "Name": "PICKUP_AMMO_EMPLAUNCHER",
+    "Hash": 2308161313,
+    "Model": "W_LR_ML_40mm"
+  },
+  {
+    "Name": "PICKUP_WEAPON_HEAVYRIFLE",
+    "Hash": 1491498856,
+    "Model": "W_AR_HEAVYRIFLEH"
+  },
+  {
+    "Name": "PICKUP_WEAPON_PETROLCAN_SMALL_RADIUS",
+    "Hash": 3279969783,
+    "Model": "W_AM_Jerrycan"
+  },
+  {
+    "Name": "PICKUP_WEAPON_FERTILIZERCAN",
+    "Hash": 3708929359,
+    "Model": "W_AM_Jerrycan_SF"
+  },
+  {
+    "Name": "PICKUP_WEAPON_STUNGUN_MP",
+    "Hash": 3025681922,
+    "Model": "W_PI_STUNGUN"
   }
 ]

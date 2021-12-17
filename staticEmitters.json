@@ -849,7 +849,7 @@
     "Flags": "0xAA045401",
     "Interior": "v_apart_midspaz",
     "Room": "v_apart_midspaz_rm_mid_lounge",
-    "RadioStation": "RADIO_03_HIPHOP_NEW"
+    "RadioStation": "radio_03_hiphop_new"
   },
   {
     "Name": "se_mp_ap_rad_v_studio_lo_living",
@@ -1689,7 +1689,7 @@
     "Flags": "0xAA045401",
     "Interior": "v_apart_midspaz",
     "Room": "v_apart_midspaz_rm_mid_lounge",
-    "RadioStation": "RADIO_03_HIPHOP_NEW"
+    "RadioStation": "radio_03_hiphop_new"
   },
   {
     "Name": "se_mp_ap_rad_v_studio_lo_living",
@@ -2721,7 +2721,7 @@
     "Flags": "0xAA041401",
     "Interior": "v_chopshop",
     "Room": "collision_8qla5em",
-    "RadioStation": "RADIO_03_HIPHOP_NEW"
+    "RadioStation": "radio_03_hiphop_new"
   },
   {
     "Name": "collision_9xh774m",
@@ -2769,7 +2769,7 @@
     "Flags": "0xAA041001",
     "Interior": null,
     "Room": null,
-    "RadioStation": "RADIO_09_HIPHOP_OLD"
+    "RadioStation": "radio_09_hiphop_old"
   },
   {
     "Name": "SE_FRANKLIN_HILLS_HOUSE_RADIO_01",
@@ -2781,7 +2781,7 @@
     "Flags": "0xAA041401",
     "Interior": "v_franklinshouse",
     "Room": "collision_89be7ya",
-    "RadioStation": "RADIO_03_HIPHOP_NEW"
+    "RadioStation": "radio_03_hiphop_new"
   },
   {
     "Name": "collision_h7r74m",
@@ -2793,7 +2793,7 @@
     "Flags": "0xAA041411",
     "Interior": "v_franklinshouse",
     "Room": "collision_56wmqif",
-    "RadioStation": "RADIO_03_HIPHOP_NEW"
+    "RadioStation": "radio_03_hiphop_new"
   },
   {
     "Name": "SE_FRANKLIN_AUNT_HOUSE_RADIO_01",
@@ -2805,7 +2805,7 @@
     "Flags": "0xAA041411",
     "Interior": "v_franklins",
     "Room": "V_57_FrontRM",
-    "RadioStation": "RADIO_03_HIPHOP_NEW"
+    "RadioStation": "radio_03_hiphop_new"
   },
   {
     "Name": "collision_i30uk2",
@@ -2817,7 +2817,7 @@
     "Flags": "0xAA041411",
     "Interior": "v_franklins",
     "Room": "V_57_FrnkRM",
-    "RadioStation": "RADIO_03_HIPHOP_NEW"
+    "RadioStation": "radio_03_hiphop_new"
   },
   {
     "Name": "collision_6krwyk3",
@@ -3105,7 +3105,7 @@
     "Flags": "0xAA041001",
     "Interior": null,
     "Room": null,
-    "RadioStation": "RADIO_09_HIPHOP_OLD"
+    "RadioStation": "radio_09_hiphop_old"
   },
   {
     "Name": "collision_qs18v4",
@@ -3345,7 +3345,7 @@
     "Flags": "0xAA041411",
     "Interior": "v_garagem",
     "Room": "v_garagem_gtamloroom002",
-    "RadioStation": "RADIO_03_HIPHOP_NEW"
+    "RadioStation": "radio_03_hiphop_new"
   },
   {
     "Name": "SE_MP_GARAGE_S_RADIO",
@@ -3897,7 +3897,7 @@
     "Flags": "0xAA041001",
     "Interior": null,
     "Room": null,
-    "RadioStation": "RADIO_09_HIPHOP_OLD"
+    "RadioStation": "radio_09_hiphop_old"
   },
   {
     "Name": "collision_327tw43",
@@ -4041,7 +4041,7 @@
     "Flags": "0xAA041001",
     "Interior": null,
     "Room": null,
-    "RadioStation": "RADIO_09_HIPHOP_OLD"
+    "RadioStation": "radio_09_hiphop_old"
   },
   {
     "Name": "collision_m8z92m",
@@ -4341,7 +4341,7 @@
     "Flags": "0xAA041411",
     "Interior": null,
     "Room": null,
-    "RadioStation": "RADIO_09_HIPHOP_OLD"
+    "RadioStation": "radio_09_hiphop_old"
   },
   {
     "Name": "collision_86kkpmy",
@@ -4545,7 +4545,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "RADIO_09_HIPHOP_OLD"
+    "RadioStation": "radio_09_hiphop_old"
   },
   {
     "Name": "collision_rgaq9k",
@@ -4677,7 +4677,7 @@
     "Flags": "0xAA041451",
     "Interior": null,
     "Room": null,
-    "RadioStation": "RADIO_09_HIPHOP_OLD"
+    "RadioStation": "radio_09_hiphop_old"
   },
   {
     "Name": "collision_71m82n0",
@@ -6453,7 +6453,7 @@
     "Flags": "0xAA041001",
     "Interior": null,
     "Room": null,
-    "RadioStation": "RADIO_09_HIPHOP_OLD"
+    "RadioStation": "radio_09_hiphop_old"
   },
   {
     "Name": "collision_rxufew",
@@ -6465,7 +6465,7 @@
     "Flags": "0xAA041001",
     "Interior": null,
     "Room": null,
-    "RadioStation": "RADIO_09_HIPHOP_OLD"
+    "RadioStation": "radio_09_hiphop_old"
   },
   {
     "Name": "collision_84m7pbl",
@@ -6477,7 +6477,7 @@
     "Flags": "0xAA041401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "RADIO_03_HIPHOP_NEW"
+    "RadioStation": "radio_03_hiphop_new"
   },
   {
     "Name": "collision_9xb1zzx",
@@ -6513,7 +6513,7 @@
     "Flags": "0xAA040011",
     "Interior": null,
     "Room": null,
-    "RadioStation": "RADIO_09_HIPHOP_OLD"
+    "RadioStation": "radio_09_hiphop_old"
   },
   {
     "Name": "collision_88ydgt3",
@@ -6597,7 +6597,7 @@
     "Flags": "0xAA040011",
     "Interior": null,
     "Room": null,
-    "RadioStation": "RADIO_09_HIPHOP_OLD"
+    "RadioStation": "radio_09_hiphop_old"
   },
   {
     "Name": "collision_7ydki1",
@@ -6729,7 +6729,7 @@
     "Flags": "0xAA040011",
     "Interior": null,
     "Room": null,
-    "RadioStation": "RADIO_03_HIPHOP_NEW"
+    "RadioStation": "radio_03_hiphop_new"
   },
   {
     "Name": "collision_9z0kcdm",
@@ -7125,7 +7125,7 @@
     "Flags": "0xAA041411",
     "Interior": "v_garagem",
     "Room": "v_garagem_gtamloroom002",
-    "RadioStation": "RADIO_03_HIPHOP_NEW"
+    "RadioStation": "radio_03_hiphop_new"
   },
   {
     "Name": "se_xm_int_01_avngr_radio",
@@ -7965,7 +7965,7 @@
     "Flags": "0xAA044401",
     "Interior": null,
     "Room": null,
-    "RadioStation": "RADIO_09_HIPHOP_OLD"
+    "RadioStation": "radio_09_hiphop_old"
   },
   {
     "Name": "dlc_ie_warehouse_radio_01",
@@ -8157,7 +8157,7 @@
     "Flags": "0xAA041501",
     "Interior": "bkr_biker_dlc_int_ware03",
     "Room": "bkr_biker_dlc_int_ware03_warehouse_small",
-    "RadioStation": "RADIO_09_HIPHOP_OLD"
+    "RadioStation": "radio_09_hiphop_old"
   },
   {
     "Name": "se_dlc_biker_cash_warehouse_radio",
@@ -9024,6 +9024,318 @@
     "RadioStation": "hidden_radio_tuner_mm"
   },
   {
+    "Name": "se_dlc_fixer_data_leak_mansion_speaker_01",
+    "Position": {
+      "X": -1520.0,
+      "Y": 75.0,
+      "Z": 62.0
+    },
+    "Flags": "0xAA045411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "RADIO_07_DANCE_01"
+  },
+  {
+    "Name": "se_dlc_fixer_data_leak_mansion_speaker_02",
+    "Position": {
+      "X": -1557.12,
+      "Y": 89.34,
+      "Z": 61.47
+    },
+    "Flags": "0xAA045411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "RADIO_07_DANCE_01"
+  },
+  {
+    "Name": "se_dlc_fixer_data_leak_mansion_speaker_03",
+    "Position": {
+      "X": -1555.02,
+      "Y": 55.28,
+      "Z": 57.69
+    },
+    "Flags": "0xAA045411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "RADIO_07_DANCE_01"
+  },
+  {
+    "Name": "se_dlc_fixer_data_leak_mansion_speaker_04",
+    "Position": {
+      "X": -1550.69,
+      "Y": 100.84,
+      "Z": 58.79
+    },
+    "Flags": "0xAA045411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "RADIO_07_DANCE_01"
+  },
+  {
+    "Name": "se_dlc_fixer_data_leak_mansion_speaker_05",
+    "Position": {
+      "X": -1550.71,
+      "Y": 136.24,
+      "Z": 57.07
+    },
+    "Flags": "0xAA045411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "RADIO_07_DANCE_01"
+  },
+  {
+    "Name": "se_dlc_fixer_data_leak_mansion_speaker_06",
+    "Position": {
+      "X": -1550.0,
+      "Y": 140.0,
+      "Z": 59.0
+    },
+    "Flags": "0xAA045411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "hidden_radio_sec_billionaire"
+  },
+  {
+    "Name": "se_dlc_fixer_data_leak_mansion_speaker_07",
+    "Position": {
+      "X": -1565.98,
+      "Y": 101.68,
+      "Z": 59.9
+    },
+    "Flags": "0xAA045411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "RADIO_07_DANCE_01"
+  },
+  {
+    "Name": "se_dlc_fixer_data_leak_mansion_speaker_08",
+    "Position": {
+      "X": -1603.72,
+      "Y": 92.59,
+      "Z": 62.97
+    },
+    "Flags": "0xAA045411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "RADIO_07_DANCE_01"
+  },
+  {
+    "Name": "se_dlc_fixer_data_leak_mansion_speaker_09",
+    "Position": {
+      "X": -1626.46,
+      "Y": 106.52,
+      "Z": 62.63
+    },
+    "Flags": "0xAA045411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "RADIO_07_DANCE_01"
+  },
+  {
+    "Name": "se_dlc_fixer_data_leak_mansion_speaker_10",
+    "Position": {
+      "X": -1598.65,
+      "Y": 134.47,
+      "Z": 61.48
+    },
+    "Flags": "0xAA045411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "RADIO_07_DANCE_01"
+  },
+  {
+    "Name": "se_dlc_fixer_investigation_way_in_music_01",
+    "Position": {
+      "X": -1324.75,
+      "Y": 500.3,
+      "Z": 102.0
+    },
+    "Flags": "0xAA040411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "RADIO_07_DANCE_01"
+  },
+  {
+    "Name": "se_sf_dlc_garage_sec_room_f1_01",
+    "Position": {
+      "X": -1073.06,
+      "Y": -74.97,
+      "Z": -93.17
+    },
+    "Flags": "0xAA141501",
+    "Interior": "sf_dlc_garage_sec",
+    "Room": "sf_dlc_garage_sec_room_f1",
+    "RadioStation": "HIDDEN_RADIO_09_HIPHOP_OLD"
+  },
+  {
+    "Name": "se_sf_dlc_garage_sec_room_f2_01",
+    "Position": {
+      "X": -1072.16,
+      "Y": -77.17,
+      "Z": -89.12
+    },
+    "Flags": "0xAA141501",
+    "Interior": "sf_dlc_garage_sec",
+    "Room": "sf_dlc_garage_sec_room_f2",
+    "RadioStation": "HIDDEN_RADIO_09_HIPHOP_OLD"
+  },
+  {
+    "Name": "se_sf_dlc_garage_sec_room_gf_01",
+    "Position": {
+      "X": -1072.58,
+      "Y": -75.45,
+      "Z": -98.17
+    },
+    "Flags": "0xAA141501",
+    "Interior": "sf_dlc_garage_sec",
+    "Room": "sf_dlc_garage_sec_room_gf",
+    "RadioStation": "HIDDEN_RADIO_09_HIPHOP_OLD"
+  },
+  {
+    "Name": "se_sf_dlc_garage_sec_room_stairs_01",
+    "Position": {
+      "X": -1073.16,
+      "Y": -89.86,
+      "Z": -94.0
+    },
+    "Flags": "0xAA141501",
+    "Interior": "sf_dlc_garage_sec",
+    "Room": "sf_dlc_garage_sec_room_stairs",
+    "RadioStation": "HIDDEN_RADIO_09_HIPHOP_OLD"
+  },
+  {
+    "Name": "se_sf_dlc_office_sec_apartment_01",
+    "Position": {
+      "X": -1114.51,
+      "Y": -74.88,
+      "Z": -89.68
+    },
+    "Flags": "0xAA141511",
+    "Interior": "sf_dlc_office_sec",
+    "Room": "sf_dlc_office_sec_room_aprtment",
+    "RadioStation": "HIDDEN_RADIO_09_HIPHOP_OLD"
+  },
+  {
+    "Name": "se_sf_dlc_office_sec_hacker_01",
+    "Position": {
+      "X": -1124.83,
+      "Y": -70.76,
+      "Z": -90.1
+    },
+    "Flags": "0xAA141511",
+    "Interior": "sf_dlc_office_sec",
+    "Room": "sf_dlc_office_sec_room_office_hacker",
+    "RadioStation": "HIDDEN_RADIO_09_HIPHOP_OLD"
+  },
+  {
+    "Name": "se_sf_dlc_office_sec_backstairs_01",
+    "Position": {
+      "X": -1123.38,
+      "Y": -84.93,
+      "Z": -92.84
+    },
+    "Flags": "0xAA141511",
+    "Interior": "sf_dlc_office_sec",
+    "Room": "sf_dlc_office_sec_room_backstairs",
+    "RadioStation": "HIDDEN_RADIO_09_HIPHOP_OLD"
+  },
+  {
+    "Name": "se_sf_dlc_office_sec_main_01",
+    "Position": {
+      "X": -1113.91,
+      "Y": -67.46,
+      "Z": -97.77
+    },
+    "Flags": "0xAA141411",
+    "Interior": "sf_dlc_office_sec",
+    "Room": "sf_dlc_office_sec_room_main",
+    "RadioStation": "HIDDEN_RADIO_09_HIPHOP_OLD"
+  },
+  {
+    "Name": "se_sf_dlc_office_sec_franklin_office",
+    "Position": {
+      "X": -1124.16,
+      "Y": -58.51,
+      "Z": -93.72
+    },
+    "Flags": "0xAA141411",
+    "Interior": "sf_dlc_office_sec",
+    "Room": "sf_dlc_office_sec_room_main",
+    "RadioStation": "HIDDEN_RADIO_09_HIPHOP_OLD"
+  },
+  {
+    "Name": "se_sf_dlc_office_sec_player_office",
+    "Position": {
+      "X": -1116.28,
+      "Y": -80.08,
+      "Z": -93.53
+    },
+    "Flags": "0xAA141411",
+    "Interior": "sf_dlc_office_sec",
+    "Room": "sf_dlc_office_sec_room_main",
+    "RadioStation": "HIDDEN_RADIO_03_HIPHOP_NEW"
+  },
+  {
+    "Name": "se_sf_dlc_studio_sec_studio_01",
+    "Position": {
+      "X": -994.4,
+      "Y": -67.5,
+      "Z": -97.7
+    },
+    "Flags": "0xAA141501",
+    "Interior": "sf_dlc_studio_sec",
+    "Room": "sf_dlc_studio_sec_room_control",
+    "RadioStation": "HIDDEN_RADIO_09_HIPHOP_OLD"
+  },
+  {
+    "Name": "se_sf_dlc_studio_sec_writers_01",
+    "Position": {
+      "X": -1003.68,
+      "Y": -78.55,
+      "Z": -97.61
+    },
+    "Flags": "0xAA041501",
+    "Interior": "sf_dlc_studio_sec",
+    "Room": "sf_dlc_studio_sec_room_writers",
+    "RadioStation": "hidden_radio_sec_studio_lounge"
+  },
+  {
+    "Name": "se_sf_dlc_studio_sec_studio_02",
+    "Position": {
+      "X": -995.31,
+      "Y": -70.12,
+      "Z": -97.77
+    },
+    "Flags": "0xAA141501",
+    "Interior": "sf_dlc_studio_sec",
+    "Room": "sf_dlc_studio_sec_room_control",
+    "RadioStation": "HIDDEN_RADIO_09_HIPHOP_OLD"
+  },
+  {
+    "Name": "se_sf_dlc_studio_sec_lobby_01",
+    "Position": {
+      "X": -1011.29,
+      "Y": -83.65,
+      "Z": -97.81
+    },
+    "Flags": "0xAA141501",
+    "Interior": "sf_dlc_studio_sec",
+    "Room": "sf_dlc_studio_sec_room_lobby",
+    "RadioStation": "HIDDEN_RADIO_09_HIPHOP_OLD"
+  },
+  {
+    "Name": "se_dlc_sec_weed_warehouse_radio",
+    "Position": {
+      "X": 2926.5,
+      "Y": 4464.2,
+      "Z": -99.0
+    },
+    "Flags": "0xAA041401",
+    "Interior": "sf_dlc_warehouse_sec",
+    "Room": "sf_dlc_warehouse_sec_weed_grow_rm",
+    "RadioStation": "RADIO_12_REGGAE"
+  },
+  {
     "Name": "se_mp_apt_1_1",
     "Position": {
       "X": -794.9223,
@@ -9825,7 +10137,7 @@
     "Flags": "0xAA045401",
     "Interior": "v_apart_midspaz",
     "Room": "v_apart_midspaz_rm_mid_lounge",
-    "RadioStation": "RADIO_03_HIPHOP_NEW"
+    "RadioStation": "radio_03_hiphop_new"
   },
   {
     "Name": "se_mp_ap_rad_v_studio_lo_living",

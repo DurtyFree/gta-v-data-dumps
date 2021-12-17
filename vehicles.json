@@ -1237,6 +1237,62 @@
     "MoveResistance": 0.0
   },
   {
+    "Name": "astron",
+    "DisplayName": "Astron",
+    "Hash": 629969764,
+    "SignedHash": 629969764,
+    "HexHash": "0x258C9364",
+    "DlcName": "mpsecurity",
+    "HandlingId": "ASTRON",
+    "LayoutId": "LAYOUT_STD_ASTRON",
+    "Manufacturer": "PFISTER",
+    "ManufacturerDisplayName": "Pfister",
+    "Class": "SUV",
+    "Type": "CAR",
+    "PlateType": "BACK_PLATES",
+    "DashboardType": "BANSHEE",
+    "WheelType": "SUV",
+    "Flags": [
+      "FLAG_RICH_CAR",
+      "FLAG_IS_OFFROAD_VEHICLE",
+      "FLAG_HAS_INTERIOR_EXTRAS"
+    ],
+    "Seats": 4,
+    "Price": 100,
+    "MonetaryValue": 35000,
+    "HasConvertibleRoof": false,
+    "HasSirens": false,
+    "Weapons": [],
+    "ModKits": [
+      "476_astron_modkit"
+    ],
+    "DimensionsMin": {
+      "X": -0.9454868,
+      "Y": -2.4105735,
+      "Z": -0.382081
+    },
+    "DimensionsMax": {
+      "X": 0.9454868,
+      "Y": 2.3806686,
+      "Z": 1.252482
+    },
+    "BoundingCenter": {
+      "X": -0.0,
+      "Y": -0.02108,
+      "Z": 0.505077
+    },
+    "BoundingSphereRadius": 2.632365,
+    "Rewards": null,
+    "MaxBraking": 0.48,
+    "MaxBrakingMods": 0.58,
+    "MaxSpeed": 49.56667,
+    "MaxTraction": 2.185,
+    "Acceleration": 0.324,
+    "Agility": 0.704,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0
+  },
+  {
     "Name": "autarch",
     "DisplayName": "Autarch",
     "Hash": 3981782132,
@@ -1696,7 +1752,7 @@
       "FLAG_HAS_INTERIOR_EXTRAS"
     ],
     "Seats": 4,
-    "Price": -1,
+    "Price": 100,
     "MonetaryValue": 50000,
     "HasConvertibleRoof": false,
     "HasSirens": false,
@@ -2023,6 +2079,64 @@
     "MaxTraction": 2.0,
     "Acceleration": 0.265,
     "Agility": 0.645,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0
+  },
+  {
+    "Name": "baller7",
+    "DisplayName": "Baller ST",
+    "Hash": 359875117,
+    "SignedHash": 359875117,
+    "HexHash": "0x1573422D",
+    "DlcName": "mpsecurity",
+    "HandlingId": "BALLER7",
+    "LayoutId": "LAYOUT_STD_HIGHWINDOW",
+    "Manufacturer": "GALLIVAN",
+    "ManufacturerDisplayName": "Gallivanter",
+    "Class": "SUV",
+    "Type": "CAR",
+    "PlateType": "FRONT_AND_BACK_PLATES",
+    "DashboardType": "CAVALCADE",
+    "WheelType": "SUV",
+    "Flags": [
+      "FLAG_PARKING_SENSORS",
+      "FLAG_RICH_CAR",
+      "FLAG_IS_OFFROAD_VEHICLE",
+      "FLAG_IS_BULKY",
+      "FLAG_HAS_INTERIOR_EXTRAS"
+    ],
+    "Seats": 4,
+    "Price": -1,
+    "MonetaryValue": 50000,
+    "HasConvertibleRoof": false,
+    "HasSirens": false,
+    "Weapons": [],
+    "ModKits": [
+      "485_baller7_modkit"
+    ],
+    "DimensionsMin": {
+      "X": -1.1505567,
+      "Y": -3.1443133,
+      "Z": -0.92341805
+    },
+    "DimensionsMax": {
+      "X": 1.1505567,
+      "Y": 2.4393246,
+      "Z": 0.9651507
+    },
+    "BoundingCenter": {
+      "X": 3.7E-05,
+      "Y": -0.323527,
+      "Z": 0.114167
+    },
+    "BoundingSphereRadius": 3.086995,
+    "Rewards": null,
+    "MaxBraking": 0.7,
+    "MaxBrakingMods": 0.8,
+    "MaxSpeed": 46.583336,
+    "MaxTraction": 2.2,
+    "Acceleration": 0.3025,
+    "Agility": 0.6825,
     "MaxKnots": 0.0,
     "MoveResistance": 0.0
   },
@@ -5605,6 +5719,65 @@
     "MoveResistance": 0.0
   },
   {
+    "Name": "buffalo4",
+    "DisplayName": "Buffalo STX",
+    "Hash": 3675036420,
+    "SignedHash": -619930876,
+    "HexHash": "0xDB0C9B04",
+    "DlcName": "mpsecurity",
+    "HandlingId": "BUFFALO4",
+    "LayoutId": "LAYOUT_STANDARD_BUFFALO4",
+    "Manufacturer": "BRAVADO",
+    "ManufacturerDisplayName": "Bravado",
+    "Class": "MUSCLE",
+    "Type": "CAR",
+    "PlateType": "BACK_PLATES",
+    "DashboardType": "RACE",
+    "WheelType": "SPORT",
+    "Flags": [
+      "FLAG_AVERAGE_CAR",
+      "FLAG_RECESSED_HEADLIGHT_CORONAS",
+      "FLAG_USE_AIRCRAFT_STYLE_WEAPON_TARGETING",
+      "FLAG_HAS_BULLET_RESISTANT_GLASS"
+    ],
+    "Seats": 4,
+    "Price": 100,
+    "MonetaryValue": 25000,
+    "HasConvertibleRoof": false,
+    "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_GRANGER2_MG"
+    ],
+    "ModKits": [
+      "482_buffalo4_modkit"
+    ],
+    "DimensionsMin": {
+      "X": -0.99429995,
+      "Y": -2.9447346,
+      "Z": -0.52848613
+    },
+    "DimensionsMax": {
+      "X": 0.9931999,
+      "Y": 2.4916952,
+      "Z": 1.0674646
+    },
+    "BoundingCenter": {
+      "X": 0.0,
+      "Y": -0.073807,
+      "Z": 0.288414
+    },
+    "BoundingSphereRadius": 2.793101,
+    "Rewards": null,
+    "MaxBraking": 0.95,
+    "MaxBrakingMods": 1.05,
+    "MaxSpeed": 48.308033,
+    "MaxTraction": 2.58,
+    "Acceleration": 0.3425,
+    "Agility": 0.7225,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0
+  },
+  {
     "Name": "bulldozer",
     "DisplayName": "Dozer",
     "Hash": 1886712733,
@@ -7507,6 +7680,64 @@
     "MoveResistance": 0.0
   },
   {
+    "Name": "champion",
+    "DisplayName": "Champion",
+    "Hash": 3379732821,
+    "SignedHash": -915234475,
+    "HexHash": "0xC972A155",
+    "DlcName": "mpsecurity",
+    "HandlingId": "CHAMPION",
+    "LayoutId": "LAYOUT_LOW_RESTRICTED",
+    "Manufacturer": "DEWBAUCH",
+    "ManufacturerDisplayName": "Dewbauchee",
+    "Class": "SUPER",
+    "Type": "CAR",
+    "PlateType": "FRONT_AND_BACK_PLATES",
+    "DashboardType": "BANSHEE",
+    "WheelType": "HIEND",
+    "Flags": [
+      "FLAG_RICH_CAR",
+      "FLAG_USE_AIRCRAFT_STYLE_WEAPON_TARGETING",
+      "FLAG_HAS_BULLET_RESISTANT_GLASS"
+    ],
+    "Seats": 2,
+    "Price": 100,
+    "MonetaryValue": 150000,
+    "HasConvertibleRoof": false,
+    "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_GRANGER2_MG"
+    ],
+    "ModKits": [
+      "490_champion_modkit"
+    ],
+    "DimensionsMin": {
+      "X": -0.9872626,
+      "Y": -2.3483207,
+      "Z": -0.37523097
+    },
+    "DimensionsMax": {
+      "X": 0.9872626,
+      "Y": 2.2735639,
+      "Z": 0.8988717
+    },
+    "BoundingCenter": {
+      "X": 0.0,
+      "Y": 0.015103,
+      "Z": 0.258677
+    },
+    "BoundingSphereRadius": 2.481239,
+    "Rewards": null,
+    "MaxBraking": 1.15,
+    "MaxBrakingMods": 1.25,
+    "MaxSpeed": 51.86634,
+    "MaxTraction": 2.5662,
+    "Acceleration": 0.359,
+    "Agility": 0.739,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0
+  },
+  {
     "Name": "cheburek",
     "DisplayName": "Cheburek",
     "Hash": 3306466016,
@@ -7931,6 +8162,63 @@
     "MaxTraction": 2.07,
     "Acceleration": 0.21,
     "Agility": 0.59,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0
+  },
+  {
+    "Name": "cinquemila",
+    "DisplayName": "Cinquemila",
+    "Hash": 2767531027,
+    "SignedHash": -1527436269,
+    "HexHash": "0xA4F52C13",
+    "DlcName": "mpsecurity",
+    "HandlingId": "CINQUEMILA",
+    "LayoutId": "LAYOUT_STD_CINQUEMILA",
+    "Manufacturer": "LAMPADA",
+    "ManufacturerDisplayName": "Lampadati",
+    "Class": "SEDAN",
+    "Type": "CAR",
+    "PlateType": "FRONT_AND_BACK_PLATES",
+    "DashboardType": "TAILGATER",
+    "WheelType": "SPORT",
+    "Flags": [
+      "FLAG_PARKING_SENSORS",
+      "FLAG_RICH_CAR",
+      "FLAG_AVERAGE_CAR",
+      "FLAG_HAS_INTERIOR_EXTRAS"
+    ],
+    "Seats": 4,
+    "Price": 100,
+    "MonetaryValue": 150000,
+    "HasConvertibleRoof": false,
+    "HasSirens": false,
+    "Weapons": [],
+    "ModKits": [
+      "488_cinquemila_modkit"
+    ],
+    "DimensionsMin": {
+      "X": -1.0748949,
+      "Y": -2.7687044,
+      "Z": -0.41931835
+    },
+    "DimensionsMax": {
+      "X": 1.0748925,
+      "Y": 2.6631033,
+      "Z": 1.0990602
+    },
+    "BoundingCenter": {
+      "X": 0.0,
+      "Y": -0.00445,
+      "Z": 0.385539
+    },
+    "BoundingSphereRadius": 2.909055,
+    "Rewards": null,
+    "MaxBraking": 0.975,
+    "MaxBrakingMods": 1.075,
+    "MaxSpeed": 48.235992,
+    "MaxTraction": 2.63,
+    "Acceleration": 0.3535,
+    "Agility": 0.7335,
     "MaxKnots": 0.0,
     "MoveResistance": 0.0
   },
@@ -8771,6 +9059,66 @@
     "MaxTraction": 2.655,
     "Acceleration": 0.346,
     "Agility": 0.726,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0
+  },
+  {
+    "Name": "comet7",
+    "DisplayName": "Comet S2 Cabrio",
+    "Hash": 1141395928,
+    "SignedHash": 1141395928,
+    "HexHash": "0x440851D8",
+    "DlcName": "mpsecurity",
+    "HandlingId": "COMET7",
+    "LayoutId": "LAYOUT_LOW_RESTRICTED",
+    "Manufacturer": "PFISTER",
+    "ManufacturerDisplayName": "Pfister",
+    "Class": "SPORT",
+    "Type": "CAR",
+    "PlateType": "BACK_PLATES",
+    "DashboardType": "RACE",
+    "WheelType": "SPORT",
+    "Flags": [
+      "FLAG_BOOT_IN_FRONT",
+      "FLAG_SPORTS",
+      "FLAG_SPAWN_ON_TRAILER",
+      "FLAG_PARKING_SENSORS",
+      "FLAG_RICH_CAR",
+      "FLAG_NO_BROKEN_DOWN_SCENARIO",
+      "FLAG_CAN_HAVE_NEONS"
+    ],
+    "Seats": 2,
+    "Price": 100,
+    "MonetaryValue": 150000,
+    "HasConvertibleRoof": true,
+    "HasSirens": false,
+    "Weapons": [],
+    "ModKits": [
+      "481_comet7_modkit"
+    ],
+    "DimensionsMin": {
+      "X": -0.9653999,
+      "Y": -2.3379605,
+      "Z": -0.41613197
+    },
+    "DimensionsMax": {
+      "X": 0.96540004,
+      "Y": 2.2958567,
+      "Z": 0.9310509
+    },
+    "BoundingCenter": {
+      "X": 0.0,
+      "Y": 0.000311,
+      "Z": 0.300722
+    },
+    "BoundingSphereRadius": 2.535046,
+    "Rewards": null,
+    "MaxBraking": 0.89,
+    "MaxBrakingMods": 0.99,
+    "MaxSpeed": 50.380608,
+    "MaxTraction": 2.655,
+    "Acceleration": 0.3495,
+    "Agility": 0.7295,
     "MaxKnots": 0.0,
     "MoveResistance": 0.0
   },
@@ -9793,6 +10141,69 @@
     "MaxTraction": 2.15,
     "Acceleration": 0.405,
     "Agility": 0.785,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0
+  },
+  {
+    "Name": "deity",
+    "DisplayName": "Deity",
+    "Hash": 1532171089,
+    "SignedHash": 1532171089,
+    "HexHash": "0x5B531351",
+    "DlcName": "mpsecurity",
+    "HandlingId": "DEITY",
+    "LayoutId": "LAYOUT_STD_DEITY",
+    "Manufacturer": "ENUS",
+    "ManufacturerDisplayName": "Enus",
+    "Class": "SEDAN",
+    "Type": "CAR",
+    "PlateType": "FRONT_AND_BACK_PLATES",
+    "DashboardType": "RACE",
+    "WheelType": "HIEND",
+    "Flags": [
+      "FLAG_EXTRAS_REQUIRE",
+      "FLAG_PARKING_SENSORS",
+      "FLAG_RICH_CAR",
+      "FLAG_NO_BROKEN_DOWN_SCENARIO",
+      "FLAG_HAS_INTERIOR_EXTRAS",
+      "FLAG_INCREASE_CAMBER_WITH_SUSPENSION_MOD",
+      "FLAG_HAS_BULLET_RESISTANT_GLASS",
+      "FLAG_USE_AIRCRAFT_STYLE_WEAPON_TARGETING"
+    ],
+    "Seats": 4,
+    "Price": 100,
+    "MonetaryValue": 25000,
+    "HasConvertibleRoof": false,
+    "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_GRANGER2_MG"
+    ],
+    "ModKits": [
+      "475_deity_modkit"
+    ],
+    "DimensionsMin": {
+      "X": -1.0944046,
+      "Y": -2.8691654,
+      "Z": -0.383
+    },
+    "DimensionsMax": {
+      "X": 1.0944046,
+      "Y": 2.5663686,
+      "Z": 1.1356773
+    },
+    "BoundingCenter": {
+      "X": -0.0,
+      "Y": -0.147691,
+      "Z": 0.408963
+    },
+    "BoundingSphereRadius": 2.990878,
+    "Rewards": null,
+    "MaxBraking": 0.65,
+    "MaxBrakingMods": 0.75,
+    "MaxSpeed": 44.373707,
+    "MaxTraction": 2.15,
+    "Acceleration": 0.2925,
+    "Agility": 0.6725,
     "MaxKnots": 0.0,
     "MoveResistance": 0.0
   },
@@ -16210,6 +16621,70 @@
     "MoveResistance": 0.0
   },
   {
+    "Name": "granger2",
+    "DisplayName": "Granger 3600LX",
+    "Hash": 4033620423,
+    "SignedHash": -261346873,
+    "HexHash": "0xF06C29C7",
+    "DlcName": "mpsecurity",
+    "HandlingId": "GRANGER2",
+    "LayoutId": "LAYOUT_STD_GRANGER2",
+    "Manufacturer": "DECLASSE",
+    "ManufacturerDisplayName": "Declasse",
+    "Class": "SUV",
+    "Type": "CAR",
+    "PlateType": "FRONT_AND_BACK_PLATES",
+    "DashboardType": "RACE",
+    "WheelType": "SUV",
+    "Flags": [
+      "FLAG_AVERAGE_CAR",
+      "FLAG_POOR_CAR",
+      "FLAG_ALLOWS_RAPPEL",
+      "FLAG_IS_OFFROAD_VEHICLE",
+      "FLAG_IS_BULKY",
+      "FLAG_RECESSED_HEADLIGHT_CORONAS",
+      "FLAG_HAS_INTERIOR_EXTRAS",
+      "FLAG_USE_AIRCRAFT_STYLE_WEAPON_TARGETING",
+      "FLAG_HAS_BULLET_RESISTANT_GLASS"
+    ],
+    "Seats": 8,
+    "Price": 100,
+    "MonetaryValue": 50000,
+    "HasConvertibleRoof": false,
+    "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_GRANGER2_MG"
+    ],
+    "ModKits": [
+      "473_granger2_modkit"
+    ],
+    "DimensionsMin": {
+      "X": -1.5041635,
+      "Y": -3.053968,
+      "Z": -0.666909
+    },
+    "DimensionsMax": {
+      "X": 1.5033848,
+      "Y": 2.709133,
+      "Z": 1.3937228
+    },
+    "BoundingCenter": {
+      "X": 0.0,
+      "Y": -0.181269,
+      "Z": 0.399182
+    },
+    "BoundingSphereRadius": 3.166738,
+    "Rewards": null,
+    "MaxBraking": 0.84,
+    "MaxBrakingMods": 0.94,
+    "MaxSpeed": 34.025684,
+    "MaxTraction": 2.18,
+    "Acceleration": 0.2075,
+    "Agility": 0.5875,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0
+  },
+  {
     "Name": "gresley",
     "DisplayName": "Gresley",
     "Hash": 2751205197,
@@ -17527,6 +18002,67 @@
     "Acceleration": 8.82,
     "Agility": 8.82,
     "MaxKnots": 3.9441965,
+    "MoveResistance": 0.0
+  },
+  {
+    "Name": "ignus",
+    "DisplayName": "Ignus",
+    "Hash": 2850852987,
+    "SignedHash": -1444114309,
+    "HexHash": "0xA9EC907B",
+    "DlcName": "mpsecurity",
+    "HandlingId": "IGNUS",
+    "LayoutId": "LAYOUT_LOW_IGNUS",
+    "Manufacturer": "PEGASSI",
+    "ManufacturerDisplayName": "Pegassi",
+    "Class": "SUPER",
+    "Type": "CAR",
+    "PlateType": "BACK_PLATES",
+    "DashboardType": "RACE",
+    "WheelType": "HIEND",
+    "Flags": [
+      "FLAG_SPORTS",
+      "FLAG_RICH_CAR",
+      "FLAG_RECESSED_HEADLIGHT_CORONAS",
+      "FLAG_NO_BROKEN_DOWN_SCENARIO",
+      "FLAG_COUNT_AS_FACEBOOK_DRIVEN",
+      "FLAG_EXTRAS_STRONG",
+      "FLAG_EXTRAS_REQUIRE",
+      "FLAG_USE_RESTRICTED_DRIVEBY_HEIGHT_MID_ONLY"
+    ],
+    "Seats": 2,
+    "Price": 100,
+    "MonetaryValue": 35000,
+    "HasConvertibleRoof": false,
+    "HasSirens": false,
+    "Weapons": [],
+    "ModKits": [
+      "455_ignus_modkit"
+    ],
+    "DimensionsMin": {
+      "X": -1.2373503,
+      "Y": -2.5046635,
+      "Z": -0.3488673
+    },
+    "DimensionsMax": {
+      "X": 1.2372103,
+      "Y": 2.6443448,
+      "Z": 0.8410281
+    },
+    "BoundingCenter": {
+      "X": -0.0002,
+      "Y": 0.107686,
+      "Z": 0.255617
+    },
+    "BoundingSphereRadius": 2.808028,
+    "Rewards": null,
+    "MaxBraking": 1.0,
+    "MaxBrakingMods": 1.1,
+    "MaxSpeed": 52.36531,
+    "MaxTraction": 2.7675,
+    "Acceleration": 0.3835,
+    "Agility": 0.76350003,
+    "MaxKnots": 0.0,
     "MoveResistance": 0.0
   },
   {
@@ -19163,6 +19699,66 @@
     "MoveResistance": 0.0
   },
   {
+    "Name": "iwagen",
+    "DisplayName": "I-Wagen",
+    "Hash": 662793086,
+    "SignedHash": 662793086,
+    "HexHash": "0x27816B7E",
+    "DlcName": "mpsecurity",
+    "HandlingId": "I-WAGEN",
+    "LayoutId": "LAYOUT_STD_I-WAGEN",
+    "Manufacturer": "OBEY",
+    "ManufacturerDisplayName": "Obey",
+    "Class": "SUV",
+    "Type": "CAR",
+    "PlateType": "FRONT_AND_BACK_PLATES",
+    "DashboardType": "CAVALCADE",
+    "WheelType": "SUV",
+    "Flags": [
+      "FLAG_PARKING_SENSORS",
+      "FLAG_RICH_CAR",
+      "FLAG_IS_OFFROAD_VEHICLE",
+      "FLAG_IS_BULKY",
+      "FLAG_HAS_INTERIOR_EXTRAS",
+      "FLAG_IS_ELECTRIC",
+      "FLAG_RECESSED_TAILLIGHT_CORONAS"
+    ],
+    "Seats": 4,
+    "Price": 100,
+    "MonetaryValue": 50000,
+    "HasConvertibleRoof": false,
+    "HasSirens": false,
+    "Weapons": [],
+    "ModKits": [
+      "489_iwagen_modkit"
+    ],
+    "DimensionsMin": {
+      "X": -1.0646844,
+      "Y": -2.357302,
+      "Z": -0.456374
+    },
+    "DimensionsMax": {
+      "X": 1.0672098,
+      "Y": 2.3385944,
+      "Z": 1.2062448
+    },
+    "BoundingCenter": {
+      "X": 0.000158,
+      "Y": -0.000788,
+      "Z": 0.39637
+    },
+    "BoundingSphereRadius": 2.641861,
+    "Rewards": null,
+    "MaxBraking": 0.775,
+    "MaxBrakingMods": 0.875,
+    "MaxSpeed": 33.31249,
+    "MaxTraction": 2.365,
+    "Acceleration": 0.2315,
+    "Agility": 0.6115,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0
+  },
+  {
     "Name": "jackal",
     "DisplayName": "Jackal",
     "Hash": 3670438162,
@@ -19747,6 +20343,68 @@
     "MaxTraction": 1.4,
     "Acceleration": 0.13,
     "Agility": 0.51,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0
+  },
+  {
+    "Name": "jubilee",
+    "DisplayName": "Jubilee",
+    "Hash": 461465043,
+    "SignedHash": 461465043,
+    "HexHash": "0x1B8165D3",
+    "DlcName": "mpsecurity",
+    "HandlingId": "JUBILEE",
+    "LayoutId": "LAYOUT_RANGER_JUBILEE",
+    "Manufacturer": "ENUS",
+    "ManufacturerDisplayName": "Enus",
+    "Class": "SUV",
+    "Type": "CAR",
+    "PlateType": "FRONT_AND_BACK_PLATES",
+    "DashboardType": "CAVALCADE",
+    "WheelType": "SUV",
+    "Flags": [
+      "FLAG_PARKING_SENSORS",
+      "FLAG_RICH_CAR",
+      "FLAG_IS_OFFROAD_VEHICLE",
+      "FLAG_IS_BULKY",
+      "FLAG_HAS_INTERIOR_EXTRAS",
+      "FLAG_USE_AIRCRAFT_STYLE_WEAPON_TARGETING",
+      "FLAG_HAS_BULLET_RESISTANT_GLASS"
+    ],
+    "Seats": 4,
+    "Price": 100,
+    "MonetaryValue": 25000,
+    "HasConvertibleRoof": false,
+    "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_GRANGER2_MG"
+    ],
+    "ModKits": [
+      "478_jubilee_modkit"
+    ],
+    "DimensionsMin": {
+      "X": -1.0798186,
+      "Y": -2.841579,
+      "Z": -0.544206
+    },
+    "DimensionsMax": {
+      "X": 1.0798194,
+      "Y": 2.5902076,
+      "Z": 1.3210578
+    },
+    "BoundingCenter": {
+      "X": -0.0,
+      "Y": -0.120256,
+      "Z": 0.489669
+    },
+    "BoundingSphereRadius": 2.98957,
+    "Rewards": null,
+    "MaxBraking": 0.75,
+    "MaxBrakingMods": 0.85,
+    "MaxSpeed": 42.781353,
+    "MaxTraction": 2.285,
+    "Acceleration": 0.2975,
+    "Agility": 0.6775,
     "MaxKnots": 0.0,
     "MoveResistance": 0.0
   },
@@ -23528,6 +24186,64 @@
     "MoveResistance": 0.0
   },
   {
+    "Name": "mule5",
+    "DisplayName": "Mule",
+    "Hash": 1343932732,
+    "SignedHash": 1343932732,
+    "HexHash": "0x501AC93C",
+    "DlcName": "mpsecurity",
+    "HandlingId": "MULE3",
+    "LayoutId": "LAYOUT_VAN_MULE5",
+    "Manufacturer": "MAIBATSU",
+    "ManufacturerDisplayName": "Maibatsu",
+    "Class": "COMMERCIAL",
+    "Type": "CAR",
+    "PlateType": "FRONT_AND_BACK_PLATES",
+    "DashboardType": "TRUCK",
+    "WheelType": "SPORT",
+    "Flags": [
+      "FLAG_BIG",
+      "FLAG_NO_BOOT",
+      "FLAG_AVOID_TURNS",
+      "FLAG_DELIVERY",
+      "FLAG_PEDS_CAN_STAND_ON_TOP",
+      "FLAG_BLOCK_FROM_ATTRACTOR_SCENARIO",
+      "FLAG_INTERIOR_BLOCKED_BY_BOOT"
+    ],
+    "Seats": 6,
+    "Price": 100,
+    "MonetaryValue": 25000,
+    "HasConvertibleRoof": false,
+    "HasSirens": false,
+    "Weapons": [],
+    "ModKits": [],
+    "DimensionsMin": {
+      "X": -1.3592803,
+      "Y": -4.2580543,
+      "Z": -1.2554744
+    },
+    "DimensionsMax": {
+      "X": 1.3592811,
+      "Y": 3.8194275,
+      "Z": 2.494321
+    },
+    "BoundingCenter": {
+      "X": 0.000296,
+      "Y": -0.230544,
+      "Z": 0.757636
+    },
+    "BoundingSphereRadius": 4.540906,
+    "Rewards": null,
+    "MaxBraking": 0.25,
+    "MaxBrakingMods": 0.35,
+    "MaxSpeed": 31.904655,
+    "MaxTraction": 1.5,
+    "Acceleration": 0.17,
+    "Agility": 0.55,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0
+  },
+  {
     "Name": "nebula",
     "DisplayName": "Nebula Turbo",
     "Hash": 3412338231,
@@ -25373,6 +26089,70 @@
     "MaxTraction": 1.6,
     "Acceleration": 0.18,
     "Agility": 0.56,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0
+  },
+  {
+    "Name": "patriot3",
+    "DisplayName": "Patriot Mil-Spec",
+    "Hash": 3624880708,
+    "SignedHash": -670086588,
+    "HexHash": "0xD80F4A44",
+    "DlcName": "mpsecurity",
+    "HandlingId": "PATRIOT3",
+    "LayoutId": "LAYOUT_STD_PATRIOT3",
+    "Manufacturer": "MAMMOTH",
+    "ManufacturerDisplayName": "Mammoth",
+    "Class": "OFF_ROAD",
+    "Type": "CAR",
+    "PlateType": "FRONT_AND_BACK_PLATES",
+    "DashboardType": "DUKES",
+    "WheelType": "SUV",
+    "Flags": [
+      "FLAG_AVERAGE_CAR",
+      "FLAG_POOR_CAR",
+      "FLAG_ALLOWS_RAPPEL",
+      "FLAG_IS_OFFROAD_VEHICLE",
+      "FLAG_IS_BULKY",
+      "FLAG_RECESSED_HEADLIGHT_CORONAS",
+      "FLAG_HAS_INTERIOR_EXTRAS",
+      "FLAG_USE_AIRCRAFT_STYLE_WEAPON_TARGETING",
+      "FLAG_HAS_BULLET_RESISTANT_GLASS"
+    ],
+    "Seats": 4,
+    "Price": 100,
+    "MonetaryValue": 50000,
+    "HasConvertibleRoof": false,
+    "HasSirens": false,
+    "Weapons": [
+      "VEHICLE_WEAPON_GRANGER2_MG"
+    ],
+    "ModKits": [
+      "479_patriot3_modkit"
+    ],
+    "DimensionsMin": {
+      "X": -1.4319042,
+      "Y": -2.5432045,
+      "Z": -0.71050394
+    },
+    "DimensionsMax": {
+      "X": 1.4319042,
+      "Y": 2.685097,
+      "Z": 1.5530512
+    },
+    "BoundingCenter": {
+      "X": 0.0,
+      "Y": 0.039003,
+      "Z": 0.389019
+    },
+    "BoundingSphereRadius": 3.085625,
+    "Rewards": null,
+    "MaxBraking": 0.485,
+    "MaxBrakingMods": 0.58500004,
+    "MaxSpeed": 37.676254,
+    "MaxTraction": 1.985,
+    "Acceleration": 0.23,
+    "Agility": 0.61,
     "MaxKnots": 0.0,
     "MoveResistance": 0.0
   },
@@ -28853,6 +29633,64 @@
     "MaxTraction": 2.195,
     "Acceleration": 0.335,
     "Agility": 0.71500003,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0
+  },
+  {
+    "Name": "reever",
+    "DisplayName": "Reever",
+    "Hash": 1993851908,
+    "SignedHash": 1993851908,
+    "HexHash": "0x76D7C404",
+    "DlcName": "mpsecurity",
+    "HandlingId": "REEVER",
+    "LayoutId": "LAYOUT_BIKE_SPORT",
+    "Manufacturer": "WESTERN",
+    "ManufacturerDisplayName": "Western",
+    "Class": "MOTORCYCLE",
+    "Type": "BIKE",
+    "PlateType": "BACK_PLATES",
+    "DashboardType": "RACE",
+    "WheelType": "BIKE",
+    "Flags": [
+      "FLAG_NO_BOOT",
+      "FLAG_IGNORE_ON_SIDE_CHECK",
+      "FLAG_POOR_CAR",
+      "FLAG_IS_OFFROAD_VEHICLE",
+      "FLAG_HEADLIGHTS_USE_ACTUAL_BONE_POS"
+    ],
+    "Seats": 2,
+    "Price": 100,
+    "MonetaryValue": 20000,
+    "HasConvertibleRoof": false,
+    "HasSirens": false,
+    "Weapons": [],
+    "ModKits": [
+      "491_reever_modkit"
+    ],
+    "DimensionsMin": {
+      "X": -0.3593211,
+      "Y": -1.0725927,
+      "Z": -0.49900165
+    },
+    "DimensionsMax": {
+      "X": 0.3593211,
+      "Y": 1.0586622,
+      "Z": 0.9140003
+    },
+    "BoundingCenter": {
+      "X": -1.7E-05,
+      "Y": 0.013073,
+      "Z": 0.123639
+    },
+    "BoundingSphereRadius": 1.095091,
+    "Rewards": null,
+    "MaxBraking": 1.3,
+    "MaxBrakingMods": 1.4,
+    "MaxSpeed": 50.04156,
+    "MaxTraction": 2.2,
+    "Acceleration": 0.4085,
+    "Agility": 0.7885,
     "MaxKnots": 0.0,
     "MoveResistance": 0.0
   },
@@ -33105,6 +33943,64 @@
     "MaxTraction": 2.15,
     "Acceleration": 0.2,
     "Agility": 0.58,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0
+  },
+  {
+    "Name": "shinobi",
+    "DisplayName": "Shinobi",
+    "Hash": 1353120668,
+    "SignedHash": 1353120668,
+    "HexHash": "0x50A6FB9C",
+    "DlcName": "mpsecurity",
+    "HandlingId": "SHINOBI",
+    "LayoutId": "LAYOUT_BIKE_SPORT",
+    "Manufacturer": "NAGASAKI",
+    "ManufacturerDisplayName": "Nagasaki",
+    "Class": "MOTORCYCLE",
+    "Type": "BIKE",
+    "PlateType": "BACK_PLATES",
+    "DashboardType": "SPORTBK",
+    "WheelType": "BIKE",
+    "Flags": [
+      "FLAG_NO_BOOT",
+      "FLAG_IGNORE_ON_SIDE_CHECK",
+      "FLAG_POOR_CAR",
+      "FLAG_IS_OFFROAD_VEHICLE",
+      "FLAG_HEADLIGHTS_USE_ACTUAL_BONE_POS"
+    ],
+    "Seats": 2,
+    "Price": 100,
+    "MonetaryValue": 20000,
+    "HasConvertibleRoof": false,
+    "HasSirens": false,
+    "Weapons": [],
+    "ModKits": [
+      "492_shinobi_modkit"
+    ],
+    "DimensionsMin": {
+      "X": -0.3856515,
+      "Y": -1.0057713,
+      "Z": -0.5496933
+    },
+    "DimensionsMax": {
+      "X": 0.3856515,
+      "Y": 1.0624027,
+      "Z": 0.85847825
+    },
+    "BoundingCenter": {
+      "X": 0.0,
+      "Y": -0.047454,
+      "Z": 0.145772
+    },
+    "BoundingSphereRadius": 1.182023,
+    "Rewards": null,
+    "MaxBraking": 1.25,
+    "MaxBrakingMods": 1.35,
+    "MaxSpeed": 52.13334,
+    "MaxTraction": 2.3,
+    "Acceleration": 0.3625,
+    "Agility": 0.7425,
     "MaxKnots": 0.0,
     "MoveResistance": 0.0
   },
@@ -43694,6 +44590,66 @@
     "MoveResistance": 0.0
   },
   {
+    "Name": "youga4",
+    "DisplayName": "Youga Custom",
+    "Hash": 1486521356,
+    "SignedHash": 1486521356,
+    "HexHash": "0x589A840C",
+    "DlcName": "mpsecurity",
+    "HandlingId": "YOUGA4",
+    "LayoutId": "LAYOUT_VAN_YOUGA4",
+    "Manufacturer": "VAPID",
+    "ManufacturerDisplayName": "Vapid",
+    "Class": "VAN",
+    "Type": "CAR",
+    "PlateType": "FRONT_AND_BACK_PLATES",
+    "DashboardType": "TRUCK",
+    "WheelType": "SUV",
+    "Flags": [
+      "FLAG_AVERAGE_CAR",
+      "FLAG_POOR_CAR",
+      "FLAG_ALLOWS_RAPPEL",
+      "FLAG_IS_OFFROAD_VEHICLE",
+      "FLAG_IS_BULKY",
+      "FLAG_RECESSED_HEADLIGHT_CORONAS",
+      "FLAG_HAS_INTERIOR_EXTRAS"
+    ],
+    "Seats": 4,
+    "Price": 100,
+    "MonetaryValue": 22000,
+    "HasConvertibleRoof": false,
+    "HasSirens": false,
+    "Weapons": [],
+    "ModKits": [
+      "0_default_modkit"
+    ],
+    "DimensionsMin": {
+      "X": -1.3020208,
+      "Y": -2.6198206,
+      "Z": -0.97056746
+    },
+    "DimensionsMax": {
+      "X": 1.3020203,
+      "Y": 2.4326077,
+      "Z": 1.0826186
+    },
+    "BoundingCenter": {
+      "X": 0.0,
+      "Y": -0.127964,
+      "Z": 0.14034
+    },
+    "BoundingSphereRadius": 2.929887,
+    "Rewards": null,
+    "MaxBraking": 0.32,
+    "MaxBrakingMods": 0.42,
+    "MaxSpeed": 36.641663,
+    "MaxTraction": 1.8,
+    "Acceleration": 0.158,
+    "Agility": 0.538,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0
+  },
+  {
     "Name": "z190",
     "DisplayName": "190z",
     "Hash": 838982985,
@@ -43750,6 +44706,66 @@
     "MaxTraction": 2.3,
     "Acceleration": 0.27,
     "Agility": 0.65000004,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0
+  },
+  {
+    "Name": "zeno",
+    "DisplayName": "Zeno",
+    "Hash": 655665811,
+    "SignedHash": 655665811,
+    "HexHash": "0x2714AA93",
+    "DlcName": "mpsecurity",
+    "HandlingId": "ZENO",
+    "LayoutId": "LAYOUT_LOW_ZENO",
+    "Manufacturer": "OVERFLOD",
+    "ManufacturerDisplayName": "Overflod",
+    "Class": "SUPER",
+    "Type": "CAR",
+    "PlateType": "BACK_PLATES",
+    "DashboardType": "BANSHEE",
+    "WheelType": "HIEND",
+    "Flags": [
+      "FLAG_SPORTS",
+      "FLAG_SPAWN_ON_TRAILER",
+      "FLAG_RICH_CAR",
+      "FLAG_NO_BROKEN_DOWN_SCENARIO",
+      "FLAG_RECESSED_TAILLIGHT_CORONAS",
+      "FLAG_HAS_INTERIOR_EXTRAS",
+      "FLAG_CAN_HAVE_NEONS"
+    ],
+    "Seats": 2,
+    "Price": 100,
+    "MonetaryValue": 35000,
+    "HasConvertibleRoof": false,
+    "HasSirens": false,
+    "Weapons": [],
+    "ModKits": [
+      "484_zeno_modkit"
+    ],
+    "DimensionsMin": {
+      "X": -1.755032,
+      "Y": -2.234233,
+      "Z": -0.786627
+    },
+    "DimensionsMax": {
+      "X": 1.7550304,
+      "Y": 2.5660768,
+      "Z": 1.0999198
+    },
+    "BoundingCenter": {
+      "X": -1E-06,
+      "Y": 0.187352,
+      "Z": 0.241888
+    },
+    "BoundingSphereRadius": 2.619892,
+    "Rewards": null,
+    "MaxBraking": 1.2,
+    "MaxBrakingMods": 1.3000001,
+    "MaxSpeed": 53.644936,
+    "MaxTraction": 2.75,
+    "Acceleration": 0.388,
+    "Agility": 0.768,
     "MaxKnots": 0.0,
     "MoveResistance": 0.0
   },

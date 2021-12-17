@@ -313,7 +313,7 @@
     "Locations": [
       {
         "InteriorId": 167169,
-        "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_cityw\\koreatown_01\\koreatown_metadata.rpf\\hei_kt1_03_interior_kt1_03_carpark_int.ymap",
+        "FilePath": "update\\update.rpf\\dlc_patch\\mpheist\\x64\\levels\\gta5\\_cityw\\koreatown_01\\koreatown_metadata.rpf\\hei_kt1_03_interior_kt1_03_carpark_int.ymap",
         "DlcName": "mpheist",
         "Position": {
           "X": -675.7747,
@@ -332,7 +332,7 @@
     "Locations": [
       {
         "InteriorId": 167425,
-        "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_cityw\\koreatown_01\\koreatown_metadata.rpf\\hei_kt1_04_interior_kt1_04_roadtunnel_int.ymap",
+        "FilePath": "update\\update.rpf\\dlc_patch\\mpheist\\x64\\levels\\gta5\\_cityw\\koreatown_01\\koreatown_metadata.rpf\\hei_kt1_04_interior_kt1_04_roadtunnel_int.ymap",
         "DlcName": "mpheist",
         "Position": {
           "X": -573.6203,
@@ -351,7 +351,7 @@
     "Locations": [
       {
         "InteriorId": 167681,
-        "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_cityw\\koreatown_01\\koreatown_metadata.rpf\\hei_kt1_09_interior_kt1_09_seoul_subway.ymap",
+        "FilePath": "update\\update.rpf\\dlc_patch\\mpheist\\x64\\levels\\gta5\\_cityw\\koreatown_01\\koreatown_metadata.rpf\\hei_kt1_09_interior_kt1_09_seoul_subway.ymap",
         "DlcName": "mpheist",
         "Position": {
           "X": -490.29465,
@@ -797,7 +797,7 @@
       },
       {
         "InteriorId": 198401,
-        "FilePath": "update\\x64\\dlcpacks\\mplowrider\\dlc.rpf\\x64\\levels\\gta5\\_citye\\scentral_01\\scentral_metadata.rpf\\lr_sc1_21_interior_v_gasstation_milo_.ymap",
+        "FilePath": "update\\update.rpf\\dlc_patch\\mplowrider\\x64\\levels\\gta5\\_citye\\scentral_01\\scentral_metadata.rpf\\lr_sc1_21_interior_v_gasstation_milo_.ymap",
         "DlcName": "mplowrider",
         "Position": {
           "X": -50.868835,
@@ -808,7 +808,7 @@
       },
       {
         "InteriorId": 167937,
-        "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_cityw\\koreatown_01\\koreatown_metadata.rpf\\hei_kt1_11_interior_v_gasstation_milo_.ymap",
+        "FilePath": "update\\update.rpf\\dlc_patch\\mpheist\\x64\\levels\\gta5\\_cityw\\koreatown_01\\koreatown_metadata.rpf\\hei_kt1_11_interior_v_gasstation_milo_.ymap",
         "DlcName": "mpheist",
         "Position": {
           "X": -713.71313,
@@ -944,7 +944,7 @@
     "Locations": [
       {
         "InteriorId": 197121,
-        "FilePath": "update\\x64\\dlcpacks\\mplowrider\\dlc.rpf\\x64\\levels\\gta5\\_citye\\scentral_01\\scentral_metadata.rpf\\lr_sc1_04_interior_v_strip3_milo_.ymap",
+        "FilePath": "update\\update.rpf\\dlc_patch\\mplowrider\\x64\\levels\\gta5\\_citye\\scentral_01\\scentral_metadata.rpf\\lr_sc1_04_interior_v_strip3_milo_.ymap",
         "DlcName": "mplowrider",
         "Position": {
           "X": 128.79303,
@@ -963,7 +963,7 @@
     "Locations": [
       {
         "InteriorId": 197377,
-        "FilePath": "update\\x64\\dlcpacks\\mplowrider\\dlc.rpf\\x64\\levels\\gta5\\_citye\\scentral_01\\scentral_metadata.rpf\\lr_sc1_06_interior_v_chopshop_milo_.ymap",
+        "FilePath": "update\\update.rpf\\dlc_patch\\mplowrider\\x64\\levels\\gta5\\_citye\\scentral_01\\scentral_metadata.rpf\\lr_sc1_06_interior_v_chopshop_milo_.ymap",
         "DlcName": "mplowrider",
         "Position": {
           "X": 479.05682,
@@ -982,7 +982,7 @@
     "Locations": [
       {
         "InteriorId": 197889,
-        "FilePath": "update\\x64\\dlcpacks\\mplowrider\\dlc.rpf\\x64\\levels\\gta5\\_citye\\scentral_01\\scentral_metadata.rpf\\lr_sc1_11_interior_v_franklins_milo_.ymap",
+        "FilePath": "update\\update.rpf\\dlc_patch\\mplowrider\\x64\\levels\\gta5\\_citye\\scentral_01\\scentral_metadata.rpf\\lr_sc1_11_interior_v_franklins_milo_.ymap",
         "DlcName": "mplowrider",
         "Position": {
           "X": -11.829147,
@@ -1001,7 +1001,7 @@
     "Locations": [
       {
         "InteriorId": 194817,
-        "FilePath": "update\\x64\\dlcpacks\\mplowrider\\dlc.rpf\\x64\\levels\\gta5\\_citye\\scentral_01\\scentral_metadata.rpf\\lr_sc1_rd_interior_sc1_rd_inttun1.ymap",
+        "FilePath": "update\\update.rpf\\dlc_patch\\mplowrider\\x64\\levels\\gta5\\_citye\\scentral_01\\scentral_metadata.rpf\\lr_sc1_rd_interior_sc1_rd_inttun1.ymap",
         "DlcName": "mplowrider",
         "Position": {
           "X": 319.32114,
@@ -1020,7 +1020,7 @@
     "Locations": [
       {
         "InteriorId": 196353,
-        "FilePath": "update\\x64\\dlcpacks\\mplowrider\\dlc.rpf\\x64\\levels\\gta5\\_citye\\scentral_01\\scentral_metadata.rpf\\lr_sc1_rd_interior_sc1_rd_inttun2.ymap",
+        "FilePath": "update\\update.rpf\\dlc_patch\\mplowrider\\x64\\levels\\gta5\\_citye\\scentral_01\\scentral_metadata.rpf\\lr_sc1_rd_interior_sc1_rd_inttun2.ymap",
         "DlcName": "mplowrider",
         "Position": {
           "X": 406.8031,
@@ -1039,7 +1039,7 @@
     "Locations": [
       {
         "InteriorId": 195329,
-        "FilePath": "update\\x64\\dlcpacks\\mplowrider\\dlc.rpf\\x64\\levels\\gta5\\_citye\\scentral_01\\scentral_metadata.rpf\\lr_sc1_rd_interior_sc1_rd_inttun2b.ymap",
+        "FilePath": "update\\update.rpf\\dlc_patch\\mplowrider\\x64\\levels\\gta5\\_citye\\scentral_01\\scentral_metadata.rpf\\lr_sc1_rd_interior_sc1_rd_inttun2b.ymap",
         "DlcName": "mplowrider",
         "Position": {
           "X": 465.13873,
@@ -1058,7 +1058,7 @@
     "Locations": [
       {
         "InteriorId": 195841,
-        "FilePath": "update\\x64\\dlcpacks\\mplowrider\\dlc.rpf\\x64\\levels\\gta5\\_citye\\scentral_01\\scentral_metadata.rpf\\lr_sc1_rd_interior_sc1_rd_inttun2b_end.ymap",
+        "FilePath": "update\\update.rpf\\dlc_patch\\mplowrider\\x64\\levels\\gta5\\_citye\\scentral_01\\scentral_metadata.rpf\\lr_sc1_rd_interior_sc1_rd_inttun2b_end.ymap",
         "DlcName": "mplowrider",
         "Position": {
           "X": 513.91406,
@@ -1077,7 +1077,7 @@
     "Locations": [
       {
         "InteriorId": 196097,
-        "FilePath": "update\\x64\\dlcpacks\\mplowrider\\dlc.rpf\\x64\\levels\\gta5\\_citye\\scentral_01\\scentral_metadata.rpf\\lr_sc1_rd_interior_sc1_rd_inttun3.ymap",
+        "FilePath": "update\\update.rpf\\dlc_patch\\mplowrider\\x64\\levels\\gta5\\_citye\\scentral_01\\scentral_metadata.rpf\\lr_sc1_rd_interior_sc1_rd_inttun3.ymap",
         "DlcName": "mplowrider",
         "Position": {
           "X": 434.30133,
@@ -1096,7 +1096,7 @@
     "Locations": [
       {
         "InteriorId": 195073,
-        "FilePath": "update\\x64\\dlcpacks\\mplowrider\\dlc.rpf\\x64\\levels\\gta5\\_citye\\scentral_01\\scentral_metadata.rpf\\lr_sc1_rd_interior_sc1_rd_inttun3b.ymap",
+        "FilePath": "update\\update.rpf\\dlc_patch\\mplowrider\\x64\\levels\\gta5\\_citye\\scentral_01\\scentral_metadata.rpf\\lr_sc1_rd_interior_sc1_rd_inttun3b.ymap",
         "DlcName": "mplowrider",
         "Position": {
           "X": 512.41156,
@@ -1115,7 +1115,7 @@
     "Locations": [
       {
         "InteriorId": 195585,
-        "FilePath": "update\\x64\\dlcpacks\\mplowrider\\dlc.rpf\\x64\\levels\\gta5\\_citye\\scentral_01\\scentral_metadata.rpf\\lr_sc1_rd_interior_sc1_rd_inttun3b_end.ymap",
+        "FilePath": "update\\update.rpf\\dlc_patch\\mplowrider\\x64\\levels\\gta5\\_citye\\scentral_01\\scentral_metadata.rpf\\lr_sc1_rd_interior_sc1_rd_inttun3b_end.ymap",
         "DlcName": "mplowrider",
         "Position": {
           "X": 569.67334,
@@ -1134,7 +1134,7 @@
     "Locations": [
       {
         "InteriorId": 194561,
-        "FilePath": "update\\x64\\dlcpacks\\mplowrider\\dlc.rpf\\x64\\levels\\gta5\\_citye\\scentral_01\\scentral_metadata.rpf\\lr_sc1_rd_interior_sc1_rd_inttunshort.ymap",
+        "FilePath": "update\\update.rpf\\dlc_patch\\mplowrider\\x64\\levels\\gta5\\_citye\\scentral_01\\scentral_metadata.rpf\\lr_sc1_rd_interior_sc1_rd_inttunshort.ymap",
         "DlcName": "mplowrider",
         "Position": {
           "X": 558.50977,
@@ -1968,6 +1968,25 @@
     "TotalEntitiesCount": 9
   },
   {
+    "Name": "vbca_tunnel1",
+    "FilePath": "x64m.rpf\\levels\\gta5\\_cityw\\venice_01\\venice_metadata.rpf\\vb_ca_interior_vbca_tunnel1.ytyp",
+    "DlcName": "basegame",
+    "Locations": [
+      {
+        "InteriorId": null,
+        "FilePath": "update\\x64\\dlcpacks\\patchday2ng\\dlc.rpf\\x64\\levels\\gta5\\_cityw\\venice_01\\venice_metadata.rpf\\vb_ca_interior_vbca_tunnel1.ymap",
+        "DlcName": "patchday2ng",
+        "Position": {
+          "X": -1680.3511,
+          "Y": -928.96185,
+          "Z": -2E-06
+        },
+        "InteriorProxiesFilePath": null
+      }
+    ],
+    "TotalEntitiesCount": 35
+  },
+  {
     "Name": "vbca_tunnel2",
     "FilePath": "x64m.rpf\\levels\\gta5\\_cityw\\venice_01\\venice_metadata.rpf\\vb_ca_interior_vbca_tunnel2.ytyp",
     "DlcName": "basegame",
@@ -2004,25 +2023,6 @@
       }
     ],
     "TotalEntitiesCount": 19
-  },
-  {
-    "Name": "vbca_tunnel4",
-    "FilePath": "x64m.rpf\\levels\\gta5\\_cityw\\venice_01\\venice_metadata.rpf\\vb_ca_interior_vbca_tunnel4.ytyp",
-    "DlcName": "basegame",
-    "Locations": [
-      {
-        "InteriorId": null,
-        "FilePath": "update\\x64\\dlcpacks\\patchday2ng\\dlc.rpf\\x64\\levels\\gta5\\_cityw\\venice_01\\venice_metadata.rpf\\vb_ca_interior_vbca_tunnel4.ymap",
-        "DlcName": "patchday2ng",
-        "Position": {
-          "X": -1316.896,
-          "Y": -843.51514,
-          "Z": -2E-06
-        },
-        "InteriorProxiesFilePath": null
-      }
-    ],
-    "TotalEntitiesCount": 16
   },
   {
     "Name": "vbca_tunnel5",
@@ -2501,7 +2501,7 @@
       },
       {
         "InteriorId": 198913,
-        "FilePath": "update\\x64\\dlcpacks\\mplowrider\\dlc.rpf\\x64\\levels\\gta5\\_citye\\scentral_01\\scentral_metadata.rpf\\lr_sc1_23_interior_v_firedept_milo_.ymap",
+        "FilePath": "update\\update.rpf\\dlc_patch\\mplowrider\\x64\\levels\\gta5\\_citye\\scentral_01\\scentral_metadata.rpf\\lr_sc1_23_interior_v_firedept_milo_.ymap",
         "DlcName": "mplowrider",
         "Position": {
           "X": 203.0,
@@ -2514,23 +2514,23 @@
     "TotalEntitiesCount": 106
   },
   {
-    "Name": "vbca_tunnel1",
-    "FilePath": "x64m.rpf\\levels\\gta5\\_cityw\\venice_01\\venice_metadata.rpf\\vb_ca_interior_vbca_tunnel1.ytyp",
+    "Name": "vbca_tunnel4",
+    "FilePath": "x64m.rpf\\levels\\gta5\\_cityw\\venice_01\\venice_metadata.rpf\\vb_ca_interior_vbca_tunnel4.ytyp",
     "DlcName": "basegame",
     "Locations": [
       {
         "InteriorId": null,
-        "FilePath": "update\\x64\\dlcpacks\\patchday2ng\\dlc.rpf\\x64\\levels\\gta5\\_cityw\\venice_01\\venice_metadata.rpf\\vb_ca_interior_vbca_tunnel1.ymap",
+        "FilePath": "update\\x64\\dlcpacks\\patchday2ng\\dlc.rpf\\x64\\levels\\gta5\\_cityw\\venice_01\\venice_metadata.rpf\\vb_ca_interior_vbca_tunnel4.ymap",
         "DlcName": "patchday2ng",
         "Position": {
-          "X": -1680.3511,
-          "Y": -928.96185,
+          "X": -1316.896,
+          "Y": -843.51514,
           "Z": -2E-06
         },
         "InteriorProxiesFilePath": null
       }
     ],
-    "TotalEntitiesCount": 35
+    "TotalEntitiesCount": 16
   },
   {
     "Name": "v_foundry",
@@ -4327,6 +4327,25 @@
     "TotalEntitiesCount": 33
   },
   {
+    "Name": "v_lesters",
+    "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_54.rpf\\v_int_54.ytyp",
+    "DlcName": "basegame",
+    "Locations": [
+      {
+        "InteriorId": 250881,
+        "FilePath": "update\\x64\\dlcpacks\\mpbiker\\dlc.rpf\\x64\\levels\\gta5\\_citye\\indust_01\\indust_01_metadata.rpf\\bkr_id1_25_interior_v_lesters_milo_.ymap",
+        "DlcName": "mpbiker",
+        "Position": {
+          "X": 1272.9784,
+          "Y": -1719.1414,
+          "Z": 53.62252
+        },
+        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpbiker\\dlc.rpf\\common\\data\\interiorproxies.meta"
+      }
+    ],
+    "TotalEntitiesCount": 59
+  },
+  {
     "Name": "metro_newwalk1",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_metro_subway1.rpf\\v_int_metro_subway1.ytyp",
     "DlcName": "basegame",
@@ -4363,25 +4382,6 @@
       }
     ],
     "TotalEntitiesCount": 38
-  },
-  {
-    "Name": "v_lesters",
-    "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_54.rpf\\v_int_54.ytyp",
-    "DlcName": "basegame",
-    "Locations": [
-      {
-        "InteriorId": 250881,
-        "FilePath": "update\\x64\\dlcpacks\\mpbiker\\dlc.rpf\\x64\\levels\\gta5\\_citye\\indust_01\\indust_01_metadata.rpf\\bkr_id1_25_interior_v_lesters_milo_.ymap",
-        "DlcName": "mpbiker",
-        "Position": {
-          "X": 1272.9784,
-          "Y": -1719.1414,
-          "Z": 53.62252
-        },
-        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpbiker\\dlc.rpf\\common\\data\\interiorproxies.meta"
-      }
-    ],
-    "TotalEntitiesCount": 59
   },
   {
     "Name": "metro_map_join_1",
@@ -5404,7 +5404,7 @@
       },
       {
         "InteriorId": 196865,
-        "FilePath": "update\\x64\\dlcpacks\\mplowrider\\dlc.rpf\\x64\\levels\\gta5\\_citye\\scentral_01\\scentral_metadata.rpf\\lr_sc1_03_interior_v_shop_247_milo_.ymap",
+        "FilePath": "update\\update.rpf\\dlc_patch\\mplowrider\\x64\\levels\\gta5\\_citye\\scentral_01\\scentral_metadata.rpf\\lr_sc1_03_interior_v_shop_247_milo_.ymap",
         "DlcName": "mplowrider",
         "Position": {
           "X": 27.248524,
@@ -5585,7 +5585,7 @@
       },
       {
         "InteriorId": 168193,
-        "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_cityw\\koreatown_01\\koreatown_metadata.rpf\\hei_kt1_11_interior_v_gun2_milo_.ymap",
+        "FilePath": "update\\update.rpf\\dlc_patch\\mpheist\\x64\\levels\\gta5\\_cityw\\koreatown_01\\koreatown_metadata.rpf\\hei_kt1_11_interior_v_gun2_milo_.ymap",
         "DlcName": "mpheist",
         "Position": {
           "X": -663.1717,
@@ -5681,7 +5681,7 @@
       },
       {
         "InteriorId": 198657,
-        "FilePath": "update\\x64\\dlcpacks\\mplowrider\\dlc.rpf\\x64\\levels\\gta5\\_citye\\scentral_01\\scentral_metadata.rpf\\lr_sc1_23_interior_v_barbers_milo_.ymap",
+        "FilePath": "update\\update.rpf\\dlc_patch\\mplowrider\\x64\\levels\\gta5\\_citye\\scentral_01\\scentral_metadata.rpf\\lr_sc1_23_interior_v_barbers_milo_.ymap",
         "DlcName": "mplowrider",
         "Position": {
           "X": 136.93701,
@@ -6469,23 +6469,23 @@
     "TotalEntitiesCount": 134
   },
   {
-    "Name": "dt1_03_carpark",
-    "FilePath": "x64i.rpf\\levels\\gta5\\_citye\\downtown_01\\downtown_01_metadata.rpf\\dt1_03_interior_dt1_03_carpark.ytyp",
+    "Name": "v_31_tun_09",
+    "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_31.rpf\\v_int_31.ytyp",
     "DlcName": "basegame",
     "Locations": [
       {
         "InteriorId": null,
-        "FilePath": "update\\x64\\dlcpacks\\patchday2ng\\dlc.rpf\\x64\\levels\\gta5\\_citye\\downtown_01\\downtown_01_metadata.rpf\\dt1_03_interior_dt1_03_carpark.ymap",
-        "DlcName": "patchday2ng",
+        "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_tunnels_metadata.rpf\\v_tunnels_interior_v_31_tun_09_milo_.ymap",
+        "DlcName": "basegame",
         "Position": {
-          "X": -16.295849,
-          "Y": -684.0385,
-          "Z": 33.508316
+          "X": 421.81955,
+          "Y": -551.86365,
+          "Z": 6.625366
         },
         "InteriorProxiesFilePath": null
       }
     ],
-    "TotalEntitiesCount": 38
+    "TotalEntitiesCount": 29
   },
   {
     "Name": "v_31_tun_07",
@@ -6524,25 +6524,6 @@
       }
     ],
     "TotalEntitiesCount": 28
-  },
-  {
-    "Name": "v_31_tun_09",
-    "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_31.rpf\\v_int_31.ytyp",
-    "DlcName": "basegame",
-    "Locations": [
-      {
-        "InteriorId": null,
-        "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_tunnels_metadata.rpf\\v_tunnels_interior_v_31_tun_09_milo_.ymap",
-        "DlcName": "basegame",
-        "Position": {
-          "X": 421.81955,
-          "Y": -551.86365,
-          "Z": 6.625366
-        },
-        "InteriorProxiesFilePath": null
-      }
-    ],
-    "TotalEntitiesCount": 29
   },
   {
     "Name": "v_31_tun_10",
@@ -6716,111 +6697,23 @@
     "TotalEntitiesCount": 37
   },
   {
-    "Name": "metro_30",
-    "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_sections.rpf\\v_metro_sections.ytyp",
+    "Name": "dt1_03_carpark",
+    "FilePath": "x64i.rpf\\levels\\gta5\\_citye\\downtown_01\\downtown_01_metadata.rpf\\dt1_03_interior_dt1_03_carpark.ytyp",
     "DlcName": "basegame",
     "Locations": [
       {
         "InteriorId": null,
-        "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_30_milo_.ymap",
-        "DlcName": "basegame",
+        "FilePath": "update\\x64\\dlcpacks\\patchday2ng\\dlc.rpf\\x64\\levels\\gta5\\_citye\\downtown_01\\downtown_01_metadata.rpf\\dt1_03_interior_dt1_03_carpark.ymap",
+        "DlcName": "patchday2ng",
         "Position": {
-          "X": 0.645524,
-          "Y": -526.83154,
-          "Z": 20.497313
-        },
-        "InteriorProxiesFilePath": null
-      },
-      {
-        "InteriorId": null,
-        "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_30_milo__1.ymap",
-        "DlcName": "basegame",
-        "Position": {
-          "X": -952.3157,
-          "Y": -214.055,
-          "Z": 21.782415
-        },
-        "InteriorProxiesFilePath": null
-      },
-      {
-        "InteriorId": null,
-        "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_30_milo__2.ymap",
-        "DlcName": "basegame",
-        "Position": {
-          "X": -1014.96387,
-          "Y": -220.65947,
-          "Z": 21.782404
-        },
-        "InteriorProxiesFilePath": null
-      },
-      {
-        "InteriorId": null,
-        "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_30_milo__3.ymap",
-        "DlcName": "basegame",
-        "Position": {
-          "X": -793.23914,
-          "Y": -710.52734,
-          "Z": 13.641124
-        },
-        "InteriorProxiesFilePath": null
-      },
-      {
-        "InteriorId": null,
-        "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_30_milo__4.ymap",
-        "DlcName": "basegame",
-        "Position": {
-          "X": -768.5912,
-          "Y": -701.77924,
-          "Z": 13.641124
-        },
-        "InteriorProxiesFilePath": null
-      },
-      {
-        "InteriorId": null,
-        "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_30_milo__5.ymap",
-        "DlcName": "basegame",
-        "Position": {
-          "X": -721.36206,
-          "Y": -1790.4333,
-          "Z": 2.097135
-        },
-        "InteriorProxiesFilePath": null
-      },
-      {
-        "InteriorId": null,
-        "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_30_milo__6.ymap",
-        "DlcName": "basegame",
-        "Position": {
-          "X": -916.5933,
-          "Y": -2571.0688,
-          "Z": -5.578964
-        },
-        "InteriorProxiesFilePath": null
-      },
-      {
-        "InteriorId": null,
-        "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_30_milo__7.ymap",
-        "DlcName": "basegame",
-        "Position": {
-          "X": -882.8119,
-          "Y": -2430.5261,
-          "Z": -9.901673
-        },
-        "InteriorProxiesFilePath": null
-      },
-      {
-        "InteriorId": null,
-        "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_30_milo__8.ymap",
-        "DlcName": "basegame",
-        "Position": {
-          "X": -876.83,
-          "Y": -2459.1057,
-          "Z": -9.901684
+          "X": -16.295849,
+          "Y": -684.0385,
+          "Z": 33.508316
         },
         "InteriorProxiesFilePath": null
       }
     ],
-    "TotalEntitiesCount": 17
+    "TotalEntitiesCount": 38
   },
   {
     "Name": "v_clotheslo",
@@ -6840,7 +6733,7 @@
       },
       {
         "InteriorId": 198145,
-        "FilePath": "update\\x64\\dlcpacks\\mplowrider\\dlc.rpf\\x64\\levels\\gta5\\_citye\\scentral_01\\scentral_metadata.rpf\\lr_sc1_11_interior_v_clotheslo_milo_.ymap",
+        "FilePath": "update\\update.rpf\\dlc_patch\\mplowrider\\x64\\levels\\gta5\\_citye\\scentral_01\\scentral_metadata.rpf\\lr_sc1_11_interior_v_clotheslo_milo_.ymap",
         "DlcName": "mplowrider",
         "Position": {
           "X": 75.707886,
@@ -7006,25 +6899,6 @@
     "TotalEntitiesCount": 179
   },
   {
-    "Name": "dt1_rd1_tun3",
-    "FilePath": "x64i.rpf\\levels\\gta5\\_citye\\downtown_01\\downtown_01_metadata.rpf\\dt1_rd1_interior_dt1_rd1_tun3.ytyp",
-    "DlcName": "basegame",
-    "Locations": [
-      {
-        "InteriorId": null,
-        "FilePath": "update\\x64\\dlcpacks\\patchday2ng\\dlc.rpf\\x64\\levels\\gta5\\_citye\\downtown_01\\downtown_01_metadata.rpf\\dt1_rd1_interior_dt1_rd1_tun3.ymap",
-        "DlcName": "patchday2ng",
-        "Position": {
-          "X": 274.24216,
-          "Y": -636.4041,
-          "Z": 31.788013
-        },
-        "InteriorProxiesFilePath": null
-      }
-    ],
-    "TotalEntitiesCount": 8
-  },
-  {
     "Name": "v_office_lobby",
     "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_48.rpf\\v_int_48.ytyp",
     "DlcName": "basegame",
@@ -7044,23 +6918,111 @@
     "TotalEntitiesCount": 91
   },
   {
-    "Name": "v_policehub",
-    "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_20.rpf\\v_int_20.ytyp",
+    "Name": "metro_30",
+    "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_sections.rpf\\v_metro_sections.ytyp",
     "DlcName": "basegame",
     "Locations": [
       {
         "InteriorId": null,
-        "FilePath": "update\\x64\\dlcpacks\\patchday2ng\\dlc.rpf\\x64\\levels\\gta5\\_citye\\downtown_01\\downtown_01_metadata.rpf\\dt1_19_interior_v_policehub_milo_.ymap",
-        "DlcName": "patchday2ng",
+        "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_30_milo_.ymap",
+        "DlcName": "basegame",
         "Position": {
-          "X": 442.42957,
-          "Y": -985.0669,
-          "Z": 29.885286
+          "X": 0.645524,
+          "Y": -526.83154,
+          "Z": 20.497313
+        },
+        "InteriorProxiesFilePath": null
+      },
+      {
+        "InteriorId": null,
+        "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_30_milo__1.ymap",
+        "DlcName": "basegame",
+        "Position": {
+          "X": -952.3157,
+          "Y": -214.055,
+          "Z": 21.782415
+        },
+        "InteriorProxiesFilePath": null
+      },
+      {
+        "InteriorId": null,
+        "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_30_milo__2.ymap",
+        "DlcName": "basegame",
+        "Position": {
+          "X": -1014.96387,
+          "Y": -220.65947,
+          "Z": 21.782404
+        },
+        "InteriorProxiesFilePath": null
+      },
+      {
+        "InteriorId": null,
+        "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_30_milo__3.ymap",
+        "DlcName": "basegame",
+        "Position": {
+          "X": -793.23914,
+          "Y": -710.52734,
+          "Z": 13.641124
+        },
+        "InteriorProxiesFilePath": null
+      },
+      {
+        "InteriorId": null,
+        "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_30_milo__4.ymap",
+        "DlcName": "basegame",
+        "Position": {
+          "X": -768.5912,
+          "Y": -701.77924,
+          "Z": 13.641124
+        },
+        "InteriorProxiesFilePath": null
+      },
+      {
+        "InteriorId": null,
+        "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_30_milo__5.ymap",
+        "DlcName": "basegame",
+        "Position": {
+          "X": -721.36206,
+          "Y": -1790.4333,
+          "Z": 2.097135
+        },
+        "InteriorProxiesFilePath": null
+      },
+      {
+        "InteriorId": null,
+        "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_30_milo__6.ymap",
+        "DlcName": "basegame",
+        "Position": {
+          "X": -916.5933,
+          "Y": -2571.0688,
+          "Z": -5.578964
+        },
+        "InteriorProxiesFilePath": null
+      },
+      {
+        "InteriorId": null,
+        "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_30_milo__7.ymap",
+        "DlcName": "basegame",
+        "Position": {
+          "X": -882.8119,
+          "Y": -2430.5261,
+          "Z": -9.901673
+        },
+        "InteriorProxiesFilePath": null
+      },
+      {
+        "InteriorId": null,
+        "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_metro_metadata.rpf\\v_metro_interior_metro_30_milo__8.ymap",
+        "DlcName": "basegame",
+        "Position": {
+          "X": -876.83,
+          "Y": -2459.1057,
+          "Z": -9.901684
         },
         "InteriorProxiesFilePath": null
       }
     ],
-    "TotalEntitiesCount": 309
+    "TotalEntitiesCount": 17
   },
   {
     "Name": "v_gun",
@@ -7091,6 +7053,44 @@
       }
     ],
     "TotalEntitiesCount": 178
+  },
+  {
+    "Name": "v_policehub",
+    "FilePath": "x64h.rpf\\levels\\gta5\\interiors\\v_int_20.rpf\\v_int_20.ytyp",
+    "DlcName": "basegame",
+    "Locations": [
+      {
+        "InteriorId": null,
+        "FilePath": "update\\x64\\dlcpacks\\patchday2ng\\dlc.rpf\\x64\\levels\\gta5\\_citye\\downtown_01\\downtown_01_metadata.rpf\\dt1_19_interior_v_policehub_milo_.ymap",
+        "DlcName": "patchday2ng",
+        "Position": {
+          "X": 442.42957,
+          "Y": -985.0669,
+          "Z": 29.885286
+        },
+        "InteriorProxiesFilePath": null
+      }
+    ],
+    "TotalEntitiesCount": 309
+  },
+  {
+    "Name": "dt1_rd1_tun3",
+    "FilePath": "x64i.rpf\\levels\\gta5\\_citye\\downtown_01\\downtown_01_metadata.rpf\\dt1_rd1_interior_dt1_rd1_tun3.ytyp",
+    "DlcName": "basegame",
+    "Locations": [
+      {
+        "InteriorId": null,
+        "FilePath": "update\\x64\\dlcpacks\\patchday2ng\\dlc.rpf\\x64\\levels\\gta5\\_citye\\downtown_01\\downtown_01_metadata.rpf\\dt1_rd1_interior_dt1_rd1_tun3.ymap",
+        "DlcName": "patchday2ng",
+        "Position": {
+          "X": 274.24216,
+          "Y": -636.4041,
+          "Z": 31.788013
+        },
+        "InteriorProxiesFilePath": null
+      }
+    ],
+    "TotalEntitiesCount": 8
   },
   {
     "Name": "v_genbank",
@@ -7286,23 +7286,238 @@
     "TotalEntitiesCount": 14
   },
   {
-    "Name": "xm_x17dlc_int_base_loop",
-    "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_base.rpf\\xm_x17dlc_int_base.ytyp",
+    "Name": "xm_x17dlc_int_sub",
+    "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_sub.rpf\\xm_x17dlc_int_sub.ytyp",
     "DlcName": "mpchristmas2017",
     "Locations": [
       {
-        "InteriorId": 262657,
-        "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_placement.rpf\\xm_x17dlc_int_placement_interior_1_x17dlc_int_base_loop_milo_.ymap",
+        "InteriorId": 271105,
+        "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_placement.rpf\\xm_x17dlc_int_placement_interior_8_x17dlc_int_sub_milo_.ymap",
         "DlcName": "mpchristmas2017",
         "Position": {
-          "X": 252.06165,
-          "Y": 5972.1245,
-          "Z": -159.10199
+          "X": 512.76855,
+          "Y": 4851.9805,
+          "Z": -62.90245
         },
         "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\common\\data\\interiorproxies.meta"
       }
     ],
-    "TotalEntitiesCount": 266
+    "TotalEntitiesCount": 612
+  },
+  {
+    "Name": "xm_x17dlc_int_silo_02",
+    "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_silo.rpf\\xm_x17dlc_int_silo.ytyp",
+    "DlcName": "mpchristmas2017",
+    "Locations": [
+      {
+        "InteriorId": 270849,
+        "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_placement.rpf\\xm_x17dlc_int_placement_interior_7_x17dlc_int_silo_02_milo_.ymap",
+        "DlcName": "mpchristmas2017",
+        "Position": {
+          "X": 305.01584,
+          "Y": 6297.9375,
+          "Z": -159.80974
+        },
+        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\common\\data\\interiorproxies.meta"
+      }
+    ],
+    "TotalEntitiesCount": 208
+  },
+  {
+    "Name": "xm_x17dlc_int_silo_01",
+    "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_silo.rpf\\xm_x17dlc_int_silo.ytyp",
+    "DlcName": "mpchristmas2017",
+    "Locations": [
+      {
+        "InteriorId": 270593,
+        "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_placement.rpf\\xm_x17dlc_int_placement_interior_6_x17dlc_int_silo_01_milo_.ymap",
+        "DlcName": "mpchristmas2017",
+        "Position": {
+          "X": 361.28015,
+          "Y": 6306.3564,
+          "Z": -159.46695
+        },
+        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\common\\data\\interiorproxies.meta"
+      }
+    ],
+    "TotalEntitiesCount": 446
+  },
+  {
+    "Name": "xm_x17dlc_int_facility2",
+    "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_facility2.rpf\\xm_x17dlc_int_facility2.ytyp",
+    "DlcName": "mpchristmas2017",
+    "Locations": [
+      {
+        "InteriorId": 270337,
+        "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_placement.rpf\\xm_x17dlc_int_placement_interior_5_x17dlc_int_facility2_milo_.ymap",
+        "DlcName": "mpchristmas2017",
+        "Position": {
+          "X": 2168.0894,
+          "Y": 2920.8896,
+          "Z": -85.80048
+        },
+        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\common\\data\\interiorproxies.meta"
+      }
+    ],
+    "TotalEntitiesCount": 658
+  },
+  {
+    "Name": "xm_x17dlc_int_facility",
+    "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_facility.rpf\\xm_x17dlc_int_facility.ytyp",
+    "DlcName": "mpchristmas2017",
+    "Locations": [
+      {
+        "InteriorId": 270081,
+        "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_placement.rpf\\xm_x17dlc_int_placement_interior_4_x17dlc_int_facility_milo_.ymap",
+        "DlcName": "mpchristmas2017",
+        "Position": {
+          "X": 2047.0,
+          "Y": 2942.0005,
+          "Z": -62.90245
+        },
+        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\common\\data\\interiorproxies.meta"
+      }
+    ],
+    "TotalEntitiesCount": 1099
+  },
+  {
+    "Name": "xm_x17dlc_int_base",
+    "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_base.rpf\\xm_x17dlc_int_base.ytyp",
+    "DlcName": "mpchristmas2017",
+    "Locations": [
+      {
+        "InteriorId": 268289,
+        "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_placement.rpf\\xm_x17dlc_int_placement_interior_3_x17dlc_int_base_milo_.ymap",
+        "DlcName": "mpchristmas2017",
+        "Position": {
+          "X": 550.94836,
+          "Y": 5939.262,
+          "Z": -157.21588
+        },
+        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\common\\data\\interiorproxies.meta"
+      }
+    ],
+    "TotalEntitiesCount": 171
+  },
+  {
+    "Name": "xm_x17dlc_int_tun_flat_slope",
+    "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_base.rpf\\xm_x17dlc_int_base.ytyp",
+    "DlcName": "mpchristmas2017",
+    "Locations": [
+      {
+        "InteriorId": 263425,
+        "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_placement.rpf\\xm_x17dlc_int_placement_interior_12_x17dlc_int_tun_flat_slope_milo_.ymap",
+        "DlcName": "mpchristmas2017",
+        "Position": {
+          "X": 1090.4023,
+          "Y": 5559.2935,
+          "Z": -98.32186
+        },
+        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\common\\data\\interiorproxies.meta"
+      },
+      {
+        "InteriorId": 265217,
+        "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_placement.rpf\\xm_x17dlc_int_placement_interior_19_x17dlc_int_tun_flat_slope_milo_.ymap",
+        "DlcName": "mpchristmas2017",
+        "Position": {
+          "X": 1248.2026,
+          "Y": 5276.2075,
+          "Z": -77.3218
+        },
+        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\common\\data\\interiorproxies.meta"
+      },
+      {
+        "InteriorId": 265729,
+        "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_placement.rpf\\xm_x17dlc_int_placement_interior_20_x17dlc_int_tun_flat_slope_milo_.ymap",
+        "DlcName": "mpchristmas2017",
+        "Position": {
+          "X": 1261.1401,
+          "Y": 4808.6694,
+          "Z": -36.32168
+        },
+        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\common\\data\\interiorproxies.meta"
+      }
+    ],
+    "TotalEntitiesCount": 4
+  },
+  {
+    "Name": "xm_x17dlc_int_tun_entry",
+    "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_base.rpf\\xm_x17dlc_int_base.ytyp",
+    "DlcName": "mpchristmas2017",
+    "Locations": [
+      {
+        "InteriorId": 269825,
+        "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_placement.rpf\\xm_x17dlc_int_placement_interior_35_x17dlc_int_tun_entry_milo_.ymap",
+        "DlcName": "mpchristmas2017",
+        "Position": {
+          "X": 1256.18,
+          "Y": 4789.0815,
+          "Z": -37.970703
+        },
+        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\common\\data\\interiorproxies.meta"
+      }
+    ],
+    "TotalEntitiesCount": 4
+  },
+  {
+    "Name": "xm_x17dlc_int_01",
+    "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_01.rpf\\xm_x17dlc_int_01.ytyp",
+    "DlcName": "mpchristmas2017",
+    "Locations": [
+      {
+        "InteriorId": 262145,
+        "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_placement.rpf\\xm_x17dlc_int_placement_interior_9_x17dlc_int_01_milo_.ymap",
+        "DlcName": "mpchristmas2017",
+        "Position": {
+          "X": 520.0,
+          "Y": 4750.0,
+          "Z": -70.0
+        },
+        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\common\\data\\interiorproxies.meta"
+      }
+    ],
+    "TotalEntitiesCount": 16
+  },
+  {
+    "Name": "xm_x17dlc_int_tun_straight",
+    "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_base.rpf\\xm_x17dlc_int_base.ytyp",
+    "DlcName": "mpchristmas2017",
+    "Locations": [
+      {
+        "InteriorId": 262913,
+        "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_placement.rpf\\xm_x17dlc_int_placement_interior_10_x17dlc_int_tun_straight_milo_.ymap",
+        "DlcName": "mpchristmas2017",
+        "Position": {
+          "X": 694.52563,
+          "Y": 5899.053,
+          "Z": -149.32172
+        },
+        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\common\\data\\interiorproxies.meta"
+      },
+      {
+        "InteriorId": 264193,
+        "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_placement.rpf\\xm_x17dlc_int_placement_interior_15_x17dlc_int_tun_straight_milo_.ymap",
+        "DlcName": "mpchristmas2017",
+        "Position": {
+          "X": 1121.959,
+          "Y": 5516.431,
+          "Z": -98.32174
+        },
+        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\common\\data\\interiorproxies.meta"
+      },
+      {
+        "InteriorId": 264449,
+        "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_placement.rpf\\xm_x17dlc_int_placement_interior_16_x17dlc_int_tun_straight_milo_.ymap",
+        "DlcName": "mpchristmas2017",
+        "Position": {
+          "X": 1279.7598,
+          "Y": 5233.345,
+          "Z": -77.32174
+        },
+        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\common\\data\\interiorproxies.meta"
+      }
+    ],
+    "TotalEntitiesCount": 16
   },
   {
     "Name": "xm_x17dlc_int_bse_tun",
@@ -7324,23 +7539,157 @@
     "TotalEntitiesCount": 292
   },
   {
-    "Name": "xm_x17dlc_int_02",
-    "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_02.rpf\\xm_x17dlc_int_02.ytyp",
+    "Name": "xm_x17dlc_int_tun_slope_flat",
+    "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_base.rpf\\xm_x17dlc_int_base.ytyp",
     "DlcName": "mpchristmas2017",
     "Locations": [
       {
-        "InteriorId": 269313,
-        "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_placement.rpf\\xm_x17dlc_int_placement_interior_33_x17dlc_int_02_milo_.ymap",
+        "InteriorId": 263169,
+        "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_placement.rpf\\xm_x17dlc_int_placement_interior_11_x17dlc_int_tun_slope_flat_milo_.ymap",
         "DlcName": "mpchristmas2017",
         "Position": {
-          "X": 345.0,
-          "Y": 4842.0,
-          "Z": -60.0
+          "X": 706.0696,
+          "Y": 5838.6216,
+          "Z": -149.32173
+        },
+        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\common\\data\\interiorproxies.meta"
+      },
+      {
+        "InteriorId": 264705,
+        "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_placement.rpf\\xm_x17dlc_int_placement_interior_17_x17dlc_int_tun_slope_flat_milo_.ymap",
+        "DlcName": "mpchristmas2017",
+        "Position": {
+          "X": 1316.6267,
+          "Y": 5184.09,
+          "Z": -77.32174
+        },
+        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\common\\data\\interiorproxies.meta"
+      },
+      {
+        "InteriorId": 264961,
+        "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_placement.rpf\\xm_x17dlc_int_placement_interior_18_x17dlc_int_tun_slope_flat_milo_.ymap",
+        "DlcName": "mpchristmas2017",
+        "Position": {
+          "X": 1158.8005,
+          "Y": 5467.2095,
+          "Z": -98.3218
         },
         "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\common\\data\\interiorproxies.meta"
       }
     ],
-    "TotalEntitiesCount": 300
+    "TotalEntitiesCount": 3
+  },
+  {
+    "Name": "xm_x17dlc_int_base_loop",
+    "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_base.rpf\\xm_x17dlc_int_base.ytyp",
+    "DlcName": "mpchristmas2017",
+    "Locations": [
+      {
+        "InteriorId": 262657,
+        "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_placement.rpf\\xm_x17dlc_int_placement_interior_1_x17dlc_int_base_loop_milo_.ymap",
+        "DlcName": "mpchristmas2017",
+        "Position": {
+          "X": 252.06165,
+          "Y": 5972.1245,
+          "Z": -159.10199
+        },
+        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\common\\data\\interiorproxies.meta"
+      }
+    ],
+    "TotalEntitiesCount": 266
+  },
+  {
+    "Name": "xm_x17dlc_int_tun_30d_l",
+    "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_base.rpf\\xm_x17dlc_int_base.ytyp",
+    "DlcName": "mpchristmas2017",
+    "Locations": [
+      {
+        "InteriorId": 263937,
+        "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_placement.rpf\\xm_x17dlc_int_placement_interior_14_x17dlc_int_tun_30d_l_milo_.ymap",
+        "DlcName": "mpchristmas2017",
+        "Position": {
+          "X": 961.6557,
+          "Y": 5647.0415,
+          "Z": -112.79574
+        },
+        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\common\\data\\interiorproxies.meta"
+      },
+      {
+        "InteriorId": 267009,
+        "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_placement.rpf\\xm_x17dlc_int_placement_interior_25_x17dlc_int_tun_30d_l_milo_.ymap",
+        "DlcName": "mpchristmas2017",
+        "Position": {
+          "X": 1049.4897,
+          "Y": 5602.2114,
+          "Z": -102.79574
+        },
+        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\common\\data\\interiorproxies.meta"
+      },
+      {
+        "InteriorId": 267265,
+        "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_placement.rpf\\xm_x17dlc_int_placement_interior_26_x17dlc_int_tun_30d_l_milo_.ymap",
+        "DlcName": "mpchristmas2017",
+        "Position": {
+          "X": 1187.3218,
+          "Y": 5419.8745,
+          "Z": -91.79568
+        },
+        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\common\\data\\interiorproxies.meta"
+      },
+      {
+        "InteriorId": 267521,
+        "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_placement.rpf\\xm_x17dlc_int_placement_interior_27_x17dlc_int_tun_30d_l_milo_.ymap",
+        "DlcName": "mpchristmas2017",
+        "Position": {
+          "X": 1344.8298,
+          "Y": 5136.4907,
+          "Z": -70.795555
+        },
+        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\common\\data\\interiorproxies.meta"
+      },
+      {
+        "InteriorId": 267777,
+        "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_placement.rpf\\xm_x17dlc_int_placement_interior_28_x17dlc_int_tun_30d_l_milo_.ymap",
+        "DlcName": "mpchristmas2017",
+        "Position": {
+          "X": 1363.5828,
+          "Y": 5039.6577,
+          "Z": -60.795555
+        },
+        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\common\\data\\interiorproxies.meta"
+      },
+      {
+        "InteriorId": 268033,
+        "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_placement.rpf\\xm_x17dlc_int_placement_interior_29_x17dlc_int_tun_30d_l_milo_.ymap",
+        "DlcName": "mpchristmas2017",
+        "Position": {
+          "X": 1337.9895,
+          "Y": 4944.4043,
+          "Z": -50.795555
+        },
+        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\common\\data\\interiorproxies.meta"
+      }
+    ],
+    "TotalEntitiesCount": 5
+  },
+  {
+    "Name": "xm_x17dlc_int_base_ent",
+    "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_base.rpf\\xm_x17dlc_int_base.ytyp",
+    "DlcName": "mpchristmas2017",
+    "Locations": [
+      {
+        "InteriorId": 262401,
+        "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_placement.rpf\\xm_x17dlc_int_placement_interior_0_x17dlc_int_base_ent_milo_.ymap",
+        "DlcName": "mpchristmas2017",
+        "Position": {
+          "X": 682.0775,
+          "Y": 5959.477,
+          "Z": -151.97229
+        },
+        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\common\\data\\interiorproxies.meta"
+      }
+    ],
+    "TotalEntitiesCount": 16
   },
   {
     "Name": "xm_x17dlc_int_tun_30d_r",
@@ -7425,355 +7774,6 @@
     "TotalEntitiesCount": 1932
   },
   {
-    "Name": "xm_x17dlc_int_tun_flat_slope",
-    "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_base.rpf\\xm_x17dlc_int_base.ytyp",
-    "DlcName": "mpchristmas2017",
-    "Locations": [
-      {
-        "InteriorId": 263425,
-        "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_placement.rpf\\xm_x17dlc_int_placement_interior_12_x17dlc_int_tun_flat_slope_milo_.ymap",
-        "DlcName": "mpchristmas2017",
-        "Position": {
-          "X": 1090.4023,
-          "Y": 5559.2935,
-          "Z": -98.32186
-        },
-        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\common\\data\\interiorproxies.meta"
-      },
-      {
-        "InteriorId": 265217,
-        "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_placement.rpf\\xm_x17dlc_int_placement_interior_19_x17dlc_int_tun_flat_slope_milo_.ymap",
-        "DlcName": "mpchristmas2017",
-        "Position": {
-          "X": 1248.2026,
-          "Y": 5276.2075,
-          "Z": -77.3218
-        },
-        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\common\\data\\interiorproxies.meta"
-      },
-      {
-        "InteriorId": 265729,
-        "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_placement.rpf\\xm_x17dlc_int_placement_interior_20_x17dlc_int_tun_flat_slope_milo_.ymap",
-        "DlcName": "mpchristmas2017",
-        "Position": {
-          "X": 1261.1401,
-          "Y": 4808.6694,
-          "Z": -36.32168
-        },
-        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\common\\data\\interiorproxies.meta"
-      }
-    ],
-    "TotalEntitiesCount": 4
-  },
-  {
-    "Name": "xm_x17dlc_int_tun_slope_flat",
-    "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_base.rpf\\xm_x17dlc_int_base.ytyp",
-    "DlcName": "mpchristmas2017",
-    "Locations": [
-      {
-        "InteriorId": 263169,
-        "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_placement.rpf\\xm_x17dlc_int_placement_interior_11_x17dlc_int_tun_slope_flat_milo_.ymap",
-        "DlcName": "mpchristmas2017",
-        "Position": {
-          "X": 706.0696,
-          "Y": 5838.6216,
-          "Z": -149.32173
-        },
-        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\common\\data\\interiorproxies.meta"
-      },
-      {
-        "InteriorId": 264705,
-        "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_placement.rpf\\xm_x17dlc_int_placement_interior_17_x17dlc_int_tun_slope_flat_milo_.ymap",
-        "DlcName": "mpchristmas2017",
-        "Position": {
-          "X": 1316.6267,
-          "Y": 5184.09,
-          "Z": -77.32174
-        },
-        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\common\\data\\interiorproxies.meta"
-      },
-      {
-        "InteriorId": 264961,
-        "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_placement.rpf\\xm_x17dlc_int_placement_interior_18_x17dlc_int_tun_slope_flat_milo_.ymap",
-        "DlcName": "mpchristmas2017",
-        "Position": {
-          "X": 1158.8005,
-          "Y": 5467.2095,
-          "Z": -98.3218
-        },
-        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\common\\data\\interiorproxies.meta"
-      }
-    ],
-    "TotalEntitiesCount": 3
-  },
-  {
-    "Name": "xm_x17dlc_int_tun_straight",
-    "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_base.rpf\\xm_x17dlc_int_base.ytyp",
-    "DlcName": "mpchristmas2017",
-    "Locations": [
-      {
-        "InteriorId": 262913,
-        "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_placement.rpf\\xm_x17dlc_int_placement_interior_10_x17dlc_int_tun_straight_milo_.ymap",
-        "DlcName": "mpchristmas2017",
-        "Position": {
-          "X": 694.52563,
-          "Y": 5899.053,
-          "Z": -149.32172
-        },
-        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\common\\data\\interiorproxies.meta"
-      },
-      {
-        "InteriorId": 264193,
-        "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_placement.rpf\\xm_x17dlc_int_placement_interior_15_x17dlc_int_tun_straight_milo_.ymap",
-        "DlcName": "mpchristmas2017",
-        "Position": {
-          "X": 1121.959,
-          "Y": 5516.431,
-          "Z": -98.32174
-        },
-        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\common\\data\\interiorproxies.meta"
-      },
-      {
-        "InteriorId": 264449,
-        "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_placement.rpf\\xm_x17dlc_int_placement_interior_16_x17dlc_int_tun_straight_milo_.ymap",
-        "DlcName": "mpchristmas2017",
-        "Position": {
-          "X": 1279.7598,
-          "Y": 5233.345,
-          "Z": -77.32174
-        },
-        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\common\\data\\interiorproxies.meta"
-      }
-    ],
-    "TotalEntitiesCount": 16
-  },
-  {
-    "Name": "xm_x17dlc_int_base_ent",
-    "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_base.rpf\\xm_x17dlc_int_base.ytyp",
-    "DlcName": "mpchristmas2017",
-    "Locations": [
-      {
-        "InteriorId": 262401,
-        "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_placement.rpf\\xm_x17dlc_int_placement_interior_0_x17dlc_int_base_ent_milo_.ymap",
-        "DlcName": "mpchristmas2017",
-        "Position": {
-          "X": 682.0775,
-          "Y": 5959.477,
-          "Z": -151.97229
-        },
-        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\common\\data\\interiorproxies.meta"
-      }
-    ],
-    "TotalEntitiesCount": 16
-  },
-  {
-    "Name": "xm_x17dlc_int_facility",
-    "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_facility.rpf\\xm_x17dlc_int_facility.ytyp",
-    "DlcName": "mpchristmas2017",
-    "Locations": [
-      {
-        "InteriorId": 270081,
-        "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_placement.rpf\\xm_x17dlc_int_placement_interior_4_x17dlc_int_facility_milo_.ymap",
-        "DlcName": "mpchristmas2017",
-        "Position": {
-          "X": 2047.0,
-          "Y": 2942.0005,
-          "Z": -62.90245
-        },
-        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\common\\data\\interiorproxies.meta"
-      }
-    ],
-    "TotalEntitiesCount": 1099
-  },
-  {
-    "Name": "xm_x17dlc_int_facility2",
-    "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_facility2.rpf\\xm_x17dlc_int_facility2.ytyp",
-    "DlcName": "mpchristmas2017",
-    "Locations": [
-      {
-        "InteriorId": 270337,
-        "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_placement.rpf\\xm_x17dlc_int_placement_interior_5_x17dlc_int_facility2_milo_.ymap",
-        "DlcName": "mpchristmas2017",
-        "Position": {
-          "X": 2168.0894,
-          "Y": 2920.8896,
-          "Z": -85.80048
-        },
-        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\common\\data\\interiorproxies.meta"
-      }
-    ],
-    "TotalEntitiesCount": 658
-  },
-  {
-    "Name": "xm_x17dlc_int_silo_01",
-    "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_silo.rpf\\xm_x17dlc_int_silo.ytyp",
-    "DlcName": "mpchristmas2017",
-    "Locations": [
-      {
-        "InteriorId": 270593,
-        "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_placement.rpf\\xm_x17dlc_int_placement_interior_6_x17dlc_int_silo_01_milo_.ymap",
-        "DlcName": "mpchristmas2017",
-        "Position": {
-          "X": 361.28015,
-          "Y": 6306.3564,
-          "Z": -159.46695
-        },
-        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\common\\data\\interiorproxies.meta"
-      }
-    ],
-    "TotalEntitiesCount": 446
-  },
-  {
-    "Name": "xm_x17dlc_int_silo_02",
-    "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_silo.rpf\\xm_x17dlc_int_silo.ytyp",
-    "DlcName": "mpchristmas2017",
-    "Locations": [
-      {
-        "InteriorId": 270849,
-        "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_placement.rpf\\xm_x17dlc_int_placement_interior_7_x17dlc_int_silo_02_milo_.ymap",
-        "DlcName": "mpchristmas2017",
-        "Position": {
-          "X": 305.01584,
-          "Y": 6297.9375,
-          "Z": -159.80974
-        },
-        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\common\\data\\interiorproxies.meta"
-      }
-    ],
-    "TotalEntitiesCount": 208
-  },
-  {
-    "Name": "xm_x17dlc_int_sub",
-    "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_sub.rpf\\xm_x17dlc_int_sub.ytyp",
-    "DlcName": "mpchristmas2017",
-    "Locations": [
-      {
-        "InteriorId": 271105,
-        "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_placement.rpf\\xm_x17dlc_int_placement_interior_8_x17dlc_int_sub_milo_.ymap",
-        "DlcName": "mpchristmas2017",
-        "Position": {
-          "X": 512.76855,
-          "Y": 4851.9805,
-          "Z": -62.90245
-        },
-        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\common\\data\\interiorproxies.meta"
-      }
-    ],
-    "TotalEntitiesCount": 612
-  },
-  {
-    "Name": "xm_x17dlc_int_tun_30d_l",
-    "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_base.rpf\\xm_x17dlc_int_base.ytyp",
-    "DlcName": "mpchristmas2017",
-    "Locations": [
-      {
-        "InteriorId": 263937,
-        "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_placement.rpf\\xm_x17dlc_int_placement_interior_14_x17dlc_int_tun_30d_l_milo_.ymap",
-        "DlcName": "mpchristmas2017",
-        "Position": {
-          "X": 961.6557,
-          "Y": 5647.0415,
-          "Z": -112.79574
-        },
-        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\common\\data\\interiorproxies.meta"
-      },
-      {
-        "InteriorId": 267009,
-        "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_placement.rpf\\xm_x17dlc_int_placement_interior_25_x17dlc_int_tun_30d_l_milo_.ymap",
-        "DlcName": "mpchristmas2017",
-        "Position": {
-          "X": 1049.4897,
-          "Y": 5602.2114,
-          "Z": -102.79574
-        },
-        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\common\\data\\interiorproxies.meta"
-      },
-      {
-        "InteriorId": 267265,
-        "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_placement.rpf\\xm_x17dlc_int_placement_interior_26_x17dlc_int_tun_30d_l_milo_.ymap",
-        "DlcName": "mpchristmas2017",
-        "Position": {
-          "X": 1187.3218,
-          "Y": 5419.8745,
-          "Z": -91.79568
-        },
-        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\common\\data\\interiorproxies.meta"
-      },
-      {
-        "InteriorId": 267521,
-        "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_placement.rpf\\xm_x17dlc_int_placement_interior_27_x17dlc_int_tun_30d_l_milo_.ymap",
-        "DlcName": "mpchristmas2017",
-        "Position": {
-          "X": 1344.8298,
-          "Y": 5136.4907,
-          "Z": -70.795555
-        },
-        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\common\\data\\interiorproxies.meta"
-      },
-      {
-        "InteriorId": 267777,
-        "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_placement.rpf\\xm_x17dlc_int_placement_interior_28_x17dlc_int_tun_30d_l_milo_.ymap",
-        "DlcName": "mpchristmas2017",
-        "Position": {
-          "X": 1363.5828,
-          "Y": 5039.6577,
-          "Z": -60.795555
-        },
-        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\common\\data\\interiorproxies.meta"
-      },
-      {
-        "InteriorId": 268033,
-        "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_placement.rpf\\xm_x17dlc_int_placement_interior_29_x17dlc_int_tun_30d_l_milo_.ymap",
-        "DlcName": "mpchristmas2017",
-        "Position": {
-          "X": 1337.9895,
-          "Y": 4944.4043,
-          "Z": -50.795555
-        },
-        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\common\\data\\interiorproxies.meta"
-      }
-    ],
-    "TotalEntitiesCount": 5
-  },
-  {
-    "Name": "xm_x17dlc_int_01",
-    "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_01.rpf\\xm_x17dlc_int_01.ytyp",
-    "DlcName": "mpchristmas2017",
-    "Locations": [
-      {
-        "InteriorId": 262145,
-        "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_placement.rpf\\xm_x17dlc_int_placement_interior_9_x17dlc_int_01_milo_.ymap",
-        "DlcName": "mpchristmas2017",
-        "Position": {
-          "X": 520.0,
-          "Y": 4750.0,
-          "Z": -70.0
-        },
-        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\common\\data\\interiorproxies.meta"
-      }
-    ],
-    "TotalEntitiesCount": 16
-  },
-  {
-    "Name": "xm_x17dlc_int_base",
-    "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_base.rpf\\xm_x17dlc_int_base.ytyp",
-    "DlcName": "mpchristmas2017",
-    "Locations": [
-      {
-        "InteriorId": 268289,
-        "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_placement.rpf\\xm_x17dlc_int_placement_interior_3_x17dlc_int_base_milo_.ymap",
-        "DlcName": "mpchristmas2017",
-        "Position": {
-          "X": 550.94836,
-          "Y": 5939.262,
-          "Z": -157.21588
-        },
-        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\common\\data\\interiorproxies.meta"
-      }
-    ],
-    "TotalEntitiesCount": 171
-  },
-  {
     "Name": "xs_x18_int_mod",
     "FilePath": "update\\x64\\dlcpacks\\mpchristmas2018\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x18dlc_int_mod.rpf\\xs_x18dlc_int_mod.ytyp",
     "DlcName": "mpchristmas2018",
@@ -7850,23 +7850,23 @@
     "TotalEntitiesCount": 146
   },
   {
-    "Name": "xm_x17dlc_int_tun_entry",
-    "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_base.rpf\\xm_x17dlc_int_base.ytyp",
+    "Name": "xm_x17dlc_int_02",
+    "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_02.rpf\\xm_x17dlc_int_02.ytyp",
     "DlcName": "mpchristmas2017",
     "Locations": [
       {
-        "InteriorId": 269825,
-        "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_placement.rpf\\xm_x17dlc_int_placement_interior_35_x17dlc_int_tun_entry_milo_.ymap",
+        "InteriorId": 269313,
+        "FilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\x64\\levels\\gta5\\interiors\\x17dlc_int_placement.rpf\\xm_x17dlc_int_placement_interior_33_x17dlc_int_02_milo_.ymap",
         "DlcName": "mpchristmas2017",
         "Position": {
-          "X": 1256.18,
-          "Y": 4789.0815,
-          "Z": -37.970703
+          "X": 345.0,
+          "Y": 4842.0,
+          "Z": -60.0
         },
         "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpchristmas2017\\dlc.rpf\\common\\data\\interiorproxies.meta"
       }
     ],
-    "TotalEntitiesCount": 4
+    "TotalEntitiesCount": 300
   },
   {
     "Name": "hei_int_mph_carrierhang1",
@@ -7964,23 +7964,23 @@
     "TotalEntitiesCount": 136
   },
   {
-    "Name": "hei_gta_milo_bedrm",
+    "Name": "hei_gta_milo_bar",
     "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\interiors\\mpheist_yacht.rpf\\hei_mpheist_yacht.ytyp",
     "DlcName": "mpheist",
     "Locations": [
       {
-        "InteriorId": 173825,
-        "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_hills\\cityhills_01\\yacht_metadata.rpf\\hei_yacht_heist_bedrm.ymap",
+        "InteriorId": 173569,
+        "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_hills\\cityhills_01\\yacht_metadata.rpf\\hei_yacht_heist_bar.ymap",
         "DlcName": "mpheist",
         "Position": {
-          "X": -2093.5776,
-          "Y": -1015.74036,
-          "Z": 4.884291
+          "X": -2090.4146,
+          "Y": -1015.06726,
+          "Z": 7.971024
         },
         "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\common\\data\\interiorproxies.meta"
       }
     ],
-    "TotalEntitiesCount": 196
+    "TotalEntitiesCount": 151
   },
   {
     "Name": "hei_gta_milo_bridge",
@@ -8059,42 +8059,23 @@
     "TotalEntitiesCount": 82
   },
   {
-    "Name": "ch_dlc_casino_heist",
-    "FilePath": "update\\x64\\dlcpacks\\mpheist3\\dlc.rpf\\x64\\levels\\gta5\\interiors\\dlc_int_01_ch.rpf\\ch_dlc_int_01_ch.ytyp",
-    "DlcName": "mpheist3",
-    "Locations": [
-      {
-        "InteriorId": 278017,
-        "FilePath": "update\\x64\\dlcpacks\\mpheist3\\dlc.rpf\\x64\\levels\\gta5\\interiors\\int_placement_ch.rpf\\ch_int_placement_ch_interior_0_dlc_casino_heist_milo_.ymap",
-        "DlcName": "mpheist3",
-        "Position": {
-          "X": 2479.2678,
-          "Y": -273.8738,
-          "Z": -59.282852
-        },
-        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpheist3\\dlc.rpf\\common\\data\\interiorproxies.meta"
-      }
-    ],
-    "TotalEntitiesCount": 703
-  },
-  {
-    "Name": "hei_gta_milo_bar",
+    "Name": "hei_gta_milo_bedrm",
     "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\interiors\\mpheist_yacht.rpf\\hei_mpheist_yacht.ytyp",
     "DlcName": "mpheist",
     "Locations": [
       {
-        "InteriorId": 173569,
-        "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_hills\\cityhills_01\\yacht_metadata.rpf\\hei_yacht_heist_bar.ymap",
+        "InteriorId": 173825,
+        "FilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\x64\\levels\\gta5\\_hills\\cityhills_01\\yacht_metadata.rpf\\hei_yacht_heist_bedrm.ymap",
         "DlcName": "mpheist",
         "Position": {
-          "X": -2090.4146,
-          "Y": -1015.06726,
-          "Z": 7.971024
+          "X": -2093.5776,
+          "Y": -1015.74036,
+          "Z": 4.884291
         },
         "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpheist\\dlc.rpf\\common\\data\\interiorproxies.meta"
       }
     ],
-    "TotalEntitiesCount": 151
+    "TotalEntitiesCount": 196
   },
   {
     "Name": "hei_int_mph_carrierhang2",
@@ -8135,23 +8116,23 @@
     "TotalEntitiesCount": 39
   },
   {
-    "Name": "ch_dlc_plan",
-    "FilePath": "update\\x64\\dlcpacks\\mpheist3\\dlc.rpf\\x64\\levels\\gta5\\interiors\\dlc_int_03_ch.rpf\\ch_dlc_int_03_ch.ytyp",
+    "Name": "ch_dlc_arcade",
+    "FilePath": "update\\x64\\dlcpacks\\mpheist3\\dlc.rpf\\x64\\levels\\gta5\\interiors\\dlc_int_02_ch.rpf\\ch_dlc_int_02_ch.ytyp",
     "DlcName": "mpheist3",
     "Locations": [
       {
-        "InteriorId": 278529,
-        "FilePath": "update\\x64\\dlcpacks\\mpheist3\\dlc.rpf\\x64\\levels\\gta5\\interiors\\int_placement_ch.rpf\\ch_int_placement_ch_interior_2_dlc_plan_milo_.ymap",
+        "InteriorId": 278273,
+        "FilePath": "update\\x64\\dlcpacks\\mpheist3\\dlc.rpf\\x64\\levels\\gta5\\interiors\\int_placement_ch.rpf\\ch_int_placement_ch_interior_1_dlc_arcade_milo_.ymap",
         "DlcName": "mpheist3",
         "Position": {
-          "X": 2697.615,
-          "Y": -376.38916,
-          "Z": -56.461926
+          "X": 2730.0,
+          "Y": -380.0,
+          "Z": -50.0
         },
         "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpheist3\\dlc.rpf\\common\\data\\interiorproxies.meta"
       }
     ],
-    "TotalEntitiesCount": 36
+    "TotalEntitiesCount": 23
   },
   {
     "Name": "hei_heist_police_dlc",
@@ -8875,25 +8856,6 @@
     "TotalEntitiesCount": 68
   },
   {
-    "Name": "ch_dlc_arcade",
-    "FilePath": "update\\x64\\dlcpacks\\mpheist3\\dlc.rpf\\x64\\levels\\gta5\\interiors\\dlc_int_02_ch.rpf\\ch_dlc_int_02_ch.ytyp",
-    "DlcName": "mpheist3",
-    "Locations": [
-      {
-        "InteriorId": 278273,
-        "FilePath": "update\\x64\\dlcpacks\\mpheist3\\dlc.rpf\\x64\\levels\\gta5\\interiors\\int_placement_ch.rpf\\ch_int_placement_ch_interior_1_dlc_arcade_milo_.ymap",
-        "DlcName": "mpheist3",
-        "Position": {
-          "X": 2730.0,
-          "Y": -380.0,
-          "Z": -50.0
-        },
-        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpheist3\\dlc.rpf\\common\\data\\interiorproxies.meta"
-      }
-    ],
-    "TotalEntitiesCount": 23
-  },
-  {
     "Name": "h4_dlc_island_store_3",
     "FilePath": "update\\x64\\dlcpacks\\mpheist4\\dlc1.rpf\\x64\\levels\\gta5\\interiors\\dlc_int_05_h4.rpf\\h4_dlc_int_05_h4.ytyp",
     "DlcName": "mpheist4",
@@ -8911,6 +8873,25 @@
       }
     ],
     "TotalEntitiesCount": 77
+  },
+  {
+    "Name": "h4_dlc_island_store_2",
+    "FilePath": "update\\x64\\dlcpacks\\mpheist4\\dlc1.rpf\\x64\\levels\\gta5\\interiors\\dlc_int_05_h4.rpf\\h4_dlc_int_05_h4.ytyp",
+    "DlcName": "mpheist4",
+    "Locations": [
+      {
+        "InteriorId": 280833,
+        "FilePath": "update\\x64\\dlcpacks\\mpheist4\\dlc1.rpf\\x64\\levels\\gta5\\mph4_island\\mph4_island_combine_metadata.rpf\\h4_islandx_mansion_lockup_01.ymap",
+        "DlcName": "mpheist4",
+        "Position": {
+          "X": 5027.081,
+          "Y": -5736.019,
+          "Z": 16.8655
+        },
+        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpheist4\\dlc.rpf\\common\\data\\interiorproxies.meta"
+      }
+    ],
+    "TotalEntitiesCount": 72
   },
   {
     "Name": "h4_dlc_int_02_h4",
@@ -9106,23 +9087,42 @@
     "TotalEntitiesCount": 1117
   },
   {
-    "Name": "h4_dlc_island_store_2",
-    "FilePath": "update\\x64\\dlcpacks\\mpheist4\\dlc1.rpf\\x64\\levels\\gta5\\interiors\\dlc_int_05_h4.rpf\\h4_dlc_int_05_h4.ytyp",
-    "DlcName": "mpheist4",
+    "Name": "ch_dlc_plan",
+    "FilePath": "update\\x64\\dlcpacks\\mpheist3\\dlc.rpf\\x64\\levels\\gta5\\interiors\\dlc_int_03_ch.rpf\\ch_dlc_int_03_ch.ytyp",
+    "DlcName": "mpheist3",
     "Locations": [
       {
-        "InteriorId": 280833,
-        "FilePath": "update\\x64\\dlcpacks\\mpheist4\\dlc1.rpf\\x64\\levels\\gta5\\mph4_island\\mph4_island_combine_metadata.rpf\\h4_islandx_mansion_lockup_01.ymap",
-        "DlcName": "mpheist4",
+        "InteriorId": 278529,
+        "FilePath": "update\\x64\\dlcpacks\\mpheist3\\dlc.rpf\\x64\\levels\\gta5\\interiors\\int_placement_ch.rpf\\ch_int_placement_ch_interior_2_dlc_plan_milo_.ymap",
+        "DlcName": "mpheist3",
         "Position": {
-          "X": 5027.081,
-          "Y": -5736.019,
-          "Z": 16.8655
+          "X": 2697.615,
+          "Y": -376.38916,
+          "Z": -56.461926
         },
-        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpheist4\\dlc.rpf\\common\\data\\interiorproxies.meta"
+        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpheist3\\dlc.rpf\\common\\data\\interiorproxies.meta"
       }
     ],
-    "TotalEntitiesCount": 72
+    "TotalEntitiesCount": 36
+  },
+  {
+    "Name": "ch_dlc_casino_heist",
+    "FilePath": "update\\x64\\dlcpacks\\mpheist3\\dlc.rpf\\x64\\levels\\gta5\\interiors\\dlc_int_01_ch.rpf\\ch_dlc_int_01_ch.ytyp",
+    "DlcName": "mpheist3",
+    "Locations": [
+      {
+        "InteriorId": 278017,
+        "FilePath": "update\\x64\\dlcpacks\\mpheist3\\dlc.rpf\\x64\\levels\\gta5\\interiors\\int_placement_ch.rpf\\ch_int_placement_ch_interior_0_dlc_casino_heist_milo_.ymap",
+        "DlcName": "mpheist3",
+        "Position": {
+          "X": 2479.2678,
+          "Y": -273.8738,
+          "Z": -59.282852
+        },
+        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpheist3\\dlc.rpf\\common\\data\\interiorproxies.meta"
+      }
+    ],
+    "TotalEntitiesCount": 703
   },
   {
     "Name": "hei_int_mph_carrierhang3",
@@ -9233,7 +9233,7 @@
     "Locations": [
       {
         "InteriorId": 196609,
-        "FilePath": "update\\x64\\dlcpacks\\mplowrider\\dlc.rpf\\x64\\levels\\gta5\\_citye\\scentral_01\\scentral_metadata.rpf\\lr_sc1_02_interior_0_supermod_int_milo_.ymap",
+        "FilePath": "update\\update.rpf\\dlc_patch\\mplowrider\\x64\\levels\\gta5\\_citye\\scentral_01\\scentral_metadata.rpf\\lr_sc1_02_interior_0_supermod_int_milo_.ymap",
         "DlcName": "mplowrider",
         "Position": {
           "X": -209.759,
@@ -9246,13 +9246,13 @@
     "TotalEntitiesCount": 277
   },
   {
-    "Name": "apa_v_mp_h_08",
-    "FilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\x64\\levels\\gta5\\interiors\\int_mp_h_08.rpf\\apa_int_mp_h_08.ytyp",
+    "Name": "apa_v_mp_h_06",
+    "FilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\x64\\levels\\gta5\\interiors\\int_mp_h_06.rpf\\apa_int_mp_h_06.ytyp",
     "DlcName": "mpapartment",
     "Locations": [
       {
-        "InteriorId": 232705,
-        "FilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\x64\\levels\\gta5\\interiors\\v_inttest.rpf\\apa_v_mp_h_08_a.ymap",
+        "InteriorId": 231169,
+        "FilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\x64\\levels\\gta5\\interiors\\v_inttest.rpf\\apa_v_mp_h_06_a.ymap",
         "DlcName": "mpapartment",
         "Position": {
           "X": -787.7805,
@@ -9262,8 +9262,8 @@
         "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\common\\data\\interiorproxies.meta"
       },
       {
-        "InteriorId": 232961,
-        "FilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\x64\\levels\\gta5\\interiors\\v_inttest.rpf\\apa_v_mp_h_08_b.ymap",
+        "InteriorId": 231425,
+        "FilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\x64\\levels\\gta5\\interiors\\v_inttest.rpf\\apa_v_mp_h_06_b.ymap",
         "DlcName": "mpapartment",
         "Position": {
           "X": -773.2258,
@@ -9273,8 +9273,8 @@
         "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\common\\data\\interiorproxies.meta"
       },
       {
-        "InteriorId": 233217,
-        "FilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\x64\\levels\\gta5\\interiors\\v_inttest.rpf\\apa_v_mp_h_08_c.ymap",
+        "InteriorId": 231681,
+        "FilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\x64\\levels\\gta5\\interiors\\v_inttest.rpf\\apa_v_mp_h_06_c.ymap",
         "DlcName": "mpapartment",
         "Position": {
           "X": -787.7805,
@@ -9284,7 +9284,7 @@
         "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\common\\data\\interiorproxies.meta"
       }
     ],
-    "TotalEntitiesCount": 239
+    "TotalEntitiesCount": 210
   },
   {
     "Name": "apa_v_mp_stilts_b",
@@ -9337,6 +9337,80 @@
       }
     ],
     "TotalEntitiesCount": 301
+  },
+  {
+    "Name": "apa_v_mp_stilts_a",
+    "FilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\x64\\levels\\gta5\\interiors\\int_mp_stilts_a.rpf\\apa_int_mp_stilts_a.ytyp",
+    "DlcName": "mpapartment",
+    "Locations": [
+      {
+        "InteriorId": 206337,
+        "FilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\x64\\levels\\gta5\\_hills\\cityhills_02\\cityhills_02_metadata.rpf\\apa_ch2_04_interior_1_v_mp_stilts_a_milo_.ymap",
+        "DlcName": "mpapartment",
+        "Position": {
+          "X": 372.67255,
+          "Y": 405.5155,
+          "Z": 144.49966
+        },
+        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\common\\data\\interiorproxies.meta"
+      },
+      {
+        "InteriorId": 206593,
+        "FilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\x64\\levels\\gta5\\_hills\\cityhills_02\\cityhills_02_metadata.rpf\\apa_ch2_05c_interior_1_v_mp_stilts_a_milo_.ymap",
+        "DlcName": "mpapartment",
+        "Position": {
+          "X": 122.53487,
+          "Y": 542.50757,
+          "Z": 182.89667
+        },
+        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\common\\data\\interiorproxies.meta"
+      },
+      {
+        "InteriorId": 207361,
+        "FilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\x64\\levels\\gta5\\_hills\\cityhills_02\\cityhills_02_metadata.rpf\\apa_ch2_09b_interior_0_v_mp_stilts_a_milo_.ymap",
+        "DlcName": "mpapartment",
+        "Position": {
+          "X": -855.0377,
+          "Y": 673.70447,
+          "Z": 151.45251
+        },
+        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\common\\data\\interiorproxies.meta"
+      },
+      {
+        "InteriorId": 207873,
+        "FilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\x64\\levels\\gta5\\_hills\\cityhills_02\\cityhills_02_metadata.rpf\\apa_ch2_09c_interior_0_v_mp_stilts_a_milo_.ymap",
+        "DlcName": "mpapartment",
+        "Position": {
+          "X": -573.0324,
+          "Y": 643.7613,
+          "Z": 144.43164
+        },
+        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\common\\data\\interiorproxies.meta"
+      },
+      {
+        "InteriorId": 208385,
+        "FilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\x64\\levels\\gta5\\_hills\\cityhills_02\\cityhills_02_metadata.rpf\\apa_ch2_12b_interior_0_v_mp_stilts_a_milo_.ymap",
+        "DlcName": "mpapartment",
+        "Position": {
+          "X": -1286.3622,
+          "Y": 431.78778,
+          "Z": 96.494255
+        },
+        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\common\\data\\interiorproxies.meta"
+      },
+      {
+        "InteriorId": 208641,
+        "FilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\x64\\levels\\gta5\\_hills\\cityhills_02\\cityhills_02_metadata.rpf\\apa_stilt_ch2_09c_int.ymap",
+        "DlcName": "mpapartment",
+        "Position": {
+          "X": -746.69745,
+          "Y": 576.98737,
+          "Z": 144.85999
+        },
+        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\common\\data\\interiorproxies.meta"
+      }
+    ],
+    "TotalEntitiesCount": 299
   },
   {
     "Name": "apa_mpapa_yacht",
@@ -9743,47 +9817,6 @@
     "TotalEntitiesCount": 446
   },
   {
-    "Name": "apa_v_mp_h_01",
-    "FilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\x64\\levels\\gta5\\interiors\\int_mp_h_01.rpf\\apa_int_mp_h_01.ytyp",
-    "DlcName": "mpapartment",
-    "Locations": [
-      {
-        "InteriorId": 227329,
-        "FilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\x64\\levels\\gta5\\interiors\\v_inttest.rpf\\apa_v_mp_h_01_a.ymap",
-        "DlcName": "mpapartment",
-        "Position": {
-          "X": -787.7805,
-          "Y": 334.92322,
-          "Z": 215.83838
-        },
-        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\common\\data\\interiorproxies.meta"
-      },
-      {
-        "InteriorId": 227585,
-        "FilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\x64\\levels\\gta5\\interiors\\v_inttest.rpf\\apa_v_mp_h_01_b.ymap",
-        "DlcName": "mpapartment",
-        "Position": {
-          "X": -773.2258,
-          "Y": 322.8252,
-          "Z": 194.8862
-        },
-        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\common\\data\\interiorproxies.meta"
-      },
-      {
-        "InteriorId": 227841,
-        "FilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\x64\\levels\\gta5\\interiors\\v_inttest.rpf\\apa_v_mp_h_01_c.ymap",
-        "DlcName": "mpapartment",
-        "Position": {
-          "X": -787.7805,
-          "Y": 334.92322,
-          "Z": 186.11343
-        },
-        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\common\\data\\interiorproxies.meta"
-      }
-    ],
-    "TotalEntitiesCount": 215
-  },
-  {
     "Name": "apa_v_mp_h_02",
     "FilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\x64\\levels\\gta5\\interiors\\int_mp_h_02.rpf\\apa_int_mp_h_02.ytyp",
     "DlcName": "mpapartment",
@@ -9948,47 +9981,6 @@
     "TotalEntitiesCount": 218
   },
   {
-    "Name": "apa_v_mp_h_06",
-    "FilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\x64\\levels\\gta5\\interiors\\int_mp_h_06.rpf\\apa_int_mp_h_06.ytyp",
-    "DlcName": "mpapartment",
-    "Locations": [
-      {
-        "InteriorId": 231169,
-        "FilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\x64\\levels\\gta5\\interiors\\v_inttest.rpf\\apa_v_mp_h_06_a.ymap",
-        "DlcName": "mpapartment",
-        "Position": {
-          "X": -787.7805,
-          "Y": 334.92322,
-          "Z": 215.83838
-        },
-        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\common\\data\\interiorproxies.meta"
-      },
-      {
-        "InteriorId": 231425,
-        "FilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\x64\\levels\\gta5\\interiors\\v_inttest.rpf\\apa_v_mp_h_06_b.ymap",
-        "DlcName": "mpapartment",
-        "Position": {
-          "X": -773.2258,
-          "Y": 322.8252,
-          "Z": 194.8862
-        },
-        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\common\\data\\interiorproxies.meta"
-      },
-      {
-        "InteriorId": 231681,
-        "FilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\x64\\levels\\gta5\\interiors\\v_inttest.rpf\\apa_v_mp_h_06_c.ymap",
-        "DlcName": "mpapartment",
-        "Position": {
-          "X": -787.7805,
-          "Y": 334.92322,
-          "Z": 186.11343
-        },
-        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\common\\data\\interiorproxies.meta"
-      }
-    ],
-    "TotalEntitiesCount": 210
-  },
-  {
     "Name": "apa_v_mp_h_07",
     "FilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\x64\\levels\\gta5\\interiors\\int_mp_h_07.rpf\\apa_int_mp_h_07.ytyp",
     "DlcName": "mpapartment",
@@ -10030,78 +10022,86 @@
     "TotalEntitiesCount": 244
   },
   {
-    "Name": "apa_v_mp_stilts_a",
-    "FilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\x64\\levels\\gta5\\interiors\\int_mp_stilts_a.rpf\\apa_int_mp_stilts_a.ytyp",
+    "Name": "apa_v_mp_h_08",
+    "FilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\x64\\levels\\gta5\\interiors\\int_mp_h_08.rpf\\apa_int_mp_h_08.ytyp",
     "DlcName": "mpapartment",
     "Locations": [
       {
-        "InteriorId": 206337,
-        "FilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\x64\\levels\\gta5\\_hills\\cityhills_02\\cityhills_02_metadata.rpf\\apa_ch2_04_interior_1_v_mp_stilts_a_milo_.ymap",
+        "InteriorId": 232705,
+        "FilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\x64\\levels\\gta5\\interiors\\v_inttest.rpf\\apa_v_mp_h_08_a.ymap",
         "DlcName": "mpapartment",
         "Position": {
-          "X": 372.67255,
-          "Y": 405.5155,
-          "Z": 144.49966
+          "X": -787.7805,
+          "Y": 334.92322,
+          "Z": 215.83838
         },
         "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\common\\data\\interiorproxies.meta"
       },
       {
-        "InteriorId": 206593,
-        "FilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\x64\\levels\\gta5\\_hills\\cityhills_02\\cityhills_02_metadata.rpf\\apa_ch2_05c_interior_1_v_mp_stilts_a_milo_.ymap",
+        "InteriorId": 232961,
+        "FilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\x64\\levels\\gta5\\interiors\\v_inttest.rpf\\apa_v_mp_h_08_b.ymap",
         "DlcName": "mpapartment",
         "Position": {
-          "X": 122.53487,
-          "Y": 542.50757,
-          "Z": 182.89667
+          "X": -773.2258,
+          "Y": 322.8252,
+          "Z": 194.8862
         },
         "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\common\\data\\interiorproxies.meta"
       },
       {
-        "InteriorId": 207361,
-        "FilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\x64\\levels\\gta5\\_hills\\cityhills_02\\cityhills_02_metadata.rpf\\apa_ch2_09b_interior_0_v_mp_stilts_a_milo_.ymap",
+        "InteriorId": 233217,
+        "FilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\x64\\levels\\gta5\\interiors\\v_inttest.rpf\\apa_v_mp_h_08_c.ymap",
         "DlcName": "mpapartment",
         "Position": {
-          "X": -855.0377,
-          "Y": 673.70447,
-          "Z": 151.45251
-        },
-        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\common\\data\\interiorproxies.meta"
-      },
-      {
-        "InteriorId": 207873,
-        "FilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\x64\\levels\\gta5\\_hills\\cityhills_02\\cityhills_02_metadata.rpf\\apa_ch2_09c_interior_0_v_mp_stilts_a_milo_.ymap",
-        "DlcName": "mpapartment",
-        "Position": {
-          "X": -573.0324,
-          "Y": 643.7613,
-          "Z": 144.43164
-        },
-        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\common\\data\\interiorproxies.meta"
-      },
-      {
-        "InteriorId": 208385,
-        "FilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\x64\\levels\\gta5\\_hills\\cityhills_02\\cityhills_02_metadata.rpf\\apa_ch2_12b_interior_0_v_mp_stilts_a_milo_.ymap",
-        "DlcName": "mpapartment",
-        "Position": {
-          "X": -1286.3622,
-          "Y": 431.78778,
-          "Z": 96.494255
-        },
-        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\common\\data\\interiorproxies.meta"
-      },
-      {
-        "InteriorId": 208641,
-        "FilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\x64\\levels\\gta5\\_hills\\cityhills_02\\cityhills_02_metadata.rpf\\apa_stilt_ch2_09c_int.ymap",
-        "DlcName": "mpapartment",
-        "Position": {
-          "X": -746.69745,
-          "Y": 576.98737,
-          "Z": 144.85999
+          "X": -787.7805,
+          "Y": 334.92322,
+          "Z": 186.11343
         },
         "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\common\\data\\interiorproxies.meta"
       }
     ],
-    "TotalEntitiesCount": 299
+    "TotalEntitiesCount": 239
+  },
+  {
+    "Name": "apa_v_mp_h_01",
+    "FilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\x64\\levels\\gta5\\interiors\\int_mp_h_01.rpf\\apa_int_mp_h_01.ytyp",
+    "DlcName": "mpapartment",
+    "Locations": [
+      {
+        "InteriorId": 227329,
+        "FilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\x64\\levels\\gta5\\interiors\\v_inttest.rpf\\apa_v_mp_h_01_a.ymap",
+        "DlcName": "mpapartment",
+        "Position": {
+          "X": -787.7805,
+          "Y": 334.92322,
+          "Z": 215.83838
+        },
+        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\common\\data\\interiorproxies.meta"
+      },
+      {
+        "InteriorId": 227585,
+        "FilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\x64\\levels\\gta5\\interiors\\v_inttest.rpf\\apa_v_mp_h_01_b.ymap",
+        "DlcName": "mpapartment",
+        "Position": {
+          "X": -773.2258,
+          "Y": 322.8252,
+          "Z": 194.8862
+        },
+        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\common\\data\\interiorproxies.meta"
+      },
+      {
+        "InteriorId": 227841,
+        "FilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\x64\\levels\\gta5\\interiors\\v_inttest.rpf\\apa_v_mp_h_01_c.ymap",
+        "DlcName": "mpapartment",
+        "Position": {
+          "X": -787.7805,
+          "Y": 334.92322,
+          "Z": 186.11343
+        },
+        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpapartment\\dlc.rpf\\common\\data\\interiorproxies.meta"
+      }
+    ],
+    "TotalEntitiesCount": 215
   },
   {
     "Name": "ex_int_office_01b_dlc",
@@ -10246,25 +10246,6 @@
     "TotalEntitiesCount": 41
   },
   {
-    "Name": "ex_int_warehouse_m_dlc",
-    "FilePath": "update\\x64\\dlcpacks\\mpexecutive\\dlc.rpf\\x64\\levels\\gta5\\interiors\\int_warehouse_medium_dlc.rpf\\ex_int_warehouse_medium_dlc.ytyp",
-    "DlcName": "mpexecutive",
-    "Locations": [
-      {
-        "InteriorId": 235521,
-        "FilePath": "update\\x64\\dlcpacks\\mpexecutive\\dlc.rpf\\x64\\levels\\gta5\\interiors\\exec_warehouse_placement.rpf\\ex_exec_warehouse_placement_interior_0_int_warehouse_m_dlc_milo_.ymap",
-        "DlcName": "mpexecutive",
-        "Position": {
-          "X": 1060.0,
-          "Y": -3100.0,
-          "Z": -40.0
-        },
-        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpexecutive\\dlc.rpf\\common\\data\\interiorproxies.meta"
-      }
-    ],
-    "TotalEntitiesCount": 63
-  },
-  {
     "Name": "ex_int_office_01c_dlc",
     "FilePath": "update\\x64\\dlcpacks\\mpexecutive\\dlc.rpf\\x64\\levels\\gta5\\interiors\\int_office_01c_dlc.rpf\\ex_int_office_01c_dlc.ytyp",
     "DlcName": "mpexecutive",
@@ -10315,6 +10296,25 @@
       }
     ],
     "TotalEntitiesCount": 225
+  },
+  {
+    "Name": "ex_int_warehouse_m_dlc",
+    "FilePath": "update\\x64\\dlcpacks\\mpexecutive\\dlc.rpf\\x64\\levels\\gta5\\interiors\\int_warehouse_medium_dlc.rpf\\ex_int_warehouse_medium_dlc.ytyp",
+    "DlcName": "mpexecutive",
+    "Locations": [
+      {
+        "InteriorId": 235521,
+        "FilePath": "update\\x64\\dlcpacks\\mpexecutive\\dlc.rpf\\x64\\levels\\gta5\\interiors\\exec_warehouse_placement.rpf\\ex_exec_warehouse_placement_interior_0_int_warehouse_m_dlc_milo_.ymap",
+        "DlcName": "mpexecutive",
+        "Position": {
+          "X": 1060.0,
+          "Y": -3100.0,
+          "Z": -40.0
+        },
+        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpexecutive\\dlc.rpf\\common\\data\\interiorproxies.meta"
+      }
+    ],
+    "TotalEntitiesCount": 63
   },
   {
     "Name": "ex_int_office_03c_dlc",
@@ -10525,58 +10525,6 @@
     "TotalEntitiesCount": 218
   },
   {
-    "Name": "ex_int_office_02b_dlc",
-    "FilePath": "update\\x64\\dlcpacks\\mpexecutive\\dlc.rpf\\x64\\levels\\gta5\\interiors\\int_office_02b_dlc.rpf\\ex_int_office_02b_dlc.ytyp",
-    "DlcName": "mpexecutive",
-    "Locations": [
-      {
-        "InteriorId": 237313,
-        "FilePath": "update\\x64\\dlcpacks\\mpexecutive\\dlc.rpf\\x64\\levels\\gta5\\interiors\\exec_warehouse_placement.rpf\\ex_dt1_02_office_02b.ymap",
-        "DlcName": "mpexecutive",
-        "Position": {
-          "X": -139.53947,
-          "Y": -629.0757,
-          "Z": 167.82037
-        },
-        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpexecutive\\dlc.rpf\\common\\data\\interiorproxies.meta"
-      },
-      {
-        "InteriorId": 239617,
-        "FilePath": "update\\x64\\dlcpacks\\mpexecutive\\dlc.rpf\\x64\\levels\\gta5\\interiors\\exec_warehouse_placement.rpf\\ex_dt1_11_office_02b.ymap",
-        "DlcName": "mpexecutive",
-        "Position": {
-          "X": -73.799225,
-          "Y": -818.958,
-          "Z": 242.3858
-        },
-        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpexecutive\\dlc.rpf\\common\\data\\interiorproxies.meta"
-      },
-      {
-        "InteriorId": 241921,
-        "FilePath": "update\\x64\\dlcpacks\\mpexecutive\\dlc.rpf\\x64\\levels\\gta5\\interiors\\exec_warehouse_placement.rpf\\ex_sm_13_office_02b.ymap",
-        "DlcName": "mpexecutive",
-        "Position": {
-          "X": -1573.8491,
-          "Y": -571.0254,
-          "Z": 107.52286
-        },
-        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpexecutive\\dlc.rpf\\common\\data\\interiorproxies.meta"
-      },
-      {
-        "InteriorId": 244225,
-        "FilePath": "update\\x64\\dlcpacks\\mpexecutive\\dlc.rpf\\x64\\levels\\gta5\\interiors\\exec_warehouse_placement.rpf\\ex_sm_15_office_02b.ymap",
-        "DlcName": "mpexecutive",
-        "Position": {
-          "X": -1384.5636,
-          "Y": -478.26993,
-          "Z": 71.04205
-        },
-        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpexecutive\\dlc.rpf\\common\\data\\interiorproxies.meta"
-      }
-    ],
-    "TotalEntitiesCount": 222
-  },
-  {
     "Name": "ex_int_office_02a_dlc",
     "FilePath": "update\\x64\\dlcpacks\\mpexecutive\\dlc.rpf\\x64\\levels\\gta5\\interiors\\int_office_02_dlc.rpf\\ex_int_office_02_dlc.ytyp",
     "DlcName": "mpexecutive",
@@ -10629,6 +10577,58 @@
     "TotalEntitiesCount": 222
   },
   {
+    "Name": "ex_int_office_02b_dlc",
+    "FilePath": "update\\x64\\dlcpacks\\mpexecutive\\dlc.rpf\\x64\\levels\\gta5\\interiors\\int_office_02b_dlc.rpf\\ex_int_office_02b_dlc.ytyp",
+    "DlcName": "mpexecutive",
+    "Locations": [
+      {
+        "InteriorId": 237313,
+        "FilePath": "update\\x64\\dlcpacks\\mpexecutive\\dlc.rpf\\x64\\levels\\gta5\\interiors\\exec_warehouse_placement.rpf\\ex_dt1_02_office_02b.ymap",
+        "DlcName": "mpexecutive",
+        "Position": {
+          "X": -139.53947,
+          "Y": -629.0757,
+          "Z": 167.82037
+        },
+        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpexecutive\\dlc.rpf\\common\\data\\interiorproxies.meta"
+      },
+      {
+        "InteriorId": 239617,
+        "FilePath": "update\\x64\\dlcpacks\\mpexecutive\\dlc.rpf\\x64\\levels\\gta5\\interiors\\exec_warehouse_placement.rpf\\ex_dt1_11_office_02b.ymap",
+        "DlcName": "mpexecutive",
+        "Position": {
+          "X": -73.799225,
+          "Y": -818.958,
+          "Z": 242.3858
+        },
+        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpexecutive\\dlc.rpf\\common\\data\\interiorproxies.meta"
+      },
+      {
+        "InteriorId": 241921,
+        "FilePath": "update\\x64\\dlcpacks\\mpexecutive\\dlc.rpf\\x64\\levels\\gta5\\interiors\\exec_warehouse_placement.rpf\\ex_sm_13_office_02b.ymap",
+        "DlcName": "mpexecutive",
+        "Position": {
+          "X": -1573.8491,
+          "Y": -571.0254,
+          "Z": 107.52286
+        },
+        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpexecutive\\dlc.rpf\\common\\data\\interiorproxies.meta"
+      },
+      {
+        "InteriorId": 244225,
+        "FilePath": "update\\x64\\dlcpacks\\mpexecutive\\dlc.rpf\\x64\\levels\\gta5\\interiors\\exec_warehouse_placement.rpf\\ex_sm_15_office_02b.ymap",
+        "DlcName": "mpexecutive",
+        "Position": {
+          "X": -1384.5636,
+          "Y": -478.26993,
+          "Z": 71.04205
+        },
+        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpexecutive\\dlc.rpf\\common\\data\\interiorproxies.meta"
+      }
+    ],
+    "TotalEntitiesCount": 222
+  },
+  {
     "Name": "imp_impexp_int_02",
     "FilePath": "update\\x64\\dlcpacks\\mpimportexport\\dlc.rpf\\x64\\levels\\gta5\\interiors\\impexp_interior_02.rpf\\imp_impexp_interior_02.ytyp",
     "DlcName": "mpimportexport",
@@ -10648,23 +10648,67 @@
     "TotalEntitiesCount": 81
   },
   {
-    "Name": "imp_impexp_intwaremed",
-    "FilePath": "update\\x64\\dlcpacks\\mpimportexport\\dlc.rpf\\x64\\levels\\gta5\\interiors\\impexp_intwaremed.rpf\\imp_impexp_intwaremed.ytyp",
+    "Name": "imp_imptexp_mod_int_01",
+    "FilePath": "update\\x64\\dlcpacks\\mpimportexport\\dlc.rpf\\x64\\levels\\gta5\\interiors\\imptexp_mod_int_01.rpf\\imp_imptexp_mod_int_01.ytyp",
     "DlcName": "mpimportexport",
     "Locations": [
       {
-        "InteriorId": 252673,
-        "FilePath": "update\\x64\\dlcpacks\\mpimportexport\\dlc.rpf\\x64\\levels\\gta5\\interiors\\impexp_interior_placement.rpf\\imp_impexp_interior_placement_interior_1_impexp_intwaremed_milo_.ymap",
+        "InteriorId": 251905,
+        "FilePath": "update\\x64\\dlcpacks\\mpimportexport\\dlc.rpf\\x64\\levels\\gta5\\interiors\\impexp_interior_placement.rpf\\imp_dt1_02_modgarage.ymap",
         "DlcName": "mpimportexport",
         "Position": {
-          "X": 975.0,
-          "Y": -3000.0002,
+          "X": -146.61665,
+          "Y": -596.6301,
+          "Z": 166.0
+        },
+        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpimportexport\\dlc.rpf\\common\\data\\interiorproxies.meta"
+      },
+      {
+        "InteriorId": 251905,
+        "FilePath": "update\\x64\\dlcpacks\\mpimportexport\\dlc.rpf\\x64\\levels\\gta5\\interiors\\impexp_interior_placement.rpf\\imp_dt1_11_modgarage.ymap",
+        "DlcName": "mpimportexport",
+        "Position": {
+          "X": -73.90399,
+          "Y": -821.6204,
+          "Z": 284.0
+        },
+        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpimportexport\\dlc.rpf\\common\\data\\interiorproxies.meta"
+      },
+      {
+        "InteriorId": 252929,
+        "FilePath": "update\\x64\\dlcpacks\\mpimportexport\\dlc.rpf\\x64\\levels\\gta5\\interiors\\impexp_interior_placement.rpf\\imp_impexp_interior_placement_interior_2_imptexp_mod_int_01_milo_.ymap",
+        "DlcName": "mpimportexport",
+        "Position": {
+          "X": 730.0,
+          "Y": -2990.0002,
           "Z": -40.0
+        },
+        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpimportexport\\dlc.rpf\\common\\data\\interiorproxies.meta"
+      },
+      {
+        "InteriorId": 251905,
+        "FilePath": "update\\x64\\dlcpacks\\mpimportexport\\dlc.rpf\\x64\\levels\\gta5\\interiors\\impexp_interior_placement.rpf\\imp_sm_13_modgarage.ymap",
+        "DlcName": "mpimportexport",
+        "Position": {
+          "X": -1578.0225,
+          "Y": -576.4251,
+          "Z": 104.2
+        },
+        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpimportexport\\dlc.rpf\\common\\data\\interiorproxies.meta"
+      },
+      {
+        "InteriorId": 251905,
+        "FilePath": "update\\x64\\dlcpacks\\mpimportexport\\dlc.rpf\\x64\\levels\\gta5\\interiors\\impexp_interior_placement.rpf\\imp_sm_15_modgarage.ymap",
+        "DlcName": "mpimportexport",
+        "Position": {
+          "X": -1391.245,
+          "Y": -473.9638,
+          "Z": 77.2
         },
         "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpimportexport\\dlc.rpf\\common\\data\\interiorproxies.meta"
       }
     ],
-    "TotalEntitiesCount": 425
+    "TotalEntitiesCount": 100
   },
   {
     "Name": "imp_impexp_int_01",
@@ -10818,67 +10862,23 @@
     "TotalEntitiesCount": 32
   },
   {
-    "Name": "imp_imptexp_mod_int_01",
-    "FilePath": "update\\x64\\dlcpacks\\mpimportexport\\dlc.rpf\\x64\\levels\\gta5\\interiors\\imptexp_mod_int_01.rpf\\imp_imptexp_mod_int_01.ytyp",
+    "Name": "imp_impexp_intwaremed",
+    "FilePath": "update\\x64\\dlcpacks\\mpimportexport\\dlc.rpf\\x64\\levels\\gta5\\interiors\\impexp_intwaremed.rpf\\imp_impexp_intwaremed.ytyp",
     "DlcName": "mpimportexport",
     "Locations": [
       {
-        "InteriorId": 251905,
-        "FilePath": "update\\x64\\dlcpacks\\mpimportexport\\dlc.rpf\\x64\\levels\\gta5\\interiors\\impexp_interior_placement.rpf\\imp_dt1_02_modgarage.ymap",
+        "InteriorId": 252673,
+        "FilePath": "update\\x64\\dlcpacks\\mpimportexport\\dlc.rpf\\x64\\levels\\gta5\\interiors\\impexp_interior_placement.rpf\\imp_impexp_interior_placement_interior_1_impexp_intwaremed_milo_.ymap",
         "DlcName": "mpimportexport",
         "Position": {
-          "X": -146.61665,
-          "Y": -596.6301,
-          "Z": 166.0
-        },
-        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpimportexport\\dlc.rpf\\common\\data\\interiorproxies.meta"
-      },
-      {
-        "InteriorId": 251905,
-        "FilePath": "update\\x64\\dlcpacks\\mpimportexport\\dlc.rpf\\x64\\levels\\gta5\\interiors\\impexp_interior_placement.rpf\\imp_dt1_11_modgarage.ymap",
-        "DlcName": "mpimportexport",
-        "Position": {
-          "X": -73.90399,
-          "Y": -821.6204,
-          "Z": 284.0
-        },
-        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpimportexport\\dlc.rpf\\common\\data\\interiorproxies.meta"
-      },
-      {
-        "InteriorId": 252929,
-        "FilePath": "update\\x64\\dlcpacks\\mpimportexport\\dlc.rpf\\x64\\levels\\gta5\\interiors\\impexp_interior_placement.rpf\\imp_impexp_interior_placement_interior_2_imptexp_mod_int_01_milo_.ymap",
-        "DlcName": "mpimportexport",
-        "Position": {
-          "X": 730.0,
-          "Y": -2990.0002,
+          "X": 975.0,
+          "Y": -3000.0002,
           "Z": -40.0
-        },
-        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpimportexport\\dlc.rpf\\common\\data\\interiorproxies.meta"
-      },
-      {
-        "InteriorId": 251905,
-        "FilePath": "update\\x64\\dlcpacks\\mpimportexport\\dlc.rpf\\x64\\levels\\gta5\\interiors\\impexp_interior_placement.rpf\\imp_sm_13_modgarage.ymap",
-        "DlcName": "mpimportexport",
-        "Position": {
-          "X": -1578.0225,
-          "Y": -576.4251,
-          "Z": 104.2
-        },
-        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpimportexport\\dlc.rpf\\common\\data\\interiorproxies.meta"
-      },
-      {
-        "InteriorId": 251905,
-        "FilePath": "update\\x64\\dlcpacks\\mpimportexport\\dlc.rpf\\x64\\levels\\gta5\\interiors\\impexp_interior_placement.rpf\\imp_sm_15_modgarage.ymap",
-        "DlcName": "mpimportexport",
-        "Position": {
-          "X": -1391.245,
-          "Y": -473.9638,
-          "Z": 77.2
         },
         "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpimportexport\\dlc.rpf\\common\\data\\interiorproxies.meta"
       }
     ],
-    "TotalEntitiesCount": 100
+    "TotalEntitiesCount": 425
   },
   {
     "Name": "bkr_biker_dlc_int_03",
@@ -11033,6 +11033,25 @@
     "TotalEntitiesCount": 71
   },
   {
+    "Name": "gr_gta_milo_bar",
+    "FilePath": "update\\x64\\dlcpacks\\mpgunrunning\\dlc.rpf\\x64\\levels\\gta5\\interiors\\grdlc_yacht_int.rpf\\gr_grdlc_yacht_int.ytyp",
+    "DlcName": "mpgunrunning",
+    "Locations": [
+      {
+        "InteriorId": 259841,
+        "FilePath": "update\\x64\\dlcpacks\\mpgunrunning\\dlc.rpf\\x64\\levels\\gta5\\interiors\\yacht_metadata.rpf\\gr_heist_yacht2_bar.ymap",
+        "DlcName": "mpgunrunning",
+        "Position": {
+          "X": -1435.6836,
+          "Y": 6758.9004,
+          "Z": 7.971024
+        },
+        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpgunrunning\\dlc.rpf\\common\\data\\interiorproxies.meta"
+      }
+    ],
+    "TotalEntitiesCount": 151
+  },
+  {
     "Name": "gr_gta_milo_bedrm",
     "FilePath": "update\\x64\\dlcpacks\\mpgunrunning\\dlc.rpf\\x64\\levels\\gta5\\interiors\\grdlc_yacht_int.rpf\\gr_grdlc_yacht_int.ytyp",
     "DlcName": "mpgunrunning",
@@ -11109,25 +11128,6 @@
     "TotalEntitiesCount": 50
   },
   {
-    "Name": "gr_grdlc_int_02",
-    "FilePath": "update\\x64\\dlcpacks\\mpgunrunning\\dlc.rpf\\x64\\levels\\gta5\\interiors\\grdlc_int_02.rpf\\gr_grdlc_int_02.ytyp",
-    "DlcName": "mpgunrunning",
-    "Locations": [
-      {
-        "InteriorId": 258561,
-        "FilePath": "update\\x64\\dlcpacks\\mpgunrunning\\dlc.rpf\\x64\\levels\\gta5\\interiors\\grdlc_interior_placement.rpf\\gr_grdlc_interior_placement_interior_1_grdlc_int_02_milo_.ymap",
-        "DlcName": "mpgunrunning",
-        "Position": {
-          "X": 938.3077,
-          "Y": -3196.1116,
-          "Z": -100.0
-        },
-        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpgunrunning\\dlc.rpf\\common\\data\\interiorproxies.meta"
-      }
-    ],
-    "TotalEntitiesCount": 302
-  },
-  {
     "Name": "gr_grdlc_int_01",
     "FilePath": "update\\x64\\dlcpacks\\mpgunrunning\\dlc.rpf\\x64\\levels\\gta5\\interiors\\grdlc_int_01.rpf\\gr_grdlc_int_01.ytyp",
     "DlcName": "mpgunrunning",
@@ -11147,23 +11147,23 @@
     "TotalEntitiesCount": 4
   },
   {
-    "Name": "gr_gta_milo_bar",
-    "FilePath": "update\\x64\\dlcpacks\\mpgunrunning\\dlc.rpf\\x64\\levels\\gta5\\interiors\\grdlc_yacht_int.rpf\\gr_grdlc_yacht_int.ytyp",
+    "Name": "gr_grdlc_int_02",
+    "FilePath": "update\\x64\\dlcpacks\\mpgunrunning\\dlc.rpf\\x64\\levels\\gta5\\interiors\\grdlc_int_02.rpf\\gr_grdlc_int_02.ytyp",
     "DlcName": "mpgunrunning",
     "Locations": [
       {
-        "InteriorId": 259841,
-        "FilePath": "update\\x64\\dlcpacks\\mpgunrunning\\dlc.rpf\\x64\\levels\\gta5\\interiors\\yacht_metadata.rpf\\gr_heist_yacht2_bar.ymap",
+        "InteriorId": 258561,
+        "FilePath": "update\\x64\\dlcpacks\\mpgunrunning\\dlc.rpf\\x64\\levels\\gta5\\interiors\\grdlc_interior_placement.rpf\\gr_grdlc_interior_placement_interior_1_grdlc_int_02_milo_.ymap",
         "DlcName": "mpgunrunning",
         "Position": {
-          "X": -1435.6836,
-          "Y": 6758.9004,
-          "Z": 7.971024
+          "X": 938.3077,
+          "Y": -3196.1116,
+          "Z": -100.0
         },
         "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpgunrunning\\dlc.rpf\\common\\data\\interiorproxies.meta"
       }
     ],
-    "TotalEntitiesCount": 151
+    "TotalEntitiesCount": 302
   },
   {
     "Name": "sm_smugdlc_int_01",
@@ -11242,23 +11242,23 @@
     "TotalEntitiesCount": 131
   },
   {
-    "Name": "vw_dlc_casino_apart",
-    "FilePath": "update\\x64\\dlcpacks\\mpvinewood\\dlc.rpf\\x64\\levels\\gta5\\interiors\\vwdlc_int_02.rpf\\vw_vwdlc_int_02.ytyp",
+    "Name": "vw_dlc_casino_carpark",
+    "FilePath": "update\\x64\\dlcpacks\\mpvinewood\\dlc.rpf\\x64\\levels\\gta5\\interiors\\vwdlc_int_05.rpf\\vw_vwdlc_int_05.ytyp",
     "DlcName": "mpvinewood",
     "Locations": [
       {
-        "InteriorId": 274689,
-        "FilePath": "update\\x64\\dlcpacks\\mpvinewood\\dlc.rpf\\x64\\levels\\gta5\\interiors\\int_placement_vw.rpf\\vw_casino_penthouse.ymap",
+        "InteriorId": 274945,
+        "FilePath": "update\\x64\\dlcpacks\\mpvinewood\\dlc.rpf\\x64\\levels\\gta5\\interiors\\int_placement_vw.rpf\\vw_casino_carpark.ymap",
         "DlcName": "mpvinewood",
         "Position": {
-          "X": 976.6364,
-          "Y": 70.29476,
-          "Z": 115.16413
+          "X": 1380.0,
+          "Y": 200.0,
+          "Z": -50.0
         },
         "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpvinewood\\dlc.rpf\\common\\data\\interiorproxies.meta"
       }
     ],
-    "TotalEntitiesCount": 363
+    "TotalEntitiesCount": 82
   },
   {
     "Name": "vw_dlc_casino_garage",
@@ -11280,25 +11280,6 @@
     "TotalEntitiesCount": 80
   },
   {
-    "Name": "vw_dlc_casino_carpark",
-    "FilePath": "update\\x64\\dlcpacks\\mpvinewood\\dlc.rpf\\x64\\levels\\gta5\\interiors\\vwdlc_int_05.rpf\\vw_vwdlc_int_05.ytyp",
-    "DlcName": "mpvinewood",
-    "Locations": [
-      {
-        "InteriorId": 274945,
-        "FilePath": "update\\x64\\dlcpacks\\mpvinewood\\dlc.rpf\\x64\\levels\\gta5\\interiors\\int_placement_vw.rpf\\vw_casino_carpark.ymap",
-        "DlcName": "mpvinewood",
-        "Position": {
-          "X": 1380.0,
-          "Y": 200.0,
-          "Z": -50.0
-        },
-        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpvinewood\\dlc.rpf\\common\\data\\interiorproxies.meta"
-      }
-    ],
-    "TotalEntitiesCount": 82
-  },
-  {
     "Name": "vw_dlc_casino_main",
     "FilePath": "update\\x64\\dlcpacks\\mpvinewood\\dlc.rpf\\x64\\levels\\gta5\\interiors\\vwdlc_int_01.rpf\\vw_vwdlc_int_01.ytyp",
     "DlcName": "mpvinewood",
@@ -11316,6 +11297,25 @@
       }
     ],
     "TotalEntitiesCount": 704
+  },
+  {
+    "Name": "vw_dlc_casino_apart",
+    "FilePath": "update\\x64\\dlcpacks\\mpvinewood\\dlc.rpf\\x64\\levels\\gta5\\interiors\\vwdlc_int_02.rpf\\vw_vwdlc_int_02.ytyp",
+    "DlcName": "mpvinewood",
+    "Locations": [
+      {
+        "InteriorId": 274689,
+        "FilePath": "update\\x64\\dlcpacks\\mpvinewood\\dlc.rpf\\x64\\levels\\gta5\\interiors\\int_placement_vw.rpf\\vw_casino_penthouse.ymap",
+        "DlcName": "mpvinewood",
+        "Position": {
+          "X": 976.6364,
+          "Y": 70.29476,
+          "Z": 115.16413
+        },
+        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpvinewood\\dlc.rpf\\common\\data\\interiorproxies.meta"
+      }
+    ],
+    "TotalEntitiesCount": 363
   },
   {
     "Name": "sum_mpapa_yacht",
@@ -11365,25 +11365,6 @@
       }
     ],
     "TotalEntitiesCount": 481
-  },
-  {
-    "Name": "tr_tuner_mod_garage",
-    "FilePath": "update\\x64\\dlcpacks\\mptuner\\dlc.rpf\\x64\\levels\\gta5\\interiors\\dlc_int_01_tr.rpf\\tr_dlc_int_01_tr.ytyp",
-    "DlcName": "mptuner",
-    "Locations": [
-      {
-        "InteriorId": 285953,
-        "FilePath": "update\\x64\\dlcpacks\\mptuner\\dlc.rpf\\x64\\levels\\gta5\\interiors\\int_placement_tr.rpf\\tr_int_placement_tr_interior_0_tuner_mod_garage_milo_.ymap",
-        "DlcName": "mptuner",
-        "Position": {
-          "X": -1350.0,
-          "Y": 160.0,
-          "Z": -100.0
-        },
-        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mptuner\\dlc.rpf\\common\\data\\interiorproxies.meta"
-      }
-    ],
-    "TotalEntitiesCount": 70
   },
   {
     "Name": "tr_tuner_methlab_1",
@@ -11436,5 +11417,174 @@
       }
     ],
     "TotalEntitiesCount": 183
+  },
+  {
+    "Name": "tr_tuner_mod_garage",
+    "FilePath": "update\\x64\\dlcpacks\\mptuner\\dlc.rpf\\x64\\levels\\gta5\\interiors\\dlc_int_01_tr.rpf\\tr_dlc_int_01_tr.ytyp",
+    "DlcName": "mptuner",
+    "Locations": [
+      {
+        "InteriorId": 285953,
+        "FilePath": "update\\x64\\dlcpacks\\mptuner\\dlc.rpf\\x64\\levels\\gta5\\interiors\\int_placement_tr.rpf\\tr_int_placement_tr_interior_0_tuner_mod_garage_milo_.ymap",
+        "DlcName": "mptuner",
+        "Position": {
+          "X": -1350.0,
+          "Y": 160.0,
+          "Z": -100.0
+        },
+        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mptuner\\dlc.rpf\\common\\data\\interiorproxies.meta"
+      }
+    ],
+    "TotalEntitiesCount": 70
+  },
+  {
+    "Name": "sf_mpapa_yacht",
+    "FilePath": "update\\x64\\dlcpacks\\mpsecurity\\dlc1.rpf\\x64\\levels\\gta5\\interiors\\int_mp_yacht.rpf\\sf_int_mp_yacht.ytyp",
+    "DlcName": "mpsecurity",
+    "Locations": [
+      {
+        "InteriorId": 288769,
+        "FilePath": "update\\x64\\dlcpacks\\mpsecurity\\dlc1.rpf\\x64\\levels\\gta5\\mpsecurity_additions\\fixer_yacht_metadata.rpf\\sf_yacht_01_int.ymap",
+        "DlcName": "mpsecurity",
+        "Position": {
+          "X": -3283.5376,
+          "Y": -1580.6418,
+          "Z": 4.888077
+        },
+        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpsecurity\\dlc.rpf\\common\\data\\interiorproxies.meta"
+      },
+      {
+        "InteriorId": 289025,
+        "FilePath": "update\\x64\\dlcpacks\\mpsecurity\\dlc1.rpf\\x64\\levels\\gta5\\mpsecurity_additions\\fixer_yacht_metadata.rpf\\sf_yacht_02_int.ymap",
+        "DlcName": "mpsecurity",
+        "Position": {
+          "X": -830.93677,
+          "Y": -4807.9243,
+          "Z": 4.888077
+        },
+        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpsecurity\\dlc.rpf\\common\\data\\interiorproxies.meta"
+      }
+    ],
+    "TotalEntitiesCount": 446
+  },
+  {
+    "Name": "sf_dlc_warehouse_sec",
+    "FilePath": "update\\x64\\dlcpacks\\mpsecurity\\dlc1.rpf\\x64\\levels\\gta5\\interiors\\dlc_int_04_sec.rpf\\sf_dlc_int_04_sec.ytyp",
+    "DlcName": "mpsecurity",
+    "Locations": [
+      {
+        "InteriorId": 288513,
+        "FilePath": "update\\x64\\dlcpacks\\mpsecurity\\dlc1.rpf\\x64\\levels\\gta5\\interiors\\int_placement_sec.rpf\\sf_int_placement_sec_interior_7_dlc_warehouse_sec_milo_.ymap",
+        "DlcName": "mpsecurity",
+        "Position": {
+          "X": 2920.0,
+          "Y": 4470.0,
+          "Z": -100.0
+        },
+        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpsecurity\\dlc.rpf\\common\\data\\interiorproxies.meta"
+      }
+    ],
+    "TotalEntitiesCount": 128
+  },
+  {
+    "Name": "sf_dlc_garage_sec",
+    "FilePath": "update\\x64\\dlcpacks\\mpsecurity\\dlc1.rpf\\x64\\levels\\gta5\\interiors\\dlc_int_02_sec.rpf\\sf_dlc_int_02_sec.ytyp",
+    "DlcName": "mpsecurity",
+    "Locations": [
+      {
+        "InteriorId": 286721,
+        "FilePath": "update\\x64\\dlcpacks\\mpsecurity\\dlc1.rpf\\x64\\levels\\gta5\\interiors\\int_placement_sec.rpf\\sf_int_placement_sec_interior_2_dlc_garage_sec_milo_.ymap",
+        "DlcName": "mpsecurity",
+        "Position": {
+          "X": -1070.0,
+          "Y": -70.0,
+          "Z": -100.0
+        },
+        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpsecurity\\dlc.rpf\\common\\data\\interiorproxies.meta"
+      }
+    ],
+    "TotalEntitiesCount": 69
+  },
+  {
+    "Name": "sf_dlc_studio_sec",
+    "FilePath": "update\\x64\\dlcpacks\\mpsecurity\\dlc1.rpf\\x64\\levels\\gta5\\interiors\\dlc_int_03_sec.rpf\\sf_dlc_int_03_sec.ytyp",
+    "DlcName": "mpsecurity",
+    "Locations": [
+      {
+        "InteriorId": 286977,
+        "FilePath": "update\\x64\\dlcpacks\\mpsecurity\\dlc1.rpf\\x64\\levels\\gta5\\interiors\\int_placement_sec.rpf\\sf_int_placement_sec_interior_1_dlc_studio_sec_milo_.ymap",
+        "DlcName": "mpsecurity",
+        "Position": {
+          "X": -1010.0,
+          "Y": -70.0,
+          "Z": -100.0
+        },
+        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpsecurity\\dlc.rpf\\common\\data\\interiorproxies.meta"
+      }
+    ],
+    "TotalEntitiesCount": 417
+  },
+  {
+    "Name": "sf_dlc_office_sec",
+    "FilePath": "update\\x64\\dlcpacks\\mpsecurity\\dlc1.rpf\\x64\\levels\\gta5\\interiors\\dlc_int_01_sec.rpf\\sf_dlc_int_01_sec.ytyp",
+    "DlcName": "mpsecurity",
+    "Locations": [
+      {
+        "InteriorId": 287489,
+        "FilePath": "update\\x64\\dlcpacks\\mpsecurity\\dlc1.rpf\\x64\\levels\\gta5\\interiors\\int_placement_sec.rpf\\sf_fixeroffice_bh1_05.ymap",
+        "DlcName": "mpsecurity",
+        "Position": {
+          "X": -1020.2864,
+          "Y": -427.30176,
+          "Z": 62.861137
+        },
+        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpsecurity\\dlc.rpf\\common\\data\\interiorproxies.meta"
+      },
+      {
+        "InteriorId": 288257,
+        "FilePath": "update\\x64\\dlcpacks\\mpsecurity\\dlc1.rpf\\x64\\levels\\gta5\\interiors\\int_placement_sec.rpf\\sf_fixeroffice_hw1_08.ymap",
+        "DlcName": "mpsecurity",
+        "Position": {
+          "X": 384.814,
+          "Y": -60.727,
+          "Z": 102.363
+        },
+        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpsecurity\\dlc.rpf\\common\\data\\interiorproxies.meta"
+      },
+      {
+        "InteriorId": 288001,
+        "FilePath": "update\\x64\\dlcpacks\\mpsecurity\\dlc1.rpf\\x64\\levels\\gta5\\interiors\\int_placement_sec.rpf\\sf_fixeroffice_kt1_05.ymap",
+        "DlcName": "mpsecurity",
+        "Position": {
+          "X": -1003.911,
+          "Y": -759.604,
+          "Z": 60.89419
+        },
+        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpsecurity\\dlc.rpf\\common\\data\\interiorproxies.meta"
+      },
+      {
+        "InteriorId": 287745,
+        "FilePath": "update\\x64\\dlcpacks\\mpsecurity\\dlc1.rpf\\x64\\levels\\gta5\\interiors\\int_placement_sec.rpf\\sf_fixeroffice_kt1_08.ymap",
+        "DlcName": "mpsecurity",
+        "Position": {
+          "X": -589.4757,
+          "Y": -716.52594,
+          "Z": 112.00506
+        },
+        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpsecurity\\dlc.rpf\\common\\data\\interiorproxies.meta"
+      },
+      {
+        "InteriorId": 287233,
+        "FilePath": "update\\x64\\dlcpacks\\mpsecurity\\dlc1.rpf\\x64\\levels\\gta5\\interiors\\int_placement_sec.rpf\\sf_int_placement_sec_interior_0_dlc_office_sec_milo_.ymap",
+        "DlcName": "mpsecurity",
+        "Position": {
+          "X": -1120.0,
+          "Y": -70.0,
+          "Z": -100.0
+        },
+        "InteriorProxiesFilePath": "update\\x64\\dlcpacks\\mpsecurity\\dlc.rpf\\common\\data\\interiorproxies.meta"
+      }
+    ],
+    "TotalEntitiesCount": 427
   }
 ]

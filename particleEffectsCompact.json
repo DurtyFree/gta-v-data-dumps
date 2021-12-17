@@ -859,6 +859,7 @@
       "sp_fire_trail_plane",
       "wheel_fric_dusty_LOD",
       "ent_amb_waterfall_runoff",
+      "exp_sec_launched_emp",
       "ent_dst_ceramics",
       "wheel_decal_sand_wet_deep",
       "veh_sub_leak",
@@ -3872,6 +3873,57 @@
       "ent_anim_lighter_flame_plane",
       "ent_anim_cig_smoke_plane",
       "ent_anim_cig_exhale_nse_plane"
+    ]
+  },
+  {
+    "DictionaryName": "cut_sec",
+    "EffectNames": [
+      "cut_sec_weed_van_smoke",
+      "cut_sec_veh_tire_smoke",
+      "cut_sec_golfcart_wheel_debris",
+      "cut_sec_air_freshener_spray",
+      "cut_sec_cig_weed_smoke",
+      "cut_sec_window_cutting",
+      "cut_sec_chop_bite",
+      "cut_sec_eject_pistol",
+      "cut_sec_cig_lighter_sparks",
+      "cut_sec_weed_van_smoke_haze",
+      "cut_sec_helicopter_impact",
+      "cut_sec_cig_lighter_flame",
+      "cut_sec_golfclub_break",
+      "cut_sec_cig_weed_smoke_exhale",
+      "cut_sec_car_disturb_dust",
+      "cut_sec_golfclub_blood_drips",
+      "cut_sec_golf_grass_drop",
+      "cut_sec_helicopter_damage",
+      "cut_sec_veh_exhaust_car",
+      "cut_sec_golf_strike",
+      "cut_sec_beer_bottle",
+      "cut_sec_blood_pool",
+      "cut_sec_muz_pistol",
+      "cut_sec_golfclub_impact_blood",
+      "cut_sec_chop_weed_drool",
+      "cut_sec_veh_exhaust_truck",
+      "cut_sec_bul_metal_impact",
+      "cut_sec_helicopter_downwash"
+    ]
+  },
+  {
+    "DictionaryName": "scr_sec",
+    "EffectNames": [
+      "scr_sec_helicopter_impact",
+      "scr_sec_drink_pour",
+      "scr_sec_helicopter_damage",
+      "scr_sec_weed_burn_smoke_medium",
+      "scr_sec_weed_burn_haze",
+      "scr_sec_weed_burn_van",
+      "scr_sec_weed_burn_smoke_large",
+      "scr_sec_weed_smoke_exhale",
+      "scr_sec_weed_burn_smoke_small",
+      "scr_sec_weed_smoke",
+      "scr_sec_weed_burn_smoke_bag",
+      "scr_sec_weed_lighter_flame",
+      "scr_sec_weed_lighter_sparks"
     ]
   },
   {

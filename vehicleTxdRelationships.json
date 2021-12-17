@@ -2791,6 +2791,7 @@
     "Name": "vehicles_biker_shared",
     "VehicleModels": [
       null,
+      null,
       null
     ]
   },
@@ -3281,6 +3282,7 @@
   {
     "Name": "vehicles_cav_w2_interior",
     "VehicleModels": [
+      null,
       null
     ]
   },
@@ -4882,6 +4884,108 @@
   },
   {
     "Name": "freightcar2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "reever",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "granger2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "astron",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "jubilee",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "champion",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "cinquemila",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "patriot3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "ignus",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "baller7",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "deity",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "zeno",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "buffalo4",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "comet7",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "mule5",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "youga4",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "shinobi",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "iwagen",
     "VehicleModels": [
       null
     ]

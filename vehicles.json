@@ -75,7 +75,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "Airbus",
@@ -151,7 +152,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "Airtug",
@@ -222,7 +224,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "akula",
@@ -313,7 +316,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 3
   },
   {
     "Name": "akuma",
@@ -385,13 +389,15 @@
     "AdditionalTrailers": [],
     "Extras": [
       1,
-      9,
+      9
+    ],
+    "RequiredExtras": [
       6,
       7,
       8
     ],
-    "RequiredExtras": [],
-    "SpawnFrequency": 20.0
+    "SpawnFrequency": 20.0,
+    "WheelsCount": 2
   },
   {
     "Name": "alkonost",
@@ -468,7 +474,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 5
   },
   {
     "Name": "alpha",
@@ -541,7 +548,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "alphaz1",
@@ -615,7 +623,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 3
   },
   {
     "Name": "AMBULANCE",
@@ -695,7 +704,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "annihilator",
@@ -780,7 +790,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "annihilator2",
@@ -866,7 +877,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 3
   },
   {
     "Name": "apc",
@@ -958,7 +970,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "ardent",
@@ -1033,7 +1046,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "armytanker",
@@ -1107,7 +1121,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "armytrailer",
@@ -1180,7 +1195,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 6
   },
   {
     "Name": "armytrailer2",
@@ -1252,7 +1268,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 6
   },
   {
     "Name": "asbo",
@@ -1326,7 +1343,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 45.0
+    "SpawnFrequency": 45.0,
+    "WheelsCount": 4
   },
   {
     "Name": "asea",
@@ -1399,7 +1417,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 70.0
+    "SpawnFrequency": 70.0,
+    "WheelsCount": 4
   },
   {
     "Name": "asea2",
@@ -1470,7 +1489,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 70.0
+    "SpawnFrequency": 70.0,
+    "WheelsCount": 4
   },
   {
     "Name": "asterope",
@@ -1542,7 +1562,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "astron",
@@ -1613,7 +1634,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "autarch",
@@ -1685,7 +1707,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "avarus",
@@ -1757,7 +1780,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 2
   },
   {
     "Name": "avenger",
@@ -1846,7 +1870,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 6
   },
   {
     "Name": "avenger2",
@@ -1931,7 +1956,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 6
   },
   {
     "Name": "avisa",
@@ -2008,7 +2034,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 0
   },
   {
     "Name": "bagger",
@@ -2081,13 +2108,14 @@
     "DirtLevelMax": 1.2,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [
+    "Extras": [],
+    "RequiredExtras": [
       1,
       2,
       3
     ],
-    "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 2
   },
   {
     "Name": "baletrailer",
@@ -2158,7 +2186,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "Baller",
@@ -2231,7 +2260,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "baller2",
@@ -2304,7 +2334,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "baller3",
@@ -2377,7 +2408,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "baller4",
@@ -2450,7 +2482,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "baller5",
@@ -2526,7 +2559,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "baller6",
@@ -2602,7 +2636,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "baller7",
@@ -2675,7 +2710,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "banshee",
@@ -2750,7 +2786,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "banshee2",
@@ -2825,7 +2862,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "BARRACKS",
@@ -2897,7 +2935,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 6
   },
   {
     "Name": "BARRACKS2",
@@ -2988,7 +3027,8 @@
     ],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 6
   },
   {
     "Name": "BARRACKS3",
@@ -3060,7 +3100,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 6
   },
   {
     "Name": "barrage",
@@ -3146,7 +3187,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "bati",
@@ -3218,7 +3260,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 2
   },
   {
     "Name": "bati2",
@@ -3292,7 +3335,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 5.0
+    "SpawnFrequency": 5.0,
+    "WheelsCount": 2
   },
   {
     "Name": "Benson",
@@ -3371,7 +3415,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "besra",
@@ -3447,7 +3492,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 3
   },
   {
     "Name": "bestiagts",
@@ -3522,7 +3568,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "bf400",
@@ -3595,7 +3642,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 2
   },
   {
     "Name": "BfInjection",
@@ -3666,7 +3714,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "Biff",
@@ -3740,11 +3789,12 @@
     "DirtLevelMax": 0.3,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [
+    "Extras": [],
+    "RequiredExtras": [
       5
     ],
-    "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 6
   },
   {
     "Name": "bifta",
@@ -3816,7 +3866,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "bison",
@@ -3894,7 +3945,8 @@
     ],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "Bison2",
@@ -3974,7 +4026,8 @@
     ],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "Bison3",
@@ -4054,7 +4107,8 @@
     ],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "BjXL",
@@ -4135,7 +4189,8 @@
     ],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "blade",
@@ -4207,7 +4262,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "blazer",
@@ -4281,7 +4337,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "blazer2",
@@ -4354,7 +4411,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "blazer3",
@@ -4428,7 +4486,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "blazer4",
@@ -4502,7 +4561,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "blazer5",
@@ -4578,7 +4638,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "BLIMP",
@@ -4653,7 +4714,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 3
   },
   {
     "Name": "BLIMP2",
@@ -4728,7 +4790,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 3
   },
   {
     "Name": "blimp3",
@@ -4804,7 +4867,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 3
   },
   {
     "Name": "blista",
@@ -4876,7 +4940,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "blista2",
@@ -4947,7 +5012,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "blista3",
@@ -5018,7 +5084,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "BMX",
@@ -5090,7 +5157,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 2
   },
   {
     "Name": "boattrailer",
@@ -5163,7 +5231,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 2
   },
   {
     "Name": "bobcatXL",
@@ -5242,7 +5311,8 @@
     ],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "Bodhi2",
@@ -5322,7 +5392,8 @@
       5
     ],
     "RequiredExtras": [],
-    "SpawnFrequency": 1.0
+    "SpawnFrequency": 1.0,
+    "WheelsCount": 4
   },
   {
     "Name": "bombushka",
@@ -5411,7 +5482,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 5
   },
   {
     "Name": "boxville",
@@ -5488,7 +5560,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "boxville2",
@@ -5564,7 +5637,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "boxville3",
@@ -5640,7 +5714,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "boxville4",
@@ -5715,7 +5790,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "boxville5",
@@ -5800,7 +5876,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "brawler",
@@ -5878,7 +5955,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "brickade",
@@ -5953,7 +6031,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 6
   },
   {
     "Name": "brioso",
@@ -6024,7 +6103,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "brioso2",
@@ -6100,7 +6180,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "bruiser",
@@ -6183,7 +6264,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 6
   },
   {
     "Name": "bruiser2",
@@ -6267,7 +6349,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 6
   },
   {
     "Name": "bruiser3",
@@ -6350,7 +6433,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 6
   },
   {
     "Name": "brutus",
@@ -6432,11 +6516,12 @@
     "DirtLevelMax": 0.6,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [
+    "Extras": [],
+    "RequiredExtras": [
       1
     ],
-    "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "brutus2",
@@ -6520,11 +6605,12 @@
     "DirtLevelMax": 0.6,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [
+    "Extras": [],
+    "RequiredExtras": [
       1
     ],
-    "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "brutus3",
@@ -6606,11 +6692,12 @@
     "DirtLevelMax": 0.6,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [
+    "Extras": [],
+    "RequiredExtras": [
       1
     ],
-    "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "btype",
@@ -6683,7 +6770,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 1.0
+    "SpawnFrequency": 1.0,
+    "WheelsCount": 4
   },
   {
     "Name": "btype2",
@@ -6760,7 +6848,8 @@
       2
     ],
     "RequiredExtras": [],
-    "SpawnFrequency": 1.0
+    "SpawnFrequency": 1.0,
+    "WheelsCount": 4
   },
   {
     "Name": "btype3",
@@ -6831,7 +6920,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 1.0
+    "SpawnFrequency": 1.0,
+    "WheelsCount": 4
   },
   {
     "Name": "buccaneer",
@@ -6904,7 +6994,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "buccaneer2",
@@ -6979,7 +7070,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "buffalo",
@@ -7053,11 +7145,13 @@
       2,
       3,
       4,
-      5,
+      5
+    ],
+    "RequiredExtras": [
       1
     ],
-    "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "buffalo2",
@@ -7128,7 +7222,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "buffalo3",
@@ -7202,11 +7297,13 @@
       2,
       3,
       4,
-      5,
+      5
+    ],
+    "RequiredExtras": [
       1
     ],
-    "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "buffalo4",
@@ -7280,7 +7377,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "bulldozer",
@@ -7356,7 +7454,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "bullet",
@@ -7430,7 +7529,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 20.0
+    "SpawnFrequency": 20.0,
+    "WheelsCount": 4
   },
   {
     "Name": "Burrito",
@@ -7507,7 +7607,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "burrito2",
@@ -7584,7 +7685,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "burrito3",
@@ -7660,7 +7762,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "Burrito4",
@@ -7736,7 +7839,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "burrito5",
@@ -7813,7 +7917,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "BUS",
@@ -7888,7 +7993,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "buzzard",
@@ -7970,7 +8076,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "Buzzard2",
@@ -8048,7 +8155,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "cablecar",
@@ -8117,7 +8225,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 0
   },
   {
     "Name": "caddy",
@@ -8187,7 +8296,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "Caddy2",
@@ -8257,7 +8367,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "caddy3",
@@ -8328,7 +8439,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "calico",
@@ -8400,7 +8512,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "CAMPER",
@@ -8477,7 +8590,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "caracara",
@@ -8556,11 +8670,12 @@
     "DirtLevelMax": 0.27,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [
+    "Extras": [],
+    "RequiredExtras": [
       1
     ],
-    "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 6
   },
   {
     "Name": "caracara2",
@@ -8632,11 +8747,12 @@
     "DirtLevelMax": 0.3,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [
+    "Extras": [],
+    "RequiredExtras": [
       1
     ],
-    "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "carbonizzare",
@@ -8709,7 +8825,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "carbonrs",
@@ -8782,13 +8899,15 @@
     "AdditionalTrailers": [],
     "Extras": [
       1,
-      9,
+      9
+    ],
+    "RequiredExtras": [
       6,
       7,
       8
     ],
-    "RequiredExtras": [],
-    "SpawnFrequency": 20.0
+    "SpawnFrequency": 20.0,
+    "WheelsCount": 2
   },
   {
     "Name": "Cargobob",
@@ -8865,7 +8984,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 3
   },
   {
     "Name": "cargobob2",
@@ -8942,7 +9062,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 3
   },
   {
     "Name": "Cargobob3",
@@ -9017,7 +9138,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 3
   },
   {
     "Name": "Cargobob4",
@@ -9092,7 +9214,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 3
   },
   {
     "Name": "cargoplane",
@@ -9164,11 +9287,12 @@
     "DirtLevelMax": 4.871431,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [
+    "Extras": [],
+    "RequiredExtras": [
       1
     ],
-    "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 5
   },
   {
     "Name": "casco",
@@ -9242,7 +9366,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 5.0
+    "SpawnFrequency": 5.0,
+    "WheelsCount": 4
   },
   {
     "Name": "cavalcade",
@@ -9315,7 +9440,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "cavalcade2",
@@ -9388,7 +9514,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "cerberus",
@@ -9478,7 +9605,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 8
   },
   {
     "Name": "cerberus2",
@@ -9569,7 +9697,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 8
   },
   {
     "Name": "cerberus3",
@@ -9659,7 +9788,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 8
   },
   {
     "Name": "champion",
@@ -9732,7 +9862,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 80.0
+    "SpawnFrequency": 80.0,
+    "WheelsCount": 4
   },
   {
     "Name": "cheburek",
@@ -9806,7 +9937,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 5.0
+    "SpawnFrequency": 5.0,
+    "WheelsCount": 4
   },
   {
     "Name": "cheetah",
@@ -9884,7 +10016,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "cheetah2",
@@ -9957,7 +10090,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "chernobog",
@@ -10045,7 +10179,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 8
   },
   {
     "Name": "chimera",
@@ -10120,7 +10255,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 3
   },
   {
     "Name": "chino",
@@ -10193,7 +10329,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "chino2",
@@ -10267,7 +10404,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "cinquemila",
@@ -10339,7 +10477,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 80.0
+    "SpawnFrequency": 80.0,
+    "WheelsCount": 4
   },
   {
     "Name": "cliffhanger",
@@ -10412,7 +10551,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 2
   },
   {
     "Name": "clique",
@@ -10485,7 +10625,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "club",
@@ -10560,7 +10701,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 45.0
+    "SpawnFrequency": 45.0,
+    "WheelsCount": 4
   },
   {
     "Name": "coach",
@@ -10636,7 +10778,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 6
   },
   {
     "Name": "cog55",
@@ -10709,7 +10852,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 80.0
+    "SpawnFrequency": 80.0,
+    "WheelsCount": 4
   },
   {
     "Name": "cog552",
@@ -10785,7 +10929,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 80.0
+    "SpawnFrequency": 80.0,
+    "WheelsCount": 4
   },
   {
     "Name": "cogcabrio",
@@ -10859,7 +11004,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "cognoscenti",
@@ -10932,7 +11078,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 80.0
+    "SpawnFrequency": 80.0,
+    "WheelsCount": 4
   },
   {
     "Name": "cognoscenti2",
@@ -11008,7 +11155,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 80.0
+    "SpawnFrequency": 80.0,
+    "WheelsCount": 4
   },
   {
     "Name": "comet2",
@@ -11083,7 +11231,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "comet3",
@@ -11159,7 +11308,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "comet4",
@@ -11239,7 +11389,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "comet5",
@@ -11314,7 +11465,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "comet6",
@@ -11389,7 +11541,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "comet7",
@@ -11464,7 +11617,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "contender",
@@ -11536,7 +11690,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "coquette",
@@ -11613,7 +11768,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "coquette2",
@@ -11687,7 +11843,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "coquette3",
@@ -11761,7 +11918,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "coquette4",
@@ -11835,7 +11993,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "cruiser",
@@ -11906,7 +12065,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 2
   },
   {
     "Name": "CRUSADER",
@@ -11984,7 +12144,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "cuban800",
@@ -12060,7 +12221,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 3
   },
   {
     "Name": "cutter",
@@ -12130,7 +12292,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "cyclone",
@@ -12205,7 +12368,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "cypher",
@@ -12281,7 +12445,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "daemon",
@@ -12353,7 +12518,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 20.0
+    "SpawnFrequency": 20.0,
+    "WheelsCount": 2
   },
   {
     "Name": "daemon2",
@@ -12425,7 +12591,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 20.0
+    "SpawnFrequency": 20.0,
+    "WheelsCount": 2
   },
   {
     "Name": "deathbike",
@@ -12504,13 +12671,14 @@
     "DirtLevelMax": 1.1,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [
+    "Extras": [],
+    "RequiredExtras": [
       1,
       2,
       3
     ],
-    "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 2
   },
   {
     "Name": "deathbike2",
@@ -12589,13 +12757,14 @@
     "DirtLevelMax": 1.1,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [
+    "Extras": [],
+    "RequiredExtras": [
       1,
       2,
       3
     ],
-    "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 2
   },
   {
     "Name": "deathbike3",
@@ -12674,13 +12843,14 @@
     "DirtLevelMax": 1.1,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [
+    "Extras": [],
+    "RequiredExtras": [
       1,
       2,
       3
     ],
-    "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 2
   },
   {
     "Name": "defiler",
@@ -12753,7 +12923,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 60.0
+    "SpawnFrequency": 60.0,
+    "WheelsCount": 2
   },
   {
     "Name": "deity",
@@ -12831,7 +13002,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 80.0
+    "SpawnFrequency": 80.0,
+    "WheelsCount": 4
   },
   {
     "Name": "deluxo",
@@ -12913,7 +13085,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "deveste",
@@ -12989,7 +13162,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "deviant",
@@ -13063,7 +13237,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "diablous",
@@ -13132,13 +13307,14 @@
     "DirtLevelMax": 1.2,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [
+    "Extras": [],
+    "RequiredExtras": [
       6,
       7,
       8
     ],
-    "RequiredExtras": [],
-    "SpawnFrequency": 20.0
+    "SpawnFrequency": 20.0,
+    "WheelsCount": 2
   },
   {
     "Name": "diablous2",
@@ -13210,7 +13386,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 2
   },
   {
     "Name": "dilettante",
@@ -13280,7 +13457,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "dilettante2",
@@ -13352,7 +13530,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "Dinghy",
@@ -13426,11 +13605,12 @@
     "DirtLevelMax": 0.4,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [
+    "Extras": [],
+    "RequiredExtras": [
       3
     ],
-    "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 0
   },
   {
     "Name": "dinghy2",
@@ -13503,11 +13683,12 @@
     "DirtLevelMax": 0.4,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [
+    "Extras": [],
+    "RequiredExtras": [
       3
     ],
-    "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 0
   },
   {
     "Name": "dinghy3",
@@ -13581,11 +13762,12 @@
     "DirtLevelMax": 0.4,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [
+    "Extras": [],
+    "RequiredExtras": [
       3
     ],
-    "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 0
   },
   {
     "Name": "dinghy4",
@@ -13659,11 +13841,12 @@
     "DirtLevelMax": 0.4,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [
+    "Extras": [],
+    "RequiredExtras": [
       3
     ],
-    "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 0
   },
   {
     "Name": "dinghy5",
@@ -13746,7 +13929,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 0
   },
   {
     "Name": "dloader",
@@ -13819,7 +14003,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 70.0
+    "SpawnFrequency": 70.0,
+    "WheelsCount": 4
   },
   {
     "Name": "docktrailer",
@@ -13891,7 +14076,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "docktug",
@@ -13977,7 +14163,8 @@
     ],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "dodo",
@@ -14053,7 +14240,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "Dominator",
@@ -14126,7 +14314,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 90.0
+    "SpawnFrequency": 90.0,
+    "WheelsCount": 4
   },
   {
     "Name": "dominator2",
@@ -14199,7 +14388,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 90.0
+    "SpawnFrequency": 90.0,
+    "WheelsCount": 4
   },
   {
     "Name": "dominator3",
@@ -14272,7 +14462,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "dominator4",
@@ -14359,7 +14550,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 90.0
+    "SpawnFrequency": 90.0,
+    "WheelsCount": 4
   },
   {
     "Name": "dominator5",
@@ -14448,7 +14640,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 90.0
+    "SpawnFrequency": 90.0,
+    "WheelsCount": 4
   },
   {
     "Name": "dominator6",
@@ -14535,7 +14728,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 90.0
+    "SpawnFrequency": 90.0,
+    "WheelsCount": 4
   },
   {
     "Name": "dominator7",
@@ -14605,7 +14799,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "dominator8",
@@ -14675,7 +14870,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "double",
@@ -14748,7 +14944,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 2
   },
   {
     "Name": "drafter",
@@ -14823,7 +15020,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "dubsta",
@@ -14895,11 +15093,12 @@
     "DirtLevelMax": 0.8,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [
+    "Extras": [],
+    "RequiredExtras": [
       1
     ],
-    "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "dubsta2",
@@ -14973,7 +15172,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 5.0
+    "SpawnFrequency": 5.0,
+    "WheelsCount": 4
   },
   {
     "Name": "dubsta3",
@@ -15044,11 +15244,12 @@
     "DirtLevelMax": 0.6,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [
+    "Extras": [],
+    "RequiredExtras": [
       1
     ],
-    "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 6
   },
   {
     "Name": "dukes",
@@ -15120,7 +15321,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "dukes2",
@@ -15193,7 +15395,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "dukes3",
@@ -15265,7 +15468,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 45.0
+    "SpawnFrequency": 45.0,
+    "WheelsCount": 4
   },
   {
     "Name": "dump",
@@ -15337,11 +15541,12 @@
     "DirtLevelMax": 0.3,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [
+    "Extras": [],
+    "RequiredExtras": [
       1
     ],
-    "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "dune",
@@ -15415,7 +15620,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "dune2",
@@ -15486,7 +15692,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "dune3",
@@ -15569,7 +15776,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "dune4",
@@ -15644,7 +15852,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "dune5",
@@ -15719,7 +15928,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "duster",
@@ -15794,7 +16004,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 3
   },
   {
     "Name": "Dynasty",
@@ -15866,7 +16077,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 5.0
+    "SpawnFrequency": 5.0,
+    "WheelsCount": 4
   },
   {
     "Name": "elegy",
@@ -15937,7 +16149,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "elegy2",
@@ -16008,7 +16221,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "ellie",
@@ -16080,7 +16294,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "emerus",
@@ -16155,7 +16370,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "emperor",
@@ -16225,7 +16441,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "Emperor2",
@@ -16295,7 +16512,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "emperor3",
@@ -16366,7 +16584,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "enduro",
@@ -16440,7 +16659,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 2
   },
   {
     "Name": "entity2",
@@ -16516,7 +16736,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 12.0
+    "SpawnFrequency": 12.0,
+    "WheelsCount": 4
   },
   {
     "Name": "entityxf",
@@ -16592,7 +16813,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 12.0
+    "SpawnFrequency": 12.0,
+    "WheelsCount": 4
   },
   {
     "Name": "esskey",
@@ -16664,7 +16886,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 2
   },
   {
     "Name": "Euros",
@@ -16738,7 +16961,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 5.0
+    "SpawnFrequency": 5.0,
+    "WheelsCount": 4
   },
   {
     "Name": "everon",
@@ -16809,7 +17033,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "exemplar",
@@ -16884,7 +17109,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 15.0
+    "SpawnFrequency": 15.0,
+    "WheelsCount": 4
   },
   {
     "Name": "f620",
@@ -16959,7 +17185,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 80.0
+    "SpawnFrequency": 80.0,
+    "WheelsCount": 4
   },
   {
     "Name": "faction",
@@ -17031,7 +17258,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "faction2",
@@ -17104,7 +17332,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "faction3",
@@ -17177,7 +17406,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "fagaloa",
@@ -17247,7 +17477,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 5.0
+    "SpawnFrequency": 5.0,
+    "WheelsCount": 4
   },
   {
     "Name": "faggio",
@@ -17320,7 +17551,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 2
   },
   {
     "Name": "faggio2",
@@ -17393,7 +17625,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 2
   },
   {
     "Name": "faggio3",
@@ -17466,7 +17699,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 2
   },
   {
     "Name": "FBI",
@@ -17543,7 +17777,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "FBI2",
@@ -17619,7 +17854,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "fcr",
@@ -17692,7 +17928,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 60.0
+    "SpawnFrequency": 60.0,
+    "WheelsCount": 2
   },
   {
     "Name": "fcr2",
@@ -17767,7 +18004,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 60.0
+    "SpawnFrequency": 60.0,
+    "WheelsCount": 2
   },
   {
     "Name": "felon",
@@ -17839,7 +18077,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "felon2",
@@ -17911,7 +18150,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "feltzer2",
@@ -17986,7 +18226,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 5.0
+    "SpawnFrequency": 5.0,
+    "WheelsCount": 4
   },
   {
     "Name": "feltzer3",
@@ -18063,7 +18304,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 5.0
+    "SpawnFrequency": 5.0,
+    "WheelsCount": 4
   },
   {
     "Name": "firetruk",
@@ -18141,7 +18383,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "fixter",
@@ -18211,7 +18454,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 2
   },
   {
     "Name": "flashgt",
@@ -18288,7 +18532,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "FLATBED",
@@ -18364,7 +18609,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "fmj",
@@ -18439,7 +18685,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "FORKLIFT",
@@ -18507,7 +18754,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "formula",
@@ -18582,7 +18830,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "formula2",
@@ -18657,7 +18906,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "fq2",
@@ -18730,7 +18980,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "freecrawler",
@@ -18802,11 +19053,12 @@
     "DirtLevelMax": 0.3,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [
+    "Extras": [],
+    "RequiredExtras": [
       1
     ],
-    "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "freight",
@@ -18877,7 +19129,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 8
   },
   {
     "Name": "freightcar",
@@ -18947,7 +19200,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 8
   },
   {
     "Name": "freightcar2",
@@ -19018,7 +19272,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 8
   },
   {
     "Name": "freightcont1",
@@ -19090,7 +19345,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 8
   },
   {
     "Name": "freightcont2",
@@ -19161,7 +19417,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 8
   },
   {
     "Name": "freightgrain",
@@ -19231,7 +19488,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 8
   },
   {
     "Name": "freighttrailer",
@@ -19304,7 +19562,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 6
   },
   {
     "Name": "Frogger",
@@ -19381,7 +19640,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "frogger2",
@@ -19457,7 +19717,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "fugitive",
@@ -19531,7 +19792,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "furia",
@@ -19607,7 +19869,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "furoregt",
@@ -19680,7 +19943,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "fusilade",
@@ -19752,7 +20016,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 60.0
+    "SpawnFrequency": 60.0,
+    "WheelsCount": 4
   },
   {
     "Name": "futo",
@@ -19824,7 +20089,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "futo2",
@@ -19896,7 +20162,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "gargoyle",
@@ -19969,13 +20236,14 @@
     "DirtLevelMax": 1.1,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [
+    "Extras": [],
+    "RequiredExtras": [
       1,
       2,
       3
     ],
-    "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 2
   },
   {
     "Name": "Gauntlet",
@@ -20050,7 +20318,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 90.0
+    "SpawnFrequency": 90.0,
+    "WheelsCount": 4
   },
   {
     "Name": "gauntlet2",
@@ -20125,7 +20394,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 90.0
+    "SpawnFrequency": 90.0,
+    "WheelsCount": 4
   },
   {
     "Name": "gauntlet3",
@@ -20199,7 +20469,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 90.0
+    "SpawnFrequency": 90.0,
+    "WheelsCount": 4
   },
   {
     "Name": "gauntlet4",
@@ -20272,7 +20543,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "gauntlet5",
@@ -20346,7 +20618,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 90.0
+    "SpawnFrequency": 90.0,
+    "WheelsCount": 4
   },
   {
     "Name": "gb200",
@@ -20419,7 +20692,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "gburrito",
@@ -20491,7 +20765,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "gburrito2",
@@ -20562,7 +20837,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "glendale",
@@ -20631,7 +20907,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "glendale2",
@@ -20702,7 +20979,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "gp1",
@@ -20775,7 +21053,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "graintrailer",
@@ -20844,7 +21123,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "GRANGER",
@@ -20919,7 +21199,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "granger2",
@@ -20998,7 +21279,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "gresley",
@@ -21071,7 +21353,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "growler",
@@ -21146,7 +21429,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "gt500",
@@ -21219,7 +21503,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 5.0
+    "SpawnFrequency": 5.0,
+    "WheelsCount": 4
   },
   {
     "Name": "guardian",
@@ -21297,7 +21582,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "habanero",
@@ -21368,7 +21654,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "hakuchou",
@@ -21439,7 +21726,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 2
   },
   {
     "Name": "hakuchou2",
@@ -21510,7 +21798,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 2
   },
   {
     "Name": "halftrack",
@@ -21597,7 +21886,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 10
   },
   {
     "Name": "handler",
@@ -21665,7 +21955,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "Hauler",
@@ -21756,7 +22047,8 @@
     ],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 6
   },
   {
     "Name": "Hauler2",
@@ -21851,7 +22143,8 @@
     ],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 6
   },
   {
     "Name": "havok",
@@ -21929,7 +22222,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "hellion",
@@ -22003,11 +22297,12 @@
     "DirtLevelMax": 0.3,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [
+    "Extras": [],
+    "RequiredExtras": [
       1
     ],
-    "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "hermes",
@@ -22078,7 +22373,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 5.0
+    "SpawnFrequency": 5.0,
+    "WheelsCount": 4
   },
   {
     "Name": "hexer",
@@ -22150,7 +22446,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 2
   },
   {
     "Name": "hotknife",
@@ -22227,7 +22524,8 @@
       2
     ],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "hotring",
@@ -22299,7 +22597,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "howard",
@@ -22374,7 +22673,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 3
   },
   {
     "Name": "hunter",
@@ -22462,7 +22762,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 3
   },
   {
     "Name": "huntley",
@@ -22535,7 +22836,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "hustler",
@@ -22607,7 +22909,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 5.0
+    "SpawnFrequency": 5.0,
+    "WheelsCount": 4
   },
   {
     "Name": "hydra",
@@ -22687,7 +22990,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 5
   },
   {
     "Name": "ignus",
@@ -22763,7 +23067,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "imorgon",
@@ -22838,7 +23143,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "impaler",
@@ -22912,7 +23218,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "impaler2",
@@ -22995,7 +23302,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "impaler3",
@@ -23080,7 +23388,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "impaler4",
@@ -23163,7 +23472,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "imperator",
@@ -23246,7 +23556,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "imperator2",
@@ -23331,7 +23642,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "imperator3",
@@ -23414,7 +23726,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "infernus",
@@ -23487,7 +23800,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 20.0
+    "SpawnFrequency": 20.0,
+    "WheelsCount": 4
   },
   {
     "Name": "infernus2",
@@ -23563,7 +23877,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 20.0
+    "SpawnFrequency": 20.0,
+    "WheelsCount": 4
   },
   {
     "Name": "ingot",
@@ -23635,7 +23950,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "innovation",
@@ -23707,7 +24023,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 2
   },
   {
     "Name": "insurgent",
@@ -23788,11 +24105,12 @@
     "DirtLevelMax": 0.6,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [
+    "Extras": [],
+    "RequiredExtras": [
       1
     ],
-    "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "insurgent2",
@@ -23867,11 +24185,12 @@
     "DirtLevelMax": 0.6,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [
+    "Extras": [],
+    "RequiredExtras": [
       1
     ],
-    "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "insurgent3",
@@ -23959,11 +24278,12 @@
     "AdditionalTrailers": [
       "trailersmall2"
     ],
-    "Extras": [
+    "Extras": [],
+    "RequiredExtras": [
       1
     ],
-    "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "intruder",
@@ -24034,7 +24354,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 80.0
+    "SpawnFrequency": 80.0,
+    "WheelsCount": 4
   },
   {
     "Name": "issi2",
@@ -24105,7 +24426,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "issi3",
@@ -24179,7 +24501,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "issi4",
@@ -24262,7 +24585,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "issi5",
@@ -24347,7 +24671,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "issi6",
@@ -24430,7 +24755,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "issi7",
@@ -24505,7 +24831,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "italigtb",
@@ -24578,7 +24905,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "italigtb2",
@@ -24651,7 +24979,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "italigto",
@@ -24724,7 +25053,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "italirsx",
@@ -24797,7 +25127,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "iwagen",
@@ -24872,7 +25203,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "jackal",
@@ -24945,7 +25277,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "jb700",
@@ -25018,7 +25351,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "jb7002",
@@ -25094,7 +25428,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "jester",
@@ -25167,7 +25502,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "jester2",
@@ -25240,7 +25576,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "jester3",
@@ -25314,7 +25651,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 5.0
+    "SpawnFrequency": 5.0,
+    "WheelsCount": 4
   },
   {
     "Name": "jester4",
@@ -25388,7 +25726,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 5.0
+    "SpawnFrequency": 5.0,
+    "WheelsCount": 4
   },
   {
     "Name": "jet",
@@ -25462,7 +25801,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 10
   },
   {
     "Name": "jetmax",
@@ -25534,7 +25874,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 0
   },
   {
     "Name": "journey",
@@ -25608,12 +25949,13 @@
     "DirtLevelMax": 0.25,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [
+    "Extras": [],
+    "RequiredExtras": [
       1,
       3
     ],
-    "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "jubilee",
@@ -25690,7 +26032,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "jugular",
@@ -25766,7 +26109,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "kalahari",
@@ -25843,7 +26187,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 1.0
+    "SpawnFrequency": 1.0,
+    "WheelsCount": 4
   },
   {
     "Name": "kamacho",
@@ -25917,11 +26262,12 @@
     "DirtLevelMax": 0.3,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [
+    "Extras": [],
+    "RequiredExtras": [
       1
     ],
-    "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "kanjo",
@@ -25994,7 +26340,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "khamelion",
@@ -26068,7 +26415,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "khanjali",
@@ -26155,7 +26503,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 10
   },
   {
     "Name": "komoda",
@@ -26227,7 +26576,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "kosatka",
@@ -26312,7 +26662,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 0
   },
   {
     "Name": "krieger",
@@ -26389,7 +26740,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "kuruma",
@@ -26459,7 +26811,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "kuruma2",
@@ -26530,7 +26883,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "landstalker",
@@ -26604,7 +26958,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "landstalker2",
@@ -26677,7 +27032,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "Lazer",
@@ -26758,7 +27114,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 3
   },
   {
     "Name": "le7b",
@@ -26832,7 +27189,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "lectro",
@@ -26904,13 +27262,15 @@
     "AdditionalTrailers": [],
     "Extras": [
       1,
-      9,
+      9
+    ],
+    "RequiredExtras": [
       6,
       7,
       8
     ],
-    "RequiredExtras": [],
-    "SpawnFrequency": 20.0
+    "SpawnFrequency": 20.0,
+    "WheelsCount": 2
   },
   {
     "Name": "lguard",
@@ -26981,7 +27341,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "limo2",
@@ -27062,7 +27423,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 80.0
+    "SpawnFrequency": 80.0,
+    "WheelsCount": 4
   },
   {
     "Name": "locust",
@@ -27133,7 +27495,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "longfin",
@@ -27207,7 +27570,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 0
   },
   {
     "Name": "lurcher",
@@ -27280,7 +27644,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "luxor",
@@ -27356,7 +27721,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 3
   },
   {
     "Name": "luxor2",
@@ -27434,7 +27800,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 3
   },
   {
     "Name": "lynx",
@@ -27506,7 +27873,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "mamba",
@@ -27580,7 +27948,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "mammatus",
@@ -27657,7 +28026,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 3
   },
   {
     "Name": "manana",
@@ -27731,7 +28101,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "manana2",
@@ -27805,7 +28176,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "manchez",
@@ -27877,7 +28249,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 2
   },
   {
     "Name": "manchez2",
@@ -27949,7 +28322,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 2
   },
   {
     "Name": "marquis",
@@ -28023,7 +28397,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 0
   },
   {
     "Name": "marshall",
@@ -28095,7 +28470,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "massacro",
@@ -28168,7 +28544,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "massacro2",
@@ -28241,7 +28618,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "maverick",
@@ -28319,7 +28697,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "menacer",
@@ -28404,11 +28783,12 @@
     "DirtLevelMax": 0.6,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [
+    "Extras": [],
+    "RequiredExtras": [
       1
     ],
-    "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "MESA",
@@ -28481,7 +28861,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "mesa2",
@@ -28552,11 +28933,12 @@
     "DirtLevelMax": 0.3,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [
+    "Extras": [],
+    "RequiredExtras": [
       1
     ],
-    "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "MESA3",
@@ -28628,11 +29010,12 @@
     "DirtLevelMax": 0.3,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [
+    "Extras": [],
+    "RequiredExtras": [
       2
     ],
-    "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "metrotrain",
@@ -28706,7 +29089,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 8
   },
   {
     "Name": "michelli",
@@ -28777,7 +29161,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "microlight",
@@ -28859,7 +29244,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 3
   },
   {
     "Name": "Miljet",
@@ -28935,7 +29321,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "minitank",
@@ -29019,7 +29406,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 6
   },
   {
     "Name": "minivan",
@@ -29093,7 +29481,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "minivan2",
@@ -29168,7 +29557,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "Mixer",
@@ -29241,7 +29631,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 6
   },
   {
     "Name": "Mixer2",
@@ -29315,7 +29706,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 6
   },
   {
     "Name": "mogul",
@@ -29403,7 +29795,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 3
   },
   {
     "Name": "molotok",
@@ -29483,7 +29876,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 3
   },
   {
     "Name": "monroe",
@@ -29561,7 +29955,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 40.0
+    "SpawnFrequency": 40.0,
+    "WheelsCount": 4
   },
   {
     "Name": "monster",
@@ -29634,7 +30029,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "monster3",
@@ -29718,7 +30114,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "monster4",
@@ -29803,7 +30200,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "monster5",
@@ -29887,7 +30285,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "moonbeam",
@@ -29960,7 +30359,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "moonbeam2",
@@ -30034,7 +30434,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "Mower",
@@ -30104,7 +30505,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "Mule",
@@ -30178,7 +30580,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "Mule2",
@@ -30254,7 +30657,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "Mule3",
@@ -30327,7 +30731,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "mule4",
@@ -30411,7 +30816,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "mule5",
@@ -30484,7 +30890,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "nebula",
@@ -30558,7 +30965,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "nemesis",
@@ -30630,13 +31038,15 @@
     "AdditionalTrailers": [],
     "Extras": [
       1,
-      9,
+      9
+    ],
+    "RequiredExtras": [
       6,
       7,
       8
     ],
-    "RequiredExtras": [],
-    "SpawnFrequency": 20.0
+    "SpawnFrequency": 20.0,
+    "WheelsCount": 2
   },
   {
     "Name": "neo",
@@ -30710,7 +31120,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "neon",
@@ -30782,7 +31193,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "nero",
@@ -30856,7 +31268,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "nero2",
@@ -30932,7 +31345,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "nightblade",
@@ -31004,7 +31418,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 20.0
+    "SpawnFrequency": 20.0,
+    "WheelsCount": 2
   },
   {
     "Name": "nightshade",
@@ -31077,7 +31492,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 1.0
+    "SpawnFrequency": 1.0,
+    "WheelsCount": 4
   },
   {
     "Name": "nightshark",
@@ -31157,11 +31573,12 @@
       "trailersmall2"
     ],
     "AdditionalTrailers": [],
-    "Extras": [
+    "Extras": [],
+    "RequiredExtras": [
       1
     ],
-    "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "nimbus",
@@ -31239,7 +31656,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "ninef",
@@ -31313,7 +31731,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "ninef2",
@@ -31387,7 +31806,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "nokota",
@@ -31465,7 +31885,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 3
   },
   {
     "Name": "Novak",
@@ -31539,11 +31960,12 @@
     "DirtLevelMax": 0.8,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [
+    "Extras": [],
+    "RequiredExtras": [
       1
     ],
-    "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "omnis",
@@ -31616,7 +32038,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "openwheel1",
@@ -31691,7 +32114,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "openwheel2",
@@ -31764,11 +32188,12 @@
     "DirtLevelMax": 1.15,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [
+    "Extras": [],
+    "RequiredExtras": [
       9
     ],
-    "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "oppressor",
@@ -31848,7 +32273,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 2
   },
   {
     "Name": "oppressor2",
@@ -31928,7 +32354,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 2
   },
   {
     "Name": "oracle",
@@ -32000,7 +32427,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "oracle2",
@@ -32072,7 +32500,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "osiris",
@@ -32145,7 +32574,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "outlaw",
@@ -32219,7 +32649,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "Packer",
@@ -32309,7 +32740,8 @@
     ],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 6
   },
   {
     "Name": "panto",
@@ -32380,7 +32812,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "paradise",
@@ -32457,7 +32890,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "paragon",
@@ -32530,7 +32964,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "paragon2",
@@ -32608,7 +33043,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "pariah",
@@ -32680,7 +33116,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "patriot",
@@ -32756,7 +33193,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "patriot2",
@@ -32829,7 +33267,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "patriot3",
@@ -32908,7 +33347,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "patrolboat",
@@ -32994,7 +33434,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 0
   },
   {
     "Name": "pbus",
@@ -33067,7 +33508,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "pbus2",
@@ -33143,7 +33585,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "pcj",
@@ -33216,7 +33659,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 60.0
+    "SpawnFrequency": 60.0,
+    "WheelsCount": 2
   },
   {
     "Name": "penetrator",
@@ -33289,7 +33733,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "penumbra",
@@ -33359,7 +33804,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "penumbra2",
@@ -33433,7 +33879,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "peyote",
@@ -33506,7 +33953,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 40.0
+    "SpawnFrequency": 40.0,
+    "WheelsCount": 4
   },
   {
     "Name": "peyote2",
@@ -33579,7 +34027,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "peyote3",
@@ -33654,7 +34103,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "pfister811",
@@ -33731,7 +34181,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "Phantom",
@@ -33821,7 +34272,8 @@
     ],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 60.0
+    "SpawnFrequency": 60.0,
+    "WheelsCount": 6
   },
   {
     "Name": "phantom2",
@@ -33913,7 +34365,8 @@
     ],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 60.0
+    "SpawnFrequency": 60.0,
+    "WheelsCount": 6
   },
   {
     "Name": "phantom3",
@@ -34008,7 +34461,8 @@
     ],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 60.0
+    "SpawnFrequency": 60.0,
+    "WheelsCount": 6
   },
   {
     "Name": "Phoenix",
@@ -34081,7 +34535,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "picador",
@@ -34151,7 +34606,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "pigalle",
@@ -34222,7 +34678,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "police",
@@ -34302,7 +34759,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "police2",
@@ -34380,7 +34838,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "police3",
@@ -34460,7 +34919,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "police4",
@@ -34537,7 +34997,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "policeb",
@@ -34615,7 +35076,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 2
   },
   {
     "Name": "policeold1",
@@ -34685,11 +35147,12 @@
     "DirtLevelMax": 0.8,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [
+    "Extras": [],
+    "RequiredExtras": [
       1
     ],
-    "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "policeold2",
@@ -34759,11 +35222,12 @@
     "DirtLevelMax": 0.9,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [
+    "Extras": [],
+    "RequiredExtras": [
       1
     ],
-    "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "policet",
@@ -34840,7 +35304,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "polmav",
@@ -34925,7 +35390,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "pony",
@@ -35001,7 +35467,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "pony2",
@@ -35076,7 +35543,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "Pounder",
@@ -35151,7 +35619,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 6
   },
   {
     "Name": "pounder2",
@@ -35240,7 +35709,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 6
   },
   {
     "Name": "prairie",
@@ -35311,7 +35781,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 80.0
+    "SpawnFrequency": 80.0,
+    "WheelsCount": 4
   },
   {
     "Name": "pRanger",
@@ -35388,7 +35859,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "Predator",
@@ -35467,7 +35939,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 0
   },
   {
     "Name": "premier",
@@ -35537,7 +36010,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "previon",
@@ -35612,7 +36086,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "primo",
@@ -35684,7 +36159,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 40.0
+    "SpawnFrequency": 40.0,
+    "WheelsCount": 4
   },
   {
     "Name": "primo2",
@@ -35757,7 +36233,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 40.0
+    "SpawnFrequency": 40.0,
+    "WheelsCount": 4
   },
   {
     "Name": "proptrailer",
@@ -35831,11 +36308,13 @@
       2,
       3,
       4,
-      5,
+      5
+    ],
+    "RequiredExtras": [
       1
     ],
-    "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 0
   },
   {
     "Name": "prototipo",
@@ -35910,7 +36389,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "pyro",
@@ -35990,7 +36470,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 3
   },
   {
     "Name": "radi",
@@ -36060,7 +36541,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "raiden",
@@ -36132,7 +36614,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "raketrailer",
@@ -36202,7 +36685,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 2
   },
   {
     "Name": "rallytruck",
@@ -36274,7 +36758,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "RancherXL",
@@ -36353,7 +36838,8 @@
     ],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "rancherxl2",
@@ -36426,7 +36912,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "RapidGT",
@@ -36501,7 +36988,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "RapidGT2",
@@ -36575,7 +37063,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 40.0
+    "SpawnFrequency": 40.0,
+    "WheelsCount": 4
   },
   {
     "Name": "rapidgt3",
@@ -36647,7 +37136,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "raptor",
@@ -36720,7 +37210,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 3
   },
   {
     "Name": "ratbike",
@@ -36793,13 +37284,14 @@
     "DirtLevelMax": 1.2,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [
+    "Extras": [],
+    "RequiredExtras": [
       1,
       2,
       3
     ],
-    "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 2
   },
   {
     "Name": "ratloader",
@@ -36871,11 +37363,12 @@
     "DirtLevelMax": 0.4,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [
+    "Extras": [],
+    "RequiredExtras": [
       1
     ],
-    "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "ratloader2",
@@ -36947,11 +37440,12 @@
     "DirtLevelMax": 0.7,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [
+    "Extras": [],
+    "RequiredExtras": [
       1
     ],
-    "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "rcbandito",
@@ -37026,7 +37520,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "reaper",
@@ -37100,7 +37595,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "Rebel",
@@ -37177,7 +37673,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "rebel2",
@@ -37253,7 +37750,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "rebla",
@@ -37326,11 +37824,12 @@
     "DirtLevelMax": 0.85,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [
+    "Extras": [],
+    "RequiredExtras": [
       1
     ],
-    "RequiredExtras": [],
-    "SpawnFrequency": 40.0
+    "SpawnFrequency": 40.0,
+    "WheelsCount": 4
   },
   {
     "Name": "reever",
@@ -37403,7 +37902,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 60.0
+    "SpawnFrequency": 60.0,
+    "WheelsCount": 2
   },
   {
     "Name": "regina",
@@ -37476,7 +37976,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "remus",
@@ -37549,7 +38050,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "Rentalbus",
@@ -37626,7 +38128,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "retinue",
@@ -37698,7 +38201,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "retinue2",
@@ -37771,7 +38275,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "revolter",
@@ -37848,7 +38353,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "rhapsody",
@@ -37917,7 +38423,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "RHINO",
@@ -37996,7 +38503,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 10
   },
   {
     "Name": "riata",
@@ -38068,11 +38576,12 @@
     "DirtLevelMax": 0.3,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [
+    "Extras": [],
+    "RequiredExtras": [
       1
     ],
-    "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "RIOT",
@@ -38150,7 +38659,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "riot2",
@@ -38234,7 +38744,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 6
   },
   {
     "Name": "Ripley",
@@ -38307,7 +38818,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "rocoto",
@@ -38378,7 +38890,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "rogue",
@@ -38460,7 +38973,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 3
   },
   {
     "Name": "romero",
@@ -38533,7 +39047,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "rrocket",
@@ -38608,7 +39123,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 3
   },
   {
     "Name": "rt3000",
@@ -38683,7 +39199,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "Rubble",
@@ -38756,12 +39273,13 @@
     "DirtLevelMax": 0.25,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [
+    "Extras": [],
+    "RequiredExtras": [
       1,
       2
     ],
-    "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 6
   },
   {
     "Name": "ruffian",
@@ -38833,7 +39351,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 2
   },
   {
     "Name": "ruiner",
@@ -38909,7 +39428,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "ruiner2",
@@ -38991,7 +39511,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "ruiner3",
@@ -39067,7 +39588,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "rumpo",
@@ -39143,7 +39665,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "rumpo2",
@@ -39218,7 +39741,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "rumpo3",
@@ -39294,7 +39818,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "ruston",
@@ -39368,7 +39893,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "s80",
@@ -39447,7 +39973,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "sabregt",
@@ -39519,7 +40046,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "sabregt2",
@@ -39592,7 +40120,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "Sadler",
@@ -39671,7 +40200,8 @@
     ],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "sadler2",
@@ -39750,7 +40280,8 @@
     ],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "Sanchez",
@@ -39824,7 +40355,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 2
   },
   {
     "Name": "sanchez2",
@@ -39897,7 +40429,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 2
   },
   {
     "Name": "sanctus",
@@ -39969,7 +40502,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 2
   },
   {
     "Name": "sandking",
@@ -40041,11 +40575,12 @@
     "DirtLevelMax": 0.6,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [
+    "Extras": [],
+    "RequiredExtras": [
       1
     ],
-    "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "sandking2",
@@ -40116,11 +40651,12 @@
     "DirtLevelMax": 0.6,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [
+    "Extras": [],
+    "RequiredExtras": [
       1
     ],
-    "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "savage",
@@ -40203,7 +40739,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 3
   },
   {
     "Name": "savestra",
@@ -40277,7 +40814,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "sc1",
@@ -40351,7 +40889,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "scarab",
@@ -40443,7 +40982,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 10
   },
   {
     "Name": "scarab2",
@@ -40537,7 +41077,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 10
   },
   {
     "Name": "scarab3",
@@ -40629,7 +41170,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 10
   },
   {
     "Name": "schafter2",
@@ -40701,7 +41243,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 80.0
+    "SpawnFrequency": 80.0,
+    "WheelsCount": 4
   },
   {
     "Name": "schafter3",
@@ -40773,7 +41316,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 80.0
+    "SpawnFrequency": 80.0,
+    "WheelsCount": 4
   },
   {
     "Name": "schafter4",
@@ -40845,7 +41389,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 80.0
+    "SpawnFrequency": 80.0,
+    "WheelsCount": 4
   },
   {
     "Name": "schafter5",
@@ -40920,7 +41465,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 80.0
+    "SpawnFrequency": 80.0,
+    "WheelsCount": 4
   },
   {
     "Name": "schafter6",
@@ -40995,7 +41541,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 80.0
+    "SpawnFrequency": 80.0,
+    "WheelsCount": 4
   },
   {
     "Name": "schlagen",
@@ -41068,7 +41615,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 5.0
+    "SpawnFrequency": 5.0,
+    "WheelsCount": 4
   },
   {
     "Name": "schwarzer",
@@ -41139,7 +41687,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 40.0
+    "SpawnFrequency": 40.0,
+    "WheelsCount": 4
   },
   {
     "Name": "scorcher",
@@ -41211,12 +41760,14 @@
     "AdditionalTrailers": [],
     "Extras": [
       1,
-      2,
+      2
+    ],
+    "RequiredExtras": [
       3,
       4
     ],
-    "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 2
   },
   {
     "Name": "scramjet",
@@ -41296,7 +41847,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 12.0
+    "SpawnFrequency": 12.0,
+    "WheelsCount": 4
   },
   {
     "Name": "scrap",
@@ -41370,7 +41922,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 6
   },
   {
     "Name": "seabreeze",
@@ -41448,7 +42001,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 3
   },
   {
     "Name": "seashark",
@@ -41519,7 +42073,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 0
   },
   {
     "Name": "seashark2",
@@ -41590,7 +42145,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 0
   },
   {
     "Name": "seashark3",
@@ -41661,7 +42217,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 0
   },
   {
     "Name": "seasparrow",
@@ -41742,7 +42299,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "seasparrow2",
@@ -41824,7 +42382,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "seasparrow3",
@@ -41905,7 +42464,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "Seminole",
@@ -41984,7 +42544,8 @@
     ],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "seminole2",
@@ -42058,11 +42619,12 @@
     "DirtLevelMax": 0.8,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [
+    "Extras": [],
+    "RequiredExtras": [
       1
     ],
-    "RequiredExtras": [],
-    "SpawnFrequency": 45.0
+    "SpawnFrequency": 45.0,
+    "WheelsCount": 4
   },
   {
     "Name": "sentinel",
@@ -42135,7 +42697,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "sentinel2",
@@ -42208,7 +42771,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "sentinel3",
@@ -42280,7 +42844,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "serrano",
@@ -42352,7 +42917,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "SEVEN70",
@@ -42427,7 +42993,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "Shamal",
@@ -42504,7 +43071,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 3
   },
   {
     "Name": "sheava",
@@ -42577,7 +43145,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "SHERIFF",
@@ -42658,7 +43227,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "sheriff2",
@@ -42736,7 +43306,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "shinobi",
@@ -42809,7 +43380,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 60.0
+    "SpawnFrequency": 60.0,
+    "WheelsCount": 2
   },
   {
     "Name": "shotaro",
@@ -42881,7 +43453,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 5.0
+    "SpawnFrequency": 5.0,
+    "WheelsCount": 2
   },
   {
     "Name": "skylift",
@@ -42954,7 +43527,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 3
   },
   {
     "Name": "slamtruck",
@@ -43023,11 +43597,12 @@
     "DirtLevelMax": 0.6,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [
+    "Extras": [],
+    "RequiredExtras": [
       1
     ],
-    "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "slamvan",
@@ -43096,7 +43671,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 5.0
+    "SpawnFrequency": 5.0,
+    "WheelsCount": 4
   },
   {
     "Name": "slamvan2",
@@ -43166,7 +43742,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 5.0
+    "SpawnFrequency": 5.0,
+    "WheelsCount": 4
   },
   {
     "Name": "slamvan3",
@@ -43236,7 +43813,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 5.0
+    "SpawnFrequency": 5.0,
+    "WheelsCount": 4
   },
   {
     "Name": "slamvan4",
@@ -43318,7 +43896,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "slamvan5",
@@ -43402,7 +43981,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "slamvan6",
@@ -43484,7 +44064,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "sovereign",
@@ -43558,7 +44139,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 2
   },
   {
     "Name": "SPECTER",
@@ -43632,7 +44214,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "SPECTER2",
@@ -43706,7 +44289,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "speeder",
@@ -43778,7 +44362,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 0
   },
   {
     "Name": "speeder2",
@@ -43850,7 +44435,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 0
   },
   {
     "Name": "speedo",
@@ -43923,7 +44509,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "speedo2",
@@ -44001,7 +44588,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "speedo4",
@@ -44084,7 +44672,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "squaddie",
@@ -44156,7 +44745,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "squalo",
@@ -44231,7 +44821,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 0
   },
   {
     "Name": "stafford",
@@ -44303,7 +44894,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 5.0
+    "SpawnFrequency": 5.0,
+    "WheelsCount": 4
   },
   {
     "Name": "stalion",
@@ -44375,7 +44967,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "stalion2",
@@ -44447,7 +45040,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "stanier",
@@ -44518,7 +45112,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "starling",
@@ -44598,7 +45193,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 2
   },
   {
     "Name": "stinger",
@@ -44673,7 +45269,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 5.0
+    "SpawnFrequency": 5.0,
+    "WheelsCount": 4
   },
   {
     "Name": "stingergt",
@@ -44746,7 +45343,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 1.0
+    "SpawnFrequency": 1.0,
+    "WheelsCount": 4
   },
   {
     "Name": "stockade",
@@ -44821,11 +45419,12 @@
     "DirtLevelMax": 0.25,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [
+    "Extras": [],
+    "RequiredExtras": [
       1
     ],
-    "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "stockade3",
@@ -44901,7 +45500,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "stratum",
@@ -44971,7 +45571,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "streiter",
@@ -45047,7 +45648,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "stretch",
@@ -45120,7 +45722,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 20.0
+    "SpawnFrequency": 20.0,
+    "WheelsCount": 4
   },
   {
     "Name": "strikeforce",
@@ -45203,7 +45806,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 3
   },
   {
     "Name": "stromberg",
@@ -45283,7 +45887,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "Stryder",
@@ -45356,7 +45961,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 3
   },
   {
     "Name": "Stunt",
@@ -45432,7 +46038,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 3
   },
   {
     "Name": "submersible",
@@ -45506,7 +46113,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 0
   },
   {
     "Name": "submersible2",
@@ -45580,7 +46188,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 0
   },
   {
     "Name": "Sugoi",
@@ -45652,7 +46261,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "sultan",
@@ -45723,7 +46333,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "sultan2",
@@ -45797,7 +46408,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 40.0
+    "SpawnFrequency": 40.0,
+    "WheelsCount": 4
   },
   {
     "Name": "sultan3",
@@ -45871,7 +46483,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 40.0
+    "SpawnFrequency": 40.0,
+    "WheelsCount": 4
   },
   {
     "Name": "sultanrs",
@@ -45942,7 +46555,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "Suntrap",
@@ -46015,7 +46629,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 0
   },
   {
     "Name": "superd",
@@ -46088,7 +46703,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 80.0
+    "SpawnFrequency": 80.0,
+    "WheelsCount": 4
   },
   {
     "Name": "supervolito",
@@ -46167,7 +46783,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "supervolito2",
@@ -46246,7 +46863,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "Surano",
@@ -46320,7 +46938,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "SURFER",
@@ -46394,7 +47013,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "Surfer2",
@@ -46468,7 +47088,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "surge",
@@ -46539,7 +47160,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "swift",
@@ -46619,7 +47241,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 3
   },
   {
     "Name": "swift2",
@@ -46700,7 +47323,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 3
   },
   {
     "Name": "swinger",
@@ -46774,7 +47398,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 5.0
+    "SpawnFrequency": 5.0,
+    "WheelsCount": 4
   },
   {
     "Name": "t20",
@@ -46847,7 +47472,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "Taco",
@@ -46920,7 +47546,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 5.0
+    "SpawnFrequency": 5.0,
+    "WheelsCount": 4
   },
   {
     "Name": "tailgater",
@@ -46992,7 +47619,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "tailgater2",
@@ -47064,7 +47692,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "taipan",
@@ -47137,7 +47766,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "tampa",
@@ -47209,7 +47839,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "tampa2",
@@ -47281,7 +47912,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "tampa3",
@@ -47362,7 +47994,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "tanker",
@@ -47435,7 +48068,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "tanker2",
@@ -47508,7 +48142,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "tankercar",
@@ -47582,7 +48217,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 8
   },
   {
     "Name": "taxi",
@@ -47656,7 +48292,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "technical",
@@ -47735,7 +48372,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "technical2",
@@ -47814,7 +48452,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "technical3",
@@ -47901,7 +48540,8 @@
     ],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "tempesta",
@@ -47974,7 +48614,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "terbyte",
@@ -48057,7 +48698,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 6
   },
   {
     "Name": "tezeract",
@@ -48132,7 +48774,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "thrax",
@@ -48207,7 +48850,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "thrust",
@@ -48279,7 +48923,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 20.0
+    "SpawnFrequency": 20.0,
+    "WheelsCount": 2
   },
   {
     "Name": "thruster",
@@ -48361,7 +49006,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "tigon",
@@ -48438,7 +49084,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "TipTruck",
@@ -48510,12 +49157,13 @@
     "DirtLevelMax": 0.25,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [
+    "Extras": [],
+    "RequiredExtras": [
       1,
       2
     ],
-    "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "TipTruck2",
@@ -48586,11 +49234,12 @@
     "DirtLevelMax": 0.25,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [
+    "Extras": [],
+    "RequiredExtras": [
       1
     ],
-    "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 6
   },
   {
     "Name": "titan",
@@ -48667,7 +49316,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 5
   },
   {
     "Name": "toreador",
@@ -48750,7 +49400,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "torero",
@@ -48827,7 +49478,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 20.0
+    "SpawnFrequency": 20.0,
+    "WheelsCount": 4
   },
   {
     "Name": "tornado",
@@ -48899,7 +49551,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 20.0
+    "SpawnFrequency": 20.0,
+    "WheelsCount": 4
   },
   {
     "Name": "tornado2",
@@ -48971,7 +49624,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 20.0
+    "SpawnFrequency": 20.0,
+    "WheelsCount": 4
   },
   {
     "Name": "tornado3",
@@ -49042,7 +49696,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 20.0
+    "SpawnFrequency": 20.0,
+    "WheelsCount": 4
   },
   {
     "Name": "tornado4",
@@ -49114,7 +49769,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 20.0
+    "SpawnFrequency": 20.0,
+    "WheelsCount": 4
   },
   {
     "Name": "tornado5",
@@ -49188,7 +49844,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 20.0
+    "SpawnFrequency": 20.0,
+    "WheelsCount": 4
   },
   {
     "Name": "tornado6",
@@ -49259,7 +49916,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 20.0
+    "SpawnFrequency": 20.0,
+    "WheelsCount": 4
   },
   {
     "Name": "toro",
@@ -49337,7 +49995,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 0
   },
   {
     "Name": "toro2",
@@ -49415,7 +50074,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 0
   },
   {
     "Name": "toros",
@@ -49487,11 +50147,12 @@
     "DirtLevelMax": 0.8,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [
+    "Extras": [],
+    "RequiredExtras": [
       1
     ],
-    "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "TOURBUS",
@@ -49566,7 +50227,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "TOWTRUCK",
@@ -49640,7 +50302,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 6
   },
   {
     "Name": "Towtruck2",
@@ -49712,7 +50375,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 5.0
+    "SpawnFrequency": 5.0,
+    "WheelsCount": 4
   },
   {
     "Name": "tr2",
@@ -49784,7 +50448,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "tr3",
@@ -49853,7 +50518,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "tr4",
@@ -49925,7 +50591,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "TRACTOR",
@@ -50000,7 +50667,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "tractor2",
@@ -50076,7 +50744,8 @@
     ],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "tractor3",
@@ -50153,7 +50822,8 @@
     ],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "trailerlarge",
@@ -50229,7 +50899,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "trailerlogs",
@@ -50300,7 +50971,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "trailers",
@@ -50371,7 +51043,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "trailers2",
@@ -50443,7 +51116,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "trailers3",
@@ -50514,7 +51188,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "trailers4",
@@ -50583,7 +51258,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "trailersmall",
@@ -50654,7 +51330,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 2
   },
   {
     "Name": "trailersmall2",
@@ -50740,7 +51417,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "Trash",
@@ -50814,7 +51492,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 6
   },
   {
     "Name": "trash2",
@@ -50887,7 +51566,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 6
   },
   {
     "Name": "trflat",
@@ -50960,7 +51640,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "tribike",
@@ -51032,7 +51713,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 2
   },
   {
     "Name": "tribike2",
@@ -51104,7 +51786,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 2
   },
   {
     "Name": "tribike3",
@@ -51176,7 +51859,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 2
   },
   {
     "Name": "trophytruck",
@@ -51252,7 +51936,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "trophytruck2",
@@ -51328,7 +52013,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "tropic",
@@ -51402,7 +52088,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 0
   },
   {
     "Name": "tropic2",
@@ -51476,7 +52163,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 0
   },
   {
     "Name": "tropos",
@@ -51549,7 +52237,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "tug",
@@ -51623,7 +52312,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 0
   },
   {
     "Name": "tula",
@@ -51710,7 +52400,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 3
   },
   {
     "Name": "tulip",
@@ -51784,7 +52475,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "turismo2",
@@ -51861,7 +52553,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 20.0
+    "SpawnFrequency": 20.0,
+    "WheelsCount": 4
   },
   {
     "Name": "turismor",
@@ -51935,7 +52628,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "tvtrailer",
@@ -52006,7 +52700,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "tyrant",
@@ -52082,7 +52777,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "tyrus",
@@ -52154,7 +52850,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "utillitruck",
@@ -52228,7 +52925,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "utillitruck2",
@@ -52302,7 +53000,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 40.0
+    "SpawnFrequency": 40.0,
+    "WheelsCount": 4
   },
   {
     "Name": "Utillitruck3",
@@ -52376,7 +53075,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "vacca",
@@ -52450,7 +53150,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "Vader",
@@ -52522,7 +53223,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 60.0
+    "SpawnFrequency": 60.0,
+    "WheelsCount": 2
   },
   {
     "Name": "vagner",
@@ -52597,7 +53299,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "vagrant",
@@ -52673,7 +53376,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "valkyrie",
@@ -52757,7 +53461,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "valkyrie2",
@@ -52838,7 +53543,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "vamos",
@@ -52911,7 +53617,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "vectre",
@@ -52985,7 +53692,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 5.0
+    "SpawnFrequency": 5.0,
+    "WheelsCount": 4
   },
   {
     "Name": "velum",
@@ -53061,7 +53769,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 3
   },
   {
     "Name": "velum2",
@@ -53136,7 +53845,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 3
   },
   {
     "Name": "verlierer2",
@@ -53207,7 +53917,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "verus",
@@ -53278,7 +53989,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "vestra",
@@ -53357,7 +54069,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 3
   },
   {
     "Name": "vetir",
@@ -53431,7 +54144,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "veto",
@@ -53506,7 +54220,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "veto2",
@@ -53581,7 +54296,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "vigero",
@@ -53654,7 +54370,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "vigilante",
@@ -53735,7 +54452,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "vindicator",
@@ -53807,7 +54525,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 20.0
+    "SpawnFrequency": 20.0,
+    "WheelsCount": 2
   },
   {
     "Name": "virgo",
@@ -53879,7 +54598,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "virgo2",
@@ -53952,7 +54672,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "virgo3",
@@ -54024,7 +54745,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "viseris",
@@ -54103,7 +54825,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 20.0
+    "SpawnFrequency": 20.0,
+    "WheelsCount": 4
   },
   {
     "Name": "visione",
@@ -54179,7 +54902,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "volatol",
@@ -54262,7 +54986,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 5
   },
   {
     "Name": "volatus",
@@ -54342,7 +55067,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 3
   },
   {
     "Name": "voltic",
@@ -54417,7 +55143,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "voltic2",
@@ -54493,7 +55220,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "voodoo",
@@ -54563,7 +55291,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 20.0
+    "SpawnFrequency": 20.0,
+    "WheelsCount": 4
   },
   {
     "Name": "voodoo2",
@@ -54632,7 +55361,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 20.0
+    "SpawnFrequency": 20.0,
+    "WheelsCount": 4
   },
   {
     "Name": "vortex",
@@ -54705,7 +55435,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 60.0
+    "SpawnFrequency": 60.0,
+    "WheelsCount": 2
   },
   {
     "Name": "vstr",
@@ -54779,7 +55510,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "warrener",
@@ -54850,7 +55582,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "warrener2",
@@ -54921,7 +55654,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 45.0
+    "SpawnFrequency": 45.0,
+    "WheelsCount": 4
   },
   {
     "Name": "washington",
@@ -54991,7 +55725,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "wastelander",
@@ -55064,7 +55799,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 10.0
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4
   },
   {
     "Name": "weevil",
@@ -55139,7 +55875,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "windsor",
@@ -55212,7 +55949,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 80.0
+    "SpawnFrequency": 80.0,
+    "WheelsCount": 4
   },
   {
     "Name": "windsor2",
@@ -55285,7 +56023,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 80.0
+    "SpawnFrequency": 80.0,
+    "WheelsCount": 4
   },
   {
     "Name": "winky",
@@ -55361,7 +56100,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "wolfsbane",
@@ -55433,7 +56173,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 20.0
+    "SpawnFrequency": 20.0,
+    "WheelsCount": 2
   },
   {
     "Name": "xa21",
@@ -55509,7 +56250,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "xls",
@@ -55582,7 +56324,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "xls2",
@@ -55658,7 +56401,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "yosemite",
@@ -55728,7 +56472,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 5.0
+    "SpawnFrequency": 5.0,
+    "WheelsCount": 4
   },
   {
     "Name": "yosemite2",
@@ -55799,7 +56544,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 5.0
+    "SpawnFrequency": 5.0,
+    "WheelsCount": 4
   },
   {
     "Name": "yosemite3",
@@ -55875,7 +56621,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "youga",
@@ -55946,7 +56693,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "youga2",
@@ -56019,7 +56767,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "youga3",
@@ -56092,7 +56841,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "youga4",
@@ -56167,7 +56917,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "z190",
@@ -56242,7 +56993,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "zeno",
@@ -56317,7 +57069,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 50.0
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4
   },
   {
     "Name": "zentorno",
@@ -56390,7 +57143,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "zhaba",
@@ -56468,7 +57222,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "zion",
@@ -56540,7 +57295,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "zion2",
@@ -56612,7 +57368,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "zion3",
@@ -56687,7 +57444,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "zombiea",
@@ -56759,7 +57517,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 20.0
+    "SpawnFrequency": 20.0,
+    "WheelsCount": 2
   },
   {
     "Name": "zombieb",
@@ -56831,7 +57590,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 20.0
+    "SpawnFrequency": 20.0,
+    "WheelsCount": 2
   },
   {
     "Name": "zorrusso",
@@ -56903,7 +57663,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 30.0
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4
   },
   {
     "Name": "zr350",
@@ -56978,7 +57739,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 100.0
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4
   },
   {
     "Name": "zr380",
@@ -57062,7 +57824,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 90.0
+    "SpawnFrequency": 90.0,
+    "WheelsCount": 4
   },
   {
     "Name": "zr3802",
@@ -57148,7 +57911,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 90.0
+    "SpawnFrequency": 90.0,
+    "WheelsCount": 4
   },
   {
     "Name": "zr3803",
@@ -57232,7 +57996,8 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 90.0
+    "SpawnFrequency": 90.0,
+    "WheelsCount": 4
   },
   {
     "Name": "Ztype",
@@ -57303,6 +58068,7 @@
     "AdditionalTrailers": [],
     "Extras": [],
     "RequiredExtras": [],
-    "SpawnFrequency": 1.0
+    "SpawnFrequency": 1.0,
+    "WheelsCount": 4
   }
 ]

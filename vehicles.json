@@ -73,8 +73,15 @@
     "DirtLevelMax": 1.0,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      10,
+      12
+    ],
+    "RequiredExtras": [
+      1,
+      10
+    ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
   },
@@ -314,8 +321,16 @@
     "DirtLevelMax": 3.5920403,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      7
+    ],
+    "RequiredExtras": [
+      1,
+      2,
+      7
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 3
   },
@@ -389,12 +404,13 @@
     "AdditionalTrailers": [],
     "Extras": [
       1,
+      4,
       9
     ],
     "RequiredExtras": [
-      6,
-      7,
-      8
+      1,
+      4,
+      9
     ],
     "SpawnFrequency": 20.0,
     "WheelsCount": 2
@@ -546,8 +562,14 @@
     "DirtLevelMax": 1.0,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      10,
+      11,
+      12
+    ],
+    "RequiredExtras": [
+      11
+    ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
   },
@@ -702,8 +724,12 @@
     "DirtLevelMax": 0.6,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1
+    ],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4
   },
@@ -788,8 +814,16 @@
     "DirtLevelMax": 2.1766338,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      7
+    ],
+    "RequiredExtras": [
+      1,
+      2,
+      7
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -875,8 +909,16 @@
     "DirtLevelMax": 2.7893896,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      7
+    ],
+    "RequiredExtras": [
+      1,
+      2,
+      7
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 3
   },
@@ -1415,7 +1457,10 @@
     "DirtLevelMax": 0.4,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      10,
+      11
+    ],
     "RequiredExtras": [],
     "SpawnFrequency": 70.0,
     "WheelsCount": 4
@@ -1487,8 +1532,14 @@
     "DirtLevelMax": 0.4,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      10,
+      11
+    ],
+    "RequiredExtras": [
+      11
+    ],
     "SpawnFrequency": 70.0,
     "WheelsCount": 4
   },
@@ -1560,8 +1611,13 @@
     "DirtLevelMax": 0.9,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      10,
+      12
+    ],
+    "RequiredExtras": [
+      10
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -2109,11 +2165,7 @@
     "Trailers": [],
     "AdditionalTrailers": [],
     "Extras": [],
-    "RequiredExtras": [
-      1,
-      2,
-      3
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 30.0,
     "WheelsCount": 2
   },
@@ -2184,8 +2236,12 @@
     "DirtLevelMax": 0.7,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1
+    ],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4
   },
@@ -2258,8 +2314,14 @@
     "DirtLevelMax": 0.6,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      10,
+      11,
+      12
+    ],
+    "RequiredExtras": [
+      12
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -2332,8 +2394,13 @@
     "DirtLevelMax": 0.6,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      10,
+      12
+    ],
+    "RequiredExtras": [
+      10
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -2406,8 +2473,13 @@
     "DirtLevelMax": 0.6,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      10,
+      12
+    ],
+    "RequiredExtras": [
+      12
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -2480,7 +2552,10 @@
     "DirtLevelMax": 0.57,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      10,
+      12
+    ],
     "RequiredExtras": [],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
@@ -2557,7 +2632,10 @@
     "DirtLevelMax": 0.58,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      10,
+      12
+    ],
     "RequiredExtras": [],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
@@ -2634,7 +2712,10 @@
     "DirtLevelMax": 0.55,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      10,
+      12
+    ],
     "RequiredExtras": [],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
@@ -2753,9 +2834,9 @@
       "Z": -0.5873645
     },
     "DimensionsMax": {
-      "X": 1.0215428,
+      "X": 1.0216933,
       "Y": 2.3425794,
-      "Z": 0.7600021
+      "Z": 0.7603871
     },
     "BoundingCenter": {
       "X": 0.0,
@@ -2769,7 +2850,7 @@
     "MaxSpeed": 47.524525,
     "MaxTraction": 2.42,
     "Acceleration": 0.34,
-    "Agility": 0.72,
+    "Agility": 0.82,
     "MaxKnots": 0.0,
     "MoveResistance": 0.0,
     "HasArmoredWindows": false,
@@ -2784,8 +2865,15 @@
     "DirtLevelMax": 1.0,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      10
+    ],
+    "RequiredExtras": [
+      2,
+      10
+    ],
     "SpawnFrequency": 50.0,
     "WheelsCount": 4
   },
@@ -2860,8 +2948,13 @@
     "DirtLevelMax": 1.0,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2
+    ],
+    "RequiredExtras": [
+      2
+    ],
     "SpawnFrequency": 50.0,
     "WheelsCount": 4
   },
@@ -3413,8 +3506,22 @@
     "DirtLevelMax": 0.25,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      10,
+      11,
+      12
+    ],
+    "RequiredExtras": [
+      4,
+      10
+    ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4
   },
@@ -3712,8 +3819,16 @@
     "DirtLevelMax": 0.62,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      10,
+      11
+    ],
+    "RequiredExtras": [
+      1,
+      10
+    ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
   },
@@ -3789,9 +3904,16 @@
     "DirtLevelMax": 0.3,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      1,
+      5,
+      11,
+      12
+    ],
     "RequiredExtras": [
-      5
+      1,
+      5,
+      11
     ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 6
@@ -3943,8 +4065,13 @@
     "AdditionalTrailers": [
       "trailersmall2"
     ],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      10,
+      11
+    ],
+    "RequiredExtras": [
+      10
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -4024,8 +4151,15 @@
       "boattrailer",
       "trailersmall2"
     ],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      5,
+      10,
+      11,
+      12
+    ],
+    "RequiredExtras": [
+      11
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -4105,8 +4239,16 @@
     "AdditionalTrailers": [
       "trailersmall2"
     ],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      11,
+      12
+    ],
+    "RequiredExtras": [
+      2,
+      12
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -4187,8 +4329,14 @@
     "AdditionalTrailers": [
       "trailersmall2"
     ],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      5,
+      10,
+      11
+    ],
+    "RequiredExtras": [
+      10
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -4409,8 +4557,14 @@
     "DirtLevelMax": 0.8,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2
+    ],
+    "RequiredExtras": [
+      1,
+      2
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -4712,8 +4866,34 @@
     "DirtLevelMax": 3.9788,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12,
+      13
+    ],
+    "RequiredExtras": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12,
+      13
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 3
   },
@@ -4788,8 +4968,34 @@
     "DirtLevelMax": 4.2532,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12,
+      13
+    ],
+    "RequiredExtras": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12,
+      13
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 3
   },
@@ -4865,8 +5071,34 @@
     "DirtLevelMax": 3.9788,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12,
+      13
+    ],
+    "RequiredExtras": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12,
+      13
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 3
   },
@@ -4938,8 +5170,13 @@
     "DirtLevelMax": 0.6,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      10,
+      12
+    ],
+    "RequiredExtras": [
+      10
+    ],
     "SpawnFrequency": 50.0,
     "WheelsCount": 4
   },
@@ -5010,8 +5247,12 @@
     "DirtLevelMax": 0.55,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      2
+    ],
+    "RequiredExtras": [
+      2
+    ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
   },
@@ -5082,7 +5323,9 @@
     "DirtLevelMax": 0.55,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      2
+    ],
     "RequiredExtras": [],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
@@ -5309,8 +5552,15 @@
     "AdditionalTrailers": [
       "trailersmall2"
     ],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      10,
+      11,
+      12
+    ],
+    "RequiredExtras": [
+      12
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -5389,7 +5639,10 @@
     "Trailers": [],
     "AdditionalTrailers": [],
     "Extras": [
-      5
+      5,
+      10,
+      11,
+      12
     ],
     "RequiredExtras": [],
     "SpawnFrequency": 1.0,
@@ -5558,8 +5811,16 @@
     "DirtLevelMax": 0.25,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      2,
+      3,
+      4,
+      10,
+      11
+    ],
+    "RequiredExtras": [
+      3
+    ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4
   },
@@ -5635,7 +5896,10 @@
     "DirtLevelMax": 0.25,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      10,
+      11
+    ],
     "RequiredExtras": [],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4
@@ -5712,8 +5976,14 @@
     "DirtLevelMax": 0.25,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      10,
+      11
+    ],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4
   },
@@ -6029,8 +6299,12 @@
     "DirtLevelMax": 0.4,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1
+    ],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 6
   },
@@ -6086,7 +6360,7 @@
     "MaxSpeed": 41.536022,
     "MaxTraction": 2.3,
     "Acceleration": 0.29,
-    "Agility": 0.67,
+    "Agility": 0.77,
     "MaxKnots": 0.0,
     "MoveResistance": 0.0,
     "HasArmoredWindows": false,
@@ -6517,9 +6791,7 @@
     "Trailers": [],
     "AdditionalTrailers": [],
     "Extras": [],
-    "RequiredExtras": [
-      1
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
   },
@@ -6606,9 +6878,7 @@
     "Trailers": [],
     "AdditionalTrailers": [],
     "Extras": [],
-    "RequiredExtras": [
-      1
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
   },
@@ -6693,9 +6963,7 @@
     "Trailers": [],
     "AdditionalTrailers": [],
     "Extras": [],
-    "RequiredExtras": [
-      1
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
   },
@@ -6768,8 +7036,16 @@
     "DirtLevelMax": 0.55,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      3
+    ],
+    "RequiredExtras": [
+      1,
+      2,
+      3
+    ],
     "SpawnFrequency": 1.0,
     "WheelsCount": 4
   },
@@ -6843,10 +7119,7 @@
     "DirtLevelMax": 0.55,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [
-      1,
-      2
-    ],
+    "Extras": [],
     "RequiredExtras": [],
     "SpawnFrequency": 1.0,
     "WheelsCount": 4
@@ -6992,8 +7265,14 @@
     "DirtLevelMax": 0.8,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      10,
+      11,
+      12
+    ],
+    "RequiredExtras": [
+      11
+    ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4
   },
@@ -7068,8 +7347,15 @@
     "DirtLevelMax": 0.8,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "RequiredExtras": [
+      4
+    ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4
   },
@@ -7145,10 +7431,17 @@
       2,
       3,
       4,
-      5
+      5,
+      10,
+      11
     ],
     "RequiredExtras": [
-      1
+      1,
+      2,
+      3,
+      4,
+      5,
+      11
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
@@ -7220,7 +7513,10 @@
     "DirtLevelMax": 0.9,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      11,
+      12
+    ],
     "RequiredExtras": [],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
@@ -7292,16 +7588,8 @@
     "DirtLevelMax": 1.0,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [
-      1,
-      2,
-      3,
-      4,
-      5
-    ],
-    "RequiredExtras": [
-      1
-    ],
+    "Extras": [],
+    "RequiredExtras": [],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -7605,8 +7893,18 @@
     "DirtLevelMax": 0.6,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      5,
+      10,
+      11,
+      12
+    ],
+    "RequiredExtras": [
+      1,
+      10
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -7683,8 +7981,14 @@
     "DirtLevelMax": 0.6,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      10,
+      11,
+      12
+    ],
+    "RequiredExtras": [
+      12
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -7760,8 +8064,14 @@
     "DirtLevelMax": 0.6,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      10,
+      11,
+      12
+    ],
+    "RequiredExtras": [
+      10
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -7837,8 +8147,14 @@
     "DirtLevelMax": 0.6,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      10,
+      11,
+      12
+    ],
+    "RequiredExtras": [
+      10
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -7915,8 +8231,12 @@
     "DirtLevelMax": 0.6,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1
+    ],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -8074,8 +8394,20 @@
     "DirtLevelMax": 3.1211996,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      7,
+      8,
+      9
+    ],
+    "RequiredExtras": [
+      1,
+      2,
+      7,
+      8,
+      9
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -8153,8 +8485,16 @@
     "DirtLevelMax": 3.1211996,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      7
+    ],
+    "RequiredExtras": [
+      1,
+      2,
+      7
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -8365,7 +8705,9 @@
     "DirtLevelMax": 0.2,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      2
+    ],
     "RequiredExtras": [],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
@@ -8437,8 +8779,14 @@
     "DirtLevelMax": 0.2,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      3
+    ],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -8588,8 +8936,14 @@
     "DirtLevelMax": 0.25,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      3
+    ],
+    "RequiredExtras": [
+      2
+    ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4
   },
@@ -8671,9 +9025,7 @@
     "Trailers": [],
     "AdditionalTrailers": [],
     "Extras": [],
-    "RequiredExtras": [
-      1
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 30.0,
     "WheelsCount": 6
   },
@@ -8748,9 +9100,7 @@
     "Trailers": [],
     "AdditionalTrailers": [],
     "Extras": [],
-    "RequiredExtras": [
-      1
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
   },
@@ -8823,7 +9173,10 @@
     "DirtLevelMax": 0.8,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      10,
+      12
+    ],
     "RequiredExtras": [],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
@@ -8897,15 +9250,8 @@
     "DirtLevelMax": 1.3,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [
-      1,
-      9
-    ],
-    "RequiredExtras": [
-      6,
-      7,
-      8
-    ],
+    "Extras": [],
+    "RequiredExtras": [],
     "SpawnFrequency": 20.0,
     "WheelsCount": 2
   },
@@ -8982,8 +9328,14 @@
     "DirtLevelMax": 2.4949996,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2
+    ],
+    "RequiredExtras": [
+      1,
+      2
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 3
   },
@@ -9060,8 +9412,14 @@
     "DirtLevelMax": 2.4949996,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2
+    ],
+    "RequiredExtras": [
+      1,
+      2
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 3
   },
@@ -9136,8 +9494,14 @@
     "DirtLevelMax": 2.4949996,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2
+    ],
+    "RequiredExtras": [
+      1,
+      2
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 3
   },
@@ -9212,8 +9576,14 @@
     "DirtLevelMax": 2.4949996,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2
+    ],
+    "RequiredExtras": [
+      1,
+      2
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 3
   },
@@ -9287,9 +9657,12 @@
     "DirtLevelMax": 4.871431,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      7,
+      8
+    ],
     "RequiredExtras": [
-      1
+      8
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 5
@@ -9364,8 +9737,12 @@
     "DirtLevelMax": 0.6,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      2
+    ],
+    "RequiredExtras": [
+      2
+    ],
     "SpawnFrequency": 5.0,
     "WheelsCount": 4
   },
@@ -9438,7 +9815,10 @@
     "DirtLevelMax": 0.6,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      10,
+      11
+    ],
     "RequiredExtras": [],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
@@ -9512,8 +9892,14 @@
     "DirtLevelMax": 0.6,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      10,
+      11,
+      12
+    ],
+    "RequiredExtras": [
+      12
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -10327,8 +10713,14 @@
     "DirtLevelMax": 0.6,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      3
+    ],
+    "RequiredExtras": [
+      3
+    ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
   },
@@ -10402,8 +10794,14 @@
     "DirtLevelMax": 0.6,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      3
+    ],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
   },
@@ -10699,8 +11097,12 @@
     "DirtLevelMax": 0.72,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1
+    ],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 45.0,
     "WheelsCount": 4
   },
@@ -11688,8 +12090,12 @@
     "DirtLevelMax": 0.6,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1
+    ],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -11766,8 +12172,16 @@
     "DirtLevelMax": 0.8,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      10,
+      11
+    ],
+    "RequiredExtras": [
+      1,
+      11
+    ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4
   },
@@ -11841,8 +12255,13 @@
     "DirtLevelMax": 0.5,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2
+    ],
+    "RequiredExtras": [
+      2
+    ],
     "SpawnFrequency": 50.0,
     "WheelsCount": 4
   },
@@ -11916,8 +12335,13 @@
     "DirtLevelMax": 0.6,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2
+    ],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
   },
@@ -11991,8 +12415,12 @@
     "DirtLevelMax": 0.6,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1
+    ],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
   },
@@ -12142,8 +12570,15 @@
     "DirtLevelMax": 0.3,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      10,
+      11
+    ],
+    "RequiredExtras": [
+      1,
+      11
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -12290,7 +12725,9 @@
     "DirtLevelMax": 0.3,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      8
+    ],
     "RequiredExtras": [],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
@@ -12672,11 +13109,7 @@
     "Trailers": [],
     "AdditionalTrailers": [],
     "Extras": [],
-    "RequiredExtras": [
-      1,
-      2,
-      3
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 30.0,
     "WheelsCount": 2
   },
@@ -12758,11 +13191,7 @@
     "Trailers": [],
     "AdditionalTrailers": [],
     "Extras": [],
-    "RequiredExtras": [
-      1,
-      2,
-      3
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 30.0,
     "WheelsCount": 2
   },
@@ -12844,11 +13273,7 @@
     "Trailers": [],
     "AdditionalTrailers": [],
     "Extras": [],
-    "RequiredExtras": [
-      1,
-      2,
-      3
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 30.0,
     "WheelsCount": 2
   },
@@ -13145,7 +13570,7 @@
     "MaxSpeed": 52.677788,
     "MaxTraction": 2.725,
     "Acceleration": 0.42,
-    "Agility": 0.8,
+    "Agility": 0.84999996,
     "MaxKnots": 0.0,
     "MoveResistance": 0.0,
     "HasArmoredWindows": false,
@@ -13235,8 +13660,14 @@
     "DirtLevelMax": 0.5,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2
+    ],
+    "RequiredExtras": [
+      1,
+      2
+    ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
   },
@@ -13308,11 +13739,7 @@
     "Trailers": [],
     "AdditionalTrailers": [],
     "Extras": [],
-    "RequiredExtras": [
-      6,
-      7,
-      8
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 20.0,
     "WheelsCount": 2
   },
@@ -13455,7 +13882,9 @@
     "DirtLevelMax": 0.6,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      10
+    ],
     "RequiredExtras": [],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
@@ -13528,7 +13957,9 @@
     "DirtLevelMax": 0.6,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      10
+    ],
     "RequiredExtras": [],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
@@ -13605,7 +14036,10 @@
     "DirtLevelMax": 0.4,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      2,
+      3
+    ],
     "RequiredExtras": [
       3
     ],
@@ -13683,7 +14117,11 @@
     "DirtLevelMax": 0.4,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      1,
+      2,
+      3
+    ],
     "RequiredExtras": [
       3
     ],
@@ -13762,7 +14200,10 @@
     "DirtLevelMax": 0.4,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      2,
+      3
+    ],
     "RequiredExtras": [
       3
     ],
@@ -13841,7 +14282,10 @@
     "DirtLevelMax": 0.4,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      2,
+      3
+    ],
     "RequiredExtras": [
       3
     ],
@@ -13927,7 +14371,9 @@
     "DirtLevelMax": 0.4,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      3
+    ],
     "RequiredExtras": [],
     "SpawnFrequency": 100.0,
     "WheelsCount": 0
@@ -14001,8 +14447,18 @@
     "DirtLevelMax": 0.6,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      3,
+      10,
+      11,
+      12
+    ],
+    "RequiredExtras": [
+      3,
+      10
+    ],
     "SpawnFrequency": 70.0,
     "WheelsCount": 4
   },
@@ -14074,8 +14530,12 @@
     "DirtLevelMax": 0.7,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1
+    ],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4
   },
@@ -14312,7 +14772,11 @@
     "DirtLevelMax": 0.8,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      10,
+      11,
+      12
+    ],
     "RequiredExtras": [],
     "SpawnFrequency": 90.0,
     "WheelsCount": 4
@@ -15093,9 +15557,13 @@
     "DirtLevelMax": 0.8,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      10,
+      11,
+      12
+    ],
     "RequiredExtras": [
-      1
+      12
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
@@ -15170,7 +15638,10 @@
     "DirtLevelMax": 0.8,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      11,
+      12
+    ],
     "RequiredExtras": [],
     "SpawnFrequency": 5.0,
     "WheelsCount": 4
@@ -15245,9 +15716,7 @@
     "Trailers": [],
     "AdditionalTrailers": [],
     "Extras": [],
-    "RequiredExtras": [
-      1
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 100.0,
     "WheelsCount": 6
   },
@@ -15541,7 +16010,9 @@
     "DirtLevelMax": 0.3,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      1
+    ],
     "RequiredExtras": [
       1
     ],
@@ -15618,8 +16089,12 @@
     "DirtLevelMax": 0.63,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      2
+    ],
+    "RequiredExtras": [
+      2
+    ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
   },
@@ -16219,8 +16694,14 @@
     "DirtLevelMax": 0.5,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      10,
+      11
+    ],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4
   },
@@ -16368,8 +16849,12 @@
     "DirtLevelMax": 1.2,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1
+    ],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
   },
@@ -16439,8 +16924,14 @@
     "DirtLevelMax": 0.6,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      10,
+      11,
+      12
+    ],
+    "RequiredExtras": [
+      10
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -16510,8 +17001,14 @@
     "DirtLevelMax": 0.6,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      10,
+      11,
+      12
+    ],
+    "RequiredExtras": [
+      10
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -16582,8 +17079,16 @@
     "DirtLevelMax": 0.6,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      10,
+      11,
+      12
+    ],
+    "RequiredExtras": [
+      1,
+      10
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -16811,8 +17316,13 @@
     "DirtLevelMax": 0.9,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      10,
+      12
+    ],
+    "RequiredExtras": [
+      12
+    ],
     "SpawnFrequency": 12.0,
     "WheelsCount": 4
   },
@@ -17107,7 +17617,10 @@
     "DirtLevelMax": 0.9,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      10,
+      12
+    ],
     "RequiredExtras": [],
     "SpawnFrequency": 15.0,
     "WheelsCount": 4
@@ -17183,8 +17696,13 @@
     "DirtLevelMax": 0.9,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      10,
+      12
+    ],
+    "RequiredExtras": [
+      10
+    ],
     "SpawnFrequency": 80.0,
     "WheelsCount": 4
   },
@@ -17256,8 +17774,15 @@
     "DirtLevelMax": 0.8,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      2,
+      3,
+      5
+    ],
+    "RequiredExtras": [
+      3,
+      5
+    ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
   },
@@ -17330,8 +17855,13 @@
     "DirtLevelMax": 0.8,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      2,
+      3
+    ],
+    "RequiredExtras": [
+      2
+    ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
   },
@@ -17404,8 +17934,13 @@
     "DirtLevelMax": 0.8,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      2,
+      3
+    ],
+    "RequiredExtras": [
+      2
+    ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
   },
@@ -17775,8 +18310,12 @@
     "DirtLevelMax": 0.9,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      12
+    ],
+    "RequiredExtras": [
+      12
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -17852,8 +18391,13 @@
     "DirtLevelMax": 0.8,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      10,
+      12
+    ],
+    "RequiredExtras": [
+      10
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -18075,7 +18619,9 @@
     "DirtLevelMax": 0.9,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      11
+    ],
     "RequiredExtras": [],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
@@ -18148,8 +18694,12 @@
     "DirtLevelMax": 0.9,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      11
+    ],
+    "RequiredExtras": [
+      11
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -18530,8 +19080,12 @@
     "DirtLevelMax": 1.0,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1
+    ],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
   },
@@ -18797,7 +19351,7 @@
       "Z": -0.23739755
     },
     "DimensionsMax": {
-      "X": 0.896212,
+      "X": 0.906212,
       "Y": 2.4740057,
       "Z": 0.7795992
     },
@@ -18828,8 +19382,26 @@
     "DirtLevelMax": 1.25,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "RequiredExtras": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
   },
@@ -18904,8 +19476,26 @@
     "DirtLevelMax": 1.25,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "RequiredExtras": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
   },
@@ -18978,8 +19568,13 @@
     "DirtLevelMax": 0.25,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      10,
+      11
+    ],
+    "RequiredExtras": [
+      10
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -19054,9 +19649,7 @@
     "Trailers": [],
     "AdditionalTrailers": [],
     "Extras": [],
-    "RequiredExtras": [
-      1
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
   },
@@ -19270,7 +19863,12 @@
     "DirtLevelMax": 5.0,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      1,
+      2,
+      3,
+      4
+    ],
     "RequiredExtras": [],
     "SpawnFrequency": 100.0,
     "WheelsCount": 8
@@ -19343,8 +19941,12 @@
     "DirtLevelMax": 5.0,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1
+    ],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 8
   },
@@ -19638,8 +20240,16 @@
     "DirtLevelMax": 3.1099463,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      7
+    ],
+    "RequiredExtras": [
+      1,
+      2,
+      7
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -19715,8 +20325,18 @@
     "DirtLevelMax": 3.1099463,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      7,
+      12
+    ],
+    "RequiredExtras": [
+      1,
+      2,
+      7,
+      12
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -19790,7 +20410,10 @@
     "DirtLevelMax": 0.9,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      10,
+      12
+    ],
     "RequiredExtras": [],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
@@ -20014,8 +20637,12 @@
     "DirtLevelMax": 0.9,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      10
+    ],
+    "RequiredExtras": [
+      10
+    ],
     "SpawnFrequency": 60.0,
     "WheelsCount": 4
   },
@@ -20087,7 +20714,9 @@
     "DirtLevelMax": 0.5,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      1
+    ],
     "RequiredExtras": [],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
@@ -20237,11 +20866,7 @@
     "Trailers": [],
     "AdditionalTrailers": [],
     "Extras": [],
-    "RequiredExtras": [
-      1,
-      2,
-      3
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 30.0,
     "WheelsCount": 2
   },
@@ -20316,8 +20941,13 @@
     "DirtLevelMax": 0.9,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      10,
+      11
+    ],
+    "RequiredExtras": [
+      11
+    ],
     "SpawnFrequency": 90.0,
     "WheelsCount": 4
   },
@@ -20763,8 +21393,14 @@
     "DirtLevelMax": 0.6,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      10,
+      11,
+      12
+    ],
+    "RequiredExtras": [
+      10
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -21197,8 +21833,14 @@
     "DirtLevelMax": 0.8,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      10,
+      11
+    ],
+    "RequiredExtras": [
+      11
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -21351,8 +21993,14 @@
     "DirtLevelMax": 0.6,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      10,
+      11,
+      12
+    ],
+    "RequiredExtras": [
+      12
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -21652,8 +22300,13 @@
     "DirtLevelMax": 0.25,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      10,
+      11
+    ],
+    "RequiredExtras": [
+      10
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -21781,7 +22434,7 @@
     "MaxSpeed": 52.03867,
     "MaxTraction": 2.9,
     "Acceleration": 0.425,
-    "Agility": 0.805,
+    "Agility": 0.885,
     "MaxKnots": 0.0,
     "MoveResistance": 0.0,
     "HasArmoredWindows": false,
@@ -21884,8 +22537,12 @@
       "trailersmall2"
     ],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1
+    ],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 50.0,
     "WheelsCount": 10
   },
@@ -22045,8 +22702,12 @@
       "trailerlarge",
       "trailers4"
     ],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1
+    ],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 6
   },
@@ -22220,8 +22881,16 @@
     "DirtLevelMax": 3.1211996,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      7
+    ],
+    "RequiredExtras": [
+      1,
+      2,
+      7
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -22298,9 +22967,7 @@
     "Trailers": [],
     "AdditionalTrailers": [],
     "Extras": [],
-    "RequiredExtras": [
-      1
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
   },
@@ -22523,7 +23190,10 @@
       1,
       2
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      1,
+      2
+    ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
   },
@@ -22760,8 +23430,16 @@
     "DirtLevelMax": 3.2134576,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      7
+    ],
+    "RequiredExtras": [
+      1,
+      2,
+      7
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 3
   },
@@ -22834,8 +23512,14 @@
     "DirtLevelMax": 0.55,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      10,
+      11,
+      12
+    ],
+    "RequiredExtras": [
+      11
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -22907,8 +23591,12 @@
     "DirtLevelMax": 0.43,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1
+    ],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 5.0,
     "WheelsCount": 4
   },
@@ -22988,8 +23676,14 @@
     "DirtLevelMax": 9.681207,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2
+    ],
+    "RequiredExtras": [
+      1,
+      2
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 5
   },
@@ -23141,8 +23835,12 @@
     "DirtLevelMax": 0.835,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1
+    ],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
   },
@@ -23798,7 +24496,9 @@
     "DirtLevelMax": 0.5,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      1
+    ],
     "RequiredExtras": [],
     "SpawnFrequency": 20.0,
     "WheelsCount": 4
@@ -23948,8 +24648,15 @@
     "DirtLevelMax": 0.6,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      10,
+      11
+    ],
+    "RequiredExtras": [
+      1,
+      11
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -24105,7 +24812,9 @@
     "DirtLevelMax": 0.6,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      1
+    ],
     "RequiredExtras": [
       1
     ],
@@ -24186,9 +24895,7 @@
     "Trailers": [],
     "AdditionalTrailers": [],
     "Extras": [],
-    "RequiredExtras": [
-      1
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
   },
@@ -24278,7 +24985,9 @@
     "AdditionalTrailers": [
       "trailersmall2"
     ],
-    "Extras": [],
+    "Extras": [
+      1
+    ],
     "RequiredExtras": [
       1
     ],
@@ -24352,7 +25061,10 @@
     "DirtLevelMax": 0.9,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      10,
+      11
+    ],
     "RequiredExtras": [],
     "SpawnFrequency": 80.0,
     "WheelsCount": 4
@@ -24424,8 +25136,12 @@
     "DirtLevelMax": 0.6,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      11
+    ],
+    "RequiredExtras": [
+      11
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -24829,8 +25545,12 @@
     "DirtLevelMax": 1.0,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1
+    ],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
   },
@@ -25275,7 +25995,9 @@
     "DirtLevelMax": 0.9,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      11
+    ],
     "RequiredExtras": [],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
@@ -25349,8 +26071,14 @@
     "DirtLevelMax": 0.6,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      10,
+      11,
+      12
+    ],
+    "RequiredExtras": [
+      11
+    ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4
   },
@@ -25949,9 +26677,12 @@
     "DirtLevelMax": 0.25,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [
+    "Extras": [
       1,
+      2,
+      3
+    ],
+    "RequiredExtras": [
       3
     ],
     "SpawnFrequency": 10.0,
@@ -26107,8 +26838,12 @@
     "DirtLevelMax": 1.1,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1
+    ],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 50.0,
     "WheelsCount": 4
   },
@@ -26185,8 +26920,14 @@
     "DirtLevelMax": 1.0,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      3
+    ],
+    "RequiredExtras": [
+      2
+    ],
     "SpawnFrequency": 1.0,
     "WheelsCount": 4
   },
@@ -26262,7 +27003,9 @@
     "DirtLevelMax": 0.3,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      1
+    ],
     "RequiredExtras": [
       1
     ],
@@ -26338,8 +27081,12 @@
     "DirtLevelMax": 0.5,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1
+    ],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
   },
@@ -26413,8 +27160,14 @@
     "DirtLevelMax": 0.9,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      10,
+      11
+    ],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
   },
@@ -26738,8 +27491,12 @@
     "DirtLevelMax": 1.12,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1
+    ],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
   },
@@ -26956,7 +27713,9 @@
     "DirtLevelMax": 0.8,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      10
+    ],
     "RequiredExtras": [],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
@@ -27187,8 +27946,12 @@
     "DirtLevelMax": 1.1,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1
+    ],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 50.0,
     "WheelsCount": 4
   },
@@ -27260,15 +28023,8 @@
     "DirtLevelMax": 1.2,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [
-      1,
-      9
-    ],
-    "RequiredExtras": [
-      6,
-      7,
-      8
-    ],
+    "Extras": [],
+    "RequiredExtras": [],
     "SpawnFrequency": 20.0,
     "WheelsCount": 2
   },
@@ -27339,8 +28095,16 @@
     "DirtLevelMax": 0.8,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      10,
+      11,
+      12
+    ],
+    "RequiredExtras": [
+      1,
+      10
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -27946,8 +28710,14 @@
     "DirtLevelMax": 0.5,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      3
+    ],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
   },
@@ -28099,8 +28869,17 @@
     "DirtLevelMax": 0.25,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      10,
+      11,
+      12
+    ],
+    "RequiredExtras": [
+      1,
+      12
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -28174,8 +28953,15 @@
     "DirtLevelMax": 0.275,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "RequiredExtras": [
+      2
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -28468,8 +29254,14 @@
     "DirtLevelMax": 0.65,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      3
+    ],
+    "RequiredExtras": [
+      3
+    ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
   },
@@ -28542,7 +29334,10 @@
     "DirtLevelMax": 0.9,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      10,
+      11
+    ],
     "RequiredExtras": [],
     "SpawnFrequency": 50.0,
     "WheelsCount": 4
@@ -28616,8 +29411,13 @@
     "DirtLevelMax": 0.9,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      10,
+      11
+    ],
+    "RequiredExtras": [
+      11
+    ],
     "SpawnFrequency": 50.0,
     "WheelsCount": 4
   },
@@ -28695,8 +29495,20 @@
     "DirtLevelMax": 2.7552812,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      7,
+      10,
+      11
+    ],
+    "RequiredExtras": [
+      1,
+      2,
+      7,
+      10,
+      11
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -28784,9 +29596,7 @@
     "Trailers": [],
     "AdditionalTrailers": [],
     "Extras": [],
-    "RequiredExtras": [
-      1
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
   },
@@ -28859,7 +29669,11 @@
     "DirtLevelMax": 0.3,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      1,
+      11,
+      12
+    ],
     "RequiredExtras": [],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
@@ -28933,9 +29747,17 @@
     "DirtLevelMax": 0.3,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      1,
+      3,
+      4,
+      10,
+      11,
+      12
+    ],
     "RequiredExtras": [
-      1
+      1,
+      12
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
@@ -29010,9 +29832,17 @@
     "DirtLevelMax": 0.3,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      1,
+      2,
+      10,
+      11,
+      12
+    ],
     "RequiredExtras": [
-      2
+      1,
+      2,
+      10
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
@@ -29087,8 +29917,16 @@
     "DirtLevelMax": 5.0,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      3
+    ],
+    "RequiredExtras": [
+      1,
+      2,
+      3
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 8
   },
@@ -29404,8 +30242,14 @@
     "DirtLevelMax": 0.15,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2
+    ],
+    "RequiredExtras": [
+      1,
+      2
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 6
   },
@@ -29479,8 +30323,13 @@
     "DirtLevelMax": 0.4,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2
+    ],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -29629,8 +30478,12 @@
     "DirtLevelMax": 0.3,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1
+    ],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 6
   },
@@ -29704,8 +30557,12 @@
     "DirtLevelMax": 0.3,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1
+    ],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 6
   },
@@ -29953,8 +30810,12 @@
     "DirtLevelMax": 0.65,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      11
+    ],
+    "RequiredExtras": [
+      11
+    ],
     "SpawnFrequency": 40.0,
     "WheelsCount": 4
   },
@@ -30503,8 +31364,12 @@
     "DirtLevelMax": 0.5,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1
+    ],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -30578,8 +31443,18 @@
     "DirtLevelMax": 0.25,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "RequiredExtras": [
+      2
+    ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4
   },
@@ -30655,8 +31530,18 @@
     "DirtLevelMax": 0.25,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "RequiredExtras": [
+      6
+    ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4
   },
@@ -31036,15 +31921,8 @@
     "DirtLevelMax": 1.2,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [
-      1,
-      9
-    ],
-    "RequiredExtras": [
-      6,
-      7,
-      8
-    ],
+    "Extras": [],
+    "RequiredExtras": [],
     "SpawnFrequency": 20.0,
     "WheelsCount": 2
   },
@@ -31343,8 +32221,12 @@
     "DirtLevelMax": 1.1,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1
+    ],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
   },
@@ -31574,9 +32456,7 @@
     ],
     "AdditionalTrailers": [],
     "Extras": [],
-    "RequiredExtras": [
-      1
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
   },
@@ -31729,8 +32609,13 @@
     "DirtLevelMax": 1.0,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      10,
+      12
+    ],
+    "RequiredExtras": [
+      12
+    ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
   },
@@ -31804,8 +32689,13 @@
     "DirtLevelMax": 1.0,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      10,
+      12
+    ],
+    "RequiredExtras": [
+      10
+    ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
   },
@@ -31961,9 +32851,7 @@
     "Trailers": [],
     "AdditionalTrailers": [],
     "Extras": [],
-    "RequiredExtras": [
-      1
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
   },
@@ -32036,8 +32924,12 @@
     "DirtLevelMax": 1.0,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1
+    ],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 50.0,
     "WheelsCount": 4
   },
@@ -32112,8 +33004,22 @@
     "DirtLevelMax": 1.3,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "RequiredExtras": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
   },
@@ -32188,9 +33094,27 @@
     "DirtLevelMax": 1.15,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      11
+    ],
     "RequiredExtras": [
-      9
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      11
     ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
@@ -32425,8 +33349,13 @@
     "DirtLevelMax": 0.9,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      11,
+      12
+    ],
+    "RequiredExtras": [
+      12
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -32498,7 +33427,10 @@
     "DirtLevelMax": 0.9,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      11,
+      12
+    ],
     "RequiredExtras": [],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
@@ -32738,7 +33670,9 @@
       "trailerlarge",
       "trailers4"
     ],
-    "Extras": [],
+    "Extras": [
+      1
+    ],
     "RequiredExtras": [],
     "SpawnFrequency": 10.0,
     "WheelsCount": 6
@@ -32810,8 +33744,20 @@
     "DirtLevelMax": 0.6,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "RequiredExtras": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
   },
@@ -32888,8 +33834,13 @@
     "DirtLevelMax": 0.4,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2
+    ],
+    "RequiredExtras": [
+      2
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -33191,8 +34142,16 @@
     "DirtLevelMax": 0.32,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      5,
+      6,
+      11,
+      12
+    ],
+    "RequiredExtras": [
+      6
+    ],
     "SpawnFrequency": 50.0,
     "WheelsCount": 4
   },
@@ -33583,8 +34542,24 @@
     "DirtLevelMax": 0.25,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "RequiredExtras": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4
   },
@@ -33657,8 +34632,13 @@
     "DirtLevelMax": 1.3,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      4,
+      5
+    ],
+    "RequiredExtras": [
+      4
+    ],
     "SpawnFrequency": 60.0,
     "WheelsCount": 2
   },
@@ -33951,8 +34931,13 @@
     "DirtLevelMax": 0.25,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2
+    ],
+    "RequiredExtras": [
+      2
+    ],
     "SpawnFrequency": 40.0,
     "WheelsCount": 4
   },
@@ -34025,8 +35010,17 @@
     "DirtLevelMax": 0.9,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      3,
+      4,
+      8
+    ],
+    "RequiredExtras": [
+      4,
+      8
+    ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
   },
@@ -34101,8 +35095,15 @@
     "DirtLevelMax": 0.28,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -34179,8 +35180,12 @@
     "DirtLevelMax": 1.12,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1
+    ],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 50.0,
     "WheelsCount": 4
   },
@@ -34533,8 +35538,14 @@
     "DirtLevelMax": 0.8,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      4,
+      10,
+      11
+    ],
+    "RequiredExtras": [
+      11
+    ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
   },
@@ -34604,7 +35615,10 @@
     "DirtLevelMax": 0.8,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      11,
+      12
+    ],
     "RequiredExtras": [],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
@@ -34757,8 +35771,13 @@
     "DirtLevelMax": 0.9,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2
+    ],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -34836,7 +35855,10 @@
     "DirtLevelMax": 0.9,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      1,
+      12
+    ],
     "RequiredExtras": [],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
@@ -34917,8 +35939,14 @@
     "DirtLevelMax": 1.2,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      12
+    ],
+    "RequiredExtras": [
+      1,
+      12
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -34995,8 +36023,12 @@
     "DirtLevelMax": 0.9,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1
+    ],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -35147,7 +36179,11 @@
     "DirtLevelMax": 0.8,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      1,
+      3,
+      4
+    ],
     "RequiredExtras": [
       1
     ],
@@ -35222,7 +36258,14 @@
     "DirtLevelMax": 0.9,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      1,
+      3,
+      4,
+      10,
+      11,
+      12
+    ],
     "RequiredExtras": [
       1
     ],
@@ -35388,8 +36431,20 @@
     "DirtLevelMax": 2.9396074,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      7,
+      10,
+      11
+    ],
+    "RequiredExtras": [
+      1,
+      2,
+      7,
+      10,
+      11
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -35465,8 +36520,13 @@
     "DirtLevelMax": 0.6,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2
+    ],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4
   },
@@ -35541,8 +36601,13 @@
     "DirtLevelMax": 0.6,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2
+    ],
+    "RequiredExtras": [
+      2
+    ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4
   },
@@ -35617,8 +36682,13 @@
     "DirtLevelMax": 0.25,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2
+    ],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 6
   },
@@ -35779,8 +36849,13 @@
     "DirtLevelMax": 0.6,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      10,
+      11
+    ],
+    "RequiredExtras": [
+      10
+    ],
     "SpawnFrequency": 80.0,
     "WheelsCount": 4
   },
@@ -35857,7 +36932,10 @@
     "DirtLevelMax": 0.8,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      10,
+      11
+    ],
     "RequiredExtras": [],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
@@ -36008,8 +37086,13 @@
     "DirtLevelMax": 0.6,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      11,
+      12
+    ],
+    "RequiredExtras": [
+      12
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -36157,7 +37240,10 @@
     "DirtLevelMax": 0.9,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      11,
+      12
+    ],
     "RequiredExtras": [],
     "SpawnFrequency": 40.0,
     "WheelsCount": 4
@@ -36308,10 +37394,22 @@
       2,
       3,
       4,
-      5
+      5,
+      6,
+      7,
+      8,
+      9
     ],
     "RequiredExtras": [
-      1
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 0
@@ -36539,8 +37637,12 @@
     "DirtLevelMax": 0.8,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1
+    ],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -36836,7 +37938,11 @@
     "AdditionalTrailers": [
       "trailersmall2"
     ],
-    "Extras": [],
+    "Extras": [
+      10,
+      11,
+      12
+    ],
     "RequiredExtras": [],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
@@ -36910,8 +38016,12 @@
     "DirtLevelMax": 0.8,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1
+    ],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -36986,8 +38096,13 @@
     "DirtLevelMax": 1.0,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      10,
+      12
+    ],
+    "RequiredExtras": [
+      10
+    ],
     "SpawnFrequency": 50.0,
     "WheelsCount": 4
   },
@@ -37061,7 +38176,10 @@
     "DirtLevelMax": 1.0,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      10,
+      12
+    ],
     "RequiredExtras": [],
     "SpawnFrequency": 40.0,
     "WheelsCount": 4
@@ -37285,11 +38403,7 @@
     "Trailers": [],
     "AdditionalTrailers": [],
     "Extras": [],
-    "RequiredExtras": [
-      1,
-      2,
-      3
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 30.0,
     "WheelsCount": 2
   },
@@ -37363,7 +38477,11 @@
     "DirtLevelMax": 0.4,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      1,
+      10,
+      11
+    ],
     "RequiredExtras": [
       1
     ],
@@ -37441,9 +38559,7 @@
     "Trailers": [],
     "AdditionalTrailers": [],
     "Extras": [],
-    "RequiredExtras": [
-      1
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
   },
@@ -37671,8 +38787,17 @@
     "DirtLevelMax": 0.6,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      10,
+      12
+    ],
+    "RequiredExtras": [
+      1,
+      2,
+      10
+    ],
     "SpawnFrequency": 50.0,
     "WheelsCount": 4
   },
@@ -37748,8 +38873,16 @@
     "DirtLevelMax": 0.6,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      3,
+      4,
+      11
+    ],
+    "RequiredExtras": [
+      11
+    ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4
   },
@@ -37825,9 +38958,7 @@
     "Trailers": [],
     "AdditionalTrailers": [],
     "Extras": [],
-    "RequiredExtras": [
-      1
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 40.0,
     "WheelsCount": 4
   },
@@ -37974,8 +39105,20 @@
     "DirtLevelMax": 0.6,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      3,
+      4,
+      10,
+      11,
+      12
+    ],
+    "RequiredExtras": [
+      3,
+      4,
+      12
+    ],
     "SpawnFrequency": 50.0,
     "WheelsCount": 4
   },
@@ -38126,8 +39269,12 @@
     "DirtLevelMax": 0.25,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1
+    ],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4
   },
@@ -38501,8 +39648,28 @@
     "DirtLevelMax": 0.2,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "RequiredExtras": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 10
   },
@@ -38577,9 +39744,7 @@
     "Trailers": [],
     "AdditionalTrailers": [],
     "Extras": [],
-    "RequiredExtras": [
-      1
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
   },
@@ -38657,8 +39822,12 @@
     "DirtLevelMax": 0.25,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1
+    ],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4
   },
@@ -38888,8 +40057,13 @@
     "DirtLevelMax": 0.25,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      10,
+      12
+    ],
+    "RequiredExtras": [
+      10
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -39045,8 +40219,16 @@
     "DirtLevelMax": 0.5,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      10
+    ],
+    "RequiredExtras": [
+      1,
+      2,
+      10
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -39273,7 +40455,10 @@
     "DirtLevelMax": 0.25,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      1,
+      2
+    ],
     "RequiredExtras": [
       1,
       2
@@ -39349,8 +40534,13 @@
     "DirtLevelMax": 1.1,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      4,
+      5
+    ],
+    "RequiredExtras": [
+      5
+    ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 2
   },
@@ -39426,8 +40616,16 @@
     "DirtLevelMax": 0.8,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      2,
+      3,
+      7,
+      10,
+      11
+    ],
+    "RequiredExtras": [
+      11
+    ],
     "SpawnFrequency": 50.0,
     "WheelsCount": 4
   },
@@ -39509,7 +40707,9 @@
     "DirtLevelMax": 1.0,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      7
+    ],
     "RequiredExtras": [],
     "SpawnFrequency": 50.0,
     "WheelsCount": 4
@@ -39816,8 +41016,23 @@
     "DirtLevelMax": 0.3,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      8,
+      9
+    ],
+    "RequiredExtras": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      8
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -39971,8 +41186,12 @@
     "DirtLevelMax": 1.25,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1
+    ],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
   },
@@ -40044,8 +41263,13 @@
     "DirtLevelMax": 0.8,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      10,
+      11
+    ],
+    "RequiredExtras": [
+      10
+    ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
   },
@@ -40198,8 +41422,21 @@
     "AdditionalTrailers": [
       "trailersmall2"
     ],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      4,
+      5,
+      6,
+      7,
+      10,
+      11,
+      12
+    ],
+    "RequiredExtras": [
+      7,
+      12
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -40278,8 +41515,16 @@
     "AdditionalTrailers": [
       "trailersmall2"
     ],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      3,
+      10,
+      12
+    ],
+    "RequiredExtras": [
+      3
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -40575,9 +41820,16 @@
     "DirtLevelMax": 0.6,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      1,
+      2,
+      3,
+      11,
+      12
+    ],
     "RequiredExtras": [
-      1
+      1,
+      3
     ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
@@ -40651,9 +41903,16 @@
     "DirtLevelMax": 0.6,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      1,
+      2,
+      3,
+      11,
+      12
+    ],
     "RequiredExtras": [
-      1
+      1,
+      11
     ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
@@ -40737,8 +41996,20 @@
     "DirtLevelMax": 2.990116,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      7,
+      8,
+      9
+    ],
+    "RequiredExtras": [
+      1,
+      2,
+      7,
+      8,
+      9
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 3
   },
@@ -41241,8 +42512,13 @@
     "DirtLevelMax": 0.9,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      11,
+      12
+    ],
+    "RequiredExtras": [
+      11
+    ],
     "SpawnFrequency": 80.0,
     "WheelsCount": 4
   },
@@ -41685,8 +42961,13 @@
     "DirtLevelMax": 0.9,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      10,
+      12
+    ],
+    "RequiredExtras": [
+      12
+    ],
     "SpawnFrequency": 40.0,
     "WheelsCount": 4
   },
@@ -41763,8 +43044,8 @@
       2
     ],
     "RequiredExtras": [
-      3,
-      4
+      1,
+      2
     ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 2
@@ -41920,8 +43201,14 @@
     "DirtLevelMax": 0.25,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      3
+    ],
+    "RequiredExtras": [
+      3
+    ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 6
   },
@@ -42297,8 +43584,16 @@
     "DirtLevelMax": 2.9396074,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      7
+    ],
+    "RequiredExtras": [
+      1,
+      2,
+      7
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -42380,8 +43675,16 @@
     "DirtLevelMax": 4.322147,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      7
+    ],
+    "RequiredExtras": [
+      1,
+      2,
+      7
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -42462,8 +43765,16 @@
     "DirtLevelMax": 4.322147,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      7
+    ],
+    "RequiredExtras": [
+      1,
+      2,
+      7
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -42542,8 +43853,12 @@
     "AdditionalTrailers": [
       "trailersmall2"
     ],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      10
+    ],
+    "RequiredExtras": [
+      10
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -42620,9 +43935,7 @@
     "Trailers": [],
     "AdditionalTrailers": [],
     "Extras": [],
-    "RequiredExtras": [
-      1
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 45.0,
     "WheelsCount": 4
   },
@@ -42665,7 +43978,7 @@
     },
     "DimensionsMax": {
       "X": 0.98893416,
-      "Y": 2.272887,
+      "Y": 2.2728868,
       "Z": 0.99605113
     },
     "BoundingCenter": {
@@ -42680,7 +43993,7 @@
     "MaxSpeed": 45.4909,
     "MaxTraction": 2.45,
     "Acceleration": 0.21,
-    "Agility": 0.59,
+    "Agility": 0.64,
     "MaxKnots": 0.0,
     "MoveResistance": 0.0,
     "HasArmoredWindows": false,
@@ -42695,8 +44008,12 @@
     "DirtLevelMax": 0.9,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      10
+    ],
+    "RequiredExtras": [
+      10
+    ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
   },
@@ -42754,7 +44071,7 @@
     "MaxSpeed": 45.4909,
     "MaxTraction": 2.45,
     "Acceleration": 0.21,
-    "Agility": 0.59,
+    "Agility": 0.64,
     "MaxKnots": 0.0,
     "MoveResistance": 0.0,
     "HasArmoredWindows": false,
@@ -42769,8 +44086,13 @@
     "DirtLevelMax": 0.9,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      11
+    ],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -42915,7 +44237,10 @@
     "DirtLevelMax": 0.4,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      10,
+      11
+    ],
     "RequiredExtras": [],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
@@ -43143,7 +44468,9 @@
     "DirtLevelMax": 1.0,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      1
+    ],
     "RequiredExtras": [],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
@@ -43225,8 +44552,13 @@
     "DirtLevelMax": 0.6,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2
+    ],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -43304,7 +44636,9 @@
     "DirtLevelMax": 0.8,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      12
+    ],
     "RequiredExtras": [],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
@@ -43525,8 +44859,19 @@
     "DirtLevelMax": 2.2546964,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      7,
+      10,
+      11,
+      12
+    ],
+    "RequiredExtras": [
+      1,
+      2,
+      7
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 3
   },
@@ -43598,9 +44943,7 @@
     "Trailers": [],
     "AdditionalTrailers": [],
     "Extras": [],
-    "RequiredExtras": [
-      1
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
   },
@@ -44819,8 +46162,12 @@
     "DirtLevelMax": 0.4,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1
+    ],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 0
   },
@@ -44965,8 +46312,14 @@
     "DirtLevelMax": 0.7,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      3
+    ],
+    "RequiredExtras": [
+      2
+    ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
   },
@@ -45110,7 +46463,9 @@
     "DirtLevelMax": 0.9,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      10
+    ],
     "RequiredExtras": [],
     "SpawnFrequency": 50.0,
     "WheelsCount": 4
@@ -45267,8 +46622,13 @@
     "DirtLevelMax": 0.6,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2
+    ],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 5.0,
     "WheelsCount": 4
   },
@@ -45419,7 +46779,9 @@
     "DirtLevelMax": 0.25,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      1
+    ],
     "RequiredExtras": [
       1
     ],
@@ -45498,8 +46860,13 @@
     "DirtLevelMax": 0.25,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2
+    ],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4
   },
@@ -45569,8 +46936,19 @@
     "DirtLevelMax": 0.6,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      5,
+      6,
+      7,
+      10,
+      11
+    ],
+    "RequiredExtras": [
+      6,
+      11
+    ],
     "SpawnFrequency": 50.0,
     "WheelsCount": 4
   },
@@ -45720,8 +47098,15 @@
     "DirtLevelMax": 0.8,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      11,
+      12
+    ],
+    "RequiredExtras": [
+      1,
+      11
+    ],
     "SpawnFrequency": 20.0,
     "WheelsCount": 4
   },
@@ -46331,8 +47716,13 @@
     "DirtLevelMax": 0.4,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      10,
+      12
+    ],
+    "RequiredExtras": [
+      10
+    ],
     "SpawnFrequency": 50.0,
     "WheelsCount": 4
   },
@@ -46627,8 +48017,17 @@
     "DirtLevelMax": 0.4,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "RequiredExtras": [
+      1,
+      2
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 0
   },
@@ -46701,8 +48100,12 @@
     "DirtLevelMax": 0.6,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      12
+    ],
+    "RequiredExtras": [
+      12
+    ],
     "SpawnFrequency": 80.0,
     "WheelsCount": 4
   },
@@ -46781,8 +48184,16 @@
     "DirtLevelMax": 3.4919314,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      7
+    ],
+    "RequiredExtras": [
+      1,
+      2,
+      7
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -46861,8 +48272,16 @@
     "DirtLevelMax": 3.4919314,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      7
+    ],
+    "RequiredExtras": [
+      1,
+      2,
+      7
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -46936,8 +48355,13 @@
     "DirtLevelMax": 1.0,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      10,
+      12
+    ],
+    "RequiredExtras": [
+      10
+    ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
   },
@@ -47011,7 +48435,9 @@
     "DirtLevelMax": 0.3,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      1
+    ],
     "RequiredExtras": [],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4
@@ -47158,8 +48584,13 @@
     "DirtLevelMax": 0.6,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      10,
+      11
+    ],
+    "RequiredExtras": [
+      10
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -47239,8 +48670,16 @@
     "DirtLevelMax": 3.167208,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      7
+    ],
+    "RequiredExtras": [
+      1,
+      2,
+      7
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 3
   },
@@ -47321,8 +48760,16 @@
     "DirtLevelMax": 3.2599487,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      7
+    ],
+    "RequiredExtras": [
+      1,
+      2,
+      7
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 3
   },
@@ -47544,7 +48991,9 @@
     "DirtLevelMax": 0.25,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      1
+    ],
     "RequiredExtras": [],
     "SpawnFrequency": 5.0,
     "WheelsCount": 4
@@ -47617,8 +49066,14 @@
     "DirtLevelMax": 0.9,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      3
+    ],
+    "RequiredExtras": [
+      3
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -47690,8 +49145,13 @@
     "DirtLevelMax": 0.88,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2
+    ],
+    "RequiredExtras": [
+      2
+    ],
     "SpawnFrequency": 50.0,
     "WheelsCount": 4
   },
@@ -48215,8 +49675,12 @@
     "DirtLevelMax": 5.0,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1
+    ],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 8
   },
@@ -48290,8 +49754,20 @@
     "DirtLevelMax": 0.9,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "RequiredExtras": [
+      8,
+      9,
+      11
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -49004,8 +50480,16 @@
     "DirtLevelMax": 3.9472363,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      15
+    ],
+    "RequiredExtras": [
+      1,
+      2,
+      15
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -49157,10 +50641,12 @@
     "DirtLevelMax": 0.25,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [
+    "Extras": [
       1,
       2
+    ],
+    "RequiredExtras": [
+      1
     ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4
@@ -49234,9 +50720,13 @@
     "DirtLevelMax": 0.25,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      1,
+      2
+    ],
     "RequiredExtras": [
-      1
+      1,
+      2
     ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 6
@@ -49549,8 +51039,14 @@
     "DirtLevelMax": 0.25,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      10,
+      11,
+      12
+    ],
+    "RequiredExtras": [
+      11
+    ],
     "SpawnFrequency": 20.0,
     "WheelsCount": 4
   },
@@ -49622,8 +51118,14 @@
     "DirtLevelMax": 0.25,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      10,
+      11,
+      12
+    ],
+    "RequiredExtras": [
+      12
+    ],
     "SpawnFrequency": 20.0,
     "WheelsCount": 4
   },
@@ -49694,8 +51196,14 @@
     "DirtLevelMax": 0.25,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      10,
+      11,
+      12
+    ],
+    "RequiredExtras": [
+      12
+    ],
     "SpawnFrequency": 20.0,
     "WheelsCount": 4
   },
@@ -49842,7 +51350,9 @@
     "DirtLevelMax": 0.255,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      12
+    ],
     "RequiredExtras": [],
     "SpawnFrequency": 20.0,
     "WheelsCount": 4
@@ -50148,9 +51658,7 @@
     "Trailers": [],
     "AdditionalTrailers": [],
     "Extras": [],
-    "RequiredExtras": [
-      1
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
   },
@@ -50225,7 +51733,9 @@
     "DirtLevelMax": 0.25,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      2
+    ],
     "RequiredExtras": [],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4
@@ -50373,7 +51883,10 @@
     "DirtLevelMax": 0.25,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      10,
+      12
+    ],
     "RequiredExtras": [],
     "SpawnFrequency": 5.0,
     "WheelsCount": 4
@@ -50665,8 +52178,13 @@
     "DirtLevelMax": 0.3,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      8
+    ],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4
   },
@@ -50820,8 +52338,12 @@
     "AdditionalTrailers": [
       "raketrailer"
     ],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1
+    ],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4
   },
@@ -50969,8 +52491,13 @@
     "DirtLevelMax": 0.7,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      2,
+      3
+    ],
+    "RequiredExtras": [
+      3
+    ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4
   },
@@ -51041,8 +52568,13 @@
     "DirtLevelMax": 0.7,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      2,
+      3
+    ],
+    "RequiredExtras": [
+      3
+    ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4
   },
@@ -51328,8 +52860,13 @@
     "DirtLevelMax": 0.7,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2
+    ],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 2
   },
@@ -51934,8 +53471,20 @@
     "DirtLevelMax": 0.3,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "RequiredExtras": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
     "SpawnFrequency": 50.0,
     "WheelsCount": 4
   },
@@ -52011,8 +53560,14 @@
     "DirtLevelMax": 0.3,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      4,
+      5
+    ],
+    "RequiredExtras": [
+      4,
+      5
+    ],
     "SpawnFrequency": 50.0,
     "WheelsCount": 4
   },
@@ -52086,8 +53641,16 @@
     "DirtLevelMax": 0.4,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "RequiredExtras": [
+      3
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 0
   },
@@ -52161,8 +53724,16 @@
     "DirtLevelMax": 0.4,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "RequiredExtras": [
+      4
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 0
   },
@@ -52522,7 +54093,7 @@
     "DimensionsMax": {
       "X": 1.0073503,
       "Y": 2.3659415,
-      "Z": 0.6111667
+      "Z": 0.6111668
     },
     "BoundingCenter": {
       "X": 0.0,
@@ -52536,7 +54107,7 @@
     "MaxSpeed": 49.537365,
     "MaxTraction": 2.65,
     "Acceleration": 0.34,
-    "Agility": 0.72,
+    "Agility": 0.77000004,
     "MaxKnots": 0.0,
     "MoveResistance": 0.0,
     "HasArmoredWindows": false,
@@ -52775,8 +54346,12 @@
     "DirtLevelMax": 1.0,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1
+    ],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 50.0,
     "WheelsCount": 4
   },
@@ -52923,8 +54498,14 @@
     "DirtLevelMax": 0.25,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      3
+    ],
+    "RequiredExtras": [
+      3
+    ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4
   },
@@ -52998,8 +54579,18 @@
     "DirtLevelMax": 0.25,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "RequiredExtras": [
+      1,
+      5
+    ],
     "SpawnFrequency": 40.0,
     "WheelsCount": 4
   },
@@ -53073,8 +54664,13 @@
     "DirtLevelMax": 0.25,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2
+    ],
+    "RequiredExtras": [
+      2
+    ],
     "SpawnFrequency": 50.0,
     "WheelsCount": 4
   },
@@ -53148,7 +54744,9 @@
     "DirtLevelMax": 1.0,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
+    "Extras": [
+      12
+    ],
     "RequiredExtras": [],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
@@ -53221,8 +54819,13 @@
     "DirtLevelMax": 1.1,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      6,
+      7
+    ],
+    "RequiredExtras": [
+      7
+    ],
     "SpawnFrequency": 60.0,
     "WheelsCount": 2
   },
@@ -53459,8 +55062,24 @@
     "DirtLevelMax": 2.8424768,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      7,
+      8,
+      9,
+      12,
+      13,
+      14
+    ],
+    "RequiredExtras": [
+      1,
+      2,
+      7,
+      8,
+      9,
+      12
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -53541,8 +55160,24 @@
     "DirtLevelMax": 2.8424768,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      7,
+      8,
+      9,
+      12,
+      13,
+      14
+    ],
+    "RequiredExtras": [
+      1,
+      2,
+      7,
+      8,
+      9,
+      12
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -54368,8 +56003,13 @@
     "DirtLevelMax": 0.8,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      10,
+      11
+    ],
+    "RequiredExtras": [
+      11
+    ],
     "SpawnFrequency": 50.0,
     "WheelsCount": 4
   },
@@ -55065,8 +56705,16 @@
     "DirtLevelMax": 3.1930585,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      7
+    ],
+    "RequiredExtras": [
+      1,
+      2,
+      7
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 3
   },
@@ -55141,8 +56789,17 @@
     "DirtLevelMax": 1.0,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      3,
+      10,
+      12
+    ],
+    "RequiredExtras": [
+      2,
+      10
+    ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
   },
@@ -55723,8 +57380,13 @@
     "DirtLevelMax": 0.9,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      11,
+      12
+    ],
+    "RequiredExtras": [
+      11
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -55843,7 +57505,7 @@
     },
     "DimensionsMax": {
       "X": 0.95315665,
-      "Y": 2.0044854,
+      "Y": 2.0027764,
       "Z": 1.2886095
     },
     "BoundingCenter": {
@@ -56542,8 +58204,12 @@
     "DirtLevelMax": 0.85,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1
+    ],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 5.0,
     "WheelsCount": 4
   },
@@ -56619,8 +58285,16 @@
     "DirtLevelMax": 0.48,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      3
+    ],
+    "RequiredExtras": [
+      1,
+      2,
+      3
+    ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
   },
@@ -57220,8 +58894,16 @@
     "DirtLevelMax": 0.8,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      1,
+      2,
+      3
+    ],
+    "RequiredExtras": [
+      1,
+      2,
+      3
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4
   },
@@ -57293,8 +58975,13 @@
     "DirtLevelMax": 0.9,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      10,
+      11
+    ],
+    "RequiredExtras": [
+      10
+    ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
   },
@@ -57366,8 +59053,14 @@
     "DirtLevelMax": 0.9,
     "Trailers": [],
     "AdditionalTrailers": [],
-    "Extras": [],
-    "RequiredExtras": [],
+    "Extras": [
+      10,
+      11,
+      12
+    ],
+    "RequiredExtras": [
+      12
+    ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4
   },

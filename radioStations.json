@@ -1,0 +1,512 @@
+[
+  {
+    "RadioName": "DLC_BATTLE_MIX1_CLUB_PRIV",
+    "Genre": "10",
+    "WheelPosition": 18000,
+    "IsHidden": false
+  },
+  {
+    "RadioName": "DLC_BATTLE_MIX2_CLUB_PRIV",
+    "Genre": "10",
+    "WheelPosition": 20000,
+    "IsHidden": false
+  },
+  {
+    "RadioName": "DLC_BATTLE_MIX3_CLUB_PRIV",
+    "Genre": "10",
+    "WheelPosition": 21000,
+    "IsHidden": false
+  },
+  {
+    "RadioName": "DLC_BATTLE_MIX4_CLUB_PRIV",
+    "Genre": "10",
+    "WheelPosition": 21000,
+    "IsHidden": false
+  },
+  {
+    "RadioName": "RADIO_01_CLASS_ROCK",
+    "Genre": "1",
+    "WheelPosition": 1000,
+    "IsHidden": false
+  },
+  {
+    "RadioName": "RADIO_02_POP",
+    "Genre": "3",
+    "WheelPosition": 2000,
+    "IsHidden": false
+  },
+  {
+    "RadioName": "RADIO_03_HIPHOP_NEW",
+    "Genre": "4",
+    "WheelPosition": 3000,
+    "IsHidden": false
+  },
+  {
+    "RadioName": "RADIO_03_HIPHOP_NEW",
+    "Genre": "4",
+    "WheelPosition": 3000,
+    "IsHidden": false
+  },
+  {
+    "RadioName": "RADIO_04_PUNK",
+    "Genre": "6",
+    "WheelPosition": 4000,
+    "IsHidden": false
+  },
+  {
+    "RadioName": "RADIO_05_TALK_01",
+    "Genre": "7",
+    "WheelPosition": 5000,
+    "IsHidden": false
+  },
+  {
+    "RadioName": "RADIO_06_COUNTRY",
+    "Genre": "9",
+    "WheelPosition": 6000,
+    "IsHidden": false
+  },
+  {
+    "RadioName": "RADIO_07_DANCE_01",
+    "Genre": "10",
+    "WheelPosition": 7000,
+    "IsHidden": false
+  },
+  {
+    "RadioName": "RADIO_08_MEXICAN",
+    "Genre": "11",
+    "WheelPosition": 8000,
+    "IsHidden": false
+  },
+  {
+    "RadioName": "RADIO_09_HIPHOP_OLD",
+    "Genre": "4",
+    "WheelPosition": 9000,
+    "IsHidden": false
+  },
+  {
+    "RadioName": "RADIO_09_HIPHOP_OLD",
+    "Genre": "4",
+    "WheelPosition": 9000,
+    "IsHidden": false
+  },
+  {
+    "RadioName": "RADIO_11_TALK_02",
+    "Genre": "8",
+    "WheelPosition": 11000,
+    "IsHidden": false
+  },
+  {
+    "RadioName": "RADIO_12_REGGAE",
+    "Genre": "12",
+    "WheelPosition": 12000,
+    "IsHidden": false
+  },
+  {
+    "RadioName": "RADIO_13_JAZZ",
+    "Genre": "13",
+    "WheelPosition": 13000,
+    "IsHidden": false
+  },
+  {
+    "RadioName": "RADIO_13_JAZZ",
+    "Genre": "13",
+    "WheelPosition": 13000,
+    "IsHidden": false
+  },
+  {
+    "RadioName": "RADIO_14_DANCE_02",
+    "Genre": "10",
+    "WheelPosition": 14000,
+    "IsHidden": false
+  },
+  {
+    "RadioName": "RADIO_14_DANCE_02",
+    "Genre": "10",
+    "WheelPosition": 14000,
+    "IsHidden": false
+  },
+  {
+    "RadioName": "RADIO_15_MOTOWN",
+    "Genre": "14",
+    "WheelPosition": 15000,
+    "IsHidden": false
+  },
+  {
+    "RadioName": "RADIO_16_SILVERLAKE",
+    "Genre": "1",
+    "WheelPosition": 16000,
+    "IsHidden": false
+  },
+  {
+    "RadioName": "RADIO_17_FUNK",
+    "Genre": "14",
+    "WheelPosition": 17000,
+    "IsHidden": false
+  },
+  {
+    "RadioName": "RADIO_18_90S_ROCK",
+    "Genre": "1",
+    "WheelPosition": 18000,
+    "IsHidden": false
+  },
+  {
+    "RadioName": "RADIO_19_USER",
+    "Genre": "16",
+    "WheelPosition": 19000,
+    "IsHidden": false
+  },
+  {
+    "RadioName": "RADIO_20_THELAB",
+    "Genre": "4",
+    "WheelPosition": 15100,
+    "IsHidden": false
+  },
+  {
+    "RadioName": "RADIO_21_DLC_XM17",
+    "Genre": "4",
+    "WheelPosition": 18200,
+    "IsHidden": false
+  },
+  {
+    "RadioName": "RADIO_22_DLC_BATTLE_MIX1_CLUB",
+    "Genre": "10",
+    "WheelPosition": 18000,
+    "IsHidden": false
+  },
+  {
+    "RadioName": "RADIO_22_DLC_BATTLE_MIX1_RADIO",
+    "Genre": "10",
+    "WheelPosition": 18250,
+    "IsHidden": false
+  },
+  {
+    "RadioName": "RADIO_23_DLC_BATTLE_MIX2_CLUB",
+    "Genre": "10",
+    "WheelPosition": 20000,
+    "IsHidden": false
+  },
+  {
+    "RadioName": "RADIO_23_DLC_XM19_RADIO",
+    "Genre": "4",
+    "WheelPosition": 18500,
+    "IsHidden": false
+  },
+  {
+    "RadioName": "RADIO_23_DLC_XM19_RADIO",
+    "Genre": "4",
+    "WheelPosition": 18500,
+    "IsHidden": false
+  },
+  {
+    "RadioName": "RADIO_24_DLC_BATTLE_MIX3_CLUB",
+    "Genre": "10",
+    "WheelPosition": 21000,
+    "IsHidden": false
+  },
+  {
+    "RadioName": "RADIO_25_DLC_BATTLE_MIX4_CLUB",
+    "Genre": "10",
+    "WheelPosition": 21000,
+    "IsHidden": false
+  },
+  {
+    "RadioName": "RADIO_26_DLC_BATTLE_CLUB_WARMUP",
+    "Genre": "10",
+    "WheelPosition": 21000,
+    "IsHidden": false
+  },
+  {
+    "RadioName": "RADIO_27_DLC_PRHEI4",
+    "Genre": "3",
+    "WheelPosition": 19000,
+    "IsHidden": false
+  },
+  {
+    "RadioName": "RADIO_30_DLC_HEI4_MIX1_REVERB",
+    "Genre": "10",
+    "WheelPosition": 19150,
+    "IsHidden": false
+  },
+  {
+    "RadioName": "RADIO_31_DLC_HEI4_KM_CLUB",
+    "Genre": "10",
+    "WheelPosition": 19200,
+    "IsHidden": false
+  },
+  {
+    "RadioName": "RADIO_32_DLC_HEI4_MM_CLUB",
+    "Genre": "10",
+    "WheelPosition": 19250,
+    "IsHidden": false
+  },
+  {
+    "RadioName": "RADIO_33_DLC_HEI4_PT_CLUB",
+    "Genre": "10",
+    "WheelPosition": 19300,
+    "IsHidden": false
+  },
+  {
+    "RadioName": "RADIO_34_DLC_HEI4_KULT",
+    "Genre": "1",
+    "WheelPosition": 16350,
+    "IsHidden": false
+  },
+  {
+    "RadioName": "RADIO_35_DLC_HEI4_MLR",
+    "Genre": "10",
+    "WheelPosition": 11400,
+    "IsHidden": false
+  },
+  {
+    "RadioName": "RADIO_36_AUDIOPLAYER",
+    "Genre": "16",
+    "WheelPosition": 1000,
+    "IsHidden": false
+  },
+  {
+    "RadioName": "RADIO_36_AUDIOPLAYER",
+    "Genre": "10",
+    "WheelPosition": 11350,
+    "IsHidden": false
+  },
+  {
+    "RadioName": "RADIO_37_MOTOMAMI",
+    "Genre": "3",
+    "WheelPosition": 11400,
+    "IsHidden": false
+  },
+  {
+    "RadioName": "HIDDEN_RADIO_01_CLASS_ROCK",
+    "Genre": "1",
+    "WheelPosition": 1000,
+    "IsHidden": true
+  },
+  {
+    "RadioName": "HIDDEN_RADIO_02_POP",
+    "Genre": "3",
+    "WheelPosition": 2000,
+    "IsHidden": true
+  },
+  {
+    "RadioName": "HIDDEN_RADIO_03_HIPHOP_NEW",
+    "Genre": "4",
+    "WheelPosition": 3000,
+    "IsHidden": true
+  },
+  {
+    "RadioName": "HIDDEN_RADIO_04_PUNK",
+    "Genre": "6",
+    "WheelPosition": 4000,
+    "IsHidden": true
+  },
+  {
+    "RadioName": "HIDDEN_RADIO_06_COUNTRY",
+    "Genre": "9",
+    "WheelPosition": 6000,
+    "IsHidden": true
+  },
+  {
+    "RadioName": "HIDDEN_RADIO_07_DANCE_01",
+    "Genre": "10",
+    "WheelPosition": 7000,
+    "IsHidden": true
+  },
+  {
+    "RadioName": "HIDDEN_RADIO_09_HIPHOP_OLD",
+    "Genre": "4",
+    "WheelPosition": 9000,
+    "IsHidden": true
+  },
+  {
+    "RadioName": "HIDDEN_RADIO_10_SURF",
+    "Genre": "1",
+    "WheelPosition": 10000,
+    "IsHidden": true
+  },
+  {
+    "RadioName": "HIDDEN_RADIO_12_REGGAE",
+    "Genre": "12",
+    "WheelPosition": 12000,
+    "IsHidden": true
+  },
+  {
+    "RadioName": "HIDDEN_RADIO_15_MOTOWN",
+    "Genre": "14",
+    "WheelPosition": 15000,
+    "IsHidden": true
+  },
+  {
+    "RadioName": "HIDDEN_RADIO_16_SILVERLAKE",
+    "Genre": "1",
+    "WheelPosition": 16000,
+    "IsHidden": true
+  },
+  {
+    "RadioName": "HIDDEN_RADIO_17_FUNK",
+    "Genre": "14",
+    "WheelPosition": 17000,
+    "IsHidden": true
+  },
+  {
+    "RadioName": "HIDDEN_RADIO_ADVERTS",
+    "Genre": "16",
+    "WheelPosition": 1000,
+    "IsHidden": true
+  },
+  {
+    "RadioName": "HIDDEN_RADIO_AMBIENT_TV",
+    "Genre": "16",
+    "WheelPosition": 1000,
+    "IsHidden": true
+  },
+  {
+    "RadioName": "HIDDEN_RADIO_AMBIENT_TV_BRIGHT",
+    "Genre": "16",
+    "WheelPosition": 1000,
+    "IsHidden": true
+  },
+  {
+    "RadioName": "HIDDEN_RADIO_ARCADE_DANCE",
+    "Genre": "10",
+    "WheelPosition": 1000,
+    "IsHidden": true
+  },
+  {
+    "RadioName": "HIDDEN_RADIO_ARCADE_EDM",
+    "Genre": "10",
+    "WheelPosition": 1000,
+    "IsHidden": true
+  },
+  {
+    "RadioName": "HIDDEN_RADIO_ARCADE_MIRROR_PARK",
+    "Genre": "1",
+    "WheelPosition": 1000,
+    "IsHidden": true
+  },
+  {
+    "RadioName": "HIDDEN_RADIO_ARCADE_POP",
+    "Genre": "3",
+    "WheelPosition": 1000,
+    "IsHidden": true
+  },
+  {
+    "RadioName": "HIDDEN_RADIO_ARCADE_WWFM",
+    "Genre": "13",
+    "WheelPosition": 1000,
+    "IsHidden": true
+  },
+  {
+    "RadioName": "HIDDEN_RADIO_ASTU_DRUMS_VOX",
+    "Genre": "4",
+    "WheelPosition": 11450,
+    "IsHidden": true
+  },
+  {
+    "RadioName": "HIDDEN_RADIO_ASTU_SILENCE",
+    "Genre": "4",
+    "WheelPosition": 11450,
+    "IsHidden": true
+  },
+  {
+    "RadioName": "HIDDEN_RADIO_ASTU_TRANS_01",
+    "Genre": "4",
+    "WheelPosition": 11500,
+    "IsHidden": true
+  },
+  {
+    "RadioName": "HIDDEN_RADIO_ASTU_TRANS_01_VOX",
+    "Genre": "4",
+    "WheelPosition": 11550,
+    "IsHidden": true
+  },
+  {
+    "RadioName": "HIDDEN_RADIO_ASTU_TRANS_02_VOX",
+    "Genre": "4",
+    "WheelPosition": 11600,
+    "IsHidden": true
+  },
+  {
+    "RadioName": "HIDDEN_RADIO_ASTU_VOX",
+    "Genre": "4",
+    "WheelPosition": 11650,
+    "IsHidden": true
+  },
+  {
+    "RadioName": "HIDDEN_RADIO_BIKER_CLASSIC_ROCK",
+    "Genre": "1",
+    "WheelPosition": 19000,
+    "IsHidden": true
+  },
+  {
+    "RadioName": "HIDDEN_RADIO_BIKER_HIP_HOP",
+    "Genre": "1",
+    "WheelPosition": 22000,
+    "IsHidden": true
+  },
+  {
+    "RadioName": "HIDDEN_RADIO_BIKER_MODERN_ROCK",
+    "Genre": "1",
+    "WheelPosition": 20000,
+    "IsHidden": true
+  },
+  {
+    "RadioName": "HIDDEN_RADIO_BIKER_PUNK",
+    "Genre": "1",
+    "WheelPosition": 21000,
+    "IsHidden": true
+  },
+  {
+    "RadioName": "HIDDEN_RADIO_CASINO",
+    "Genre": "16",
+    "WheelPosition": 1000,
+    "IsHidden": true
+  },
+  {
+    "RadioName": "HIDDEN_RADIO_CASINO_PENTHOUSE_P",
+    "Genre": "16",
+    "WheelPosition": 1000,
+    "IsHidden": true
+  },
+  {
+    "RadioName": "HIDDEN_RADIO_ML_PROMOTER",
+    "Genre": "4",
+    "WheelPosition": 1000,
+    "IsHidden": true
+  },
+  {
+    "RadioName": "HIDDEN_RADIO_SEC_BILLIONAIRE",
+    "Genre": "4",
+    "WheelPosition": 1000,
+    "IsHidden": true
+  },
+  {
+    "RadioName": "HIDDEN_RADIO_SEC_STUDIO_LOUNGE",
+    "Genre": "4",
+    "WheelPosition": 1000,
+    "IsHidden": true
+  },
+  {
+    "RadioName": "HIDDEN_RADIO_STRIP_CLUB",
+    "Genre": "16",
+    "WheelPosition": 18000,
+    "IsHidden": true
+  },
+  {
+    "RadioName": "HIDDEN_RADIO_TUNER_CAR_MEET",
+    "Genre": "16",
+    "WheelPosition": 1000,
+    "IsHidden": true
+  },
+  {
+    "RadioName": "HIDDEN_RADIO_TUNER_MM",
+    "Genre": "10",
+    "WheelPosition": 11500,
+    "IsHidden": true
+  },
+  {
+    "RadioName": "HIDDEN_RADIO_TUNER_TEST_AREA",
+    "Genre": "16",
+    "WheelPosition": 1000,
+    "IsHidden": true
+  }
+]

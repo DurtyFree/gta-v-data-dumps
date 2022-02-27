@@ -55,6 +55,7 @@ This is a collection of various GTA V data dumps mostly useful for modding &amp;
 - **Audio Scene names** ([audioSceneNames.json](audioSceneNames.json)) **1129** audio scene names in total (Usable with AUDIO_SCENE natives)
 - **Cutscene names** ([cutsceneNames.json](cutsceneNames.json)) **739** cut scene names in total (Usable with CUT_ or CUTSCENE_ natives)
 - **Weapons** ([weapons.json](weapons.json)) **165** weapons with **418** components in total (Usable with WEAPON natives)
+- **Radio Stations** ([radioStations.json](radioStations.json)) **79** radio stations in total (Usable with RADIO_STATION natives)
 
 ## **Objects location dumps**
 Object location dumps contain positions of various objects of a specific type, on the GTA V map (including all interiors / MLOs).

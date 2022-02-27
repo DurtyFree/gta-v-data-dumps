@@ -1,510 +1,1489 @@
 [
   {
-    "RadioName": "DLC_BATTLE_MIX1_CLUB_PRIV",
-    "Genre": "10",
-    "WheelPosition": 18000,
-    "IsHidden": false
-  },
-  {
-    "RadioName": "DLC_BATTLE_MIX2_CLUB_PRIV",
-    "Genre": "10",
-    "WheelPosition": 20000,
-    "IsHidden": false
-  },
-  {
-    "RadioName": "DLC_BATTLE_MIX3_CLUB_PRIV",
-    "Genre": "10",
-    "WheelPosition": 21000,
-    "IsHidden": false
-  },
-  {
-    "RadioName": "DLC_BATTLE_MIX4_CLUB_PRIV",
-    "Genre": "10",
-    "WheelPosition": 21000,
-    "IsHidden": false
-  },
-  {
     "RadioName": "RADIO_01_CLASS_ROCK",
+    "TranslatedLabel": {
+      "Hash": 165889415,
+      "English": "Los Santos Rock Radio",
+      "German": "Los Santos Rock Radio",
+      "French": "Los Santos Rock Radio",
+      "Italian": "Los Santos Rock Radio",
+      "Russian": "Los Santos Rock Radio",
+      "Polish": "Los Santos Rock Radio",
+      "Name": "RADIO_01_CLASS_ROCK",
+      "TraditionalChinese": "Los Santos Rock Radio",
+      "SimplifiedChinese": null,
+      "Spanish": "Los Santos Rock Radio"
+    },
     "Genre": "1",
     "WheelPosition": 1000,
     "IsHidden": false
   },
   {
     "RadioName": "RADIO_02_POP",
+    "TranslatedLabel": {
+      "Hash": 3051187993,
+      "English": "Non-Stop-Pop FM",
+      "German": "Non-Stop-Pop FM",
+      "French": "Non-Stop-Pop FM",
+      "Italian": "Non-Stop-Pop FM",
+      "Russian": "Non-Stop-Pop FM",
+      "Polish": "Non-Stop-Pop FM",
+      "Name": "RADIO_02_POP",
+      "TraditionalChinese": "Non-Stop-Pop FM",
+      "SimplifiedChinese": null,
+      "Spanish": "Non-Stop-Pop FM"
+    },
     "Genre": "3",
     "WheelPosition": 2000,
     "IsHidden": false
   },
   {
     "RadioName": "RADIO_03_HIPHOP_NEW",
-    "Genre": "4",
-    "WheelPosition": 3000,
-    "IsHidden": false
-  },
-  {
-    "RadioName": "RADIO_03_HIPHOP_NEW",
+    "TranslatedLabel": {
+      "Hash": 4195868215,
+      "English": "Radio Los Santos",
+      "German": "Radio Los Santos",
+      "French": "Radio Los Santos",
+      "Italian": "Radio Los Santos",
+      "Russian": "Radio Los Santos",
+      "Polish": "Radio Los Santos",
+      "Name": "RADIO_03_HIPHOP_NEW",
+      "TraditionalChinese": "Radio Los Santos",
+      "SimplifiedChinese": null,
+      "Spanish": "Radio Los Santos"
+    },
     "Genre": "4",
     "WheelPosition": 3000,
     "IsHidden": false
   },
   {
     "RadioName": "RADIO_04_PUNK",
+    "TranslatedLabel": {
+      "Hash": 1905986299,
+      "English": "Channel X",
+      "German": "Channel X",
+      "French": "Channel X",
+      "Italian": "Channel X",
+      "Russian": "Channel X",
+      "Polish": "Channel X",
+      "Name": "RADIO_04_PUNK",
+      "TraditionalChinese": "Channel X",
+      "SimplifiedChinese": null,
+      "Spanish": "Channel X"
+    },
     "Genre": "6",
     "WheelPosition": 4000,
     "IsHidden": false
   },
   {
     "RadioName": "RADIO_05_TALK_01",
+    "TranslatedLabel": {
+      "Hash": 1081038572,
+      "English": "West Coast Talk Radio",
+      "German": "West Coast Talk Radio",
+      "French": "West Coast Talk Radio",
+      "Italian": "West Coast Talk Radio",
+      "Russian": "West Coast Talk Radio",
+      "Polish": "West Coast Talk Radio",
+      "Name": "RADIO_05_TALK_01",
+      "TraditionalChinese": "West Coast Talk Radio",
+      "SimplifiedChinese": null,
+      "Spanish": "West Coast Talk Radio"
+    },
     "Genre": "7",
     "WheelPosition": 5000,
     "IsHidden": false
   },
   {
     "RadioName": "RADIO_06_COUNTRY",
+    "TranslatedLabel": {
+      "Hash": 749278879,
+      "English": "Rebel Radio",
+      "German": "Rebel Radio",
+      "French": "Rebel Radio",
+      "Italian": "Rebel Radio",
+      "Russian": "Rebel Radio",
+      "Polish": "Rebel Radio",
+      "Name": "RADIO_06_COUNTRY",
+      "TraditionalChinese": "Rebel Radio",
+      "SimplifiedChinese": null,
+      "Spanish": "Rebel Radio"
+    },
     "Genre": "9",
     "WheelPosition": 6000,
     "IsHidden": false
   },
   {
     "RadioName": "RADIO_07_DANCE_01",
+    "TranslatedLabel": {
+      "Hash": 3089606098,
+      "English": "Soulwax FM",
+      "German": "Soulwax FM",
+      "French": "Soulwax FM",
+      "Italian": "Soulwax FM",
+      "Russian": "Soulwax FM",
+      "Polish": "Soulwax FM",
+      "Name": "RADIO_07_DANCE_01",
+      "TraditionalChinese": "Soulwax FM",
+      "SimplifiedChinese": null,
+      "Spanish": "Soulwax FM"
+    },
     "Genre": "10",
     "WheelPosition": 7000,
     "IsHidden": false
   },
   {
     "RadioName": "RADIO_08_MEXICAN",
+    "TranslatedLabel": {
+      "Hash": 2930784911,
+      "English": "East Los FM",
+      "German": "East Los FM",
+      "French": "East Los FM",
+      "Italian": "East Los FM",
+      "Russian": "East Los FM",
+      "Polish": "East Los FM",
+      "Name": "RADIO_08_MEXICAN",
+      "TraditionalChinese": "East Los FM",
+      "SimplifiedChinese": null,
+      "Spanish": "East Los FM"
+    },
     "Genre": "11",
     "WheelPosition": 8000,
     "IsHidden": false
   },
   {
     "RadioName": "RADIO_09_HIPHOP_OLD",
-    "Genre": "4",
-    "WheelPosition": 9000,
-    "IsHidden": false
-  },
-  {
-    "RadioName": "RADIO_09_HIPHOP_OLD",
+    "TranslatedLabel": {
+      "Hash": 5712900,
+      "English": "West Coast Classics",
+      "German": "West Coast Classics",
+      "French": "West Coast Classics",
+      "Italian": "West Coast Classics",
+      "Russian": "West Coast Classics",
+      "Polish": "West Coast Classics",
+      "Name": "RADIO_09_HIPHOP_OLD",
+      "TraditionalChinese": "West Coast Classics",
+      "SimplifiedChinese": null,
+      "Spanish": "West Coast Classics"
+    },
     "Genre": "4",
     "WheelPosition": 9000,
     "IsHidden": false
   },
   {
     "RadioName": "RADIO_11_TALK_02",
+    "TranslatedLabel": {
+      "Hash": 3864626999,
+      "English": "Blaine County Radio",
+      "German": "Blaine County Radio",
+      "French": "Blaine County Radio",
+      "Italian": "Blaine County Radio",
+      "Russian": "Blaine County Radio",
+      "Polish": "Blaine County Radio",
+      "Name": "RADIO_11_TALK_02",
+      "TraditionalChinese": "Blaine County Radio",
+      "SimplifiedChinese": null,
+      "Spanish": "Blaine County Radio"
+    },
     "Genre": "8",
     "WheelPosition": 11000,
     "IsHidden": false
   },
   {
     "RadioName": "RADIO_12_REGGAE",
+    "TranslatedLabel": {
+      "Hash": 1594321599,
+      "English": "Blue Ark",
+      "German": "Blue Ark",
+      "French": "Blue Ark",
+      "Italian": "Blue Ark",
+      "Russian": "Blue Ark",
+      "Polish": "Blue Ark",
+      "Name": "RADIO_12_REGGAE",
+      "TraditionalChinese": "Blue Ark",
+      "SimplifiedChinese": null,
+      "Spanish": "Blue Ark"
+    },
     "Genre": "12",
     "WheelPosition": 12000,
     "IsHidden": false
   },
   {
     "RadioName": "RADIO_13_JAZZ",
-    "Genre": "13",
-    "WheelPosition": 13000,
-    "IsHidden": false
-  },
-  {
-    "RadioName": "RADIO_13_JAZZ",
+    "TranslatedLabel": {
+      "Hash": 1512393045,
+      "English": "Worldwide FM",
+      "German": "Worldwide FM",
+      "French": "Worldwide FM",
+      "Italian": "Worldwide FM",
+      "Russian": "Worldwide FM",
+      "Polish": "Worldwide FM",
+      "Name": "RADIO_13_JAZZ",
+      "TraditionalChinese": "Worldwide FM",
+      "SimplifiedChinese": null,
+      "Spanish": "Worldwide FM"
+    },
     "Genre": "13",
     "WheelPosition": 13000,
     "IsHidden": false
   },
   {
     "RadioName": "RADIO_14_DANCE_02",
-    "Genre": "10",
-    "WheelPosition": 14000,
-    "IsHidden": false
-  },
-  {
-    "RadioName": "RADIO_14_DANCE_02",
+    "TranslatedLabel": {
+      "Hash": 3349316666,
+      "English": "FlyLo FM",
+      "German": "FlyLo FM",
+      "French": "FlyLo FM",
+      "Italian": "FlyLo FM",
+      "Russian": "FlyLo FM",
+      "Polish": "FlyLo FM",
+      "Name": "RADIO_14_DANCE_02",
+      "TraditionalChinese": "FlyLo FM",
+      "SimplifiedChinese": null,
+      "Spanish": "FlyLo FM"
+    },
     "Genre": "10",
     "WheelPosition": 14000,
     "IsHidden": false
   },
   {
     "RadioName": "RADIO_15_MOTOWN",
+    "TranslatedLabel": {
+      "Hash": 2425324514,
+      "English": "The Lowdown 91.1",
+      "German": "The Lowdown 91.1",
+      "French": "The Lowdown 91.1",
+      "Italian": "The Lowdown 91.1",
+      "Russian": "The Lowdown 91.1",
+      "Polish": "The Lowdown 91.1",
+      "Name": "RADIO_15_MOTOWN",
+      "TraditionalChinese": "The Lowdown 91.1",
+      "SimplifiedChinese": null,
+      "Spanish": "The Lowdown 91.1"
+    },
     "Genre": "14",
     "WheelPosition": 15000,
     "IsHidden": false
   },
   {
     "RadioName": "RADIO_16_SILVERLAKE",
+    "TranslatedLabel": {
+      "Hash": 1583478223,
+      "English": "Radio Mirror Park",
+      "German": "Radio Mirror Park",
+      "French": "Radio Mirror Park",
+      "Italian": "Radio Mirror Park",
+      "Russian": "Radio Mirror Park",
+      "Polish": "Radio Mirror Park",
+      "Name": "RADIO_16_SILVERLAKE",
+      "TraditionalChinese": "Radio Mirror Park",
+      "SimplifiedChinese": null,
+      "Spanish": "Radio Mirror Park"
+    },
     "Genre": "1",
     "WheelPosition": 16000,
     "IsHidden": false
   },
   {
     "RadioName": "RADIO_17_FUNK",
+    "TranslatedLabel": {
+      "Hash": 2079804834,
+      "English": "Space 103.2",
+      "German": "Space 103.2",
+      "French": "Space 103.2",
+      "Italian": "Space 103.2",
+      "Russian": "Space 103.2",
+      "Polish": "Space 103.2",
+      "Name": "RADIO_17_FUNK",
+      "TraditionalChinese": "Space 103.2",
+      "SimplifiedChinese": null,
+      "Spanish": "Space 103.2"
+    },
     "Genre": "14",
     "WheelPosition": 17000,
     "IsHidden": false
   },
   {
     "RadioName": "RADIO_18_90S_ROCK",
+    "TranslatedLabel": {
+      "Hash": 1084546764,
+      "English": "Vinewood Boulevard Radio",
+      "German": "Vinewood Boulevard Radio",
+      "French": "Vinewood Boulevard Radio",
+      "Italian": "Vinewood Boulevard Radio",
+      "Russian": "Vinewood Boulevard Radio",
+      "Polish": "Vinewood Boulevard Radio",
+      "Name": "RADIO_18_90s_ROCK",
+      "TraditionalChinese": "Vinewood Boulevard Radio",
+      "SimplifiedChinese": null,
+      "Spanish": "Vinewood Boulevard Radio"
+    },
     "Genre": "1",
     "WheelPosition": 18000,
     "IsHidden": false
   },
   {
     "RadioName": "RADIO_19_USER",
+    "TranslatedLabel": {
+      "Hash": 4149039730,
+      "English": "User Music FM",
+      "German": "Benutzermusik FM",
+      "French": "Musique perso FM",
+      "Italian": "TuaMusica FM",
+      "Russian": "Юзер-муз FM",
+      "Polish": "Muzyka użytkownika FM",
+      "Name": "RADIO_19_USER",
+      "TraditionalChinese": "自訂廣播電台",
+      "SimplifiedChinese": null,
+      "Spanish": "Música del usuario FM"
+    },
     "Genre": "16",
     "WheelPosition": 19000,
     "IsHidden": false
   },
   {
     "RadioName": "RADIO_20_THELAB",
+    "TranslatedLabel": {
+      "Hash": 2361815126,
+      "English": "The Lab",
+      "German": "The Lab",
+      "French": "The Lab",
+      "Italian": "The Lab",
+      "Russian": "The Lab",
+      "Polish": "The Lab",
+      "Name": "RADIO_20_THELAB",
+      "TraditionalChinese": "The Lab",
+      "SimplifiedChinese": "实验室",
+      "Spanish": "The Lab"
+    },
     "Genre": "4",
     "WheelPosition": 15100,
     "IsHidden": false
   },
   {
     "RadioName": "RADIO_21_DLC_XM17",
+    "TranslatedLabel": {
+      "Hash": 1429421331,
+      "English": "Blonded Los Santos 97.8 FM",
+      "German": "Blonded Los Santos 97.8 FM",
+      "French": "Blonded Los Santos 97.8 FM",
+      "Italian": "Blonded Los Santos 97.8 FM",
+      "Russian": "Blonded Los Santos 97.8 FM",
+      "Polish": "Blonded Los Santos 97.8 FM",
+      "Name": "RADIO_21_DLC_XM17",
+      "TraditionalChinese": "Blonded Los Santos 97.8 FM",
+      "SimplifiedChinese": "金发洛圣都µ97.8µ电台",
+      "Spanish": "Blonded Los Santos 97.8 FM"
+    },
     "Genre": "4",
     "WheelPosition": 18200,
     "IsHidden": false
   },
   {
     "RadioName": "RADIO_22_DLC_BATTLE_MIX1_CLUB",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "RADIO_22_DLC_BATTLE_MIX1_CLUB",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null
+    },
     "Genre": "10",
     "WheelPosition": 18000,
     "IsHidden": false
   },
   {
     "RadioName": "RADIO_22_DLC_BATTLE_MIX1_RADIO",
+    "TranslatedLabel": {
+      "Hash": 4173244950,
+      "English": "Los Santos Underground Radio",
+      "German": "Los Santos Underground Radio",
+      "French": "Los Santos Underground Radio",
+      "Italian": "Los Santos Underground Radio",
+      "Russian": "Los Santos Underground Radio",
+      "Polish": "Radio Los Santos Underground",
+      "Name": "RADIO_22_DLC_BATTLE_MIX1_RADIO",
+      "TraditionalChinese": "Los Santos Underground Radio",
+      "SimplifiedChinese": "洛圣都地下电台",
+      "Spanish": "Los Santos Underground Radio"
+    },
     "Genre": "10",
     "WheelPosition": 18250,
     "IsHidden": false
   },
   {
     "RadioName": "RADIO_23_DLC_BATTLE_MIX2_CLUB",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "RADIO_23_DLC_BATTLE_MIX2_CLUB",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null
+    },
     "Genre": "10",
     "WheelPosition": 20000,
     "IsHidden": false
   },
   {
     "RadioName": "RADIO_23_DLC_XM19_RADIO",
-    "Genre": "4",
-    "WheelPosition": 18500,
-    "IsHidden": false
-  },
-  {
-    "RadioName": "RADIO_23_DLC_XM19_RADIO",
+    "TranslatedLabel": {
+      "Hash": 1830579269,
+      "English": "iFruit Radio",
+      "German": "iFruit-Radio",
+      "French": "Radio iFruit",
+      "Italian": "iFruit Radio",
+      "Russian": "iFruit Radio",
+      "Polish": "Radio iFruit",
+      "Name": "RADIO_23_DLC_XM19_RADIO",
+      "TraditionalChinese": "iFruit Radio",
+      "SimplifiedChinese": "iFruitµ电台",
+      "Spanish": "iFruit Radio"
+    },
     "Genre": "4",
     "WheelPosition": 18500,
     "IsHidden": false
   },
   {
     "RadioName": "RADIO_24_DLC_BATTLE_MIX3_CLUB",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "RADIO_24_DLC_BATTLE_MIX3_CLUB",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null
+    },
     "Genre": "10",
     "WheelPosition": 21000,
     "IsHidden": false
   },
   {
     "RadioName": "RADIO_25_DLC_BATTLE_MIX4_CLUB",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "RADIO_25_DLC_BATTLE_MIX4_CLUB",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null
+    },
     "Genre": "10",
     "WheelPosition": 21000,
     "IsHidden": false
   },
   {
     "RadioName": "RADIO_26_DLC_BATTLE_CLUB_WARMUP",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "RADIO_26_DLC_BATTLE_CLUB_WARMUP",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null
+    },
     "Genre": "10",
     "WheelPosition": 21000,
     "IsHidden": false
   },
   {
     "RadioName": "RADIO_27_DLC_PRHEI4",
+    "TranslatedLabel": {
+      "Hash": 3335729411,
+      "English": "Still Slipping Los Santos",
+      "German": "Still Slipping Los Santos",
+      "French": "Still Slipping Los Santos",
+      "Italian": "Still Slipping Los Santos",
+      "Russian": "Still Slipping Los Santos",
+      "Polish": "Still Slipping Los Santos",
+      "Name": "RADIO_27_DLC_PRHEI4",
+      "TraditionalChinese": "Still Slipping Los Santos",
+      "SimplifiedChinese": "放松依旧洛圣都",
+      "Spanish": "Still Slipping Los Santos"
+    },
     "Genre": "3",
     "WheelPosition": 19000,
     "IsHidden": false
   },
   {
     "RadioName": "RADIO_30_DLC_HEI4_MIX1_REVERB",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "RADIO_30_DLC_HEI4_MIX1_REVERB",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null
+    },
     "Genre": "10",
     "WheelPosition": 19150,
     "IsHidden": false
   },
   {
     "RadioName": "RADIO_31_DLC_HEI4_KM_CLUB",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "RADIO_31_DLC_HEI4_KM_CLUB",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null
+    },
     "Genre": "10",
     "WheelPosition": 19200,
     "IsHidden": false
   },
   {
     "RadioName": "RADIO_32_DLC_HEI4_MM_CLUB",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "RADIO_32_DLC_HEI4_MM_CLUB",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null
+    },
     "Genre": "10",
     "WheelPosition": 19250,
     "IsHidden": false
   },
   {
     "RadioName": "RADIO_33_DLC_HEI4_PT_CLUB",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "RADIO_33_DLC_HEI4_PT_CLUB",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null
+    },
     "Genre": "10",
     "WheelPosition": 19300,
     "IsHidden": false
   },
   {
     "RadioName": "RADIO_34_DLC_HEI4_KULT",
+    "TranslatedLabel": {
+      "Hash": 3812893027,
+      "English": "Kult FM",
+      "German": "Kult FM",
+      "French": "Kult FM",
+      "Italian": "Kult FM",
+      "Russian": "Kult FM",
+      "Polish": "Kult FM",
+      "Name": "RADIO_34_DLC_HEI4_KULT",
+      "TraditionalChinese": "Kult FM",
+      "SimplifiedChinese": "库尔特µFM",
+      "Spanish": "Kult FM"
+    },
     "Genre": "1",
     "WheelPosition": 16350,
     "IsHidden": false
   },
   {
     "RadioName": "RADIO_35_DLC_HEI4_MLR",
+    "TranslatedLabel": {
+      "Hash": 666182883,
+      "English": "The Music Locker",
+      "German": "Music Locker",
+      "French": "The Music Locker",
+      "Italian": "The Music Locker",
+      "Russian": "Music Locker",
+      "Polish": "Music Locker",
+      "Name": "RADIO_35_DLC_HEI4_MLR",
+      "TraditionalChinese": "天籟寶盒",
+      "SimplifiedChinese": "音乐柜",
+      "Spanish": "The Music Locker"
+    },
     "Genre": "10",
     "WheelPosition": 11400,
     "IsHidden": false
   },
   {
     "RadioName": "RADIO_36_AUDIOPLAYER",
-    "Genre": "16",
-    "WheelPosition": 1000,
-    "IsHidden": false
-  },
-  {
-    "RadioName": "RADIO_36_AUDIOPLAYER",
+    "TranslatedLabel": {
+      "Hash": 1382984457,
+      "English": "Media Player",
+      "German": "Mediaplayer",
+      "French": "Lecteur média",
+      "Italian": "Lettore audio",
+      "Russian": "Медиаплеер",
+      "Polish": "Odtwarzacz muzyki",
+      "Name": "RADIO_36_AUDIOPLAYER",
+      "TraditionalChinese": "媒體播放機",
+      "SimplifiedChinese": "媒体播放器",
+      "Spanish": "Reproductor"
+    },
     "Genre": "10",
     "WheelPosition": 11350,
     "IsHidden": false
   },
   {
     "RadioName": "RADIO_37_MOTOMAMI",
+    "TranslatedLabel": {
+      "Hash": 2533838796,
+      "English": "MOTOMAMI Los Santos",
+      "German": "MOTOMAMI Los Santos",
+      "French": "MOTOMAMI Los Santos",
+      "Italian": "MOTOMAMI Los Santos",
+      "Russian": "MOTOMAMI Los Santos",
+      "Polish": "MOTOMAMI Los Santos",
+      "Name": null,
+      "TraditionalChinese": "MOTOMAMI Los Santos",
+      "SimplifiedChinese": "MOTOMAMIµ洛圣都",
+      "Spanish": "MOTOMAMI Los Santos"
+    },
     "Genre": "3",
     "WheelPosition": 11400,
     "IsHidden": false
   },
   {
+    "RadioName": "DLC_BATTLE_MIX1_CLUB_PRIV",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "DLC_BATTLE_MIX1_CLUB_PRIV",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null
+    },
+    "Genre": "10",
+    "WheelPosition": 18000,
+    "IsHidden": false
+  },
+  {
+    "RadioName": "DLC_BATTLE_MIX2_CLUB_PRIV",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "DLC_BATTLE_MIX2_CLUB_PRIV",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null
+    },
+    "Genre": "10",
+    "WheelPosition": 20000,
+    "IsHidden": false
+  },
+  {
+    "RadioName": "DLC_BATTLE_MIX3_CLUB_PRIV",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "DLC_BATTLE_MIX3_CLUB_PRIV",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null
+    },
+    "Genre": "10",
+    "WheelPosition": 21000,
+    "IsHidden": false
+  },
+  {
+    "RadioName": "DLC_BATTLE_MIX4_CLUB_PRIV",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "DLC_BATTLE_MIX4_CLUB_PRIV",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null
+    },
+    "Genre": "10",
+    "WheelPosition": 21000,
+    "IsHidden": false
+  },
+  {
     "RadioName": "HIDDEN_RADIO_01_CLASS_ROCK",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "HIDDEN_RADIO_01_CLASS_ROCK",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null
+    },
     "Genre": "1",
     "WheelPosition": 1000,
     "IsHidden": true
   },
   {
     "RadioName": "HIDDEN_RADIO_02_POP",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "HIDDEN_RADIO_02_POP",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null
+    },
     "Genre": "3",
     "WheelPosition": 2000,
     "IsHidden": true
   },
   {
     "RadioName": "HIDDEN_RADIO_03_HIPHOP_NEW",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "HIDDEN_RADIO_03_HIPHOP_NEW",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null
+    },
     "Genre": "4",
     "WheelPosition": 3000,
     "IsHidden": true
   },
   {
     "RadioName": "HIDDEN_RADIO_04_PUNK",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "HIDDEN_RADIO_04_PUNK",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null
+    },
     "Genre": "6",
     "WheelPosition": 4000,
     "IsHidden": true
   },
   {
     "RadioName": "HIDDEN_RADIO_06_COUNTRY",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "HIDDEN_RADIO_06_COUNTRY",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null
+    },
     "Genre": "9",
     "WheelPosition": 6000,
     "IsHidden": true
   },
   {
     "RadioName": "HIDDEN_RADIO_07_DANCE_01",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "HIDDEN_RADIO_07_DANCE_01",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null
+    },
     "Genre": "10",
     "WheelPosition": 7000,
     "IsHidden": true
   },
   {
     "RadioName": "HIDDEN_RADIO_09_HIPHOP_OLD",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "HIDDEN_RADIO_09_HIPHOP_OLD",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null
+    },
     "Genre": "4",
     "WheelPosition": 9000,
     "IsHidden": true
   },
   {
     "RadioName": "HIDDEN_RADIO_10_SURF",
+    "TranslatedLabel": null,
     "Genre": "1",
     "WheelPosition": 10000,
     "IsHidden": true
   },
   {
     "RadioName": "HIDDEN_RADIO_12_REGGAE",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "HIDDEN_RADIO_12_REGGAE",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null
+    },
     "Genre": "12",
     "WheelPosition": 12000,
     "IsHidden": true
   },
   {
     "RadioName": "HIDDEN_RADIO_15_MOTOWN",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "HIDDEN_RADIO_15_MOTOWN",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null
+    },
     "Genre": "14",
     "WheelPosition": 15000,
     "IsHidden": true
   },
   {
     "RadioName": "HIDDEN_RADIO_16_SILVERLAKE",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "HIDDEN_RADIO_16_SILVERLAKE",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null
+    },
     "Genre": "1",
     "WheelPosition": 16000,
     "IsHidden": true
   },
   {
     "RadioName": "HIDDEN_RADIO_17_FUNK",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "collision_a96j7f",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null
+    },
     "Genre": "14",
     "WheelPosition": 17000,
     "IsHidden": true
   },
   {
     "RadioName": "HIDDEN_RADIO_ADVERTS",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "HIDDEN_RADIO_ADVERTS",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null
+    },
     "Genre": "16",
     "WheelPosition": 1000,
     "IsHidden": true
   },
   {
     "RadioName": "HIDDEN_RADIO_AMBIENT_TV",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "HIDDEN_RADIO_AMBIENT_TV",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null
+    },
     "Genre": "16",
     "WheelPosition": 1000,
     "IsHidden": true
   },
   {
     "RadioName": "HIDDEN_RADIO_AMBIENT_TV_BRIGHT",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "HIDDEN_RADIO_AMBIENT_TV_BRIGHT",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null
+    },
     "Genre": "16",
     "WheelPosition": 1000,
     "IsHidden": true
   },
   {
     "RadioName": "HIDDEN_RADIO_ARCADE_DANCE",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "HIDDEN_RADIO_ARCADE_DANCE",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null
+    },
     "Genre": "10",
     "WheelPosition": 1000,
     "IsHidden": true
   },
   {
     "RadioName": "HIDDEN_RADIO_ARCADE_EDM",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "HIDDEN_RADIO_ARCADE_EDM",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null
+    },
     "Genre": "10",
     "WheelPosition": 1000,
     "IsHidden": true
   },
   {
     "RadioName": "HIDDEN_RADIO_ARCADE_MIRROR_PARK",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "HIDDEN_RADIO_ARCADE_MIRROR_PARK",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null
+    },
     "Genre": "1",
     "WheelPosition": 1000,
     "IsHidden": true
   },
   {
     "RadioName": "HIDDEN_RADIO_ARCADE_POP",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "HIDDEN_RADIO_ARCADE_POP",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null
+    },
     "Genre": "3",
     "WheelPosition": 1000,
     "IsHidden": true
   },
   {
     "RadioName": "HIDDEN_RADIO_ARCADE_WWFM",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "HIDDEN_RADIO_ARCADE_WWFM",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null
+    },
     "Genre": "13",
     "WheelPosition": 1000,
     "IsHidden": true
   },
   {
     "RadioName": "HIDDEN_RADIO_ASTU_DRUMS_VOX",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "HIDDEN_RADIO_ASTU_DRUMS_VOX",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null
+    },
     "Genre": "4",
     "WheelPosition": 11450,
     "IsHidden": true
   },
   {
     "RadioName": "HIDDEN_RADIO_ASTU_SILENCE",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "HIDDEN_RADIO_ASTU_SILENCE",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null
+    },
     "Genre": "4",
     "WheelPosition": 11450,
     "IsHidden": true
   },
   {
     "RadioName": "HIDDEN_RADIO_ASTU_TRANS_01",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "HIDDEN_RADIO_ASTU_TRANS_01",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null
+    },
     "Genre": "4",
     "WheelPosition": 11500,
     "IsHidden": true
   },
   {
     "RadioName": "HIDDEN_RADIO_ASTU_TRANS_01_VOX",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "HIDDEN_RADIO_ASTU_TRANS_01_VOX",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null
+    },
     "Genre": "4",
     "WheelPosition": 11550,
     "IsHidden": true
   },
   {
     "RadioName": "HIDDEN_RADIO_ASTU_TRANS_02_VOX",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "HIDDEN_RADIO_ASTU_TRANS_02_VOX",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null
+    },
     "Genre": "4",
     "WheelPosition": 11600,
     "IsHidden": true
   },
   {
     "RadioName": "HIDDEN_RADIO_ASTU_VOX",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "HIDDEN_RADIO_ASTU_VOX",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null
+    },
     "Genre": "4",
     "WheelPosition": 11650,
     "IsHidden": true
   },
   {
     "RadioName": "HIDDEN_RADIO_BIKER_CLASSIC_ROCK",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "HIDDEN_RADIO_BIKER_CLASSIC_ROCK",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null
+    },
     "Genre": "1",
     "WheelPosition": 19000,
     "IsHidden": true
   },
   {
     "RadioName": "HIDDEN_RADIO_BIKER_HIP_HOP",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "HIDDEN_RADIO_BIKER_HIP_HOP",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null
+    },
     "Genre": "1",
     "WheelPosition": 22000,
     "IsHidden": true
   },
   {
     "RadioName": "HIDDEN_RADIO_BIKER_MODERN_ROCK",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "HIDDEN_RADIO_BIKER_MODERN_ROCK",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null
+    },
     "Genre": "1",
     "WheelPosition": 20000,
     "IsHidden": true
   },
   {
     "RadioName": "HIDDEN_RADIO_BIKER_PUNK",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "HIDDEN_RADIO_BIKER_PUNK",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null
+    },
     "Genre": "1",
     "WheelPosition": 21000,
     "IsHidden": true
   },
   {
     "RadioName": "HIDDEN_RADIO_CASINO",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "HIDDEN_RADIO_CASINO",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null
+    },
     "Genre": "16",
     "WheelPosition": 1000,
     "IsHidden": true
   },
   {
     "RadioName": "HIDDEN_RADIO_CASINO_PENTHOUSE_P",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "HIDDEN_RADIO_CASINO_PENTHOUSE_P",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null
+    },
     "Genre": "16",
     "WheelPosition": 1000,
     "IsHidden": true
   },
   {
     "RadioName": "HIDDEN_RADIO_ML_PROMOTER",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "HIDDEN_RADIO_ML_PROMOTER",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null
+    },
     "Genre": "4",
     "WheelPosition": 1000,
     "IsHidden": true
   },
   {
     "RadioName": "HIDDEN_RADIO_SEC_BILLIONAIRE",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "HIDDEN_RADIO_SEC_BILLIONAIRE",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null
+    },
     "Genre": "4",
     "WheelPosition": 1000,
     "IsHidden": true
   },
   {
     "RadioName": "HIDDEN_RADIO_SEC_STUDIO_LOUNGE",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "HIDDEN_RADIO_SEC_STUDIO_LOUNGE",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null
+    },
     "Genre": "4",
     "WheelPosition": 1000,
     "IsHidden": true
   },
   {
     "RadioName": "HIDDEN_RADIO_STRIP_CLUB",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "HIDDEN_RADIO_STRIP_CLUB",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null
+    },
     "Genre": "16",
     "WheelPosition": 18000,
     "IsHidden": true
   },
   {
     "RadioName": "HIDDEN_RADIO_TUNER_CAR_MEET",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "HIDDEN_RADIO_TUNER_CAR_MEET",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null
+    },
     "Genre": "16",
     "WheelPosition": 1000,
     "IsHidden": true
   },
   {
     "RadioName": "HIDDEN_RADIO_TUNER_MM",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "HIDDEN_RADIO_TUNER_MM",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null
+    },
     "Genre": "10",
     "WheelPosition": 11500,
     "IsHidden": true
   },
   {
     "RadioName": "HIDDEN_RADIO_TUNER_TEST_AREA",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "HIDDEN_RADIO_TUNER_TEST_AREA",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null
+    },
     "Genre": "16",
     "WheelPosition": 1000,
     "IsHidden": true

@@ -1095,7 +1095,7 @@
     "ModificationsCount": 32
   },
   {
-    "Name": "ship_explosion_underwater\r\n",
+    "Name": "ship_explosion_underwater",
     "DlcName": "basegame",
     "ModificationsCount": 1
   },
@@ -3965,7 +3965,7 @@
     "ModificationsCount": 32
   },
   {
-    "Name": "ship_explosion_underwater\r\n",
+    "Name": "ship_explosion_underwater",
     "DlcName": "TitleUpdate",
     "ModificationsCount": 1
   },
@@ -8715,7 +8715,7 @@
     "ModificationsCount": 32
   },
   {
-    "Name": "ship_explosion_underwater\r\n",
+    "Name": "ship_explosion_underwater",
     "DlcName": "mpapartment",
     "ModificationsCount": 1
   },
@@ -10105,7 +10105,7 @@
     "ModificationsCount": 32
   },
   {
-    "Name": "ship_explosion_underwater\r\n",
+    "Name": "ship_explosion_underwater",
     "DlcName": "mpchristmas2017",
     "ModificationsCount": 1
   },
@@ -12060,7 +12060,7 @@
     "ModificationsCount": 32
   },
   {
-    "Name": "ship_explosion_underwater\r\n",
+    "Name": "ship_explosion_underwater",
     "DlcName": "mpgunrunning",
     "ModificationsCount": 1
   },
@@ -13830,7 +13830,7 @@
     "ModificationsCount": 32
   },
   {
-    "Name": "ship_explosion_underwater\r\n",
+    "Name": "ship_explosion_underwater",
     "DlcName": "mpimportexport",
     "ModificationsCount": 1
   },

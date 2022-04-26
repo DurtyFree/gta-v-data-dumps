@@ -6,17 +6,17 @@ This is a collection of various GTA V data dumps mostly useful for modding &amp;
 [![Pleb Masters Forge Logo](https://i.imgur.com/hotlSPf.png)](https://forge.plebmasters.de)
 [![Durty Map Editor Logo](https://i.imgur.com/WsRJv3u.png)](https://durty.me)
 
-## All data up2date as of GTA V update: **v2545 (Online 1.58) [DLC: mpsecurity]**
+## All data up2date as of GTA V update: **v2612 (Online 1.59) [DLC: mpg9ec]**
 ---
 ### Please create an issue if you have any problems with the data, so I can improve my generator. You are also welcome to create issues for dumps you would like to see.
 ---
 ## **Data dumps overview**
 - **IPLs** ([ipls.json](ipls.json)) **1184** ipls in total (Usable with IPL natives)
 - **Speech Voices** ([speeches.json](speeches.json)) **1083** speech voices with **150055** speeches in total (Usable with PLAY AMBIENT SPEECH natives)
-- **Particle Effects** ([particleEffectsCompact.json](particleEffectsCompact.json)) **313** particle effect dictionaries & **2514** particle effects in total (Usable with START PARTICLE FX natives)
+- **Particle Effects** ([particleEffectsCompact.json](particleEffectsCompact.json)) **314** particle effect dictionaries & **2517** particle effects in total (Usable with START PARTICLE FX natives)
 - **Ped Scenario names** ([scenariosCompact.json](scenariosCompact.json)) **245** scenarios in total (Usable with SCENARIO related natives)
 - **Ped Scenario group names** ([scenarioGroupNames.json](scenarioGroupNames.json)) **235** scenario groups in total (Usable with SCENARIO_GROUP natives)
-- **Animations** ([animDictsCompact.json](animDictsCompact.json)) **18269** animation dictionaries & **222978** animations in total (Usable with TASK PLAY ANIM native)
+- **Animations** ([animDictsCompact.json](animDictsCompact.json)) **18294** animation dictionaries & **223285** animations in total (Usable with TASK PLAY ANIM native)
 - **Movement Clipsets** ([movementClipsetsCompact.json](movementClipsetsCompact.json)) **557** movement clipsets in total (Usable with SET PED MOVEMENT CLIPSET native)
 - **Walking Movement Clipsets** ([movementClipsetsWalkingCompact.json](movementClipsetsWalkingCompact.json)) **207** movement clipsets in total (Usable with SET PED MOVEMENT CLIPSET native)
 - **(Vehicle Navigation) Nodes** ([nodes.zip](nodes.zip), contains JSON) **259** node cells with **67454** nodes in total (Mostly useful for vehicle navigation, see navigation meshes dump for ped navigation data)
@@ -53,7 +53,7 @@ This is a collection of various GTA V data dumps mostly useful for modding &amp;
 - **Mission Complete Audio names** ([missionCompleteAudioNames.json](missionCompleteAudioNames.json)) **4** mission complete audio names in total (Usable with PLAY_MISSION_COMPLETE_AUDIO native)
 - **Police Report names** ([policeReportNames.json](policeReportNames.json)) **50** police report names in total (Usable with PLAY_​POLICE_​REPORT native)
 - **Audio Scene names** ([audioSceneNames.json](audioSceneNames.json)) **1129** audio scene names in total (Usable with AUDIO_SCENE natives)
-- **Cutscene names** ([cutsceneNames.json](cutsceneNames.json)) **739** cut scene names in total (Usable with CUT_ or CUTSCENE_ natives)
+- **Cutscene names** ([cutsceneNames.json](cutsceneNames.json)) **741** cut scene names in total (Usable with CUT_ or CUTSCENE_ natives)
 - **Weapons** ([weapons.json](weapons.json)) **165** weapons with **418** components in total (Usable with WEAPON natives)
 - **Radio Stations** ([radioStations.json](radioStations.json)) **79** radio stations in total (Usable with RADIO_STATION natives)
 

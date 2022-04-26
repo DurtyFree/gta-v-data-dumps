@@ -3693,6 +3693,14 @@
     ]
   },
   {
+    "DictionaryName": "cut_g9_mig",
+    "EffectNames": [
+      "cut_g9_mig_break_dust",
+      "cut_g9_mig_veh_exhaust",
+      "cut_g9_mig_disturb_dust"
+    ]
+  },
+  {
     "DictionaryName": "cut_gr_intro",
     "EffectNames": [
       "cs_gr_muz_assault_rifle"

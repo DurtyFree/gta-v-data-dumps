@@ -1232,6 +1232,10 @@
     "AudioRef": "WastedSounds"
   },
   {
+    "AudioName": "Exit_Engine_Blips",
+    "AudioRef": "Lowrider_Super_Mod_Garage_Sounds"
+  },
+  {
     "AudioName": "radio_tower_fixed",
     "AudioRef": "dlc_hei4_hidden_collectibles_sounds"
   },
@@ -2098,10 +2102,6 @@
   {
     "AudioName": "MOD_SHOP_BRAKES_ONESHOT",
     "AudioRef": "0"
-  },
-  {
-    "AudioName": "Exit_Engine_Blips",
-    "AudioRef": "Lowrider_Super_Mod_Garage_Sounds"
   },
   {
     "AudioName": "Hood_Open",
@@ -3732,42 +3732,6 @@
     "AudioRef": "DLC_HEISTS_GENERAL_FRONTEND_SOUNDS"
   },
   {
-    "AudioName": "BOATS_PLANES_HELIS_BOOM",
-    "AudioRef": "MP_LOBBY_SOUNDS"
-  },
-  {
-    "AudioName": "CAR_BIKE_WHOOSH",
-    "AudioRef": "MP_LOBBY_SOUNDS"
-  },
-  {
-    "AudioName": "Whoosh_1s_R_to_L",
-    "AudioRef": "MP_LOBBY_SOUNDS"
-  },
-  {
-    "AudioName": "Whoosh_1s_L_to_R",
-    "AudioRef": "MP_LOBBY_SOUNDS"
-  },
-  {
-    "AudioName": "MP_5_SECOND_TIMER",
-    "AudioRef": "HUD_FRONTEND_DEFAULT_SOUNDSET"
-  },
-  {
-    "AudioName": "BACK",
-    "AudioRef": "HUD_FRONTEND_MP_SOUNDSET"
-  },
-  {
-    "AudioName": "Back",
-    "AudioRef": "0"
-  },
-  {
-    "AudioName": "Select",
-    "AudioRef": "0"
-  },
-  {
-    "AudioName": "SCREEN_FLASH",
-    "AudioRef": "CELEBRATION_SOUNDSET"
-  },
-  {
     "AudioName": "Continue_Accepted",
     "AudioRef": "DLC_HEIST_PLANNING_BOARD_SOUNDS"
   },
@@ -3822,6 +3786,42 @@
   {
     "AudioName": "Paper_Shuffle",
     "AudioRef": "DLC_HEIST_PLANNING_BOARD_SOUNDS"
+  },
+  {
+    "AudioName": "BOATS_PLANES_HELIS_BOOM",
+    "AudioRef": "MP_LOBBY_SOUNDS"
+  },
+  {
+    "AudioName": "CAR_BIKE_WHOOSH",
+    "AudioRef": "MP_LOBBY_SOUNDS"
+  },
+  {
+    "AudioName": "Whoosh_1s_R_to_L",
+    "AudioRef": "MP_LOBBY_SOUNDS"
+  },
+  {
+    "AudioName": "Whoosh_1s_L_to_R",
+    "AudioRef": "MP_LOBBY_SOUNDS"
+  },
+  {
+    "AudioName": "MP_5_SECOND_TIMER",
+    "AudioRef": "HUD_FRONTEND_DEFAULT_SOUNDSET"
+  },
+  {
+    "AudioName": "BACK",
+    "AudioRef": "HUD_FRONTEND_MP_SOUNDSET"
+  },
+  {
+    "AudioName": "Back",
+    "AudioRef": "0"
+  },
+  {
+    "AudioName": "Select",
+    "AudioRef": "0"
+  },
+  {
+    "AudioName": "SCREEN_FLASH",
+    "AudioRef": "CELEBRATION_SOUNDSET"
   },
   {
     "AudioName": "Alarm_Interior_Gate_Loop",
@@ -6288,38 +6288,6 @@
     "AudioRef": "DLC_Apt_Yacht_Ambient_Soundset"
   },
   {
-    "AudioName": "clue_seen",
-    "AudioRef": "dlc_ch_hidden_collectibles_sk_sounds"
-  },
-  {
-    "AudioName": "dlc_ch_hidden_collectibles_sk_sounds",
-    "AudioRef": "0"
-  },
-  {
-    "AudioName": "clue_complete_shard",
-    "AudioRef": "dlc_btl_fm_th_sounds"
-  },
-  {
-    "AudioName": "item_found",
-    "AudioRef": "dlc_btl_fm_th_sounds"
-  },
-  {
-    "AudioName": "item_close_loop",
-    "AudioRef": "dlc_btl_fm_th_sounds"
-  },
-  {
-    "AudioName": "item_found",
-    "AudioRef": "dlc_xm_fm_th_sounds"
-  },
-  {
-    "AudioName": "clue_complete_shard",
-    "AudioRef": "dlc_xm_fm_th_sounds"
-  },
-  {
-    "AudioName": "item_close_loop",
-    "AudioRef": "dlc_xm_fm_th_sounds"
-  },
-  {
     "AudioName": "destroyed",
     "AudioRef": "dlc_ch_hidden_collectibles_sj_sounds"
   },
@@ -6392,18 +6360,6 @@
     "AudioRef": "Feed_Message_Sounds"
   },
   {
-    "AudioName": "bombs_empty",
-    "AudioRef": "DLC_SM_Bomb_Bay_Bombs_Sounds"
-  },
-  {
-    "AudioName": "bomb_deployed",
-    "AudioRef": "DLC_SM_Bomb_Bay_Bombs_Sounds"
-  },
-  {
-    "AudioName": "collect_water",
-    "AudioRef": "dlc_sum20_yacht_missions_ah_sounds"
-  },
-  {
     "AudioName": "chaff_cooldown",
     "AudioRef": "DLC_SM_Countermeasures_Sounds"
   },
@@ -6424,32 +6380,12 @@
     "AudioRef": "DLC_SM_Countermeasures_Sounds"
   },
   {
-    "AudioName": "rc_mines_empty",
-    "AudioRef": "DLC_AW_RCBandito_Mine_Sounds"
-  },
-  {
-    "AudioName": "Rappel_Loop",
-    "AudioRef": "GTAO_Rappel_Sounds"
-  },
-  {
-    "AudioName": "Rappel_Stop",
-    "AudioRef": "GTAO_Rappel_Sounds"
-  },
-  {
-    "AudioName": "Rappel_Land",
-    "AudioRef": "GTAO_Rappel_Sounds"
-  },
-  {
     "AudioName": "movie_prop_reward_cut_music",
     "AudioRef": "DLC_sum20_hidden_collectible_sounds"
   },
   {
     "AudioName": "movie_prop_reward_cut_roar",
     "AudioRef": "DLC_sum20_hidden_collectible_sounds"
-  },
-  {
-    "AudioName": "Armour_On",
-    "AudioRef": "DLC_GR_Steal_Miniguns_Sounds"
   },
   {
     "AudioName": "Wheel_Spin_Start",
@@ -6504,14 +6440,6 @@
     "AudioRef": "PI_Menu_Sounds"
   },
   {
-    "AudioName": "Timer_10s",
-    "AudioRef": "GTAO_FM_Events_Soundset"
-  },
-  {
-    "AudioName": "Return_To_Vehicle_Timer",
-    "AudioRef": "GTAO_FM_Events_Soundset"
-  },
-  {
     "AudioName": "Accept_Ghosting_Mode",
     "AudioRef": "RESPAWN_ONLINE_SOUNDSET"
   },
@@ -6522,6 +6450,86 @@
   {
     "AudioName": "Faster_Click",
     "AudioRef": "RESPAWN_ONLINE_SOUNDSET"
+  },
+  {
+    "AudioName": "Armour_On",
+    "AudioRef": "DLC_GR_Steal_Miniguns_Sounds"
+  },
+  {
+    "AudioName": "Timer_10s",
+    "AudioRef": "GTAO_FM_Events_Soundset"
+  },
+  {
+    "AudioName": "Return_To_Vehicle_Timer",
+    "AudioRef": "GTAO_FM_Events_Soundset"
+  },
+  {
+    "AudioName": "bombs_empty",
+    "AudioRef": "DLC_SM_Bomb_Bay_Bombs_Sounds"
+  },
+  {
+    "AudioName": "bomb_deployed",
+    "AudioRef": "DLC_SM_Bomb_Bay_Bombs_Sounds"
+  },
+  {
+    "AudioName": "collect_water",
+    "AudioRef": "dlc_sum20_yacht_missions_ah_sounds"
+  },
+  {
+    "AudioName": "Rappel_Loop",
+    "AudioRef": "GTAO_Rappel_Sounds"
+  },
+  {
+    "AudioName": "Rappel_Stop",
+    "AudioRef": "GTAO_Rappel_Sounds"
+  },
+  {
+    "AudioName": "Rappel_Land",
+    "AudioRef": "GTAO_Rappel_Sounds"
+  },
+  {
+    "AudioName": "clue_seen",
+    "AudioRef": "dlc_ch_hidden_collectibles_sk_sounds"
+  },
+  {
+    "AudioName": "dlc_ch_hidden_collectibles_sk_sounds",
+    "AudioRef": "0"
+  },
+  {
+    "AudioName": "clue_complete_shard",
+    "AudioRef": "dlc_btl_fm_th_sounds"
+  },
+  {
+    "AudioName": "item_found",
+    "AudioRef": "dlc_btl_fm_th_sounds"
+  },
+  {
+    "AudioName": "item_close_loop",
+    "AudioRef": "dlc_btl_fm_th_sounds"
+  },
+  {
+    "AudioName": "item_found",
+    "AudioRef": "dlc_xm_fm_th_sounds"
+  },
+  {
+    "AudioName": "clue_complete_shard",
+    "AudioRef": "dlc_xm_fm_th_sounds"
+  },
+  {
+    "AudioName": "item_close_loop",
+    "AudioRef": "dlc_xm_fm_th_sounds"
+  },
+  {
+    "AudioName": "rc_mines_empty",
+    "AudioRef": "DLC_AW_RCBandito_Mine_Sounds"
+  },
+  {
+    "AudioName": "05",
+    "AudioRef": "DLC_GR_CS2_Sounds"
+  },
+  {
+    "AudioName": "07",
+    "AudioRef": "DLC_GR_CS2_Sounds"
   },
   {
     "AudioName": "Pickup_Briefcase",
@@ -8386,14 +8394,6 @@
   {
     "AudioName": "Checkpoint_Lap",
     "AudioRef": "DLC_Tuner_Car_Meet_Test_Area_Events_Sounds"
-  },
-  {
-    "AudioName": "05",
-    "AudioRef": "DLC_GR_CS2_Sounds"
-  },
-  {
-    "AudioName": "07",
-    "AudioRef": "DLC_GR_CS2_Sounds"
   },
   {
     "AudioName": "PROPERTY_PURCHASE_MEDIUM",

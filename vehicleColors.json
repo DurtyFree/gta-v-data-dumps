@@ -141,7 +141,7 @@
     },
     {
       "Index": 4,
-      "ColorHex": "0",
+      "ColorHex": "000000",
       "Name": " 4 ",
       "TranslatedLabel": {
         "Hash": 1597504293,
@@ -1561,7 +1561,7 @@
     },
     {
       "Index": 140,
-      "ColorHex": "AEEF",
+      "ColorHex": "00AEEF",
       "MetallicId": "EVehicleModelColorMetallic_normal",
       "AudioColor": "POLICE_SCANNER_COLOUR_blue",
       "AudioPrefix": "none",

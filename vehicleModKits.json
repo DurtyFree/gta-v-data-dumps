@@ -4377,6 +4377,70 @@
         "CollisionBone": "CHASSIS",
         "Weight": 0,
         "IsWeapon": false
+      },
+      {
+        "Index": 1,
+        "Type": 36,
+        "Bone": "BOOT",
+        "CollisionBone": "BOOT",
+        "Weight": 0,
+        "IsWeapon": false
+      },
+      {
+        "Index": 1,
+        "Type": 34,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 0,
+        "IsWeapon": false
+      },
+      {
+        "Index": 2,
+        "Type": 34,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 0,
+        "IsWeapon": false
+      },
+      {
+        "Index": 3,
+        "Type": 34,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 0,
+        "IsWeapon": false
+      },
+      {
+        "Index": 1,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 2,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 5,
+        "Type": 0,
+        "Bone": "BOOT",
+        "CollisionBone": "MOD_COL_2",
+        "Weight": 0,
+        "IsWeapon": false
+      },
+      {
+        "Index": 6,
+        "Type": 0,
+        "Bone": "BOOT",
+        "CollisionBone": "MOD_COL_2",
+        "Weight": 0,
+        "IsWeapon": false
       }
     ],
     "VehicleModels": [
@@ -4570,6 +4634,70 @@
         "Bone": "CHASSIS",
         "CollisionBone": "CHASSIS",
         "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 1,
+        "Type": 36,
+        "Bone": "BOOT",
+        "CollisionBone": "BOOT",
+        "Weight": 0,
+        "IsWeapon": false
+      },
+      {
+        "Index": 1,
+        "Type": 34,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 0,
+        "IsWeapon": false
+      },
+      {
+        "Index": 2,
+        "Type": 34,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 0,
+        "IsWeapon": false
+      },
+      {
+        "Index": 3,
+        "Type": 34,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 0,
+        "IsWeapon": false
+      },
+      {
+        "Index": 16,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 17,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 4,
+        "Type": 0,
+        "Bone": "BOOT",
+        "CollisionBone": "MOD_COL_3",
+        "Weight": 0,
+        "IsWeapon": false
+      },
+      {
+        "Index": 5,
+        "Type": 0,
+        "Bone": "BOOT",
+        "CollisionBone": "MOD_COL_3",
+        "Weight": 0,
         "IsWeapon": false
       }
     ],
@@ -176599,6 +176727,760 @@
     ]
   },
   {
+    "Id": 474,
+    "Name": "474_ignus2_modkit",
+    "Type": "MKT_SPECIAL",
+    "Mods": [
+      {
+        "Index": 1,
+        "Type": 36,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 0,
+        "IsWeapon": false
+      },
+      {
+        "Index": 1,
+        "Type": 34,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 0,
+        "IsWeapon": false
+      },
+      {
+        "Index": 2,
+        "Type": 34,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 0,
+        "IsWeapon": false
+      },
+      {
+        "Index": 3,
+        "Type": 34,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 0,
+        "IsWeapon": false
+      },
+      {
+        "Index": 4,
+        "Type": 34,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 0,
+        "IsWeapon": false
+      },
+      {
+        "Index": 1,
+        "Type": 6,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 1,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 2,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 3,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 4,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 5,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 6,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 7,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 8,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 9,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 10,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 11,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 12,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 1,
+        "Type": 1,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 2,
+        "Type": 1,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 3,
+        "Type": 1,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 4,
+        "Type": 1,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 5,
+        "Type": 1,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 6,
+        "Type": 1,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 7,
+        "Type": 1,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 8,
+        "Type": 1,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 9,
+        "Type": 1,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 10,
+        "Type": 1,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 11,
+        "Type": 1,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 12,
+        "Type": 1,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 13,
+        "Type": 1,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 14,
+        "Type": 1,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 15,
+        "Type": 1,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 16,
+        "Type": 1,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 17,
+        "Type": 1,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 1,
+        "Type": 2,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 2,
+        "Type": 2,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 3,
+        "Type": 2,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 4,
+        "Type": 2,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 5,
+        "Type": 2,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 6,
+        "Type": 2,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 1,
+        "Type": 0,
+        "Bone": "CHASSIS",
+        "CollisionBone": "MOD_COL_1",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 2,
+        "Type": 0,
+        "Bone": "CHASSIS",
+        "CollisionBone": "MOD_COL_1",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 3,
+        "Type": 0,
+        "Bone": "CHASSIS",
+        "CollisionBone": "MOD_COL_1",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 4,
+        "Type": 0,
+        "Bone": "CHASSIS",
+        "CollisionBone": "MOD_COL_2",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 5,
+        "Type": 0,
+        "Bone": "CHASSIS",
+        "CollisionBone": "MOD_COL_2",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 6,
+        "Type": 0,
+        "Bone": "CHASSIS",
+        "CollisionBone": "MOD_COL_2",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 7,
+        "Type": 0,
+        "Bone": "CHASSIS",
+        "CollisionBone": "MOD_COL_3",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 8,
+        "Type": 0,
+        "Bone": "CHASSIS",
+        "CollisionBone": "MOD_COL_3",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 9,
+        "Type": 0,
+        "Bone": "CHASSIS",
+        "CollisionBone": "MOD_COL_3",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 10,
+        "Type": 0,
+        "Bone": "CHASSIS",
+        "CollisionBone": "MOD_COL_3",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 11,
+        "Type": 0,
+        "Bone": "CHASSIS",
+        "CollisionBone": "MOD_COL_3",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 12,
+        "Type": 0,
+        "Bone": "CHASSIS",
+        "CollisionBone": "MOD_COL_3",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 13,
+        "Type": 0,
+        "Bone": "CHASSIS",
+        "CollisionBone": "MOD_COL_4",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 14,
+        "Type": 0,
+        "Bone": "CHASSIS",
+        "CollisionBone": "MOD_COL_4",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 15,
+        "Type": 0,
+        "Bone": "CHASSIS",
+        "CollisionBone": "MOD_COL_4",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 16,
+        "Type": 0,
+        "Bone": "CHASSIS",
+        "CollisionBone": "MOD_COL_5",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 17,
+        "Type": 0,
+        "Bone": "CHASSIS",
+        "CollisionBone": "MOD_COL_5",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 1,
+        "Type": 3,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 2,
+        "Type": 3,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 3,
+        "Type": 3,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 4,
+        "Type": 3,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 5,
+        "Type": 3,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 6,
+        "Type": 3,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 7,
+        "Type": 3,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 8,
+        "Type": 3,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 9,
+        "Type": 3,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 10,
+        "Type": 3,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 11,
+        "Type": 3,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 12,
+        "Type": 3,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 1,
+        "Type": 7,
+        "Bone": "BOOT",
+        "CollisionBone": "BOOT",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 2,
+        "Type": 7,
+        "Bone": "BOOT",
+        "CollisionBone": "BOOT",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 3,
+        "Type": 7,
+        "Bone": "BOOT",
+        "CollisionBone": "BOOT",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 4,
+        "Type": 7,
+        "Bone": "BOOT",
+        "CollisionBone": "BOOT",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 5,
+        "Type": 7,
+        "Bone": "BOOT",
+        "CollisionBone": "BOOT",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 6,
+        "Type": 7,
+        "Bone": "BOOT",
+        "CollisionBone": "BOOT",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 7,
+        "Type": 7,
+        "Bone": "BOOT",
+        "CollisionBone": "BOOT",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 8,
+        "Type": 7,
+        "Bone": "BOOT",
+        "CollisionBone": "BOOT",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 9,
+        "Type": 7,
+        "Bone": "BOOT",
+        "CollisionBone": "BOOT",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 10,
+        "Type": 7,
+        "Bone": "BOOT",
+        "CollisionBone": "BOOT",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 11,
+        "Type": 7,
+        "Bone": "BOOT",
+        "CollisionBone": "BOOT",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 12,
+        "Type": 7,
+        "Bone": "BOOT",
+        "CollisionBone": "BOOT",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 13,
+        "Type": 7,
+        "Bone": "BOOT",
+        "CollisionBone": "BOOT",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 14,
+        "Type": 7,
+        "Bone": "BOOT",
+        "CollisionBone": "BOOT",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 15,
+        "Type": 7,
+        "Bone": "BOOT",
+        "CollisionBone": "BOOT",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 16,
+        "Type": 7,
+        "Bone": "BOOT",
+        "CollisionBone": "BOOT",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 17,
+        "Type": 7,
+        "Bone": "BOOT",
+        "CollisionBone": "BOOT",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 18,
+        "Type": 7,
+        "Bone": "BOOT",
+        "CollisionBone": "BOOT",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 1,
+        "Type": 4,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 2,
+        "Type": 4,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 3,
+        "Type": 4,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 4,
+        "Type": 4,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 5,
+        "Type": 4,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      }
+    ],
+    "VehicleModels": [
+      "ignus2"
+    ]
+  },
+  {
     "Id": 475,
     "Name": "475_deity_modkit",
     "Type": "MKT_SPECIAL",
@@ -179615,6 +180497,656 @@
     ]
   },
   {
+    "Id": 480,
+    "Name": "480_cyclone2_modkit",
+    "Type": "MKT_SPECIAL",
+    "Mods": [
+      {
+        "Index": 1,
+        "Type": 36,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 0,
+        "IsWeapon": false
+      },
+      {
+        "Index": 1,
+        "Type": 34,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 0,
+        "IsWeapon": false
+      },
+      {
+        "Index": 2,
+        "Type": 34,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 0,
+        "IsWeapon": false
+      },
+      {
+        "Index": 3,
+        "Type": 34,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 0,
+        "IsWeapon": false
+      },
+      {
+        "Index": 4,
+        "Type": 34,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 0,
+        "IsWeapon": false
+      },
+      {
+        "Index": 1,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 2,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 3,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 4,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 5,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 6,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 7,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 8,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 9,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 10,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 11,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 12,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 1,
+        "Type": 10,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 2,
+        "Type": 10,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 3,
+        "Type": 10,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 4,
+        "Type": 10,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 5,
+        "Type": 10,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 6,
+        "Type": 10,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 7,
+        "Type": 10,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 8,
+        "Type": 10,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 9,
+        "Type": 10,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 1,
+        "Type": 0,
+        "Bone": "CHASSIS",
+        "CollisionBone": "MISC_D",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 2,
+        "Type": 0,
+        "Bone": "CHASSIS",
+        "CollisionBone": "MISC_D",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 3,
+        "Type": 0,
+        "Bone": "CHASSIS",
+        "CollisionBone": "MOD_COL_2",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 4,
+        "Type": 0,
+        "Bone": "CHASSIS",
+        "CollisionBone": "MOD_COL_2",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 5,
+        "Type": 0,
+        "Bone": "CHASSIS",
+        "CollisionBone": "MOD_COL_2",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 6,
+        "Type": 0,
+        "Bone": "CHASSIS",
+        "CollisionBone": "MOD_COL_2",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 7,
+        "Type": 0,
+        "Bone": "CHASSIS",
+        "CollisionBone": "MOD_COL_2",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 8,
+        "Type": 0,
+        "Bone": "CHASSIS",
+        "CollisionBone": "MOD_COL_3",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 9,
+        "Type": 0,
+        "Bone": "CHASSIS",
+        "CollisionBone": "MOD_COL_3",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 10,
+        "Type": 0,
+        "Bone": "CHASSIS",
+        "CollisionBone": "MOD_COL_3",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 11,
+        "Type": 0,
+        "Bone": "CHASSIS",
+        "CollisionBone": "MOD_COL_3",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 12,
+        "Type": 0,
+        "Bone": "CHASSIS",
+        "CollisionBone": "MOD_COL_3",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 13,
+        "Type": 0,
+        "Bone": "CHASSIS",
+        "CollisionBone": "MOD_COL_5",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 14,
+        "Type": 0,
+        "Bone": "CHASSIS",
+        "CollisionBone": "MOD_COL_5",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 1,
+        "Type": 1,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 2,
+        "Type": 1,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 3,
+        "Type": 1,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 4,
+        "Type": 1,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 5,
+        "Type": 1,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 6,
+        "Type": 1,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 7,
+        "Type": 1,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 8,
+        "Type": 1,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 1,
+        "Type": 2,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 2,
+        "Type": 2,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 1,
+        "Type": 3,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 2,
+        "Type": 3,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 3,
+        "Type": 3,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 4,
+        "Type": 3,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 5,
+        "Type": 3,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 6,
+        "Type": 3,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 7,
+        "Type": 3,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 8,
+        "Type": 3,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 9,
+        "Type": 3,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 10,
+        "Type": 3,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 11,
+        "Type": 3,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 1,
+        "Type": 8,
+        "Bone": "MISC_J",
+        "CollisionBone": "DOOR_DSIDE_F",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 2,
+        "Type": 8,
+        "Bone": "MISC_J",
+        "CollisionBone": "DOOR_DSIDE_F",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 1,
+        "Type": 6,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 2,
+        "Type": 6,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 3,
+        "Type": 6,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 4,
+        "Type": 6,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 5,
+        "Type": 6,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 6,
+        "Type": 6,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 7,
+        "Type": 6,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 8,
+        "Type": 6,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 9,
+        "Type": 6,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 10,
+        "Type": 6,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 11,
+        "Type": 6,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 12,
+        "Type": 6,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 1,
+        "Type": 5,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 2,
+        "Type": 5,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 3,
+        "Type": 5,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 1,
+        "Type": 9,
+        "Bone": "MISC_J",
+        "CollisionBone": "DOOR_DSIDE_F",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 2,
+        "Type": 9,
+        "Bone": "MISC_J",
+        "CollisionBone": "DOOR_DSIDE_F",
+        "Weight": 20,
+        "IsWeapon": false
+      }
+    ],
+    "VehicleModels": [
+      "cyclone2"
+    ]
+  },
+  {
     "Id": 481,
     "Name": "481_comet7_modkit",
     "Type": "MKT_SPECIAL",
@@ -180872,6 +182404,560 @@
     ],
     "VehicleModels": [
       "buffalo4"
+    ]
+  },
+  {
+    "Id": 483,
+    "Name": "483_s95_modkit",
+    "Type": "MKT_SPECIAL",
+    "Mods": [
+      {
+        "Index": 1,
+        "Type": 1,
+        "Bone": "BUMPER_F",
+        "CollisionBone": "BUMPER_F",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 2,
+        "Type": 1,
+        "Bone": "BUMPER_F",
+        "CollisionBone": "BUMPER_F",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 3,
+        "Type": 1,
+        "Bone": "BUMPER_F",
+        "CollisionBone": "BUMPER_F",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 4,
+        "Type": 1,
+        "Bone": "BUMPER_F",
+        "CollisionBone": "BUMPER_F",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 5,
+        "Type": 1,
+        "Bone": "BUMPER_F",
+        "CollisionBone": "BUMPER_F",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 6,
+        "Type": 1,
+        "Bone": "BUMPER_F",
+        "CollisionBone": "BUMPER_F",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 1,
+        "Type": 2,
+        "Bone": "BUMPER_R",
+        "CollisionBone": "BUMPER_R",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 2,
+        "Type": 2,
+        "Bone": "BUMPER_R",
+        "CollisionBone": "BUMPER_R",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 3,
+        "Type": 2,
+        "Bone": "BUMPER_R",
+        "CollisionBone": "BUMPER_R",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 4,
+        "Type": 2,
+        "Bone": "BUMPER_R",
+        "CollisionBone": "BUMPER_R",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 1,
+        "Type": 3,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 2,
+        "Type": 3,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 3,
+        "Type": 3,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 4,
+        "Type": 3,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 5,
+        "Type": 3,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 1,
+        "Type": 7,
+        "Bone": "BONNET",
+        "CollisionBone": "BONNET",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 2,
+        "Type": 7,
+        "Bone": "BONNET",
+        "CollisionBone": "BONNET",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 3,
+        "Type": 7,
+        "Bone": "BONNET",
+        "CollisionBone": "BONNET",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 4,
+        "Type": 7,
+        "Bone": "BONNET",
+        "CollisionBone": "BONNET",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 5,
+        "Type": 7,
+        "Bone": "BONNET",
+        "CollisionBone": "BONNET",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 6,
+        "Type": 7,
+        "Bone": "BONNET",
+        "CollisionBone": "BONNET",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 1,
+        "Type": 5,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 2,
+        "Type": 5,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 3,
+        "Type": 5,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 1,
+        "Type": 8,
+        "Bone": "WING_LF",
+        "CollisionBone": "WING_LF",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 2,
+        "Type": 8,
+        "Bone": "WING_LF",
+        "CollisionBone": "WING_LF",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 3,
+        "Type": 8,
+        "Bone": "WING_LF",
+        "CollisionBone": "WING_LF",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 4,
+        "Type": 8,
+        "Bone": "WING_LF",
+        "CollisionBone": "WING_LF",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 5,
+        "Type": 8,
+        "Bone": "WING_LF",
+        "CollisionBone": "WING_LF",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 1,
+        "Type": 9,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 2,
+        "Type": 9,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 3,
+        "Type": 9,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 4,
+        "Type": 9,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 1,
+        "Type": 10,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 2,
+        "Type": 10,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 3,
+        "Type": 10,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 4,
+        "Type": 10,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 5,
+        "Type": 10,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 6,
+        "Type": 10,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 1,
+        "Type": 0,
+        "Bone": "BOOT",
+        "CollisionBone": "CHASSIS",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 2,
+        "Type": 0,
+        "Bone": "BOOT",
+        "CollisionBone": "CHASSIS",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 3,
+        "Type": 0,
+        "Bone": "BOOT",
+        "CollisionBone": "CHASSIS",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 4,
+        "Type": 0,
+        "Bone": "BOOT",
+        "CollisionBone": "CHASSIS",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 5,
+        "Type": 0,
+        "Bone": "BOOT",
+        "CollisionBone": "CHASSIS",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 6,
+        "Type": 0,
+        "Bone": "BOOT",
+        "CollisionBone": "CHASSIS",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 7,
+        "Type": 0,
+        "Bone": "BOOT",
+        "CollisionBone": "CHASSIS",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 8,
+        "Type": 0,
+        "Bone": "BOOT",
+        "CollisionBone": "CHASSIS",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 9,
+        "Type": 0,
+        "Bone": "BOOT",
+        "CollisionBone": "CHASSIS",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 10,
+        "Type": 0,
+        "Bone": "BOOT",
+        "CollisionBone": "CHASSIS",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 11,
+        "Type": 0,
+        "Bone": "BOOT",
+        "CollisionBone": "CHASSIS",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 12,
+        "Type": 0,
+        "Bone": "BOOT",
+        "CollisionBone": "CHASSIS",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 1,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 2,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 3,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 4,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 5,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 6,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 7,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 8,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 9,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 10,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 11,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 12,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 1,
+        "Type": 36,
+        "Bone": "BOOT",
+        "CollisionBone": "BOOT",
+        "Weight": 0,
+        "IsWeapon": false
+      },
+      {
+        "Index": 1,
+        "Type": 34,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 0,
+        "IsWeapon": false
+      },
+      {
+        "Index": 2,
+        "Type": 34,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 0,
+        "IsWeapon": false
+      },
+      {
+        "Index": 3,
+        "Type": 34,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 0,
+        "IsWeapon": false
+      },
+      {
+        "Index": 4,
+        "Type": 34,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 0,
+        "IsWeapon": false
+      }
+    ],
+    "VehicleModels": [
+      "s95"
     ]
   },
   {
@@ -182332,6 +184418,1218 @@
     ],
     "VehicleModels": [
       "baller7"
+    ]
+  },
+  {
+    "Id": 486,
+    "Name": "486_arbitergt_modkit",
+    "Type": "MKT_SPECIAL",
+    "Mods": [
+      {
+        "Index": 1,
+        "Type": 36,
+        "Bone": "BOOT",
+        "CollisionBone": "BOOT",
+        "Weight": 0,
+        "IsWeapon": false
+      },
+      {
+        "Index": 1,
+        "Type": 34,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 0,
+        "IsWeapon": false
+      },
+      {
+        "Index": 2,
+        "Type": 34,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 0,
+        "IsWeapon": false
+      },
+      {
+        "Index": 3,
+        "Type": 34,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 0,
+        "IsWeapon": false
+      },
+      {
+        "Index": 4,
+        "Type": 34,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 0,
+        "IsWeapon": false
+      },
+      {
+        "Index": 1,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 2,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 3,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 4,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 5,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 6,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 7,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 8,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 9,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 10,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 11,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 12,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 1,
+        "Type": 1,
+        "Bone": "BUMPER_F",
+        "CollisionBone": "BUMPER_F",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 2,
+        "Type": 1,
+        "Bone": "BUMPER_F",
+        "CollisionBone": "BUMPER_F",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 3,
+        "Type": 1,
+        "Bone": "BUMPER_F",
+        "CollisionBone": "BUMPER_F",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 4,
+        "Type": 1,
+        "Bone": "BUMPER_F",
+        "CollisionBone": "BUMPER_F",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 5,
+        "Type": 1,
+        "Bone": "BUMPER_F",
+        "CollisionBone": "BUMPER_F",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 1,
+        "Type": 7,
+        "Bone": "BONNET",
+        "CollisionBone": "BONNET",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 2,
+        "Type": 7,
+        "Bone": "BONNET",
+        "CollisionBone": "BONNET",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 3,
+        "Type": 7,
+        "Bone": "BONNET",
+        "CollisionBone": "BONNET",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 4,
+        "Type": 7,
+        "Bone": "BONNET",
+        "CollisionBone": "BONNET",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 5,
+        "Type": 7,
+        "Bone": "BONNET",
+        "CollisionBone": "BONNET",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 6,
+        "Type": 7,
+        "Bone": "BONNET",
+        "CollisionBone": "BONNET",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 7,
+        "Type": 7,
+        "Bone": "BONNET",
+        "CollisionBone": "BONNET",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 8,
+        "Type": 7,
+        "Bone": "BONNET",
+        "CollisionBone": "BONNET",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 9,
+        "Type": 7,
+        "Bone": "BONNET",
+        "CollisionBone": "BONNET",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 10,
+        "Type": 7,
+        "Bone": "BONNET",
+        "CollisionBone": "BONNET",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 11,
+        "Type": 7,
+        "Bone": "BONNET",
+        "CollisionBone": "BONNET",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 1,
+        "Type": 5,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 2,
+        "Type": 5,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 3,
+        "Type": 5,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 1,
+        "Type": 4,
+        "Bone": "ENGINEBLOCK",
+        "CollisionBone": "ENGINEBLOCK",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 2,
+        "Type": 4,
+        "Bone": "ENGINEBLOCK",
+        "CollisionBone": "ENGINEBLOCK",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 3,
+        "Type": 4,
+        "Bone": "ENGINEBLOCK",
+        "CollisionBone": "ENGINEBLOCK",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 4,
+        "Type": 4,
+        "Bone": "ENGINEBLOCK",
+        "CollisionBone": "ENGINEBLOCK",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 5,
+        "Type": 4,
+        "Bone": "ENGINEBLOCK",
+        "CollisionBone": "ENGINEBLOCK",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 6,
+        "Type": 4,
+        "Bone": "ENGINEBLOCK",
+        "CollisionBone": "ENGINEBLOCK",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 7,
+        "Type": 4,
+        "Bone": "ENGINEBLOCK",
+        "CollisionBone": "ENGINEBLOCK",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 1,
+        "Type": 0,
+        "Bone": "BOOT",
+        "CollisionBone": "BOOT",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 2,
+        "Type": 0,
+        "Bone": "BOOT",
+        "CollisionBone": "BOOT",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 3,
+        "Type": 0,
+        "Bone": "BOOT",
+        "CollisionBone": "BOOT",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 4,
+        "Type": 0,
+        "Bone": "BOOT",
+        "CollisionBone": "BOOT",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 5,
+        "Type": 0,
+        "Bone": "BOOT",
+        "CollisionBone": "BOOT",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 6,
+        "Type": 0,
+        "Bone": "BOOT",
+        "CollisionBone": "BOOT",
+        "Weight": 3,
+        "IsWeapon": false
+      },
+      {
+        "Index": 7,
+        "Type": 0,
+        "Bone": "BOOT",
+        "CollisionBone": "BOOT",
+        "Weight": 3,
+        "IsWeapon": false
+      }
+    ],
+    "VehicleModels": [
+      "arbitergt"
+    ]
+  },
+  {
+    "Id": 487,
+    "Name": "487_astron2_modkit",
+    "Type": "MKT_SPECIAL",
+    "Mods": [
+      {
+        "Index": 1,
+        "Type": 36,
+        "Bone": "BOOT",
+        "CollisionBone": "BOOT",
+        "Weight": 0,
+        "IsWeapon": false
+      },
+      {
+        "Index": 1,
+        "Type": 34,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 0,
+        "IsWeapon": false
+      },
+      {
+        "Index": 2,
+        "Type": 34,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 0,
+        "IsWeapon": false
+      },
+      {
+        "Index": 3,
+        "Type": 34,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 0,
+        "IsWeapon": false
+      },
+      {
+        "Index": 4,
+        "Type": 34,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 0,
+        "IsWeapon": false
+      },
+      {
+        "Index": 1,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 2,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 3,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 4,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 5,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 6,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 7,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 8,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 9,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 10,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 11,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 12,
+        "Type": 48,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 1,
+        "Type": 1,
+        "Bone": "BUMPER_F",
+        "CollisionBone": "BUMPER_F",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 2,
+        "Type": 1,
+        "Bone": "BUMPER_F",
+        "CollisionBone": "BUMPER_F",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 3,
+        "Type": 1,
+        "Bone": "BUMPER_F",
+        "CollisionBone": "BUMPER_F",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 4,
+        "Type": 1,
+        "Bone": "BUMPER_F",
+        "CollisionBone": "BUMPER_F",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 5,
+        "Type": 1,
+        "Bone": "BUMPER_F",
+        "CollisionBone": "BUMPER_F",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 6,
+        "Type": 1,
+        "Bone": "BUMPER_F",
+        "CollisionBone": "BUMPER_F",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 7,
+        "Type": 1,
+        "Bone": "BUMPER_F",
+        "CollisionBone": "BUMPER_F",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 8,
+        "Type": 1,
+        "Bone": "BUMPER_F",
+        "CollisionBone": "BUMPER_F",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 1,
+        "Type": 2,
+        "Bone": "BUMPER_R",
+        "CollisionBone": "BUMPER_R",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 2,
+        "Type": 2,
+        "Bone": "BUMPER_R",
+        "CollisionBone": "BUMPER_R",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 3,
+        "Type": 2,
+        "Bone": "BUMPER_R",
+        "CollisionBone": "BUMPER_R",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 4,
+        "Type": 2,
+        "Bone": "BUMPER_R",
+        "CollisionBone": "BUMPER_R",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 5,
+        "Type": 2,
+        "Bone": "BUMPER_R",
+        "CollisionBone": "BUMPER_R",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 6,
+        "Type": 2,
+        "Bone": "BUMPER_R",
+        "CollisionBone": "BUMPER_R",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 7,
+        "Type": 2,
+        "Bone": "BUMPER_R",
+        "CollisionBone": "BUMPER_R",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 8,
+        "Type": 2,
+        "Bone": "BUMPER_R",
+        "CollisionBone": "BUMPER_R",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 1,
+        "Type": 0,
+        "Bone": "BOOT",
+        "CollisionBone": "BOOT",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 2,
+        "Type": 0,
+        "Bone": "BOOT",
+        "CollisionBone": "BOOT",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 3,
+        "Type": 0,
+        "Bone": "BOOT",
+        "CollisionBone": "BOOT",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 4,
+        "Type": 0,
+        "Bone": "BOOT",
+        "CollisionBone": "BOOT",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 5,
+        "Type": 0,
+        "Bone": "BOOT",
+        "CollisionBone": "BOOT",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 6,
+        "Type": 0,
+        "Bone": "BOOT",
+        "CollisionBone": "BOOT",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 7,
+        "Type": 0,
+        "Bone": "BOOT",
+        "CollisionBone": "BOOT",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 8,
+        "Type": 0,
+        "Bone": "BOOT",
+        "CollisionBone": "BOOT",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 9,
+        "Type": 0,
+        "Bone": "BOOT",
+        "CollisionBone": "BOOT",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 10,
+        "Type": 0,
+        "Bone": "BOOT",
+        "CollisionBone": "MOD_COL_2",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 11,
+        "Type": 0,
+        "Bone": "BOOT",
+        "CollisionBone": "MOD_COL_2",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 1,
+        "Type": 5,
+        "Bone": "BOOT",
+        "CollisionBone": "MOD_COL_1",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 2,
+        "Type": 5,
+        "Bone": "BOOT",
+        "CollisionBone": "MOD_COL_1",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 3,
+        "Type": 5,
+        "Bone": "BOOT",
+        "CollisionBone": "MOD_COL_1",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 4,
+        "Type": 5,
+        "Bone": "BOOT",
+        "CollisionBone": "MOD_COL_1",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 5,
+        "Type": 5,
+        "Bone": "BOOT",
+        "CollisionBone": "MOD_COL_1",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 6,
+        "Type": 5,
+        "Bone": "BOOT",
+        "CollisionBone": "MOD_COL_1",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 7,
+        "Type": 5,
+        "Bone": "BOOT",
+        "CollisionBone": "MOD_COL_1",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 8,
+        "Type": 5,
+        "Bone": "BOOT",
+        "CollisionBone": "MOD_COL_1",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 9,
+        "Type": 5,
+        "Bone": "BOOT",
+        "CollisionBone": "MOD_COL_1",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 10,
+        "Type": 5,
+        "Bone": "BOOT",
+        "CollisionBone": "MOD_COL_1",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 11,
+        "Type": 5,
+        "Bone": "BOOT",
+        "CollisionBone": "MOD_COL_1",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 12,
+        "Type": 5,
+        "Bone": "BOOT",
+        "CollisionBone": "MOD_COL_1",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 13,
+        "Type": 5,
+        "Bone": "BOOT",
+        "CollisionBone": "MOD_COL_1",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 14,
+        "Type": 5,
+        "Bone": "BOOT",
+        "CollisionBone": "MOD_COL_1",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 15,
+        "Type": 5,
+        "Bone": "BOOT",
+        "CollisionBone": "MOD_COL_1",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 1,
+        "Type": 10,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 2,
+        "Type": 10,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 1,
+        "Type": 3,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 2,
+        "Type": 3,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 3,
+        "Type": 3,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 4,
+        "Type": 3,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 5,
+        "Type": 3,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 6,
+        "Type": 3,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 7,
+        "Type": 3,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 8,
+        "Type": 3,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 9,
+        "Type": 3,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 1,
+        "Type": 7,
+        "Bone": "BONNET",
+        "CollisionBone": "BONNET",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 2,
+        "Type": 7,
+        "Bone": "BONNET",
+        "CollisionBone": "BONNET",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 3,
+        "Type": 7,
+        "Bone": "BONNET",
+        "CollisionBone": "BONNET",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 4,
+        "Type": 7,
+        "Bone": "BONNET",
+        "CollisionBone": "BONNET",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 5,
+        "Type": 7,
+        "Bone": "BONNET",
+        "CollisionBone": "BONNET",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 6,
+        "Type": 7,
+        "Bone": "BONNET",
+        "CollisionBone": "BONNET",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 7,
+        "Type": 7,
+        "Bone": "BONNET",
+        "CollisionBone": "BONNET",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 8,
+        "Type": 7,
+        "Bone": "BONNET",
+        "CollisionBone": "BONNET",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 9,
+        "Type": 7,
+        "Bone": "BONNET",
+        "CollisionBone": "BONNET",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 10,
+        "Type": 7,
+        "Bone": "BONNET",
+        "CollisionBone": "BONNET",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 11,
+        "Type": 7,
+        "Bone": "BONNET",
+        "CollisionBone": "BONNET",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 12,
+        "Type": 7,
+        "Bone": "BONNET",
+        "CollisionBone": "BONNET",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 13,
+        "Type": 7,
+        "Bone": "BONNET",
+        "CollisionBone": "BONNET",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 14,
+        "Type": 7,
+        "Bone": "BONNET",
+        "CollisionBone": "BONNET",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 15,
+        "Type": 7,
+        "Bone": "BONNET",
+        "CollisionBone": "BONNET",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 1,
+        "Type": 4,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 2,
+        "Type": 4,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 3,
+        "Type": 4,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 4,
+        "Type": 4,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 5,
+        "Type": 4,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 1,
+        "Type": 6,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 2,
+        "Type": 6,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 3,
+        "Type": 6,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 1,
+        "Type": 8,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 2,
+        "Type": 8,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 1,
+        "Type": 9,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 2,
+        "Type": 9,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 3,
+        "Type": 9,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      },
+      {
+        "Index": 4,
+        "Type": 9,
+        "Bone": "CHASSIS",
+        "CollisionBone": "CHASSIS",
+        "Weight": 20,
+        "IsWeapon": false
+      }
+    ],
+    "VehicleModels": [
+      "astron2"
     ]
   },
   {

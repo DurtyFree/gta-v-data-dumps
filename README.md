@@ -6,7 +6,7 @@ This is a collection of various GTA V data dumps mostly useful for modding &amp;
 [![Pleb Masters Forge Logo](https://i.imgur.com/hotlSPf.png)](https://forge.plebmasters.de)
 [![Durty Map Editor Logo](https://i.imgur.com/WsRJv3u.png)](https://durty.me)
 
-## All data up2date as of GTA V update: **v2612 (Online 1.59) [DLC: mpg9ec]**
+## All data up2date as of GTA V update: **v2628 (Online 1.60) [DLC: mpg9ec]**
 ---
 ### Please create an issue if you have any problems with the data, so I can improve my generator. You are also welcome to create issues for dumps you would like to see.
 ---
@@ -27,21 +27,21 @@ This is a collection of various GTA V data dumps mostly useful for modding &amp;
 - **Cam Shake Types names** ([camShakeTypesCompact.json](camShakeTypesCompact.json)) **21** cam shake types in total (Usable with SHAKE CAM & SHAKE GAMEPLAY cam natives)
 - **Audio / Sound names & ref names** ([soundNames.json](soundNames.json)) **2100** audio names from a total of **62** unique audio refs (Usable with PLAY_SOUND natives)
 - **Pickup Types names** ([pickupTypes.json](pickupTypes.json)) **160** pickup types in total (Usable with CREATE PICKUP natives)
-- **Vehicle Mod Kits & Mods** ([vehicleModKits.json](vehicleModKits.json)) **457** vehicle mod kits with **22465** mods in total (Usable with SET_VEHICLE_MOD_KIT,SET_VEHICLE_LIVERY & SET_VEHICLE_MOD natives)
-- **Vehicles** ([vehicles.json](vehicles.json)) **758** vehicle infos in total (Usable with VEHICLE natives)
+- **Vehicle Mod Kits & Mods** ([vehicleModKits.json](vehicleModKits.json)) **462** vehicle mod kits with **22871** mods in total (Usable with SET_VEHICLE_MOD_KIT,SET_VEHICLE_LIVERY & SET_VEHICLE_MOD natives)
+- **Vehicles** ([vehicles.json](vehicles.json)) **763** vehicle infos in total (Usable with VEHICLE natives)
 - **AnimpostFX names** ([animPostFxNamesCompact.json](animPostFxNamesCompact.json)) **155** animpostfx names in total (Usable with ANIMPOSTFX natives)
-- **REMOVED** **Ped Component Variations** ([pedComponentVariations.json](pedComponentVariations.json)) **28044** component variations & **4523** ped props from a total of **80** ped component variation collections (Usable with COMPONENT VARIATION & PED PROP natives)
+- **REMOVED** **Ped Component Variations** ([pedComponentVariations.json](pedComponentVariations.json)) **28044** component variations & **4523** ped props from a total of **82** ped component variation collections (Usable with COMPONENT VARIATION & PED PROP natives)
 - **Ped Apparel Restriction tag names** ([animPostFxNamesCompact.json](animPostFxNamesCompact.json)) **438** ped apparel restriction tags in total (Usable with PED RESTRICTION natives)
 - **Waypoint recording names** ([waypointRecordings.json](waypointRecordings.json)) **807** waypoint recording infos in total (Usable with WAYPOINT RECORDING natives)
 - **Garages** ([garages.json](garages.json)) **32** garage infos in total (Usable with GARAGE natives)
-- **Vehicle Handlings** ([vehicleHandlings.json](vehicleHandlings.json)) **679** vehicle handling infos in total (Shared for all existing vehicles, see handling id in vehicles dump)
+- **Vehicle Handlings** ([vehicleHandlings.json](vehicleHandlings.json)) **684** vehicle handling infos in total (Shared for all existing vehicles, see handling id in vehicles dump)
 - **Zones** ([zones.json](zones.json)) **97** zone infos in total (Usable with some ZONE natives, contains all bounds coords for the zones)
 - **Static Emitters** ([staticEmitters.json](staticEmitters.json)) **846** static emitter infos in total (Usable with STATIC_EMITTER natives)
 - **Ambient Zones** ([ambientZones.json](ambientZones.json)) **1339** ambient zone infos in total (Usable with AMBIENT_ZONE natives)
 - **MLO / Interiors** ([mloInteriors.json](mloInteriors.json)) **351** MLO interiors at 799 locations in total (Useful for modding, also contains in game locations of interiors)
 - **Peds** ([peds.json](peds.json)) **983** peds in total (Useful for various natives related to peds)
 - **Vehicle Colors** ([vehicleColors.json](vehicleColors.json)) Contains all **Xenon Colors, Window Colors, PrimarySecondaryColors & Vehicle Plates** data (Useful for various natives related to vehicle)
-- **Createable Objects** ([ObjectList.ini](ObjectList.ini) **18456** createable objects in total (The objects that can be created with most common loaded ytyps) (Useful for CREATE_OBJECT native)
+- **Createable Objects** ([ObjectList.ini](ObjectList.ini) **17197** createable objects in total (The objects that can be created with most common loaded ytyps) (Useful for CREATE_OBJECT native)
 - **Alarm Sound names** ([alarmSounds.json](alarmSounds.json)) **60** alarm sound names in total (Usable with ALARM natives)
 - **Shaders** ([shaders.json](shaders.json)) **415** shaders in total
 - **Train tracks** ([traintracks.json](traintracks.json)) **12** train tracks in total (Usable with TRACK natives)
@@ -54,7 +54,7 @@ This is a collection of various GTA V data dumps mostly useful for modding &amp;
 - **Police Report names** ([policeReportNames.json](policeReportNames.json)) **50** police report names in total (Usable with PLAY_​POLICE_​REPORT native)
 - **Audio Scene names** ([audioSceneNames.json](audioSceneNames.json)) **1129** audio scene names in total (Usable with AUDIO_SCENE natives)
 - **Cutscene names** ([cutsceneNames.json](cutsceneNames.json)) **741** cut scene names in total (Usable with CUT_ or CUTSCENE_ natives)
-- **Weapons** ([weapons.json](weapons.json)) **165** weapons with **418** components in total (Usable with WEAPON natives)
+- **Weapons** ([weapons.json](weapons.json)) **169** weapons with **429** components in total (Usable with WEAPON natives)
 - **Radio Stations** ([radioStations.json](radioStations.json)) **79** radio stations in total (Usable with RADIO_STATION natives)
 
 ## **Objects location dumps**

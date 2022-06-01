@@ -992,7 +992,7 @@
       12
     ],
     "RequiredExtras": [
-      11
+      12
     ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4,
@@ -1280,9 +1280,7 @@
     "Extras": [
       1
     ],
-    "RequiredExtras": [
-      1
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -2718,7 +2716,9 @@
       10,
       11
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      10
+    ],
     "SpawnFrequency": 70.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -2876,7 +2876,7 @@
       11
     ],
     "RequiredExtras": [
-      11
+      1
     ],
     "SpawnFrequency": 70.0,
     "WheelsCount": 4,
@@ -3028,7 +3028,7 @@
       12
     ],
     "RequiredExtras": [
-      10
+      12
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
@@ -4584,9 +4584,7 @@
       10,
       12
     ],
-    "RequiredExtras": [
-      10
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -4918,7 +4916,9 @@
       10,
       12
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      10
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -5256,7 +5256,9 @@
       10,
       12
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      12
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -5598,7 +5600,7 @@
       10
     ],
     "RequiredExtras": [
-      2,
+      1,
       10
     ],
     "SpawnFrequency": 50.0,
@@ -5754,7 +5756,7 @@
       2
     ],
     "RequiredExtras": [
-      2
+      1
     ],
     "SpawnFrequency": 50.0,
     "WheelsCount": 4,
@@ -6802,8 +6804,8 @@
       12
     ],
     "RequiredExtras": [
-      4,
-      10
+      1,
+      11
     ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4,
@@ -7331,8 +7333,8 @@
       11
     ],
     "RequiredExtras": [
-      1,
-      10
+      2,
+      11
     ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4,
@@ -7479,8 +7481,7 @@
     ],
     "RequiredExtras": [
       1,
-      5,
-      11
+      5
     ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 6,
@@ -7762,7 +7763,7 @@
       11
     ],
     "RequiredExtras": [
-      10
+      11
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
@@ -7930,9 +7931,7 @@
       11,
       12
     ],
-    "RequiredExtras": [
-      11
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -8096,8 +8095,7 @@
       12
     ],
     "RequiredExtras": [
-      2,
-      12
+      2
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
@@ -9692,9 +9690,7 @@
       10,
       12
     ],
-    "RequiredExtras": [
-      10
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 50.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -9997,7 +9993,9 @@
     "Extras": [
       2
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      2
+    ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -10526,7 +10524,9 @@
       11,
       12
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      12
+    ],
     "SpawnFrequency": 1.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -10912,7 +10912,8 @@
       11
     ],
     "RequiredExtras": [
-      3
+      4,
+      10
     ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4,
@@ -11224,7 +11225,7 @@
       11
     ],
     "RequiredExtras": [
-      1
+      10
     ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4,
@@ -13911,9 +13912,7 @@
       11,
       12
     ],
-    "RequiredExtras": [
-      11
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -15230,8 +15229,7 @@
       12
     ],
     "RequiredExtras": [
-      1,
-      10
+      5
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
@@ -15381,7 +15379,7 @@
       12
     ],
     "RequiredExtras": [
-      12
+      11
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
@@ -15529,9 +15527,7 @@
       11,
       12
     ],
-    "RequiredExtras": [
-      10
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -16623,7 +16619,9 @@
     "Extras": [
       2
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      2
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -16732,7 +16730,7 @@
       3
     ],
     "RequiredExtras": [
-      1
+      3
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
@@ -17020,7 +17018,7 @@
       3
     ],
     "RequiredExtras": [
-      2
+      3
     ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4,
@@ -17529,7 +17527,9 @@
       10,
       12
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      12
+    ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -18732,7 +18732,9 @@
       10,
       11
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      10
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -18891,9 +18893,7 @@
       11,
       12
     ],
-    "RequiredExtras": [
-      12
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -20649,7 +20649,7 @@
       3
     ],
     "RequiredExtras": [
-      3
+      1
     ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4,
@@ -23493,9 +23493,7 @@
     "Extras": [
       1
     ],
-    "RequiredExtras": [
-      1
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -23660,8 +23658,8 @@
       11
     ],
     "RequiredExtras": [
-      1,
-      11
+      2,
+      10
     ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4,
@@ -24386,8 +24384,7 @@
       11
     ],
     "RequiredExtras": [
-      1,
-      11
+      1
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
@@ -26907,7 +26904,9 @@
     "Extras": [
       10
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      10
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -27566,6 +27565,7 @@
       3
     ],
     "RequiredExtras": [
+      2,
       3
     ],
     "SpawnFrequency": 100.0,
@@ -27809,8 +27809,8 @@
       12
     ],
     "RequiredExtras": [
-      3,
-      10
+      2,
+      12
     ],
     "SpawnFrequency": 70.0,
     "WheelsCount": 4,
@@ -28352,7 +28352,9 @@
       11,
       12
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      12
+    ],
     "SpawnFrequency": 90.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -29985,7 +29987,7 @@
       12
     ],
     "RequiredExtras": [
-      12
+      10
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
@@ -30158,7 +30160,9 @@
       11,
       12
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      12
+    ],
     "SpawnFrequency": 5.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -31075,9 +31079,7 @@
     "Extras": [
       2
     ],
-    "RequiredExtras": [
-      2
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -32142,7 +32144,7 @@
       11
     ],
     "RequiredExtras": [
-      1
+      10
     ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4,
@@ -32608,9 +32610,7 @@
       11,
       12
     ],
-    "RequiredExtras": [
-      10
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -32929,8 +32929,7 @@
       12
     ],
     "RequiredExtras": [
-      1,
-      10
+      1
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
@@ -33355,7 +33354,7 @@
       12
     ],
     "RequiredExtras": [
-      12
+      10
     ],
     "SpawnFrequency": 12.0,
     "WheelsCount": 4,
@@ -34115,9 +34114,7 @@
       10,
       12
     ],
-    "RequiredExtras": [
-      10
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 80.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -34269,7 +34266,7 @@
       5
     ],
     "RequiredExtras": [
-      3,
+      2,
       5
     ],
     "SpawnFrequency": 30.0,
@@ -34423,9 +34420,7 @@
       2,
       3
     ],
-    "RequiredExtras": [
-      2
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -34593,7 +34588,7 @@
       3
     ],
     "RequiredExtras": [
-      2
+      3
     ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4,
@@ -35265,9 +35260,7 @@
     "Extras": [
       12
     ],
-    "RequiredExtras": [
-      12
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -35441,7 +35434,7 @@
       12
     ],
     "RequiredExtras": [
-      10
+      12
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
@@ -35856,7 +35849,9 @@
     "Extras": [
       11
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      11
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -36017,9 +36012,7 @@
     "Extras": [
       11
     ],
-    "RequiredExtras": [
-      11
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -37592,7 +37585,7 @@
       11
     ],
     "RequiredExtras": [
-      10
+      11
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
@@ -38016,7 +38009,7 @@
     "WheelsCount": 8,
     "HasParachute": false,
     "HasKers": false,
-    "DefaultHorn": 3254255616,
+    "DefaultHorn": 1124859904,
     "DefaultHornVariation": -1,
     "Bones": [
       "chassis",
@@ -39345,9 +39338,7 @@
     "Extras": [
       10
     ],
-    "RequiredExtras": [
-      10
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 60.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -39946,7 +39937,7 @@
       11
     ],
     "RequiredExtras": [
-      11
+      10
     ],
     "SpawnFrequency": 90.0,
     "WheelsCount": 4,
@@ -40892,7 +40883,7 @@
       12
     ],
     "RequiredExtras": [
-      10
+      12
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
@@ -41793,6 +41784,7 @@
       11
     ],
     "RequiredExtras": [
+      1,
       11
     ],
     "SpawnFrequency": 100.0,
@@ -42152,9 +42144,7 @@
       11,
       12
     ],
-    "RequiredExtras": [
-      12
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -42791,9 +42781,7 @@
       10,
       11
     ],
-    "RequiredExtras": [
-      10
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -44378,10 +44366,7 @@
       1,
       2
     ],
-    "RequiredExtras": [
-      1,
-      2
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -44986,7 +44971,7 @@
       12
     ],
     "RequiredExtras": [
-      11
+      10
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
@@ -47165,7 +47150,9 @@
     "Extras": [
       1
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 20.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -48424,9 +48411,7 @@
     "Extras": [
       11
     ],
-    "RequiredExtras": [
-      11
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -51546,7 +51531,7 @@
       3
     ],
     "RequiredExtras": [
-      3
+      1
     ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4,
@@ -52045,7 +52030,7 @@
       3
     ],
     "RequiredExtras": [
-      2
+      3
     ],
     "SpawnFrequency": 1.0,
     "WheelsCount": 4,
@@ -52528,7 +52513,7 @@
       11
     ],
     "RequiredExtras": [
-      1
+      10
     ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4,
@@ -53672,7 +53657,9 @@
     "Extras": [
       10
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      10
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -54405,10 +54392,7 @@
       11,
       12
     ],
-    "RequiredExtras": [
-      1,
-      10
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -55640,7 +55624,7 @@
       3
     ],
     "RequiredExtras": [
-      1
+      3
     ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4,
@@ -55940,8 +55924,8 @@
       12
     ],
     "RequiredExtras": [
-      1,
-      12
+      2,
+      11
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
@@ -56618,7 +56602,7 @@
       3
     ],
     "RequiredExtras": [
-      3
+      2
     ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4,
@@ -56906,9 +56890,7 @@
       10,
       11
     ],
-    "RequiredExtras": [
-      11
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 50.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -57401,7 +57383,10 @@
       11,
       12
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      1,
+      11
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -57557,7 +57542,8 @@
     ],
     "RequiredExtras": [
       1,
-      12
+      3,
+      11
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
@@ -57713,8 +57699,7 @@
     ],
     "RequiredExtras": [
       1,
-      2,
-      10
+      2
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
@@ -59597,9 +59582,7 @@
     "Extras": [
       11
     ],
-    "RequiredExtras": [
-      11
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 40.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -60812,7 +60795,7 @@
       7
     ],
     "RequiredExtras": [
-      2
+      3
     ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4,
@@ -60971,7 +60954,7 @@
       7
     ],
     "RequiredExtras": [
-      6
+      7
     ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4,
@@ -63072,7 +63055,7 @@
       12
     ],
     "RequiredExtras": [
-      12
+      10
     ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4,
@@ -63227,7 +63210,7 @@
       12
     ],
     "RequiredExtras": [
-      10
+      12
     ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4,
@@ -64448,7 +64431,7 @@
       12
     ],
     "RequiredExtras": [
-      12
+      11
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
@@ -66023,7 +66006,8 @@
       12
     ],
     "RequiredExtras": [
-      6
+      6,
+      11
     ],
     "SpawnFrequency": 50.0,
     "WheelsCount": 4,
@@ -67634,7 +67618,7 @@
       2
     ],
     "RequiredExtras": [
-      2
+      1
     ],
     "SpawnFrequency": 40.0,
     "WheelsCount": 4,
@@ -67791,8 +67775,7 @@
       8
     ],
     "RequiredExtras": [
-      4,
-      8
+      4
     ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4,
@@ -67968,7 +67951,7 @@
       4
     ],
     "RequiredExtras": [
-      1
+      4
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
@@ -68797,7 +68780,7 @@
       11
     ],
     "RequiredExtras": [
-      11
+      10
     ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4,
@@ -68950,7 +68933,9 @@
       11,
       12
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      12
+    ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -69253,7 +69238,7 @@
       2
     ],
     "RequiredExtras": [
-      1
+      2
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
@@ -69435,7 +69420,9 @@
       1,
       12
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -69620,8 +69607,7 @@
       12
     ],
     "RequiredExtras": [
-      1,
-      12
+      1
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
@@ -70116,7 +70102,8 @@
       4
     ],
     "RequiredExtras": [
-      1
+      1,
+      4
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
@@ -70287,7 +70274,8 @@
       12
     ],
     "RequiredExtras": [
-      1
+      1,
+      4
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
@@ -70772,7 +70760,7 @@
       2
     ],
     "RequiredExtras": [
-      1
+      2
     ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4,
@@ -70918,7 +70906,7 @@
       2
     ],
     "RequiredExtras": [
-      2
+      1
     ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4,
@@ -71872,7 +71860,7 @@
       12
     ],
     "RequiredExtras": [
-      12
+      11
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
@@ -72198,7 +72186,9 @@
       11,
       12
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      12
+    ],
     "SpawnFrequency": 40.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -72947,9 +72937,7 @@
     "Extras": [
       1
     ],
-    "RequiredExtras": [
-      1
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -73498,7 +73486,9 @@
       11,
       12
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      11
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -73979,7 +73969,9 @@
       10,
       12
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      10
+    ],
     "SpawnFrequency": 40.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -74573,7 +74565,8 @@
       11
     ],
     "RequiredExtras": [
-      1
+      1,
+      11
     ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4,
@@ -75125,9 +75118,7 @@
       12
     ],
     "RequiredExtras": [
-      1,
-      2,
-      10
+      1
     ],
     "SpawnFrequency": 50.0,
     "WheelsCount": 4,
@@ -75287,7 +75278,8 @@
       11
     ],
     "RequiredExtras": [
-      11
+      3,
+      4
     ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4,
@@ -75734,9 +75726,8 @@
       12
     ],
     "RequiredExtras": [
-      3,
-      4,
-      12
+      1,
+      11
     ],
     "SpawnFrequency": 50.0,
     "WheelsCount": 4,
@@ -77994,8 +77985,7 @@
     ],
     "RequiredExtras": [
       1,
-      2,
-      10
+      2
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
@@ -78736,7 +78726,7 @@
       11
     ],
     "RequiredExtras": [
-      11
+      10
     ],
     "SpawnFrequency": 50.0,
     "WheelsCount": 4,
@@ -78907,7 +78897,9 @@
     "Extras": [
       7
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      7
+    ],
     "SpawnFrequency": 50.0,
     "WheelsCount": 4,
     "HasParachute": true,
@@ -80337,8 +80329,7 @@
       12
     ],
     "RequiredExtras": [
-      7,
-      12
+      2
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
@@ -80511,7 +80502,8 @@
       12
     ],
     "RequiredExtras": [
-      3
+      1,
+      12
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
@@ -81188,8 +81180,7 @@
       12
     ],
     "RequiredExtras": [
-      1,
-      11
+      1
     ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4,
@@ -82458,9 +82449,7 @@
       11,
       12
     ],
-    "RequiredExtras": [
-      11
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 80.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -83428,9 +83417,7 @@
       10,
       12
     ],
-    "RequiredExtras": [
-      12
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 40.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -83587,10 +83574,7 @@
       1,
       2
     ],
-    "RequiredExtras": [
-      1,
-      2
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 30.0,
     "WheelsCount": 2,
     "HasParachute": false,
@@ -83845,9 +83829,7 @@
       2,
       3
     ],
-    "RequiredExtras": [
-      3
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 10.0,
     "WheelsCount": 6,
     "HasParachute": false,
@@ -84850,9 +84832,7 @@
     "Extras": [
       10
     ],
-    "RequiredExtras": [
-      10
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -85660,7 +85640,9 @@
       10,
       11
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      11
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -89449,9 +89431,7 @@
     "Extras": [
       1
     ],
-    "RequiredExtras": [
-      1
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 100.0,
     "WheelsCount": 0,
     "HasParachute": false,
@@ -89706,9 +89686,7 @@
       2,
       3
     ],
-    "RequiredExtras": [
-      2
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -90308,7 +90286,7 @@
       2
     ],
     "RequiredExtras": [
-      1
+      2
     ],
     "SpawnFrequency": 5.0,
     "WheelsCount": 4,
@@ -90884,8 +90862,7 @@
       11
     ],
     "RequiredExtras": [
-      6,
-      11
+      2
     ],
     "SpawnFrequency": 50.0,
     "WheelsCount": 4,
@@ -91206,7 +91183,7 @@
     ],
     "RequiredExtras": [
       1,
-      11
+      12
     ],
     "SpawnFrequency": 20.0,
     "WheelsCount": 4,
@@ -92357,9 +92334,7 @@
       10,
       12
     ],
-    "RequiredExtras": [
-      10
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 50.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -93026,8 +93001,7 @@
       5
     ],
     "RequiredExtras": [
-      1,
-      2
+      5
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 0,
@@ -93135,9 +93109,7 @@
     "Extras": [
       12
     ],
-    "RequiredExtras": [
-      12
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 80.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -93762,7 +93734,9 @@
     "Extras": [
       1
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -94962,7 +94936,7 @@
       3
     ],
     "RequiredExtras": [
-      3
+      2
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
@@ -96270,8 +96244,7 @@
       11
     ],
     "RequiredExtras": [
-      8,
-      9,
+      6,
       11
     ],
     "SpawnFrequency": 100.0,
@@ -97964,7 +97937,8 @@
       2
     ],
     "RequiredExtras": [
-      1
+      1,
+      2
     ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4,
@@ -98775,7 +98749,7 @@
       12
     ],
     "RequiredExtras": [
-      11
+      12
     ],
     "SpawnFrequency": 20.0,
     "WheelsCount": 4,
@@ -98933,9 +98907,7 @@
       11,
       12
     ],
-    "RequiredExtras": [
-      12
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 20.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -99107,7 +99079,7 @@
       12
     ],
     "RequiredExtras": [
-      12
+      11
     ],
     "SpawnFrequency": 20.0,
     "WheelsCount": 4,
@@ -99393,7 +99365,9 @@
     "Extras": [
       12
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      12
+    ],
     "SpawnFrequency": 20.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -100130,7 +100104,9 @@
     "Extras": [
       2
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      2
+    ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -101527,7 +101503,7 @@
       3
     ],
     "RequiredExtras": [
-      3
+      2
     ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4,
@@ -103269,7 +103245,7 @@
       5
     ],
     "RequiredExtras": [
-      3
+      5
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 0,
@@ -103391,7 +103367,7 @@
       5
     ],
     "RequiredExtras": [
-      4
+      5
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 0,
@@ -104834,7 +104810,7 @@
       3
     ],
     "RequiredExtras": [
-      3
+      2
     ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4,
@@ -104981,8 +104957,7 @@
       6
     ],
     "RequiredExtras": [
-      1,
-      5
+      1
     ],
     "SpawnFrequency": 40.0,
     "WheelsCount": 4,
@@ -105867,7 +105842,7 @@
       7,
       8,
       9,
-      12
+      14
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
@@ -107603,9 +107578,7 @@
       10,
       11
     ],
-    "RequiredExtras": [
-      11
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 50.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -109148,7 +109121,7 @@
       12
     ],
     "RequiredExtras": [
-      2,
+      1,
       10
     ],
     "SpawnFrequency": 30.0,
@@ -113627,7 +113600,7 @@
       11
     ],
     "RequiredExtras": [
-      10
+      11
     ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4,

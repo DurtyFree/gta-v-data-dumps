@@ -3988,6 +3988,56 @@
     ]
   },
   {
+    "DictionaryName": "scr_sum2",
+    "EffectNames": [
+      "scr_sum2_club_vomit",
+      "scr_sum2_plane_splash"
+    ]
+  },
+  {
+    "DictionaryName": "scr_sum2_agent",
+    "EffectNames": [
+      "scr_sum2_agent_helicopter_damage",
+      "scr_sum2_agent_gas",
+      "scr_sum2_agent_room_haze"
+    ]
+  },
+  {
+    "DictionaryName": "scr_sum2_hal",
+    "EffectNames": [
+      "scr_sum2_hal_rider_death_green",
+      "scr_sum2_hal_rider_death_blue",
+      "scr_sum2_hal_hunted_death",
+      "scr_sum2_hal_rider_weak_greyblack",
+      "sp_sum2_hal_rider_death_trail_greyblack",
+      "scr_sum2_hal_rider_death_greyblack",
+      "sp_sum2_hal_rider_death_trail_blue",
+      "scr_sum2_hal_rider_weak_orange",
+      "sp_sum2_hal_rider_death_trail_green",
+      "scr_sum2_hal_bike_flames_green",
+      "scr_sum2_hal_rider_weak_green",
+      "scr_sum2_hal_rider_head_green",
+      "scr_sum2_hal_rider_head_orange",
+      "scr_sum2_hal_rider_weapon_blue",
+      "scr_sum2_hal_rider_weapon_greyblack",
+      "scr_sum2_hal_bike_flames_greyblack",
+      "scr_sum2_hal_bike_flames_blue",
+      "scr_sum2_hal_rider_weapon_orange",
+      "scr_sum2_hal_rider_head_blue",
+      "scr_sum2_hal_rider_death_orange",
+      "scr_sum2_hal_hunted_respawn",
+      "scr_sum2_hal_bike_wheel_flame_blue",
+      "scr_sum2_hal_rider_weak_blue",
+      "scr_sum2_hal_bike_flames_orange",
+      "scr_sum2_hal_bike_wheel_flame_green",
+      "scr_sum2_hal_rider_head_greyblack",
+      "scr_sum2_hal_rider_weapon_green",
+      "scr_sum2_hal_bike_wheel_flame_greyblack",
+      "scr_sum2_hal_bike_wheel_flame_orange",
+      "sp_sum2_hal_rider_death_trail_orange"
+    ]
+  },
+  {
     "DictionaryName": "cut_tn",
     "EffectNames": [
       "cut_tn_shop_drug_dust",

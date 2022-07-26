@@ -155,8 +155,7 @@
       12
     ],
     "RequiredExtras": [
-      1,
-      10
+      1
     ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4,
@@ -1324,7 +1323,7 @@
       12
     ],
     "RequiredExtras": [
-      12
+      10
     ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4,
@@ -1668,7 +1667,9 @@
     "Extras": [
       1
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -3344,9 +3345,7 @@
       10,
       11
     ],
-    "RequiredExtras": [
-      10
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 70.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -3888,7 +3887,7 @@
       12
     ],
     "RequiredExtras": [
-      12
+      10
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
@@ -5873,7 +5872,7 @@
       12
     ],
     "RequiredExtras": [
-      12
+      10
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
@@ -6152,7 +6151,9 @@
       10,
       12
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      12
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -6329,7 +6330,7 @@
       12
     ],
     "RequiredExtras": [
-      12
+      10
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
@@ -6508,9 +6509,7 @@
       10,
       12
     ],
-    "RequiredExtras": [
-      10
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -7392,8 +7391,7 @@
       10
     ],
     "RequiredExtras": [
-      1,
-      10
+      2
     ],
     "SpawnFrequency": 50.0,
     "WheelsCount": 4,
@@ -8780,8 +8778,8 @@
       12
     ],
     "RequiredExtras": [
-      1,
-      11
+      3,
+      12
     ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4,
@@ -9518,7 +9516,7 @@
     ],
     "RequiredExtras": [
       2,
-      11
+      10
     ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4,
@@ -9701,7 +9699,8 @@
     ],
     "RequiredExtras": [
       1,
-      5
+      5,
+      12
     ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 6,
@@ -10323,7 +10322,9 @@
       11,
       12
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      11
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -10491,7 +10492,8 @@
       12
     ],
     "RequiredExtras": [
-      2
+      1,
+      11
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
@@ -10748,7 +10750,7 @@
       11
     ],
     "RequiredExtras": [
-      10
+      11
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
@@ -12826,9 +12828,7 @@
     "Extras": [
       2
     ],
-    "RequiredExtras": [
-      2
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -12985,9 +12985,7 @@
     "Extras": [
       2
     ],
-    "RequiredExtras": [
-      2
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -13668,9 +13666,7 @@
       11,
       12
     ],
-    "RequiredExtras": [
-      12
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 1.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -14112,8 +14108,7 @@
       11
     ],
     "RequiredExtras": [
-      4,
-      10
+      3
     ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4,
@@ -14286,7 +14281,9 @@
       10,
       11
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      11
+    ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -14441,6 +14438,7 @@
       11
     ],
     "RequiredExtras": [
+      1,
       10
     ],
     "SpawnFrequency": 10.0,
@@ -15637,6 +15635,217 @@
       "misc_o",
       "misc_e",
       "exhaust",
+      "chassis_dummy"
+    ]
+  },
+  {
+    "Name": "brioso3",
+    "DisplayName": null,
+    "Hash": 15214558,
+    "SignedHash": 15214558,
+    "HexHash": "0xE827DE",
+    "DlcName": "mpsum2",
+    "HandlingId": "BRIOSO3",
+    "LayoutId": "LAYOUT_STD_ISSI3",
+    "Manufacturer": "GROTTI",
+    "ManufacturerDisplayName": "Grotti",
+    "Class": "COMPACTS",
+    "Type": "CAR",
+    "PlateType": "BACK_PLATES",
+    "DashboardType": "PEYOTE",
+    "WheelType": "MUSCLE",
+    "Flags": [
+      "FLAG_EXTRAS_ALL",
+      "FLAG_EXTRAS_STRONG",
+      "FLAG_SPORTS",
+      "FLAG_SPAWN_ON_TRAILER",
+      "FLAG_RICH_CAR",
+      "FLAG_NO_BROKEN_DOWN_SCENARIO",
+      "FLAG_CAN_HAVE_NEONS",
+      "FLAG_INCREASE_CAMBER_WITH_SUSPENSION_MOD"
+    ],
+    "Seats": 4,
+    "Price": 100,
+    "MonetaryValue": 35000,
+    "HasConvertibleRoof": false,
+    "HasSirens": false,
+    "Weapons": [],
+    "ModKits": [
+      "506_brioso3_modkit"
+    ],
+    "DimensionsMin": {
+      "X": -1.0886185,
+      "Y": -2.0193288,
+      "Z": -0.32603812
+    },
+    "DimensionsMax": {
+      "X": 1.0886173,
+      "Y": 1.7818125,
+      "Z": 1.469799
+    },
+    "BoundingCenter": {
+      "X": 0.0,
+      "Y": -0.072426,
+      "Z": 0.475641
+    },
+    "BoundingSphereRadius": 2.05292,
+    "Rewards": null,
+    "MaxBraking": 0.25,
+    "MaxBrakingMods": 0.35,
+    "MaxSpeed": 37.271378,
+    "MaxTraction": 1.995,
+    "Acceleration": 0.216,
+    "Agility": 0.596,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0,
+    "HasArmoredWindows": false,
+    "DefaultColors": [
+      {
+        "DefaultPrimaryColor": 107,
+        "DefaultSecondaryColor": 107,
+        "DefaultPearlColor": 6,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 3,
+        "DefaultDashboardColor": 156
+      },
+      {
+        "DefaultPrimaryColor": 68,
+        "DefaultSecondaryColor": 68,
+        "DefaultPearlColor": 6,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 3,
+        "DefaultDashboardColor": 156
+      },
+      {
+        "DefaultPrimaryColor": 29,
+        "DefaultSecondaryColor": 29,
+        "DefaultPearlColor": 6,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 3,
+        "DefaultDashboardColor": 156
+      },
+      {
+        "DefaultPrimaryColor": 50,
+        "DefaultSecondaryColor": 50,
+        "DefaultPearlColor": 6,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 3,
+        "DefaultDashboardColor": 156
+      },
+      {
+        "DefaultPrimaryColor": 0,
+        "DefaultSecondaryColor": 0,
+        "DefaultPearlColor": 6,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 3,
+        "DefaultDashboardColor": 156
+      }
+    ],
+    "DefaultBodyHealth": 1000.0,
+    "DirtLevelMin": 0.0,
+    "DirtLevelMax": 0.25,
+    "Trailers": [],
+    "AdditionalTrailers": [],
+    "Extras": [],
+    "RequiredExtras": [],
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4,
+    "HasParachute": false,
+    "HasKers": false,
+    "DefaultHorn": 1790729873,
+    "DefaultHornVariation": 1,
+    "Bones": [
+      "chassis",
+      "door_dside_f",
+      "window_lf",
+      "misc_f",
+      "misc_v",
+      "misc_c",
+      "handle_dside_f",
+      "bonnet",
+      "mod_col_5",
+      "misc_m",
+      "misc_n",
+      "bumper_r",
+      "bumper_f",
+      "bodyshell",
+      "suspension_lf",
+      "suspension_lr",
+      "suspension_rr",
+      "suspension_rf",
+      "hub_rr",
+      "hub_lr",
+      "hub_lf",
+      "hub_rf",
+      "steeringwheel",
+      "dials",
+      "taillight_l",
+      "headlight_l",
+      "headlight_r",
+      "taillight_r",
+      "windscreen",
+      "window_lr",
+      "window_rr",
+      "misc_b",
+      "misc_a",
+      "misc_j",
+      "misc_k",
+      "boot",
+      "misc_i",
+      "misc_l",
+      "door_pside_f",
+      "window_rf",
+      "misc_g",
+      "misc_w",
+      "misc_d",
+      "handle_pside_f",
+      "misc_p",
+      "windscreen_r",
+      "engineblock",
+      "misc_e",
+      "exhaust",
+      "misc_o",
+      "misc_r",
+      "misc_t",
+      "misc_s",
+      "misc_q",
+      "misc_u",
+      "misc_x",
+      "misc_y",
+      "misc_h",
+      "mod_col_6",
+      "mod_col_2",
+      "mod_col_1",
+      "seat_pside_f",
+      "seat_dside_f",
+      "wheel_lf",
+      "wheelmesh_lf",
+      "wheelmesh_lf_l1",
+      "wheelmesh_lf_l2",
+      "wheelmesh_lf_ng",
+      "wheel_lr",
+      "wheel_rr",
+      "wheel_rf",
+      "interiorlight",
+      "slipstream_l",
+      "slipstream_r",
+      "engine",
+      "neon_b",
+      "neon_f",
+      "neon_l",
+      "neon_r",
+      "overheat",
+      "overheat_2",
+      "chassis_lowlod",
+      "mod_col_3",
+      "mod_col_4",
+      "mod_col_7",
+      "mod_col_8",
+      "mod_col_9",
+      "mod_col_10",
+      "mod_col_11",
+      "mod_col_12",
+      "mod_col_13",
       "chassis_dummy"
     ]
   },
@@ -17520,7 +17729,9 @@
       11,
       12
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      11
+    ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -17682,7 +17893,7 @@
       4
     ],
     "RequiredExtras": [
-      4
+      3
     ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4,
@@ -18265,7 +18476,9 @@
       11,
       12
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      12
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -19285,7 +19498,7 @@
       12
     ],
     "RequiredExtras": [
-      5
+      11
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
@@ -19439,7 +19652,7 @@
       12
     ],
     "RequiredExtras": [
-      11
+      12
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
@@ -19719,7 +19932,9 @@
       11,
       12
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      12
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -19871,7 +20086,7 @@
       12
     ],
     "RequiredExtras": [
-      10
+      11
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
@@ -20915,9 +21130,7 @@
     "Extras": [
       2
     ],
-    "RequiredExtras": [
-      2
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -22095,9 +22308,7 @@
       10,
       12
     ],
-    "RequiredExtras": [
-      12
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -23697,7 +23908,9 @@
       11,
       12
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      12
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -25909,7 +26122,7 @@
       3
     ],
     "RequiredExtras": [
-      1
+      2
     ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4,
@@ -29228,7 +29441,7 @@
       "481_comet7_modkit"
     ],
     "DimensionsMin": {
-      "X": -0.9653999,
+      "X": -1.1988593,
       "Y": -2.3379605,
       "Z": -0.41613197
     },
@@ -29431,6 +29644,204 @@
     ]
   },
   {
+    "Name": "conada",
+    "DisplayName": null,
+    "Hash": 3817135397,
+    "SignedHash": -477831899,
+    "HexHash": "0xE384DD25",
+    "DlcName": "mpsum2",
+    "HandlingId": "CONADA",
+    "LayoutId": "LAYOUT_HELI_CONADA",
+    "Manufacturer": "BUCKING",
+    "ManufacturerDisplayName": "Buckingham",
+    "Class": "HELICOPTER",
+    "Type": "HELI",
+    "PlateType": "NONE",
+    "DashboardType": "MAVERICK",
+    "WheelType": "SPORT",
+    "Flags": [
+      "FLAG_DONT_ROTATE_TAIL_ROTOR",
+      "FLAG_NO_BOOT",
+      "FLAG_DRIVER_NO_DRIVE_BY",
+      "FLAG_AVERAGE_CAR",
+      "FLAG_DONT_SPAWN_IN_CARGEN",
+      "FLAG_DONT_SPAWN_AS_AMBIENT",
+      "FLAG_DONT_TIMESLICE_WHEELS"
+    ],
+    "Seats": 4,
+    "Price": 100,
+    "MonetaryValue": 52000,
+    "HasConvertibleRoof": false,
+    "HasSirens": false,
+    "Weapons": [],
+    "ModKits": [
+      "509_conada_modkit"
+    ],
+    "DimensionsMin": {
+      "X": -5.282622,
+      "Y": -7.5335274,
+      "Z": -0.92768997
+    },
+    "DimensionsMax": {
+      "X": 5.282618,
+      "Y": 4.634522,
+      "Z": 2.474918
+    },
+    "BoundingCenter": {
+      "X": -0.000118,
+      "Y": -1.437154,
+      "Z": 0.763367
+    },
+    "BoundingSphereRadius": 8.138945,
+    "Rewards": null,
+    "MaxBraking": 3.5215,
+    "MaxBrakingMods": 3.5215,
+    "MaxSpeed": 62.16899,
+    "MaxTraction": 1.3,
+    "Acceleration": 5.6644,
+    "Agility": 5.6644,
+    "MaxKnots": 1025.5813,
+    "MoveResistance": 0.0,
+    "HasArmoredWindows": false,
+    "DefaultColors": [
+      {
+        "DefaultPrimaryColor": 27,
+        "DefaultSecondaryColor": 0,
+        "DefaultPearlColor": 28,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 93,
+        "DefaultDashboardColor": 134
+      },
+      {
+        "DefaultPrimaryColor": 64,
+        "DefaultSecondaryColor": 0,
+        "DefaultPearlColor": 73,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 93,
+        "DefaultDashboardColor": 134
+      },
+      {
+        "DefaultPrimaryColor": 111,
+        "DefaultSecondaryColor": 0,
+        "DefaultPearlColor": 111,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 93,
+        "DefaultDashboardColor": 134
+      },
+      {
+        "DefaultPrimaryColor": 0,
+        "DefaultSecondaryColor": 1,
+        "DefaultPearlColor": 2,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 93,
+        "DefaultDashboardColor": 134
+      },
+      {
+        "DefaultPrimaryColor": 89,
+        "DefaultSecondaryColor": 1,
+        "DefaultPearlColor": 2,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 93,
+        "DefaultDashboardColor": 134
+      },
+      {
+        "DefaultPrimaryColor": 3,
+        "DefaultSecondaryColor": 1,
+        "DefaultPearlColor": 5,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 93,
+        "DefaultDashboardColor": 134
+      },
+      {
+        "DefaultPrimaryColor": 38,
+        "DefaultSecondaryColor": 1,
+        "DefaultPearlColor": 89,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 93,
+        "DefaultDashboardColor": 134
+      },
+      {
+        "DefaultPrimaryColor": 70,
+        "DefaultSecondaryColor": 1,
+        "DefaultPearlColor": 67,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 93,
+        "DefaultDashboardColor": 134
+      }
+    ],
+    "DefaultBodyHealth": 1000.0,
+    "DirtLevelMin": 0.0,
+    "DirtLevelMax": 3.5215,
+    "Trailers": [],
+    "AdditionalTrailers": [],
+    "Extras": [
+      1,
+      2,
+      7
+    ],
+    "RequiredExtras": [
+      1,
+      2,
+      7
+    ],
+    "SpawnFrequency": 100.0,
+    "WheelsCount": 4,
+    "HasParachute": false,
+    "HasKers": false,
+    "DefaultHorn": 0,
+    "DefaultHornVariation": -1,
+    "Bones": [
+      "chassis",
+      "bodyshell",
+      "steeringwheel",
+      "hbgrip_r",
+      "hbgrip_l",
+      "tail",
+      "rotor_rear",
+      "siren3",
+      "siren2",
+      "siren1",
+      "exhaust_4",
+      "exhaust_3",
+      "dials",
+      "window_lr",
+      "door_dside_f",
+      "window_lf",
+      "handle_dside_f",
+      "windscreen_r",
+      "windscreen",
+      "misc_b",
+      "misc_a",
+      "window_rr",
+      "door_pside_f",
+      "window_rf",
+      "handle_pside_f",
+      "suspension_lf",
+      "suspension_rf",
+      "rotor_main",
+      "rotor_main_fast",
+      "rotor_main_slow",
+      "wheel_rf",
+      "wheel_rr",
+      "wheel_lr",
+      "wheel_lf",
+      "siren4",
+      "seat_dside_r",
+      "seat_pside_r",
+      "chassis_lowlod",
+      "petroltank",
+      "exhaust_2",
+      "exhaust",
+      "engine",
+      "interiorlight",
+      "overheat_2",
+      "overheat",
+      "seat_dside_f",
+      "seat_pside_f",
+      "chassis_dummy"
+    ]
+  },
+  {
     "Name": "contender",
     "DisplayName": "Contender",
     "Hash": 683047626,
@@ -29505,7 +29916,9 @@
     "Extras": [
       1
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -29795,7 +30208,7 @@
     ],
     "RequiredExtras": [
       2,
-      10
+      11
     ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4,
@@ -30279,7 +30692,7 @@
       2
     ],
     "RequiredExtras": [
-      1
+      2
     ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4,
@@ -30537,6 +30950,185 @@
     ]
   },
   {
+    "Name": "corsita",
+    "DisplayName": null,
+    "Hash": 3540279623,
+    "SignedHash": -754687673,
+    "HexHash": "0xD3046147",
+    "DlcName": "mpsum2",
+    "HandlingId": "CORSITA",
+    "LayoutId": "LAYOUT_LOW_CORSITA",
+    "Manufacturer": "LAMPADA",
+    "ManufacturerDisplayName": "Lampadati",
+    "Class": "SPORT",
+    "Type": "CAR",
+    "PlateType": "BACK_PLATES",
+    "DashboardType": "RACE",
+    "WheelType": "HIEND",
+    "Flags": [
+      "FLAG_SPORTS",
+      "FLAG_RICH_CAR",
+      "FLAG_RECESSED_HEADLIGHT_CORONAS",
+      "FLAG_NO_BROKEN_DOWN_SCENARIO",
+      "FLAG_COUNT_AS_FACEBOOK_DRIVEN"
+    ],
+    "Seats": 2,
+    "Price": 100,
+    "MonetaryValue": 35000,
+    "HasConvertibleRoof": false,
+    "HasSirens": false,
+    "Weapons": [],
+    "ModKits": [
+      "504_corsita_modkit"
+    ],
+    "DimensionsMin": {
+      "X": -1.4138556,
+      "Y": -2.4624991,
+      "Z": -0.52432394
+    },
+    "DimensionsMax": {
+      "X": 1.417048,
+      "Y": 2.5991654,
+      "Z": 1.1974152
+    },
+    "BoundingCenter": {
+      "X": -0.0,
+      "Y": 0.104637,
+      "Z": 0.322389
+    },
+    "BoundingSphereRadius": 2.635528,
+    "Rewards": null,
+    "MaxBraking": 1.3,
+    "MaxBrakingMods": 1.4,
+    "MaxSpeed": 52.280067,
+    "MaxTraction": 2.726,
+    "Acceleration": 0.4,
+    "Agility": 0.78000003,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0,
+    "HasArmoredWindows": false,
+    "DefaultColors": [
+      {
+        "DefaultPrimaryColor": 112,
+        "DefaultSecondaryColor": 1,
+        "DefaultPearlColor": 7,
+        "DefaultWheelsColor": 112,
+        "DefaultInteriorColor": 70,
+        "DefaultDashboardColor": 156
+      },
+      {
+        "DefaultPrimaryColor": 43,
+        "DefaultSecondaryColor": 43,
+        "DefaultPearlColor": 35,
+        "DefaultWheelsColor": 156,
+        "DefaultInteriorColor": 154,
+        "DefaultDashboardColor": 156
+      },
+      {
+        "DefaultPrimaryColor": 77,
+        "DefaultSecondaryColor": 1,
+        "DefaultPearlColor": 7,
+        "DefaultWheelsColor": 156,
+        "DefaultInteriorColor": 154,
+        "DefaultDashboardColor": 156
+      },
+      {
+        "DefaultPrimaryColor": 88,
+        "DefaultSecondaryColor": 1,
+        "DefaultPearlColor": 7,
+        "DefaultWheelsColor": 156,
+        "DefaultInteriorColor": 154,
+        "DefaultDashboardColor": 156
+      }
+    ],
+    "DefaultBodyHealth": 1000.0,
+    "DirtLevelMin": 0.0,
+    "DirtLevelMax": 1.3,
+    "Trailers": [],
+    "AdditionalTrailers": [],
+    "Extras": [],
+    "RequiredExtras": [],
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4,
+    "HasParachute": false,
+    "HasKers": false,
+    "DefaultHorn": 2782658355,
+    "DefaultHornVariation": 0,
+    "Bones": [
+      "chassis",
+      "door_dside_f",
+      "window_lf",
+      "misc_c",
+      "doorlight_lf",
+      "door_pside_f",
+      "window_rf",
+      "misc_d",
+      "doorlight_rf",
+      "boot",
+      "bonnet",
+      "windscreen_r",
+      "mod_col_1",
+      "mod_col_2",
+      "mod_col_3",
+      "mod_col_6",
+      "windscreen",
+      "headlight_l",
+      "headlight_r",
+      "taillight_l",
+      "brakelight_l",
+      "indicator_lr",
+      "reversinglight_l",
+      "taillight_r",
+      "brakelight_r",
+      "reversinglight_r",
+      "indicator_rr",
+      "engineblock",
+      "misc_a",
+      "exhaust",
+      "exhaust_2",
+      "misc_b",
+      "hub_lf",
+      "hub_lr",
+      "hub_rf",
+      "hub_rr",
+      "suspension_lf",
+      "suspension_lr",
+      "suspension_rr",
+      "suspension_rf",
+      "seat_dside_f",
+      "seat_pside_f",
+      "handle_dside_f",
+      "handle_pside_f",
+      "dashglow",
+      "interiorlight",
+      "platelight",
+      "neon_f",
+      "neon_l",
+      "neon_r",
+      "neon_b",
+      "slipstream_l",
+      "slipstream_r",
+      "overheat_1",
+      "overheat_2",
+      "engine",
+      "mod_col_4",
+      "mod_col_5",
+      "wheel_lf",
+      "wheelmesh_lf",
+      "wheelmesh_lf_l1",
+      "wheelmesh_lf_l2",
+      "wheelmesh_lf_ng",
+      "wheel_lr",
+      "wheel_rf",
+      "wheel_rr",
+      "chassis_lowlod",
+      "dials",
+      "steeringwheel",
+      "bodyshell",
+      "chassis_dummy"
+    ]
+  },
+  {
     "Name": "cruiser",
     "DisplayName": "Cruiser",
     "Hash": 448402357,
@@ -30748,7 +31340,8 @@
       11
     ],
     "RequiredExtras": [
-      1
+      1,
+      11
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
@@ -33996,9 +34589,7 @@
     "Extras": [
       10
     ],
-    "RequiredExtras": [
-      10
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -34701,7 +35292,6 @@
       3
     ],
     "RequiredExtras": [
-      2,
       3
     ],
     "SpawnFrequency": 100.0,
@@ -35689,7 +36279,7 @@
       12
     ],
     "RequiredExtras": [
-      12
+      10
     ],
     "SpawnFrequency": 90.0,
     "WheelsCount": 4,
@@ -37492,6 +38082,222 @@
     ]
   },
   {
+    "Name": "draugur",
+    "DisplayName": null,
+    "Hash": 3526730918,
+    "SignedHash": -768236378,
+    "HexHash": "0xD235A4A6",
+    "DlcName": "mpsum2",
+    "HandlingId": "DRAUGUR",
+    "LayoutId": "LAYOUT_STD_DRAUGUR",
+    "Manufacturer": "DECLASSE",
+    "ManufacturerDisplayName": "Declasse",
+    "Class": "OFF_ROAD",
+    "Type": "CAR",
+    "PlateType": "NONE",
+    "DashboardType": "RACE",
+    "WheelType": "OFFROAD",
+    "Flags": [
+      "FLAG_NO_BOOT",
+      "FLAG_EXTRAS_ALL",
+      "FLAG_AVERAGE_CAR",
+      "FLAG_POOR_CAR",
+      "FLAG_IS_OFFROAD_VEHICLE",
+      "FLAG_HEADLIGHTS_USE_ACTUAL_BONE_POS",
+      "FLAG_IS_BULKY",
+      "FLAG_HAS_INTERIOR_EXTRAS"
+    ],
+    "Seats": 4,
+    "Price": 100,
+    "MonetaryValue": 50000,
+    "HasConvertibleRoof": false,
+    "HasSirens": false,
+    "Weapons": [],
+    "ModKits": [
+      "503_draugur_modkit"
+    ],
+    "DimensionsMin": {
+      "X": -1.1594698,
+      "Y": -2.8095574,
+      "Z": -0.797428
+    },
+    "DimensionsMax": {
+      "X": 1.1594698,
+      "Y": 2.6551278,
+      "Z": 1.3118471
+    },
+    "BoundingCenter": {
+      "X": 0.0,
+      "Y": -0.125909,
+      "Z": 0.391055
+    },
+    "BoundingSphereRadius": 2.934218,
+    "Rewards": null,
+    "MaxBraking": 0.484,
+    "MaxBrakingMods": 0.584,
+    "MaxSpeed": 43.839996,
+    "MaxTraction": 2.485,
+    "Acceleration": 0.3425,
+    "Agility": 0.7225,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0,
+    "HasArmoredWindows": false,
+    "DefaultColors": [
+      {
+        "DefaultPrimaryColor": 27,
+        "DefaultSecondaryColor": 0,
+        "DefaultPearlColor": 28,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 93,
+        "DefaultDashboardColor": 134
+      },
+      {
+        "DefaultPrimaryColor": 64,
+        "DefaultSecondaryColor": 0,
+        "DefaultPearlColor": 73,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 93,
+        "DefaultDashboardColor": 134
+      },
+      {
+        "DefaultPrimaryColor": 111,
+        "DefaultSecondaryColor": 0,
+        "DefaultPearlColor": 111,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 93,
+        "DefaultDashboardColor": 134
+      },
+      {
+        "DefaultPrimaryColor": 0,
+        "DefaultSecondaryColor": 1,
+        "DefaultPearlColor": 2,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 93,
+        "DefaultDashboardColor": 134
+      },
+      {
+        "DefaultPrimaryColor": 89,
+        "DefaultSecondaryColor": 1,
+        "DefaultPearlColor": 2,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 93,
+        "DefaultDashboardColor": 134
+      },
+      {
+        "DefaultPrimaryColor": 3,
+        "DefaultSecondaryColor": 1,
+        "DefaultPearlColor": 5,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 93,
+        "DefaultDashboardColor": 134
+      },
+      {
+        "DefaultPrimaryColor": 38,
+        "DefaultSecondaryColor": 1,
+        "DefaultPearlColor": 89,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 93,
+        "DefaultDashboardColor": 134
+      },
+      {
+        "DefaultPrimaryColor": 70,
+        "DefaultSecondaryColor": 1,
+        "DefaultPearlColor": 67,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 93,
+        "DefaultDashboardColor": 134
+      }
+    ],
+    "DefaultBodyHealth": 1000.0,
+    "DirtLevelMin": 0.9,
+    "DirtLevelMax": 0.484,
+    "Trailers": [],
+    "AdditionalTrailers": [],
+    "Extras": [],
+    "RequiredExtras": [],
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4,
+    "HasParachute": false,
+    "HasKers": false,
+    "DefaultHorn": 3368750194,
+    "DefaultHornVariation": 4,
+    "Bones": [
+      "chassis",
+      "neon_l",
+      "neon_r",
+      "chassis_lowlod",
+      "neon_f",
+      "neon_b",
+      "engine",
+      "overheat_2",
+      "overheat",
+      "interiorlight",
+      "dashglow",
+      "slipstream_r",
+      "slipstream_l",
+      "seat_dside_f",
+      "seat_pside_f",
+      "seat_dside_r",
+      "seat_pside_r",
+      "mod_col_1",
+      "mod_col_2",
+      "wheel_rf",
+      "wheel_lr",
+      "wheel_rr",
+      "wheel_lf",
+      "wheelmesh_lf",
+      "wheelmesh_lf_l1",
+      "wheelmesh_lf_l2",
+      "wheelmesh_lf_ng",
+      "suspension_rf",
+      "suspension_lf",
+      "transmission_r",
+      "bonnet",
+      "headlight_l",
+      "headlight_r",
+      "door_dside_f",
+      "handle_dside_f",
+      "door_dside_r",
+      "handle_dside_r",
+      "door_pside_r",
+      "handle_pside_r",
+      "door_pside_f",
+      "handle_pside_f",
+      "boot",
+      "bumper_f",
+      "bumper_r",
+      "misc_l",
+      "misc_m",
+      "extralight",
+      "misc_h",
+      "misc_i",
+      "dials",
+      "engineblock",
+      "misc_c",
+      "exhaust",
+      "exhaust_2",
+      "misc_d",
+      "misc_e",
+      "bodyshell",
+      "misc_b",
+      "misc_g",
+      "taillight_l",
+      "taillight_r",
+      "misc_a",
+      "misc_j",
+      "misc_k",
+      "misc_f",
+      "windscreen",
+      "windscreen_r",
+      "steeringwheel",
+      "hub_lf",
+      "hub_rf",
+      "hub_rr",
+      "hub_lr",
+      "chassis_dummy"
+    ]
+  },
+  {
     "Name": "dubsta",
     "DisplayName": "Dubsta",
     "Hash": 1177543287,
@@ -37674,9 +38480,7 @@
       11,
       12
     ],
-    "RequiredExtras": [
-      10
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -39083,7 +39887,9 @@
     "Extras": [
       2
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      2
+    ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -40404,7 +41210,8 @@
       11
     ],
     "RequiredExtras": [
-      10
+      1,
+      11
     ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4,
@@ -41275,9 +42082,7 @@
       11,
       12
     ],
-    "RequiredExtras": [
-      10
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -42993,7 +43798,9 @@
       10,
       12
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      12
+    ],
     "SpawnFrequency": 15.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -43258,7 +44065,9 @@
       10,
       12
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      10
+    ],
     "SpawnFrequency": 80.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -43414,7 +44223,7 @@
       5
     ],
     "RequiredExtras": [
-      2,
+      3,
       5
     ],
     "SpawnFrequency": 30.0,
@@ -43572,7 +44381,9 @@
       2,
       3
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      3
+    ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -44797,9 +45608,7 @@
       10,
       12
     ],
-    "RequiredExtras": [
-      12
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -45393,9 +46202,7 @@
     "Extras": [
       11
     ],
-    "RequiredExtras": [
-      11
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -47792,9 +48599,7 @@
       10,
       11
     ],
-    "RequiredExtras": [
-      11
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -48261,7 +49066,7 @@
     "WheelsCount": 8,
     "HasParachute": false,
     "HasKers": false,
-    "DefaultHorn": 1124859904,
+    "DefaultHorn": 3264872448,
     "DefaultHornVariation": -1,
     "Bones": [
       "chassis",
@@ -49395,7 +50200,9 @@
       10,
       12
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      10
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -50138,7 +50945,9 @@
     "Extras": [
       10
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      10
+    ],
     "SpawnFrequency": 60.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -51161,7 +51970,7 @@
       11
     ],
     "RequiredExtras": [
-      10
+      11
     ],
     "SpawnFrequency": 90.0,
     "WheelsCount": 4,
@@ -52202,9 +53011,7 @@
       11,
       12
     ],
-    "RequiredExtras": [
-      12
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -53699,6 +54506,249 @@
     ]
   },
   {
+    "Name": "greenwood",
+    "DisplayName": null,
+    "Hash": 40817712,
+    "SignedHash": 40817712,
+    "HexHash": "0x26ED430",
+    "DlcName": "mpsum2",
+    "HandlingId": "GREENWOOD",
+    "LayoutId": "LAYOUT_STD_GREENWOOD",
+    "Manufacturer": "BRAVADO",
+    "ManufacturerDisplayName": "Bravado",
+    "Class": "MUSCLE",
+    "Type": "CAR",
+    "PlateType": "BACK_PLATES",
+    "DashboardType": "DUKES",
+    "WheelType": "HIEND",
+    "Flags": [
+      "FLAG_SPORTS",
+      "FLAG_SPAWN_ON_TRAILER",
+      "FLAG_RICH_CAR",
+      "FLAG_NO_BROKEN_DOWN_SCENARIO",
+      "FLAG_CAN_HAVE_NEONS",
+      "FLAG_INCREASE_CAMBER_WITH_SUSPENSION_MOD"
+    ],
+    "Seats": 4,
+    "Price": 100,
+    "MonetaryValue": 35000,
+    "HasConvertibleRoof": false,
+    "HasSirens": false,
+    "Weapons": [],
+    "ModKits": [
+      "500_greenwood_modkit"
+    ],
+    "DimensionsMin": {
+      "X": -1.0334039,
+      "Y": -2.9040327,
+      "Z": -0.44351912
+    },
+    "DimensionsMax": {
+      "X": 1.0334024,
+      "Y": 2.4332972,
+      "Z": 1.0570087
+    },
+    "BoundingCenter": {
+      "X": -0.0,
+      "Y": -0.211115,
+      "Z": 0.406392
+    },
+    "BoundingSphereRadius": 2.893847,
+    "Rewards": null,
+    "MaxBraking": 0.7,
+    "MaxBrakingMods": 0.8,
+    "MaxSpeed": 47.66667,
+    "MaxTraction": 2.3,
+    "Acceleration": 0.282,
+    "Agility": 0.662,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0,
+    "HasArmoredWindows": false,
+    "DefaultColors": [
+      {
+        "DefaultPrimaryColor": 27,
+        "DefaultSecondaryColor": 0,
+        "DefaultPearlColor": 28,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 93,
+        "DefaultDashboardColor": 134
+      },
+      {
+        "DefaultPrimaryColor": 64,
+        "DefaultSecondaryColor": 0,
+        "DefaultPearlColor": 73,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 93,
+        "DefaultDashboardColor": 134
+      },
+      {
+        "DefaultPrimaryColor": 111,
+        "DefaultSecondaryColor": 0,
+        "DefaultPearlColor": 111,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 93,
+        "DefaultDashboardColor": 134
+      },
+      {
+        "DefaultPrimaryColor": 0,
+        "DefaultSecondaryColor": 1,
+        "DefaultPearlColor": 2,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 93,
+        "DefaultDashboardColor": 134
+      },
+      {
+        "DefaultPrimaryColor": 89,
+        "DefaultSecondaryColor": 1,
+        "DefaultPearlColor": 2,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 93,
+        "DefaultDashboardColor": 134
+      },
+      {
+        "DefaultPrimaryColor": 3,
+        "DefaultSecondaryColor": 1,
+        "DefaultPearlColor": 5,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 93,
+        "DefaultDashboardColor": 134
+      },
+      {
+        "DefaultPrimaryColor": 38,
+        "DefaultSecondaryColor": 1,
+        "DefaultPearlColor": 89,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 93,
+        "DefaultDashboardColor": 134
+      },
+      {
+        "DefaultPrimaryColor": 70,
+        "DefaultSecondaryColor": 1,
+        "DefaultPearlColor": 67,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 93,
+        "DefaultDashboardColor": 134
+      }
+    ],
+    "DefaultBodyHealth": 1000.0,
+    "DirtLevelMin": 0.0,
+    "DirtLevelMax": 0.7,
+    "Trailers": [],
+    "AdditionalTrailers": [],
+    "Extras": [],
+    "RequiredExtras": [],
+    "SpawnFrequency": 5.0,
+    "WheelsCount": 4,
+    "HasParachute": false,
+    "HasKers": false,
+    "DefaultHorn": 2108042618,
+    "DefaultHornVariation": 2,
+    "Bones": [
+      "chassis",
+      "bodyshell",
+      "door_dside_f",
+      "window_lf",
+      "handle_dside_f",
+      "misc_k",
+      "misc_m",
+      "misc_s",
+      "door_dside_r",
+      "window_lr",
+      "handle_dside_r",
+      "misc_c",
+      "misc_u",
+      "door_pside_f",
+      "window_rf",
+      "handle_pside_f",
+      "misc_l",
+      "misc_n",
+      "misc_v",
+      "door_pside_r",
+      "window_rr",
+      "handle_pside_r",
+      "misc_d",
+      "misc_w",
+      "bumper_f",
+      "bumper_r",
+      "reversinglight_r",
+      "brakelight_r",
+      "taillight_r",
+      "brakelight_l",
+      "taillight_l",
+      "reversinglight_l",
+      "platelight",
+      "misc_f",
+      "bonnet",
+      "boot",
+      "misc_bt",
+      "engineblock",
+      "misc_a",
+      "exhaust",
+      "engine",
+      "overheat_2",
+      "overheat",
+      "supercharger_1",
+      "misc_h",
+      "supercharger_2",
+      "misc_i",
+      "misc_x",
+      "misc_g",
+      "windscreen",
+      "windscreen_r",
+      "headlight_l",
+      "headlight_r",
+      "indicator_lf",
+      "indicator_rf",
+      "hub_rr",
+      "hub_rf",
+      "hub_lr",
+      "hub_lf",
+      "suspension_rr",
+      "suspension_rf",
+      "suspension_lr",
+      "suspension_lf",
+      "dials",
+      "steeringwheel",
+      "wheel_rf",
+      "wheel_rr",
+      "wheel_lr",
+      "wheel_lf",
+      "wheelmesh_lf",
+      "wheelmesh_lf_l1",
+      "wheelmesh_lf_l2",
+      "wheelmesh_lf_ng",
+      "slipstream_r",
+      "slipstream_l",
+      "seat_dside_f",
+      "seat_pside_f",
+      "seat_dside_r",
+      "seat_pside_r",
+      "interiorlight",
+      "dashglow",
+      "chassis_lowlod",
+      "misc_b",
+      "indicator_lr",
+      "indicator_rr",
+      "misc_r",
+      "misc_e",
+      "misc_t",
+      "neon_l",
+      "neon_r",
+      "neon_f",
+      "neon_b",
+      "extralight_1",
+      "extralight_2",
+      "mod_col_1",
+      "mod_col_2",
+      "mod_col_3",
+      "mod_col_4",
+      "mod_col_5",
+      "mod_col_6",
+      "mod_col_7",
+      "chassis_dummy"
+    ]
+  },
+  {
     "Name": "gresley",
     "DisplayName": "Gresley",
     "Hash": 2751205197,
@@ -53872,7 +54922,9 @@
       11,
       12
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      10
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -54725,7 +55777,9 @@
       10,
       11
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      10
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -55199,9 +56253,7 @@
     "Extras": [
       1
     ],
-    "RequiredExtras": [
-      1
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 50.0,
     "WheelsCount": 10,
     "HasParachute": false,
@@ -55658,9 +56710,7 @@
     "Extras": [
       1
     ],
-    "RequiredExtras": [
-      1
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 100.0,
     "WheelsCount": 6,
     "HasParachute": false,
@@ -56858,7 +57908,10 @@
       1,
       2
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      1,
+      2
+    ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -60654,7 +61707,6 @@
       11
     ],
     "RequiredExtras": [
-      1,
       11
     ],
     "SpawnFrequency": 100.0,
@@ -64080,7 +65132,9 @@
     "Extras": [
       11
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      11
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -64247,7 +65301,7 @@
       12
     ],
     "RequiredExtras": [
-      11
+      10
     ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4,
@@ -67010,6 +68064,241 @@
     ]
   },
   {
+    "Name": "kanjosj",
+    "DisplayName": null,
+    "Hash": 4230891418,
+    "SignedHash": -64075878,
+    "HexHash": "0xFC2E479A",
+    "DlcName": "mpsum2",
+    "HandlingId": "KANJOSJ",
+    "LayoutId": "LAYOUT_STANDARD",
+    "Manufacturer": "DINKA",
+    "ManufacturerDisplayName": "Dinka",
+    "Class": "COUPE",
+    "Type": "CAR",
+    "PlateType": "FRONT_AND_BACK_PLATES",
+    "DashboardType": "TAILGATER",
+    "WheelType": "SPORT",
+    "Flags": [
+      "FLAG_SPORTS",
+      "FLAG_AVERAGE_CAR",
+      "FLAG_HAS_INTERIOR_EXTRAS",
+      "FLAG_CAN_HAVE_NEONS",
+      "FLAG_INCREASE_CAMBER_WITH_SUSPENSION_MOD",
+      "FLAG_EXTRAS_ALL"
+    ],
+    "Seats": 4,
+    "Price": 100,
+    "MonetaryValue": 150000,
+    "HasConvertibleRoof": false,
+    "HasSirens": false,
+    "Weapons": [],
+    "ModKits": [
+      "502_kanjosj_modkit"
+    ],
+    "DimensionsMin": {
+      "X": -1.0080812,
+      "Y": -2.3292937,
+      "Z": -0.318081
+    },
+    "DimensionsMax": {
+      "X": 1.0076008,
+      "Y": 2.283216,
+      "Z": 1.1767424
+    },
+    "BoundingCenter": {
+      "X": -0.000238,
+      "Y": -0.068907,
+      "Z": 0.455183
+    },
+    "BoundingSphereRadius": 2.476097,
+    "Rewards": null,
+    "MaxBraking": 0.45,
+    "MaxBrakingMods": 0.55,
+    "MaxSpeed": 44.658356,
+    "MaxTraction": 1.995,
+    "Acceleration": 0.315,
+    "Agility": 0.695,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0,
+    "HasArmoredWindows": false,
+    "DefaultColors": [
+      {
+        "DefaultPrimaryColor": 3,
+        "DefaultSecondaryColor": 3,
+        "DefaultPearlColor": 10,
+        "DefaultWheelsColor": 156,
+        "DefaultInteriorColor": 26,
+        "DefaultDashboardColor": 0
+      },
+      {
+        "DefaultPrimaryColor": 61,
+        "DefaultSecondaryColor": 61,
+        "DefaultPearlColor": 10,
+        "DefaultWheelsColor": 156,
+        "DefaultInteriorColor": 6,
+        "DefaultDashboardColor": 0
+      },
+      {
+        "DefaultPrimaryColor": 1,
+        "DefaultSecondaryColor": 1,
+        "DefaultPearlColor": 7,
+        "DefaultWheelsColor": 156,
+        "DefaultInteriorColor": 27,
+        "DefaultDashboardColor": 0
+      },
+      {
+        "DefaultPrimaryColor": 62,
+        "DefaultSecondaryColor": 62,
+        "DefaultPearlColor": 5,
+        "DefaultWheelsColor": 156,
+        "DefaultInteriorColor": 42,
+        "DefaultDashboardColor": 0
+      },
+      {
+        "DefaultPrimaryColor": 95,
+        "DefaultSecondaryColor": 95,
+        "DefaultPearlColor": 111,
+        "DefaultWheelsColor": 156,
+        "DefaultInteriorColor": 3,
+        "DefaultDashboardColor": 0
+      },
+      {
+        "DefaultPrimaryColor": 111,
+        "DefaultSecondaryColor": 111,
+        "DefaultPearlColor": 111,
+        "DefaultWheelsColor": 156,
+        "DefaultInteriorColor": 37,
+        "DefaultDashboardColor": 0
+      },
+      {
+        "DefaultPrimaryColor": 31,
+        "DefaultSecondaryColor": 31,
+        "DefaultPearlColor": 111,
+        "DefaultWheelsColor": 156,
+        "DefaultInteriorColor": 51,
+        "DefaultDashboardColor": 0
+      }
+    ],
+    "DefaultBodyHealth": 1000.0,
+    "DirtLevelMin": 0.0,
+    "DirtLevelMax": 0.45,
+    "Trailers": [],
+    "AdditionalTrailers": [],
+    "Extras": [
+      3
+    ],
+    "RequiredExtras": [
+      3
+    ],
+    "SpawnFrequency": 10.0,
+    "WheelsCount": 4,
+    "HasParachute": false,
+    "HasKers": false,
+    "DefaultHorn": 1444681019,
+    "DefaultHornVariation": 4,
+    "Bones": [
+      "chassis",
+      "bodyshell",
+      "bonnet",
+      "door_dside_f",
+      "window_lf",
+      "misc_d",
+      "misc_n",
+      "misc_q",
+      "handle_dside_f",
+      "door_pside_f",
+      "window_rf",
+      "misc_e",
+      "misc_o",
+      "misc_r",
+      "handle_pside_f",
+      "misc_a",
+      "misc_b",
+      "windscreen_r",
+      "windscreen",
+      "misc_f",
+      "misc_i",
+      "bumper_r",
+      "mod_col_9",
+      "boot",
+      "reversinglight_r",
+      "reversinglight_l",
+      "brakelight_r",
+      "brakelight_l",
+      "platelight",
+      "mod_col_4",
+      "mod_col_5",
+      "mod_col_6",
+      "mod_col_7",
+      "mod_col_8",
+      "headlight_l",
+      "indicator_lf",
+      "engineblock",
+      "misc_l",
+      "exhaust",
+      "misc_s",
+      "misc_t",
+      "engine",
+      "misc_m",
+      "bumper_f",
+      "misc_k",
+      "misc_j",
+      "mod_col_1",
+      "headlight_r",
+      "indicator_rf",
+      "indicator_lr",
+      "taillight_r",
+      "taillight_l",
+      "indicator_rr",
+      "suspension_lr",
+      "suspension_rf",
+      "suspension_rr",
+      "suspension_lf",
+      "misc_p",
+      "misc_u",
+      "wing_lf",
+      "misc_v",
+      "misc_g",
+      "wing_rf",
+      "misc_w",
+      "misc_h",
+      "hub_lf",
+      "hub_lr",
+      "hub_rf",
+      "hub_rr",
+      "steeringwheel",
+      "dials",
+      "wheel_rf",
+      "wheel_lf",
+      "wheelmesh_lf",
+      "wheelmesh_lf_l1",
+      "wheelmesh_lf_l2",
+      "wheelmesh_lf_ng",
+      "wheel_lr",
+      "wheel_rr",
+      "seat_dside_f",
+      "seat_pside_f",
+      "dashglow",
+      "neon_r",
+      "neon_f",
+      "neon_b",
+      "neon_l",
+      "slipstream_l",
+      "slipstream_r",
+      "overheat",
+      "overheat_2",
+      "interiorlight",
+      "chassis_lowlod",
+      "mod_col_2",
+      "mod_col_3",
+      "mod_col_10",
+      "extra_3",
+      "misc_c",
+      "chassis_dummy"
+    ]
+  },
+  {
     "Name": "khamelion",
     "DisplayName": "Khamelion",
     "Hash": 544021352,
@@ -67209,7 +68498,7 @@
       11
     ],
     "RequiredExtras": [
-      10
+      1
     ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4,
@@ -69624,7 +70913,9 @@
       11,
       12
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      10
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -69892,6 +71183,195 @@
       "dials",
       "exhaust_3",
       "exhaust_4",
+      "chassis_dummy"
+    ]
+  },
+  {
+    "Name": "lm87",
+    "DisplayName": null,
+    "Hash": 4284049613,
+    "SignedHash": -10917683,
+    "HexHash": "0xFF5968CD",
+    "DlcName": "mpsum2",
+    "HandlingId": "LM87",
+    "LayoutId": "LAYOUT_LOW_LM87",
+    "Manufacturer": "BENEFAC",
+    "ManufacturerDisplayName": "Benefactor",
+    "Class": "SUPER",
+    "Type": "CAR",
+    "PlateType": "BACK_PLATES",
+    "DashboardType": "RACE",
+    "WheelType": "HIEND",
+    "Flags": [
+      "FLAG_EXTRAS_REQUIRE",
+      "FLAG_EXTRAS_STRONG",
+      "FLAG_FRONT_BOOT",
+      "FLAG_SPORTS",
+      "FLAG_RICH_CAR",
+      "FLAG_RECESSED_HEADLIGHT_CORONAS",
+      "FLAG_NO_BROKEN_DOWN_SCENARIO",
+      "FLAG_COUNT_AS_FACEBOOK_DRIVEN",
+      "FLAG_HAS_GULL_WING_DOORS",
+      "FLAG_EXTRAS_STRONG",
+      "FLAG_USE_RESTRICTED_DRIVEBY_HEIGHT_MID_ONLY"
+    ],
+    "Seats": 1,
+    "Price": 100,
+    "MonetaryValue": 35000,
+    "HasConvertibleRoof": false,
+    "HasSirens": false,
+    "Weapons": [],
+    "ModKits": [
+      "496_lm87_modkit"
+    ],
+    "DimensionsMin": {
+      "X": -1.0962534,
+      "Y": -2.711319,
+      "Z": -0.224172
+    },
+    "DimensionsMax": {
+      "X": 1.1092744,
+      "Y": 2.2991683,
+      "Z": 0.9766132
+    },
+    "BoundingCenter": {
+      "X": 0.0,
+      "Y": -0.206922,
+      "Z": 0.410553
+    },
+    "BoundingSphereRadius": 2.707682,
+    "Rewards": null,
+    "MaxBraking": 1.35,
+    "MaxBrakingMods": 1.45,
+    "MaxSpeed": 50.33531,
+    "MaxTraction": 2.77,
+    "Acceleration": 0.3765,
+    "Agility": 0.7565,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0,
+    "HasArmoredWindows": false,
+    "DefaultColors": [
+      {
+        "DefaultPrimaryColor": 6,
+        "DefaultSecondaryColor": 89,
+        "DefaultPearlColor": 5,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 0,
+        "DefaultDashboardColor": 37
+      },
+      {
+        "DefaultPrimaryColor": 27,
+        "DefaultSecondaryColor": 1,
+        "DefaultPearlColor": 134,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 0,
+        "DefaultDashboardColor": 37
+      },
+      {
+        "DefaultPrimaryColor": 73,
+        "DefaultSecondaryColor": 1,
+        "DefaultPearlColor": 134,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 0,
+        "DefaultDashboardColor": 37
+      },
+      {
+        "DefaultPrimaryColor": 88,
+        "DefaultSecondaryColor": 1,
+        "DefaultPearlColor": 134,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 0,
+        "DefaultDashboardColor": 37
+      }
+    ],
+    "DefaultBodyHealth": 1000.0,
+    "DirtLevelMin": 0.0,
+    "DirtLevelMax": 1.35,
+    "Trailers": [],
+    "AdditionalTrailers": [],
+    "Extras": [
+      1
+    ],
+    "RequiredExtras": [
+      1
+    ],
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4,
+    "HasParachute": false,
+    "HasKers": false,
+    "DefaultHorn": 1986649728,
+    "DefaultHornVariation": 0,
+    "Bones": [
+      "chassis",
+      "boot",
+      "misc_g",
+      "headlight_l",
+      "headlight_r",
+      "platelight",
+      "interiorlight",
+      "dashglow",
+      "seat_dside_f",
+      "neon_f",
+      "neon_l",
+      "neon_r",
+      "neon_b",
+      "engine",
+      "overheat",
+      "overheat_2",
+      "slipstream_l",
+      "slipstream_r",
+      "wheel_lf",
+      "wheelmesh_lf",
+      "wheelmesh_lf_l1",
+      "wheelmesh_lf_l2",
+      "wheelmesh_lf_ng",
+      "wheel_rf",
+      "wheel_lr",
+      "wheel_rr",
+      "mod_col_1",
+      "mod_col_2",
+      "mod_col_3",
+      "mod_col_4",
+      "mod_col_5",
+      "chassis_lowlod",
+      "door_dside_f",
+      "handle_dside_f",
+      "window_lf",
+      "misc_b",
+      "door_pside_f",
+      "handle_pside_f",
+      "window_rf",
+      "misc_c",
+      "bonnet",
+      "taillight_l",
+      "taillight_r",
+      "brakelight_l",
+      "reversinglight_l",
+      "reversinglight_r",
+      "brakelight_r",
+      "bumper_f",
+      "extra_1",
+      "misc_d",
+      "misc_e",
+      "misc_f",
+      "windscreen",
+      "suspension_lf",
+      "suspension_rf",
+      "suspension_lr",
+      "suspension_rr",
+      "hub_lf",
+      "hub_lr",
+      "hub_rf",
+      "hub_rr",
+      "engineblock",
+      "misc_a",
+      "exhaust",
+      "exhaust_2",
+      "exhaust_3",
+      "exhaust_4",
+      "dials",
+      "steeringwheel",
+      "bodyshell",
       "chassis_dummy"
     ]
   },
@@ -71484,8 +72964,7 @@
       12
     ],
     "RequiredExtras": [
-      2,
-      11
+      1
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
@@ -71752,7 +73231,7 @@
       4
     ],
     "RequiredExtras": [
-      2
+      3
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
@@ -72542,7 +74021,7 @@
       3
     ],
     "RequiredExtras": [
-      2
+      3
     ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4,
@@ -72776,7 +74255,9 @@
       10,
       11
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      10
+    ],
     "SpawnFrequency": 50.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -72934,7 +74415,9 @@
       10,
       11
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      10
+    ],
     "SpawnFrequency": 50.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -73664,8 +75147,7 @@
       12
     ],
     "RequiredExtras": [
-      1,
-      11
+      1
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
@@ -73970,8 +75452,7 @@
     ],
     "RequiredExtras": [
       1,
-      3,
-      11
+      3
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
@@ -74146,7 +75627,6 @@
       12
     ],
     "RequiredExtras": [
-      1,
       2
     ],
     "SpawnFrequency": 100.0,
@@ -75264,7 +76744,7 @@
       2
     ],
     "RequiredExtras": [
-      1
+      2
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
@@ -78046,7 +79526,7 @@
       7
     ],
     "RequiredExtras": [
-      7
+      4
     ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4,
@@ -80666,9 +82146,7 @@
       10,
       12
     ],
-    "RequiredExtras": [
-      10
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -80938,7 +82416,7 @@
       12
     ],
     "RequiredExtras": [
-      12
+      10
     ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4,
@@ -81560,6 +83038,203 @@
       "hub_rr",
       "hub_rf",
       "windscreen",
+      "chassis_dummy"
+    ]
+  },
+  {
+    "Name": "omnisegt",
+    "DisplayName": null,
+    "Hash": 3789743831,
+    "SignedHash": -505223465,
+    "HexHash": "0xE1E2E6D7",
+    "DlcName": "mpsum2",
+    "HandlingId": "OMNISEGT",
+    "LayoutId": "LAYOUT_STANDARD",
+    "Manufacturer": "OBEY",
+    "ManufacturerDisplayName": "Obey",
+    "Class": "SPORT",
+    "Type": "CAR",
+    "PlateType": "BACK_PLATES",
+    "DashboardType": "RACE",
+    "WheelType": "HIEND",
+    "Flags": [
+      "FLAG_SPORTS",
+      "FLAG_RICH_CAR",
+      "FLAG_NO_BROKEN_DOWN_SCENARIO",
+      "FLAG_CAN_HAVE_NEONS",
+      "FLAG_IS_ELECTRIC",
+      "FLAG_INCREASE_CAMBER_WITH_SUSPENSION_MOD"
+    ],
+    "Seats": 4,
+    "Price": 100,
+    "MonetaryValue": 80000,
+    "HasConvertibleRoof": false,
+    "HasSirens": false,
+    "Weapons": [],
+    "ModKits": [
+      "511_omnisegt_modkit"
+    ],
+    "DimensionsMin": {
+      "X": -1.0287325,
+      "Y": -2.5514994,
+      "Z": -0.461999
+    },
+    "DimensionsMax": {
+      "X": 1.0287328,
+      "Y": 2.4906092,
+      "Z": 1.3020207
+    },
+    "BoundingCenter": {
+      "X": 0.0,
+      "Y": -0.024958,
+      "Z": 0.293268
+    },
+    "BoundingSphereRadius": 2.792387,
+    "Rewards": null,
+    "MaxBraking": 1.0,
+    "MaxBrakingMods": 1.1,
+    "MaxSpeed": 47.69437,
+    "MaxTraction": 2.595,
+    "Acceleration": 0.58,
+    "Agility": 0.96,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0,
+    "HasArmoredWindows": false,
+    "DefaultColors": [
+      {
+        "DefaultPrimaryColor": 112,
+        "DefaultSecondaryColor": 1,
+        "DefaultPearlColor": 7,
+        "DefaultWheelsColor": 112,
+        "DefaultInteriorColor": 70,
+        "DefaultDashboardColor": 156
+      },
+      {
+        "DefaultPrimaryColor": 43,
+        "DefaultSecondaryColor": 43,
+        "DefaultPearlColor": 35,
+        "DefaultWheelsColor": 156,
+        "DefaultInteriorColor": 154,
+        "DefaultDashboardColor": 156
+      },
+      {
+        "DefaultPrimaryColor": 77,
+        "DefaultSecondaryColor": 1,
+        "DefaultPearlColor": 7,
+        "DefaultWheelsColor": 156,
+        "DefaultInteriorColor": 154,
+        "DefaultDashboardColor": 156
+      },
+      {
+        "DefaultPrimaryColor": 88,
+        "DefaultSecondaryColor": 1,
+        "DefaultPearlColor": 7,
+        "DefaultWheelsColor": 156,
+        "DefaultInteriorColor": 154,
+        "DefaultDashboardColor": 156
+      }
+    ],
+    "DefaultBodyHealth": 1000.0,
+    "DirtLevelMin": 0.0,
+    "DirtLevelMax": 1.0,
+    "Trailers": [],
+    "AdditionalTrailers": [],
+    "Extras": [],
+    "RequiredExtras": [],
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4,
+    "HasParachute": false,
+    "HasKers": false,
+    "DefaultHorn": 471712512,
+    "DefaultHornVariation": 1,
+    "Bones": [
+      "chassis",
+      "bumper_r",
+      "misc_i",
+      "misc_j",
+      "bumper_f",
+      "misc_f",
+      "misc_g",
+      "misc_h",
+      "door_dside_f",
+      "window_lf",
+      "handle_dside_f",
+      "door_dside_r",
+      "window_lr",
+      "handle_dside_r",
+      "door_pside_f",
+      "window_rf",
+      "handle_pside_f",
+      "door_pside_r",
+      "window_rr",
+      "handle_pside_r",
+      "boot",
+      "spoiler",
+      "misc_d",
+      "platelight",
+      "reversinglight_l",
+      "reversinglight_r",
+      "brakelight_m",
+      "struts",
+      "bonnet",
+      "wing_lf",
+      "wing_rf",
+      "suspension_rr",
+      "suspension_rf",
+      "suspension_lr",
+      "suspension_lf",
+      "hub_rr",
+      "hub_rf",
+      "hub_lr",
+      "hub_lf",
+      "misc_b",
+      "misc_a",
+      "misc_c",
+      "winderscreen_r",
+      "windscreen",
+      "headlight_l",
+      "indicator_lf",
+      "indicator_rf",
+      "indicator_lr",
+      "indicator_rr",
+      "taillight_r",
+      "taillight_l",
+      "headlight_r",
+      "misc_e",
+      "misc_k",
+      "wheel_lf",
+      "wheelmesh_lf",
+      "wheelmesh_lf_l1",
+      "wheelmesh_lf_l2",
+      "wheelmesh_lf_ng",
+      "wheel_lr",
+      "wheel_rr",
+      "wheel_rf",
+      "dashglow",
+      "engine",
+      "seat_dside_f",
+      "seat_pside_f",
+      "overheat_2",
+      "overheat",
+      "interiorlight",
+      "neon_l",
+      "neon_r",
+      "neon_f",
+      "slipstream_l",
+      "slipstream_r",
+      "neon_b",
+      "seat_dside_r",
+      "seat_pside_r",
+      "chassis_lowlod",
+      "dials",
+      "steeringwheel",
+      "bodyshell",
+      "mod_col_1",
+      "mod_col_2",
+      "mod_col_3",
+      "mod_col_4",
+      "mod_col_5",
+      "mod_col_6",
       "chassis_dummy"
     ]
   },
@@ -82471,7 +84146,7 @@
       12
     ],
     "RequiredExtras": [
-      11
+      12
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
@@ -82729,7 +84404,9 @@
       11,
       12
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      12
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -83362,7 +85039,9 @@
     "Extras": [
       1
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 6,
     "HasParachute": false,
@@ -83789,7 +85468,7 @@
       2
     ],
     "RequiredExtras": [
-      2
+      1
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
@@ -84558,7 +86237,7 @@
       12
     ],
     "RequiredExtras": [
-      6,
+      1,
       11
     ],
     "SpawnFrequency": 50.0,
@@ -85760,7 +87439,7 @@
       5
     ],
     "RequiredExtras": [
-      4
+      5
     ],
     "SpawnFrequency": 60.0,
     "WheelsCount": 2,
@@ -86706,7 +88385,7 @@
       2
     ],
     "RequiredExtras": [
-      1
+      2
     ],
     "SpawnFrequency": 40.0,
     "WheelsCount": 4,
@@ -86867,7 +88546,7 @@
       8
     ],
     "RequiredExtras": [
-      4
+      2
     ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4,
@@ -87047,7 +88726,7 @@
       4
     ],
     "RequiredExtras": [
-      4
+      1
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
@@ -87286,9 +88965,7 @@
     "Extras": [
       1
     ],
-    "RequiredExtras": [
-      1
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 50.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -88286,7 +89963,7 @@
     "HasSirens": false,
     "Weapons": [],
     "ModKits": [
-      "0_default_no_lower"
+      "1320217282"
     ],
     "DimensionsMin": {
       "X": -0.91983175,
@@ -88460,24 +90137,14 @@
       "brakelight_l",
       "brakelight_r",
       "platelight",
-      "door_dside_f",
-      "window_lf",
-      "handle_dside_f",
-      "wing_lf",
-      "bonnet",
       "bumper_f",
       "indicator_lf",
       "indicator_rf",
       "windscreen",
       "windscreen_r",
-      "boot",
       "taillight_l",
-      "wing_rf",
       "headlight_l",
       "headlight_r",
-      "door_pside_f",
-      "window_rf",
-      "handle_pside_f",
       "seat_dside_f",
       "seat_pside_f",
       "engine",
@@ -88504,7 +90171,6 @@
       "hub_rr",
       "chassis_lowlod",
       "taillight_r",
-      "bodyshell",
       "slipstream_r",
       "slipstream_l",
       "dashglow",
@@ -88516,6 +90182,17 @@
       "dials",
       "extra_12",
       "extra_11",
+      "door_dside_f",
+      "handle_dside_f",
+      "window_lf",
+      "wing_lf",
+      "bonnet",
+      "boot",
+      "wing_rf",
+      "door_pside_f",
+      "handle_pside_f",
+      "window_rf",
+      "bodyshell",
       "chassis_dummy"
     ]
   },
@@ -89048,9 +90725,7 @@
       1,
       12
     ],
-    "RequiredExtras": [
-      1
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -89787,7 +91462,7 @@
     ],
     "RequiredExtras": [
       1,
-      4
+      3
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
@@ -89963,7 +91638,7 @@
     ],
     "RequiredExtras": [
       1,
-      4
+      3
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
@@ -90524,7 +92199,7 @@
       2
     ],
     "RequiredExtras": [
-      2
+      1
     ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4,
@@ -90673,9 +92348,7 @@
       1,
       2
     ],
-    "RequiredExtras": [
-      1
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -90741,6 +92414,297 @@
       "dashglow",
       "steeringwheel",
       "dials",
+      "chassis_dummy"
+    ]
+  },
+  {
+    "Name": "postlude",
+    "DisplayName": null,
+    "Hash": 4000288633,
+    "SignedHash": -294678663,
+    "HexHash": "0xEE6F8F79",
+    "DlcName": "mpsum2",
+    "HandlingId": "POSTLUDE",
+    "LayoutId": "LAYOUT_LOW_RESTRICTED_POSTLUDE",
+    "Manufacturer": "DINKA",
+    "ManufacturerDisplayName": "Dinka",
+    "Class": "COUPE",
+    "Type": "CAR",
+    "PlateType": "FRONT_AND_BACK_PLATES",
+    "DashboardType": "DUKES",
+    "WheelType": "TUNER",
+    "Flags": [
+      "FLAG_EXTRAS_STRONG",
+      "FLAG_AVERAGE_CAR",
+      "FLAG_EXTRAS_REQUIRE",
+      "FLAG_CAN_HAVE_NEONS",
+      "FLAG_INCREASE_CAMBER_WITH_SUSPENSION_MOD"
+    ],
+    "Seats": 2,
+    "Price": 100,
+    "MonetaryValue": 150000,
+    "HasConvertibleRoof": false,
+    "HasSirens": false,
+    "Weapons": [],
+    "ModKits": [
+      "501_postlude_modkit"
+    ],
+    "DimensionsMin": {
+      "X": -0.8864664,
+      "Y": -2.7311623,
+      "Z": -0.38854203
+    },
+    "DimensionsMax": {
+      "X": 0.8864664,
+      "Y": 2.078192,
+      "Z": 1.3767653
+    },
+    "BoundingCenter": {
+      "X": 0.0,
+      "Y": -0.002058,
+      "Z": 0.317887
+    },
+    "BoundingSphereRadius": 2.313886,
+    "Rewards": null,
+    "MaxBraking": 0.4,
+    "MaxBrakingMods": 0.5,
+    "MaxSpeed": 42.182316,
+    "MaxTraction": 1.985,
+    "Acceleration": 0.295,
+    "Agility": 0.675,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0,
+    "HasArmoredWindows": false,
+    "DefaultColors": [
+      {
+        "DefaultPrimaryColor": 4,
+        "DefaultSecondaryColor": 4,
+        "DefaultPearlColor": 134,
+        "DefaultWheelsColor": 156,
+        "DefaultInteriorColor": 160,
+        "DefaultDashboardColor": 160
+      },
+      {
+        "DefaultPrimaryColor": 0,
+        "DefaultSecondaryColor": 0,
+        "DefaultPearlColor": 10,
+        "DefaultWheelsColor": 156,
+        "DefaultInteriorColor": 0,
+        "DefaultDashboardColor": 0
+      },
+      {
+        "DefaultPrimaryColor": 1,
+        "DefaultSecondaryColor": 1,
+        "DefaultPearlColor": 10,
+        "DefaultWheelsColor": 156,
+        "DefaultInteriorColor": 0,
+        "DefaultDashboardColor": 0
+      },
+      {
+        "DefaultPrimaryColor": 2,
+        "DefaultSecondaryColor": 2,
+        "DefaultPearlColor": 7,
+        "DefaultWheelsColor": 156,
+        "DefaultInteriorColor": 0,
+        "DefaultDashboardColor": 0
+      },
+      {
+        "DefaultPrimaryColor": 3,
+        "DefaultSecondaryColor": 3,
+        "DefaultPearlColor": 5,
+        "DefaultWheelsColor": 156,
+        "DefaultInteriorColor": 0,
+        "DefaultDashboardColor": 0
+      },
+      {
+        "DefaultPrimaryColor": 6,
+        "DefaultSecondaryColor": 6,
+        "DefaultPearlColor": 111,
+        "DefaultWheelsColor": 156,
+        "DefaultInteriorColor": 0,
+        "DefaultDashboardColor": 0
+      },
+      {
+        "DefaultPrimaryColor": 111,
+        "DefaultSecondaryColor": 111,
+        "DefaultPearlColor": 111,
+        "DefaultWheelsColor": 156,
+        "DefaultInteriorColor": 0,
+        "DefaultDashboardColor": 0
+      },
+      {
+        "DefaultPrimaryColor": 4,
+        "DefaultSecondaryColor": 4,
+        "DefaultPearlColor": 111,
+        "DefaultWheelsColor": 156,
+        "DefaultInteriorColor": 0,
+        "DefaultDashboardColor": 0
+      },
+      {
+        "DefaultPrimaryColor": 61,
+        "DefaultSecondaryColor": 61,
+        "DefaultPearlColor": 67,
+        "DefaultWheelsColor": 156,
+        "DefaultInteriorColor": 0,
+        "DefaultDashboardColor": 0
+      },
+      {
+        "DefaultPrimaryColor": 32,
+        "DefaultSecondaryColor": 32,
+        "DefaultPearlColor": 28,
+        "DefaultWheelsColor": 156,
+        "DefaultInteriorColor": 0,
+        "DefaultDashboardColor": 0
+      },
+      {
+        "DefaultPrimaryColor": 27,
+        "DefaultSecondaryColor": 27,
+        "DefaultPearlColor": 36,
+        "DefaultWheelsColor": 156,
+        "DefaultInteriorColor": 0,
+        "DefaultDashboardColor": 0
+      },
+      {
+        "DefaultPrimaryColor": 64,
+        "DefaultSecondaryColor": 64,
+        "DefaultPearlColor": 54,
+        "DefaultWheelsColor": 156,
+        "DefaultInteriorColor": 0,
+        "DefaultDashboardColor": 0
+      },
+      {
+        "DefaultPrimaryColor": 5,
+        "DefaultSecondaryColor": 5,
+        "DefaultPearlColor": 111,
+        "DefaultWheelsColor": 156,
+        "DefaultInteriorColor": 0,
+        "DefaultDashboardColor": 0
+      },
+      {
+        "DefaultPrimaryColor": 6,
+        "DefaultSecondaryColor": 6,
+        "DefaultPearlColor": 111,
+        "DefaultWheelsColor": 156,
+        "DefaultInteriorColor": 0,
+        "DefaultDashboardColor": 0
+      }
+    ],
+    "DefaultBodyHealth": 1000.0,
+    "DirtLevelMin": 0.0,
+    "DirtLevelMax": 0.4,
+    "Trailers": [],
+    "AdditionalTrailers": [],
+    "Extras": [],
+    "RequiredExtras": [],
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4,
+    "HasParachute": false,
+    "HasKers": false,
+    "DefaultHorn": 795431409,
+    "DefaultHornVariation": 3,
+    "Bones": [
+      "chassis",
+      "door_dside_f",
+      "window_lf",
+      "handle_dside_f",
+      "misc_e",
+      "misc_i",
+      "misc_p",
+      "door_pside_f",
+      "window_rf",
+      "handle_pside_f",
+      "misc_f",
+      "misc_j",
+      "misc_q",
+      "bonnet",
+      "bumper_f",
+      "bumper_r",
+      "engineblock",
+      "misc_x",
+      "misc_y",
+      "misc_z",
+      "misc_r",
+      "misc_c",
+      "exhaust",
+      "windscreen_r",
+      "windscreen",
+      "window_lr",
+      "window_rr",
+      "misc_a",
+      "suspension_lr",
+      "suspension_lf",
+      "suspension_rr",
+      "suspension_rf",
+      "headlight_l",
+      "dashglow",
+      "engine",
+      "seat_dside_f",
+      "seat_pside_f",
+      "overheat_2",
+      "overheat",
+      "interiorlight",
+      "neon_l",
+      "neon_r",
+      "neon_f",
+      "neon_b",
+      "chassis_lowlod",
+      "wheel_lf",
+      "wheelmesh_lf",
+      "wheelmesh_lf_l1",
+      "wheelmesh_lf_l2",
+      "wheelmesh_lf_ng",
+      "wheel_lr",
+      "wheel_rr",
+      "wheel_rf",
+      "slipstream_l",
+      "slipstream_r",
+      "boot",
+      "mod_col_12",
+      "mod_col_013",
+      "mod_col_14",
+      "mod_col_015",
+      "headlight_r",
+      "bodyshell",
+      "taillight_l",
+      "indicator_lr",
+      "taillight_r",
+      "indicator_rr",
+      "misc_d",
+      "misc_g",
+      "misc_h",
+      "reversinglight_l",
+      "reversinglight_r",
+      "bobble_head",
+      "misc_k",
+      "indicator_rf",
+      "indicator_lf",
+      "misc_l",
+      "misc_o",
+      "misc_b",
+      "steeringwheel",
+      "misc_m",
+      "hub_rr",
+      "hub_rf",
+      "hub_lr",
+      "hub_lf",
+      "mod_col_1",
+      "mod_col_2",
+      "mod_col_3",
+      "mod_col_4",
+      "mod_col_5",
+      "mod_col_6",
+      "mod_col_7",
+      "mod_col_8",
+      "mod_col_9",
+      "mod_col_10",
+      "mod_col_11",
+      "platelight",
+      "dials",
+      "misc_n",
+      "wing_lf",
+      "misc_s",
+      "wing_rf",
+      "misc_t",
       "chassis_dummy"
     ]
   },
@@ -90864,7 +92828,7 @@
       2
     ],
     "RequiredExtras": [
-      1
+      2
     ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 6,
@@ -93373,7 +95337,9 @@
     "Extras": [
       1
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -94123,7 +96089,7 @@
       12
     ],
     "RequiredExtras": [
-      11
+      12
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
@@ -94882,7 +96848,7 @@
       12
     ],
     "RequiredExtras": [
-      10
+      12
     ],
     "SpawnFrequency": 40.0,
     "WheelsCount": 4,
@@ -95669,8 +97635,7 @@
       11
     ],
     "RequiredExtras": [
-      1,
-      11
+      1
     ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4,
@@ -96366,7 +98331,8 @@
       12
     ],
     "RequiredExtras": [
-      1
+      1,
+      2
     ],
     "SpawnFrequency": 50.0,
     "WheelsCount": 4,
@@ -96610,8 +98576,7 @@
       11
     ],
     "RequiredExtras": [
-      3,
-      4
+      3
     ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4,
@@ -97222,7 +99187,7 @@
       12
     ],
     "RequiredExtras": [
-      1,
+      3,
       11
     ],
     "SpawnFrequency": 50.0,
@@ -98467,6 +100432,238 @@
       "door_dside_f",
       "window_lf",
       "dials",
+      "chassis_dummy"
+    ]
+  },
+  {
+    "Name": "rhinehart",
+    "DisplayName": null,
+    "Hash": 2439462158,
+    "SignedHash": -1855505138,
+    "HexHash": "0x91673D0E",
+    "DlcName": "mpsum2",
+    "HandlingId": "RHINEHART",
+    "LayoutId": "LAYOUT_STD_RHINEHART",
+    "Manufacturer": "UBERMACHT",
+    "ManufacturerDisplayName": "Ubermacht",
+    "Class": "SEDAN",
+    "Type": "CAR",
+    "PlateType": "BACK_PLATES",
+    "DashboardType": "RACE",
+    "WheelType": "HIEND",
+    "Flags": [
+      "FLAG_SPORTS",
+      "FLAG_SPAWN_ON_TRAILER",
+      "FLAG_RICH_CAR",
+      "FLAG_NO_BROKEN_DOWN_SCENARIO",
+      "FLAG_CAN_HAVE_NEONS"
+    ],
+    "Seats": 4,
+    "Price": 100,
+    "MonetaryValue": 50000,
+    "HasConvertibleRoof": false,
+    "HasSirens": false,
+    "Weapons": [],
+    "ModKits": [
+      "495_rhinehart_modkit"
+    ],
+    "DimensionsMin": {
+      "X": -0.9838502,
+      "Y": -2.6377425,
+      "Z": -0.7371712
+    },
+    "DimensionsMax": {
+      "X": 0.98384815,
+      "Y": 2.2782145,
+      "Z": 1.0258919
+    },
+    "BoundingCenter": {
+      "X": 0.0,
+      "Y": -0.127905,
+      "Z": 0.048467
+    },
+    "BoundingSphereRadius": 2.653834,
+    "Rewards": null,
+    "MaxBraking": 0.885,
+    "MaxBrakingMods": 0.985,
+    "MaxSpeed": 46.979553,
+    "MaxTraction": 2.285,
+    "Acceleration": 0.339,
+    "Agility": 0.719,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0,
+    "HasArmoredWindows": false,
+    "DefaultColors": [
+      {
+        "DefaultPrimaryColor": 27,
+        "DefaultSecondaryColor": 0,
+        "DefaultPearlColor": 28,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 93,
+        "DefaultDashboardColor": 134
+      },
+      {
+        "DefaultPrimaryColor": 64,
+        "DefaultSecondaryColor": 0,
+        "DefaultPearlColor": 73,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 93,
+        "DefaultDashboardColor": 134
+      },
+      {
+        "DefaultPrimaryColor": 111,
+        "DefaultSecondaryColor": 0,
+        "DefaultPearlColor": 111,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 93,
+        "DefaultDashboardColor": 134
+      },
+      {
+        "DefaultPrimaryColor": 0,
+        "DefaultSecondaryColor": 1,
+        "DefaultPearlColor": 2,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 93,
+        "DefaultDashboardColor": 134
+      },
+      {
+        "DefaultPrimaryColor": 89,
+        "DefaultSecondaryColor": 1,
+        "DefaultPearlColor": 2,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 93,
+        "DefaultDashboardColor": 134
+      },
+      {
+        "DefaultPrimaryColor": 3,
+        "DefaultSecondaryColor": 1,
+        "DefaultPearlColor": 5,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 93,
+        "DefaultDashboardColor": 134
+      },
+      {
+        "DefaultPrimaryColor": 38,
+        "DefaultSecondaryColor": 1,
+        "DefaultPearlColor": 89,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 93,
+        "DefaultDashboardColor": 134
+      },
+      {
+        "DefaultPrimaryColor": 70,
+        "DefaultSecondaryColor": 1,
+        "DefaultPearlColor": 67,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 93,
+        "DefaultDashboardColor": 134
+      }
+    ],
+    "DefaultBodyHealth": 1000.0,
+    "DirtLevelMin": 0.0,
+    "DirtLevelMax": 0.885,
+    "Trailers": [],
+    "AdditionalTrailers": [],
+    "Extras": [],
+    "RequiredExtras": [],
+    "SpawnFrequency": 5.0,
+    "WheelsCount": 4,
+    "HasParachute": false,
+    "HasKers": false,
+    "DefaultHorn": 2200213040,
+    "DefaultHornVariation": 2,
+    "Bones": [
+      "chassis",
+      "engineblock",
+      "misc_e",
+      "misc_w",
+      "suspension_rr",
+      "suspension_rf",
+      "suspension_lr",
+      "suspension_lf",
+      "windscreen",
+      "misc_a",
+      "wing_lf",
+      "bonnet",
+      "misc_h",
+      "door_dside_r",
+      "window_lr",
+      "handle_dside_r",
+      "bodyshell",
+      "brakelight_l",
+      "reversinglight_l",
+      "brakelight_r",
+      "reversinglight_r",
+      "extralight_1",
+      "extralight_2",
+      "headlight_l",
+      "headlight_r",
+      "platelight",
+      "wheel_rf",
+      "wheel_rr",
+      "wheel_lr",
+      "wheel_lf",
+      "wheelmesh_lf",
+      "wheelmesh_lf_l1",
+      "wheelmesh_lf_l2",
+      "wheelmesh_lf_ng",
+      "overheat_2",
+      "overheat",
+      "exhaust_2",
+      "exhaust",
+      "interiorlight",
+      "slipstream_r",
+      "slipstream_l",
+      "engine",
+      "dashglow",
+      "neon_l",
+      "neon_r",
+      "neon_f",
+      "neon_b",
+      "seat_dside_f",
+      "seat_pside_f",
+      "seat_dside_r",
+      "seat_pside_r",
+      "exhaust_3",
+      "exhaust_4",
+      "chassis_lowlod",
+      "misc_b",
+      "dials",
+      "misc_t",
+      "misc_s",
+      "misc_x",
+      "misc_p",
+      "hub_lf",
+      "hub_rf",
+      "hub_lr",
+      "hub_rr",
+      "wing_rf",
+      "bumper_f",
+      "misc_g",
+      "bumper_r",
+      "mod_col_5",
+      "boot",
+      "windscreen_r",
+      "brakelight_m",
+      "taillight_l",
+      "taillight_r",
+      "misc_r",
+      "door_dside_f",
+      "window_lf",
+      "handle_dside_f",
+      "misc_y",
+      "door_pside_f",
+      "handle_pside_f",
+      "window_rf",
+      "misc_z",
+      "door_pside_r",
+      "handle_pside_r",
+      "window_rr",
+      "mod_col_1",
+      "mod_col_2",
+      "mod_col_3",
+      "mod_col_4",
+      "steeringwheel",
       "chassis_dummy"
     ]
   },
@@ -100529,8 +102726,7 @@
       2
     ],
     "RequiredExtras": [
-      1,
-      2
+      1
     ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 6,
@@ -100994,7 +103190,7 @@
       11
     ],
     "RequiredExtras": [
-      10
+      11
     ],
     "SpawnFrequency": 50.0,
     "WheelsCount": 4,
@@ -101169,9 +103365,7 @@
     "Extras": [
       7
     ],
-    "RequiredExtras": [
-      7
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 50.0,
     "WheelsCount": 4,
     "HasParachute": true,
@@ -101361,6 +103555,200 @@
       "wheel_lr",
       "wheel_rf",
       "wheel_rr",
+      "chassis_dummy"
+    ]
+  },
+  {
+    "Name": "ruiner4",
+    "DisplayName": null,
+    "Hash": 1706945532,
+    "SignedHash": 1706945532,
+    "HexHash": "0x65BDEBFC",
+    "DlcName": "mpsum2",
+    "HandlingId": "RUINER4",
+    "LayoutId": "LAYOUT_LOW_RESTRICTED",
+    "Manufacturer": "IMPONTE",
+    "ManufacturerDisplayName": "Imponte",
+    "Class": "MUSCLE",
+    "Type": "CAR",
+    "PlateType": "FRONT_AND_BACK_PLATES",
+    "DashboardType": "SUPERGT",
+    "WheelType": "MUSCLE",
+    "Flags": [
+      "FLAG_EXTRAS_ALL",
+      "FLAG_EXTRAS_STRONG",
+      "FLAG_AVERAGE_CAR",
+      "FLAG_POOR_CAR",
+      "FLAG_HAS_NO_ROOF",
+      "FLAG_RECESSED_HEADLIGHT_CORONAS",
+      "FLAG_RECESSED_TAILLIGHT_CORONAS"
+    ],
+    "Seats": 2,
+    "Price": 100,
+    "MonetaryValue": 150000,
+    "HasConvertibleRoof": false,
+    "HasSirens": false,
+    "Weapons": [],
+    "ModKits": [
+      "508_ruiner4_modkit"
+    ],
+    "DimensionsMin": {
+      "X": -0.9952852,
+      "Y": -2.4744372,
+      "Z": -0.39831004
+    },
+    "DimensionsMax": {
+      "X": 1.0036238,
+      "Y": 2.6394758,
+      "Z": 1.07248
+    },
+    "BoundingCenter": {
+      "X": 1E-06,
+      "Y": 0.060198,
+      "Z": 0.311104
+    },
+    "BoundingSphereRadius": 2.725258,
+    "Rewards": null,
+    "MaxBraking": 0.82,
+    "MaxBrakingMods": 0.92,
+    "MaxSpeed": 48.46975,
+    "MaxTraction": 2.36,
+    "Acceleration": 0.3085,
+    "Agility": 0.6885,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0,
+    "HasArmoredWindows": false,
+    "DefaultColors": [
+      {
+        "DefaultPrimaryColor": 111,
+        "DefaultSecondaryColor": 111,
+        "DefaultPearlColor": 5,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 156,
+        "DefaultDashboardColor": 0
+      },
+      {
+        "DefaultPrimaryColor": 0,
+        "DefaultSecondaryColor": 0,
+        "DefaultPearlColor": 5,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 156,
+        "DefaultDashboardColor": 0
+      },
+      {
+        "DefaultPrimaryColor": 36,
+        "DefaultSecondaryColor": 36,
+        "DefaultPearlColor": 5,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 156,
+        "DefaultDashboardColor": 0
+      },
+      {
+        "DefaultPrimaryColor": 31,
+        "DefaultSecondaryColor": 31,
+        "DefaultPearlColor": 5,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 156,
+        "DefaultDashboardColor": 0
+      }
+    ],
+    "DefaultBodyHealth": 1000.0,
+    "DirtLevelMin": 0.0,
+    "DirtLevelMax": 0.82,
+    "Trailers": [],
+    "AdditionalTrailers": [],
+    "Extras": [
+      1,
+      2,
+      3
+    ],
+    "RequiredExtras": [
+      1,
+      2,
+      3
+    ],
+    "SpawnFrequency": 50.0,
+    "WheelsCount": 4,
+    "HasParachute": false,
+    "HasKers": false,
+    "DefaultHorn": 1986649728,
+    "DefaultHornVariation": 4,
+    "Bones": [
+      "chassis",
+      "door_dside_f",
+      "window_lf",
+      "handle_dside_f",
+      "door_pside_f",
+      "window_rf",
+      "handle_pside_f",
+      "bonnet",
+      "boot",
+      "misc_k",
+      "extra_1",
+      "mod_col_1",
+      "mod_col_2",
+      "mod_col_3",
+      "mod_col_4",
+      "mod_col_5",
+      "mod_col_6",
+      "mod_col_7",
+      "mod_col_9",
+      "extra_2",
+      "extra_3",
+      "mod_col_8",
+      "bumper_f",
+      "bumper_r",
+      "platelight",
+      "windscreen",
+      "misc_d",
+      "headlight_l",
+      "headlight_r",
+      "taillight_l",
+      "taillight_r",
+      "brakelight_l",
+      "brakelight_r",
+      "reversinglight_l",
+      "reversinglight_r",
+      "suspension_lf",
+      "suspension_lr",
+      "suspension_rf",
+      "suspension_rr",
+      "hub_lf",
+      "hub_lr",
+      "hub_rf",
+      "hub_rr",
+      "engineblock",
+      "misc_h",
+      "misc_i",
+      "misc_a",
+      "exhaust",
+      "exhaust_2",
+      "seat_dside_f",
+      "seat_pside_f",
+      "slipstream_l",
+      "slipstream_r",
+      "neon_l",
+      "neon_r",
+      "neon_f",
+      "neon_b",
+      "interiorlight",
+      "dashglow",
+      "engine",
+      "overheat_2",
+      "overheat",
+      "wheel_lf",
+      "wheelmesh_lf",
+      "wheelmesh_lf_l1",
+      "wheelmesh_lf_l2",
+      "wheelmesh_lf_ng",
+      "wheel_lr",
+      "wheel_rf",
+      "wheel_rr",
+      "chassis_lowlod",
+      "dials",
+      "steeringwheel",
+      "bodyshell",
+      "windscreen_r",
       "chassis_dummy"
     ]
   },
@@ -102612,7 +105000,7 @@
       11
     ],
     "RequiredExtras": [
-      10
+      11
     ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4,
@@ -103105,7 +105493,7 @@
       12
     ],
     "RequiredExtras": [
-      2
+      7
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
@@ -103434,8 +105822,8 @@
       12
     ],
     "RequiredExtras": [
-      1,
-      12
+      2,
+      10
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
@@ -104202,8 +106590,7 @@
       12
     ],
     "RequiredExtras": [
-      1,
-      3
+      1
     ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4,
@@ -107118,29 +109505,6 @@
     "DefaultHornVariation": 1,
     "Bones": [
       "chassis",
-      "bodyshell",
-      "bumper_f",
-      "misc_d",
-      "bumper_r",
-      "bonnet",
-      "misc_c",
-      "boot",
-      "brakelight_r",
-      "reversinglight_r",
-      "reversinglight_l",
-      "brakelight_l",
-      "mod_col_1",
-      "mod_col_2",
-      "platelight",
-      "dashglow",
-      "door_pside_f",
-      "window_rf",
-      "handle_pside_f",
-      "doorlight_rf",
-      "door_dside_f",
-      "window_lf",
-      "handle_dside_f",
-      "doorlight_lf",
       "window_lr",
       "windscreen_r",
       "windscreen",
@@ -107175,7 +109539,6 @@
       "seat_pside_f",
       "seat_dside_f",
       "chassis_lowlod",
-      "misc_b",
       "misc_e",
       "misc_a",
       "slipstream_l",
@@ -107191,6 +109554,30 @@
       "dials",
       "extra_ten",
       "extra_12",
+      "bodyshell",
+      "bumper_f",
+      "misc_d",
+      "bumper_r",
+      "bonnet",
+      "misc_c",
+      "boot",
+      "brakelight_r",
+      "reversinglight_r",
+      "reversinglight_l",
+      "brakelight_l",
+      "mod_col_1",
+      "mod_col_2",
+      "platelight",
+      "dashglow",
+      "door_pside_f",
+      "window_rf",
+      "handle_pside_f",
+      "doorlight_rf",
+      "door_dside_f",
+      "window_lf",
+      "handle_dside_f",
+      "doorlight_lf",
+      "misc_b",
       "chassis_dummy"
     ]
   },
@@ -107318,7 +109705,10 @@
       1,
       2
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      1,
+      2
+    ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 2,
     "HasParachute": false,
@@ -107685,7 +110075,9 @@
       2,
       3
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 6,
     "HasParachute": false,
@@ -109658,7 +112050,8 @@
       11
     ],
     "RequiredExtras": [
-      1
+      1,
+      11
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
@@ -109953,6 +112346,222 @@
     ]
   },
   {
+    "Name": "sentinel4",
+    "DisplayName": null,
+    "Hash": 2938086457,
+    "SignedHash": -1356880839,
+    "HexHash": "0xAF1FA439",
+    "DlcName": "mpsum2",
+    "HandlingId": "SENTINEL4",
+    "LayoutId": "LAYOUT_STANDARD_SENTINEL4",
+    "Manufacturer": "UBERMACH",
+    "ManufacturerDisplayName": "Ubermacht",
+    "Class": "SPORT",
+    "Type": "CAR",
+    "PlateType": "FRONT_AND_BACK_PLATES",
+    "DashboardType": "DUKES",
+    "WheelType": "MUSCLE",
+    "Flags": [
+      "FLAG_EXTRAS_STRONG",
+      "FLAG_AVERAGE_CAR",
+      "FLAG_HAS_INTERIOR_EXTRAS",
+      "FLAG_CAN_HAVE_NEONS",
+      "FLAG_INCREASE_CAMBER_WITH_SUSPENSION_MOD"
+    ],
+    "Seats": 4,
+    "Price": 100,
+    "MonetaryValue": 150000,
+    "HasConvertibleRoof": false,
+    "HasSirens": false,
+    "Weapons": [],
+    "ModKits": [
+      "510_sentinel4_modkit"
+    ],
+    "DimensionsMin": {
+      "X": -0.96012324,
+      "Y": -2.4454124,
+      "Z": -0.433854
+    },
+    "DimensionsMax": {
+      "X": 0.96039623,
+      "Y": 2.1253076,
+      "Z": 1.1395417
+    },
+    "BoundingCenter": {
+      "X": -0.0,
+      "Y": -0.073387,
+      "Z": 0.337806
+    },
+    "BoundingSphereRadius": 2.486076,
+    "Rewards": null,
+    "MaxBraking": 0.88,
+    "MaxBrakingMods": 0.98,
+    "MaxSpeed": 47.51883,
+    "MaxTraction": 2.295,
+    "Acceleration": 0.295,
+    "Agility": 0.675,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0,
+    "HasArmoredWindows": false,
+    "DefaultColors": [
+      {
+        "DefaultPrimaryColor": 112,
+        "DefaultSecondaryColor": 1,
+        "DefaultPearlColor": 134,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 13,
+        "DefaultDashboardColor": 111
+      },
+      {
+        "DefaultPrimaryColor": 112,
+        "DefaultSecondaryColor": 29,
+        "DefaultPearlColor": 134,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 13,
+        "DefaultDashboardColor": 111
+      },
+      {
+        "DefaultPrimaryColor": 1,
+        "DefaultSecondaryColor": 29,
+        "DefaultPearlColor": 134,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 13,
+        "DefaultDashboardColor": 111
+      },
+      {
+        "DefaultPrimaryColor": 70,
+        "DefaultSecondaryColor": 112,
+        "DefaultPearlColor": 134,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 13,
+        "DefaultDashboardColor": 111
+      },
+      {
+        "DefaultPrimaryColor": 88,
+        "DefaultSecondaryColor": 112,
+        "DefaultPearlColor": 134,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 13,
+        "DefaultDashboardColor": 111
+      }
+    ],
+    "DefaultBodyHealth": 1000.0,
+    "DirtLevelMin": 0.0,
+    "DirtLevelMax": 0.88,
+    "Trailers": [],
+    "AdditionalTrailers": [],
+    "Extras": [],
+    "RequiredExtras": [],
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4,
+    "HasParachute": false,
+    "HasKers": false,
+    "DefaultHorn": 3940042904,
+    "DefaultHornVariation": 3,
+    "Bones": [
+      "chassis",
+      "door_pside_f",
+      "window_rf",
+      "misc_s",
+      "misc_x",
+      "handle_pside_f",
+      "suspension_rf",
+      "misc_a",
+      "bodyshell",
+      "windscreen_r",
+      "windscreen",
+      "window_rr",
+      "window_lr",
+      "taillight_r",
+      "taillight_l",
+      "suspension_rr",
+      "suspension_lr",
+      "suspension_lf",
+      "steeringwheel",
+      "reversinglight_r",
+      "reversinglight_l",
+      "misc_e",
+      "misc_d",
+      "misc_c",
+      "misc_b",
+      "indicator_rr",
+      "indicator_rf",
+      "indicator_lr",
+      "indicator_lf",
+      "hub_rr",
+      "hub_rf",
+      "hub_lr",
+      "hub_lf",
+      "headlight_r",
+      "misc_o",
+      "headlight_l",
+      "misc_n",
+      "door_dside_f",
+      "window_lf",
+      "misc_r",
+      "misc_w",
+      "handle_dside_f",
+      "dials",
+      "brakelight_r",
+      "brakelight_l",
+      "boot",
+      "misc_i",
+      "mod_col_1",
+      "mod_col_2",
+      "mod_col_3",
+      "mod_col_6",
+      "misc_j",
+      "bumper_f",
+      "misc_q",
+      "extralight_1",
+      "extralight_2",
+      "misc_u",
+      "misc_k",
+      "engineblock",
+      "misc_f",
+      "misc_g",
+      "misc_h",
+      "engine",
+      "misc_l",
+      "misc_m",
+      "misc_t",
+      "bumper_r",
+      "misc_z",
+      "misc_y",
+      "misc_p",
+      "bonnet",
+      "misc_v",
+      "wheel_rf",
+      "wheel_rr",
+      "wheel_lr",
+      "wheel_lf",
+      "wheelmesh_lf",
+      "wheelmesh_lf_l1",
+      "wheelmesh_lf_l2",
+      "wheelmesh_lf_ng",
+      "slipstream_r",
+      "slipstream_l",
+      "seat_pside_f",
+      "seat_dside_f",
+      "platelight",
+      "overheat_2",
+      "overheat",
+      "neon_r",
+      "neon_l",
+      "neon_f",
+      "neon_b",
+      "interiorlight",
+      "exhaust_2",
+      "exhaust",
+      "chassis_lowlod",
+      "mod_col_4",
+      "mod_col_5",
+      "bobble_base",
+      "bobble_head",
+      "chassis_dummy"
+    ]
+  },
+  {
     "Name": "serrano",
     "DisplayName": "Serrano",
     "Hash": 1337041428,
@@ -110140,9 +112749,7 @@
       10,
       11
     ],
-    "RequiredExtras": [
-      11
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -111056,7 +113663,9 @@
     "Extras": [
       12
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      12
+    ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -113058,6 +115667,180 @@
       "ram_3mod",
       "ram_2mod",
       "ram_1mod",
+      "chassis_dummy"
+    ]
+  },
+  {
+    "Name": "sm722",
+    "DisplayName": null,
+    "Hash": 775514032,
+    "SignedHash": 775514032,
+    "HexHash": "0x2E3967B0",
+    "DlcName": "mpsum2",
+    "HandlingId": "SM722",
+    "LayoutId": "LAYOUT_STANDARD",
+    "Manufacturer": "BENEFAC",
+    "ManufacturerDisplayName": "Benefactor",
+    "Class": "SPORT",
+    "Type": "CAR",
+    "PlateType": "BACK_PLATES",
+    "DashboardType": "RACE",
+    "WheelType": "HIEND",
+    "Flags": [
+      "FLAG_SPORTS",
+      "FLAG_SPAWN_ON_TRAILER",
+      "FLAG_RICH_CAR",
+      "FLAG_NO_BROKEN_DOWN_SCENARIO",
+      "FLAG_CAN_HAVE_NEONS",
+      "FLAG_INCREASE_CAMBER_WITH_SUSPENSION_MOD"
+    ],
+    "Seats": 4,
+    "Price": 100,
+    "MonetaryValue": 150000,
+    "HasConvertibleRoof": false,
+    "HasSirens": false,
+    "Weapons": [],
+    "ModKits": [
+      "493_sm722_modkit"
+    ],
+    "DimensionsMin": {
+      "X": -1.0317671,
+      "Y": -2.4673169,
+      "Z": -0.3390003
+    },
+    "DimensionsMax": {
+      "X": 1.0316212,
+      "Y": 2.4541664,
+      "Z": 1.0141594
+    },
+    "BoundingCenter": {
+      "X": 6E-06,
+      "Y": -0.007462,
+      "Z": 0.361386
+    },
+    "BoundingSphereRadius": 2.697025,
+    "Rewards": null,
+    "MaxBraking": 0.85,
+    "MaxBrakingMods": 0.95000005,
+    "MaxSpeed": 48.216537,
+    "MaxTraction": 2.508,
+    "Acceleration": 0.358,
+    "Agility": 0.73800004,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0,
+    "HasArmoredWindows": false,
+    "DefaultColors": [
+      {
+        "DefaultPrimaryColor": 29,
+        "DefaultSecondaryColor": 0,
+        "DefaultPearlColor": 4,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 3,
+        "DefaultDashboardColor": 156
+      },
+      {
+        "DefaultPrimaryColor": 19,
+        "DefaultSecondaryColor": 0,
+        "DefaultPearlColor": 4,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 37,
+        "DefaultDashboardColor": 156
+      },
+      {
+        "DefaultPrimaryColor": 2,
+        "DefaultSecondaryColor": 30,
+        "DefaultPearlColor": 4,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 3,
+        "DefaultDashboardColor": 156
+      }
+    ],
+    "DefaultBodyHealth": 1000.0,
+    "DirtLevelMin": 0.0,
+    "DirtLevelMax": 0.85,
+    "Trailers": [],
+    "AdditionalTrailers": [],
+    "Extras": [],
+    "RequiredExtras": [],
+    "SpawnFrequency": 5.0,
+    "WheelsCount": 4,
+    "HasParachute": false,
+    "HasKers": false,
+    "DefaultHorn": 3629871250,
+    "DefaultHornVariation": 4,
+    "Bones": [
+      "chassis",
+      "bodyshell",
+      "bumper_r",
+      "misc_d",
+      "engineblock",
+      "engine",
+      "misc_e",
+      "exhaust_2",
+      "exhaust",
+      "door_dside_f",
+      "handle_dside_f",
+      "doorlight_lf",
+      "door_pside_f",
+      "handle_pside_f",
+      "doorlight_rf",
+      "bonnet",
+      "mod_col_4",
+      "hub_lr",
+      "hub_rf",
+      "hub_lf",
+      "hub_rr",
+      "suspension_rr",
+      "suspension_rf",
+      "suspension_lr",
+      "suspension_lf",
+      "boot",
+      "taillight_r",
+      "brakelight_m",
+      "mod_col_1",
+      "mod_col_2",
+      "mod_col_3",
+      "taillight_l",
+      "brakelight_r",
+      "brakelight_l",
+      "reversinglight_l",
+      "reversinglight_r",
+      "dials",
+      "steeringwheel",
+      "headlight_r",
+      "headlight_l",
+      "indicator_lr",
+      "indicator_lf",
+      "extralight_1",
+      "extralight_2",
+      "misc_f",
+      "misc_g",
+      "misc_h",
+      "bumper_f",
+      "misc_b",
+      "misc_c",
+      "wheel_rf",
+      "wheel_rr",
+      "wheel_lr",
+      "wheel_lf",
+      "wheelmesh_lf",
+      "wheelmesh_lf_l1",
+      "wheelmesh_lf_l2",
+      "wheelmesh_lf_ng",
+      "seat_dside_f",
+      "seat_pside_f",
+      "platelight",
+      "dashglow",
+      "slipstream_l",
+      "slipstream_r",
+      "overheat",
+      "overheat_2",
+      "neon_r",
+      "neon_f",
+      "neon_b",
+      "neon_l",
+      "mod_col_5",
+      "chassis_lowlod",
       "chassis_dummy"
     ]
   },
@@ -115110,7 +117893,9 @@
       2,
       3
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      1
+    ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -115501,7 +118286,9 @@
     "Extras": [
       10
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      10
+    ],
     "SpawnFrequency": 50.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -115982,7 +118769,7 @@
       2
     ],
     "RequiredExtras": [
-      2
+      1
     ],
     "SpawnFrequency": 5.0,
     "WheelsCount": 4,
@@ -116782,7 +119569,7 @@
       11
     ],
     "RequiredExtras": [
-      2
+      11
     ],
     "SpawnFrequency": 50.0,
     "WheelsCount": 4,
@@ -117175,7 +119962,7 @@
     ],
     "RequiredExtras": [
       1,
-      12
+      11
     ],
     "SpawnFrequency": 20.0,
     "WheelsCount": 4,
@@ -119329,7 +122116,7 @@
       5
     ],
     "RequiredExtras": [
-      5
+      3
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 0,
@@ -119537,7 +122324,9 @@
     "Extras": [
       12
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      12
+    ],
     "SpawnFrequency": 80.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -120111,7 +122900,7 @@
       12
     ],
     "RequiredExtras": [
-      10
+      12
     ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4,
@@ -120795,7 +123584,7 @@
       11
     ],
     "RequiredExtras": [
-      10
+      11
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
@@ -121883,9 +124672,7 @@
       2,
       3
     ],
-    "RequiredExtras": [
-      2
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -123404,8 +126191,9 @@
       11
     ],
     "RequiredExtras": [
-      6,
-      11
+      8,
+      9,
+      10
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
@@ -124294,6 +127082,389 @@
       "taillight_r",
       "bodyshell",
       "windscreen",
+      "chassis_dummy"
+    ]
+  },
+  {
+    "Name": "tenf",
+    "DisplayName": null,
+    "Hash": 3400983137,
+    "SignedHash": -893984159,
+    "HexHash": "0xCAB6E261",
+    "DlcName": "mpsum2",
+    "HandlingId": "TENF",
+    "LayoutId": "LAYOUT_LOW_RESTRICTED",
+    "Manufacturer": "OBEY",
+    "ManufacturerDisplayName": "Obey",
+    "Class": "SPORT",
+    "Type": "CAR",
+    "PlateType": "BACK_PLATES",
+    "DashboardType": "RACE",
+    "WheelType": "HIEND",
+    "Flags": [
+      "FLAG_AVERAGE_CAR",
+      "FLAG_HAS_INTERIOR_EXTRAS",
+      "FLAG_CAN_HAVE_NEONS",
+      "FLAG_EXTRAS_ALL",
+      "FLAG_BOOT_IN_FRONT",
+      "FLAG_EXTRAS_STRONG"
+    ],
+    "Seats": 2,
+    "Price": 100,
+    "MonetaryValue": 80000,
+    "HasConvertibleRoof": false,
+    "HasSirens": false,
+    "Weapons": [],
+    "ModKits": [
+      "499_tenf_modkit"
+    ],
+    "DimensionsMin": {
+      "X": -1.0352023,
+      "Y": -2.2197332,
+      "Z": -0.342062
+    },
+    "DimensionsMax": {
+      "X": 1.0352032,
+      "Y": 2.3522024,
+      "Z": 0.92097193
+    },
+    "BoundingCenter": {
+      "X": -0.0,
+      "Y": 0.098236,
+      "Z": 0.339528
+    },
+    "BoundingSphereRadius": 2.500728,
+    "Rewards": null,
+    "MaxBraking": 1.1,
+    "MaxBrakingMods": 1.2,
+    "MaxSpeed": 49.141285,
+    "MaxTraction": 2.68,
+    "Acceleration": 0.3545,
+    "Agility": 0.7345,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0,
+    "HasArmoredWindows": false,
+    "DefaultColors": [
+      {
+        "DefaultPrimaryColor": 29,
+        "DefaultSecondaryColor": 0,
+        "DefaultPearlColor": 4,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 3,
+        "DefaultDashboardColor": 156
+      },
+      {
+        "DefaultPrimaryColor": 19,
+        "DefaultSecondaryColor": 0,
+        "DefaultPearlColor": 4,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 37,
+        "DefaultDashboardColor": 156
+      },
+      {
+        "DefaultPrimaryColor": 2,
+        "DefaultSecondaryColor": 30,
+        "DefaultPearlColor": 4,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 3,
+        "DefaultDashboardColor": 156
+      }
+    ],
+    "DefaultBodyHealth": 1000.0,
+    "DirtLevelMin": 0.0,
+    "DirtLevelMax": 1.1,
+    "Trailers": [],
+    "AdditionalTrailers": [],
+    "Extras": [],
+    "RequiredExtras": [],
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4,
+    "HasParachute": false,
+    "HasKers": false,
+    "DefaultHorn": 2782658355,
+    "DefaultHornVariation": 0,
+    "Bones": [
+      "chassis",
+      "bodyshell",
+      "door_dside_f",
+      "window_lf",
+      "misc_a",
+      "handle_dside_f",
+      "doorlight_lf",
+      "door_pside_f",
+      "window_rf",
+      "misc_b",
+      "handle_pside_f",
+      "doorlight_rf",
+      "windscreen",
+      "bonnet",
+      "windscreen_r",
+      "bumper_r",
+      "misc_l",
+      "platelight",
+      "misc_k",
+      "boot",
+      "spoiler",
+      "misc_m",
+      "misc_n",
+      "mod_col_3",
+      "hub_lf",
+      "hub_rr",
+      "hub_rf",
+      "suspension_lr",
+      "suspension_lf",
+      "suspension_rr",
+      "suspension_rf",
+      "engineblock",
+      "misc_e",
+      "steeringwheel",
+      "indicator_lf",
+      "brakelight_l",
+      "indicator_lr",
+      "reversinglight_l",
+      "extralight_1",
+      "extralight_2",
+      "indicator_rf",
+      "reversinglight_r",
+      "brakelight_r",
+      "indicator_rr",
+      "misc_g",
+      "misc_c",
+      "misc_r",
+      "dials",
+      "misc_v",
+      "struts",
+      "taillight_r",
+      "taillight_l",
+      "hub_lr",
+      "seat_dside_f",
+      "seat_pside_f",
+      "wheel_lf",
+      "wheelmesh_lf",
+      "wheelmesh_lf_l1",
+      "wheelmesh_lf_l2",
+      "wheelmesh_lf_ng",
+      "wheel_lr",
+      "wheel_rr",
+      "wheel_rf",
+      "exhaust",
+      "exhaust_2",
+      "exhaust_3",
+      "exhaust_4",
+      "streamline_l",
+      "streamline_r",
+      "engine",
+      "overheat",
+      "overheat_2",
+      "neon_f",
+      "neon_b",
+      "neon_l",
+      "neon_r",
+      "interiorlight",
+      "dashglow",
+      "chassis_lowlod",
+      "mod_col_1",
+      "mod_col_2",
+      "mod_col_4",
+      "mod_col_5",
+      "headlight_r",
+      "headlight_l",
+      "chassis_dummy"
+    ]
+  },
+  {
+    "Name": "tenf2",
+    "DisplayName": null,
+    "Hash": 274946574,
+    "SignedHash": 274946574,
+    "HexHash": "0x10635A0E",
+    "DlcName": "mpsum2",
+    "HandlingId": "TENF2",
+    "LayoutId": "LAYOUT_LOW_RESTRICTED_TENF2",
+    "Manufacturer": "OBEY",
+    "ManufacturerDisplayName": "Obey",
+    "Class": "SPORT",
+    "Type": "CAR",
+    "PlateType": "BACK_PLATES",
+    "DashboardType": "RACE",
+    "WheelType": "HIEND",
+    "Flags": [
+      "FLAG_AVERAGE_CAR",
+      "FLAG_HAS_INTERIOR_EXTRAS",
+      "FLAG_CAN_HAVE_NEONS",
+      "FLAG_EXTRAS_ALL",
+      "FLAG_BOOT_IN_FRONT",
+      "FLAG_EXTRAS_STRONG",
+      "FLAG_INCREASE_CAMBER_WITH_SUSPENSION_MOD"
+    ],
+    "Seats": 2,
+    "Price": 100,
+    "MonetaryValue": 80000,
+    "HasConvertibleRoof": false,
+    "HasSirens": false,
+    "Weapons": [],
+    "ModKits": [
+      "505_tenf2_modkit"
+    ],
+    "DimensionsMin": {
+      "X": -1.0916293,
+      "Y": -2.2197332,
+      "Z": -0.3289131
+    },
+    "DimensionsMax": {
+      "X": 1.0916293,
+      "Y": 2.3522024,
+      "Z": 0.9209719
+    },
+    "BoundingCenter": {
+      "X": -0.000732,
+      "Y": 0.098236,
+      "Z": 0.339528
+    },
+    "BoundingSphereRadius": 2.501151,
+    "Rewards": null,
+    "MaxBraking": 1.15,
+    "MaxBrakingMods": 1.25,
+    "MaxSpeed": 49.46413,
+    "MaxTraction": 2.69,
+    "Acceleration": 0.356,
+    "Agility": 0.736,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0,
+    "HasArmoredWindows": false,
+    "DefaultColors": [
+      {
+        "DefaultPrimaryColor": 29,
+        "DefaultSecondaryColor": 0,
+        "DefaultPearlColor": 4,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 3,
+        "DefaultDashboardColor": 156
+      },
+      {
+        "DefaultPrimaryColor": 19,
+        "DefaultSecondaryColor": 0,
+        "DefaultPearlColor": 4,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 37,
+        "DefaultDashboardColor": 156
+      },
+      {
+        "DefaultPrimaryColor": 2,
+        "DefaultSecondaryColor": 30,
+        "DefaultPearlColor": 4,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 3,
+        "DefaultDashboardColor": 156
+      }
+    ],
+    "DefaultBodyHealth": 1000.0,
+    "DirtLevelMin": 0.0,
+    "DirtLevelMax": 1.15,
+    "Trailers": [],
+    "AdditionalTrailers": [],
+    "Extras": [],
+    "RequiredExtras": [],
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4,
+    "HasParachute": false,
+    "HasKers": false,
+    "DefaultHorn": 471712512,
+    "DefaultHornVariation": 1,
+    "Bones": [
+      "chassis",
+      "bodyshell",
+      "door_dside_f",
+      "window_lf",
+      "misc_a",
+      "handle_dside_f",
+      "doorlight_lf",
+      "misc_h",
+      "door_pside_f",
+      "window_rf",
+      "misc_b",
+      "handle_pside_f",
+      "doorlight_rf",
+      "misc_j",
+      "windscreen",
+      "bonnet",
+      "windscreen_r",
+      "bumper_r",
+      "platelight",
+      "misc_l",
+      "misc_t",
+      "misc_k",
+      "boot",
+      "misc_x",
+      "spoiler",
+      "mod_col_3",
+      "misc_m",
+      "misc_n",
+      "hub_lf",
+      "hub_lr",
+      "hub_rr",
+      "hub_rf",
+      "suspension_lr",
+      "suspension_lf",
+      "suspension_rr",
+      "suspension_rf",
+      "engineblock",
+      "misc_e",
+      "steeringwheel",
+      "seat_dside_f",
+      "seat_pside_f",
+      "wheel_lf",
+      "wheelmesh_lf",
+      "wheelmesh_lf_l1",
+      "wheelmesh_lf_l2",
+      "wheelmesh_lf_ng",
+      "wheel_lr",
+      "wheel_rr",
+      "wheel_rf",
+      "exhaust",
+      "exhaust_2",
+      "exhaust_3",
+      "exhaust_4",
+      "streamline_l",
+      "streamline_r",
+      "engine",
+      "overheat",
+      "overheat_2",
+      "neon_f",
+      "neon_b",
+      "neon_l",
+      "neon_r",
+      "dashglow",
+      "chassis_lowlod",
+      "misc_g",
+      "misc_c",
+      "misc_r",
+      "dials",
+      "misc_v",
+      "mod_col_1",
+      "mod_col_2",
+      "mod_col_4",
+      "mod_col_5",
+      "misc_p",
+      "misc_q",
+      "misc_u",
+      "mod_col_6",
+      "brakelight_l",
+      "extralight_1",
+      "extralight_2",
+      "brakelight_r",
+      "taillight_l",
+      "taillight_r",
+      "reversinglight_l",
+      "reversinglight_r",
+      "interiorlight",
+      "indicator_rr",
+      "indicator_rf",
+      "indicator_lr",
+      "indicator_lf",
+      "headlight_r",
+      "headlight_l",
+      "struts",
       "chassis_dummy"
     ]
   },
@@ -125589,8 +128760,7 @@
       2
     ],
     "RequiredExtras": [
-      1,
-      2
+      1
     ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4,
@@ -125771,8 +128941,7 @@
       2
     ],
     "RequiredExtras": [
-      1,
-      2
+      1
     ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 6,
@@ -126512,6 +129681,237 @@
     ]
   },
   {
+    "Name": "torero2",
+    "DisplayName": null,
+    "Hash": 4129572538,
+    "SignedHash": -165394758,
+    "HexHash": "0xF62446BA",
+    "DlcName": "mpsum2",
+    "HandlingId": "TORERO2",
+    "LayoutId": "LAYOUT_LOW_TORERO2",
+    "Manufacturer": "PEGASSI",
+    "ManufacturerDisplayName": "Pegassi",
+    "Class": "SUPER",
+    "Type": "CAR",
+    "PlateType": "BACK_PLATES",
+    "DashboardType": "RACE",
+    "WheelType": "HIEND",
+    "Flags": [
+      "FLAG_SPORTS",
+      "FLAG_RICH_CAR",
+      "FLAG_RECESSED_HEADLIGHT_CORONAS",
+      "FLAG_NO_BROKEN_DOWN_SCENARIO",
+      "FLAG_COUNT_AS_FACEBOOK_DRIVEN",
+      "FLAG_EXTRAS_STRONG",
+      "FLAG_EXTRAS_REQUIRE",
+      "FLAG_USE_RESTRICTED_DRIVEBY_HEIGHT_MID_ONLY"
+    ],
+    "Seats": 2,
+    "Price": 100,
+    "MonetaryValue": 35000,
+    "HasConvertibleRoof": false,
+    "HasSirens": false,
+    "Weapons": [],
+    "ModKits": [
+      "498_torero2_modkit"
+    ],
+    "DimensionsMin": {
+      "X": -1.4536655,
+      "Y": -2.378621,
+      "Z": -0.41183466
+    },
+    "DimensionsMax": {
+      "X": 1.4536669,
+      "Y": 2.6544468,
+      "Z": 0.94853497
+    },
+    "BoundingCenter": {
+      "X": -0.0,
+      "Y": 0.163966,
+      "Z": 0.268489
+    },
+    "BoundingSphereRadius": 2.74763,
+    "Rewards": null,
+    "MaxBraking": 1.15,
+    "MaxBrakingMods": 1.25,
+    "MaxSpeed": 52.417717,
+    "MaxTraction": 2.7695,
+    "Acceleration": 0.385,
+    "Agility": 0.765,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0,
+    "HasArmoredWindows": false,
+    "DefaultColors": [
+      {
+        "DefaultPrimaryColor": 27,
+        "DefaultSecondaryColor": 0,
+        "DefaultPearlColor": 28,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 93,
+        "DefaultDashboardColor": 134
+      },
+      {
+        "DefaultPrimaryColor": 64,
+        "DefaultSecondaryColor": 0,
+        "DefaultPearlColor": 73,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 93,
+        "DefaultDashboardColor": 134
+      },
+      {
+        "DefaultPrimaryColor": 111,
+        "DefaultSecondaryColor": 0,
+        "DefaultPearlColor": 111,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 93,
+        "DefaultDashboardColor": 134
+      },
+      {
+        "DefaultPrimaryColor": 0,
+        "DefaultSecondaryColor": 1,
+        "DefaultPearlColor": 2,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 93,
+        "DefaultDashboardColor": 134
+      },
+      {
+        "DefaultPrimaryColor": 89,
+        "DefaultSecondaryColor": 1,
+        "DefaultPearlColor": 2,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 93,
+        "DefaultDashboardColor": 134
+      },
+      {
+        "DefaultPrimaryColor": 3,
+        "DefaultSecondaryColor": 1,
+        "DefaultPearlColor": 5,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 93,
+        "DefaultDashboardColor": 134
+      },
+      {
+        "DefaultPrimaryColor": 38,
+        "DefaultSecondaryColor": 1,
+        "DefaultPearlColor": 89,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 93,
+        "DefaultDashboardColor": 134
+      },
+      {
+        "DefaultPrimaryColor": 70,
+        "DefaultSecondaryColor": 1,
+        "DefaultPearlColor": 67,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 93,
+        "DefaultDashboardColor": 134
+      }
+    ],
+    "DefaultBodyHealth": 1000.0,
+    "DirtLevelMin": 0.0,
+    "DirtLevelMax": 1.15,
+    "Trailers": [],
+    "AdditionalTrailers": [],
+    "Extras": [],
+    "RequiredExtras": [],
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4,
+    "HasParachute": false,
+    "HasKers": false,
+    "DefaultHorn": 2200213040,
+    "DefaultHornVariation": 2,
+    "Bones": [
+      "chassis",
+      "bodyshell",
+      "boot",
+      "bonnet",
+      "windscreen_r",
+      "mod_col_6",
+      "misc_j",
+      "windscreen",
+      "misc_h",
+      "hub_lf",
+      "hub_rf",
+      "hub_lr",
+      "hub_rr",
+      "steeringwheel",
+      "engineblock",
+      "bumper_r",
+      "misc_q",
+      "misc_d",
+      "misc_e",
+      "suspension_lf",
+      "suspension_lr",
+      "suspension_rr",
+      "suspension_rf",
+      "spoiler",
+      "mod_col_1",
+      "mod_col_2",
+      "misc_m",
+      "misc_n",
+      "misc_k",
+      "misc_l",
+      "door_dside_f",
+      "window_lf",
+      "handle_dside_f",
+      "door_pside_f",
+      "window_rf",
+      "handle_pside_f",
+      "taillight_r",
+      "headlight_l",
+      "headlight_r",
+      "extralight_1",
+      "extralight_2",
+      "indicator_lf",
+      "indicator_rf",
+      "brakelight_l",
+      "brakelight_r",
+      "reversinglight_r",
+      "reversinglight_l",
+      "taillight_l",
+      "misc_s",
+      "misc_c",
+      "misc_r",
+      "light_cover",
+      "dials",
+      "wheel_lf",
+      "wheelmesh_lf",
+      "wheelmesh_lf_l1",
+      "wheelmesh_lf_l2",
+      "wheelmesh_lf_ng",
+      "wheel_lr",
+      "wheel_rr",
+      "wheel_rf",
+      "exhaust",
+      "exhaust_2",
+      "exhaust_3",
+      "exhaust_4",
+      "slipstream_l",
+      "slipstream_r",
+      "dashglow",
+      "interiorlight",
+      "platelight",
+      "neon_f",
+      "neon_b",
+      "neon_l",
+      "neon_r",
+      "engine",
+      "overheat_1",
+      "overheat_2",
+      "chassis_lowlod",
+      "seat_dside_f",
+      "seat_pside_f",
+      "mod_col_3",
+      "mod_col_4",
+      "mod_col_5",
+      "misc_y",
+      "struts",
+      "indicataor_lr",
+      "indicataor_rr",
+      "chassis_dummy"
+    ]
+  },
+  {
     "Name": "tornado",
     "DisplayName": "Tornado",
     "Hash": 464687292,
@@ -126685,7 +130085,7 @@
       12
     ],
     "RequiredExtras": [
-      12
+      10
     ],
     "SpawnFrequency": 20.0,
     "WheelsCount": 4,
@@ -126943,7 +130343,9 @@
       11,
       12
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      10
+    ],
     "SpawnFrequency": 20.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -127573,9 +130975,7 @@
     "Extras": [
       12
     ],
-    "RequiredExtras": [
-      12
-    ],
+    "RequiredExtras": [],
     "SpawnFrequency": 20.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -128742,7 +132142,9 @@
       10,
       12
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      12
+    ],
     "SpawnFrequency": 5.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -129879,7 +133281,7 @@
       3
     ],
     "RequiredExtras": [
-      2
+      3
     ],
     "SpawnFrequency": 10.0,
     "WheelsCount": 4,
@@ -131917,7 +135319,7 @@
       5
     ],
     "RequiredExtras": [
-      5
+      4
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 0,
@@ -132099,7 +135501,7 @@
       5
     ],
     "RequiredExtras": [
-      5
+      3
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 0,
@@ -134109,7 +137511,8 @@
       6
     ],
     "RequiredExtras": [
-      1
+      1,
+      4
     ],
     "SpawnFrequency": 40.0,
     "WheelsCount": 4,
@@ -134256,7 +137659,7 @@
       2
     ],
     "RequiredExtras": [
-      2
+      1
     ],
     "SpawnFrequency": 50.0,
     "WheelsCount": 4,
@@ -134508,7 +137911,9 @@
     "Extras": [
       12
     ],
-    "RequiredExtras": [],
+    "RequiredExtras": [
+      12
+    ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4,
     "HasParachute": false,
@@ -135570,7 +138975,7 @@
       7,
       8,
       9,
-      12
+      13
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
@@ -137722,6 +141127,224 @@
     ]
   },
   {
+    "Name": "vigero2",
+    "DisplayName": null,
+    "Hash": 2536587772,
+    "SignedHash": -1758379524,
+    "HexHash": "0x973141FC",
+    "DlcName": "mpsum2",
+    "HandlingId": "VIGERO2",
+    "LayoutId": "LAYOUT_STANDARD",
+    "Manufacturer": "DECLASSE",
+    "ManufacturerDisplayName": "Declasse",
+    "Class": "MUSCLE",
+    "Type": "CAR",
+    "PlateType": "BACK_PLATES",
+    "DashboardType": "RACE",
+    "WheelType": "MUSCLE",
+    "Flags": [
+      "FLAG_EXTRAS_STRONG",
+      "FLAG_AVERAGE_CAR",
+      "FLAG_HAS_INTERIOR_EXTRAS",
+      "FLAG_CAN_HAVE_NEONS",
+      "FLAG_HAS_SUPERCHARGER"
+    ],
+    "Seats": 4,
+    "Price": 100,
+    "MonetaryValue": 25000,
+    "HasConvertibleRoof": false,
+    "HasSirens": false,
+    "Weapons": [],
+    "ModKits": [
+      "497_vigero2_modkit"
+    ],
+    "DimensionsMin": {
+      "X": -1.0983065,
+      "Y": -2.7178998,
+      "Z": -0.409768
+    },
+    "DimensionsMax": {
+      "X": 1.0983063,
+      "Y": 2.4700835,
+      "Z": 1.0562377
+    },
+    "BoundingCenter": {
+      "X": -0.0,
+      "Y": -0.010773,
+      "Z": 0.34301
+    },
+    "BoundingSphereRadius": 2.683432,
+    "Rewards": null,
+    "MaxBraking": 0.95,
+    "MaxBrakingMods": 1.05,
+    "MaxSpeed": 49.20095,
+    "MaxTraction": 2.585,
+    "Acceleration": 0.3645,
+    "Agility": 0.82449996,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0,
+    "HasArmoredWindows": false,
+    "DefaultColors": [
+      {
+        "DefaultPrimaryColor": 27,
+        "DefaultSecondaryColor": 0,
+        "DefaultPearlColor": 28,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 93,
+        "DefaultDashboardColor": 134
+      },
+      {
+        "DefaultPrimaryColor": 64,
+        "DefaultSecondaryColor": 0,
+        "DefaultPearlColor": 73,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 93,
+        "DefaultDashboardColor": 134
+      },
+      {
+        "DefaultPrimaryColor": 111,
+        "DefaultSecondaryColor": 0,
+        "DefaultPearlColor": 111,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 93,
+        "DefaultDashboardColor": 134
+      },
+      {
+        "DefaultPrimaryColor": 0,
+        "DefaultSecondaryColor": 1,
+        "DefaultPearlColor": 2,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 93,
+        "DefaultDashboardColor": 134
+      },
+      {
+        "DefaultPrimaryColor": 89,
+        "DefaultSecondaryColor": 1,
+        "DefaultPearlColor": 2,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 93,
+        "DefaultDashboardColor": 134
+      },
+      {
+        "DefaultPrimaryColor": 3,
+        "DefaultSecondaryColor": 1,
+        "DefaultPearlColor": 5,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 93,
+        "DefaultDashboardColor": 134
+      },
+      {
+        "DefaultPrimaryColor": 38,
+        "DefaultSecondaryColor": 1,
+        "DefaultPearlColor": 89,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 93,
+        "DefaultDashboardColor": 134
+      },
+      {
+        "DefaultPrimaryColor": 70,
+        "DefaultSecondaryColor": 1,
+        "DefaultPearlColor": 67,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 93,
+        "DefaultDashboardColor": 134
+      }
+    ],
+    "DefaultBodyHealth": 1000.0,
+    "DirtLevelMin": 0.0,
+    "DirtLevelMax": 0.95,
+    "Trailers": [],
+    "AdditionalTrailers": [],
+    "Extras": [],
+    "RequiredExtras": [],
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4,
+    "HasParachute": false,
+    "HasKers": false,
+    "DefaultHorn": 3940042904,
+    "DefaultHornVariation": 3,
+    "Bones": [
+      "chassis",
+      "wheel_rf",
+      "wheel_lr",
+      "wheel_rr",
+      "wheel_lf",
+      "wheelmesh_lf",
+      "wheelmesh_lf_l1",
+      "wheelmesh_lf_l2",
+      "wheelmesh_lf_ng",
+      "chassis_lowlod",
+      "engine",
+      "overheat_2",
+      "overheat",
+      "slipstream_r",
+      "slipstream_l",
+      "neon_b",
+      "neon_r",
+      "neon_l",
+      "neon_f",
+      "interiorlight",
+      "dashglow",
+      "seat_dside_f",
+      "seat_pside_f",
+      "bodyshell",
+      "hub_lf",
+      "hub_lr",
+      "windscreen_r",
+      "windscreen",
+      "steeringwheel",
+      "wing_lf",
+      "wing_rf",
+      "bonnet",
+      "boot",
+      "spoiler",
+      "mod_col_1",
+      "mod_col_2",
+      "mod_col_3",
+      "mod_col_4",
+      "window_rm",
+      "window_lm",
+      "misc_f",
+      "engineblock",
+      "misc_c",
+      "exhaust",
+      "exhaust_2",
+      "misc_g",
+      "misc_h",
+      "misc_r",
+      "bumper_f",
+      "misc_i",
+      "misc_m",
+      "bumper_r",
+      "misc_e",
+      "indicator_lr",
+      "reversinglight_l",
+      "indicator_rr",
+      "reversinglight_r",
+      "taillight_l",
+      "taillight_r",
+      "dials",
+      "hub_rr",
+      "hub_rf",
+      "platelight",
+      "suspension_lf",
+      "suspension_rf",
+      "suspension_lr",
+      "suspension_rr",
+      "door_pside_f",
+      "window_rf",
+      "misc_b",
+      "handle_pside_f",
+      "door_dside_f",
+      "window_lf",
+      "misc_a",
+      "handle_dside_f",
+      "headlight_l",
+      "headlight_r",
+      "chassis_dummy"
+    ]
+  },
+  {
     "Name": "vigilante",
     "DisplayName": "Vigilante",
     "Hash": 3052358707,
@@ -139577,8 +143200,7 @@
       12
     ],
     "RequiredExtras": [
-      1,
-      10
+      2
     ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4,
@@ -141210,7 +144832,7 @@
       12
     ],
     "RequiredExtras": [
-      11
+      12
     ],
     "SpawnFrequency": 100.0,
     "WheelsCount": 4,
@@ -141630,6 +145252,206 @@
       "misc_m_ll2",
       "bumper_f",
       "misc_n",
+      "chassis_dummy"
+    ]
+  },
+  {
+    "Name": "weevil2",
+    "DisplayName": null,
+    "Hash": 3300595976,
+    "SignedHash": -994371320,
+    "HexHash": "0xC4BB1908",
+    "DlcName": "mpsum2",
+    "HandlingId": "WEEVIL2",
+    "LayoutId": "LAYOUT_LOW_WEEVIL2",
+    "Manufacturer": "BF",
+    "ManufacturerDisplayName": "BF",
+    "Class": "MUSCLE",
+    "Type": "CAR",
+    "PlateType": "BACK_PLATES",
+    "DashboardType": "DUKES",
+    "WheelType": "MUSCLE",
+    "Flags": [
+      "FLAG_EXTRAS_ALL",
+      "FLAG",
+      "FLAG_AVERAGE_CAR",
+      "FLAG_HAS_INTERIOR_EXTRAS",
+      "FLAG_CAN_HAVE_NEONS",
+      "FLAG_HAS_SUPERCHARGER",
+      "FLAG_INCREASE_CAMBER_WITH_SUSPENSION_MOD"
+    ],
+    "Seats": 2,
+    "Price": 100,
+    "MonetaryValue": 35000,
+    "HasConvertibleRoof": false,
+    "HasSirens": false,
+    "Weapons": [],
+    "ModKits": [
+      "494_weevil2_modkit"
+    ],
+    "DimensionsMin": {
+      "X": -1.0677274,
+      "Y": -2.2928715,
+      "Z": -0.38130802
+    },
+    "DimensionsMax": {
+      "X": 1.0691923,
+      "Y": 2.0061944,
+      "Z": 1.2886095
+    },
+    "BoundingCenter": {
+      "X": 0.000732,
+      "Y": -0.090059,
+      "Z": 0.284142
+    },
+    "BoundingSphereRadius": 2.166337,
+    "Rewards": null,
+    "MaxBraking": 0.775,
+    "MaxBrakingMods": 0.875,
+    "MaxSpeed": 50.545513,
+    "MaxTraction": 2.1075,
+    "Acceleration": 0.3375,
+    "Agility": 0.71750003,
+    "MaxKnots": 0.0,
+    "MoveResistance": 0.0,
+    "HasArmoredWindows": false,
+    "DefaultColors": [
+      {
+        "DefaultPrimaryColor": 107,
+        "DefaultSecondaryColor": 107,
+        "DefaultPearlColor": 6,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 3,
+        "DefaultDashboardColor": 156
+      },
+      {
+        "DefaultPrimaryColor": 68,
+        "DefaultSecondaryColor": 68,
+        "DefaultPearlColor": 6,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 3,
+        "DefaultDashboardColor": 156
+      },
+      {
+        "DefaultPrimaryColor": 29,
+        "DefaultSecondaryColor": 29,
+        "DefaultPearlColor": 6,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 3,
+        "DefaultDashboardColor": 156
+      },
+      {
+        "DefaultPrimaryColor": 50,
+        "DefaultSecondaryColor": 50,
+        "DefaultPearlColor": 6,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 3,
+        "DefaultDashboardColor": 156
+      },
+      {
+        "DefaultPrimaryColor": 0,
+        "DefaultSecondaryColor": 0,
+        "DefaultPearlColor": 6,
+        "DefaultWheelsColor": 0,
+        "DefaultInteriorColor": 3,
+        "DefaultDashboardColor": 156
+      }
+    ],
+    "DefaultBodyHealth": 1000.0,
+    "DirtLevelMin": 0.0,
+    "DirtLevelMax": 0.775,
+    "Trailers": [],
+    "AdditionalTrailers": [],
+    "Extras": [],
+    "RequiredExtras": [],
+    "SpawnFrequency": 30.0,
+    "WheelsCount": 4,
+    "HasParachute": false,
+    "HasKers": false,
+    "DefaultHorn": 1642384610,
+    "DefaultHornVariation": 5,
+    "Bones": [
+      "chassis",
+      "platelight",
+      "mod_col_14",
+      "mod_col_13",
+      "mod_col_12",
+      "mod_col_11",
+      "mod_col_10",
+      "mod_col_9",
+      "mod_col_8",
+      "mod_col_7",
+      "mod_col_6",
+      "mod_col_5",
+      "mod_col_4",
+      "mod_col_3",
+      "mod_col_1",
+      "mod_col_2",
+      "neon_b",
+      "neon_f",
+      "neon_r",
+      "neon_l",
+      "dashglow",
+      "overheat_2",
+      "seat_dside_f",
+      "seat_pside_f",
+      "engine",
+      "overheat",
+      "interiorlight",
+      "wheel_lr",
+      "wheel_rr",
+      "wheel_rf",
+      "wheel_lf",
+      "wheelmesh_lf",
+      "wheelmesh_lf_l1",
+      "wheelmesh_lf_l2",
+      "wheelmesh_lf_ng",
+      "chassis_lowlod",
+      "slipstream_r",
+      "slipstream_l",
+      "transmission_r",
+      "mod_col_15",
+      "bodyshell",
+      "door_pside_f",
+      "handle_pside_f",
+      "window_rf",
+      "misc_i",
+      "misc_m",
+      "boot",
+      "bonnet",
+      "window_lr",
+      "window_rr",
+      "windscreen_r",
+      "windscreen",
+      "engineblock",
+      "exhaust_2",
+      "exhaust",
+      "misc_a",
+      "hub_lf",
+      "hub_lr",
+      "hub_rr",
+      "hub_rf",
+      "steeringwheel",
+      "transmission_f",
+      "misc_b",
+      "dials",
+      "door_dside_f",
+      "handle_dside_f",
+      "window_lf",
+      "misc_h",
+      "misc_l",
+      "misc_c",
+      "misc_d",
+      "misc_f",
+      "brakelight_l",
+      "misc_n",
+      "misc_g",
+      "brakelight_r",
+      "misc_o",
+      "misc_k",
+      "headlight_l",
+      "headlight_r",
+      "misc_e",
       "chassis_dummy"
     ]
   },
@@ -144488,14 +148310,14 @@
       "484_zeno_modkit"
     ],
     "DimensionsMin": {
-      "X": -1.755032,
+      "X": -1.7550317,
       "Y": -2.234233,
-      "Z": -0.786627
+      "Z": -0.78662556
     },
     "DimensionsMax": {
-      "X": 1.7550304,
+      "X": 1.7550311,
       "Y": 2.5660768,
-      "Z": 1.0999198
+      "Z": 1.0999188
     },
     "BoundingCenter": {
       "X": -1E-06,
@@ -145536,7 +149358,7 @@
       12
     ],
     "RequiredExtras": [
-      12
+      10
     ],
     "SpawnFrequency": 30.0,
     "WheelsCount": 4,

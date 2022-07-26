@@ -645,11 +645,6 @@
     "Model": "w_pi_flaregun_shell"
   },
   {
-    "Name": "PICKUP_WEAPON_COMBATPDW",
-    "Hash": 2023061218,
-    "Model": "W_SB_PDW"
-  },
-  {
     "Name": "PICKUP_WEAPON_KNUCKLE",
     "Hash": 4254904030,
     "Model": "W_ME_Knuckle"
@@ -658,6 +653,11 @@
     "Name": "PICKUP_WEAPON_MARKSMANPISTOL",
     "Hash": 2329799797,
     "Model": "W_PI_SingleShot"
+  },
+  {
+    "Name": "PICKUP_WEAPON_COMBATPDW",
+    "Hash": 2023061218,
+    "Model": "W_SB_PDW"
   },
   {
     "Name": "PICKUP_PORTABLE_CRATE_FIXED_INCAR",
@@ -768,6 +768,21 @@
     "Name": "PICKUP_WEAPON_STONE_HATCHET",
     "Hash": 3432031091,
     "Model": "w_me_Stonehatchet"
+  },
+  {
+    "Name": "PICKUP_WEAPON_METALDETECTOR",
+    "Hash": 2226947771,
+    "Model": "W_AM_Digiscanner_REH"
+  },
+  {
+    "Name": "PICKUP_WEAPON_TACTICALRIFLE",
+    "Hash": 2316705120,
+    "Model": "W_AR_CarbineRifle_REH"
+  },
+  {
+    "Name": "PICKUP_WEAPON_PRECISIONRIFLE",
+    "Hash": 2821026276,
+    "Model": "W_SR_PrecisionRifle_REH"
   },
   {
     "Name": "PICKUP_WEAPON_EMPLAUNCHER",

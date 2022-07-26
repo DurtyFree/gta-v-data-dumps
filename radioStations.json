@@ -1375,6 +1375,13 @@
     "IsHidden": true
   },
   {
+    "RadioName": "HIDDEN_RADIO_MPSUM2_NEWS",
+    "TranslatedLabel": null,
+    "Genre": "16",
+    "WheelPosition": 1000,
+    "IsHidden": true
+  },
+  {
     "RadioName": "HIDDEN_RADIO_SEC_BILLIONAIRE",
     "TranslatedLabel": {
       "Hash": 0,

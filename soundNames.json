@@ -588,6 +588,10 @@
     "AudioRef": "GTAO_FM_Events_Soundset"
   },
   {
+    "AudioName": "Text_Arrive_Tone",
+    "AudioRef": "0"
+  },
+  {
     "AudioName": "SELECT",
     "AudioRef": "HUD_FREEMODE_SOUNDSET"
   },
@@ -704,10 +708,6 @@
     "AudioRef": "THE_FERRIS_WHALE_SOUNDSET"
   },
   {
-    "AudioName": "Text_Arrive_Tone",
-    "AudioRef": "0"
-  },
-  {
     "AudioName": "ROBBERY_MONEY_TOTAL",
     "AudioRef": "HUD_FRONTEND_CUSTOM_SOUNDSET"
   },
@@ -778,6 +778,10 @@
   {
     "AudioName": "Kill_List_Counter",
     "AudioRef": "GTAO_FM_Events_Soundset"
+  },
+  {
+    "AudioName": "Change_Vehicle",
+    "AudioRef": "GTAO_Auto_Store_Sounds"
   },
   {
     "AudioName": "NAV_LEFT_RIGHT",
@@ -1576,6 +1580,10 @@
     "AudioRef": "DLC_EXEC_ARC_MAC_SOUNDS"
   },
   {
+    "AudioName": "playing_card",
+    "AudioRef": "dlc_vw_hidden_collectible_sounds"
+  },
+  {
     "AudioName": "Elevator_Start",
     "AudioRef": "DLC_IE_Garage_Elevator_Sounds"
   },
@@ -2104,6 +2112,14 @@
     "AudioRef": "0"
   },
   {
+    "AudioName": "Trunk_Open",
+    "AudioRef": "Lowrider_Super_Mod_Garage_Sounds"
+  },
+  {
+    "AudioName": "Trunk_Shut",
+    "AudioRef": "Lowrider_Super_Mod_Garage_Sounds"
+  },
+  {
     "AudioName": "Hood_Open",
     "AudioRef": "Lowrider_Super_Mod_Garage_Sounds"
   },
@@ -2156,15 +2172,7 @@
     "AudioRef": "0"
   },
   {
-    "AudioName": "Trunk_Open",
-    "AudioRef": "Lowrider_Super_Mod_Garage_Sounds"
-  },
-  {
     "AudioName": "Hydraulics_Up",
-    "AudioRef": "Lowrider_Super_Mod_Garage_Sounds"
-  },
-  {
-    "AudioName": "Trunk_Shut",
     "AudioRef": "Lowrider_Super_Mod_Garage_Sounds"
   },
   {
@@ -3876,6 +3884,10 @@
     "AudioRef": "Car_Club_Races_Street_Race_Sounds"
   },
   {
+    "AudioName": "Checkpoint_Finish",
+    "AudioRef": "Island_Race_Soundset"
+  },
+  {
     "AudioName": "Checkpoint_Lap",
     "AudioRef": "DLC_AW_Frontend_Sounds"
   },
@@ -3894,6 +3906,10 @@
   {
     "AudioName": "Checkpoint_Lap",
     "AudioRef": "Car_Club_Races_Street_Race_Sounds"
+  },
+  {
+    "AudioName": "Checkpoint_Lap",
+    "AudioRef": "Island_Race_Soundset"
   },
   {
     "AudioName": "Orientation_Success",
@@ -3926,6 +3942,10 @@
   {
     "AudioName": "Checkpoint",
     "AudioRef": "Car_Club_Races_Street_Race_Sounds"
+  },
+  {
+    "AudioName": "Checkpoint",
+    "AudioRef": "Island_Race_Soundset"
   },
   {
     "AudioName": "CHECKPOINT_AHEAD",
@@ -4064,6 +4084,10 @@
     "AudioRef": "Car_Club_Races_Street_Race_Sounds"
   },
   {
+    "AudioName": "Countdown_321",
+    "AudioRef": "Island_Race_Soundset"
+  },
+  {
     "AudioName": "Countdown_2",
     "AudioRef": "0"
   },
@@ -4078,6 +4102,10 @@
   {
     "AudioName": "Go",
     "AudioRef": "Car_Club_Races_Street_Race_Sounds"
+  },
+  {
+    "AudioName": "Countdown_Go",
+    "AudioRef": "Island_Race_Soundset"
   },
   {
     "AudioName": "Open_Wheel_Racing_Start_Lights_Sounds",
@@ -4184,6 +4212,10 @@
     "AudioRef": "DLC_SR_RS_Enemy_Sounds"
   },
   {
+    "AudioName": "Metal_Detector_Unlocked_Shard",
+    "AudioRef": "Tuner_Hidden_Collectibles_MD_Sounds"
+  },
+  {
     "AudioName": "shard",
     "AudioRef": "dlc_vw_hidden_collectible_sounds"
   },
@@ -4229,6 +4261,10 @@
   },
   {
     "AudioName": "YES",
+    "AudioRef": "0"
+  },
+  {
+    "AudioName": "NAV_LEFT_RIGHT",
     "AudioRef": "0"
   },
   {
@@ -4324,16 +4360,76 @@
     "AudioRef": "DLC_HEIST_HACKING_SNAKE_SOUNDS"
   },
   {
-    "AudioName": "PRM2_BEDROOM_AMANDA_SNORE_MASTER",
-    "AudioRef": "0"
+    "AudioName": "collect_keys",
+    "AudioRef": "dlc_vw_recover_luxury_car_sounds"
   },
   {
-    "AudioName": "Phone_Text_Arrive",
-    "AudioRef": "DLC_H4_MM_Sounds"
+    "AudioName": "Push",
+    "AudioRef": "GTAO_APT_DOOR_DOWNSTAIRS_WOOD_SOUNDS"
   },
   {
     "AudioName": "Barge_Door",
     "AudioRef": "dlc_h4_Prep_FC_Sounds"
+  },
+  {
+    "AudioName": "Attach",
+    "AudioRef": "GTAO_Bomb_Plant_Sounds"
+  },
+  {
+    "AudioName": "Explosion_External",
+    "AudioRef": "DLC_SECURITY_TAIL_AND_DESTROY_Sounds"
+  },
+  {
+    "AudioName": "Explosion_Internal",
+    "AudioRef": "DLC_SECURITY_TAIL_AND_DESTROY_Sounds"
+  },
+  {
+    "AudioName": "PICKUP_DEFAULT",
+    "AudioRef": "HUD_FRONTEND_STANDARD_PICKUPS_SOUNDSET"
+  },
+  {
+    "AudioName": "Barge_Door_Metal",
+    "AudioRef": "dlc_h4_Prep_FC_Sounds"
+  },
+  {
+    "AudioName": "PICK_UP_MONEY",
+    "AudioRef": "HUD_FRONTEND_CUSTOM_SOUNDSET"
+  },
+  {
+    "AudioName": "Collect_Weapon_Component",
+    "AudioRef": "Crime_Scene_Sounds"
+  },
+  {
+    "AudioName": "PRM2_BEDROOM_AMANDA_SNORE_MASTER",
+    "AudioRef": "0"
+  },
+  {
+    "AudioName": "Software_Installing_Loop",
+    "AudioRef": "DLC_Security_Investigations_Setup_Sounds"
+  },
+  {
+    "AudioName": "Hack_Stop",
+    "AudioRef": "dlc_xm_deluxos_hacking_Hacking_Sounds"
+  },
+  {
+    "AudioName": "Software_Installing_Success",
+    "AudioRef": "DLC_Security_Investigations_Setup_Sounds"
+  },
+  {
+    "AudioName": "Hack_Start",
+    "AudioRef": "dlc_xm_deluxos_hacking_Hacking_Sounds"
+  },
+  {
+    "AudioName": "Hack_Loop",
+    "AudioRef": "dlc_xm_deluxos_hacking_Hacking_Sounds"
+  },
+  {
+    "AudioName": "Hack_Complete",
+    "AudioRef": "dlc_xm_deluxos_hacking_Hacking_Sounds"
+  },
+  {
+    "AudioName": "Phone_Text_Arrive",
+    "AudioRef": "DLC_H4_MM_Sounds"
   },
   {
     "AudioName": "Push",
@@ -4345,10 +4441,6 @@
   },
   {
     "AudioName": "Use_Fuse_Box_Off",
-    "AudioRef": "dlc_h4_Prep_FC_Sounds"
-  },
-  {
-    "AudioName": "Barge_Door_Metal",
     "AudioRef": "dlc_h4_Prep_FC_Sounds"
   },
   {
@@ -4372,8 +4464,24 @@
     "AudioRef": "GTAO_Heists_HUD_Sounds"
   },
   {
+    "AudioName": "Metal_Detector_Unequip",
+    "AudioRef": "Island_Metal_Detector"
+  },
+  {
+    "AudioName": "Metal_Detector_equip",
+    "AudioRef": "Island_Metal_Detector"
+  },
+  {
+    "AudioName": "Metal_Detector_Scanner",
+    "AudioRef": "Island_Metal_Detector"
+  },
+  {
     "AudioName": "Zoom",
     "AudioRef": "MP_CCTV_SOUNDSET"
+  },
+  {
+    "AudioName": "Collect_Money",
+    "AudioRef": "Island_Metal_Detector"
   },
   {
     "AudioName": "movie_prop",
@@ -4388,15 +4496,7 @@
     "AudioRef": "0"
   },
   {
-    "AudioName": "Push",
-    "AudioRef": "GTAO_APT_DOOR_DOWNSTAIRS_WOOD_SOUNDS"
-  },
-  {
     "AudioName": "Destroy",
-    "AudioRef": "DLC_SECURITY_TAIL_AND_DESTROY_Sounds"
-  },
-  {
-    "AudioName": "Explosion_Internal",
     "AudioRef": "DLC_SECURITY_TAIL_AND_DESTROY_Sounds"
   },
   {
@@ -4416,10 +4516,6 @@
     "AudioRef": "DLC_SECURITY_TAIL_AND_DESTROY_Sounds"
   },
   {
-    "AudioName": "Explosion_External",
-    "AudioRef": "DLC_SECURITY_TAIL_AND_DESTROY_Sounds"
-  },
-  {
     "AudioName": "Metal_Door_Push",
     "AudioRef": "GTAO_Script_Doors_Sounds"
   },
@@ -4434,6 +4530,42 @@
   {
     "AudioName": "Collect_Pass",
     "AudioRef": "PrSCRV_Elevator_Pass_Sounds"
+  },
+  {
+    "AudioName": "Deploy_Parachute",
+    "AudioRef": "Junk_Energy_Skydive_Soundset"
+  },
+  {
+    "AudioName": "Checkpoint_Missed",
+    "AudioRef": "Junk_Energy_Skydive_Soundset"
+  },
+  {
+    "AudioName": "Checkpoint",
+    "AudioRef": "Junk_Energy_Skydive_Soundset"
+  },
+  {
+    "AudioName": "Countdown_Go",
+    "AudioRef": "Junk_Energy_Skydive_Soundset"
+  },
+  {
+    "AudioName": "Countdown_123",
+    "AudioRef": "Junk_Energy_Skydive_Soundset"
+  },
+  {
+    "AudioName": "Finish_Gold",
+    "AudioRef": "Junk_Energy_Skydive_Soundset"
+  },
+  {
+    "AudioName": "Finish",
+    "AudioRef": "Junk_Energy_Skydive_Soundset"
+  },
+  {
+    "AudioName": "Free_Fall_Loop",
+    "AudioRef": "Junk_Energy_Skydive_Soundset"
+  },
+  {
+    "AudioName": "Jump",
+    "AudioRef": "Junk_Energy_Skydive_Soundset"
   },
   {
     "AudioName": "FE_Spawn",
@@ -4520,6 +4652,22 @@
     "AudioRef": "DLC_Tuner_Halloween_Clown_Soundset"
   },
   {
+    "AudioName": "FE_Spawn",
+    "AudioRef": "Freemode_Mirror_Slash_sounds"
+  },
+  {
+    "AudioName": "Ingame_Spawn",
+    "AudioRef": "Freemode_Mirror_Slash_sounds"
+  },
+  {
+    "AudioName": "FE_Despawn",
+    "AudioRef": "Freemode_Mirror_Slash_sounds"
+  },
+  {
+    "AudioName": "Ingame_Despawn",
+    "AudioRef": "Freemode_Mirror_Slash_sounds"
+  },
+  {
     "AudioName": "Attach",
     "AudioRef": "Prep_Signal_Jammers_Sounds"
   },
@@ -4542,14 +4690,6 @@
   {
     "AudioName": "Upload_Complete",
     "AudioRef": "DLC_Security_Investigations_The_Limo_Sounds"
-  },
-  {
-    "AudioName": "Software_Installing_Loop",
-    "AudioRef": "DLC_Security_Investigations_Setup_Sounds"
-  },
-  {
-    "AudioName": "Software_Installing_Success",
-    "AudioRef": "DLC_Security_Investigations_Setup_Sounds"
   },
   {
     "AudioName": "Focus",
@@ -4584,6 +4724,10 @@
     "AudioRef": "MP_MISSION_COUNTDOWN_SOUNDSET"
   },
   {
+    "AudioName": "Screen_Flash_Start",
+    "AudioRef": "Deathmatch_Sounds"
+  },
+  {
     "AudioName": "Start",
     "AudioRef": "DLC_AW_Frontend_Sounds"
   },
@@ -4594,6 +4738,10 @@
   {
     "AudioName": "Finish_Default",
     "AudioRef": "DLC_AW_Frontend_Sounds"
+  },
+  {
+    "AudioName": "Weapon_Force_Change_Smoke",
+    "AudioRef": "Deathmatch_Sounds"
   },
   {
     "AudioName": "Countdown_GO",
@@ -4632,6 +4780,10 @@
     "AudioRef": "0"
   },
   {
+    "AudioName": "Out_of_Bounds_Explode",
+    "AudioRef": "MP_MISSION_COUNTDOWN_SOUNDSET"
+  },
+  {
     "AudioName": "PowerupShard_Attract_Loop",
     "AudioRef": "Go_Kart_Death_Match_Soundset"
   },
@@ -4658,10 +4810,6 @@
   {
     "AudioName": "Powerup_Block_Loop",
     "AudioRef": "Go_Kart_Death_Match_Soundset"
-  },
-  {
-    "AudioName": "Out_of_Bounds_Explode",
-    "AudioRef": "MP_MISSION_COUNTDOWN_SOUNDSET"
   },
   {
     "AudioName": "Bomb_Countdown",
@@ -5484,18 +5632,6 @@
     "AudioRef": "DLC_HEIST_BIOLAB_DELIVER_EMP_SOUNDS"
   },
   {
-    "AudioName": "Hack_Loop",
-    "AudioRef": "dlc_xm_deluxos_hacking_Hacking_Sounds"
-  },
-  {
-    "AudioName": "Hack_Start",
-    "AudioRef": "dlc_xm_deluxos_hacking_Hacking_Sounds"
-  },
-  {
-    "AudioName": "Hack_Stop",
-    "AudioRef": "dlc_xm_deluxos_hacking_Hacking_Sounds"
-  },
-  {
     "AudioName": "Hack_Stop",
     "AudioRef": "DLC_IE_SVM_Voltic2_Hacking_Sounds"
   },
@@ -5542,10 +5678,6 @@
   {
     "AudioName": "Plane_Alarm_Loop",
     "AudioRef": "DLC_GR_WVM_Oppressor2_Sounds"
-  },
-  {
-    "AudioName": "Hack_Complete",
-    "AudioRef": "dlc_xm_deluxos_hacking_Hacking_Sounds"
   },
   {
     "AudioName": "lights_on",
@@ -5956,12 +6088,20 @@
     "AudioRef": "0"
   },
   {
-    "AudioName": "Pit_Stop_Complete",
-    "AudioRef": "DLC_H3_Circuit_Racing_Sounds"
+    "AudioName": "Round_Win",
+    "AudioRef": "Halloween_Adversary_Sounds"
   },
   {
-    "AudioName": "dlc_ch_heist_finale_HEALTH_DRAIN_ZONE_coughs_sounds",
-    "AudioRef": "0"
+    "AudioName": "Round_Lost",
+    "AudioRef": "Halloween_Adversary_Sounds"
+  },
+  {
+    "AudioName": "GPS_Set",
+    "AudioRef": "DLC_Security_Investigation_The_Yacht_Sounds"
+  },
+  {
+    "AudioName": "Pit_Stop_Complete",
+    "AudioRef": "DLC_H3_Circuit_Racing_Sounds"
   },
   {
     "AudioName": "Overheat_Loop",
@@ -6052,6 +6192,22 @@
     "AudioRef": "DLC_Security_Data_Leak_2_Sounds"
   },
   {
+    "AudioName": "Bump",
+    "AudioRef": "0"
+  },
+  {
+    "AudioName": "Flight_loop",
+    "AudioRef": "0"
+  },
+  {
+    "AudioName": "Self_Destruct",
+    "AudioRef": "0"
+  },
+  {
+    "AudioName": "Gun_Fire",
+    "AudioRef": "0"
+  },
+  {
     "AudioName": "Remove_Keycard",
     "AudioRef": "Twin_Card_Entry_Sounds"
   },
@@ -6076,8 +6232,48 @@
     "AudioRef": "DLC_Security_Data_Leak_3_Hood_Pass_Sounds"
   },
   {
+    "AudioName": "Bomb_Arm",
+    "AudioRef": "DLC_MPSUM2_ULP2_Rogue_Drones"
+  },
+  {
+    "AudioName": "Bomb_Countdown_Beep",
+    "AudioRef": "DLC_MPSUM2_ULP2_Rogue_Drones"
+  },
+  {
+    "AudioName": "Bomb_Defuse",
+    "AudioRef": "DLC_MPSUM2_ULP2_Rogue_Drones"
+  },
+  {
+    "AudioName": "Bomb_Detonate",
+    "AudioRef": "DLC_MPSUM2_ULP2_Rogue_Drones"
+  },
+  {
     "AudioName": "Generic_Door_Push",
     "AudioRef": "GTAO_Script_Doors_Sounds"
+  },
+  {
+    "AudioName": "player_drugged_loop",
+    "AudioRef": "DLC_MPSUM2_ULP2_Rogue_Drones"
+  },
+  {
+    "AudioName": "Riders_Start",
+    "AudioRef": "Halloween_Adversary_Sounds"
+  },
+  {
+    "AudioName": "Hunted_Start",
+    "AudioRef": "Halloween_Adversary_Sounds"
+  },
+  {
+    "AudioName": "Thermal_Vision_Loop",
+    "AudioRef": "Halloween_Adversary_Sounds"
+  },
+  {
+    "AudioName": "Hunted_Resurrected",
+    "AudioRef": "Halloween_Adversary_Sounds"
+  },
+  {
+    "AudioName": "Motor_01",
+    "AudioRef": "FREIGHT_ELEVATOR_SOUNDS"
   },
   {
     "AudioName": "Fake_Close",
@@ -6088,8 +6284,16 @@
     "AudioRef": "Union_Depository_Elevator_Sounds"
   },
   {
+    "AudioName": "Flight_Loop",
+    "AudioRef": "DLC_BTL_Drone_Sounds"
+  },
+  {
     "AudioName": "Fake_Arrival",
     "AudioRef": "Union_Depository_Elevator_Sounds"
+  },
+  {
+    "AudioName": "dlc_ch_heist_finale_HEALTH_DRAIN_ZONE_coughs_sounds",
+    "AudioRef": "0"
   },
   {
     "AudioName": "Hang_Up",
@@ -6140,8 +6344,36 @@
     "AudioRef": "0"
   },
   {
+    "AudioName": "Match_Intro",
+    "AudioRef": "Halloween_Adversary_Sounds"
+  },
+  {
     "AudioName": "Pickup_Keyring",
     "AudioRef": "dlc_h4_heist_finale_sounds_soundset"
+  },
+  {
+    "AudioName": "Rider_War_Loop",
+    "AudioRef": "Halloween_Adversary_Sounds"
+  },
+  {
+    "AudioName": "Rider_Death_Loop",
+    "AudioRef": "Halloween_Adversary_Sounds"
+  },
+  {
+    "AudioName": "Rider_Pestilence_Loop",
+    "AudioRef": "Halloween_Adversary_Sounds"
+  },
+  {
+    "AudioName": "Rider_Famine_Loop",
+    "AudioRef": "Halloween_Adversary_Sounds"
+  },
+  {
+    "AudioName": "Hunted_Heartbeat",
+    "AudioRef": "Halloween_Adversary_Sounds"
+  },
+  {
+    "AudioName": "Rider_Die",
+    "AudioRef": "Halloween_Adversary_Sounds"
   },
   {
     "AudioName": "Distant_Roar",
@@ -6198,10 +6430,6 @@
   {
     "AudioName": "Pickup_Standard",
     "AudioRef": "GTAO_Biker_Modes_Soundset"
-  },
-  {
-    "AudioName": "playing_card",
-    "AudioRef": "dlc_vw_hidden_collectible_sounds"
   },
   {
     "AudioName": "dlc_vw_hidden_collectible_sounds",
@@ -6298,6 +6526,14 @@
   {
     "AudioName": "attract",
     "AudioRef": "dlc_ch_hidden_collectibles_sj_sounds"
+  },
+  {
+    "AudioName": "Collect_Trick",
+    "AudioRef": "Trick_Or_Treat_sounds"
+  },
+  {
+    "AudioName": "Collect_Treat",
+    "AudioRef": "Trick_Or_Treat_sounds"
   },
   {
     "AudioName": "Sonar_Pulse_No_Target",
@@ -6410,6 +6646,10 @@
   {
     "AudioName": "5_SEC_WARNING",
     "AudioRef": "HUD_MINI_GAME_SOUNDSET"
+  },
+  {
+    "AudioName": "ERROR",
+    "AudioRef": "HUD_FRONTEND_MP_SOUNDSET"
   },
   {
     "AudioName": "RANK_UP",

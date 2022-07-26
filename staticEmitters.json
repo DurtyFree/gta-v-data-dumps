@@ -7020,6 +7020,66 @@
     "RadioStation": null
   },
   {
+    "Name": "se_mp_garage_m_radio",
+    "Position": {
+      "X": 202.23,
+      "Y": -994.03,
+      "Z": -98.65
+    },
+    "Flags": "0xAA041411",
+    "Interior": "v_garagem",
+    "Room": "v_garagem_gtamloroom002",
+    "RadioStation": "radio_03_hiphop_new"
+  },
+  {
+    "Name": "se_xm_int_01_avngr_radio",
+    "Position": {
+      "X": 520.0,
+      "Y": 4748.0,
+      "Z": -69.0
+    },
+    "Flags": "0xAA041501",
+    "Interior": "xm_x17dlc_int_01",
+    "Room": "xm_x17dlc_int_01_gtamloroom001",
+    "RadioStation": "radio_21_dlc_xm17"
+  },
+  {
+    "Name": "se_xm_int_02_lounge_radio",
+    "Position": {
+      "X": 361.0,
+      "Y": 4840.0,
+      "Z": -59.0
+    },
+    "Flags": "0xAA041411",
+    "Interior": "xm_x17dlc_int_02",
+    "Room": "xm_x17dlc_int_02_int02_base_data",
+    "RadioStation": "radio_21_dlc_xm17"
+  },
+  {
+    "Name": "se_xm_int_02_bedroom_radio",
+    "Position": {
+      "X": 368.0,
+      "Y": 4823.0,
+      "Z": -59.0
+    },
+    "Flags": "0xAA041511",
+    "Interior": "xm_x17dlc_int_02",
+    "Room": "xm_x17dlc_int_02_int02_base_bedrom",
+    "RadioStation": "radio_21_dlc_xm17"
+  },
+  {
+    "Name": "se_xm_x17dlc_int_sub_stream",
+    "Position": {
+      "X": 513.0,
+      "Y": 4861.5,
+      "Z": -62.6
+    },
+    "Flags": "0xAA044101",
+    "Interior": "xm_x17dlc_int_sub",
+    "Room": "xm_x17dlc_int_sub_rm_command",
+    "RadioStation": null
+  },
+  {
     "Name": "se_dlc_aw_arena_crowd_background_main",
     "Position": {
       "X": 2800.0,
@@ -7114,150 +7174,6 @@
     "Interior": "xs_x18_int_mod2",
     "Room": "xs_x18_int_mod2_mod2_room",
     "RadioStation": "radio_14_dance_02"
-  },
-  {
-    "Name": "se_mp_garage_m_radio",
-    "Position": {
-      "X": 202.23,
-      "Y": -994.03,
-      "Z": -98.65
-    },
-    "Flags": "0xAA041411",
-    "Interior": "v_garagem",
-    "Room": "v_garagem_gtamloroom002",
-    "RadioStation": "radio_03_hiphop_new"
-  },
-  {
-    "Name": "se_xm_int_01_avngr_radio",
-    "Position": {
-      "X": 520.0,
-      "Y": 4748.0,
-      "Z": -69.0
-    },
-    "Flags": "0xAA041501",
-    "Interior": "xm_x17dlc_int_01",
-    "Room": "xm_x17dlc_int_01_gtamloroom001",
-    "RadioStation": "radio_21_dlc_xm17"
-  },
-  {
-    "Name": "se_xm_int_02_lounge_radio",
-    "Position": {
-      "X": 361.0,
-      "Y": 4840.0,
-      "Z": -59.0
-    },
-    "Flags": "0xAA041411",
-    "Interior": "xm_x17dlc_int_02",
-    "Room": "xm_x17dlc_int_02_int02_base_data",
-    "RadioStation": "radio_21_dlc_xm17"
-  },
-  {
-    "Name": "se_xm_int_02_bedroom_radio",
-    "Position": {
-      "X": 368.0,
-      "Y": 4823.0,
-      "Z": -59.0
-    },
-    "Flags": "0xAA041511",
-    "Interior": "xm_x17dlc_int_02",
-    "Room": "xm_x17dlc_int_02_int02_base_bedrom",
-    "RadioStation": "radio_21_dlc_xm17"
-  },
-  {
-    "Name": "se_xm_x17dlc_int_sub_stream",
-    "Position": {
-      "X": 513.0,
-      "Y": 4861.5,
-      "Z": -62.6
-    },
-    "Flags": "0xAA044101",
-    "Interior": "xm_x17dlc_int_sub",
-    "Room": "xm_x17dlc_int_sub_rm_command",
-    "RadioStation": null
-  },
-  {
-    "Name": "dlc_h3_arcade_main_area_music_emitter",
-    "Position": {
-      "X": 2721.0,
-      "Y": -381.0,
-      "Z": -48.0
-    },
-    "Flags": "0xAA041501",
-    "Interior": "ch_dlc_arcade",
-    "Room": "ch_dlc_arcade_mainw_rm",
-    "RadioStation": "hidden_radio_arcade_edm"
-  },
-  {
-    "Name": "dlc_h3_arcade_planning_room_radio_emitter",
-    "Position": {
-      "X": 2717.0,
-      "Y": -363.0,
-      "Z": -53.3
-    },
-    "Flags": "0xAA041401",
-    "Interior": "ch_dlc_plan",
-    "Room": "ch_dlc_plan_main_rm",
-    "RadioStation": "hidden_radio_arcade_edm"
-  },
-  {
-    "Name": "dlc_h3_fm_prep_explosives_radio",
-    "Position": {
-      "X": 1742.0,
-      "Y": 3863.0,
-      "Z": 36.0
-    },
-    "Flags": "0xAA045411",
-    "Interior": null,
-    "Room": null,
-    "RadioStation": "HIDDEN_RADIO_06_COUNTRY"
-  },
-  {
-    "Name": "dlc_h3_fm_cashier_radio_01",
-    "Position": {
-      "X": -1226.0,
-      "Y": 622.0,
-      "Z": 138.0
-    },
-    "Flags": "0xAA045411",
-    "Interior": null,
-    "Room": null,
-    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
-  },
-  {
-    "Name": "dlc_h3_fm_cashier_radio_02",
-    "Position": {
-      "X": -1221.0,
-      "Y": 628.0,
-      "Z": 138.0
-    },
-    "Flags": "0xAA045411",
-    "Interior": null,
-    "Room": null,
-    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
-  },
-  {
-    "Name": "dlc_h3_fm_cashier_radio_03",
-    "Position": {
-      "X": -1985.0,
-      "Y": 246.0,
-      "Z": 87.0
-    },
-    "Flags": "0xAA045411",
-    "Interior": null,
-    "Room": null,
-    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
-  },
-  {
-    "Name": "dlc_h3_fm_cashier_radio_04",
-    "Position": {
-      "X": -1984.0,
-      "Y": 228.0,
-      "Z": 87.0
-    },
-    "Flags": "0xAA045411",
-    "Interior": null,
-    "Room": null,
-    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
   },
   {
     "Name": "dlc_h4_se_mpjo",
@@ -7474,6 +7390,90 @@
     "Interior": null,
     "Room": null,
     "RadioStation": "radio_30_dlc_hei4_mix1_reverb"
+  },
+  {
+    "Name": "dlc_h3_arcade_main_area_music_emitter",
+    "Position": {
+      "X": 2721.0,
+      "Y": -381.0,
+      "Z": -48.0
+    },
+    "Flags": "0xAA041501",
+    "Interior": "ch_dlc_arcade",
+    "Room": "ch_dlc_arcade_mainw_rm",
+    "RadioStation": "hidden_radio_arcade_edm"
+  },
+  {
+    "Name": "dlc_h3_arcade_planning_room_radio_emitter",
+    "Position": {
+      "X": 2717.0,
+      "Y": -363.0,
+      "Z": -53.3
+    },
+    "Flags": "0xAA041401",
+    "Interior": "ch_dlc_plan",
+    "Room": "ch_dlc_plan_main_rm",
+    "RadioStation": "hidden_radio_arcade_edm"
+  },
+  {
+    "Name": "dlc_h3_fm_prep_explosives_radio",
+    "Position": {
+      "X": 1742.0,
+      "Y": 3863.0,
+      "Z": 36.0
+    },
+    "Flags": "0xAA045411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "HIDDEN_RADIO_06_COUNTRY"
+  },
+  {
+    "Name": "dlc_h3_fm_cashier_radio_01",
+    "Position": {
+      "X": -1226.0,
+      "Y": 622.0,
+      "Z": 138.0
+    },
+    "Flags": "0xAA045411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
+  },
+  {
+    "Name": "dlc_h3_fm_cashier_radio_02",
+    "Position": {
+      "X": -1221.0,
+      "Y": 628.0,
+      "Z": 138.0
+    },
+    "Flags": "0xAA045411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
+  },
+  {
+    "Name": "dlc_h3_fm_cashier_radio_03",
+    "Position": {
+      "X": -1985.0,
+      "Y": 246.0,
+      "Z": 87.0
+    },
+    "Flags": "0xAA045411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
+  },
+  {
+    "Name": "dlc_h3_fm_cashier_radio_04",
+    "Position": {
+      "X": -1984.0,
+      "Y": 228.0,
+      "Z": 87.0
+    },
+    "Flags": "0xAA045411",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01"
   },
   {
     "Name": "se_dmod_trailer_radio",
@@ -8806,6 +8806,18 @@
     "Interior": "vw_dlc_casino_main",
     "Room": "vw_dlc_casino_main_rm_bettingroom",
     "RadioStation": "hidden_radio_casino"
+  },
+  {
+    "Name": "dlc_mpsum2_auto_store_music",
+    "Position": {
+      "X": -786.0,
+      "Y": -238.0,
+      "Z": 38.8
+    },
+    "Flags": "0xAA041401",
+    "Interior": null,
+    "Room": null,
+    "RadioStation": "radio_22_dlc_battle_mix1_radio"
   },
   {
     "Name": "dlc_tuner_meet_building_engines",

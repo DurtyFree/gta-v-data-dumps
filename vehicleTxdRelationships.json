@@ -233,6 +233,7 @@
   {
     "Name": "vehicles_schaf_interior",
     "VehicleModels": [
+      null,
       null
     ]
   },
@@ -2190,6 +2191,7 @@
   {
     "Name": "vehicles_itali_w_interior",
     "VehicleModels": [
+      null,
       null
     ]
   },
@@ -4393,6 +4395,7 @@
   {
     "Name": "vehicles_jugular_interior",
     "VehicleModels": [
+      null,
       null
     ]
   },
@@ -4700,6 +4703,120 @@
   },
   {
     "Name": "coquette4",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_sm277_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "omnisegt",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "sentinel4",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "brioso3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "kanjosj",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "rhinehart",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "greenwood",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "ruiner4",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "corsita",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "lm87",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "torero2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "tenf",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "tenf2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "weevil2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vigero2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "draugur",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "sm722",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "postlude",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "conada",
     "VehicleModels": [
       null
     ]

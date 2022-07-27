@@ -15640,7 +15640,7 @@
   },
   {
     "Name": "brioso3",
-    "DisplayName": null,
+    "DisplayName": "Brioso 300 Widebody",
     "Hash": 15214558,
     "SignedHash": 15214558,
     "HexHash": "0xE827DE",
@@ -29645,7 +29645,7 @@
   },
   {
     "Name": "conada",
-    "DisplayName": null,
+    "DisplayName": "Conada",
     "Hash": 3817135397,
     "SignedHash": -477831899,
     "HexHash": "0xE384DD25",
@@ -30951,7 +30951,7 @@
   },
   {
     "Name": "corsita",
-    "DisplayName": null,
+    "DisplayName": "Corsita",
     "Hash": 3540279623,
     "SignedHash": -754687673,
     "HexHash": "0xD3046147",
@@ -38083,7 +38083,7 @@
   },
   {
     "Name": "draugur",
-    "DisplayName": null,
+    "DisplayName": "Draugur",
     "Hash": 3526730918,
     "SignedHash": -768236378,
     "HexHash": "0xD235A4A6",
@@ -54507,7 +54507,7 @@
   },
   {
     "Name": "greenwood",
-    "DisplayName": null,
+    "DisplayName": "Greenwood",
     "Hash": 40817712,
     "SignedHash": 40817712,
     "HexHash": "0x26ED430",
@@ -68065,7 +68065,7 @@
   },
   {
     "Name": "kanjosj",
-    "DisplayName": null,
+    "DisplayName": "Kanjo SJ",
     "Hash": 4230891418,
     "SignedHash": -64075878,
     "HexHash": "0xFC2E479A",
@@ -71188,7 +71188,7 @@
   },
   {
     "Name": "lm87",
-    "DisplayName": null,
+    "DisplayName": "LM87",
     "Hash": 4284049613,
     "SignedHash": -10917683,
     "HexHash": "0xFF5968CD",
@@ -83043,7 +83043,7 @@
   },
   {
     "Name": "omnisegt",
-    "DisplayName": null,
+    "DisplayName": "Omnis e-GT",
     "Hash": 3789743831,
     "SignedHash": -505223465,
     "HexHash": "0xE1E2E6D7",
@@ -92419,7 +92419,7 @@
   },
   {
     "Name": "postlude",
-    "DisplayName": null,
+    "DisplayName": "Postlude",
     "Hash": 4000288633,
     "SignedHash": -294678663,
     "HexHash": "0xEE6F8F79",
@@ -100437,7 +100437,7 @@
   },
   {
     "Name": "rhinehart",
-    "DisplayName": null,
+    "DisplayName": "Rhinehart",
     "Hash": 2439462158,
     "SignedHash": -1855505138,
     "HexHash": "0x91673D0E",
@@ -103560,7 +103560,7 @@
   },
   {
     "Name": "ruiner4",
-    "DisplayName": null,
+    "DisplayName": "Ruiner",
     "Hash": 1706945532,
     "SignedHash": 1706945532,
     "HexHash": "0x65BDEBFC",
@@ -112347,7 +112347,7 @@
   },
   {
     "Name": "sentinel4",
-    "DisplayName": null,
+    "DisplayName": "Sentinel Classic Widebody",
     "Hash": 2938086457,
     "SignedHash": -1356880839,
     "HexHash": "0xAF1FA439",
@@ -115672,7 +115672,7 @@
   },
   {
     "Name": "sm722",
-    "DisplayName": null,
+    "DisplayName": "SM722",
     "Hash": 775514032,
     "SignedHash": 775514032,
     "HexHash": "0x2E3967B0",
@@ -127087,7 +127087,7 @@
   },
   {
     "Name": "tenf",
-    "DisplayName": null,
+    "DisplayName": "10F",
     "Hash": 3400983137,
     "SignedHash": -893984159,
     "HexHash": "0xCAB6E261",
@@ -127274,7 +127274,7 @@
   },
   {
     "Name": "tenf2",
-    "DisplayName": null,
+    "DisplayName": "10F Widebody",
     "Hash": 274946574,
     "SignedHash": 274946574,
     "HexHash": "0x10635A0E",
@@ -129682,7 +129682,7 @@
   },
   {
     "Name": "torero2",
-    "DisplayName": null,
+    "DisplayName": "Torero XO",
     "Hash": 4129572538,
     "SignedHash": -165394758,
     "HexHash": "0xF62446BA",
@@ -141128,7 +141128,7 @@
   },
   {
     "Name": "vigero2",
-    "DisplayName": null,
+    "DisplayName": "Vigero ZX",
     "Hash": 2536587772,
     "SignedHash": -1758379524,
     "HexHash": "0x973141FC",
@@ -145257,7 +145257,7 @@
   },
   {
     "Name": "weevil2",
-    "DisplayName": null,
+    "DisplayName": "Weevil Custom",
     "Hash": 3300595976,
     "SignedHash": -994371320,
     "HexHash": "0xC4BB1908",

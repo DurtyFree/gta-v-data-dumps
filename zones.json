@@ -5611,7 +5611,7 @@
   },
   {
     "Name": "IsHeistZone",
-    "DisplayName": "Island",
+    "DisplayName": null,
     "Bounds": [
       {
         "Minimum": {

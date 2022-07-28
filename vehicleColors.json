@@ -81,7 +81,7 @@
         "Polish": "Brak",
         "Name": null,
         "TraditionalChinese": "無",
-        "SimplifiedChinese": null,
+        "SimplifiedChinese": "无",
         "Spanish": "De serie"
       }
     },
@@ -99,7 +99,7 @@
         "Polish": "Lekko przydymione",
         "Name": "CMOD_WIN_1",
         "TraditionalChinese": "淡色煙霧",
-        "SimplifiedChinese": null,
+        "SimplifiedChinese": "浅色烟雾",
         "Spanish": "Ahumado claro"
       }
     },
@@ -117,7 +117,7 @@
         "Polish": "Mocno przydymione",
         "Name": "CMOD_WIN_2",
         "TraditionalChinese": "深色煙霧",
-        "SimplifiedChinese": null,
+        "SimplifiedChinese": "深色烟雾",
         "Spanish": "Ahumado oscuro"
       }
     },
@@ -135,7 +135,7 @@
         "Polish": "Limuzynowe",
         "Name": "CMOD_WIN_3",
         "TraditionalChinese": "長形禮車",
-        "SimplifiedChinese": null,
+        "SimplifiedChinese": "礼车",
         "Spanish": "Limusina"
       }
     },
@@ -153,7 +153,7 @@
         "Polish": "Barwione",
         "Name": "CMOD_WIN_4",
         "TraditionalChinese": "調色",
-        "SimplifiedChinese": null,
+        "SimplifiedChinese": "贴膜",
         "Spanish": "Tintado"
       }
     }
@@ -1784,7 +1784,7 @@
         "Polish": "Błękit na bieli 1",
         "Name": null,
         "TraditionalChinese": "白底藍花樣式µ1",
-        "SimplifiedChinese": null,
+        "SimplifiedChinese": "白底蓝花µ1",
         "Spanish": "Azul sobre blanco 1"
       },
       "FontColorHex": "FF0F2352",
@@ -1803,7 +1803,7 @@
         "Polish": "Błękit na bieli 2",
         "Name": "CMOD_PLA_1",
         "TraditionalChinese": "白底藍花樣式µ2",
-        "SimplifiedChinese": null,
+        "SimplifiedChinese": "白底蓝花µ2",
         "Spanish": "Azul sobre blanco 2"
       },
       "FontColorHex": "FFCF9E00",
@@ -1822,7 +1822,7 @@
         "Polish": "Błękit na bieli 3",
         "Name": "CMOD_PLA_2",
         "TraditionalChinese": "白底藍花樣式µ3",
-        "SimplifiedChinese": null,
+        "SimplifiedChinese": "白底蓝花µ3",
         "Spanish": "Azul sobre blanco 3"
       },
       "FontColorHex": "FFBD7121",
@@ -1841,7 +1841,7 @@
         "Polish": "Żółty na błękicie",
         "Name": "CMOD_PLA_3",
         "TraditionalChinese": "藍底橙字樣式",
-        "SimplifiedChinese": null,
+        "SimplifiedChinese": "蓝底黄花",
         "Spanish": "Amarillo sobre azul"
       },
       "FontColorHex": "FF0F2352",
@@ -1860,7 +1860,7 @@
         "Polish": "Żółty na czerni",
         "Name": "CMOD_PLA_4",
         "TraditionalChinese": "黑底黃花樣式",
-        "SimplifiedChinese": null,
+        "SimplifiedChinese": "黑底黄花",
         "Spanish": "Amarillo sobre negro"
       },
       "FontColorHex": "FF0F2352",

@@ -71,7 +71,7 @@ Object location dumps contain positions of various objects of a specific type, o
 - **ATMs** ([worldAtms.json](objectslocations/worldAtms.json)) **121** in total
 - **Public Phones** ([worldPublicPhones.json](objectslocations/worldPublicPhones.json) & [worldExtraPhones.json](objectslocations/worldExtraPhones.json)) **432** public phones in total & **311** extra phones in total
 - **Radio Towers** ([worldRadioTowers.json](objectslocations/worldRadioTowers.json)) **86** in total
-- **Antennas** ([worldAntennas.json](objectslocations/worldAntennas.json)) **4** in total
+- **Antennas** ([worldAntennas.json](objectslocations/worldAntennas.json)) **15** in total
 - **Mobile Masts** ([worldMobileMasts.json](objectslocations/worldMobileMasts.json)) **8** in total
 - **Air Masts** ([worldAirMasts.json](objectslocations/worldAirMasts.json)) **16** in total
 - **Fire Hydrants, Hoses & Drisers** ([worldFireHydrantDriser.json](objectslocations/worldFireHydrantDriser.json)) **1430** in total
@@ -88,3 +88,4 @@ Object location dumps contain positions of various objects of a specific type, o
 - **Electricity boxes** ([worldElectricityBoxes.json](objectslocations/worldElectricityBoxes.json)) **1904** in total
 - **Wrecked vehicles** ([worldWreckedCars.json](objectslocations/worldWreckedCars.json) & [worldWreckedBikes.json](objectslocations/worldWreckedBikes.json)) **484** wrecked cars in total & **148** wrecked bikes in total
 - **Oil jacks** ([worldOilJacks.json](objectslocations/worldOilJacks.json)) **62** in total
+- **Satellite dishes** ([worldSatDishes.json](objectslocations/worldSatDishes.json)) **834** in total

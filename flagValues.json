@@ -1,0 +1,1457 @@
+{
+  "version": "1.0",
+  "flags": {
+    "CBaseArchetypeDefFlags": [
+      {
+        "name": "_UNK_01",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_02",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_03",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_04",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_05",
+        "description": "???"
+      },
+      {
+        "name": "STATIC",
+        "description": "Entity is Invincible/will not interact with dynamic Dynamic. Enables a indestructibility for archetype, making it static for props."
+      },
+      {
+        "name": "_UNK_07",
+        "description": "???"
+      },
+      {
+        "name": "INSTANCE",
+        "description": "This flag is used in instanced archetypes, used in instancedData in #map files."
+      },
+      {
+        "name": "_UNK_09",
+        "description": "???"
+      },
+      {
+        "name": "BONE_ANIMS",
+        "description": "This flag is used in archetypes with bones inside models (YCD)."
+      },
+      {
+        "name": "UV_ANIMS",
+        "description": "This flag is used in archetypes with UV animations (YCD)."
+      },
+      {
+        "name": "_BLOCK_LIGHTS_AND_SHADOWS",
+        "description": "Blocks lights and shadows and does not render the model. [Credits to DPS] Note from DPS: I will have to do more research in depth for that to be sure."
+      },
+      {
+        "name": "_UNK_13",
+        "description": "???"
+      },
+      {
+        "name": "DONT_CAST_SHADOWS",
+        "description": "Object will not cast Shadows (Used with overlays/decals). [Credits to Dekurwinator]"
+      },
+      {
+        "name": "_UNK_15",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_16",
+        "description": "???"
+      },
+      {
+        "name": "RENDER_DOUBLE_SIDED",
+        "description": "Double-sided rendering. [Credits to cpmodding]"
+      },
+      {
+        "name": "DYNAMIC",
+        "description": "This flag enables a destructibility for archetype, making it dynamic for props. Needed for GET_CLOSEST_OBJECT_OF_TYPE native."
+      },
+      {
+        "name": "_UNK_19",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_20",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_21",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_22",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_23",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_24",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_25",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_26",
+        "description": "???"
+      },
+      {
+        "name": "USE_SPECIAL_ATTRIBUTE",
+        "description": "Enables special atribute for door archetypes (?). [Credits to Dekurwinator]"
+      },
+      {
+        "name": "_UNK_28",
+        "description": "???"
+      },
+      {
+        "name": "DISABLE_RED_VERTEX",
+        "description": "Disable red vertex channel for object. [Credits to DPS]"
+      },
+      {
+        "name": "DISABLE_GREEN_VERTEX",
+        "description": "Disable green vertex channel for object. Props commonly use this. Makes archetypes with white vertexes dont glow at night. [Credits to Dekurwinator]"
+      },
+      {
+        "name": "DISABLE_BLUE_VERTEX",
+        "description": "Disable blue vertex channel for object. [Credits to DPS]"
+      },
+      {
+        "name": "DISABLE_ALPHA_VERTEX",
+        "description": "Disable Alpha vertex channel for object. [Credits to DPS]"
+      }
+    ],
+    "CBaseArchetypeDefSpecialAttributeFlags": [
+      {
+        "name": "_DOOR_SLIDE_LEFTRIGHT_ON_APPROACH_1",
+        "description": "Specify how doors will be open - Slides left <-> right when player aproach. [Credits to Dekurwinator]"
+      },
+      {
+        "name": "_DOOR_SLIDE_LEFTRIGHT_ON_APPROACH_2",
+        "description": "Specify how doors will be open - Slides left <-> right when player aproach. [Credits to Dekurwinator]"
+      },
+      {
+        "name": "_ENABLE_TRAFFIC_GYR_LIGHTS",
+        "description": "Traffic lights use this - Enables the GYR Lights. [Credits to Carl Johnson] Specify how doors will be open - Slides left <-> right when player aproach. [Credits to Dekurwinator]"
+      },
+      {
+        "name": "_DOOR_SLIDE_LEFTRIGHT_ON_APPROACH_3",
+        "description": "Specify how doors will be open - Slides left <-> right when player aproach. [Credits to Dekurwinator]"
+      },
+      {
+        "name": "_DOOR_MOVE_UPDOWN",
+        "description": "Specify how doors will be open - Up/down 90 degrees (garage doors). [Credits to Dekurwinator]"
+      },
+      {
+        "name": "_DOOR_SLIDE_LEFTRIGHT_ON_APPROACH_4",
+        "description": "Specify how doors will be open - Slides left <-> right when player aproach. [Credits to Dekurwinator]"
+      },
+      {
+        "name": "_DOOR_PUSH_BY_ENTITY",
+        "description": "Specify how doors will be open - Pushed by player/ped/vehicle. [Credits to Dekurwinator]"
+      },
+      {
+        "name": "_DOOR_SLIDE_LEFTRIGHT_ON_APPROACH_5",
+        "description": "Specify how doors will be open - Slides left <-> right when player aproach. [Credits to Dekurwinator]"
+      },
+      {
+        "name": "_DOOR_MOVE_LEFT_ON_CONTACT_1",
+        "description": "Specify how doors will be open - Doors move in contact with player in 90 degrees to left. [Credits to Dekurwinator]"
+      },
+      {
+        "name": "_DOOR_MOVE_UPDOWN_ON_APPROACH",
+        "description": "Specify how doors will be open - Vertical auto move in straight line up/down when player aproach. [Credits to Dekurwinator]"
+      },
+      {
+        "name": "_PROC_OBJECT",
+        "description": "CEntityDef Proc Plants/weeds/bushes use this. [Credits to Carl Johnson] Specify how doors will be open - Slides left <-> right when player aproach, doors collision dont work. [Credits to Dekurwinator]"
+      },
+      {
+        "name": "_DOOR_MOVE_LEFT_ON_CONTACT_2",
+        "description": "Specify how doors will be open - Doors move in contact with player in 90 degrees to left. [Credits to Dekurwinator]"
+      },
+      {
+        "name": "_DOOR_SLIDE_LEFTRIGHT_ON_APPROACH",
+        "description": "Specify how doors will be open - Slides left <-> right when player aproach, doors collision dont work. [Credits to Dekurwinator]"
+      },
+      {
+        "name": "_UNK_14",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_15",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_16",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_17",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_18",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_19",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_20",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_21",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_22",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_23",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_24",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_25",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_26",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_27",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_28",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_29",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_30",
+        "description": "???"
+      },
+      {
+        "name": "_TREE_SHADOWSPROXY",
+        "description": "Trees that uses shadow proxy. [Credits to Dekurwinator]"
+      },
+      {
+        "name": "_UNK_32",
+        "description": "???"
+      }
+    ],
+    "CTimeArchetypeDefTimeFlags": [
+      {
+        "name": "TIME_00_00",
+        "description": "00:00"
+      },
+      {
+        "name": "TIME_01_00",
+        "description": "01:00"
+      },
+      {
+        "name": "TIME_02_00",
+        "description": "02:00"
+      },
+      {
+        "name": "TIME_03_00",
+        "description": "03:00"
+      },
+      {
+        "name": "TIME_04_00",
+        "description": "04:00"
+      },
+      {
+        "name": "TIME_05_00",
+        "description": "05:00"
+      },
+      {
+        "name": "TIME_06_00",
+        "description": "06:00"
+      },
+      {
+        "name": "TIME_07_00",
+        "description": "07:00"
+      },
+      {
+        "name": "TIME_08_00",
+        "description": "08:00"
+      },
+      {
+        "name": "TIME_09_00",
+        "description": "09:00"
+      },
+      {
+        "name": "TIME_10_00",
+        "description": "10:00"
+      },
+      {
+        "name": "TIME_11_00",
+        "description": "11:00"
+      },
+      {
+        "name": "TIME_12_00",
+        "description": "12:00"
+      },
+      {
+        "name": "TIME_13_00",
+        "description": "13:00"
+      },
+      {
+        "name": "TIME_14_00",
+        "description": "14:00"
+      },
+      {
+        "name": "TIME_15_00",
+        "description": "15:00"
+      },
+      {
+        "name": "TIME_16_00",
+        "description": "16:00"
+      },
+      {
+        "name": "TIME_17_00",
+        "description": "17:00"
+      },
+      {
+        "name": "TIME_18_00",
+        "description": "18:00"
+      },
+      {
+        "name": "TIME_19_00",
+        "description": "19:00"
+      },
+      {
+        "name": "TIME_20_00",
+        "description": "20:00"
+      },
+      {
+        "name": "TIME_21_00",
+        "description": "21:00"
+      },
+      {
+        "name": "TIME_22_00",
+        "description": "22:00"
+      },
+      {
+        "name": "TIME_23_00",
+        "description": "23:00"
+      },
+      {
+        "name": "_TIME_UNK_00",
+        "description": "24:7 ?"
+      },
+      {
+        "name": "_TIME_UNK_01",
+        "description": "24:7 ?"
+      },
+      {
+        "name": "_TIME_UNK_02",
+        "description": "24:7 ?"
+      },
+      {
+        "name": "_TIME_UNK_03",
+        "description": "???"
+      },
+      {
+        "name": "_TIME_UNK_04",
+        "description": "???"
+      },
+      {
+        "name": "_TIME_UNK_05",
+        "description": "???"
+      },
+      {
+        "name": "_TIME_UNK_06",
+        "description": "???"
+      },
+      {
+        "name": "_TIME_UNK_07",
+        "description": "24:7 ?"
+      }
+    ],
+    "CMloArchetypeDefFlags": [
+      {
+        "name": "_UNK_01",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_02",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_03",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_04",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_05",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_06",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_07",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_08",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_09",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_10",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_11",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_12",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_13",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_14",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_15",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_16",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_17",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_18",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_19",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_20",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_21",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_22",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_23",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_24",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_25",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_26",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_27",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_28",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_29",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_30",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_31",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_32",
+        "description": "???"
+      }
+    ],
+    "CMloArchetypeDefMloFlags": [
+      {
+        "name": "_UNK_01",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_02",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_03",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_04",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_05",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_06",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_07",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_08",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_09",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_10",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_11",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_12",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_13",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_14",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_15",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_16",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_17",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_18",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_19",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_20",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_21",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_22",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_23",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_24",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_25",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_26",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_27",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_28",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_29",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_30",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_31",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_32",
+        "description": "???"
+      }
+    ],
+    "CMloArchetypeDefCEntityDefFlags": [
+      {
+        "name": "ALLOW_FULL_ROTATION",
+        "description": "Allow full rotation. [Credits to dexyfex]"
+      },
+      {
+        "name": "_UNK_02",
+        "description": "???"
+      },
+      {
+        "name": "DISABLE_EMBEDDED_COLLISIONS",
+        "description": "Disable embbedded collisions. [Credits to dexyfex]"
+      },
+      {
+        "name": "_UNK_04",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_05",
+        "description": "???"
+      },
+      {
+        "name": "STATIC",
+        "description": "Static entity. [Credits to dexyfex]"
+      },
+      {
+        "name": "_UNK_07",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_08",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_09",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_10",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_11",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_12",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_13",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_14",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_15",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_16",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_17",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_18",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_19",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_20",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_21",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_22",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_23",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_24",
+        "description": "???"
+      },
+      {
+        "name": "NO_REFLECTIONS",
+        "description": "Object will not cast reflections. [Credits to DPS]"
+      },
+      {
+        "name": "INTERIOR_PROXY",
+        "description": "Interior proxy. [Credits to dexyfex]"
+      },
+      {
+        "name": "_UNK_27",
+        "description": "???"
+      },
+      {
+        "name": "REFLECTION_PROXY",
+        "description": "Refection proxy. [Credits to dexyfex]"
+      },
+      {
+        "name": "_UNK_29",
+        "description": "???"
+      },
+      {
+        "name": "MIRROR_PROXY",
+        "description": "Mirror proxy. [Credits to dexyfex]"
+      },
+      {
+        "name": "_UNK_31",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_32",
+        "description": "???"
+      }
+    ],
+    "CMloArchetypeDefRoomFlags": [
+      {
+        "name": "_UNK_01",
+        "description": "???"
+      },
+      {
+        "name": "DISABLE_WANTED_LEVEL",
+        "description": "Controls whether if shooting a gun in a interior will or will not alert the police. It would have something to do with sound from inside to MLO is heard outside. Should be used in homes or private property, but only in rooms that are private like bedrooms, bathrooms and not in common or open rooms like living, dinning and kitchens. Example enabled: https://www.youtube.com/watch?v=PV2hZy2oZYg Example disabled: https://www.youtube.com/watch?v=DGUQBz9lJ88"
+      },
+      {
+        "name": "DISABLE_EXTERIOR_SHADOWS",
+        "description": "Disables Interior shadowcasting in exterior. [Credits to DPS]"
+      },
+      {
+        "name": "_UNK_04",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_05",
+        "description": "???"
+      },
+      {
+        "name": "REDUCE_VEHICLE_POPULATION",
+        "description": "Reduces vehicle population creating by 66% (applies 0.33 modifier) when player is in this room. [Credits to Disquse]"
+      },
+      {
+        "name": "REDUCE_PED_POPULATION",
+        "description": "Reduces peds population creating by 66% (applies 0.33 modifier) when player is in this room. [Credits to Disquse]"
+      },
+      {
+        "name": "_UNK_08",
+        "description": "???"
+      },
+      {
+        "name": "DISABLE_ALL_LIMBO",
+        "description": "Disables all limbo portals. [Credits to DPS]"
+      },
+      {
+        "name": "GOT_MIRRORS",
+        "description": "Used in rooms with mirrors. [Credits to Disquse] Note from DPS: Game will hardcode this flag into rooms with mirrors anyway, so this flag is useless."
+      }
+    ],
+    "CMloArchetypeDefPortalFlags": [
+      {
+        "name": "DISABLE_EXTERIOR_RENDERING",
+        "description": "You can see from the interior to the exterior, but not vice versa. Used for windows in interiors such as the ammunation in Vinewood. [Credits to DPS]"
+      },
+      {
+        "name": "DISABLE_INTERIOR_RENDERING",
+        "description": "You can see from the exterior into the interior, but not vice versa. Used for connecting two MLOs together, such as V_MICHAEL and V_MICHAEL_GARAGE. [Credits to DPS]"
+      },
+      {
+        "name": "MIRROR",
+        "description": "Mirror. [Credits to dexyfex]"
+      },
+      {
+        "name": "RENDER_OUTSIDE_EXTRA_BLOOM",
+        "description": "Portal will render the outside with much more bloom. Generaly windows use this. Will not only make a portal appear with more bloom but will also make the player NOT glow when you are near the portal (so a portal to limbo room without flag 8 will cause a player to glow when near)"
+      },
+      {
+        "name": "_UNK_05",
+        "description": "???"
+      },
+      {
+        "name": "RENDER_LIMBO_AS_LOD",
+        "description": "Renders limbo as LOD. Used in the roof window of V_MICHAEL. [Credits to DPS]"
+      },
+      {
+        "name": "_DISABLE_PORTAL_WHILE_DOOR_CLOSED",
+        "description": "Disable portal while a door is closed as an attached entity. Note that Rockstar frequently uses this portal, even when there are not any attached entities. May have other functions. [Credits to DPS]"
+      },
+      {
+        "name": "_UNK_08",
+        "description": "???"
+      },
+      {
+        "name": "ENABLE_LIMBO_PORTAL_REFLECTIONS",
+        "description": "Enables limbo portals in mirror portal reflections, but does not enable limbo entities. [Credits to DPS]"
+      },
+      {
+        "name": "_UNK_10",
+        "description": "???"
+      },
+      {
+        "name": "RENDER_LIMBO_ENTITIES_REFLECTION",
+        "description": "Renders limbo entities in portal reflections. [Credits to DPS]"
+      },
+      {
+        "name": "_UNK_12",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_13",
+        "description": "???"
+      },
+      {
+        "name": "_BLEND_TIMECYCLE_WITH_EXTERIOR",
+        "description": "Tells the portal to blend the timecycle with the outside world so when the player is near the portal, the room time cycle is blended with the outside world. Makes see through glass doors? Interior timecycle farclipping gets ignored and the entire world distance is rendered."
+      }
+    ],
+    "FwEntityDefFlags": [
+      {
+        "name": "ALLOW_FULL_ROTATION",
+        "description": "Allow full rotation. [Credits to dexyfex]"
+      },
+      {
+        "name": "_INTERACTIVE_PROP",
+        "description": "Seems to be used on destructable/interactive props - props that are of this type will fall through the map/interior if this flag is not enabled. [Credits to Carl Johnson]"
+      },
+      {
+        "name": "DISABLE_EMBEDDED_COLLISIONS",
+        "description": "Disable embbedded collisions. [Credits to dexyfex]"
+      },
+      {
+        "name": "_INTERACTIVE_PROP_TREE",
+        "description": "Seems to be used on non destructable/intercative props like trees. [Credits to Carl Johnson]"
+      },
+      {
+        "name": "_LOD",
+        "description": "Seems to used on LODs. [Credits to Carl Johnson]"
+      },
+      {
+        "name": "STATIC",
+        "description": "Static entity - Entity is Invincible/will not interact with dymaic Dynamic. [Credits to dexyfex]"
+      },
+      {
+        "name": "_DONT_GET_DARK",
+        "description": "Object does not get dark at night time? [Credits to Mellowtri]"
+      },
+      {
+        "name": "_UNK_08",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_09",
+        "description": "???"
+      },
+      {
+        "name": "DISABLE_EMBEDDED_LIGHTSOURCE",
+        "description": "Disable embedded light source. [Credits to Mellowtri]"
+      },
+      {
+        "name": "_UNK_11",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_12",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_13",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_14",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_15",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_16",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_17",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_18",
+        "description": "???"
+      },
+      {
+        "name": "DISABLE_ARCHETYPE_EXTENSIONS",
+        "description": "Disable archetype extensions. [Credits to DPS]"
+      },
+      {
+        "name": "_ALWAYS_ON_1",
+        "description": "Seems to be used on almost everything - should be used by default. [Credits to Carl Johnson]"
+      },
+      {
+        "name": "_ALWAYS_ON_2",
+        "description": "Seems to be used on almost everything - should be used by default. [Credits to Carl Johnson]"
+      },
+      {
+        "name": "_UNK_22",
+        "description": "???"
+      },
+      {
+        "name": "DONT_CAST_SHADOWS",
+        "description": "Object will not cast shadows. [Credits to Mellowtri]"
+      },
+      {
+        "name": "DONT_RENDER",
+        "description": "Object will not render but still cast shadows. [Credits to Mellowtri and Carl Johnson]"
+      },
+      {
+        "name": "DONT_CAST_REFLECTIONS",
+        "description": "Object will not cast reflections. [Credits to DPS]"
+      },
+      {
+        "name": "INTERIOR_PROXY",
+        "description": "Interior proxy. [Credits to dexyfex]"
+      },
+      {
+        "name": "_LOD_UNK",
+        "description": "Seems to be LODs related. [Credits to Mellowtri]"
+      },
+      {
+        "name": "REFLECTION_PROXY",
+        "description": "Refection proxy. [Credits to dexyfex]"
+      },
+      {
+        "name": "_UNK_29",
+        "description": "???"
+      },
+      {
+        "name": "MIRROR_PROXY",
+        "description": "Mirror proxy. [Credits to dexyfex]"
+      },
+      {
+        "name": "_UNK_31",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_32",
+        "description": "???"
+      }
+    ],
+    "CCarGenFlags": [
+      {
+        "name": "HIGH_PRIORITY",
+        "description": "Seems to make the cargen almost-always spawn. [Credits to Monky]"
+      },
+      {
+        "name": "_UNK_02",
+        "description": "???"
+      },
+      {
+        "name": "POLICE",
+        "description": "Spawns police police2 police3 policeb or sherrif."
+      },
+      {
+        "name": "FIRETRUCK",
+        "description": "Spawns 'firetruk'."
+      },
+      {
+        "name": "AMBULANCE",
+        "description": "Spawns 'ambulance'. [Credits to Monky]"
+      },
+      {
+        "name": "_COMMON_UNK_00",
+        "description": "Commonly used"
+      },
+      {
+        "name": "_COMMON_UNK_01",
+        "description": "Commonly used"
+      },
+      {
+        "name": "_UNK_08",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_09",
+        "description": "???"
+      },
+      {
+        "name": "SP_ENABLE",
+        "description": "SP Enable"
+      },
+      {
+        "name": "MP_ENABLE",
+        "description": "MP Enable"
+      },
+      {
+        "name": "LOW_PRIORITY",
+        "description": "Low Priority"
+      },
+      {
+        "name": "_UNK_13",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_14",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_15",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_16",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_17",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_18",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_19",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_20",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_21",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_22",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_23",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_24",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_25",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_26",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_27",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_28",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_29",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_30",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_31",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_32",
+        "description": "???"
+      }
+    ],
+    "DrawableLightAttributesFlags": [
+      {
+        "name": "_UNK_01",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_02",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_03",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_04",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_05",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_06",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_07",
+        "description": "???"
+      },
+      {
+        "name": "CAST_SHADOWS_FOR_OBJECTS",
+        "description": "Objects that do not move will have shadows casted. Excludes moving parts such as players, moving props and vehicles."
+      },
+      {
+        "name": "CAST_SHADOWS_FOR_ENTITIES",
+        "description": "Objects that move will cast shadows. Includes moving parts such as player, moving props and vehicles."
+      },
+      {
+        "name": "FAKE_SUN_LIGHT",
+        "description": "Will turn light into a so-called sunlight. The light will change its color and intensity depending on the time of day. Will disable when there is no sun light. Color and intensity is primary affected by factors such as time, weather and light property intensity."
+      },
+      {
+        "name": "ENABLE_ELECTRICAL_HUM_01",
+        "description": "Electrical Hum [1]. Light will produce an audible hum."
+      },
+      {
+        "name": "ENABLE_ELECTRICAL_HUM_02",
+        "description": "Electrical Hum [2] (Audio hum). Light will produce an audible hum."
+      },
+      {
+        "name": "ENABLE_LIGHT_VOLUME",
+        "description": "Lights will have a volumetric cone casted. Use the 'Light Volume' section in GIMS Evo to control this."
+      },
+      {
+        "name": "DISABLE_SPECULARITY",
+        "description": "Light will not cast reflections on materials. Light will not affect specular properties in the environment. Will turn light into a so-called 'fill light'"
+      },
+      {
+        "name": "_UNK_15",
+        "description": "???"
+      },
+      {
+        "name": "DISABLE",
+        "description": "Disables the light. Purpose unknown. Perhaps there is a trigger that will activate the light under some condition."
+      },
+      {
+        "name": "DISABLE_FOR_MIRROR_PORTALS",
+        "description": "Deactivates the light in a mirror portal. [Credits to Gusepe73]"
+      },
+      {
+        "name": "INVISIBLE_CORONA",
+        "description": "Invisible corona (can be visible in menu only)."
+      },
+      {
+        "name": "ENABLE_CULLING_PLANE",
+        "description": "Enable culling plane, stopping the light from casting after some value x,y,z normal plane followed by distance; x=1, y=2, z=3, distance =4 (1,2,3,4) [x,y,z,d]. [Credits to DPS]"
+      },
+      {
+        "name": "_UNK_20",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_21",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_22",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_23",
+        "description": "???"
+      },
+      {
+        "name": "_DONT_CAST_LIGHT_ON_GLASS",
+        "description": "Don't cast light onto glass material (tentative for exact function however this is the first thing i noticed)"
+      },
+      {
+        "name": "_UNK_25",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_26",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_27",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_28",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_29",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_30",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_31",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_32",
+        "description": "???"
+      }
+    ],
+    "CScenarioPointFlagsFlags": [
+      {
+        "name": "IGNORE_MAX_IN_RANGE",
+        "description": ""
+      },
+      {
+        "name": "NO_SPAWN",
+        "description": ""
+      },
+      {
+        "name": "STATIONARY_REACTIONS",
+        "description": ""
+      },
+      {
+        "name": "ONLY_SPAWN_IN_SAME_INTERIOR",
+        "description": ""
+      },
+      {
+        "name": "SPAWNED_PED_IS_ARRESTABLE",
+        "description": ""
+      },
+      {
+        "name": "ACTIVATE_VEHICLE_SIREN",
+        "description": ""
+      },
+      {
+        "name": "AGGRESSIVE_VEHICLE_DRIVING",
+        "description": ""
+      },
+      {
+        "name": "LAND_VEHICLE_ON_ARRIVAL",
+        "description": ""
+      },
+      {
+        "name": "IGNORE_THREATS_IF_LOS_NOT_CLEAR",
+        "description": ""
+      },
+      {
+        "name": "EVENTS_IN_RADIUS_TRIGGER_DISPUTES",
+        "description": ""
+      },
+      {
+        "name": "AERIAL_VEHICLE_POINT",
+        "description": ""
+      },
+      {
+        "name": "TERRITORIAL_SCENARIO",
+        "description": ""
+      },
+      {
+        "name": "END_SCENARIO_IF_PLAYER_WITHIN_RADIUS",
+        "description": ""
+      },
+      {
+        "name": "EVENTS_IN_RADIUS_TRIGGER_DISPUTES",
+        "description": ""
+      },
+      {
+        "name": "TAXI_PLANE_ON_GROUND",
+        "description": ""
+      },
+      {
+        "name": "FLY_OFF_TO_OBLIVION",
+        "description": ""
+      },
+      {
+        "name": "IN_WATER",
+        "description": ""
+      },
+      {
+        "name": "ALLOW_INVESTIGATION",
+        "description": ""
+      },
+      {
+        "name": "OPEN_DOOR",
+        "description": ""
+      },
+      {
+        "name": "PRECISE_USE_TIME",
+        "description": ""
+      },
+      {
+        "name": "NO_RESPAWN_UNTIL_STREAMED_OUT",
+        "description": ""
+      },
+      {
+        "name": "NO_VEHICLE_SPAWN_MAX_DISTANCE",
+        "description": ""
+      },
+      {
+        "name": "EXTENDED_RANGE",
+        "description": ""
+      },
+      {
+        "name": "SHORT_RANGE",
+        "description": ""
+      },
+      {
+        "name": "HIGH_PRIORITY",
+        "description": ""
+      },
+      {
+        "name": "IGNORE_LOITERING",
+        "description": ""
+      },
+      {
+        "name": "USE_SEARCHLIGHT",
+        "description": ""
+      },
+      {
+        "name": "RESET_NO_COLLISION_ON_CLEAN_UP",
+        "description": ""
+      },
+      {
+        "name": "CHECK_CROSSED_ARRIVAL_PLANE",
+        "description": ""
+      },
+      {
+        "name": "USE_VEHICLE_FRONT_FOR_ARRIVAL",
+        "description": ""
+      },
+      {
+        "name": "IGNORE_WEATHER_RESTRICTIONS",
+        "description": ""
+      }
+    ],
+    "IMapFlags": [
+      {
+        "name": "SCRIPTABLE",
+        "description": "This flag forces file to be enabled/disabled by REQUEST_IPL native."
+      },
+      {
+        "name": "DETERMINE_LOD_OBJECT_ARRAY",
+        "description": "This flag is set to determine LOD objects in entities array."
+      }
+    ],
+    "IMapContentFlags": [
+      {
+        "name": "HAS_PHYSICS_INSTANCES_01",
+        "description": "This map contains physics instances."
+      },
+      {
+        "name": "HAS_LOD_ENTITIES",
+        "description": "This map contains LOD entities."
+      },
+      {
+        "name": "HAS_SLOD2_ENTITIES",
+        "description": "This map contains LOD entities type, as SLOD2 and higher."
+      },
+      {
+        "name": "HAS_INTERIOR_INSTANCE",
+        "description": "This map contains interior instance."
+      },
+      {
+        "name": "HAS_SLOD1_ENTITIES",
+        "description": "This map contains SLOD1 entities type."
+      },
+      {
+        "name": "HAS_OCCLUDERS",
+        "description": "This map contains box/model occluders."
+      },
+      {
+        "name": "HAS_PHYSICS_INSTANCES_02",
+        "description": "This map contains physics instances."
+      },
+      {
+        "name": "HAS_LOD_LIGHTS",
+        "description": "This map contains LOD lights."
+      },
+      {
+        "name": "HAS_DISTANT_LOD_LIGHTS",
+        "description": "This map contains distant LOD lights."
+      },
+      {
+        "name": "STREAM_CRITICAL",
+        "description": "This map is ‘critical’ and should be placed in the ‘critical’ box streamer slot. Used for maps with tall objects such as lamp posts and trees."
+      },
+      {
+        "name": "HAS_GRASS_INSTANCES",
+        "description": "This map contains grass instances from instancedData in fwMapData."
+      }
+    ]
+  }
+}

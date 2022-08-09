@@ -89,3 +89,20 @@ Object location dumps contain positions of various objects of a specific type, o
 - **Wrecked vehicles** ([worldWreckedCars.json](objectslocations/worldWreckedCars.json) & [worldWreckedBikes.json](objectslocations/worldWreckedBikes.json)) **484** wrecked cars in total & **148** wrecked bikes in total
 - **Oil jacks** ([worldOilJacks.json](objectslocations/worldOilJacks.json)) **62** in total
 - **Satellite dishes** ([worldSatDishes.json](objectslocations/worldSatDishes.json)) **834** in total
+
+## **Assets**
+- **Vehicle Manufacturer / Brand logos** ([vehicle-manufacturers-logos](assets/vehicle-manufacturers-logos))
+- **Freemode ped parent faces** ([freemode-ped-parents](assets/freemode-ped-parents))
+
+## **Misc dumps**
+- **PS3 Builds info XML** ([ps3-builds.xml](ps3-builds.xml)) Early builds information dump from PS3 development versions, can hint some useful information
+- **Vehicle driving style flags** ([drivingStyleFlagValues.json](drivingStyleFlagValues.json)) List of known & unknown GTA V driving style flag values
+- **Various game flags** ([flagValues.json](flagValues.json)) List of various known & unknown GTA V flag values for YTYP, YMAP & other data formats. Most known flags researched by the modding community!
+- **Multiplayer ped clothes restriction tags** ([pedApparelRestrictionTags.json](pedApparelRestrictionTags.json)) Up2date collection of all available restriction tags for research purposes
+- **Vehicle model manufacturers** ([vehiclesManufacturers.json](vehiclesManufacturers.json)) Up2date collection of all available vehicle model manufacturers
+- **Vehicle model flags** ([vehiclesFlags.json](vehiclesFlags.json)) Up2date collection of all available vehicle flags for research purposes
+- **Vehicle plate types** ([vehiclesPlateTypes.json](vehiclesPlateTypes.json)) Up2date collection of all available vehicle plate types
+- **Vehicle rewards** ([vehiclesRewards.json](vehiclesRewards.json)) Up2date collection of all available vehicle rewards
+- **Vehicle types** ([vehiclesTypes.json](vehiclesTypes.json)) Up2date collection of all available vehicle types
+- **Vehicle wheel types** ([vehiclesWheelTypes.json](vehiclesWheelTypes.json)) Up2date collection of all available vehicle wheel types
+- **Event Types enum** ([eEventType.txt](eEventType.txt)) Up2date dump of available & resolved event types enum

@@ -1,0 +1,126 @@
+[
+  {
+    "name": "_STOP_BEFORE_VEHICLES",
+    "description": "Stops before vehicles."
+  },
+  {
+    "name": "_STOP_BEFORE_PEDS",
+    "description": "Stops before peds."
+  },
+  {
+    "name": "_AVOID_VEHICLES",
+    "description": "Avoids vehicles."
+  },
+  {
+    "name": "_AVOID_EMPTY_VEHICLES",
+    "description": "Avoids empty vehicles."
+  },
+  {
+    "name": "_AVOID_PEDS",
+    "description": "Avoids peds."
+  },
+  {
+    "name": "_AVOID_OBJECTS",
+    "description": "Avoids objects."
+  },
+  {
+    "name": "_UNK_07",
+    "description": "???"
+  },
+  {
+    "name": "_STOP_AT_TRAFFICLIGHTS",
+    "description": "Stops at traffic lights."
+  },
+  {
+    "name": "_USE_BLINKERS",
+    "description": "Uses blinkers."
+  },
+  {
+    "name": "_ALLOW_WRONG_WAY",
+    "description": "Allows going wrong way. Only does it if the correct lane is full, will try to reach the correct lane again a.s.a.p."
+  },
+  {
+    "name": "_DRIVE_REVERSE_GEAR",
+    "description": "Drives in reverse gear."
+  },
+  {
+    "name": "_UNK_12",
+    "description": "???"
+  },
+  {
+    "name": "_UNK_13",
+    "description": "???"
+  },
+  {
+    "name": "_UNK_14",
+    "description": "???"
+  },
+  {
+    "name": "_FOLLOW_SPEED_LIMIT",
+    "description": "Follow road speed limit."
+  },
+  {
+    "name": "_UNK_16",
+    "description": "Unknown. Flag seems not to be used in Rockstar's decompiled scripts"
+  },
+  {
+    "name": "_UNK_17",
+    "description": "Unknown. Flag seems not to be used in Rockstar's decompiled scripts"
+  },
+  {
+    "name": "_UNK_18",
+    "description": "Unknown. Flag seems not to be used in Rockstar's decompiled scripts"
+  },
+  {
+    "name": "_TAKE_SHORTEST_PATH",
+    "description": "Take the shortest path. Removes most pathing limits, the driver even goes on dirt roads."
+  },
+  {
+    "name": "_RECKLESS",
+    "description": "Previously named: Allow overtaking vehicles if possible."
+  },
+  {
+    "name": "_UNK_21",
+    "description": "Unknown. Flag seems not to be used in Rockstar's decompiled scripts"
+  },
+  {
+    "name": "_UNK_22",
+    "description": "???"
+  },
+  {
+    "name": "_IGNORE_ROADS",
+    "description": "Ignore roads, uses local pathing, only works within 200~ meters around the player."
+  },
+  {
+    "name": "_UNK_24",
+    "description": "Unknown. Flag seems not to be used in Rockstar's decompiled scripts"
+  },
+  {
+    "name": "_IGNORE_ALL_PATHING",
+    "description": "Ignore all pathing, goes straight to destination."
+  },
+  {
+    "name": "_UNK_26",
+    "description": "???"
+  },
+  {
+    "name": "_UNK_27",
+    "description": "Unknown. Flag seems not to be used in Rockstar's decompiled scripts"
+  },
+  {
+    "name": "_UNK_28",
+    "description": "Unknown. Flag seems not to be used in Rockstar's decompiled scripts"
+  },
+  {
+    "name": "_UNK_29",
+    "description": "Unknown. Flag seems not to be used in Rockstar's decompiled scripts"
+  },
+  {
+    "name": "_AVOID_HIGHWAYS_WHEN_POSSIBLE",
+    "description": "Avoid highways when possible, will use the highway if there is no other way to get to the destination."
+  },
+  {
+    "name": "_UNK_31",
+    "description": "???"
+  }
+]

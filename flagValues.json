@@ -725,8 +725,8 @@
         "description": "???"
       },
       {
-        "name": "_UNK_19",
-        "description": "???"
+        "name": "DISABLE_ARCHETYPE_EXTENSIONS",
+        "description": "Disables archetype extensions. [Credits to DPS]"
       },
       {
         "name": "_UNK_20",
@@ -745,8 +745,8 @@
         "description": "???"
       },
       {
-        "name": "_UNK_24",
-        "description": "???"
+        "name": "DO_NOT_STREAM",
+        "description": "Object won't stream (or be invisible). [Credits to Carl Johnson]"
       },
       {
         "name": "NO_REFLECTIONS",

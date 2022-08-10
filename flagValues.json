@@ -79,8 +79,8 @@
         "description": "???"
       },
       {
-        "name": "_UNK_20",
-        "description": "???"
+        "name": "_ANIMATIONS",
+        "description": "Allows to play ycd animations on the object. Only available for objects with flag 131072 (DYNAMIC)"
       },
       {
         "name": "_UNK_21",

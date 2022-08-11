@@ -79,8 +79,8 @@
         "description": "???"
       },
       {
-        "name": "_UNK_20",
-        "description": "???"
+        "name": "_ANIMATIONS",
+        "description": "Allows to play ycd animations on the object. Only available for objects with flag 131072 (DYNAMIC)"
       },
       {
         "name": "_UNK_21",
@@ -108,7 +108,7 @@
       },
       {
         "name": "USE_SPECIAL_ATTRIBUTE",
-        "description": "Enables special atribute for door archetypes (?). [Credits to Dekurwinator]"
+        "description": "Enables special attribute for door archetypes (?). [Credits to Dekurwinator]"
       },
       {
         "name": "_UNK_28",
@@ -725,8 +725,8 @@
         "description": "???"
       },
       {
-        "name": "_UNK_19",
-        "description": "???"
+        "name": "DISABLE_ARCHETYPE_EXTENSIONS",
+        "description": "Disables archetype extensions. [Credits to DPS]"
       },
       {
         "name": "_UNK_20",
@@ -745,8 +745,8 @@
         "description": "???"
       },
       {
-        "name": "_UNK_24",
-        "description": "???"
+        "name": "DO_NOT_STREAM",
+        "description": "Object won't stream (or be invisible). [Credits to Carl Johnson]"
       },
       {
         "name": "NO_REFLECTIONS",
@@ -1129,16 +1129,16 @@
         "description": "???"
       },
       {
-        "name": "_UNK_30",
-        "description": "???"
+        "name": "_IS_LARGE_VEHICLE",
+        "description": "Commonly used on bigger parking spots together with the flag 1073741824"
       },
       {
-        "name": "_UNK_31",
-        "description": "???"
+        "name": "_IS_LARGE_VEHICLE_2",
+        "description": "Commonly used on bigger parking spots together with the flag 536870912"
       },
       {
-        "name": "_UNK_32",
-        "description": "???"
+        "name": "_IS_WATER_VEHICLE",
+        "description": "Mostly used on car generators in the water"
       }
     ],
     "DrawableLightAttributesFlags": [

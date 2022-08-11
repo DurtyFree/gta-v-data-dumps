@@ -1,5 +1,5 @@
 {
-  "version": "1.0",
+  "version": "1.1",
   "flags": {
     "CBaseArchetypeDefFlags": [
       {
@@ -1271,7 +1271,7 @@
         "description": "???"
       }
     ],
-    "CScenarioPointFlagsFlags": [
+    "CScenarioPointFlags": [
       {
         "name": "IGNORE_MAX_IN_RANGE",
         "description": ""
@@ -1451,6 +1451,162 @@
       {
         "name": "HAS_GRASS_INSTANCES",
         "description": "This map contains grass instances from instancedData in fwMapData."
+      }
+    ],
+    "AnimationFlags": [
+      {
+        "name": "LOOP",
+        "description": "Keep repeating animation."
+      },
+      {
+        "name": "STOP_AT_LAST_FRAME",
+        "description": "Stop animation at the last animation frame."
+      },
+      {
+        "name": "_UNK_03",
+        "description": "???"
+      },
+      {
+        "name": "_UNK_04",
+        "description": "???"
+      },
+      {
+        "name": "UPPER_BODY_ONLY",
+        "description": "Only animate upper body of ped model."
+      },
+      {
+        "name": "ENABLE_PLAYER_CONTROL",
+        "description": "Enable player control while animation is playing."
+      },
+      {
+        "name": "CANCELABLE",
+        "description": "Animation can be cancelled by player and world impact?"
+      }
+    ],
+    "WarningButtonFlags": [
+      {
+        "name": "SELECT",
+        "description": "[RETURN] Key. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+      },
+      {
+        "name": "OK_01",
+        "description": "[RETURN] Key. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+      },
+      {
+        "name": "YES",
+        "description": "[RETURN] Key. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+      },
+      {
+        "name": "BACK_01",
+        "description": "[ESC] Key. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+      },
+      {
+        "name": "CANCEL_01",
+        "description": "[ESC] Key. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+      },
+      {
+        "name": "NO_01",
+        "description": "[ESC] Key. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+      },
+      {
+        "name": "RETRY_01",
+        "description": "[SPACEBAR] Key. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+      },
+      {
+        "name": "RESTART",
+        "description": "[SPACEBAR] Key. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+      },
+      {
+        "name": "BACK_02",
+        "description": "[ESC] Key. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+      },
+      {
+        "name": "SOCIAL_CLUB_01",
+        "description": "[RETURN] Key. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+      },
+      {
+        "name": "SPECTATE",
+        "description": "[SPACEBAR] Key. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+      },
+      {
+        "name": "OK_02",
+        "description": "[ESC] Key. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+      },
+      {
+        "name": "CANCEL_TRANSFER",
+        "description": "[ESC] Key. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+      },
+      {
+        "name": "LOADING_SPINNER",
+        "description": "Loading spinner / indicator. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+      },
+      {
+        "name": "NO_02",
+        "description": "No - Return to Grand Theft Auto V [ESC] Key. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+      },
+      {
+        "name": "CANCEL_02",
+        "description": "[ESC] Key. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+      },
+      {
+        "name": "SCROLL",
+        "description": "Up/down arrow symbols. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+      },
+      {
+        "name": "SOCIAL_CLUB_SIGN_UP",
+        "description": "[RETURN] Key. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+      },
+      {
+        "name": "CONFIRM",
+        "description": "[RETURN] Key. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+      },
+      {
+        "name": "QUEUE",
+        "description": "[RETURN] Key. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+      },
+      {
+        "name": "RETRY_02",
+        "description": "[RETURN] Key. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+      },
+      {
+        "name": "BACK_03",
+        "description": "[ESC] Key. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+      },
+      {
+        "name": "SOCIAL_CLUB_02",
+        "description": "[RETURN] Key. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+      },
+      {
+        "name": "SKIP",
+        "description": "[SPACEBAR] Key. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+      },
+      {
+        "name": "QUIT",
+        "description": "[ESC] Key. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+      },
+      {
+        "name": "ADJUST_01",
+        "description": "Left arrow key + right arrow key. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+      },
+      {
+        "name": "NO_TEXT",
+        "description": "[SPACEBAR] Key. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+      },
+      {
+        "name": "SHARE",
+        "description": "[SPACEBAR] Key. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+      },
+      {
+        "name": "SIGN_IN",
+        "description": "[SPACEBAR] Key. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+      },
+      {
+        "name": "CONTINUE",
+        "description": "[RETURN] Key. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+      },
+      {
+        "name": "ADJUST_02",
+        "description": "Left arrow key + right arrow key. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
       }
     ]
   }

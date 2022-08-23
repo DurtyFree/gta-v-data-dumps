@@ -359,8 +359,8 @@
         "description": "23:00"
       },
       {
-        "name": "_TIME_UNK_00",
-        "description": "24:7 ?"
+        "name": "_SETUP_TIME",
+        "description": "This flag needs to be set with every other time flag, otherwise it will not work. Credits to Dekurwinator"
       },
       {
         "name": "_TIME_UNK_01",

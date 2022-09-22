@@ -1,0 +1,525 @@
+{
+  "version": "2.4",
+  "flags": {
+    "strModelFlags": [
+      {
+        "name": "MF_IS_VAN",
+        "description": "Allows double doors for the rear doors animation."
+      },
+      {
+        "name": "MF_IS_BUS",
+        "description": "Uses bus animations for entry/exit."
+      },
+      {
+        "name": "MF_IS_LOW",
+        "description": "Uses animations suitable for cars with a low ride-height."
+      },
+      {
+        "name": "MF_IS_BIG",
+        "description": "Changes the way that the AI drives around corners."
+      },
+      {
+        "name": "MF_ABS_STD",
+        "description": "Arcade Anti-Lock Braking System (ABS) equipped as standard; minimal slip allowed."
+      },
+      {
+        "name": "MF_ABS_OPTION",
+        "description": "Arcade Anti-Lock Braking System (ABS) equipped w/ brakes upgrade."
+      },
+      {
+        "name": "MF_ABS_ALT_STD",
+        "description": "Realistic Anti-Lock Braking System (ABS) equipped as standard; some slip allowed."
+      },
+      {
+        "name": "MF_ABS_ALT_OPTION",
+        "description": "Realistic Anti-Lock Braking System (ABS) equipped w/brakes upgrade."
+      },
+      {
+        "name": "MF_NO_DOORS",
+        "description": "For vehicles that don't have any operable doors."
+      },
+      {
+        "name": "MF_TANDEM_SEATING",
+        "description": "Two people will use the front passenger seat."
+      },
+      {
+        "name": "MF_SIT_IN_BOAT",
+        "description": "Uses seated boat animation instead of standing."
+      },
+      {
+        "name": "MF_HAS_TRACKS",
+        "description": "For vehicles with tracks instead of tires."
+      },
+      {
+        "name": "MF_NO_EXHAUST",
+        "description": "Removes all exhaust particles."
+      },
+      {
+        "name": "MF_DOUBLE_EXHAUST",
+        "description": "Creates a second exhaust by mirroring the model's exhaust over the y-axis."
+      },
+      {
+        "name": "MF_NO_1STPERSON_LOOKBEHIND",
+        "description": "Prevents player using rear view when in first-person mode."
+      },
+      {
+        "name": "MF_CAN_ENTER_IF_NO_DOOR",
+        "description": "Allows entry into the vehicle despite no currently accessible doors."
+      },
+      {
+        "name": "MF_AXLE_F_TORSION",
+        "description": "Front wheels stay vertical to the car."
+      },
+      {
+        "name": "MF_AXLE_F_SOLID",
+        "description": "Front wheels stay parallel to each other."
+      },
+      {
+        "name": "MF_AXLE_F_MCPHERSON",
+        "description": "Front wheels can tilt."
+      },
+      {
+        "name": "MF_ATTACH_PED_TO_BODYSHELL",
+        "description": "???"
+      },
+      {
+        "name": "MF_AXLE_R_TORSION",
+        "description": "Rear wheels stay vertical to the car."
+      },
+      {
+        "name": "MF_AXLE_R_SOLID",
+        "description": "Rear wheels stay parallel to each other."
+      },
+      {
+        "name": "MF_AXLE_R_MCPHERSON",
+        "description": "Rear wheels can tilt."
+      },
+      {
+        "name": "MF_DONT_FORCE_GRND_CLEARANCE",
+        "description": "Chassis COL is taken into account when suspension is compressed while hitting the ground, with sparks rendered."
+      },
+      {
+        "name": "MF_DONT_RENDER_STEER",
+        "description": "Does not render steering animations."
+      },
+      {
+        "name": "MF_NO_WHEEL_BURST",
+        "description": "Has Bulletproof Tires as standard."
+      },
+      {
+        "name": "MF_INDESTRUCTIBLE",
+        "description": "Can't explode or be considered inoperable from damage."
+      },
+      {
+        "name": "MF_DOUBLE_FRONT_WHEELS",
+        "description": "Places a second instance of each front wheel next to the normal one."
+      },
+      {
+        "name": "MF_IS_RC",
+        "description": "For RC vehicles such as the RC Bandito and Invade & Persuade Tank. The player model is hidden upon entering the vehicle."
+      },
+      {
+        "name": "MF_DOUBLE_REAR_WHEELS",
+        "description": "Duplicates the skidmarks of the rear tires."
+      },
+      {
+        "name": "MF_NO_WHEEL_BREAK",
+        "description": "Prevents wheel bones from detaching off the vehicle due to damage."
+      },
+      {
+        "name": "MF_IS_HATCHBACK",
+        "description": "Uses animations suitable for Trunk doors on hatchback-style vehicle bodies."
+      }
+    ],
+    "strHandlingFlags": [
+      {
+        "name": "HF_SMOOTHED_COMPRESSION",
+        "description": "Simulates progressive spring suspension. Makes suspension compression motion smoother."
+      },
+      {
+        "name": "HF_REDUCED_MOD_MASS",
+        "description": "Reduces mass added from upgrades."
+      },
+      {
+        "name": "HF_HAS_KERS",
+        "description": "Partially enables KERS on the vehicle; disables horn and shows the recharge bar below the minimap. KERS boost itself still needs to be enabled by the SET_VEHICLE_KERS_ALLOWED native."
+      },
+      {
+        "name": "HF_HAS_TRACKS",
+        "description": "Inverts the way grip works on the vehicle; with this flag enabled, grip starts at the fTractionCurveMin value and may increase up to the fTractionCurveMax value upon wheel slip. Grip stays at max beyond the vehicle's peak slip angle."
+      },
+      {
+        "name": "HF_NO_HANDBRAKE",
+        "description": "Disables handbrake control for the vehicle."
+      },
+      {
+        "name": "HF_STEER_REARWHEELS",
+        "description": "Steers the rear wheels instead of the front."
+      },
+      {
+        "name": "HF_HANDBRAKE_REARWHEELSTEER",
+        "description": "Handbrake control makes the rear wheels steer as well as the front."
+      },
+      {
+        "name": "HF_STEER_ALL_WHEELS",
+        "description": "Steers all wheels, similar to 4-wheel-steering systems found on real vehicles. The rear wheels will steer at the same lock angle as the front, as defined by fSteeringLock."
+      },
+      {
+        "name": "HF_FREEWHEEL_NO_GAS",
+        "description": "Disables engine-braking when no throttle is applied."
+      },
+      {
+        "name": "HF_NO_REVERSE",
+        "description": "Disables reversing for the vehicle."
+      },
+      {
+        "name": "_HF_UNKNOWN_10",
+        "description": "Unknown. Name hash: 0x4C11C7F9"
+      },
+      {
+        "name": "HF_STEER_NO_WHEELS",
+        "description": "Disables steering on all wheels, used with tracked vehicles."
+      },
+      {
+        "name": "HF_CVT",
+        "description": "Gives the vehicle a fixed-ratio transmission with a gear ratio of 0.90, used for vehicles with nInitialDriveGears=1. If gears amount to more than 1, it will simply force the vehicle into top gear upon acceleration. Recommended for electric vehicles."
+      },
+      {
+        "name": "HF_ALT_EXT_WHEEL_BOUNDS_BEH",
+        "description": "???"
+      },
+      {
+        "name": "HF_DONT_RAISE_BOUNDS_AT_SPEED",
+        "description": "???"
+      },
+      {
+        "name": "HF_EXT_WHEEL_BOUNDS_COL",
+        "description": "???"
+      },
+      {
+        "name": "HF_LESS_SNOW_SINK",
+        "description": "Less grip loss from deep mud/snow, most notably in North Yankton."
+      },
+      {
+        "name": "HF_TYRES_CAN_CLIP",
+        "description": "Tires are allowed to clip into the pavement when under enough pressure, effectiveness depends on tire sidewall. Generally makes the vehicle deal with uneven terrain better. Notes: this is the reason Offroad Tires improve performance on specific vehicles made by R*."
+      },
+      {
+        "name": "_HF_UNKNOWN_19",
+        "description": "Unknown. name hash: 0x2DEA7A05"
+      },
+      {
+        "name": "HF_HEAVY_VEHICLE",
+        "description": "???"
+      },
+      {
+        "name": "HF_OFFROAD_ABILITIES",
+        "description": "Scaled version of 00800000; similar effects, least power."
+      },
+      {
+        "name": "HF_OFFROAD_ABILITIES_X2",
+        "description": "Scaled version of 00800000; similar effects, less power."
+      },
+      {
+        "name": "HF_TYRES_RAISE_SIDE_IMPACT_THRESHOLD",
+        "description": "Includes the tires in the general side collision hitbox of the vehicle. Recommended for vehicles whose wheels extend beyond the bodywork, like monster-trucks."
+      },
+      {
+        "name": "_HF_INCREASED_GRAVITY",
+        "description": "Includes bush-collision immunity, flat grip increase proportional to slip angle/lateral velocity, increased vehicle gravity."
+      },
+      {
+        "name": "HF_ENABLE_LEAN",
+        "description": "??? Notes: Possibly for motorcycle leaning or boat leaning."
+      },
+      {
+        "name": "_HF_ALLOW_MOTORCYCLE_TRACTION_LOSS",
+        "description": "Allows motorcycles to lose traction."
+      },
+      {
+        "name": "HF_HEAVYARMOUR",
+        "description": "???"
+      },
+      {
+        "name": "HF_ARMOURED",
+        "description": "Prevents vehicle doors (including hood and trunk) from opening in collisions."
+      },
+      {
+        "name": "HF_SELF_RIGHTING_IN_WATER",
+        "description": "???"
+      },
+      {
+        "name": "HF_IMPROVED_RIGHTING_FORCE",
+        "description": "Adds extra force to the vehicle when attempting to flip it back on its wheels."
+      },
+      {
+        "name": "HF_USE_EXTRA_SOFT_SURFACE_SUS",
+        "description": "???"
+      },
+      {
+        "name": "HF_LAST_AVAILABLE_FLAG",
+        "description": "Most likely doesn't do anything."
+      }
+    ],
+    "strDamageFlags": [
+      {
+        "name": "DF_DRIVER_SIDE_FRONT_DOOR",
+        "description": "Marks the driver-side front door (door_dside_f) bone as non-breakable."
+      },
+      {
+        "name": "DF_DRIVER_SIDE_REAR_DOOR",
+        "description": "Marks the driver-side rear door (door_dside_r) bone as non-breakable."
+      },
+      {
+        "name": "DF_DRIVER_PASSENGER_SIDE_FRONT_DOOR",
+        "description": "Marks the passenger-side front door (door_pside_f) bone as non-breakable."
+      },
+      {
+        "name": "DF_DRIVER_PASSENGER_SIDE_REAR_DOOR",
+        "description": "Marks the passenger-side rear door (door_pside_r) bone as non-breakable."
+      },
+      {
+        "name": "DF_BONNET",
+        "description": "Marks the bonnet bone as non-breakable."
+      },
+      {
+        "name": "DF_BOOT",
+        "description": "Marks the boot bone as non-breakable."
+      },
+      {
+        "name": "N/A",
+        "description": "Flag does not exist."
+      },
+      {
+        "name": "N/A",
+        "description": "Flag does not exist."
+      },
+      {
+        "name": "N/A",
+        "description": "Flag does not exist."
+      },
+      {
+        "name": "N/A",
+        "description": "Flag does not exist."
+      },
+      {
+        "name": "N/A",
+        "description": "Flag does not exist."
+      },
+      {
+        "name": "N/A",
+        "description": "Flag does not exist."
+      },
+      {
+        "name": "N/A",
+        "description": "Flag does not exist."
+      },
+      {
+        "name": "N/A",
+        "description": "Flag does not exist."
+      },
+      {
+        "name": "N/A",
+        "description": "Flag does not exist."
+      },
+      {
+        "name": "N/A",
+        "description": "Flag does not exist."
+      },
+      {
+        "name": "N/A",
+        "description": "Flag does not exist."
+      },
+      {
+        "name": "N/A",
+        "description": "Flag does not exist."
+      },
+      {
+        "name": "N/A",
+        "description": "Flag does not exist."
+      },
+      {
+        "name": "N/A",
+        "description": "Flag does not exist."
+      },
+      {
+        "name": "N/A",
+        "description": "Flag does not exist."
+      },
+      {
+        "name": "N/A",
+        "description": "Flag does not exist."
+      },
+      {
+        "name": "N/A",
+        "description": "Flag does not exist."
+      },
+      {
+        "name": "N/A",
+        "description": "Flag does not exist."
+      },
+      {
+        "name": "N/A",
+        "description": "Flag does not exist."
+      },
+      {
+        "name": "N/A",
+        "description": "Flag does not exist."
+      },
+      {
+        "name": "N/A",
+        "description": "Flag does not exist."
+      },
+      {
+        "name": "N/A",
+        "description": "Flag does not exist."
+      },
+      {
+        "name": "N/A",
+        "description": "Flag does not exist."
+      },
+      {
+        "name": "N/A",
+        "description": "Flag does not exist."
+      },
+      {
+        "name": "N/A",
+        "description": "Flag does not exist."
+      },
+      {
+        "name": "N/A",
+        "description": "Flag does not exist."
+      }
+    ],
+    "strAdvancedFlags": [
+      {
+        "name": "CF_DIFF_FRONT",
+        "description": "Has something to do with revs or gears, as the sounds rev up and momentarily pause when, tested on Issi Classic, driving in a circle."
+      },
+      {
+        "name": "CF_DIFF_REAR",
+        "description": "?"
+      },
+      {
+        "name": "CF_DIFF_CENTRE",
+        "description": "When enabled, transfers the drive force from the slipping wheels to the less-driven wheels. Previously known as _AF_ENABLE_DRIVE_BIAS_TRANSFER"
+      },
+      {
+        "name": "CF_DIFF_LIMITED_FRONT",
+        "description": "If we want torsen diffs they will need to know resistance at the wheel as applying the brakes should apply force back to the wheel on the ground. Previous comment; Seems to have a similar effect to _AF_SMOOTH_REV_1ST, but with later upshifts."
+      },
+      {
+        "name": "CF_DIFF_LIMITED_REAR",
+        "description": "?"
+      },
+      {
+        "name": "CF_DIFF_LIMITED_CENTRE",
+        "description": "?"
+      },
+      {
+        "name": "CF_DIFF_LOCKING_FRONT",
+        "description": "Using this flag causes the vehicle's front wheels to wheelspin if the player is holding down the handbrake and forwards/backwards keys."
+      },
+      {
+        "name": "CF_DIFF_LOCKING_REAR",
+        "description": "Using the handbrake slows the car down more smoothly and, most of the time, without leaving tire marks. Previously known as _AF_SMOOTH_HANDBRAKE"
+      },
+      {
+        "name": "CF_DIFF_LOCKING_CENTRE",
+        "description": "?"
+      },
+      {
+        "name": "CF_GEARBOX_FULL_AUTO",
+        "description": "?"
+      },
+      {
+        "name": "CF_GEARBOX_MANUAL",
+        "description": "Sets the clutch value to 0.0 when idling."
+      },
+      {
+        "name": "CF_GEARBOX_DIRECT_SHIFT",
+        "description": "?"
+      },
+      {
+        "name": "CF_GEARBOX_ELECTRIC",
+        "description": "?"
+      },
+      {
+        "name": "CF_ASSIST_TRACTION_CONTROL",
+        "description": "Just reduce throttle."
+      },
+      {
+        "name": "CF_ASSIST_STABILITY_CONTROL",
+        "description": "Apply brakes to individual wheels."
+      },
+      {
+        "name": "CF_ALLOW_REDUCED_SUSPENSION_FORCE",
+        "description": "Reduce suspension force can be used for 'stancing' cars. Previous comment; Allows the vehicle to be stanced using the _SET_LOWERED_STANCE_ENABLED native. Requires the _AF_IGNORE_TUNED_WHEELS_CLIP flag to be enabled. Previously known as _AF_CAN_BE_STANCED"
+      },
+      {
+        "name": "CF_HARD_REV_LIMIT",
+        "description": "Earlier upshifts, hard rev-limit per gear, low-speed traction control. Previously known as _AF_TRACTION_CONTROL"
+      },
+      {
+        "name": "CF_HOLD_GEAR_WITH_WHEELSPIN",
+        "description": "Later upshifts; usually hits the gear's rev limit before shifting. Previously known as _AF_HOLD_GEAR_LONGER"
+      },
+      {
+        "name": "CF_INCREASE_SUSPENSION_FORCE_WITH_SPEED",
+        "description": "Anti-downforce suspension; increases suspension spring force as vehicle goes faster. Previously known as _AF_STIFFER_SPRING_SPEED"
+      },
+      {
+        "name": "CF_BLOCK_INCREASED_ROT_VELOCITY_WITH_DRIVE_FORCE",
+        "description": "Generates fake wheelspin after an instance of real wheelspin; Tyres will stabilize and show 0.0m/s of slip with debugging data, but the traction behaves like it's still spinning. Previously known as _AF_FAKE_WHEELSPIN"
+      },
+      {
+        "name": "CF_REDUCED_SELF_RIGHTING_SPEED",
+        "description": "Reduces righting force of the vehicle, effectively making it much harder and slower to flip back on its wheels. Previously known as _AF_REDUCED_RIGHTING_FORCE"
+      },
+      {
+        "name": "CF_CLOSE_RATIO_GEARBOX",
+        "description": "Extends the duration of the first gear, giving the vehicle a slower launch with greatly reduced wheelspin. Previously known as _AF_LONGER_1ST"
+      },
+      {
+        "name": "CF_FORCE_SMOOTH_RPM",
+        "description": "Smooth first-gear revving; resistance to hitting the rev-limit. Previously known as _AF_SMOOTH_REV_1ST"
+      },
+      {
+        "name": "CF_ALLOW_TURN_ON_SPOT",
+        "description": "Allows the vehicle to be rotated left or right while parked on the spot. Intended for tanks/tracked vehicles. Previously known as _AF_NEUTRAL_STEER"
+      },
+      {
+        "name": "CF_CAN_WHEELIE",
+        "description": "Allows the vehicle to perform a handbrake wheelie. The Muscle vehicle class is hardcoded to use this flag. Previously known as _AF_HANDBRAKE_WHEELIE"
+      },
+      {
+        "name": "CF_ENABLE_WHEEL_BLOCKER_SIDE_IMPACTS",
+        "description": "Makes the wheels much less likely to clip into the ground when the vehicle is tipped over. Previously known as _AF_REDUCE_EXT_WHEEL_COL_CLIPPING"
+      },
+      {
+        "name": "CF_FIX_OLD_BUGS",
+        "description": "Forced stock-tyre clipping boundaries, the sidewall gain/loss from a custom tyre will not matter. Refer to strHandlingFlags 00020000 above. Also prevents lowering the vehicle by shooting at its wheels/suspension. This flag is required in addition to '_AF_CAN_BE_STANCED' to stance the vehicle through script. Previously known as _AF_IGNORE_TUNED_WHEELS_CLIP"
+      },
+      {
+        "name": "CF_USE_DOWNFORCE_BIAS",
+        "description": "Changes the way Downforce and spoiler tuning works, uses the setup found on Open-Wheel class vehicles in the vanilla game. Each spoiler/bumper tuning has to be given AdvancedData values to affect downforce. Adjusts initial downforce from fDownforceModifier. 'Curb - boosting' seems to be nullified. Previously known as _AF_DOWNFORCE_KERBFIX"
+      },
+      {
+        "name": "CF_REDUCE_BODY_ROLL_WITH_SUSPENSION_MODS",
+        "description": "Reduces body-roll if suspension upgrades are equipped. In addition, the vehicle gains more grip with each suspension option. Previously known as _AF_DECREASE_BODYROLL_TUNING"
+      },
+      {
+        "name": "CF_ALLOWS_EXTENDED_MODS",
+        "description": "Requires AdvancedData to work. Adds Turbo-affecting mods for mod slot 20 (VMT_KNOB) parts, and power-affecting mods for mod slot 22 (VMT_ICE) parts."
+      },
+      {
+        "name": "_CF_REMOVED_FLAG_31",
+        "description": "Confirmed to be non-existent as of b2545."
+      },
+      {
+        "name": "_CF_REMOVED_FLAG_32",
+        "description": "Confirmed to be non-existent as of b2545."
+      }
+    ]
+  }
+}

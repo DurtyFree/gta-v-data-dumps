@@ -97,6 +97,7 @@ Object location dumps contain positions of various objects of a specific type, o
 ## **Misc dumps**
 - **PS3 Builds info XML** ([ps3-builds.xml](ps3-builds.xml)) Early builds information dump from PS3 development versions, can hint some useful information
 - **Vehicle driving style flags** ([drivingStyleFlagValues.json](drivingStyleFlagValues.json)) List of known & unknown GTA V driving style flag values
+- **Vehicle handling flags** ([handlingFlagValues.json](handlingFlagValues.json)) List of known & unknown GTA V handling related flag values
 - **Various game flags** ([flagValues.json](flagValues.json)) List of various known & unknown GTA V flag values for YTYP, YMAP & other data formats. Most known flags researched by the modding community!
 - **Multiplayer ped clothes restriction tags** ([pedApparelRestrictionTags.json](pedApparelRestrictionTags.json)) Up2date collection of all available restriction tags for research purposes
 - **Vehicle model manufacturers** ([vehiclesManufacturers.json](vehiclesManufacturers.json)) Up2date collection of all available vehicle model manufacturers

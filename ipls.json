@@ -12470,6 +12470,228 @@
     "ExtraData": {}
   },
   {
+    "Name": "xm3_collision_fixes",
+    "DlcName": "mpchristmas3",
+    "Position": {
+      "X": -301.8096,
+      "Y": 282.47415,
+      "Z": 88.9919
+    },
+    "DimensionMin": {
+      "X": -301.8849,
+      "Y": 282.0548,
+      "Z": 88.20617
+    },
+    "DimensionMax": {
+      "X": -301.7343,
+      "Y": 282.8935,
+      "Z": 89.77763
+    },
+    "ContentFlags": 0,
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 144"
+    }
+  },
+  {
+    "Name": "xm3_cutscene_doors",
+    "DlcName": "mpchristmas3",
+    "Position": {
+      "X": -1516.8965,
+      "Y": 851.1527,
+      "Z": 181.85495
+    },
+    "DimensionMin": {
+      "X": -1517.6805,
+      "Y": 850.78845,
+      "Z": 180.59445
+    },
+    "DimensionMax": {
+      "X": -1516.1125,
+      "Y": 851.5169,
+      "Z": 183.11545
+    },
+    "ContentFlags": 0,
+    "ExtraData": {}
+  },
+  {
+    "Name": "xm3_doc_sign",
+    "DlcName": "mpchristmas3",
+    "Position": {
+      "X": -676.75775,
+      "Y": 314.30054,
+      "Z": 84.855644
+    },
+    "DimensionMin": {
+      "X": -681.2175,
+      "Y": 313.90985,
+      "Z": 83.48117
+    },
+    "DimensionMax": {
+      "X": -672.298,
+      "Y": 314.69125,
+      "Z": 86.23012
+    },
+    "ContentFlags": 0,
+    "ExtraData": {}
+  },
+  {
+    "Name": "xm3_garage_fix",
+    "DlcName": "mpchristmas3",
+    "Position": {
+      "X": -283.23016,
+      "Y": 292.33453,
+      "Z": 98.26943
+    },
+    "DimensionMin": {
+      "X": -301.7447,
+      "Y": 279.6905,
+      "Z": 87.8052
+    },
+    "DimensionMax": {
+      "X": -264.71564,
+      "Y": 304.9786,
+      "Z": 108.733665
+    },
+    "ContentFlags": 0,
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 144"
+    }
+  },
+  {
+    "Name": "xm3_security_fix",
+    "DlcName": "mpchristmas3",
+    "Position": {
+      "X": -868.8834,
+      "Y": -221.19553,
+      "Z": 60.383347
+    },
+    "DimensionMin": {
+      "X": -871.7684,
+      "Y": -225.10776,
+      "Z": 60.322433
+    },
+    "DimensionMax": {
+      "X": -865.99854,
+      "Y": -217.28328,
+      "Z": 60.44426
+    },
+    "ContentFlags": 0,
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 145"
+    }
+  },
+  {
+    "Name": "xm3_stash_cams",
+    "DlcName": "mpchristmas3",
+    "Position": {
+      "X": -144.41113,
+      "Y": 2035.6729,
+      "Z": 112.82061
+    },
+    "DimensionMin": {
+      "X": -3171.3135,
+      "Y": -2222.5977,
+      "Z": 5.3915644
+    },
+    "DimensionMax": {
+      "X": 2882.491,
+      "Y": 6293.9434,
+      "Z": 220.24966
+    },
+    "ContentFlags": 0,
+    "ExtraData": {}
+  },
+  {
+    "Name": "xm3_sum2_fix",
+    "DlcName": "mpchristmas3",
+    "Position": {
+      "X": -788.68713,
+      "Y": -239.31693,
+      "Z": 35.943382
+    },
+    "DimensionMin": {
+      "X": -789.1586,
+      "Y": -239.81287,
+      "Z": 35.943382
+    },
+    "DimensionMax": {
+      "X": -788.2156,
+      "Y": -238.82097,
+      "Z": 35.943386
+    },
+    "ContentFlags": 0,
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 78"
+    }
+  },
+  {
+    "Name": "xm3_train_crash",
+    "DlcName": "mpchristmas3",
+    "Position": {
+      "X": 2616.274,
+      "Y": 1519.9021,
+      "Z": 29.275482
+    },
+    "DimensionMin": {
+      "X": 2593.0725,
+      "Y": 1358.0482,
+      "Z": 20.424654
+    },
+    "DimensionMax": {
+      "X": 2639.4753,
+      "Y": 1681.7559,
+      "Z": 38.12631
+    },
+    "ContentFlags": 0,
+    "ExtraData": {}
+  },
+  {
+    "Name": "xm3_warehouse",
+    "DlcName": "mpchristmas3",
+    "Position": {
+      "X": 607.3692,
+      "Y": -419.27673,
+      "Z": 28.565498
+    },
+    "DimensionMin": {
+      "X": 579.70435,
+      "Y": -468.96533,
+      "Z": 20.592579
+    },
+    "DimensionMax": {
+      "X": 635.03406,
+      "Y": -369.58813,
+      "Z": 36.538418
+    },
+    "ContentFlags": 0,
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 146"
+    }
+  },
+  {
+    "Name": "xm3_warehouse_grnd",
+    "DlcName": "mpchristmas3",
+    "Position": {
+      "X": 623.3314,
+      "Y": -404.74918,
+      "Z": 23.677502
+    },
+    "DimensionMin": {
+      "X": 586.81256,
+      "Y": -445.70306,
+      "Z": 23.548508
+    },
+    "DimensionMax": {
+      "X": 659.8502,
+      "Y": -363.7953,
+      "Z": 23.806496
+    },
+    "ContentFlags": 0,
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 146"
+    }
+  },
+  {
     "Name": "ex_dt1_02_office_01a",
     "DlcName": "mpexecutive",
     "Position": {
@@ -14309,7 +14531,7 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto IPL Group 151"
+      "GroupName": "Auto IPL Group 154"
     }
   },
   {
@@ -14332,7 +14554,7 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto IPL Group 151"
+      "GroupName": "Auto IPL Group 154"
     }
   },
   {
@@ -14355,7 +14577,7 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto IPL Group 151"
+      "GroupName": "Auto IPL Group 154"
     }
   },
   {
@@ -14378,7 +14600,7 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto IPL Group 152"
+      "GroupName": "Auto IPL Group 155"
     }
   },
   {
@@ -14402,7 +14624,7 @@
     "ContentFlags": 0,
     "MloName": "h4_mpapa_yacht",
     "ExtraData": {
-      "GroupName": "Auto IPL Group 152"
+      "GroupName": "Auto IPL Group 155"
     }
   },
   {
@@ -14425,7 +14647,7 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto IPL Group 153"
+      "GroupName": "Auto IPL Group 156"
     }
   },
   {
@@ -14449,7 +14671,7 @@
     "ContentFlags": 0,
     "MloName": "h4_mpapa_yacht",
     "ExtraData": {
-      "GroupName": "Auto IPL Group 153"
+      "GroupName": "Auto IPL Group 156"
     }
   },
   {
@@ -14472,7 +14694,7 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto IPL Group 154"
+      "GroupName": "Auto IPL Group 157"
     }
   },
   {
@@ -14496,7 +14718,7 @@
     "ContentFlags": 0,
     "MloName": "h4_mpapa_yacht",
     "ExtraData": {
-      "GroupName": "Auto IPL Group 154"
+      "GroupName": "Auto IPL Group 157"
     }
   },
   {
@@ -14687,7 +14909,7 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto IPL Group 155"
+      "GroupName": "Auto IPL Group 158"
     }
   },
   {
@@ -14710,7 +14932,7 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto IPL Group 155"
+      "GroupName": "Auto IPL Group 158"
     }
   },
   {
@@ -14754,7 +14976,7 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto IPL Group 155"
+      "GroupName": "Auto IPL Group 158"
     }
   },
   {
@@ -14819,7 +15041,7 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto IPL Group 156"
+      "GroupName": "Auto IPL Group 159"
     }
   },
   {
@@ -14842,7 +15064,7 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto IPL Group 156"
+      "GroupName": "Auto IPL Group 159"
     }
   },
   {
@@ -14865,7 +15087,7 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto IPL Group 156"
+      "GroupName": "Auto IPL Group 159"
     }
   },
   {
@@ -14951,7 +15173,7 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto IPL Group 157"
+      "GroupName": "Auto IPL Group 160"
     }
   },
   {
@@ -15016,7 +15238,7 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto IPL Group 158"
+      "GroupName": "Auto IPL Group 161"
     }
   },
   {
@@ -15060,7 +15282,7 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto IPL Group 159"
+      "GroupName": "Auto IPL Group 162"
     }
   },
   {
@@ -15083,7 +15305,7 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto IPL Group 160"
+      "GroupName": "Auto IPL Group 163"
     }
   },
   {
@@ -15127,7 +15349,7 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto IPL Group 161"
+      "GroupName": "Auto IPL Group 164"
     }
   },
   {
@@ -15150,7 +15372,7 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto IPL Group 162"
+      "GroupName": "Auto IPL Group 165"
     }
   },
   {
@@ -15194,7 +15416,7 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto IPL Group 160"
+      "GroupName": "Auto IPL Group 163"
     }
   },
   {
@@ -15262,7 +15484,7 @@
     "ContentFlags": 0,
     "MloName": "h4_dlc_island_store_1",
     "ExtraData": {
-      "GroupName": "Auto IPL Group 161"
+      "GroupName": "Auto IPL Group 164"
     }
   },
   {
@@ -15286,7 +15508,7 @@
     "ContentFlags": 0,
     "MloName": "h4_dlc_island_office",
     "ExtraData": {
-      "GroupName": "Auto IPL Group 160"
+      "GroupName": "Auto IPL Group 163"
     }
   },
   {
@@ -15309,7 +15531,7 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto IPL Group 162"
+      "GroupName": "Auto IPL Group 165"
     }
   },
   {
@@ -15333,7 +15555,7 @@
     "ContentFlags": 0,
     "MloName": "h4_dlc_island_vault",
     "ExtraData": {
-      "GroupName": "Auto IPL Group 160"
+      "GroupName": "Auto IPL Group 163"
     }
   },
   {
@@ -15356,7 +15578,7 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto IPL Group 158"
+      "GroupName": "Auto IPL Group 161"
     }
   },
   {
@@ -15400,7 +15622,7 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto IPL Group 163"
+      "GroupName": "Auto IPL Group 166"
     }
   },
   {
@@ -15423,7 +15645,7 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto IPL Group 163"
+      "GroupName": "Auto IPL Group 166"
     }
   },
   {
@@ -15509,7 +15731,7 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto IPL Group 162"
+      "GroupName": "Auto IPL Group 165"
     }
   },
   {
@@ -15532,7 +15754,7 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto IPL Group 162"
+      "GroupName": "Auto IPL Group 165"
     }
   },
   {
@@ -15723,7 +15945,7 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto IPL Group 159"
+      "GroupName": "Auto IPL Group 162"
     }
   },
   {
@@ -16229,7 +16451,7 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto IPL Group 157"
+      "GroupName": "Auto IPL Group 160"
     }
   },
   {
@@ -16294,7 +16516,7 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto IPL Group 164"
+      "GroupName": "Auto IPL Group 167"
     }
   },
   {
@@ -16464,7 +16686,7 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto IPL Group 164"
+      "GroupName": "Auto IPL Group 167"
     }
   },
   {
@@ -16550,7 +16772,7 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto IPL Group 158"
+      "GroupName": "Auto IPL Group 161"
     }
   },
   {
@@ -16678,7 +16900,7 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto IPL Group 165"
+      "GroupName": "Auto IPL Group 168"
     }
   },
   {
@@ -16701,7 +16923,7 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto IPL Group 165"
+      "GroupName": "Auto IPL Group 168"
     }
   },
   {
@@ -16724,7 +16946,7 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto IPL Group 165"
+      "GroupName": "Auto IPL Group 168"
     }
   },
   {
@@ -16747,7 +16969,7 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto IPL Group 165"
+      "GroupName": "Auto IPL Group 168"
     }
   },
   {
@@ -16770,7 +16992,7 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto IPL Group 165"
+      "GroupName": "Auto IPL Group 168"
     }
   },
   {
@@ -16793,7 +17015,7 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto IPL Group 165"
+      "GroupName": "Auto IPL Group 168"
     }
   },
   {
@@ -16816,7 +17038,7 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto IPL Group 166"
+      "GroupName": "Auto IPL Group 169"
     }
   },
   {
@@ -16860,7 +17082,7 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto IPL Group 167"
+      "GroupName": "Auto IPL Group 170"
     }
   },
   {
@@ -16883,7 +17105,7 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto IPL Group 166"
+      "GroupName": "Auto IPL Group 169"
     }
   },
   {
@@ -16927,7 +17149,7 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto IPL Group 167"
+      "GroupName": "Auto IPL Group 170"
     }
   },
   {
@@ -16950,7 +17172,7 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto IPL Group 168"
+      "GroupName": "Auto IPL Group 171"
     }
   },
   {
@@ -16994,7 +17216,7 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto IPL Group 168"
+      "GroupName": "Auto IPL Group 171"
     }
   },
   {
@@ -17592,7 +17814,7 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto IPL Group 170"
+      "GroupName": "Auto IPL Group 173"
     }
   },
   {
@@ -17616,7 +17838,7 @@
     "ContentFlags": 0,
     "MloName": "sf_mpapa_yacht",
     "ExtraData": {
-      "GroupName": "Auto IPL Group 170"
+      "GroupName": "Auto IPL Group 173"
     }
   },
   {
@@ -17639,7 +17861,7 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto IPL Group 171"
+      "GroupName": "Auto IPL Group 174"
     }
   },
   {
@@ -17663,7 +17885,7 @@
     "ContentFlags": 0,
     "MloName": "sf_mpapa_yacht",
     "ExtraData": {
-      "GroupName": "Auto IPL Group 171"
+      "GroupName": "Auto IPL Group 174"
     }
   },
   {
@@ -17771,7 +17993,9 @@
       "Z": 65.373116
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 145"
+    }
   },
   {
     "Name": "sf_phones",
@@ -17900,7 +18124,7 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto IPL Group 172"
+      "GroupName": "Auto IPL Group 175"
     }
   },
   {
@@ -17924,7 +18148,7 @@
     "ContentFlags": 0,
     "MloName": "sum_mpapa_yacht",
     "ExtraData": {
-      "GroupName": "Auto IPL Group 172"
+      "GroupName": "Auto IPL Group 175"
     }
   },
   {
@@ -17970,7 +18194,7 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto IPL Group 173"
+      "GroupName": "Auto IPL Group 176"
     }
   },
   {
@@ -18267,7 +18491,7 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto IPL Group 174"
+      "GroupName": "Auto IPL Group 177"
     }
   },
   {
@@ -18425,6 +18649,94 @@
       "GroupName": "Highlife Apartments",
       "Category": "Apartments"
     }
+  },
+  {
+    "Name": "xm3_int_placement_xm3_interior_0_dlc_int_01_xm3_milo_",
+    "DlcName": "mpchristmas3",
+    "Position": {
+      "X": 484.73785,
+      "Y": -2625.02,
+      "Z": -48.912575
+    },
+    "DimensionMin": {
+      "X": 479.81287,
+      "Y": -2627.1946,
+      "Z": -50.46411
+    },
+    "DimensionMax": {
+      "X": 489.66287,
+      "Y": -2622.8455,
+      "Z": -47.36104
+    },
+    "ContentFlags": 0,
+    "MloName": "xm3_dlc_int_01_xm3",
+    "ExtraData": {}
+  },
+  {
+    "Name": "xm3_int_placement_xm3_interior_1_dlc_int_02_xm3_milo_",
+    "DlcName": "mpchristmas3",
+    "Position": {
+      "X": 522.39575,
+      "Y": -2619.444,
+      "Z": -48.0
+    },
+    "DimensionMin": {
+      "X": 511.53903,
+      "Y": -2640.4956,
+      "Z": -50.1
+    },
+    "DimensionMax": {
+      "X": 533.25244,
+      "Y": -2598.3926,
+      "Z": -45.9
+    },
+    "ContentFlags": 0,
+    "MloName": "xm3_dlc_int_02_xm3",
+    "ExtraData": {}
+  },
+  {
+    "Name": "xm3_int_placement_xm3_interior_2_dlc_int_03_xm3_milo_",
+    "DlcName": "mpchristmas3",
+    "Position": {
+      "X": 582.3526,
+      "Y": -441.52368,
+      "Z": -61.978344
+    },
+    "DimensionMin": {
+      "X": 550.97925,
+      "Y": -489.51288,
+      "Z": -72.69665
+    },
+    "DimensionMax": {
+      "X": 613.72595,
+      "Y": -393.53445,
+      "Z": -51.26004
+    },
+    "ContentFlags": 0,
+    "MloName": "xm3_dlc_int_03_xm3",
+    "ExtraData": {}
+  },
+  {
+    "Name": "xm3_int_placement_xm3_interior_3_dlc_int_04_xm3_milo_",
+    "DlcName": "mpchristmas3",
+    "Position": {
+      "X": 494.45758,
+      "Y": -2561.078,
+      "Z": -56.6979
+    },
+    "DimensionMin": {
+      "X": 476.05057,
+      "Y": -2576.182,
+      "Z": -67.59698
+    },
+    "DimensionMax": {
+      "X": 512.8646,
+      "Y": -2545.9739,
+      "Z": -45.79882
+    },
+    "ContentFlags": 0,
+    "MloName": "xm3_dlc_int_04_xm3",
+    "ExtraData": {}
   },
   {
     "Name": "xm_x17dlc_int_placement_interior_9_x17dlc_int_01_milo_",
@@ -18755,7 +19067,7 @@
     "ContentFlags": 0,
     "MloName": "xm_x17dlc_int_tun_flat_slope",
     "ExtraData": {
-      "GroupName": "Auto IPL Group 180"
+      "GroupName": "Auto IPL Group 183"
     }
   },
   {
@@ -18999,7 +19311,7 @@
     "ContentFlags": 0,
     "MloName": "v_apart_midspaz",
     "ExtraData": {
-      "GroupName": "Auto IPL Group 181"
+      "GroupName": "Auto IPL Group 184"
     }
   },
   {
@@ -19023,7 +19335,7 @@
     "ContentFlags": 0,
     "MloName": "v_studio_lo",
     "ExtraData": {
-      "GroupName": "Auto IPL Group 181"
+      "GroupName": "Auto IPL Group 184"
     }
   },
   {
@@ -19117,7 +19429,7 @@
     "ContentFlags": 0,
     "MloName": "xm_x17dlc_int_tun_entry",
     "ExtraData": {
-      "GroupName": "Auto IPL Group 180"
+      "GroupName": "Auto IPL Group 183"
     }
   },
   {
@@ -19375,8 +19687,236 @@
     "ContentFlags": 0,
     "MloName": "h4_airstrip_hanger",
     "ExtraData": {
-      "GroupName": "Auto IPL Group 156"
+      "GroupName": "Auto IPL Group 159"
     }
+  },
+  {
+    "Name": "ch_int_placement_ch_interior_9_dlc_casino_shaft_milo_",
+    "DlcName": "mpheist3",
+    "Position": {
+      "X": 2575.9233,
+      "Y": -258.87732,
+      "Z": -104.013504
+    },
+    "DimensionMin": {
+      "X": 2564.5923,
+      "Y": -265.6377,
+      "Z": -150.01361
+    },
+    "DimensionMax": {
+      "X": 2587.2546,
+      "Y": -252.11693,
+      "Z": -58.013405
+    },
+    "ContentFlags": 0,
+    "MloName": "ch_dlc_casino_shaft",
+    "ExtraData": {}
+  },
+  {
+    "Name": "ch_int_placement_ch_interior_8_dlc_tunnel_milo_",
+    "DlcName": "mpheist3",
+    "Position": {
+      "X": 2506.017,
+      "Y": -308.01953,
+      "Z": -69.83264
+    },
+    "DimensionMin": {
+      "X": 2474.9106,
+      "Y": -330.1807,
+      "Z": -71.78063
+    },
+    "DimensionMax": {
+      "X": 2537.1233,
+      "Y": -285.85837,
+      "Z": -67.88465
+    },
+    "ContentFlags": 0,
+    "MloName": "ch_dlc_tunnel",
+    "ExtraData": {}
+  },
+  {
+    "Name": "ch_int_placement_ch_interior_7_dlc_casino_utility_milo_",
+    "DlcName": "mpheist3",
+    "Position": {
+      "X": 2521.8105,
+      "Y": -255.01231,
+      "Z": -31.159325
+    },
+    "DimensionMin": {
+      "X": 2512.7412,
+      "Y": -266.87228,
+      "Z": -40.12297
+    },
+    "DimensionMax": {
+      "X": 2530.88,
+      "Y": -243.15234,
+      "Z": -22.19568
+    },
+    "ContentFlags": 0,
+    "MloName": "ch_dlc_casino_utility",
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 185"
+    }
+  },
+  {
+    "Name": "ch_int_placement_ch_interior_6_dlc_casino_vault_milo_",
+    "DlcName": "mpheist3",
+    "Position": {
+      "X": 2481.4707,
+      "Y": -253.4983,
+      "Z": -61.577034
+    },
+    "DimensionMin": {
+      "X": 2419.794,
+      "Y": -290.5584,
+      "Z": -72.77426
+    },
+    "DimensionMax": {
+      "X": 2543.1472,
+      "Y": -216.4382,
+      "Z": -50.37981
+    },
+    "ContentFlags": 0,
+    "MloName": "ch_dlc_casino_vault",
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 186"
+    }
+  },
+  {
+    "Name": "ch_int_placement_ch_interior_5_dlc_casino_loading_milo_",
+    "DlcName": "mpheist3",
+    "Position": {
+      "X": 2582.686,
+      "Y": -305.89587,
+      "Z": -62.723167
+    },
+    "DimensionMin": {
+      "X": 2506.8582,
+      "Y": -347.57507,
+      "Z": -71.723175
+    },
+    "DimensionMax": {
+      "X": 2658.514,
+      "Y": -264.2167,
+      "Z": -53.723156
+    },
+    "ContentFlags": 0,
+    "MloName": "ch_dlc_casino_loading",
+    "ExtraData": {}
+  },
+  {
+    "Name": "ch_int_placement_ch_interior_4_dlc_casino_hotel_milo_",
+    "DlcName": "mpheist3",
+    "Position": {
+      "X": 2507.963,
+      "Y": -261.5648,
+      "Z": -45.918076
+    },
+    "DimensionMin": {
+      "X": 2483.8997,
+      "Y": -294.0035,
+      "Z": -59.713165
+    },
+    "DimensionMax": {
+      "X": 2532.026,
+      "Y": -229.12605,
+      "Z": -32.122982
+    },
+    "ContentFlags": 0,
+    "MloName": "ch_dlc_casino_hotel",
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 185"
+    }
+  },
+  {
+    "Name": "ch_int_placement_ch_interior_3_dlc_casino_back_milo_",
+    "DlcName": "mpheist3",
+    "Position": {
+      "X": 2525.6233,
+      "Y": -257.10718,
+      "Z": -56.72315
+    },
+    "DimensionMin": {
+      "X": 2499.5203,
+      "Y": -303.2402,
+      "Z": -61.323154
+    },
+    "DimensionMax": {
+      "X": 2551.7263,
+      "Y": -210.97418,
+      "Z": -52.123142
+    },
+    "ContentFlags": 0,
+    "MloName": "ch_dlc_casino_back",
+    "ExtraData": {}
+  },
+  {
+    "Name": "ch_int_placement_ch_interior_0_dlc_casino_heist_milo_",
+    "DlcName": "mpheist3",
+    "Position": {
+      "X": 2499.0178,
+      "Y": -260.76425,
+      "Z": -56.846096
+    },
+    "DimensionMin": {
+      "X": 2460.6707,
+      "Y": -303.70624,
+      "Z": -62.1238
+    },
+    "DimensionMax": {
+      "X": 2537.365,
+      "Y": -217.82227,
+      "Z": -51.568394
+    },
+    "ContentFlags": 0,
+    "MloName": "ch_dlc_casino_heist",
+    "ExtraData": {
+      "GroupName": "Auto IPL Group 186"
+    }
+  },
+  {
+    "Name": "ch_int_placement_ch_interior_1_dlc_arcade_milo_",
+    "DlcName": "mpheist3",
+    "Position": {
+      "X": 2730.1216,
+      "Y": -376.9333,
+      "Z": -48.75149
+    },
+    "DimensionMin": {
+      "X": 2719.5999,
+      "Y": -392.88107,
+      "Z": -52.99999
+    },
+    "DimensionMax": {
+      "X": 2740.6436,
+      "Y": -360.9855,
+      "Z": -44.502995
+    },
+    "ContentFlags": 0,
+    "MloName": "ch_dlc_arcade",
+    "ExtraData": {}
+  },
+  {
+    "Name": "ch_int_placement_ch_interior_2_dlc_plan_milo_",
+    "DlcName": "mpheist3",
+    "Position": {
+      "X": 2694.3901,
+      "Y": -375.59583,
+      "Z": -53.870544
+    },
+    "DimensionMin": {
+      "X": 2636.0356,
+      "Y": -404.08844,
+      "Z": -59.213184
+    },
+    "DimensionMax": {
+      "X": 2752.7444,
+      "Y": -347.10324,
+      "Z": -48.52791
+    },
+    "ContentFlags": 0,
+    "MloName": "ch_dlc_plan",
+    "ExtraData": {}
   },
   {
     "Name": "hei_dt1_02_interior_dt1_02_carpark",
@@ -19563,7 +20103,7 @@
     "ContentFlags": 0,
     "MloName": "hei_dlc_apart_high_new",
     "ExtraData": {
-      "GroupName": "Auto IPL Group 178"
+      "GroupName": "Auto IPL Group 181"
     }
   },
   {
@@ -19587,7 +20127,7 @@
     "ContentFlags": 0,
     "MloName": "hei_dlc_apart_high_new",
     "ExtraData": {
-      "GroupName": "Auto IPL Group 182"
+      "GroupName": "Auto IPL Group 187"
     }
   },
   {
@@ -19611,7 +20151,7 @@
     "ContentFlags": 0,
     "MloName": "hei_dlc_apart_high_new",
     "ExtraData": {
-      "GroupName": "Auto IPL Group 182"
+      "GroupName": "Auto IPL Group 187"
     }
   },
   {
@@ -19723,7 +20263,7 @@
     "ContentFlags": 0,
     "MloName": "hei_dlc_apart_high_new",
     "ExtraData": {
-      "GroupName": "Auto IPL Group 183"
+      "GroupName": "Auto IPL Group 188"
     }
   },
   {
@@ -19747,7 +20287,7 @@
     "ContentFlags": 0,
     "MloName": "hei_dlc_apart_high_new",
     "ExtraData": {
-      "GroupName": "Auto IPL Group 176"
+      "GroupName": "Auto IPL Group 179"
     }
   },
   {
@@ -19771,7 +20311,7 @@
     "ContentFlags": 0,
     "MloName": "hei_dlc_apart_high_new",
     "ExtraData": {
-      "GroupName": "Auto IPL Group 183"
+      "GroupName": "Auto IPL Group 188"
     }
   },
   {
@@ -19895,7 +20435,7 @@
     "ContentFlags": 0,
     "MloName": "hei_dlc_apart_high_new",
     "ExtraData": {
-      "GroupName": "Auto IPL Group 177"
+      "GroupName": "Auto IPL Group 180"
     }
   },
   {
@@ -19919,7 +20459,7 @@
     "ContentFlags": 0,
     "MloName": "hei_dlc_apart_high_new",
     "ExtraData": {
-      "GroupName": "Auto IPL Group 177"
+      "GroupName": "Auto IPL Group 180"
     }
   },
   {
@@ -19943,7 +20483,7 @@
     "ContentFlags": 0,
     "MloName": "hei_dlc_apart_high_new",
     "ExtraData": {
-      "GroupName": "Auto IPL Group 175"
+      "GroupName": "Auto IPL Group 178"
     }
   },
   {
@@ -19967,7 +20507,7 @@
     "ContentFlags": 0,
     "MloName": "hei_dlc_apart_high_new",
     "ExtraData": {
-      "GroupName": "Auto IPL Group 175"
+      "GroupName": "Auto IPL Group 178"
     }
   },
   {
@@ -19991,7 +20531,7 @@
     "ContentFlags": 0,
     "MloName": "hei_dlc_apart_high2_new",
     "ExtraData": {
-      "GroupName": "Auto IPL Group 175"
+      "GroupName": "Auto IPL Group 178"
     }
   },
   {
@@ -20015,7 +20555,7 @@
     "ContentFlags": 0,
     "MloName": "hei_dlc_apart_high2_new",
     "ExtraData": {
-      "GroupName": "Auto IPL Group 176"
+      "GroupName": "Auto IPL Group 179"
     }
   },
   {
@@ -20061,7 +20601,7 @@
     "ContentFlags": 0,
     "MloName": "hei_dlc_apart_high2_new",
     "ExtraData": {
-      "GroupName": "Auto IPL Group 177"
+      "GroupName": "Auto IPL Group 180"
     }
   },
   {
@@ -20111,7 +20651,7 @@
     "ContentFlags": 0,
     "MloName": "hei_dlc_apart_high2_new",
     "ExtraData": {
-      "GroupName": "Auto IPL Group 178"
+      "GroupName": "Auto IPL Group 181"
     }
   },
   {
@@ -20135,7 +20675,7 @@
     "ContentFlags": 0,
     "MloName": "hei_dlc_apart_high2_new",
     "ExtraData": {
-      "GroupName": "Auto IPL Group 179"
+      "GroupName": "Auto IPL Group 182"
     }
   },
   {
@@ -20181,7 +20721,7 @@
     "ContentFlags": 0,
     "MloName": "hei_dlc_apart_high_new",
     "ExtraData": {
-      "GroupName": "Auto IPL Group 178"
+      "GroupName": "Auto IPL Group 181"
     }
   },
   {
@@ -20994,7 +21534,7 @@
     "ContentFlags": 0,
     "MloName": "v_clotheslo",
     "ExtraData": {
-      "GroupName": "Auto IPL Group 184"
+      "GroupName": "Auto IPL Group 189"
     }
   },
   {
@@ -21018,7 +21558,7 @@
     "ContentFlags": 0,
     "MloName": "v_gun2",
     "ExtraData": {
-      "GroupName": "Auto IPL Group 184"
+      "GroupName": "Auto IPL Group 189"
     }
   },
   {
@@ -21086,7 +21626,7 @@
     "ContentFlags": 0,
     "MloName": "v_gun2",
     "ExtraData": {
-      "GroupName": "Auto IPL Group 185"
+      "GroupName": "Auto IPL Group 190"
     }
   },
   {
@@ -21132,7 +21672,7 @@
     "ContentFlags": 0,
     "MloName": "v_tattoo",
     "ExtraData": {
-      "GroupName": "Auto IPL Group 185"
+      "GroupName": "Auto IPL Group 190"
     }
   },
   {
@@ -21446,7 +21986,7 @@
     "ContentFlags": 0,
     "MloName": "v_guardtower",
     "ExtraData": {
-      "GroupName": "Auto IPL Group 186"
+      "GroupName": "Auto IPL Group 191"
     }
   },
   {
@@ -21470,7 +22010,7 @@
     "ContentFlags": 0,
     "MloName": "v_guardtower",
     "ExtraData": {
-      "GroupName": "Auto IPL Group 187"
+      "GroupName": "Auto IPL Group 192"
     }
   },
   {
@@ -21494,7 +22034,7 @@
     "ContentFlags": 0,
     "MloName": "v_guardtower",
     "ExtraData": {
-      "GroupName": "Auto IPL Group 188"
+      "GroupName": "Auto IPL Group 193"
     }
   },
   {
@@ -21518,7 +22058,7 @@
     "ContentFlags": 0,
     "MloName": "v_guardtower",
     "ExtraData": {
-      "GroupName": "Auto IPL Group 189"
+      "GroupName": "Auto IPL Group 194"
     }
   },
   {
@@ -21542,7 +22082,7 @@
     "ContentFlags": 0,
     "MloName": "v_guardtower",
     "ExtraData": {
-      "GroupName": "Auto IPL Group 190"
+      "GroupName": "Auto IPL Group 195"
     }
   },
   {
@@ -21566,7 +22106,7 @@
     "ContentFlags": 0,
     "MloName": "v_guardtower",
     "ExtraData": {
-      "GroupName": "Auto IPL Group 191"
+      "GroupName": "Auto IPL Group 196"
     }
   },
   {
@@ -21590,7 +22130,7 @@
     "ContentFlags": 0,
     "MloName": "v_guardtower",
     "ExtraData": {
-      "GroupName": "Auto IPL Group 192"
+      "GroupName": "Auto IPL Group 197"
     }
   },
   {
@@ -21614,7 +22154,7 @@
     "ContentFlags": 0,
     "MloName": "v_guardtower",
     "ExtraData": {
-      "GroupName": "Auto IPL Group 193"
+      "GroupName": "Auto IPL Group 198"
     }
   },
   {
@@ -21638,7 +22178,7 @@
     "ContentFlags": 0,
     "MloName": "v_guardtower",
     "ExtraData": {
-      "GroupName": "Auto IPL Group 194"
+      "GroupName": "Auto IPL Group 199"
     }
   },
   {
@@ -21674,234 +22214,6 @@
   {
     "Name": "hei_cs3_railway_interior_cs3_03railtunnel_int4",
     "ContentFlags": 0,
-    "ExtraData": {}
-  },
-  {
-    "Name": "ch_int_placement_ch_interior_9_dlc_casino_shaft_milo_",
-    "DlcName": "mpheist3",
-    "Position": {
-      "X": 2575.9233,
-      "Y": -258.87732,
-      "Z": -104.013504
-    },
-    "DimensionMin": {
-      "X": 2564.5923,
-      "Y": -265.6377,
-      "Z": -150.01361
-    },
-    "DimensionMax": {
-      "X": 2587.2546,
-      "Y": -252.11693,
-      "Z": -58.013405
-    },
-    "ContentFlags": 0,
-    "MloName": "ch_dlc_casino_shaft",
-    "ExtraData": {}
-  },
-  {
-    "Name": "ch_int_placement_ch_interior_8_dlc_tunnel_milo_",
-    "DlcName": "mpheist3",
-    "Position": {
-      "X": 2506.017,
-      "Y": -308.01953,
-      "Z": -69.83264
-    },
-    "DimensionMin": {
-      "X": 2474.9106,
-      "Y": -330.1807,
-      "Z": -71.78063
-    },
-    "DimensionMax": {
-      "X": 2537.1233,
-      "Y": -285.85837,
-      "Z": -67.88465
-    },
-    "ContentFlags": 0,
-    "MloName": "ch_dlc_tunnel",
-    "ExtraData": {}
-  },
-  {
-    "Name": "ch_int_placement_ch_interior_7_dlc_casino_utility_milo_",
-    "DlcName": "mpheist3",
-    "Position": {
-      "X": 2521.8105,
-      "Y": -255.01231,
-      "Z": -31.159325
-    },
-    "DimensionMin": {
-      "X": 2512.7412,
-      "Y": -266.87228,
-      "Z": -40.12297
-    },
-    "DimensionMax": {
-      "X": 2530.88,
-      "Y": -243.15234,
-      "Z": -22.19568
-    },
-    "ContentFlags": 0,
-    "MloName": "ch_dlc_casino_utility",
-    "ExtraData": {
-      "GroupName": "Auto IPL Group 195"
-    }
-  },
-  {
-    "Name": "ch_int_placement_ch_interior_6_dlc_casino_vault_milo_",
-    "DlcName": "mpheist3",
-    "Position": {
-      "X": 2481.4707,
-      "Y": -253.4983,
-      "Z": -61.577034
-    },
-    "DimensionMin": {
-      "X": 2419.794,
-      "Y": -290.5584,
-      "Z": -72.77426
-    },
-    "DimensionMax": {
-      "X": 2543.1472,
-      "Y": -216.4382,
-      "Z": -50.37981
-    },
-    "ContentFlags": 0,
-    "MloName": "ch_dlc_casino_vault",
-    "ExtraData": {
-      "GroupName": "Auto IPL Group 196"
-    }
-  },
-  {
-    "Name": "ch_int_placement_ch_interior_5_dlc_casino_loading_milo_",
-    "DlcName": "mpheist3",
-    "Position": {
-      "X": 2582.686,
-      "Y": -305.89587,
-      "Z": -62.723167
-    },
-    "DimensionMin": {
-      "X": 2506.8582,
-      "Y": -347.57507,
-      "Z": -71.723175
-    },
-    "DimensionMax": {
-      "X": 2658.514,
-      "Y": -264.2167,
-      "Z": -53.723156
-    },
-    "ContentFlags": 0,
-    "MloName": "ch_dlc_casino_loading",
-    "ExtraData": {}
-  },
-  {
-    "Name": "ch_int_placement_ch_interior_4_dlc_casino_hotel_milo_",
-    "DlcName": "mpheist3",
-    "Position": {
-      "X": 2507.963,
-      "Y": -261.5648,
-      "Z": -45.918076
-    },
-    "DimensionMin": {
-      "X": 2483.8997,
-      "Y": -294.0035,
-      "Z": -59.713165
-    },
-    "DimensionMax": {
-      "X": 2532.026,
-      "Y": -229.12605,
-      "Z": -32.122982
-    },
-    "ContentFlags": 0,
-    "MloName": "ch_dlc_casino_hotel",
-    "ExtraData": {
-      "GroupName": "Auto IPL Group 195"
-    }
-  },
-  {
-    "Name": "ch_int_placement_ch_interior_3_dlc_casino_back_milo_",
-    "DlcName": "mpheist3",
-    "Position": {
-      "X": 2525.6233,
-      "Y": -257.10718,
-      "Z": -56.72315
-    },
-    "DimensionMin": {
-      "X": 2499.5203,
-      "Y": -303.2402,
-      "Z": -61.323154
-    },
-    "DimensionMax": {
-      "X": 2551.7263,
-      "Y": -210.97418,
-      "Z": -52.123142
-    },
-    "ContentFlags": 0,
-    "MloName": "ch_dlc_casino_back",
-    "ExtraData": {}
-  },
-  {
-    "Name": "ch_int_placement_ch_interior_0_dlc_casino_heist_milo_",
-    "DlcName": "mpheist3",
-    "Position": {
-      "X": 2499.0178,
-      "Y": -260.76425,
-      "Z": -56.846096
-    },
-    "DimensionMin": {
-      "X": 2460.6707,
-      "Y": -303.70624,
-      "Z": -62.1238
-    },
-    "DimensionMax": {
-      "X": 2537.365,
-      "Y": -217.82227,
-      "Z": -51.568394
-    },
-    "ContentFlags": 0,
-    "MloName": "ch_dlc_casino_heist",
-    "ExtraData": {
-      "GroupName": "Auto IPL Group 196"
-    }
-  },
-  {
-    "Name": "ch_int_placement_ch_interior_1_dlc_arcade_milo_",
-    "DlcName": "mpheist3",
-    "Position": {
-      "X": 2730.1216,
-      "Y": -376.9333,
-      "Z": -48.75149
-    },
-    "DimensionMin": {
-      "X": 2719.5999,
-      "Y": -392.88107,
-      "Z": -52.99999
-    },
-    "DimensionMax": {
-      "X": 2740.6436,
-      "Y": -360.9855,
-      "Z": -44.502995
-    },
-    "ContentFlags": 0,
-    "MloName": "ch_dlc_arcade",
-    "ExtraData": {}
-  },
-  {
-    "Name": "ch_int_placement_ch_interior_2_dlc_plan_milo_",
-    "DlcName": "mpheist3",
-    "Position": {
-      "X": 2694.3901,
-      "Y": -375.59583,
-      "Z": -53.870544
-    },
-    "DimensionMin": {
-      "X": 2636.0356,
-      "Y": -404.08844,
-      "Z": -59.213184
-    },
-    "DimensionMax": {
-      "X": 2752.7444,
-      "Y": -347.10324,
-      "Z": -48.52791
-    },
-    "ContentFlags": 0,
-    "MloName": "ch_dlc_plan",
     "ExtraData": {}
   },
   {
@@ -22553,7 +22865,7 @@
     "ContentFlags": 0,
     "MloName": "v_genbank",
     "ExtraData": {
-      "GroupName": "Auto IPL Group 197"
+      "GroupName": "Auto IPL Group 200"
     }
   },
   {
@@ -22599,7 +22911,7 @@
     "ContentFlags": 0,
     "MloName": "v_clotheslo",
     "ExtraData": {
-      "GroupName": "Auto IPL Group 197"
+      "GroupName": "Auto IPL Group 200"
     }
   },
   {
@@ -22623,7 +22935,7 @@
     "ContentFlags": 0,
     "MloName": "v_guardtower",
     "ExtraData": {
-      "GroupName": "Auto IPL Group 186"
+      "GroupName": "Auto IPL Group 191"
     }
   },
   {
@@ -22647,7 +22959,7 @@
     "ContentFlags": 0,
     "MloName": "v_guardtower",
     "ExtraData": {
-      "GroupName": "Auto IPL Group 192"
+      "GroupName": "Auto IPL Group 197"
     }
   },
   {
@@ -22671,7 +22983,7 @@
     "ContentFlags": 0,
     "MloName": "v_gen_liquor",
     "ExtraData": {
-      "GroupName": "Auto IPL Group 197"
+      "GroupName": "Auto IPL Group 200"
     }
   },
   {
@@ -22695,7 +23007,7 @@
     "ContentFlags": 0,
     "MloName": "v_guardtower",
     "ExtraData": {
-      "GroupName": "Auto IPL Group 194"
+      "GroupName": "Auto IPL Group 199"
     }
   },
   {
@@ -22719,7 +23031,7 @@
     "ContentFlags": 0,
     "MloName": "v_guardtower",
     "ExtraData": {
-      "GroupName": "Auto IPL Group 193"
+      "GroupName": "Auto IPL Group 198"
     }
   },
   {
@@ -22743,7 +23055,7 @@
     "ContentFlags": 0,
     "MloName": "v_guardtower",
     "ExtraData": {
-      "GroupName": "Auto IPL Group 191"
+      "GroupName": "Auto IPL Group 196"
     }
   },
   {
@@ -22767,7 +23079,7 @@
     "ContentFlags": 0,
     "MloName": "v_guardtower",
     "ExtraData": {
-      "GroupName": "Auto IPL Group 190"
+      "GroupName": "Auto IPL Group 195"
     }
   },
   {
@@ -22791,7 +23103,7 @@
     "ContentFlags": 0,
     "MloName": "v_guardtower",
     "ExtraData": {
-      "GroupName": "Auto IPL Group 188"
+      "GroupName": "Auto IPL Group 193"
     }
   },
   {
@@ -22859,7 +23171,7 @@
     "ContentFlags": 0,
     "MloName": "v_guardtower",
     "ExtraData": {
-      "GroupName": "Auto IPL Group 189"
+      "GroupName": "Auto IPL Group 194"
     }
   },
   {
@@ -22883,7 +23195,7 @@
     "ContentFlags": 0,
     "MloName": "v_guardtower",
     "ExtraData": {
-      "GroupName": "Auto IPL Group 187"
+      "GroupName": "Auto IPL Group 192"
     }
   },
   {
@@ -23001,7 +23313,7 @@
     "ContentFlags": 0,
     "MloName": "v_franklinshouse",
     "ExtraData": {
-      "GroupName": "Auto IPL Group 174"
+      "GroupName": "Auto IPL Group 177"
     }
   },
   {
@@ -23729,7 +24041,7 @@
     "ContentFlags": 0,
     "MloName": "id1_11_tunnel3_int",
     "ExtraData": {
-      "GroupName": "Auto IPL Group 173"
+      "GroupName": "Auto IPL Group 176"
     }
   },
   {

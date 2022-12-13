@@ -235,6 +235,11 @@
     "Model": "Prop_Drug_package_02"
   },
   {
+    "Name": "PICKUP_PORTABLE_FM_CONTENT_MISSION_ENTITY_SMALL",
+    "Hash": 1610516839,
+    "Model": "PROP_DRUG_PACKAGE"
+  },
+  {
     "Name": "PICKUP_PORTABLE_CRATE_UNFIXED_INCAR",
     "Hash": 1263688126,
     "Model": "PROP_DRUG_PACKAGE"
@@ -480,6 +485,21 @@
     "Model": "w_ar_bullpuprifle"
   },
   {
+    "Name": "PICKUP_WEAPON_PISTOLXM3",
+    "Hash": 3063083075,
+    "Model": "W_PI_Pistol_XM3"
+  },
+  {
+    "Name": "PICKUP_WEAPON_CANDYCANE",
+    "Hash": 1337246736,
+    "Model": "W_ME_Candy_XM3"
+  },
+  {
+    "Name": "PICKUP_WEAPON_RAILGUNXM3",
+    "Hash": 4109932467,
+    "Model": "W_AR_RailGun_XM3"
+  },
+  {
     "Name": "PICKUP_WEAPON_RAYPISTOL",
     "Hash": 3812817136,
     "Model": "W_PI_RAYGUN"
@@ -605,6 +625,16 @@
     "Model": "w_sr_marksmanrifle"
   },
   {
+    "Name": "PICKUP_WEAPON_FLAREGUN",
+    "Hash": 3175998018,
+    "Model": "w_pi_flaregun"
+  },
+  {
+    "Name": "PICKUP_AMMO_FLAREGUN",
+    "Hash": 3759398940,
+    "Model": "w_pi_flaregun_shell"
+  },
+  {
     "Name": "PICKUP_WEAPON_CERAMICPISTOL",
     "Hash": 1601729296,
     "Model": "w_pi_ceramic_pistol"
@@ -633,16 +663,6 @@
     "Name": "PICKUP_WEAPON_MILITARYRIFLE",
     "Hash": 884272848,
     "Model": "w_ar_bullpuprifleh4"
-  },
-  {
-    "Name": "PICKUP_WEAPON_FLAREGUN",
-    "Hash": 3175998018,
-    "Model": "w_pi_flaregun"
-  },
-  {
-    "Name": "PICKUP_AMMO_FLAREGUN",
-    "Hash": 3759398940,
-    "Model": "w_pi_flaregun_shell"
   },
   {
     "Name": "PICKUP_WEAPON_KNUCKLE",

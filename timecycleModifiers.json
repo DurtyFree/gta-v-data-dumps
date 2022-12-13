@@ -5670,6 +5670,76 @@
     "ModificationsCount": 1
   },
   {
+    "Name": "MP_Xmas2022_Pharma_Lab",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 30
+  },
+  {
+    "Name": "MP_Xmas2022_Pharma_Lab_Stairs",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 30
+  },
+  {
+    "Name": "DLC_mpChristmas3_Warehouse",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 46
+  },
+  {
+    "Name": "DLC_mpChristmas3_WarehouseOffic",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 43
+  },
+  {
+    "Name": "MP_Xmas2022_Pharma_Lab_Stairs_B",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 30
+  },
+  {
+    "Name": "DLC_mpChristmas3_LSDTRUCK",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 46
+  },
+  {
+    "Name": "MP_Xmas2022_Garage",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 48
+  },
+  {
+    "Name": "DLC_Xmas_2022_cargo_plane_2",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 44
+  },
+  {
+    "Name": "Christmas3_GargReveal",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 2
+  },
+  {
+    "Name": "MP_Xmas2022_Garage_01",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 48
+  },
+  {
+    "Name": "MP_Xmas2022_Garage_02",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 48
+  },
+  {
+    "Name": "Christmas_COOK_MCS1_BlkOut",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 22
+  },
+  {
+    "Name": "DLC_Xmas_2022_cargo_plane_2A",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 19
+  },
+  {
+    "Name": "DLC_Xmas_2022_lab_exit",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 31
+  },
+  {
     "Name": "RemoteSniper",
     "DlcName": "TitleUpdate",
     "ModificationsCount": 38
@@ -6295,7 +6365,7 @@
     "ModificationsCount": 56
   },
   {
-    "Name": "DEFAULT",
+    "Name": "default",
     "DlcName": "TitleUpdate",
     "ModificationsCount": 0
   },
@@ -6465,7 +6535,7 @@
     "ModificationsCount": 34
   },
   {
-    "Name": "Chop",
+    "Name": "CHOP",
     "DlcName": "TitleUpdate",
     "ModificationsCount": 32
   },
@@ -7663,6 +7733,41 @@
     "Name": "FixerShortTrip_Distort",
     "DlcName": "TitleUpdate",
     "ModificationsCount": 63
+  },
+  {
+    "Name": "PlayerWakeUp",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 35
+  },
+  {
+    "Name": "DaxTrip01",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 51
+  },
+  {
+    "Name": "DaxTrip02",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 31
+  },
+  {
+    "Name": "DaxTrip03",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 50
+  },
+  {
+    "Name": "Dax_TripBase",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 32
+  },
+  {
+    "Name": "Dax_TripBlend01",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 4
+  },
+  {
+    "Name": "Dax_TripBlend02",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 4
   },
   {
     "Name": "li",

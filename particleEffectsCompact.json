@@ -81,6 +81,7 @@
       "ent_amb_water_splash_wide",
       "veh_backfire",
       "weap_hvy_turbulance_water",
+      "exp_xs_mine_spike",
       "ent_amb_leaves_pine",
       "ent_amb_fountain_double",
       "ent_amb_exhaust_thin",
@@ -124,6 +125,7 @@
       "veh_exhaust_heli_misfire",
       "wheel_fric_sand_LOD",
       "exp_air_rpg_plane",
+      "exp_xs_mine_kinetic",
       "water_jetski_bow1",
       "proj_missile_trail",
       "fire_petroltank_heli",
@@ -409,6 +411,7 @@
       "ent_ray_heli_aprtmnt_s_fire",
       "ent_amb_rapid_area_spray",
       "wheel_fric_water_Bike",
+      "exp_xs_mine_tar",
       "sp_fbi_fire_drip_trails",
       "ent_ray_ch2_farm_fire_dble",
       "veh_vent_boat",
@@ -632,6 +635,7 @@
       "wheel_fric_sand_Bike",
       "wheel_fric_leaves",
       "env_dust_devil_rural_lrg",
+      "exp_xs_mine_emp",
       "bullet_tracer",
       "ent_dst_chick_carcass",
       "ent_amb_sewer_drips_sm",
@@ -737,6 +741,8 @@
       "bang_dirt_dry",
       "proj_rpg_trail",
       "water_heli_blades",
+      "veh_backfire_narrow",
+      "exp_xs_mine_slick",
       "bul_plaster_brittle",
       "env_wind_sand_dune",
       "ent_amb_fbi_fire_lg",
@@ -864,6 +870,7 @@
       "wheel_decal_sand_wet_deep",
       "veh_sub_leak",
       "ent_amb_water_roof_pour",
+      "ent_dst_xt_snowman",
       "ent_dst_egg_mulch",
       "wheel_decal_puddle",
       "wheel_fric_hard_Bike",
@@ -3204,6 +3211,56 @@
     ]
   },
   {
+    "DictionaryName": "scr_sum2",
+    "EffectNames": [
+      "scr_sum2_club_vomit",
+      "scr_sum2_plane_splash"
+    ]
+  },
+  {
+    "DictionaryName": "scr_sum2_agent",
+    "EffectNames": [
+      "scr_sum2_agent_helicopter_damage",
+      "scr_sum2_agent_gas",
+      "scr_sum2_agent_room_haze"
+    ]
+  },
+  {
+    "DictionaryName": "scr_sum2_hal",
+    "EffectNames": [
+      "scr_sum2_hal_rider_death_green",
+      "scr_sum2_hal_rider_death_blue",
+      "scr_sum2_hal_hunted_death",
+      "scr_sum2_hal_rider_weak_greyblack",
+      "sp_sum2_hal_rider_death_trail_greyblack",
+      "scr_sum2_hal_rider_death_greyblack",
+      "sp_sum2_hal_rider_death_trail_blue",
+      "scr_sum2_hal_rider_weak_orange",
+      "sp_sum2_hal_rider_death_trail_green",
+      "scr_sum2_hal_bike_flames_green",
+      "scr_sum2_hal_rider_weak_green",
+      "scr_sum2_hal_rider_head_green",
+      "scr_sum2_hal_rider_head_orange",
+      "scr_sum2_hal_rider_weapon_blue",
+      "scr_sum2_hal_rider_weapon_greyblack",
+      "scr_sum2_hal_bike_flames_greyblack",
+      "scr_sum2_hal_bike_flames_blue",
+      "scr_sum2_hal_rider_weapon_orange",
+      "scr_sum2_hal_rider_head_blue",
+      "scr_sum2_hal_rider_death_orange",
+      "scr_sum2_hal_hunted_respawn",
+      "scr_sum2_hal_bike_wheel_flame_blue",
+      "scr_sum2_hal_rider_weak_blue",
+      "scr_sum2_hal_bike_flames_orange",
+      "scr_sum2_hal_bike_wheel_flame_green",
+      "scr_sum2_hal_rider_head_greyblack",
+      "scr_sum2_hal_rider_weapon_green",
+      "scr_sum2_hal_bike_wheel_flame_greyblack",
+      "scr_sum2_hal_bike_wheel_flame_orange",
+      "sp_sum2_hal_rider_death_trail_orange"
+    ]
+  },
+  {
     "DictionaryName": "pat_heist",
     "EffectNames": [
       "scr_heist_ornate_thermal_burn_patch"
@@ -3654,6 +3711,90 @@
     ]
   },
   {
+    "DictionaryName": "cut_xm3",
+    "EffectNames": [
+      "cut_xm3_plane_impacts",
+      "cut_xm3_plane_exhaust",
+      "cut_xm3_impact_dust",
+      "cut_xm3_beer_splash",
+      "cut_xm3_coke_dust",
+      "cut_xm3_plane_crash_left",
+      "cut_xm3_door_explosion",
+      "cut_xm3_mule_wheel_dust",
+      "cut_xm3_plane_smoulder",
+      "cut_xm3_journey_wheel_dirt",
+      "cut_xm3_plane_sparks",
+      "cut_xm3_rpg_muzzle",
+      "cut_xm3_eject_pistol",
+      "cut_xm3_muz_pistol_flash_low",
+      "cut_xm3_plane_debris_trail",
+      "cut_xm3_crate_break_splinters",
+      "cut_xm3_muz_pistol_flash_low_fill",
+      "cut_xm3_exhale_smoke",
+      "cut_xm3_plane_disturb_dust",
+      "cut_xm3_glass_break",
+      "cut_xm3_vehicle_exhaust",
+      "cut_xm3_rpg_explosion",
+      "cut_xm3_plane_wheel_skid",
+      "cut_xm3_muz_pistol_flash",
+      "cut_xm3_plane_crash_right",
+      "cut_xm3_bike_wheel_debris",
+      "cut_xm3_muz_pistol_flash_fill",
+      "cut_xm3_rpg_explosion_debris",
+      "cut_xm3_rpg_trail_smoke",
+      "cut_xm3_muz_pistol"
+    ]
+  },
+  {
+    "DictionaryName": "scr_xt_dax",
+    "EffectNames": [
+      "scr_xt_dax_tequila_fire",
+      "scr_xt_dax_train_spill_haze",
+      "scr_xt_dax_env_chemical_vapor",
+      "scr_xt_dax_train_smoke",
+      "scr_xt_dax_cargo_fire",
+      "scr_xt_dax_exp_gascan"
+    ]
+  },
+  {
+    "DictionaryName": "scr_xt_mugger",
+    "EffectNames": [
+      "scr_xt_mug_appear"
+    ]
+  },
+  {
+    "DictionaryName": "scr_xt_phone",
+    "EffectNames": [
+      "scr_xt_phone_phos_smoke",
+      "scr_xt_phone_wreck_smoke",
+      "scr_xt_phone_duster_spray",
+      "scr_xt_phone_irrigation_spray"
+    ]
+  },
+  {
+    "DictionaryName": "scr_xt_src",
+    "EffectNames": [
+      "scr_xt_src_spill_haze",
+      "scr_xt_src_barrel_mist",
+      "scr_xt_src_trailer_grain_debris"
+    ]
+  },
+  {
+    "DictionaryName": "scr_xt_trip",
+    "EffectNames": [
+      "scr_xt_vanish_smoke",
+      "scr_xt_appear_smoke",
+      "scr_xt_trip_doc_smoke",
+      "scr_xt_trip_eject_gun",
+      "scr_xt_trip_bul_impact",
+      "scr_xt_trip_muz_gun",
+      "scr_xt_trip_clown_death",
+      "scr_xt_trip_muz_musket",
+      "sp_xt_appear_smoke_trails",
+      "scr_xt_trip_rabbit_death"
+    ]
+  },
+  {
     "DictionaryName": "scr_adversary",
     "EffectNames": [
       "scr_emp_prop_light"
@@ -3985,56 +4126,6 @@
     "EffectNames": [
       "scr_sum_q3_block_destroy",
       "scr_sum_q3_block_destroy_charge"
-    ]
-  },
-  {
-    "DictionaryName": "scr_sum2",
-    "EffectNames": [
-      "scr_sum2_club_vomit",
-      "scr_sum2_plane_splash"
-    ]
-  },
-  {
-    "DictionaryName": "scr_sum2_agent",
-    "EffectNames": [
-      "scr_sum2_agent_helicopter_damage",
-      "scr_sum2_agent_gas",
-      "scr_sum2_agent_room_haze"
-    ]
-  },
-  {
-    "DictionaryName": "scr_sum2_hal",
-    "EffectNames": [
-      "scr_sum2_hal_rider_death_green",
-      "scr_sum2_hal_rider_death_blue",
-      "scr_sum2_hal_hunted_death",
-      "scr_sum2_hal_rider_weak_greyblack",
-      "sp_sum2_hal_rider_death_trail_greyblack",
-      "scr_sum2_hal_rider_death_greyblack",
-      "sp_sum2_hal_rider_death_trail_blue",
-      "scr_sum2_hal_rider_weak_orange",
-      "sp_sum2_hal_rider_death_trail_green",
-      "scr_sum2_hal_bike_flames_green",
-      "scr_sum2_hal_rider_weak_green",
-      "scr_sum2_hal_rider_head_green",
-      "scr_sum2_hal_rider_head_orange",
-      "scr_sum2_hal_rider_weapon_blue",
-      "scr_sum2_hal_rider_weapon_greyblack",
-      "scr_sum2_hal_bike_flames_greyblack",
-      "scr_sum2_hal_bike_flames_blue",
-      "scr_sum2_hal_rider_weapon_orange",
-      "scr_sum2_hal_rider_head_blue",
-      "scr_sum2_hal_rider_death_orange",
-      "scr_sum2_hal_hunted_respawn",
-      "scr_sum2_hal_bike_wheel_flame_blue",
-      "scr_sum2_hal_rider_weak_blue",
-      "scr_sum2_hal_bike_flames_orange",
-      "scr_sum2_hal_bike_wheel_flame_green",
-      "scr_sum2_hal_rider_head_greyblack",
-      "scr_sum2_hal_rider_weapon_green",
-      "scr_sum2_hal_bike_wheel_flame_greyblack",
-      "scr_sum2_hal_bike_wheel_flame_orange",
-      "sp_sum2_hal_rider_death_trail_orange"
     ]
   },
   {

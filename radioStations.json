@@ -894,7 +894,19 @@
   },
   {
     "RadioName": "HIDDEN_RADIO_10_SURF",
-    "TranslatedLabel": null,
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "hidden_radio_10_surf",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null
+    },
     "Genre": "1",
     "WheelPosition": 10000,
     "IsHidden": true

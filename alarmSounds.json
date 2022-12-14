@@ -49,14 +49,14 @@
   "PRISON_ALARMS",
   "PROLOGUE_VAULT_ALARMS",
   "prop_boxpile_02b",
-  "SCRIPT\\FBI_Heist_5_Animations",
-  "SCRIPT\\FBI_Heist_5_Finale_02",
-  "SCRIPT\\FBI_HEIST_RAID_GLASS_SMASH",
-  "SCRIPT\\LIFTS",
+  "SCRIPT\\\\FBI_Heist_5_Animations",
+  "SCRIPT\\\\FBI_Heist_5_Finale_02",
+  "SCRIPT\\\\FBI_HEIST_RAID_GLASS_SMASH",
+  "SCRIPT\\\\LIFTS",
   "THE_AGENCY_HEIST_BUILDING_EXPLOSION_MASTER",
   "v_ilev_fib_door_ld",
   "v_ilev_prop_74_emr_3b",
   "v_ilev_prop_74_emr_3b_02",
-  "weapon_carbinerifle",
-  "weapon_stungun"
+  "WEAPON_CARBINERIFLE",
+  "WEAPON_STUNGUN"
 ]

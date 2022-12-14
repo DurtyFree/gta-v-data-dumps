@@ -21,6 +21,11 @@
   "DanceIntensity01",
   "DanceIntensity02",
   "DanceIntensity03",
+  "Dax_TripFreefall",
+  "Dax_TripFreefallImpact",
+  "Dax_TripGameplay",
+  "Dax_TripIntroDoorExplosion",
+  "Dax_TripIntroDrinkBeer",
   "DeadlineNeon",
   "DeathFailMPDark",
   "DeathFailMPIn",
@@ -153,5 +158,6 @@
   "TinyRacerIntroCam",
   "TinyRacerPink",
   "TinyRacerPinkOut",
+  "ULP_PlayerWakeUp",
   "WeaponUpgrade"
 ]

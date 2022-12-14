@@ -448,14 +448,6 @@
     "AudioRef": "0"
   },
   {
-    "AudioName": "OPENING",
-    "AudioRef": "MP_PROPERTIES_ELEVATOR_DOORS"
-  },
-  {
-    "AudioName": "OPENED",
-    "AudioRef": "MP_PROPERTIES_ELEVATOR_DOORS"
-  },
-  {
     "AudioName": "Garage_Door_Open",
     "AudioRef": "GTAO_Script_Doors_Faded_Screen_Sounds"
   },
@@ -466,6 +458,14 @@
   {
     "AudioName": "Event_Message_Purple",
     "AudioRef": "GTAO_FM_Events_Soundset"
+  },
+  {
+    "AudioName": "OPENING",
+    "AudioRef": "MP_PROPERTIES_ELEVATOR_DOORS"
+  },
+  {
+    "AudioName": "OPENED",
+    "AudioRef": "MP_PROPERTIES_ELEVATOR_DOORS"
   },
   {
     "AudioName": "Sink",
@@ -782,6 +782,10 @@
   {
     "AudioName": "Change_Vehicle",
     "AudioRef": "GTAO_Auto_Store_Sounds"
+  },
+  {
+    "AudioName": "Select_Mission_Unavailable",
+    "AudioRef": "DLC_GR_MOC_Computer_Sounds"
   },
   {
     "AudioName": "NAV_LEFT_RIGHT",
@@ -1408,6 +1412,10 @@
     "AudioRef": "DLC_AW_Spectator_Tablet_Sounds"
   },
   {
+    "AudioName": "Super_Mod_Garage_Upgrade_Car_Default",
+    "AudioRef": "0"
+  },
+  {
     "AudioName": "club_crowd_transition",
     "AudioRef": "dlc_btl_club_open_transition_crowd_sounds"
   },
@@ -1598,6 +1606,10 @@
   {
     "AudioName": "Elevator_Descending_Loop",
     "AudioRef": "DLC_IE_Garage_Elevator_Sounds"
+  },
+  {
+    "AudioName": "REMOTE_VEHICLE_LOOP",
+    "AudioRef": "REMOTE_CONTROLLED_VEHICLE_Sounds"
   },
   {
     "AudioName": "10_SEC_WARNING",
@@ -1968,10 +1980,6 @@
     "AudioRef": "DLC_GR_MOC_Computer_Sounds"
   },
   {
-    "AudioName": "Select_Mission_Unavailable",
-    "AudioRef": "DLC_GR_MOC_Computer_Sounds"
-  },
-  {
     "AudioName": "Select_Mission_Are_You_Sure",
     "AudioRef": "DLC_GR_MOC_Computer_Sounds"
   },
@@ -2166,10 +2174,6 @@
   {
     "AudioName": "supermod_wasteland",
     "AudioRef": "Arena_Vehicle_Mod_Shop_Sounds"
-  },
-  {
-    "AudioName": "Super_Mod_Garage_Upgrade_Car_Default",
-    "AudioRef": "0"
   },
   {
     "AudioName": "Hydraulics_Up",
@@ -4248,6 +4252,10 @@
     "AudioRef": "DLC_Stunt_Race_Frontend_Sounds"
   },
   {
+    "AudioName": "NAV_LEFT_RIGHT",
+    "AudioRef": "0"
+  },
+  {
     "AudioName": "PLACE_VEHICLE",
     "AudioRef": "0"
   },
@@ -4264,10 +4272,6 @@
     "AudioRef": "0"
   },
   {
-    "AudioName": "NAV_LEFT_RIGHT",
-    "AudioRef": "0"
-  },
-  {
     "AudioName": "EDIT",
     "AudioRef": "0"
   },
@@ -4278,6 +4282,38 @@
   {
     "AudioName": "HUD_FREEMODE_CANCEL_MASTER",
     "AudioRef": "0"
+  },
+  {
+    "AudioName": "Stash_Acid_Frontend",
+    "AudioRef": "DLC_CM2022_Sell_Stash_Delivery_Sounds"
+  },
+  {
+    "AudioName": "Stash_Acid_Foley",
+    "AudioRef": "DLC_CM2022_Sell_Stash_Delivery_Sounds"
+  },
+  {
+    "AudioName": "Close",
+    "AudioRef": "Truck_Ramp_Sounds"
+  },
+  {
+    "AudioName": "Open",
+    "AudioRef": "Truck_Ramp_Sounds"
+  },
+  {
+    "AudioName": "Stash_Crate_On_Truck",
+    "AudioRef": "DLC_CM2022_Setup_Lab_Equipment_Sounds"
+  },
+  {
+    "AudioName": "PICKUP_DEFAULT",
+    "AudioRef": "HUD_FRONTEND_STANDARD_PICKUPS_SOUNDSET"
+  },
+  {
+    "AudioName": "Scope_Spot_POI",
+    "AudioRef": "GTAO_Heists_HUD_Sounds"
+  },
+  {
+    "AudioName": "Barge_Door",
+    "AudioRef": "dlc_h4_Prep_FC_Sounds"
   },
   {
     "AudioName": "collect_part",
@@ -4368,10 +4404,6 @@
     "AudioRef": "GTAO_APT_DOOR_DOWNSTAIRS_WOOD_SOUNDS"
   },
   {
-    "AudioName": "Barge_Door",
-    "AudioRef": "dlc_h4_Prep_FC_Sounds"
-  },
-  {
     "AudioName": "Attach",
     "AudioRef": "GTAO_Bomb_Plant_Sounds"
   },
@@ -4384,10 +4416,6 @@
     "AudioRef": "DLC_SECURITY_TAIL_AND_DESTROY_Sounds"
   },
   {
-    "AudioName": "PICKUP_DEFAULT",
-    "AudioRef": "HUD_FRONTEND_STANDARD_PICKUPS_SOUNDSET"
-  },
-  {
     "AudioName": "Barge_Door_Metal",
     "AudioRef": "dlc_h4_Prep_FC_Sounds"
   },
@@ -4398,6 +4426,22 @@
   {
     "AudioName": "Collect_Weapon_Component",
     "AudioRef": "Crime_Scene_Sounds"
+  },
+  {
+    "AudioName": "Install_On_Vehicle",
+    "AudioRef": "GTAO_Bomb_Plant_Sounds"
+  },
+  {
+    "AudioName": "generator_on_loop",
+    "AudioRef": "dlc_xm_stealavg_sounds"
+  },
+  {
+    "AudioName": "handle_up",
+    "AudioRef": "dlc_xm_stealavg_sounds"
+  },
+  {
+    "AudioName": "DRUGS_VOMIT",
+    "AudioRef": "FAMILY_5_SOUNDS"
   },
   {
     "AudioName": "PRM2_BEDROOM_AMANDA_SNORE_MASTER",
@@ -4458,10 +4502,6 @@
   {
     "AudioName": "Klaxon_03",
     "AudioRef": "ALARMS_SOUNDSET"
-  },
-  {
-    "AudioName": "Scope_Spot_POI",
-    "AudioRef": "GTAO_Heists_HUD_Sounds"
   },
   {
     "AudioName": "Metal_Detector_Unequip",
@@ -4668,6 +4708,26 @@
     "AudioRef": "Freemode_Mirror_Slash_sounds"
   },
   {
+    "AudioName": "GTAO_XM3_FRM_IG6_STASH_ENTRY_Door_Breach_Kick",
+    "AudioRef": "0"
+  },
+  {
+    "AudioName": "Input_Code_Enter_Correct_Final",
+    "AudioRef": "Safe_Minigame_Sounds"
+  },
+  {
+    "AudioName": "Input_Code_Enter_Wrong",
+    "AudioRef": "Safe_Minigame_Sounds"
+  },
+  {
+    "AudioName": "Input_Code_Up",
+    "AudioRef": "Safe_Minigame_Sounds"
+  },
+  {
+    "AudioName": "Input_Code_Down",
+    "AudioRef": "Safe_Minigame_Sounds"
+  },
+  {
     "AudioName": "Attach",
     "AudioRef": "Prep_Signal_Jammers_Sounds"
   },
@@ -4777,6 +4837,10 @@
   },
   {
     "AudioName": "Go_Kart_Death_Match_Soundset",
+    "AudioRef": "0"
+  },
+  {
+    "AudioName": "LAND_BASED_VEHICLE_FAKE_REVS",
     "AudioRef": "0"
   },
   {
@@ -5532,14 +5596,6 @@
     "AudioRef": "dlc_xm_heists_iaa_morgue_sounds"
   },
   {
-    "AudioName": "generator_on_loop",
-    "AudioRef": "dlc_xm_stealavg_sounds"
-  },
-  {
-    "AudioName": "handle_up",
-    "AudioRef": "dlc_xm_stealavg_sounds"
-  },
-  {
     "AudioName": "cash_room_door_button",
     "AudioRef": "dlc_ch_heist_finale_sounds"
   },
@@ -6120,22 +6176,6 @@
     "AudioRef": "Safe_Minigame_Sounds"
   },
   {
-    "AudioName": "Input_Code_Up",
-    "AudioRef": "Safe_Minigame_Sounds"
-  },
-  {
-    "AudioName": "Input_Code_Down",
-    "AudioRef": "Safe_Minigame_Sounds"
-  },
-  {
-    "AudioName": "Input_Code_Enter_Correct_Final",
-    "AudioRef": "Safe_Minigame_Sounds"
-  },
-  {
-    "AudioName": "Input_Code_Enter_Wrong",
-    "AudioRef": "Safe_Minigame_Sounds"
-  },
-  {
     "AudioName": "Blowtorch_On",
     "AudioRef": "DLC_H4_Underwater_Blowtorch_Sounds"
   },
@@ -6200,6 +6240,10 @@
     "AudioRef": "0"
   },
   {
+    "AudioName": "UFO_Ambience",
+    "AudioRef": "Tripping_Sounds"
+  },
+  {
     "AudioName": "Self_Destruct",
     "AudioRef": "0"
   },
@@ -6256,6 +6300,10 @@
     "AudioRef": "DLC_MPSUM2_ULP2_Rogue_Drones"
   },
   {
+    "AudioName": "Rabbit_Death",
+    "AudioRef": "Tripping_Sounds"
+  },
+  {
     "AudioName": "Riders_Start",
     "AudioRef": "Halloween_Adversary_Sounds"
   },
@@ -6298,6 +6346,26 @@
   {
     "AudioName": "Hang_Up",
     "AudioRef": "Phone_SoundSet_Default"
+  },
+  {
+    "AudioName": "Fall_Land",
+    "AudioRef": "Tripping_Sounds"
+  },
+  {
+    "AudioName": "Train_Crash",
+    "AudioRef": "DAX_1_6_Sounds"
+  },
+  {
+    "AudioName": "Hack_Loop",
+    "AudioRef": "DAX_2_5_Hack_Sounds"
+  },
+  {
+    "AudioName": "Hack_Start",
+    "AudioRef": "DAX_2_5_Hack_Sounds"
+  },
+  {
+    "AudioName": "DAX_2_5_Hack_Sounds",
+    "AudioRef": "0"
   },
   {
     "AudioName": "Music_Cut",
@@ -6512,10 +6580,6 @@
     "AudioRef": "DLC_Apt_Yacht_Ambient_Soundset"
   },
   {
-    "AudioName": "Moor_SEASHARK3_Engine",
-    "AudioRef": "DLC_Apt_Yacht_Ambient_Soundset"
-  },
-  {
     "AudioName": "destroyed",
     "AudioRef": "dlc_ch_hidden_collectibles_sj_sounds"
   },
@@ -6534,6 +6598,14 @@
   {
     "AudioName": "Collect_Treat",
     "AudioRef": "Trick_Or_Treat_sounds"
+  },
+  {
+    "AudioName": "Buried_Stash_Shard",
+    "AudioRef": "Tuner_Collectables_General_Sounds"
+  },
+  {
+    "AudioName": "destroy",
+    "AudioRef": "Snowmen_Colllectible_Sounds"
   },
   {
     "AudioName": "Sonar_Pulse_No_Target",
@@ -6560,6 +6632,10 @@
     "AudioRef": "Tuner_Collectables_General_Sounds"
   },
   {
+    "AudioName": "Attract",
+    "AudioRef": "Snowmen_Colllectible_Sounds"
+  },
+  {
     "AudioName": "EMP_vehicle_affected",
     "AudioRef": "DLC_AW_EMP_Sounds"
   },
@@ -6570,6 +6646,14 @@
   {
     "AudioName": "formation_inactive",
     "AudioRef": "formation_flying_blips_soundset"
+  },
+  {
+    "AudioName": "formation_flying_blips_soundset",
+    "AudioRef": "0"
+  },
+  {
+    "AudioName": "biker_formation_blips_soundset",
+    "AudioRef": "0"
   },
   {
     "AudioName": "player_riding",
@@ -6648,10 +6732,6 @@
     "AudioRef": "HUD_MINI_GAME_SOUNDSET"
   },
   {
-    "AudioName": "ERROR",
-    "AudioRef": "HUD_FRONTEND_MP_SOUNDSET"
-  },
-  {
     "AudioName": "RANK_UP",
     "AudioRef": "HUD_AWARDS"
   },
@@ -6694,6 +6774,10 @@
   {
     "AudioName": "Armour_On",
     "AudioRef": "DLC_GR_Steal_Miniguns_Sounds"
+  },
+  {
+    "AudioName": "ERROR",
+    "AudioRef": "HUD_FRONTEND_MP_SOUNDSET"
   },
   {
     "AudioName": "Timer_10s",

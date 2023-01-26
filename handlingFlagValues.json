@@ -214,11 +214,11 @@
       },
       {
         "name": "HF_OFFROAD_ABILITIES",
-        "description": "Scaled version of 00800000; similar effects, least power."
+        "description": "Gravity constant increased by 10% to 10.78 m/s^2, resulting in increased grip and faster falling when airborne. Acceleration and braking performance is also increased by 10%."
       },
       {
         "name": "HF_OFFROAD_ABILITIES_X2",
-        "description": "Scaled version of 00800000; similar effects, less power."
+        "description": "Gravity constant increased by 20% to 11.76 m/s^2, resulting in increased grip and faster falling when airborne. Acceleration and braking performance is also increased by 20%. Vehicle does not react to bushes."
       },
       {
         "name": "HF_TYRES_RAISE_SIDE_IMPACT_THRESHOLD",
@@ -226,7 +226,7 @@
       },
       {
         "name": "_HF_INCREASED_GRAVITY",
-        "description": "Includes bush-collision immunity, flat grip increase proportional to slip angle/lateral velocity, increased vehicle gravity."
+        "description": "Gravity constant increased by 20% to 11.76 m/s^2, resulting in increased grip and faster falling when airborne. Acceleration and braking performance is also increased by 20%. Vehicle does not react to bushes. Identical to HF_OFFROAD_ABILITIES_X2."
       },
       {
         "name": "HF_ENABLE_LEAN",
@@ -394,11 +394,11 @@
     "strAdvancedFlags": [
       {
         "name": "CF_DIFF_FRONT",
-        "description": "Has something to do with revs or gears, as the sounds rev up and momentarily pause when, tested on Issi Classic, driving in a circle."
+        "description": "Unknown. Note from Rockstar: 'If we want torsen diffs they will need to know resistance at the wheel as applying the brakes should apply force back to the wheel on the ground'."
       },
       {
         "name": "CF_DIFF_REAR",
-        "description": "?"
+        "description": "Unknown. Note from Rockstar: 'If we want torsen diffs they will need to know resistance at the wheel as applying the brakes should apply force back to the wheel on the ground'"
       },
       {
         "name": "CF_DIFF_CENTRE",
@@ -442,7 +442,7 @@
       },
       {
         "name": "CF_GEARBOX_ELECTRIC",
-        "description": "?"
+        "description": "Used by the Omnis e-GT."
       },
       {
         "name": "CF_ASSIST_TRACTION_CONTROL",
@@ -454,11 +454,11 @@
       },
       {
         "name": "CF_ALLOW_REDUCED_SUSPENSION_FORCE",
-        "description": "Reduce suspension force can be used for 'stancing' cars. Previous comment; Allows the vehicle to be stanced using the _SET_LOWERED_STANCE_ENABLED native. Requires the _AF_IGNORE_TUNED_WHEELS_CLIP flag to be enabled. Previously known as _AF_CAN_BE_STANCED"
+        "description": "Reduce suspension force can be used for 'stancing' cars. Previous comment; Allows the vehicle to be stanced using the SET_REDUCED_SUSPENSION_FORCE native. Requires the CF_FIX_OLD_BUGS flag to be enabled. Previously known as _AF_CAN_BE_STANCED"
       },
       {
         "name": "CF_HARD_REV_LIMIT",
-        "description": "Earlier upshifts, hard rev-limit per gear, low-speed traction control. Previously known as _AF_TRACTION_CONTROL"
+        "description": "Only working for Tuner cars, this uncaps the RPM in last gear which causes the power to drop off and lower the top speed of the car (effectively creating a speed cap in last gear). Previously this flag changed gear shift behaviour to cause earlier upshifts with a hard rev limit per gear, but this was changed with the Criminal Enterprises update. Previously known as _AF_TRACTION_CONTROL"
       },
       {
         "name": "CF_HOLD_GEAR_WITH_WHEELSPIN",
@@ -498,7 +498,7 @@
       },
       {
         "name": "CF_FIX_OLD_BUGS",
-        "description": "Forced stock-tyre clipping boundaries, the sidewall gain/loss from a custom tyre will not matter. Refer to strHandlingFlags 00020000 above. Also prevents lowering the vehicle by shooting at its wheels/suspension. This flag is required in addition to '_AF_CAN_BE_STANCED' to stance the vehicle through script. Previously known as _AF_IGNORE_TUNED_WHEELS_CLIP"
+        "description": "Forced stock-tyre clipping boundaries, the sidewall gain/loss from a custom tyre will not matter. Refer to strHandlingFlags 00020000 above. Also prevents lowering the vehicle by shooting at its wheels/suspension. This flag is required in addition to 'CF_ALLOW_REDUCED_SUSPENSION_FORCE' to stance the vehicle through script. Previously known as _AF_IGNORE_TUNED_WHEELS_CLIP"
       },
       {
         "name": "CF_USE_DOWNFORCE_BIAS",
@@ -514,11 +514,11 @@
       },
       {
         "name": "_CF_REMOVED_FLAG_31",
-        "description": "Confirmed to be non-existent as of b2545."
+        "description": "Flag does not exist."
       },
       {
         "name": "_CF_REMOVED_FLAG_32",
-        "description": "Confirmed to be non-existent as of b2545."
+        "description": "Flag does not exist."
       }
     ]
   }

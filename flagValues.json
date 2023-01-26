@@ -1463,24 +1463,120 @@
         "description": "Stop animation at the last animation frame."
       },
       {
-        "name": "_UNK_03",
-        "description": "???"
+        "name": "REPOSITION_WHEN_FINISHED",
+        "description": "Matches the peds physical representation position with the visual representation position after the animation ended."
       },
       {
-        "name": "_UNK_04",
-        "description": "???"
+        "name": "NOT_INTERRUPTABLE",
+        "description": "Animation can't be interrupted by external events."
       },
       {
         "name": "UPPER_BODY_ONLY",
         "description": "Only animate upper body of ped model."
       },
       {
-        "name": "ENABLE_PLAYER_CONTROL",
-        "description": "Enable player control while animation is playing."
+        "name": "SECONDARY",
+        "description": "Animation runs in the secondary task slot which enables the player to for example move."
       },
       {
-        "name": "CANCELABLE",
-        "description": "Animation can be cancelled by player and world impact?"
+        "name": "REORIENT_WHEN_FINISHED",
+        "description": "Matches the peds physical representation direction with the visual representation direction after the animation ended."
+      },
+      {
+        "name": "ABORT_ON_PED_MOVEMENT",
+        "description": "Ends the animation as soon as the ped tries to move."
+      },
+      {
+        "name": "ADDITIVE",
+        "description": "Playback the animation additively. Only works with special animations."
+      },
+      {
+        "name": "TURN_OFF_COLLISION",
+        "description": "Disables collision direction while animation is playing."
+      },
+      {
+        "name": "OVERRIDE_PHYSICS",
+        "description": "Do not apply any physic forces while animation is playing. Also turns off collision"
+      },
+      {
+        "name": "IGNORE_GRAVITY",
+        "description": "Do not apply gravity while animation is playing."
+      },
+      {
+        "name": "EXTRACT_INITIAL_OFFSET",
+        "description": "Extracts the initial offset of the playback position. To be used when playing synced animations on different peds."
+      },
+      {
+        "name": "EXIT_AFTER_INTERRUPTED",
+        "description": "Exits the animation after getting interrupted by a different task (e.g. Natural Motion)"
+      },
+      {
+        "name": "TAG_SYNC_IN",
+        "description": "Sync the animation whilst blending in"
+      },
+      {
+        "name": "TAG_SYNC_OUT",
+        "description": "Sync the animation whilst blending out."
+      },
+      {
+        "name": "TAG_SYNC_CONTINUOUS",
+        "description": "Sync the animation all the time."
+      },
+      {
+        "name": "FORCE_START",
+        "description": "Force the animation to start even if the ped is falling, ragdolling, ..."
+      },
+      {
+        "name": "USE_KINEMATIC_PHYSICS",
+        "description": "Use the kinematic physics mode on the entity for the duration of the animation."
+      },
+      {
+        "name": "USE_MOVER_EXTRACTION",
+        "description": "Updates the peds capsule position every frame based on the animation. Used with USE_KINEMATIC_PHYSICS."
+      },
+      {
+        "name": "HIDE_WEAPON",
+        "description": "Hides the weapon during animation."
+      },
+      {
+        "name": "ENDS_IN_DEAD_POSE",
+        "description": "Kills the ped after the animation finished."
+      },
+      {
+        "name": "ACTIVATE_RAGDOLL_ON_COLLISION",
+        "description": "If the peds ragdoll makes contact with anything physical active ragdoll and fall over."
+      },
+      {
+        "name": "DONT_EXIT_ON_DEATH",
+        "description": "Prevents secondary animation task to end on death."
+      },
+      {
+        "name": "ABORT_ON_WEAPON_DAMAGE",
+        "description": "Cancels the animation on damage events. Also works if NOT_INTERRUPTABLE is set."
+      },
+      {
+        "name": "DISABLE_FORCED_PHYSICS_UPDATE",
+        "description": "Prevent adjusting the capsule on the enter state of the animation."
+      },
+      {
+        "name": "PROCESS_ATTACHMENTS_ON_START",
+        "description": "Forces the attachments to be processed at the start of the animation."
+      },
+      {
+        "name": "EXPAND_PED_CAPSULE_FROM_SKELETON",
+        "description": "Expands the capsule to the extents of the skeleton."
+      },
+      {
+        "name": "USE_ALTERNATIVE_FP_ANIM",
+        "description": "Plays an alternative version of the animation if the player is in first person mode."
+      },
+      {
+        "name": "BLENDOUT_WRT_LAST_FRAME",
+        "description": "Starts blending out the animation earlier, so that blend out duration finishes with the animation."
+      },
+      {
+        "name": "USE_FULL_BLENDING",
+        "description": "Use full blending for this anim and override the heading/position adjustment."
       }
     ],
     "WarningButtonFlags": [

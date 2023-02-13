@@ -1,6 +1,6 @@
 # GTA-V Extracted Data Dumps
 This is a collection of various GTA V data dumps mostly useful for modding &amp; scripting. All of these are auto generated and some are enhanced with data from my GTA V researches.
-#### Join our GTA 5 Modding Discord server: https://discord.gg/hgSutAU
+#### Join our GTA 5 Modding Discord server: https://discord.plebmasters.de
 # My other projects
 [![Durty Cloth Tool](https://i.imgur.com/ZINtfW8.png)](https://cloth.durty.dev/)
 [![Pleb Masters Forge Logo](https://i.imgur.com/hotlSPf.png)](https://forge.plebmasters.de)

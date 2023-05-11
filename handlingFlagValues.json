@@ -20,27 +20,27 @@
       },
       {
         "name": "MF_ABS_STD",
-        "description": "Arcade Anti-Lock Braking System (ABS) equipped as standard; minimal slip allowed."
+        "description": "Arcade style Anti-Lock Braking System (ABS) equipped as standard; minimal slip allowed."
       },
       {
         "name": "MF_ABS_OPTION",
-        "description": "Arcade Anti-Lock Braking System (ABS) equipped w/ brakes upgrade."
+        "description": "Arcade style Anti-Lock Braking System (ABS) equipped with braking upgrade; minimal slip allowed."
       },
       {
         "name": "MF_ABS_ALT_STD",
-        "description": "Realistic Anti-Lock Braking System (ABS) equipped as standard; some slip allowed."
+        "description": "Realistic style Anti-Lock Braking System (ABS) equipped as standard; some slip allowed."
       },
       {
         "name": "MF_ABS_ALT_OPTION",
-        "description": "Realistic Anti-Lock Braking System (ABS) equipped w/brakes upgrade."
+        "description": "Realistic style Anti-Lock Braking System (ABS) equipped with braking upgrade; some slip allowed."
       },
       {
         "name": "MF_NO_DOORS",
-        "description": "For vehicles that don't have any operable doors."
+        "description": "For vehicles that don't have any openable doors."
       },
       {
         "name": "MF_TANDEM_SEATING",
-        "description": "Two people will use the front passenger seat."
+        "description": "Allows two people to use the front passenger seat."
       },
       {
         "name": "MF_SIT_IN_BOAT",
@@ -48,7 +48,7 @@
       },
       {
         "name": "MF_HAS_TRACKS",
-        "description": "For vehicles with tracks instead of tires."
+        "description": "For vehicles with tracks instead of tyres."
       },
       {
         "name": "MF_NO_EXHAUST",
@@ -104,7 +104,7 @@
       },
       {
         "name": "MF_NO_WHEEL_BURST",
-        "description": "Has Bulletproof Tires as standard."
+        "description": "Has Bulletproof Tyres as standard."
       },
       {
         "name": "MF_INDESTRUCTIBLE",
@@ -120,7 +120,7 @@
       },
       {
         "name": "MF_DOUBLE_REAR_WHEELS",
-        "description": "Duplicates the skidmarks of the rear tires."
+        "description": "Duplicates the skidmarks of the rear tyres."
       },
       {
         "name": "MF_NO_WHEEL_BREAK",
@@ -202,7 +202,7 @@
       },
       {
         "name": "HF_TYRES_CAN_CLIP",
-        "description": "Tires are allowed to clip into the pavement when under enough pressure, effectiveness depends on tire sidewall. Generally makes the vehicle deal with uneven terrain better. Notes: this is the reason Offroad Tires improve performance on specific vehicles made by R*."
+        "description": "Tyres are allowed to clip into the pavement when under enough pressure, effectiveness depends on tire sidewall. Generally makes the vehicle deal with uneven terrain better. Notes: this is the reason Offroad Tyres improve performance on specific vehicles made by R*."
       },
       {
         "name": "_HF_UNKNOWN_19",
@@ -222,7 +222,7 @@
       },
       {
         "name": "HF_TYRES_RAISE_SIDE_IMPACT_THRESHOLD",
-        "description": "Includes the tires in the general side collision hitbox of the vehicle. Recommended for vehicles whose wheels extend beyond the bodywork, like monster-trucks."
+        "description": "Includes the tyres in the general side collision hitbox of the vehicle. Recommended for vehicles whose wheels extend beyond the bodywork, like monster-trucks."
       },
       {
         "name": "_HF_INCREASED_GRAVITY",
@@ -250,7 +250,7 @@
       },
       {
         "name": "HF_IMPROVED_RIGHTING_FORCE",
-        "description": "Adds extra force to the vehicle when attempting to flip it back on its wheels."
+        "description": "Increases force acting on the vehicle when attempting to flip it back on its wheels. Makes it easier to flip back over."
       },
       {
         "name": "HF_USE_EXTRA_SOFT_SURFACE_SUS",
@@ -402,7 +402,7 @@
       },
       {
         "name": "CF_DIFF_CENTRE",
-        "description": "When enabled, transfers the drive force from the slipping wheels to the less-driven wheels. Previously known as _AF_ENABLE_DRIVE_BIAS_TRANSFER"
+        "description": "Transfers the drive force from the slipping wheels to the less-driven wheels. Previously known as _AF_ENABLE_DRIVE_BIAS_TRANSFER"
       },
       {
         "name": "CF_DIFF_LIMITED_FRONT",
@@ -418,7 +418,7 @@
       },
       {
         "name": "CF_DIFF_LOCKING_FRONT",
-        "description": "Using this flag causes the vehicle's front wheels to wheelspin if the player is holding down the handbrake and forwards/backwards keys."
+        "description": "Causes the vehicle's front wheels to wheelspin if the player is holding down the handbrake and forwards/backwards keys."
       },
       {
         "name": "CF_DIFF_LOCKING_REAR",

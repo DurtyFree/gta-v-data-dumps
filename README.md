@@ -6,7 +6,7 @@ This is a collection of various GTA V data dumps mostly useful for modding &amp;
 [![Pleb Masters Forge Logo](https://i.imgur.com/hotlSPf.png)](https://forge.plebmasters.de)
 [![Durty Map Editor Logo](https://i.imgur.com/WsRJv3u.png)](https://durty.me)
 
-## All data up2date as of GTA V update: **v2802 (Online 1.64) [DLC: mpchristmas3_g9ec]**
+## All data up2date as of GTA V update: **v2845 (Online 1.66) [DLC: mpchristmas3_g9ec]**
 ---
 ### Please create an issue if you have any problems with the data, so I can improve my generator. You are also welcome to create issues for dumps you would like to see.
 ---
@@ -20,7 +20,7 @@ This is a collection of various GTA V data dumps mostly useful for modding &amp;
 - **Movement Clipsets** ([movementClipsetsCompact.json](movementClipsetsCompact.json)) **557** movement clipsets in total (Usable with SET PED MOVEMENT CLIPSET native)
 - **Walking Movement Clipsets** ([movementClipsetsWalkingCompact.json](movementClipsetsWalkingCompact.json)) **207** movement clipsets in total (Usable with SET PED MOVEMENT CLIPSET native)
 - **(Vehicle Navigation) Nodes** ([nodes.zip](nodes.zip), contains JSON) **259** node cells with **67454** nodes in total (Mostly useful for vehicle navigation, see navigation meshes dump for ped navigation data)
-- **(Offroad & Ped) Navigation Meshes** ([mega.nz MSGPACK download](https://mega.nz/file/oc5UyDqY#-PRv5u6ve0yr3uxHDsQOul5ik98wYUMEmDeF5u-38wE), see [NAVIGATIONMESH.md](navigationmesh.md) for more info) **4816** navmeshes with **7136687** polygons in total (See navigationmesh.md for the messagepack model)
+- **(Offroad & Ped) Navigation Meshes** ([mega.nz MSGPACK download (.7z)](https://mega.nz/file/lLZWwJbR#T3Xm3nQKRTP1Z0XrkzgbbINo54d6wK2Na4Nj6tYfbXI), see [NAVIGATIONMESH.md](navigationmesh.md) for more info) **4816** navmeshes with **7136687** polygons in total (See navigationmesh.md for the messagepack model)
 - **Ped Overlay Collections (Tattoos)** ([pedOverlayCollections.json](pedOverlayCollections.json)) **35** ped overlay collections with **3286** overlays in total (Usable tattos/badges with ped decoration native)
 - **Timecycle Modifiers** ([timecycleModifiers.json](timecycleModifiers.json)) **2925** timecycle modifiers in total (Usable with TIMECYCLE MODIFIER natives)
 - **Explosion Types names** ([explosionTypesCompact.json](explosionTypesCompact.json)) **80** explosion types in total (Usable with ADD EXPLOSION native)

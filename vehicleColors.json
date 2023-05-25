@@ -79,10 +79,14 @@
         "Italian": "Nessuna",
         "Russian": "Нет",
         "Polish": "Brak",
-        "Name": null,
+        "Name": "CMOD_WIN_0",
         "TraditionalChinese": "無",
         "SimplifiedChinese": "无",
-        "Spanish": "De serie"
+        "Spanish": "De serie",
+        "Japanese": "なし",
+        "Korean": "없음",
+        "Portuguese": "Nenhuma",
+        "Mexican": "No"
       }
     },
     {
@@ -100,7 +104,11 @@
         "Name": "CMOD_WIN_1",
         "TraditionalChinese": "淡色煙霧",
         "SimplifiedChinese": "浅色烟雾",
-        "Spanish": "Ahumado claro"
+        "Spanish": "Ahumado claro",
+        "Japanese": "薄い色のスモークガラス",
+        "Korean": "연한 틴팅",
+        "Portuguese": "Fumê claro",
+        "Mexican": "Ahumado claro"
       }
     },
     {
@@ -118,7 +126,11 @@
         "Name": "CMOD_WIN_2",
         "TraditionalChinese": "深色煙霧",
         "SimplifiedChinese": "深色烟雾",
-        "Spanish": "Ahumado oscuro"
+        "Spanish": "Ahumado oscuro",
+        "Japanese": "濃い色のスモークガラス",
+        "Korean": "짙은 틴팅",
+        "Portuguese": "Fumê intermediário",
+        "Mexican": "Ahumado oscuro"
       }
     },
     {
@@ -136,7 +148,11 @@
         "Name": "CMOD_WIN_3",
         "TraditionalChinese": "長形禮車",
         "SimplifiedChinese": "礼车",
-        "Spanish": "Limusina"
+        "Spanish": "Limusina",
+        "Japanese": "リムジン",
+        "Korean": "리무진",
+        "Portuguese": "Fumê escuro",
+        "Mexican": "Limusina"
       }
     },
     {
@@ -154,7 +170,11 @@
         "Name": "CMOD_WIN_4",
         "TraditionalChinese": "調色",
         "SimplifiedChinese": "贴膜",
-        "Spanish": "Tintado"
+        "Spanish": "Tintado",
+        "Japanese": "着色ガラス",
+        "Korean": "틴팅",
+        "Portuguese": "Sombreado",
+        "Mexican": "Entintado"
       }
     }
   ],
@@ -1782,10 +1802,14 @@
         "Italian": "Blu su bianco 1",
         "Russian": "Синий на белом 1",
         "Polish": "Błękit na bieli 1",
-        "Name": null,
+        "Name": "CMOD_PLA_0",
         "TraditionalChinese": "白底藍花樣式µ1",
         "SimplifiedChinese": "白底蓝花µ1",
-        "Spanish": "Azul sobre blanco 1"
+        "Spanish": "Azul sobre blanco 1",
+        "Japanese": "ホワイトにブルー1",
+        "Korean": "흰색 위 파란색 1",
+        "Portuguese": "Azul no branco 1",
+        "Mexican": "Azul sobre blanco 1"
       },
       "FontColorHex": "FF0F2352",
       "FontOutlineColorHex": "FFFFFF"
@@ -1804,7 +1828,11 @@
         "Name": "CMOD_PLA_1",
         "TraditionalChinese": "白底藍花樣式µ2",
         "SimplifiedChinese": "白底蓝花µ2",
-        "Spanish": "Azul sobre blanco 2"
+        "Spanish": "Azul sobre blanco 2",
+        "Japanese": "ホワイトにブルー2",
+        "Korean": "흰색 위 파란색 2",
+        "Portuguese": "Azul no branco 2",
+        "Mexican": "Azul sobre blanco 2"
       },
       "FontColorHex": "FFCF9E00",
       "FontOutlineColorHex": "FFFFFF"
@@ -1823,7 +1851,11 @@
         "Name": "CMOD_PLA_2",
         "TraditionalChinese": "白底藍花樣式µ3",
         "SimplifiedChinese": "白底蓝花µ3",
-        "Spanish": "Azul sobre blanco 3"
+        "Spanish": "Azul sobre blanco 3",
+        "Japanese": "ホワイトにブルー3",
+        "Korean": "흰색 위 파란색 3",
+        "Portuguese": "Azul no branco 3",
+        "Mexican": "Azul sobre blanco 3"
       },
       "FontColorHex": "FFBD7121",
       "FontOutlineColorHex": "FFFFFF"
@@ -1842,7 +1874,11 @@
         "Name": "CMOD_PLA_3",
         "TraditionalChinese": "藍底橙字樣式",
         "SimplifiedChinese": "蓝底黄花",
-        "Spanish": "Amarillo sobre azul"
+        "Spanish": "Amarillo sobre azul",
+        "Japanese": "ブルーにイエロー",
+        "Korean": "파란색 위 노란색",
+        "Portuguese": "Amarelo no azul",
+        "Mexican": "Amarillo sobre azul"
       },
       "FontColorHex": "FF0F2352",
       "FontOutlineColorHex": "FFFF0000"
@@ -1861,7 +1897,11 @@
         "Name": "CMOD_PLA_4",
         "TraditionalChinese": "黑底黃花樣式",
         "SimplifiedChinese": "黑底黄花",
-        "Spanish": "Amarillo sobre negro"
+        "Spanish": "Amarillo sobre negro",
+        "Japanese": "ブラックにイエロー",
+        "Korean": "검은색 위 노란색",
+        "Portuguese": "Amarelo no preto",
+        "Mexican": "Amarillo sobre negro"
       },
       "FontColorHex": "FF0F2352",
       "FontOutlineColorHex": "FFFFFF"

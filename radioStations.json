@@ -12,7 +12,11 @@
       "Name": "RADIO_01_CLASS_ROCK",
       "TraditionalChinese": "Los Santos Rock Radio",
       "SimplifiedChinese": "洛圣都摇滚台",
-      "Spanish": "Los Santos Rock Radio"
+      "Spanish": "Los Santos Rock Radio",
+      "Japanese": "Los Santos Rock Radio",
+      "Korean": "Los Santos Rock Radio",
+      "Portuguese": "Los Santos Rock Radio",
+      "Mexican": "Los Santos Rock Radio"
     },
     "Genre": "1",
     "WheelPosition": 1000,
@@ -31,7 +35,11 @@
       "Name": "RADIO_02_POP",
       "TraditionalChinese": "Non-Stop-Pop FM",
       "SimplifiedChinese": "无止境流行乐电台",
-      "Spanish": "Non-Stop-Pop FM"
+      "Spanish": "Non-Stop-Pop FM",
+      "Japanese": "Non-Stop-Pop FM",
+      "Korean": "Non-Stop-Pop FM",
+      "Portuguese": "Non-Stop-Pop FM",
+      "Mexican": "Non-Stop-Pop FM"
     },
     "Genre": "3",
     "WheelPosition": 2000,
@@ -50,7 +58,11 @@
       "Name": "RADIO_03_HIPHOP_NEW",
       "TraditionalChinese": "Radio Los Santos",
       "SimplifiedChinese": "洛圣都广播电台",
-      "Spanish": "Radio Los Santos"
+      "Spanish": "Radio Los Santos",
+      "Japanese": "Radio Los Santos",
+      "Korean": "Radio Los Santos",
+      "Portuguese": "Radio Los Santos",
+      "Mexican": "Radio Los Santos"
     },
     "Genre": "4",
     "WheelPosition": 3000,
@@ -69,7 +81,11 @@
       "Name": "RADIO_04_PUNK",
       "TraditionalChinese": "Channel X",
       "SimplifiedChinese": "Xµ频道",
-      "Spanish": "Channel X"
+      "Spanish": "Channel X",
+      "Japanese": "Channel X",
+      "Korean": "Channel X",
+      "Portuguese": "Channel X",
+      "Mexican": "Channel X"
     },
     "Genre": "6",
     "WheelPosition": 4000,
@@ -88,7 +104,11 @@
       "Name": "RADIO_05_TALK_01",
       "TraditionalChinese": "West Coast Talk Radio",
       "SimplifiedChinese": "西海岸谈话电台",
-      "Spanish": "West Coast Talk Radio"
+      "Spanish": "West Coast Talk Radio",
+      "Japanese": "West Coast Talk Radio",
+      "Korean": "West Coast Talk Radio",
+      "Portuguese": "West Coast Talk Radio",
+      "Mexican": "West Coast Talk Radio"
     },
     "Genre": "7",
     "WheelPosition": 5000,
@@ -107,7 +127,11 @@
       "Name": "RADIO_06_COUNTRY",
       "TraditionalChinese": "Rebel Radio",
       "SimplifiedChinese": "叛逆电台",
-      "Spanish": "Rebel Radio"
+      "Spanish": "Rebel Radio",
+      "Japanese": "Rebel Radio",
+      "Korean": "Rebel Radio",
+      "Portuguese": "Rebel Radio",
+      "Mexican": "Rebel Radio"
     },
     "Genre": "9",
     "WheelPosition": 6000,
@@ -126,7 +150,11 @@
       "Name": "RADIO_07_DANCE_01",
       "TraditionalChinese": "Soulwax FM",
       "SimplifiedChinese": "灵魂之蜡电台",
-      "Spanish": "Soulwax FM"
+      "Spanish": "Soulwax FM",
+      "Japanese": "Soulwax FM",
+      "Korean": "Soulwax FM",
+      "Portuguese": "Soulwax FM",
+      "Mexican": "Soulwax FM"
     },
     "Genre": "10",
     "WheelPosition": 7000,
@@ -145,7 +173,11 @@
       "Name": "RADIO_08_MEXICAN",
       "TraditionalChinese": "East Los FM",
       "SimplifiedChinese": "东洛电台",
-      "Spanish": "East Los FM"
+      "Spanish": "East Los FM",
+      "Japanese": "East Los FM",
+      "Korean": "East Los FM",
+      "Portuguese": "East Los FM",
+      "Mexican": "East Los FM"
     },
     "Genre": "11",
     "WheelPosition": 8000,
@@ -164,7 +196,11 @@
       "Name": "RADIO_09_HIPHOP_OLD",
       "TraditionalChinese": "West Coast Classics",
       "SimplifiedChinese": "西海岸经典",
-      "Spanish": "West Coast Classics"
+      "Spanish": "West Coast Classics",
+      "Japanese": "West Coast Classics",
+      "Korean": "West Coast Classics",
+      "Portuguese": "West Coast Classics",
+      "Mexican": "West Coast Classics"
     },
     "Genre": "4",
     "WheelPosition": 9000,
@@ -183,7 +219,11 @@
       "Name": "RADIO_11_TALK_02",
       "TraditionalChinese": "Blaine County Radio",
       "SimplifiedChinese": "布莱恩郡之声",
-      "Spanish": "Blaine County Radio"
+      "Spanish": "Blaine County Radio",
+      "Japanese": "Blaine County Radio",
+      "Korean": "Blaine County Radio",
+      "Portuguese": "Blaine County Radio",
+      "Mexican": "Blaine County Radio"
     },
     "Genre": "8",
     "WheelPosition": 11000,
@@ -202,7 +242,11 @@
       "Name": "RADIO_12_REGGAE",
       "TraditionalChinese": "Blue Ark",
       "SimplifiedChinese": "蓝色方舟",
-      "Spanish": "Blue Ark"
+      "Spanish": "Blue Ark",
+      "Japanese": "Blue Ark",
+      "Korean": "Blue Ark",
+      "Portuguese": "Blue Ark",
+      "Mexican": "Blue Ark"
     },
     "Genre": "12",
     "WheelPosition": 12000,
@@ -221,7 +265,11 @@
       "Name": "RADIO_13_JAZZ",
       "TraditionalChinese": "Worldwide FM",
       "SimplifiedChinese": "全球电台",
-      "Spanish": "Worldwide FM"
+      "Spanish": "Worldwide FM",
+      "Japanese": "Worldwide FM",
+      "Korean": "Worldwide FM",
+      "Portuguese": "Worldwide FM",
+      "Mexican": "Worldwide FM"
     },
     "Genre": "13",
     "WheelPosition": 13000,
@@ -240,7 +288,11 @@
       "Name": "RADIO_14_DANCE_02",
       "TraditionalChinese": "FlyLo FM",
       "SimplifiedChinese": "飞莲电台",
-      "Spanish": "FlyLo FM"
+      "Spanish": "FlyLo FM",
+      "Japanese": "FlyLo FM",
+      "Korean": "FlyLo FM",
+      "Portuguese": "FlyLo FM",
+      "Mexican": "FlyLo FM"
     },
     "Genre": "10",
     "WheelPosition": 14000,
@@ -259,7 +311,11 @@
       "Name": "RADIO_15_MOTOWN",
       "TraditionalChinese": "The Lowdown 91.1",
       "SimplifiedChinese": "真相µ91.1",
-      "Spanish": "The Lowdown 91.1"
+      "Spanish": "The Lowdown 91.1",
+      "Japanese": "The Lowdown 91.1",
+      "Korean": "The Lowdown 91.1",
+      "Portuguese": "The Lowdown 91.1",
+      "Mexican": "The Lowdown 91.1"
     },
     "Genre": "14",
     "WheelPosition": 15000,
@@ -278,7 +334,11 @@
       "Name": "RADIO_16_SILVERLAKE",
       "TraditionalChinese": "Radio Mirror Park",
       "SimplifiedChinese": "明镜公园之音",
-      "Spanish": "Radio Mirror Park"
+      "Spanish": "Radio Mirror Park",
+      "Japanese": "Radio Mirror Park",
+      "Korean": "Radio Mirror Park",
+      "Portuguese": "Radio Mirror Park",
+      "Mexican": "Radio Mirror Park"
     },
     "Genre": "1",
     "WheelPosition": 16000,
@@ -297,7 +357,11 @@
       "Name": "RADIO_17_FUNK",
       "TraditionalChinese": "Space 103.2",
       "SimplifiedChinese": "103.2µ空间",
-      "Spanish": "Space 103.2"
+      "Spanish": "Space 103.2",
+      "Japanese": "Space 103.2",
+      "Korean": "Space 103.2",
+      "Portuguese": "Space 103.2",
+      "Mexican": "Space 103.2"
     },
     "Genre": "14",
     "WheelPosition": 17000,
@@ -316,7 +380,11 @@
       "Name": "RADIO_18_90s_ROCK",
       "TraditionalChinese": "Vinewood Boulevard Radio",
       "SimplifiedChinese": "好麦坞大道电台",
-      "Spanish": "Vinewood Boulevard Radio"
+      "Spanish": "Vinewood Boulevard Radio",
+      "Japanese": "Vinewood Boulevard Radio",
+      "Korean": "Vinewood Boulevard Radio",
+      "Portuguese": "Vinewood Boulevard Radio",
+      "Mexican": "Vinewood Boulevard Radio"
     },
     "Genre": "1",
     "WheelPosition": 18000,
@@ -326,7 +394,7 @@
     "RadioName": "RADIO_19_USER",
     "TranslatedLabel": {
       "Hash": 4149039730,
-      "English": "User Music FM",
+      "English": "Self Radio",
       "German": "Self Radio",
       "French": "Radio Perso",
       "Italian": "Radio personale",
@@ -335,7 +403,11 @@
       "Name": "RADIO_19_USER",
       "TraditionalChinese": "個人廣播電台",
       "SimplifiedChinese": "自电台",
-      "Spanish": "Música del usuario FM"
+      "Spanish": "Tu radio",
+      "Japanese": "Self Radio",
+      "Korean": "셀프 라디오",
+      "Portuguese": "Rádio Pessoal",
+      "Mexican": "Tu radio"
     },
     "Genre": "16",
     "WheelPosition": 19000,
@@ -344,17 +416,21 @@
   {
     "RadioName": "RADIO_20_THELAB",
     "TranslatedLabel": {
-      "Hash": 0,
-      "English": null,
-      "German": null,
-      "French": null,
-      "Italian": null,
-      "Russian": null,
-      "Polish": null,
+      "Hash": 2361815126,
+      "English": "The Lab",
+      "German": "The Lab",
+      "French": "The Lab",
+      "Italian": "The Lab",
+      "Russian": "The Lab",
+      "Polish": "The Lab",
       "Name": "RADIO_20_THELAB",
-      "TraditionalChinese": null,
-      "SimplifiedChinese": null,
-      "Spanish": null
+      "TraditionalChinese": "The Lab",
+      "SimplifiedChinese": "实验室",
+      "Spanish": "The Lab",
+      "Japanese": "The Lab",
+      "Korean": "The Lab",
+      "Portuguese": "The Lab",
+      "Mexican": "The Lab"
     },
     "Genre": "4",
     "WheelPosition": 15100,
@@ -363,17 +439,21 @@
   {
     "RadioName": "RADIO_21_DLC_XM17",
     "TranslatedLabel": {
-      "Hash": 0,
-      "English": null,
-      "German": null,
-      "French": null,
-      "Italian": null,
-      "Russian": null,
-      "Polish": null,
+      "Hash": 1429421331,
+      "English": "Blonded Los Santos 97.8 FM",
+      "German": "Blonded Los Santos 97.8 FM",
+      "French": "Blonded Los Santos 97.8 FM",
+      "Italian": "Blonded Los Santos 97.8 FM",
+      "Russian": "Blonded Los Santos 97.8 FM",
+      "Polish": "Blonded Los Santos 97.8 FM",
       "Name": "RADIO_21_DLC_XM17",
-      "TraditionalChinese": null,
-      "SimplifiedChinese": null,
-      "Spanish": null
+      "TraditionalChinese": "Blonded Los Santos 97.8 FM",
+      "SimplifiedChinese": "金发洛圣都µ97.8µ电台",
+      "Spanish": "Blonded Los Santos 97.8 FM",
+      "Japanese": "BlondedµLosµSantosµ97.8µFM",
+      "Korean": "Blonded LS 97.8 FM",
+      "Portuguese": "Blonded Los Santos 97.8 FM",
+      "Mexican": "Blonded Los Santos 97.8 FM"
     },
     "Genre": "4",
     "WheelPosition": 18200,
@@ -392,7 +472,11 @@
       "Name": "RADIO_22_DLC_BATTLE_MIX1_CLUB",
       "TraditionalChinese": null,
       "SimplifiedChinese": null,
-      "Spanish": null
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
     },
     "Genre": "10",
     "WheelPosition": 18000,
@@ -401,17 +485,21 @@
   {
     "RadioName": "RADIO_22_DLC_BATTLE_MIX1_RADIO",
     "TranslatedLabel": {
-      "Hash": 0,
-      "English": null,
-      "German": null,
-      "French": null,
-      "Italian": null,
-      "Russian": null,
-      "Polish": null,
+      "Hash": 4173244950,
+      "English": "Los Santos Underground Radio",
+      "German": "Los Santos Underground Radio",
+      "French": "Los Santos Underground Radio",
+      "Italian": "Los Santos Underground Radio",
+      "Russian": "Los Santos Underground Radio",
+      "Polish": "Radio Los Santos Underground",
       "Name": "RADIO_22_DLC_BATTLE_MIX1_RADIO",
-      "TraditionalChinese": null,
-      "SimplifiedChinese": null,
-      "Spanish": null
+      "TraditionalChinese": "Los Santos Underground Radio",
+      "SimplifiedChinese": "洛圣都地下电台",
+      "Spanish": "Los Santos Underground Radio",
+      "Japanese": "Los Santos Underground",
+      "Korean": "LS Underground Radio",
+      "Portuguese": "Rádio Los Santos Underground",
+      "Mexican": "Los Santos Underground Radio"
     },
     "Genre": "10",
     "WheelPosition": 18250,
@@ -430,7 +518,11 @@
       "Name": "RADIO_23_DLC_BATTLE_MIX2_CLUB",
       "TraditionalChinese": null,
       "SimplifiedChinese": null,
-      "Spanish": null
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
     },
     "Genre": "10",
     "WheelPosition": 20000,
@@ -439,17 +531,21 @@
   {
     "RadioName": "RADIO_23_DLC_XM19_RADIO",
     "TranslatedLabel": {
-      "Hash": 0,
-      "English": null,
-      "German": null,
-      "French": null,
-      "Italian": null,
-      "Russian": null,
-      "Polish": null,
+      "Hash": 1830579269,
+      "English": "iFruit Radio",
+      "German": "iFruit-Radio",
+      "French": "Radio iFruit",
+      "Italian": "iFruit Radio",
+      "Russian": "iFruit Radio",
+      "Polish": "Radio iFruit",
       "Name": "RADIO_23_DLC_XM19_RADIO",
-      "TraditionalChinese": null,
-      "SimplifiedChinese": null,
-      "Spanish": null
+      "TraditionalChinese": "iFruit Radio",
+      "SimplifiedChinese": "iFruitµ电台",
+      "Spanish": "iFruit Radio",
+      "Japanese": "iFruitラジオ",
+      "Korean": "iFruit Radio",
+      "Portuguese": "iFruit Radio",
+      "Mexican": "iFruit Radio"
     },
     "Genre": "4",
     "WheelPosition": 18500,
@@ -468,7 +564,11 @@
       "Name": "RADIO_24_DLC_BATTLE_MIX3_CLUB",
       "TraditionalChinese": null,
       "SimplifiedChinese": null,
-      "Spanish": null
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
     },
     "Genre": "10",
     "WheelPosition": 21000,
@@ -487,7 +587,11 @@
       "Name": "RADIO_25_DLC_BATTLE_MIX4_CLUB",
       "TraditionalChinese": null,
       "SimplifiedChinese": null,
-      "Spanish": null
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
     },
     "Genre": "10",
     "WheelPosition": 21000,
@@ -506,7 +610,11 @@
       "Name": "RADIO_26_DLC_BATTLE_CLUB_WARMUP",
       "TraditionalChinese": null,
       "SimplifiedChinese": null,
-      "Spanish": null
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
     },
     "Genre": "10",
     "WheelPosition": 21000,
@@ -515,17 +623,21 @@
   {
     "RadioName": "RADIO_27_DLC_PRHEI4",
     "TranslatedLabel": {
-      "Hash": 0,
-      "English": null,
-      "German": null,
-      "French": null,
-      "Italian": null,
-      "Russian": null,
-      "Polish": null,
+      "Hash": 3335729411,
+      "English": "Still Slipping Los Santos",
+      "German": "Still Slipping Los Santos",
+      "French": "Still Slipping Los Santos",
+      "Italian": "Still Slipping Los Santos",
+      "Russian": "Still Slipping Los Santos",
+      "Polish": "Still Slipping Los Santos",
       "Name": "RADIO_27_DLC_PRHEI4",
-      "TraditionalChinese": null,
-      "SimplifiedChinese": null,
-      "Spanish": null
+      "TraditionalChinese": "Still Slipping Los Santos",
+      "SimplifiedChinese": "放松依旧洛圣都",
+      "Spanish": "Still Slipping Los Santos",
+      "Japanese": "Still Slipping Los Santos",
+      "Korean": "Still Slipping Los Santos",
+      "Portuguese": "Still Slipping Los Santos",
+      "Mexican": "Still Slipping Los Santos"
     },
     "Genre": "3",
     "WheelPosition": 19000,
@@ -544,7 +656,11 @@
       "Name": "RADIO_30_DLC_HEI4_MIX1_REVERB",
       "TraditionalChinese": null,
       "SimplifiedChinese": null,
-      "Spanish": null
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
     },
     "Genre": "10",
     "WheelPosition": 19150,
@@ -563,7 +679,11 @@
       "Name": "RADIO_31_DLC_HEI4_KM_CLUB",
       "TraditionalChinese": null,
       "SimplifiedChinese": null,
-      "Spanish": null
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
     },
     "Genre": "10",
     "WheelPosition": 19200,
@@ -582,7 +702,11 @@
       "Name": "RADIO_32_DLC_HEI4_MM_CLUB",
       "TraditionalChinese": null,
       "SimplifiedChinese": null,
-      "Spanish": null
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
     },
     "Genre": "10",
     "WheelPosition": 19250,
@@ -601,7 +725,11 @@
       "Name": "RADIO_33_DLC_HEI4_PT_CLUB",
       "TraditionalChinese": null,
       "SimplifiedChinese": null,
-      "Spanish": null
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
     },
     "Genre": "10",
     "WheelPosition": 19300,
@@ -610,17 +738,21 @@
   {
     "RadioName": "RADIO_34_DLC_HEI4_KULT",
     "TranslatedLabel": {
-      "Hash": 0,
-      "English": null,
-      "German": null,
-      "French": null,
-      "Italian": null,
-      "Russian": null,
-      "Polish": null,
+      "Hash": 3812893027,
+      "English": "Kult FM",
+      "German": "Kult FM",
+      "French": "Kult FM",
+      "Italian": "Kult FM",
+      "Russian": "Kult FM",
+      "Polish": "Kult FM",
       "Name": "RADIO_34_DLC_HEI4_KULT",
-      "TraditionalChinese": null,
-      "SimplifiedChinese": null,
-      "Spanish": null
+      "TraditionalChinese": "Kult FM",
+      "SimplifiedChinese": "库尔特µFM",
+      "Spanish": "Kult FM",
+      "Japanese": "Kult FM",
+      "Korean": "Kult FM",
+      "Portuguese": "Kult FM",
+      "Mexican": "Kult FM"
     },
     "Genre": "1",
     "WheelPosition": 16350,
@@ -629,17 +761,21 @@
   {
     "RadioName": "RADIO_35_DLC_HEI4_MLR",
     "TranslatedLabel": {
-      "Hash": 0,
-      "English": null,
-      "German": null,
-      "French": null,
-      "Italian": null,
-      "Russian": null,
-      "Polish": null,
+      "Hash": 666182883,
+      "English": "The Music Locker",
+      "German": "Music Locker",
+      "French": "The Music Locker",
+      "Italian": "The Music Locker",
+      "Russian": "Music Locker",
+      "Polish": "Music Locker",
       "Name": "RADIO_35_DLC_HEI4_MLR",
-      "TraditionalChinese": null,
-      "SimplifiedChinese": null,
-      "Spanish": null
+      "TraditionalChinese": "天籟寶盒",
+      "SimplifiedChinese": "音乐柜",
+      "Spanish": "The Music Locker",
+      "Japanese": "ミュージック・ロッカー",
+      "Korean": "The Music Locker",
+      "Portuguese": "The Music Locker",
+      "Mexican": "The Music Locker"
     },
     "Genre": "10",
     "WheelPosition": 11400,
@@ -648,17 +784,21 @@
   {
     "RadioName": "RADIO_36_AUDIOPLAYER",
     "TranslatedLabel": {
-      "Hash": 0,
-      "English": null,
-      "German": null,
-      "French": null,
-      "Italian": null,
-      "Russian": null,
-      "Polish": null,
+      "Hash": 1382984457,
+      "English": "Media Player",
+      "German": "Mediaplayer",
+      "French": "Lecteur média",
+      "Italian": "Lettore audio",
+      "Russian": "Медиаплеер",
+      "Polish": "Odtwarzacz muzyki",
       "Name": "RADIO_36_AUDIOPLAYER",
-      "TraditionalChinese": null,
-      "SimplifiedChinese": null,
-      "Spanish": null
+      "TraditionalChinese": "媒體播放機",
+      "SimplifiedChinese": "媒体播放器",
+      "Spanish": "Reproductor",
+      "Japanese": "メディアプレイヤー",
+      "Korean": "미디어 플레이어",
+      "Portuguese": "Media Player",
+      "Mexican": "Reproductor"
     },
     "Genre": "10",
     "WheelPosition": 11350,
@@ -667,17 +807,21 @@
   {
     "RadioName": "RADIO_37_MOTOMAMI",
     "TranslatedLabel": {
-      "Hash": 0,
-      "English": null,
-      "German": null,
-      "French": null,
-      "Italian": null,
-      "Russian": null,
-      "Polish": null,
+      "Hash": 2533838796,
+      "English": "MOTOMAMI Los Santos",
+      "German": "MOTOMAMI Los Santos",
+      "French": "MOTOMAMI Los Santos",
+      "Italian": "MOTOMAMI Los Santos",
+      "Russian": "MOTOMAMI Los Santos",
+      "Polish": "MOTOMAMI Los Santos",
       "Name": "RADIO_37_MOTOMAMI",
-      "TraditionalChinese": null,
-      "SimplifiedChinese": null,
-      "Spanish": null
+      "TraditionalChinese": "MOTOMAMI Los Santos",
+      "SimplifiedChinese": "MOTOMAMIµ洛圣都",
+      "Spanish": "MOTOMAMI Los Santos",
+      "Japanese": "MOTOMAMI Los Santos",
+      "Korean": "MOTOMAMI Los Santos",
+      "Portuguese": "MOTOMAMI Los Santos",
+      "Mexican": "MOTOMAMI Los Santos"
     },
     "Genre": "3",
     "WheelPosition": 11400,
@@ -696,7 +840,11 @@
       "Name": "DLC_BATTLE_MIX1_CLUB_PRIV",
       "TraditionalChinese": null,
       "SimplifiedChinese": null,
-      "Spanish": null
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
     },
     "Genre": "10",
     "WheelPosition": 18000,
@@ -715,7 +863,11 @@
       "Name": "DLC_BATTLE_MIX2_CLUB_PRIV",
       "TraditionalChinese": null,
       "SimplifiedChinese": null,
-      "Spanish": null
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
     },
     "Genre": "10",
     "WheelPosition": 20000,
@@ -734,7 +886,11 @@
       "Name": "DLC_BATTLE_MIX3_CLUB_PRIV",
       "TraditionalChinese": null,
       "SimplifiedChinese": null,
-      "Spanish": null
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
     },
     "Genre": "10",
     "WheelPosition": 21000,
@@ -753,7 +909,11 @@
       "Name": "DLC_BATTLE_MIX4_CLUB_PRIV",
       "TraditionalChinese": null,
       "SimplifiedChinese": null,
-      "Spanish": null
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
     },
     "Genre": "10",
     "WheelPosition": 21000,
@@ -772,7 +932,11 @@
       "Name": "HIDDEN_RADIO_01_CLASS_ROCK",
       "TraditionalChinese": null,
       "SimplifiedChinese": null,
-      "Spanish": null
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
     },
     "Genre": "1",
     "WheelPosition": 1000,
@@ -791,7 +955,11 @@
       "Name": "HIDDEN_RADIO_02_POP",
       "TraditionalChinese": null,
       "SimplifiedChinese": null,
-      "Spanish": null
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
     },
     "Genre": "3",
     "WheelPosition": 2000,
@@ -810,7 +978,11 @@
       "Name": "HIDDEN_RADIO_03_HIPHOP_NEW",
       "TraditionalChinese": null,
       "SimplifiedChinese": null,
-      "Spanish": null
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
     },
     "Genre": "4",
     "WheelPosition": 3000,
@@ -829,7 +1001,11 @@
       "Name": "HIDDEN_RADIO_04_PUNK",
       "TraditionalChinese": null,
       "SimplifiedChinese": null,
-      "Spanish": null
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
     },
     "Genre": "6",
     "WheelPosition": 4000,
@@ -848,7 +1024,11 @@
       "Name": "HIDDEN_RADIO_06_COUNTRY",
       "TraditionalChinese": null,
       "SimplifiedChinese": null,
-      "Spanish": null
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
     },
     "Genre": "9",
     "WheelPosition": 6000,
@@ -867,7 +1047,11 @@
       "Name": "HIDDEN_RADIO_07_DANCE_01",
       "TraditionalChinese": null,
       "SimplifiedChinese": null,
-      "Spanish": null
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
     },
     "Genre": "10",
     "WheelPosition": 7000,
@@ -886,7 +1070,11 @@
       "Name": "HIDDEN_RADIO_09_HIPHOP_OLD",
       "TraditionalChinese": null,
       "SimplifiedChinese": null,
-      "Spanish": null
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
     },
     "Genre": "4",
     "WheelPosition": 9000,
@@ -905,7 +1093,11 @@
       "Name": "hidden_radio_10_surf",
       "TraditionalChinese": null,
       "SimplifiedChinese": null,
-      "Spanish": null
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
     },
     "Genre": "1",
     "WheelPosition": 10000,
@@ -924,7 +1116,11 @@
       "Name": "HIDDEN_RADIO_12_REGGAE",
       "TraditionalChinese": null,
       "SimplifiedChinese": null,
-      "Spanish": null
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
     },
     "Genre": "12",
     "WheelPosition": 12000,
@@ -943,7 +1139,11 @@
       "Name": "HIDDEN_RADIO_15_MOTOWN",
       "TraditionalChinese": null,
       "SimplifiedChinese": null,
-      "Spanish": null
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
     },
     "Genre": "14",
     "WheelPosition": 15000,
@@ -962,7 +1162,11 @@
       "Name": "HIDDEN_RADIO_16_SILVERLAKE",
       "TraditionalChinese": null,
       "SimplifiedChinese": null,
-      "Spanish": null
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
     },
     "Genre": "1",
     "WheelPosition": 16000,
@@ -981,7 +1185,11 @@
       "Name": "collision_a96j7f",
       "TraditionalChinese": null,
       "SimplifiedChinese": null,
-      "Spanish": null
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
     },
     "Genre": "14",
     "WheelPosition": 17000,
@@ -1000,7 +1208,11 @@
       "Name": "HIDDEN_RADIO_ADVERTS",
       "TraditionalChinese": null,
       "SimplifiedChinese": null,
-      "Spanish": null
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
     },
     "Genre": "16",
     "WheelPosition": 1000,
@@ -1019,7 +1231,11 @@
       "Name": "HIDDEN_RADIO_AMBIENT_TV",
       "TraditionalChinese": null,
       "SimplifiedChinese": null,
-      "Spanish": null
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
     },
     "Genre": "16",
     "WheelPosition": 1000,
@@ -1038,7 +1254,11 @@
       "Name": "HIDDEN_RADIO_AMBIENT_TV_BRIGHT",
       "TraditionalChinese": null,
       "SimplifiedChinese": null,
-      "Spanish": null
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
     },
     "Genre": "16",
     "WheelPosition": 1000,
@@ -1057,7 +1277,11 @@
       "Name": "HIDDEN_RADIO_ARCADE_DANCE",
       "TraditionalChinese": null,
       "SimplifiedChinese": null,
-      "Spanish": null
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
     },
     "Genre": "10",
     "WheelPosition": 1000,
@@ -1076,7 +1300,11 @@
       "Name": "HIDDEN_RADIO_ARCADE_EDM",
       "TraditionalChinese": null,
       "SimplifiedChinese": null,
-      "Spanish": null
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
     },
     "Genre": "10",
     "WheelPosition": 1000,
@@ -1095,7 +1323,11 @@
       "Name": "HIDDEN_RADIO_ARCADE_MIRROR_PARK",
       "TraditionalChinese": null,
       "SimplifiedChinese": null,
-      "Spanish": null
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
     },
     "Genre": "1",
     "WheelPosition": 1000,
@@ -1114,7 +1346,11 @@
       "Name": "HIDDEN_RADIO_ARCADE_POP",
       "TraditionalChinese": null,
       "SimplifiedChinese": null,
-      "Spanish": null
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
     },
     "Genre": "3",
     "WheelPosition": 1000,
@@ -1133,7 +1369,11 @@
       "Name": "HIDDEN_RADIO_ARCADE_WWFM",
       "TraditionalChinese": null,
       "SimplifiedChinese": null,
-      "Spanish": null
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
     },
     "Genre": "13",
     "WheelPosition": 1000,
@@ -1152,7 +1392,11 @@
       "Name": "HIDDEN_RADIO_ASTU_DRUMS_VOX",
       "TraditionalChinese": null,
       "SimplifiedChinese": null,
-      "Spanish": null
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
     },
     "Genre": "4",
     "WheelPosition": 11450,
@@ -1171,7 +1415,11 @@
       "Name": "HIDDEN_RADIO_ASTU_SILENCE",
       "TraditionalChinese": null,
       "SimplifiedChinese": null,
-      "Spanish": null
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
     },
     "Genre": "4",
     "WheelPosition": 11450,
@@ -1190,7 +1438,11 @@
       "Name": "HIDDEN_RADIO_ASTU_TRANS_01",
       "TraditionalChinese": null,
       "SimplifiedChinese": null,
-      "Spanish": null
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
     },
     "Genre": "4",
     "WheelPosition": 11500,
@@ -1209,7 +1461,11 @@
       "Name": "HIDDEN_RADIO_ASTU_TRANS_01_VOX",
       "TraditionalChinese": null,
       "SimplifiedChinese": null,
-      "Spanish": null
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
     },
     "Genre": "4",
     "WheelPosition": 11550,
@@ -1228,7 +1484,11 @@
       "Name": "HIDDEN_RADIO_ASTU_TRANS_02_VOX",
       "TraditionalChinese": null,
       "SimplifiedChinese": null,
-      "Spanish": null
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
     },
     "Genre": "4",
     "WheelPosition": 11600,
@@ -1247,7 +1507,11 @@
       "Name": "HIDDEN_RADIO_ASTU_VOX",
       "TraditionalChinese": null,
       "SimplifiedChinese": null,
-      "Spanish": null
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
     },
     "Genre": "4",
     "WheelPosition": 11650,
@@ -1266,7 +1530,11 @@
       "Name": "HIDDEN_RADIO_BIKER_CLASSIC_ROCK",
       "TraditionalChinese": null,
       "SimplifiedChinese": null,
-      "Spanish": null
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
     },
     "Genre": "1",
     "WheelPosition": 19000,
@@ -1285,7 +1553,11 @@
       "Name": "HIDDEN_RADIO_BIKER_HIP_HOP",
       "TraditionalChinese": null,
       "SimplifiedChinese": null,
-      "Spanish": null
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
     },
     "Genre": "1",
     "WheelPosition": 22000,
@@ -1304,7 +1576,11 @@
       "Name": "HIDDEN_RADIO_BIKER_MODERN_ROCK",
       "TraditionalChinese": null,
       "SimplifiedChinese": null,
-      "Spanish": null
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
     },
     "Genre": "1",
     "WheelPosition": 20000,
@@ -1323,7 +1599,11 @@
       "Name": "HIDDEN_RADIO_BIKER_PUNK",
       "TraditionalChinese": null,
       "SimplifiedChinese": null,
-      "Spanish": null
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
     },
     "Genre": "1",
     "WheelPosition": 21000,
@@ -1342,7 +1622,11 @@
       "Name": "HIDDEN_RADIO_CASINO",
       "TraditionalChinese": null,
       "SimplifiedChinese": null,
-      "Spanish": null
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
     },
     "Genre": "16",
     "WheelPosition": 1000,
@@ -1361,7 +1645,11 @@
       "Name": "HIDDEN_RADIO_CASINO_PENTHOUSE_P",
       "TraditionalChinese": null,
       "SimplifiedChinese": null,
-      "Spanish": null
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
     },
     "Genre": "16",
     "WheelPosition": 1000,
@@ -1380,7 +1668,11 @@
       "Name": "HIDDEN_RADIO_ML_PROMOTER",
       "TraditionalChinese": null,
       "SimplifiedChinese": null,
-      "Spanish": null
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
     },
     "Genre": "4",
     "WheelPosition": 1000,
@@ -1389,17 +1681,21 @@
   {
     "RadioName": "HIDDEN_RADIO_MPSUM2_NEWS",
     "TranslatedLabel": {
-      "Hash": 0,
-      "English": null,
-      "German": null,
-      "French": null,
-      "Italian": null,
-      "Russian": null,
-      "Polish": null,
+      "Hash": 3941068735,
+      "English": "Weazel News",
+      "German": "Weazel News",
+      "French": "Weazel News",
+      "Italian": "Weazel News",
+      "Russian": "Weazel News",
+      "Polish": "Weazel News",
       "Name": "HIDDEN_RADIO_MPSUM2_NEWS",
-      "TraditionalChinese": null,
-      "SimplifiedChinese": null,
-      "Spanish": null
+      "TraditionalChinese": "威索新聞",
+      "SimplifiedChinese": "威泽尔新闻",
+      "Spanish": "Weazel News",
+      "Japanese": "「Weazel News」",
+      "Korean": "위즐 뉴스",
+      "Portuguese": "Weazel News",
+      "Mexican": "Weazel News"
     },
     "Genre": "16",
     "WheelPosition": 1000,
@@ -1418,7 +1714,11 @@
       "Name": "HIDDEN_RADIO_SEC_BILLIONAIRE",
       "TraditionalChinese": null,
       "SimplifiedChinese": null,
-      "Spanish": null
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
     },
     "Genre": "4",
     "WheelPosition": 1000,
@@ -1437,7 +1737,11 @@
       "Name": "HIDDEN_RADIO_SEC_STUDIO_LOUNGE",
       "TraditionalChinese": null,
       "SimplifiedChinese": null,
-      "Spanish": null
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
     },
     "Genre": "4",
     "WheelPosition": 1000,
@@ -1456,7 +1760,11 @@
       "Name": "HIDDEN_RADIO_STRIP_CLUB",
       "TraditionalChinese": null,
       "SimplifiedChinese": null,
-      "Spanish": null
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
     },
     "Genre": "16",
     "WheelPosition": 18000,
@@ -1475,7 +1783,11 @@
       "Name": "HIDDEN_RADIO_TUNER_CAR_MEET",
       "TraditionalChinese": null,
       "SimplifiedChinese": null,
-      "Spanish": null
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
     },
     "Genre": "16",
     "WheelPosition": 1000,
@@ -1494,7 +1806,11 @@
       "Name": "HIDDEN_RADIO_TUNER_MM",
       "TraditionalChinese": null,
       "SimplifiedChinese": null,
-      "Spanish": null
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
     },
     "Genre": "10",
     "WheelPosition": 11500,
@@ -1513,7 +1829,11 @@
       "Name": "HIDDEN_RADIO_TUNER_TEST_AREA",
       "TraditionalChinese": null,
       "SimplifiedChinese": null,
-      "Spanish": null
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
     },
     "Genre": "16",
     "WheelPosition": 1000,

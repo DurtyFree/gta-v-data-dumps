@@ -20,7 +20,14 @@
     },
     "Genre": "1",
     "WheelPosition": 1000,
-    "IsHidden": false
+    "IsHidden": false,
+    "MusicList": [
+      "radio_01_class_rock_djsolo",
+      "radio_01_class_rock_idents",
+      "radio_01_class_rock_music",
+      "general_adverts",
+      "radio_01_class_rock_music_new"
+    ]
   },
   {
     "RadioName": "RADIO_02_POP",
@@ -43,7 +50,14 @@
     },
     "Genre": "3",
     "WheelPosition": 2000,
-    "IsHidden": false
+    "IsHidden": false,
+    "MusicList": [
+      "radio_02_pop_music",
+      "radio_02_pop_djsolo",
+      "radio_02_pop_idents",
+      "general_adverts",
+      "1821325676"
+    ]
   },
   {
     "RadioName": "RADIO_03_HIPHOP_NEW",
@@ -66,7 +80,13 @@
     },
     "Genre": "4",
     "WheelPosition": 3000,
-    "IsHidden": false
+    "IsHidden": false,
+    "MusicList": [
+      "radio_03_hiphop_new_core_music",
+      "radio_03_hiphop_new_idents",
+      "radio_03_hiphop_new_djsolo",
+      "general_adverts"
+    ]
   },
   {
     "RadioName": "RADIO_04_PUNK",
@@ -89,7 +109,14 @@
     },
     "Genre": "6",
     "WheelPosition": 4000,
-    "IsHidden": false
+    "IsHidden": false,
+    "MusicList": [
+      "radio_04_punk_music",
+      "radio_04_punk_djsolo",
+      "radio_04_punk_idents",
+      "general_adverts",
+      "radio_04_punk_music_new"
+    ]
   },
   {
     "RadioName": "RADIO_05_TALK_01",
@@ -112,7 +139,12 @@
     },
     "Genre": "7",
     "WheelPosition": 5000,
-    "IsHidden": false
+    "IsHidden": false,
+    "MusicList": [
+      "radio_05_talk_01_music",
+      "radio_05_talk_01_idents",
+      "general_adverts"
+    ]
   },
   {
     "RadioName": "RADIO_06_COUNTRY",
@@ -135,7 +167,14 @@
     },
     "Genre": "9",
     "WheelPosition": 6000,
-    "IsHidden": false
+    "IsHidden": false,
+    "MusicList": [
+      "radio_06_country_music",
+      "radio_06_country_djsolo",
+      "radio_06_country_idents",
+      "country_adverts",
+      "radio_06_country_music_new"
+    ]
   },
   {
     "RadioName": "RADIO_07_DANCE_01",
@@ -158,7 +197,10 @@
     },
     "Genre": "10",
     "WheelPosition": 7000,
-    "IsHidden": false
+    "IsHidden": false,
+    "MusicList": [
+      "radio_07_dance_01_music"
+    ]
   },
   {
     "RadioName": "RADIO_08_MEXICAN",
@@ -181,7 +223,10 @@
     },
     "Genre": "11",
     "WheelPosition": 8000,
-    "IsHidden": false
+    "IsHidden": false,
+    "MusicList": [
+      "radio_08_mexican_music"
+    ]
   },
   {
     "RadioName": "RADIO_09_HIPHOP_OLD",
@@ -204,7 +249,13 @@
     },
     "Genre": "4",
     "WheelPosition": 9000,
-    "IsHidden": false
+    "IsHidden": false,
+    "MusicList": [
+      "RADIO_09_HIPHOP_OLD_CORE_MUSIC",
+      "general_adverts",
+      "RADIO_09_HIPHOP_OLD_DJSOLO",
+      "RADIO_09_HIPHOP_OLD_IDENTS"
+    ]
   },
   {
     "RadioName": "RADIO_11_TALK_02",
@@ -227,7 +278,12 @@
     },
     "Genre": "8",
     "WheelPosition": 11000,
-    "IsHidden": false
+    "IsHidden": false,
+    "MusicList": [
+      "radio_11_talk_02_idents",
+      "country_adverts",
+      "2746617118"
+    ]
   },
   {
     "RadioName": "RADIO_12_REGGAE",
@@ -250,7 +306,14 @@
     },
     "Genre": "12",
     "WheelPosition": 12000,
-    "IsHidden": false
+    "IsHidden": false,
+    "MusicList": [
+      "radio_12_reggae_music",
+      "radio_12_reggae_idents",
+      "general_adverts",
+      "radio_12_reggae_djsolo",
+      "radio_12_reggae_music_new"
+    ]
   },
   {
     "RadioName": "RADIO_13_JAZZ",
@@ -273,7 +336,10 @@
     },
     "Genre": "13",
     "WheelPosition": 13000,
-    "IsHidden": false
+    "IsHidden": false,
+    "MusicList": [
+      "radio_13_jazz_music_edited"
+    ]
   },
   {
     "RadioName": "RADIO_14_DANCE_02",
@@ -296,7 +362,10 @@
     },
     "Genre": "10",
     "WheelPosition": 14000,
-    "IsHidden": false
+    "IsHidden": false,
+    "MusicList": [
+      "radio_14_dance_02_music"
+    ]
   },
   {
     "RadioName": "RADIO_15_MOTOWN",
@@ -319,7 +388,14 @@
     },
     "Genre": "14",
     "WheelPosition": 15000,
-    "IsHidden": false
+    "IsHidden": false,
+    "MusicList": [
+      "radio_15_motown_music",
+      "radio_15_motown_djsolo",
+      "radio_15_motown_idents",
+      "general_adverts",
+      "radio_15_motown_music_new"
+    ]
   },
   {
     "RadioName": "RADIO_16_SILVERLAKE",
@@ -342,7 +418,15 @@
     },
     "Genre": "1",
     "WheelPosition": 16000,
-    "IsHidden": false
+    "IsHidden": false,
+    "MusicList": [
+      "radio_16_silverlake_djsolo",
+      "general_adverts",
+      "radio_16_silverlake_idents",
+      "1031162635",
+      "MIRRORPARK_LOCKED",
+      "radio_16_silverlake_music_new"
+    ]
   },
   {
     "RadioName": "RADIO_17_FUNK",
@@ -365,10 +449,17 @@
     },
     "Genre": "14",
     "WheelPosition": 17000,
-    "IsHidden": false
+    "IsHidden": false,
+    "MusicList": [
+      "radio_17_funk_music",
+      "radio_17_funk_djsolo",
+      "general_adverts",
+      "radio_17_funk_idents",
+      "radio_17_funk_music_new"
+    ]
   },
   {
-    "RadioName": "RADIO_18_90S_ROCK",
+    "RadioName": "RADIO_18_90s_ROCK",
     "TranslatedLabel": {
       "Hash": 1084546764,
       "English": "Vinewood Boulevard Radio",
@@ -388,7 +479,14 @@
     },
     "Genre": "1",
     "WheelPosition": 18000,
-    "IsHidden": false
+    "IsHidden": false,
+    "MusicList": [
+      "radio_18_90s_rock_music",
+      "radio_18_90s_rock_idents",
+      "radio_18_90s_rock_djsolo",
+      "general_adverts",
+      "radio_18_90s_rock_music_new"
+    ]
   },
   {
     "RadioName": "RADIO_19_USER",
@@ -411,7 +509,19 @@
     },
     "Genre": "16",
     "WheelPosition": 19000,
-    "IsHidden": false
+    "IsHidden": false,
+    "MusicList": [
+      "dlc_radio_19_user_djsolo",
+      "dlc_radio_19_user_idents",
+      "dlc_radio_19_user_music",
+      "dlc_radio_19_user_to_ad",
+      "dlc_radio_19_user_to_news",
+      "dlc_radio_19_user_user_intro",
+      "dlc_radio_19_user_user_outro",
+      "dlc_radio_19_user_intro_evening",
+      "dlc_radio_19_user_intro_morning",
+      "general_adverts"
+    ]
   },
   {
     "RadioName": "RADIO_20_THELAB",
@@ -434,7 +544,10 @@
     },
     "Genre": "4",
     "WheelPosition": 15100,
-    "IsHidden": false
+    "IsHidden": false,
+    "MusicList": [
+      "dlc_thelab_music"
+    ]
   },
   {
     "RadioName": "RADIO_21_DLC_XM17",
@@ -457,7 +570,10 @@
     },
     "Genre": "4",
     "WheelPosition": 18200,
-    "IsHidden": false
+    "IsHidden": false,
+    "MusicList": [
+      "dlc_christmas2017_music"
+    ]
   },
   {
     "RadioName": "RADIO_22_DLC_BATTLE_MIX1_CLUB",
@@ -480,7 +596,10 @@
     },
     "Genre": "10",
     "WheelPosition": 18000,
-    "IsHidden": false
+    "IsHidden": false,
+    "MusicList": [
+      "battle_mix1_club_music"
+    ]
   },
   {
     "RadioName": "RADIO_22_DLC_BATTLE_MIX1_RADIO",
@@ -503,7 +622,13 @@
     },
     "Genre": "10",
     "WheelPosition": 18250,
-    "IsHidden": false
+    "IsHidden": false,
+    "MusicList": [
+      "battle_mix1_radio",
+      "battle_mix2_radio",
+      "battle_mix3_radio",
+      "battle_mix4_radio"
+    ]
   },
   {
     "RadioName": "RADIO_23_DLC_BATTLE_MIX2_CLUB",
@@ -526,7 +651,10 @@
     },
     "Genre": "10",
     "WheelPosition": 20000,
-    "IsHidden": false
+    "IsHidden": false,
+    "MusicList": [
+      "battle_mix2_club_music"
+    ]
   },
   {
     "RadioName": "RADIO_23_DLC_XM19_RADIO",
@@ -549,7 +677,15 @@
     },
     "Genre": "4",
     "WheelPosition": 18500,
-    "IsHidden": false
+    "IsHidden": false,
+    "MusicList": [
+      "dlc_heist3_heist3_radio_music_ord",
+      "dlc_heist3_heist3_radio_idents",
+      "dlc_heist3_heist3_radio_takeover_djsolo",
+      "dlc_heist3_heist3_radio_takeover_idents",
+      "dlc_heist3_heist3_radio_takeover_musi_ord",
+      "dlc_heist3_heist3_radio_djsolo"
+    ]
   },
   {
     "RadioName": "RADIO_24_DLC_BATTLE_MIX3_CLUB",
@@ -572,7 +708,10 @@
     },
     "Genre": "10",
     "WheelPosition": 21000,
-    "IsHidden": false
+    "IsHidden": false,
+    "MusicList": [
+      "battle_mix3_club_music"
+    ]
   },
   {
     "RadioName": "RADIO_25_DLC_BATTLE_MIX4_CLUB",
@@ -595,7 +734,10 @@
     },
     "Genre": "10",
     "WheelPosition": 21000,
-    "IsHidden": false
+    "IsHidden": false,
+    "MusicList": [
+      "battle_mix4_club_music"
+    ]
   },
   {
     "RadioName": "RADIO_26_DLC_BATTLE_CLUB_WARMUP",
@@ -618,7 +760,10 @@
     },
     "Genre": "10",
     "WheelPosition": 21000,
-    "IsHidden": false
+    "IsHidden": false,
+    "MusicList": [
+      "battle_mix_warmup_music"
+    ]
   },
   {
     "RadioName": "RADIO_27_DLC_PRHEI4",
@@ -641,7 +786,10 @@
     },
     "Genre": "3",
     "WheelPosition": 19000,
-    "IsHidden": false
+    "IsHidden": false,
+    "MusicList": [
+      "still_slipping_music_music"
+    ]
   },
   {
     "RadioName": "RADIO_30_DLC_HEI4_MIX1_REVERB",
@@ -664,7 +812,10 @@
     },
     "Genre": "10",
     "WheelPosition": 19150,
-    "IsHidden": false
+    "IsHidden": false,
+    "MusicList": [
+      "hei4_km_beach_reverb_music"
+    ]
   },
   {
     "RadioName": "RADIO_31_DLC_HEI4_KM_CLUB",
@@ -687,7 +838,10 @@
     },
     "Genre": "10",
     "WheelPosition": 19200,
-    "IsHidden": false
+    "IsHidden": false,
+    "MusicList": [
+      "hei4_km_club_music"
+    ]
   },
   {
     "RadioName": "RADIO_32_DLC_HEI4_MM_CLUB",
@@ -710,7 +864,10 @@
     },
     "Genre": "10",
     "WheelPosition": 19250,
-    "IsHidden": false
+    "IsHidden": false,
+    "MusicList": [
+      "hei4_mm_club_music"
+    ]
   },
   {
     "RadioName": "RADIO_33_DLC_HEI4_PT_CLUB",
@@ -733,7 +890,10 @@
     },
     "Genre": "10",
     "WheelPosition": 19300,
-    "IsHidden": false
+    "IsHidden": false,
+    "MusicList": [
+      "hei4_pt_club_music"
+    ]
   },
   {
     "RadioName": "RADIO_34_DLC_HEI4_KULT",
@@ -756,7 +916,13 @@
     },
     "Genre": "1",
     "WheelPosition": 16350,
-    "IsHidden": false
+    "IsHidden": false,
+    "MusicList": [
+      "hei4_radio_kult_music",
+      "hei4_radio_kult_ads",
+      "hei4_radio_kult_custom_idents",
+      "hei4_radio_kult_djsolo"
+    ]
   },
   {
     "RadioName": "RADIO_35_DLC_HEI4_MLR",
@@ -779,7 +945,13 @@
     },
     "Genre": "10",
     "WheelPosition": 11400,
-    "IsHidden": false
+    "IsHidden": false,
+    "MusicList": [
+      "hei4_km_beach_radio_music",
+      "hei4_pt_radio_music",
+      "hei4_km_club_radio_music",
+      "hei4_mm_radio_music"
+    ]
   },
   {
     "RadioName": "RADIO_36_AUDIOPLAYER",
@@ -802,7 +974,17 @@
     },
     "Genre": "10",
     "WheelPosition": 11350,
-    "IsHidden": false
+    "IsHidden": false,
+    "MusicList": [
+      "tuner_ap_silence_music",
+      "tuner_ap_mix1",
+      "tuner_ap_mix2",
+      "tuner_ap_mix3",
+      "tuner_ap_mix3_parta",
+      "tuner_ap_mix3_partb",
+      "tuner_ap_mix3_partc",
+      "tuner_ap_mix3_partd"
+    ]
   },
   {
     "RadioName": "RADIO_37_MOTOMAMI",
@@ -825,7 +1007,39 @@
     },
     "Genre": "3",
     "WheelPosition": 11400,
-    "IsHidden": false
+    "IsHidden": false,
+    "MusicList": [
+      "radio_37_motomami_music_ordered",
+      "radio_37_motomami_idents_ident",
+      "radio_37_motomami_djsolo_djsolo"
+    ]
+  },
+  {
+    "RadioName": "collision_a96j7f",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "collision_a96j7f",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
+    },
+    "Genre": "14",
+    "WheelPosition": 17000,
+    "IsHidden": false,
+    "MusicList": [
+      "radio_17_funk_music",
+      "radio_17_funk_music_new"
+    ]
   },
   {
     "RadioName": "DLC_BATTLE_MIX1_CLUB_PRIV",
@@ -848,7 +1062,10 @@
     },
     "Genre": "10",
     "WheelPosition": 18000,
-    "IsHidden": false
+    "IsHidden": false,
+    "MusicList": [
+      "battle_mix1_private_club_music"
+    ]
   },
   {
     "RadioName": "DLC_BATTLE_MIX2_CLUB_PRIV",
@@ -871,7 +1088,10 @@
     },
     "Genre": "10",
     "WheelPosition": 20000,
-    "IsHidden": false
+    "IsHidden": false,
+    "MusicList": [
+      "battle_mix2_private_club_music"
+    ]
   },
   {
     "RadioName": "DLC_BATTLE_MIX3_CLUB_PRIV",
@@ -894,7 +1114,10 @@
     },
     "Genre": "10",
     "WheelPosition": 21000,
-    "IsHidden": false
+    "IsHidden": false,
+    "MusicList": [
+      "battle_mix3_private_club_music"
+    ]
   },
   {
     "RadioName": "DLC_BATTLE_MIX4_CLUB_PRIV",
@@ -917,7 +1140,10 @@
     },
     "Genre": "10",
     "WheelPosition": 21000,
-    "IsHidden": false
+    "IsHidden": false,
+    "MusicList": [
+      "battle_mix4_private_club_music"
+    ]
   },
   {
     "RadioName": "HIDDEN_RADIO_01_CLASS_ROCK",
@@ -940,7 +1166,11 @@
     },
     "Genre": "1",
     "WheelPosition": 1000,
-    "IsHidden": true
+    "IsHidden": true,
+    "MusicList": [
+      "radio_01_class_rock_music",
+      "radio_01_class_rock_music_new"
+    ]
   },
   {
     "RadioName": "HIDDEN_RADIO_02_POP",
@@ -963,7 +1193,11 @@
     },
     "Genre": "3",
     "WheelPosition": 2000,
-    "IsHidden": true
+    "IsHidden": true,
+    "MusicList": [
+      "radio_02_pop_music",
+      "1821325676"
+    ]
   },
   {
     "RadioName": "HIDDEN_RADIO_03_HIPHOP_NEW",
@@ -986,7 +1220,11 @@
     },
     "Genre": "4",
     "WheelPosition": 3000,
-    "IsHidden": true
+    "IsHidden": true,
+    "MusicList": [
+      "radio_03_hiphop_new_music",
+      "radio_03_hiphop_new_music_new"
+    ]
   },
   {
     "RadioName": "HIDDEN_RADIO_04_PUNK",
@@ -1009,7 +1247,11 @@
     },
     "Genre": "6",
     "WheelPosition": 4000,
-    "IsHidden": true
+    "IsHidden": true,
+    "MusicList": [
+      "radio_04_punk_music",
+      "radio_04_punk_music_new"
+    ]
   },
   {
     "RadioName": "HIDDEN_RADIO_06_COUNTRY",
@@ -1032,7 +1274,11 @@
     },
     "Genre": "9",
     "WheelPosition": 6000,
-    "IsHidden": true
+    "IsHidden": true,
+    "MusicList": [
+      "radio_06_country_music",
+      "radio_06_country_music_new"
+    ]
   },
   {
     "RadioName": "HIDDEN_RADIO_07_DANCE_01",
@@ -1055,7 +1301,10 @@
     },
     "Genre": "10",
     "WheelPosition": 7000,
-    "IsHidden": true
+    "IsHidden": true,
+    "MusicList": [
+      "radio_07_dance_01_music"
+    ]
   },
   {
     "RadioName": "HIDDEN_RADIO_09_HIPHOP_OLD",
@@ -1078,10 +1327,14 @@
     },
     "Genre": "4",
     "WheelPosition": 9000,
-    "IsHidden": true
+    "IsHidden": true,
+    "MusicList": [
+      "RADIO_09_HIPHOP_OLD_MUSIC",
+      "RADIO_09_HIPHOP_OLD_MUSIC_NEW"
+    ]
   },
   {
-    "RadioName": "HIDDEN_RADIO_10_SURF",
+    "RadioName": "hidden_radio_10_surf",
     "TranslatedLabel": {
       "Hash": 0,
       "English": null,
@@ -1101,7 +1354,10 @@
     },
     "Genre": "1",
     "WheelPosition": 10000,
-    "IsHidden": true
+    "IsHidden": true,
+    "MusicList": [
+      "radio_10_surf_music"
+    ]
   },
   {
     "RadioName": "HIDDEN_RADIO_12_REGGAE",
@@ -1124,7 +1380,11 @@
     },
     "Genre": "12",
     "WheelPosition": 12000,
-    "IsHidden": true
+    "IsHidden": true,
+    "MusicList": [
+      "38213488",
+      "radio_12_reggae_music_new"
+    ]
   },
   {
     "RadioName": "HIDDEN_RADIO_15_MOTOWN",
@@ -1147,7 +1407,11 @@
     },
     "Genre": "14",
     "WheelPosition": 15000,
-    "IsHidden": true
+    "IsHidden": true,
+    "MusicList": [
+      "radio_15_motown_music",
+      "radio_15_motown_music_new"
+    ]
   },
   {
     "RadioName": "HIDDEN_RADIO_16_SILVERLAKE",
@@ -1170,30 +1434,11 @@
     },
     "Genre": "1",
     "WheelPosition": 16000,
-    "IsHidden": true
-  },
-  {
-    "RadioName": "HIDDEN_RADIO_17_FUNK",
-    "TranslatedLabel": {
-      "Hash": 0,
-      "English": null,
-      "German": null,
-      "French": null,
-      "Italian": null,
-      "Russian": null,
-      "Polish": null,
-      "Name": "collision_a96j7f",
-      "TraditionalChinese": null,
-      "SimplifiedChinese": null,
-      "Spanish": null,
-      "Japanese": null,
-      "Korean": null,
-      "Portuguese": null,
-      "Mexican": null
-    },
-    "Genre": "14",
-    "WheelPosition": 17000,
-    "IsHidden": true
+    "IsHidden": true,
+    "MusicList": [
+      "1031162635",
+      "radio_16_silverlake_music_new"
+    ]
   },
   {
     "RadioName": "HIDDEN_RADIO_ADVERTS",
@@ -1216,7 +1461,10 @@
     },
     "Genre": "16",
     "WheelPosition": 1000,
-    "IsHidden": true
+    "IsHidden": true,
+    "MusicList": [
+      "radio_adverts"
+    ]
   },
   {
     "RadioName": "HIDDEN_RADIO_AMBIENT_TV",
@@ -1239,7 +1487,11 @@
     },
     "Genre": "16",
     "WheelPosition": 1000,
-    "IsHidden": true
+    "IsHidden": true,
+    "MusicList": [
+      "4063246911",
+      "1958876401"
+    ]
   },
   {
     "RadioName": "HIDDEN_RADIO_AMBIENT_TV_BRIGHT",
@@ -1262,7 +1514,10 @@
     },
     "Genre": "16",
     "WheelPosition": 1000,
-    "IsHidden": true
+    "IsHidden": true,
+    "MusicList": [
+      "2593146671"
+    ]
   },
   {
     "RadioName": "HIDDEN_RADIO_ARCADE_DANCE",
@@ -1285,7 +1540,10 @@
     },
     "Genre": "10",
     "WheelPosition": 1000,
-    "IsHidden": true
+    "IsHidden": true,
+    "MusicList": [
+      "arcade_jukebox_dance"
+    ]
   },
   {
     "RadioName": "HIDDEN_RADIO_ARCADE_EDM",
@@ -1308,7 +1566,10 @@
     },
     "Genre": "10",
     "WheelPosition": 1000,
-    "IsHidden": true
+    "IsHidden": true,
+    "MusicList": [
+      "arcade_jukebox_edm"
+    ]
   },
   {
     "RadioName": "HIDDEN_RADIO_ARCADE_MIRROR_PARK",
@@ -1331,7 +1592,10 @@
     },
     "Genre": "1",
     "WheelPosition": 1000,
-    "IsHidden": true
+    "IsHidden": true,
+    "MusicList": [
+      "arcade_jukebox_mirror_park"
+    ]
   },
   {
     "RadioName": "HIDDEN_RADIO_ARCADE_POP",
@@ -1354,7 +1618,10 @@
     },
     "Genre": "3",
     "WheelPosition": 1000,
-    "IsHidden": true
+    "IsHidden": true,
+    "MusicList": [
+      "arcade_jukebox_pop"
+    ]
   },
   {
     "RadioName": "HIDDEN_RADIO_ARCADE_WWFM",
@@ -1377,7 +1644,10 @@
     },
     "Genre": "13",
     "WheelPosition": 1000,
-    "IsHidden": true
+    "IsHidden": true,
+    "MusicList": [
+      "arcade_jukebox_wwfm"
+    ]
   },
   {
     "RadioName": "HIDDEN_RADIO_ASTU_DRUMS_VOX",
@@ -1400,7 +1670,10 @@
     },
     "Genre": "4",
     "WheelPosition": 11450,
-    "IsHidden": true
+    "IsHidden": true,
+    "MusicList": [
+      "hidden_radio_astu_drums_vox_music"
+    ]
   },
   {
     "RadioName": "HIDDEN_RADIO_ASTU_SILENCE",
@@ -1423,7 +1696,10 @@
     },
     "Genre": "4",
     "WheelPosition": 11450,
-    "IsHidden": true
+    "IsHidden": true,
+    "MusicList": [
+      "hidden_radio_astu_silence_music"
+    ]
   },
   {
     "RadioName": "HIDDEN_RADIO_ASTU_TRANS_01",
@@ -1446,7 +1722,10 @@
     },
     "Genre": "4",
     "WheelPosition": 11500,
-    "IsHidden": true
+    "IsHidden": true,
+    "MusicList": [
+      "hidden_radio_astu_trans_01_music"
+    ]
   },
   {
     "RadioName": "HIDDEN_RADIO_ASTU_TRANS_01_VOX",
@@ -1469,7 +1748,10 @@
     },
     "Genre": "4",
     "WheelPosition": 11550,
-    "IsHidden": true
+    "IsHidden": true,
+    "MusicList": [
+      "hidden_radio_astu_trans_01_vox_music"
+    ]
   },
   {
     "RadioName": "HIDDEN_RADIO_ASTU_TRANS_02_VOX",
@@ -1492,7 +1774,10 @@
     },
     "Genre": "4",
     "WheelPosition": 11600,
-    "IsHidden": true
+    "IsHidden": true,
+    "MusicList": [
+      "hidden_radio_astu_trans_02_vox_music"
+    ]
   },
   {
     "RadioName": "HIDDEN_RADIO_ASTU_VOX",
@@ -1515,7 +1800,10 @@
     },
     "Genre": "4",
     "WheelPosition": 11650,
-    "IsHidden": true
+    "IsHidden": true,
+    "MusicList": [
+      "hidden_radio_astu_vox_music"
+    ]
   },
   {
     "RadioName": "HIDDEN_RADIO_BIKER_CLASSIC_ROCK",
@@ -1538,7 +1826,10 @@
     },
     "Genre": "1",
     "WheelPosition": 19000,
-    "IsHidden": true
+    "IsHidden": true,
+    "MusicList": [
+      "biker_jukebox_classic_rock"
+    ]
   },
   {
     "RadioName": "HIDDEN_RADIO_BIKER_HIP_HOP",
@@ -1561,7 +1852,10 @@
     },
     "Genre": "1",
     "WheelPosition": 22000,
-    "IsHidden": true
+    "IsHidden": true,
+    "MusicList": [
+      "biker_jukebox_hip_hop"
+    ]
   },
   {
     "RadioName": "HIDDEN_RADIO_BIKER_MODERN_ROCK",
@@ -1584,7 +1878,10 @@
     },
     "Genre": "1",
     "WheelPosition": 20000,
-    "IsHidden": true
+    "IsHidden": true,
+    "MusicList": [
+      "biker_jukebox_modern_rock"
+    ]
   },
   {
     "RadioName": "HIDDEN_RADIO_BIKER_PUNK",
@@ -1607,7 +1904,10 @@
     },
     "Genre": "1",
     "WheelPosition": 21000,
-    "IsHidden": true
+    "IsHidden": true,
+    "MusicList": [
+      "biker_jukebox_punk"
+    ]
   },
   {
     "RadioName": "HIDDEN_RADIO_CASINO",
@@ -1630,7 +1930,10 @@
     },
     "Genre": "16",
     "WheelPosition": 1000,
-    "IsHidden": true
+    "IsHidden": true,
+    "MusicList": [
+      "hidden_radio_casino_music"
+    ]
   },
   {
     "RadioName": "HIDDEN_RADIO_CASINO_PENTHOUSE_P",
@@ -1653,7 +1956,10 @@
     },
     "Genre": "16",
     "WheelPosition": 1000,
-    "IsHidden": true
+    "IsHidden": true,
+    "MusicList": [
+      "dlc_radio_casino_party_tracklist"
+    ]
   },
   {
     "RadioName": "HIDDEN_RADIO_ML_PROMOTER",
@@ -1676,7 +1982,10 @@
     },
     "Genre": "4",
     "WheelPosition": 1000,
-    "IsHidden": true
+    "IsHidden": true,
+    "MusicList": [
+      "hidden_radio_musiclocker_promoter_music"
+    ]
   },
   {
     "RadioName": "HIDDEN_RADIO_MPSUM2_NEWS",
@@ -1699,7 +2008,10 @@
     },
     "Genre": "16",
     "WheelPosition": 1000,
-    "IsHidden": true
+    "IsHidden": true,
+    "MusicList": [
+      "hidden_radio_mpsum2_news_music"
+    ]
   },
   {
     "RadioName": "HIDDEN_RADIO_SEC_BILLIONAIRE",
@@ -1722,7 +2034,10 @@
     },
     "Genre": "4",
     "WheelPosition": 1000,
-    "IsHidden": true
+    "IsHidden": true,
+    "MusicList": [
+      "hidden_radio_sec_billionaire_music"
+    ]
   },
   {
     "RadioName": "HIDDEN_RADIO_SEC_STUDIO_LOUNGE",
@@ -1745,7 +2060,10 @@
     },
     "Genre": "4",
     "WheelPosition": 1000,
-    "IsHidden": true
+    "IsHidden": true,
+    "MusicList": [
+      "hidden_radio_sec_studio_lounge_music"
+    ]
   },
   {
     "RadioName": "HIDDEN_RADIO_STRIP_CLUB",
@@ -1768,7 +2086,10 @@
     },
     "Genre": "16",
     "WheelPosition": 18000,
-    "IsHidden": true
+    "IsHidden": true,
+    "MusicList": [
+      "3644143185"
+    ]
   },
   {
     "RadioName": "HIDDEN_RADIO_TUNER_CAR_MEET",
@@ -1791,7 +2112,10 @@
     },
     "Genre": "16",
     "WheelPosition": 1000,
-    "IsHidden": true
+    "IsHidden": true,
+    "MusicList": [
+      "tuner_ap_mix3_partc"
+    ]
   },
   {
     "RadioName": "HIDDEN_RADIO_TUNER_MM",
@@ -1814,7 +2138,10 @@
     },
     "Genre": "10",
     "WheelPosition": 11500,
-    "IsHidden": true
+    "IsHidden": true,
+    "MusicList": [
+      "hidden_radio_tuner_mm_playlist"
+    ]
   },
   {
     "RadioName": "HIDDEN_RADIO_TUNER_TEST_AREA",
@@ -1837,6 +2164,9 @@
     },
     "Genre": "16",
     "WheelPosition": 1000,
-    "IsHidden": true
+    "IsHidden": true,
+    "MusicList": [
+      "tuner_ap_mix3_partd"
+    ]
   }
 ]

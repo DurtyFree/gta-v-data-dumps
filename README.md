@@ -11,7 +11,7 @@ This is a collection of various GTA V data dumps mostly useful for modding &amp;
 ### Please create an issue if you have any problems with the data, so I can improve my generator. You are also welcome to create issues for dumps you would like to see.
 ---
 ## **Data dumps overview**
-- **IPLs** ([ipls.json](ipls.json)) **1205** ipls in total (Usable with IPL natives)
+- **IPLs** ([ipls.json](ipls.json)) **788** ipls in total (Usable with IPL natives)
 - **Speech Voices** ([speeches.json](speeches.json)) **1083** speech voices with **150055** speeches in total (Usable with PLAY AMBIENT SPEECH natives)
 - **Particle Effects** ([particleEffectsCompact.json](particleEffectsCompact.json)) **323** particle effect dictionaries & **2613** particle effects in total (Usable with START PARTICLE FX natives)
 - **Ped Scenario names** ([scenariosCompact.json](scenariosCompact.json)) **247** scenarios in total (Usable with SCENARIO related natives)
@@ -19,7 +19,7 @@ This is a collection of various GTA V data dumps mostly useful for modding &amp;
 - **Animations** ([animDictsCompact.json](animDictsCompact.json)) **18674** animation dictionaries & **242250** animations in total (Usable with TASK PLAY ANIM native)
 - **Movement Clipsets** ([movementClipsetsCompact.json](movementClipsetsCompact.json)) **557** movement clipsets in total (Usable with SET PED MOVEMENT CLIPSET native)
 - **Walking Movement Clipsets** ([movementClipsetsWalkingCompact.json](movementClipsetsWalkingCompact.json)) **207** movement clipsets in total (Usable with SET PED MOVEMENT CLIPSET native)
-- **(Vehicle Navigation) Nodes** ([nodes.zip](nodes.zip), contains JSON) **259** node cells with **67454** nodes in total (Mostly useful for vehicle navigation, see navigation meshes dump for ped navigation data)
+- **(Vehicle Navigation) Nodes** ([nodes.zip](nodes.zip), contains JSON) **259** node cells with **77991** nodes in total (Mostly useful for vehicle navigation, see navigation meshes dump for ped navigation data)
 - **(Offroad & Ped) Navigation Meshes** ([mega.nz MSGPACK download (.7z)](https://mega.nz/file/lLZWwJbR#T3Xm3nQKRTP1Z0XrkzgbbINo54d6wK2Na4Nj6tYfbXI), see [NAVIGATIONMESH.md](navigationmesh.md) for more info) **4816** navmeshes with **7136687** polygons in total (See navigationmesh.md for the messagepack model)
 - **Ped Overlay Collections (Tattoos)** ([pedOverlayCollections.json](pedOverlayCollections.json)) **35** ped overlay collections with **3286** overlays in total (Usable tattos/badges with ped decoration native)
 - **Timecycle Modifiers** ([timecycleModifiers.json](timecycleModifiers.json)) **2925** timecycle modifiers in total (Usable with TIMECYCLE MODIFIER natives)
@@ -29,9 +29,9 @@ This is a collection of various GTA V data dumps mostly useful for modding &amp;
 - **Pickup Types names** ([pickupTypes.json](pickupTypes.json)) **167** pickup types in total (Usable with CREATE PICKUP natives)
 - **Vehicle Mod Kits & Mods** ([vehicleModKits.json](vehicleModKits.json)) **497** vehicle mod kits with **26924** mods in total (Usable with SET_VEHICLE_MOD_KIT,SET_VEHICLE_LIVERY & SET_VEHICLE_MOD natives)
 - **Vehicles** ([vehicles.json](vehicles.json)) **798** vehicle infos in total (Usable with VEHICLE natives)
-- **AnimpostFX names** ([animPostFxNamesCompact.json](animPostFxNamesCompact.json)) **161** animpostfx names in total (Usable with ANIMPOSTFX natives)
-- **REMOVED** **Ped Component Variations** with cloth names and translations ([pedComponentVariations.json](pedComponentVariations.json)) **30396** component variations & **5213** ped props from a total of **88** ped component variation collections (Usable with COMPONENT VARIATION & PED PROP natives)
-- **Ped Component Variations** without cloth names and translations ([pedComponentVariations.json](pedComponentVariations_free.json)) **30396** component variations & **5213** ped props from a total of **88** ped component variation collections (Usable with COMPONENT VARIATION & PED PROP natives)
+- **AnimpostFX names** ([animPostFxNamesCompact.json](animPostFxNamesCompact.json)) **163** animpostfx names in total (Usable with ANIMPOSTFX natives)
+- **Ped Component Variations** with cloth names and translations ([pedComponentVariations.json](pedComponentVariations.json)) **30396** component variations & **5213** ped props from a total of **88** ped component variation collections (Usable with COMPONENT VARIATION & PED PROP natives)
+- **Ped Component Variations** without cloth names and translations ([pedComponentVariations_free.json](pedComponentVariations_free.json)) **30396** component variations & **5213** ped props from a total of **88** ped component variation collections (Usable with COMPONENT VARIATION & PED PROP natives)
 - **Ped Apparel Restriction tag names** ([animPostFxNamesCompact.json](animPostFxNamesCompact.json)) **468** ped apparel restriction tags in total (Usable with PED RESTRICTION natives)
 - **Waypoint recording names** ([waypointRecordings.json](waypointRecordings.json)) **807** waypoint recording infos in total (Usable with WAYPOINT RECORDING natives)
 - **Garages** ([garages.json](garages.json)) **32** garage infos in total (Usable with GARAGE natives)

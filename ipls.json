@@ -845,7 +845,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 9"
+      "GroupName": "Auto YMAP Group 9",
+      "GroupSimilar": "YMAP Similar 32"
     }
   },
   {
@@ -1095,7 +1096,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 14"
+      "GroupName": "Auto YMAP Group 14",
+      "GroupSimilar": "YMAP Similar 39"
     }
   },
   {
@@ -1118,7 +1120,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 14"
+      "GroupName": "Auto YMAP Group 14",
+      "GroupSimilar": "YMAP Similar 39"
     }
   },
   {
@@ -1140,7 +1143,9 @@
       "Z": 21.142807
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 40"
+    }
   },
   {
     "Name": "dt1_05_hc_end",
@@ -1162,7 +1167,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 15"
+      "GroupName": "Auto YMAP Group 15",
+      "GroupSimilar": "YMAP Similar 41"
     }
   },
   {
@@ -1185,7 +1191,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 15"
+      "GroupName": "Auto YMAP Group 15",
+      "GroupSimilar": "YMAP Similar 42"
     }
   },
   {
@@ -1208,7 +1215,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 15"
+      "GroupName": "Auto YMAP Group 15",
+      "GroupSimilar": "YMAP Similar 41"
     }
   },
   {
@@ -1231,7 +1239,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 16"
+      "GroupName": "Auto YMAP Group 16",
+      "GroupSimilar": "YMAP Similar 43"
     }
   },
   {
@@ -1253,7 +1262,9 @@
       "Z": 47.09432
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 44"
+    }
   },
   {
     "Name": "dt1_05_woffm",
@@ -1275,7 +1286,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 14"
+      "GroupName": "Auto YMAP Group 14",
+      "GroupSimilar": "YMAP Similar 45"
     }
   },
   {
@@ -1298,7 +1310,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 17"
+      "GroupName": "Auto YMAP Group 17",
+      "GroupSimilar": "YMAP Similar 46"
     }
   },
   {
@@ -1321,7 +1334,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 17"
+      "GroupName": "Auto YMAP Group 17",
+      "GroupSimilar": "YMAP Similar 46"
     }
   },
   {
@@ -1343,7 +1357,9 @@
       "Z": 0.46524
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 47"
+    }
   },
   {
     "Name": "dt1_21_prop_lift",
@@ -1365,7 +1381,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 18"
+      "GroupName": "Auto YMAP Group 18",
+      "GroupSimilar": "YMAP Similar 48"
     }
   },
   {
@@ -1388,7 +1405,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 18"
+      "GroupName": "Auto YMAP Group 18",
+      "GroupSimilar": "YMAP Similar 48"
     }
   },
   {
@@ -1461,7 +1479,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 16"
+      "GroupName": "Auto YMAP Group 16",
+      "GroupSimilar": "YMAP Similar 43"
     }
   },
   {
@@ -1509,7 +1528,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 19"
+      "GroupName": "Auto YMAP Group 19",
+      "GroupSimilar": "YMAP Similar 52"
     }
   },
   {
@@ -1532,7 +1552,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 19"
+      "GroupName": "Auto YMAP Group 19",
+      "GroupSimilar": "YMAP Similar 53"
     }
   },
   {
@@ -1809,7 +1830,9 @@
     },
     "ContentFlags": 0,
     "MloName": "milo_replay",
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 63"
+    }
   },
   {
     "Name": "garage_door_locked",
@@ -1856,7 +1879,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 24"
+      "GroupName": "Auto YMAP Group 24",
+      "GroupSimilar": "YMAP Similar 65"
     }
   },
   {
@@ -1879,7 +1903,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 24"
+      "GroupName": "Auto YMAP Group 24",
+      "GroupSimilar": "YMAP Similar 65"
     }
   },
   {
@@ -1902,7 +1927,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 24"
+      "GroupName": "Auto YMAP Group 24",
+      "GroupSimilar": "YMAP Similar 65"
     }
   },
   {
@@ -1925,7 +1951,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 24"
+      "GroupName": "Auto YMAP Group 24",
+      "GroupSimilar": "YMAP Similar 65"
     }
   },
   {
@@ -1973,7 +2000,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 25"
+      "GroupName": "Auto YMAP Group 25",
+      "GroupSimilar": "YMAP Similar 67"
     }
   },
   {
@@ -1996,7 +2024,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 25"
+      "GroupName": "Auto YMAP Group 25",
+      "GroupSimilar": "YMAP Similar 68"
     }
   },
   {
@@ -2019,7 +2048,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 26"
+      "GroupName": "Auto YMAP Group 26",
+      "GroupSimilar": "YMAP Similar 69"
     }
   },
   {
@@ -2042,7 +2072,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 26"
+      "GroupName": "Auto YMAP Group 26",
+      "GroupSimilar": "YMAP Similar 70"
     }
   },
   {
@@ -2065,7 +2096,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 27"
+      "GroupName": "Auto YMAP Group 27",
+      "GroupSimilar": "YMAP Similar 71"
     }
   },
   {
@@ -2088,7 +2120,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 27"
+      "GroupName": "Auto YMAP Group 27",
+      "GroupSimilar": "YMAP Similar 72"
     }
   },
   {
@@ -2111,7 +2144,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 27"
+      "GroupName": "Auto YMAP Group 27",
+      "GroupSimilar": "YMAP Similar 73"
     }
   },
   {
@@ -2310,7 +2344,9 @@
       "Z": 67.57691
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 80"
+    }
   },
   {
     "Name": "ship_occ_grp1",
@@ -2407,7 +2443,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 30"
+      "GroupName": "Auto YMAP Group 30",
+      "GroupSimilar": "YMAP Similar 84"
     }
   },
   {
@@ -2430,7 +2467,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 31"
+      "GroupName": "Auto YMAP Group 31",
+      "GroupSimilar": "YMAP Similar 85"
     }
   },
   {
@@ -2452,7 +2490,9 @@
       "Z": 2.622257
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 86"
+    }
   },
   {
     "Name": "po1_08_mapcrane",
@@ -2474,7 +2514,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 32"
+      "GroupName": "Auto YMAP Group 32",
+      "GroupSimilar": "YMAP Similar 87"
     }
   },
   {
@@ -2496,7 +2537,9 @@
       "Z": 55.30108
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 88"
+    }
   },
   {
     "Name": "po1_08_sub_waterplane",
@@ -2517,7 +2560,9 @@
       "Z": -1.213612
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 89"
+    }
   },
   {
     "Name": "sunk_ship_fire",
@@ -2588,7 +2633,9 @@
       "Z": 5.712218
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 92"
+    }
   },
   {
     "Name": "carwash_with_spinners",
@@ -2660,7 +2707,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 35"
+      "GroupName": "Auto YMAP Group 35",
+      "GroupSimilar": "YMAP Similar 94"
     }
   },
   {
@@ -2759,7 +2807,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 38"
+      "GroupName": "Auto YMAP Group 38",
+      "GroupSimilar": "YMAP Similar 98"
     }
   },
   {
@@ -2782,7 +2831,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 38"
+      "GroupName": "Auto YMAP Group 38",
+      "GroupSimilar": "YMAP Similar 99"
     }
   },
   {
@@ -2805,7 +2855,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 38"
+      "GroupName": "Auto YMAP Group 38",
+      "GroupSimilar": "YMAP Similar 100"
     }
   },
   {
@@ -2828,7 +2879,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 38"
+      "GroupName": "Auto YMAP Group 38",
+      "GroupSimilar": "YMAP Similar 101"
     }
   },
   {
@@ -2851,7 +2903,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 39"
+      "GroupName": "Auto YMAP Group 39",
+      "GroupSimilar": "YMAP Similar 102"
     }
   },
   {
@@ -2874,7 +2927,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 39"
+      "GroupName": "Auto YMAP Group 39",
+      "GroupSimilar": "YMAP Similar 102"
     }
   },
   {
@@ -2897,7 +2951,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 40"
+      "GroupName": "Auto YMAP Group 40",
+      "GroupSimilar": "YMAP Similar 103"
     }
   },
   {
@@ -2920,7 +2975,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 40"
+      "GroupName": "Auto YMAP Group 40",
+      "GroupSimilar": "YMAP Similar 103"
     }
   },
   {
@@ -2942,7 +2998,9 @@
       "Z": 24.255745
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 104"
+    }
   },
   {
     "Name": "sc1_27_cut",
@@ -2964,7 +3022,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 41"
+      "GroupName": "Auto YMAP Group 41",
+      "GroupSimilar": "YMAP Similar 105"
     }
   },
   {
@@ -2987,7 +3046,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 42"
+      "GroupName": "Auto YMAP Group 42",
+      "GroupSimilar": "YMAP Similar 106"
     }
   },
   {
@@ -3010,7 +3070,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 43"
+      "GroupName": "Auto YMAP Group 43",
+      "GroupSimilar": "YMAP Similar 107"
     }
   },
   {
@@ -3032,7 +3093,9 @@
       "Z": 32.958885
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 108"
+    }
   },
   {
     "Name": "ap1_04_triaf01",
@@ -3053,7 +3116,9 @@
       "Z": 16.51571
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 109"
+    }
   },
   {
     "Name": "bh1_02_cutscenetrailer",
@@ -3074,7 +3139,9 @@
       "Z": 36.956364
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 110"
+    }
   },
   {
     "Name": "bh1_08_carparkdoor",
@@ -3096,7 +3163,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 44"
+      "GroupName": "Auto YMAP Group 44",
+      "GroupSimilar": "YMAP Similar 111"
     }
   },
   {
@@ -3244,7 +3312,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 48"
+      "GroupName": "Auto YMAP Group 48",
+      "GroupSimilar": "YMAP Similar 117"
     }
   },
   {
@@ -3318,7 +3387,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 50"
+      "GroupName": "Auto YMAP Group 50",
+      "GroupSimilar": "YMAP Similar 119"
     }
   },
   {
@@ -3340,7 +3410,9 @@
       "Z": 65.47096
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 120"
+    }
   },
   {
     "Name": "jewel2fake",
@@ -3439,7 +3511,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 48"
+      "GroupName": "Auto YMAP Group 48",
+      "GroupSimilar": "YMAP Similar 124"
     }
   },
   {
@@ -3462,7 +3535,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 51"
+      "GroupName": "Auto YMAP Group 51",
+      "GroupSimilar": "YMAP Similar 125"
     }
   },
   {
@@ -3586,7 +3660,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 54"
+      "GroupName": "Auto YMAP Group 54",
+      "GroupSimilar": "YMAP Similar 129"
     }
   },
   {
@@ -3608,7 +3683,9 @@
       "Z": 53.840515
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 130"
+    }
   },
   {
     "Name": "smboat",
@@ -3655,7 +3732,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 56"
+      "GroupName": "Auto YMAP Group 56",
+      "GroupSimilar": "YMAP Similar 132"
     }
   },
   {
@@ -3678,7 +3756,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 56"
+      "GroupName": "Auto YMAP Group 56",
+      "GroupSimilar": "YMAP Similar 132"
     }
   },
   {
@@ -3701,7 +3780,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 57"
+      "GroupName": "Auto YMAP Group 57",
+      "GroupSimilar": "YMAP Similar 133"
     }
   },
   {
@@ -3724,7 +3804,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 57"
+      "GroupName": "Auto YMAP Group 57",
+      "GroupSimilar": "YMAP Similar 133"
     }
   },
   {
@@ -3747,7 +3828,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 58"
+      "GroupName": "Auto YMAP Group 58",
+      "GroupSimilar": "YMAP Similar 134"
     }
   },
   {
@@ -3770,7 +3852,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 58"
+      "GroupName": "Auto YMAP Group 58",
+      "GroupSimilar": "YMAP Similar 135"
     }
   },
   {
@@ -3792,7 +3875,9 @@
       "Z": 4.205563
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 136"
+    }
   },
   {
     "Name": "vb_08_triaf01",
@@ -3814,7 +3899,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 59"
+      "GroupName": "Auto YMAP Group 59",
+      "GroupSimilar": "YMAP Similar 137"
     }
   },
   {
@@ -3837,7 +3923,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 60"
+      "GroupName": "Auto YMAP Group 60",
+      "GroupSimilar": "YMAP Similar 138"
     }
   },
   {
@@ -3860,7 +3947,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 60"
+      "GroupName": "Auto YMAP Group 60",
+      "GroupSimilar": "YMAP Similar 139"
     }
   },
   {
@@ -3883,7 +3971,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 61"
+      "GroupName": "Auto YMAP Group 61",
+      "GroupSimilar": "YMAP Similar 140"
     }
   },
   {
@@ -3906,7 +3995,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 62"
+      "GroupName": "Auto YMAP Group 62",
+      "GroupSimilar": "YMAP Similar 141"
     }
   },
   {
@@ -3929,7 +4019,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 61"
+      "GroupName": "Auto YMAP Group 61",
+      "GroupSimilar": "YMAP Similar 142"
     }
   },
   {
@@ -3952,7 +4043,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 61"
+      "GroupName": "Auto YMAP Group 61",
+      "GroupSimilar": "YMAP Similar 142"
     }
   },
   {
@@ -3975,7 +4067,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 62"
+      "GroupName": "Auto YMAP Group 62",
+      "GroupSimilar": "YMAP Similar 143"
     }
   },
   {
@@ -3998,7 +4091,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 63"
+      "GroupName": "Auto YMAP Group 63",
+      "GroupSimilar": "YMAP Similar 144"
     }
   },
   {
@@ -4021,7 +4115,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 63"
+      "GroupName": "Auto YMAP Group 63",
+      "GroupSimilar": "YMAP Similar 144"
     }
   },
   {
@@ -4044,7 +4139,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 64"
+      "GroupName": "Auto YMAP Group 64",
+      "GroupSimilar": "YMAP Similar 145"
     }
   },
   {
@@ -4067,7 +4163,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 64"
+      "GroupName": "Auto YMAP Group 64",
+      "GroupSimilar": "YMAP Similar 146"
     }
   },
   {
@@ -4090,7 +4187,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 64"
+      "GroupName": "Auto YMAP Group 64",
+      "GroupSimilar": "YMAP Similar 147"
     }
   },
   {
@@ -4113,7 +4211,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 64"
+      "GroupName": "Auto YMAP Group 64",
+      "GroupSimilar": "YMAP Similar 148"
     }
   },
   {
@@ -4135,7 +4234,9 @@
       "Z": 1.6900326
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 149"
+    }
   },
   {
     "Name": "vb_35_day",
@@ -4157,7 +4258,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 65"
+      "GroupName": "Auto YMAP Group 65",
+      "GroupSimilar": "YMAP Similar 150"
     }
   },
   {
@@ -4179,7 +4281,9 @@
       "Z": 1.7444791
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 151"
+    }
   },
   {
     "Name": "vb_35_morning",
@@ -4201,7 +4305,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 56"
+      "GroupName": "Auto YMAP Group 56",
+      "GroupSimilar": "YMAP Similar 152"
     }
   },
   {
@@ -4223,7 +4328,9 @@
       "Z": 4.253687
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 153"
+    }
   },
   {
     "Name": "vb_35_scenario1",
@@ -4245,7 +4352,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 65"
+      "GroupName": "Auto YMAP Group 65",
+      "GroupSimilar": "YMAP Similar 154"
     }
   },
   {
@@ -4268,7 +4376,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 65"
+      "GroupName": "Auto YMAP Group 65",
+      "GroupSimilar": "YMAP Similar 155"
     }
   },
   {
@@ -4291,7 +4400,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 66"
+      "GroupName": "Auto YMAP Group 66",
+      "GroupSimilar": "YMAP Similar 156"
     }
   },
   {
@@ -4314,7 +4424,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 66"
+      "GroupName": "Auto YMAP Group 66",
+      "GroupSimilar": "YMAP Similar 157"
     }
   },
   {
@@ -4336,7 +4447,9 @@
       "Z": 4.869624
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 158"
+    }
   },
   {
     "Name": "vb_36_scenario1",
@@ -4358,7 +4471,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 66"
+      "GroupName": "Auto YMAP Group 66",
+      "GroupSimilar": "YMAP Similar 159"
     }
   },
   {
@@ -4380,7 +4494,9 @@
       "Z": 2.22617
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 160"
+    }
   },
   {
     "Name": "vb_36_scenario3",
@@ -4401,7 +4517,9 @@
       "Z": 5.7551827
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 161"
+    }
   },
   {
     "Name": "ch1_01_day",
@@ -4422,7 +4540,9 @@
       "Z": 13.189318
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 162"
+    }
   },
   {
     "Name": "ch1_01_evening",
@@ -4443,7 +4563,9 @@
       "Z": 7.3203225
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 163"
+    }
   },
   {
     "Name": "ch1_01_morning",
@@ -4465,7 +4587,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 67"
+      "GroupName": "Auto YMAP Group 67",
+      "GroupSimilar": "YMAP Similar 164"
     }
   },
   {
@@ -4488,7 +4611,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 67"
+      "GroupName": "Auto YMAP Group 67",
+      "GroupSimilar": "YMAP Similar 165"
     }
   },
   {
@@ -4510,7 +4634,9 @@
       "Z": 5.6364694
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 166"
+    }
   },
   {
     "Name": "ch1_02_closed",
@@ -4556,7 +4682,9 @@
       "Z": 16.993269
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 168"
+    }
   },
   {
     "Name": "ch1_02_open",
@@ -4602,7 +4730,9 @@
       "Z": 188.04597
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 170"
+    }
   },
   {
     "Name": "ch1_12_props_day",
@@ -4624,7 +4754,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 69"
+      "GroupName": "Auto YMAP Group 69",
+      "GroupSimilar": "YMAP Similar 171"
     }
   },
   {
@@ -4647,7 +4778,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 69"
+      "GroupName": "Auto YMAP Group 69",
+      "GroupSimilar": "YMAP Similar 172"
     }
   },
   {
@@ -4669,7 +4801,9 @@
       "Z": 186.71925
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 173"
+    }
   },
   {
     "Name": "mic3_chopper_debris",
@@ -4690,7 +4824,9 @@
       "Z": 176.50238
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 174"
+    }
   },
   {
     "Name": "ch2_01_party",
@@ -4711,7 +4847,9 @@
       "Z": 181.85744
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 175"
+    }
   },
   {
     "Name": "ch2_01c_stall",
@@ -4732,7 +4870,9 @@
       "Z": 129.64508
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 176"
+    }
   },
   {
     "Name": "ch2_11_props_boombox01",
@@ -4753,7 +4893,9 @@
       "Z": 119.76641
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 177"
+    }
   },
   {
     "Name": "ch2_11_props_boombox02",
@@ -4774,7 +4916,9 @@
       "Z": 106.141525
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 178"
+    }
   },
   {
     "Name": "chophillskennel",
@@ -4796,7 +4940,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 70"
+      "GroupName": "Auto YMAP Group 70",
+      "GroupSimilar": "YMAP Similar 179"
     }
   },
   {
@@ -4894,7 +5039,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 73"
+      "GroupName": "Auto YMAP Group 73",
+      "GroupSimilar": "YMAP Similar 183"
     }
   },
   {
@@ -4917,7 +5063,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 73"
+      "GroupName": "Auto YMAP Group 73",
+      "GroupSimilar": "YMAP Similar 184"
     }
   },
   {
@@ -4940,7 +5087,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 74"
+      "GroupName": "Auto YMAP Group 74",
+      "GroupSimilar": "YMAP Similar 185"
     }
   },
   {
@@ -4963,7 +5111,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 74"
+      "GroupName": "Auto YMAP Group 74",
+      "GroupSimilar": "YMAP Similar 185"
     }
   },
   {
@@ -4985,7 +5134,9 @@
       "Z": 48.603283
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 186"
+    }
   },
   {
     "Name": "ch3_rd2_bishopschickengraffiti",
@@ -5232,7 +5383,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 76"
+      "GroupName": "Auto YMAP Group 76",
+      "GroupSimilar": "YMAP Similar 194"
     }
   },
   {
@@ -5255,7 +5407,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 76"
+      "GroupName": "Auto YMAP Group 76",
+      "GroupSimilar": "YMAP Similar 195"
     }
   },
   {
@@ -5278,7 +5431,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 76"
+      "GroupName": "Auto YMAP Group 76",
+      "GroupSimilar": "YMAP Similar 194"
     }
   },
   {
@@ -5530,7 +5684,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 83"
+      "GroupName": "Auto YMAP Group 83",
+      "GroupSimilar": "YMAP Similar 203"
     }
   },
   {
@@ -5553,7 +5708,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 84"
+      "GroupName": "Auto YMAP Group 84",
+      "GroupSimilar": "YMAP Similar 204"
     }
   },
   {
@@ -5576,7 +5732,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 84"
+      "GroupName": "Auto YMAP Group 84",
+      "GroupSimilar": "YMAP Similar 205"
     }
   },
   {
@@ -5599,7 +5756,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 84"
+      "GroupName": "Auto YMAP Group 84",
+      "GroupSimilar": "YMAP Similar 206"
     }
   },
   {
@@ -5622,7 +5780,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 85"
+      "GroupName": "Auto YMAP Group 85",
+      "GroupSimilar": "YMAP Similar 207"
     }
   },
   {
@@ -5719,7 +5878,9 @@
       "Z": 18.166979
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 211"
+    }
   },
   {
     "Name": "cs2_06_triaf02",
@@ -5740,7 +5901,9 @@
       "Z": 45.11005
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 212"
+    }
   },
   {
     "Name": "des_farmhouse",
@@ -6062,7 +6225,9 @@
       "Z": 35.89179
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 223"
+    }
   },
   {
     "Name": "cs3_05_water_grp1",
@@ -6209,7 +6374,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 89"
+      "GroupName": "Auto YMAP Group 89",
+      "GroupSimilar": "YMAP Similar 228"
     }
   },
   {
@@ -6457,7 +6623,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 94"
+      "GroupName": "Auto YMAP Group 94",
+      "GroupSimilar": "YMAP Similar 237"
     }
   },
   {
@@ -6480,7 +6647,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 94"
+      "GroupName": "Auto YMAP Group 94",
+      "GroupSimilar": "YMAP Similar 238"
     }
   },
   {
@@ -6503,7 +6671,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 95"
+      "GroupName": "Auto YMAP Group 95",
+      "GroupSimilar": "YMAP Similar 239"
     }
   },
   {
@@ -6525,7 +6694,9 @@
       "Z": 38.82743
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 240"
+    }
   },
   {
     "Name": "trv1_trail_start",
@@ -6547,7 +6718,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 95"
+      "GroupName": "Auto YMAP Group 95",
+      "GroupSimilar": "YMAP Similar 241"
     }
   },
   {
@@ -6595,7 +6767,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 90"
+      "GroupName": "Auto YMAP Group 90",
+      "GroupSimilar": "YMAP Similar 242"
     }
   },
   {
@@ -6618,7 +6791,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 91"
+      "GroupName": "Auto YMAP Group 91",
+      "GroupSimilar": "YMAP Similar 231"
     }
   },
   {
@@ -6666,7 +6840,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 93"
+      "GroupName": "Auto YMAP Group 93",
+      "GroupSimilar": "YMAP Similar 244"
     }
   },
   {
@@ -6689,7 +6864,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 94"
+      "GroupName": "Auto YMAP Group 94",
+      "GroupSimilar": "YMAP Similar 238"
     }
   },
   {
@@ -6711,7 +6887,9 @@
       "Z": 41.50358
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 245"
+    }
   },
   {
     "Name": "cs4_04_trash",
@@ -6732,7 +6910,9 @@
       "Z": 32.13601
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 246"
+    }
   },
   {
     "Name": "cs4_04_triaf03",
@@ -6754,7 +6934,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 96"
+      "GroupName": "Auto YMAP Group 96",
+      "GroupSimilar": "YMAP Similar 247"
     }
   },
   {
@@ -6776,7 +6957,9 @@
       "Z": 48.445637
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 248"
+    }
   },
   {
     "Name": "racetrack01",
@@ -6797,7 +6980,9 @@
       "Z": 54.84304
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 249"
+    }
   },
   {
     "Name": "sheriff_cap",
@@ -6819,7 +7004,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 97"
+      "GroupName": "Auto YMAP Group 97",
+      "GroupSimilar": "YMAP Similar 250"
     }
   },
   {
@@ -6995,7 +7181,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 99"
+      "GroupName": "Auto YMAP Group 99",
+      "GroupSimilar": "YMAP Similar 255"
     }
   },
   {
@@ -7043,7 +7230,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 100"
+      "GroupName": "Auto YMAP Group 100",
+      "GroupSimilar": "YMAP Similar 257"
     }
   },
   {
@@ -7066,7 +7254,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 100"
+      "GroupName": "Auto YMAP Group 100",
+      "GroupSimilar": "YMAP Similar 258"
     }
   },
   {
@@ -7088,7 +7277,9 @@
       "Z": 197.29239
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 259"
+    }
   },
   {
     "Name": "cs6_06_fruitstand",
@@ -7109,7 +7300,9 @@
       "Z": 229.16443
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 260"
+    }
   },
   {
     "Name": "hei_dt1_02_exshadowmesh",
@@ -7131,7 +7324,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 101"
+      "GroupName": "Auto YMAP Group 101",
+      "GroupSimilar": "YMAP Similar 261"
     }
   },
   {
@@ -7154,7 +7348,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 101"
+      "GroupName": "Auto YMAP Group 101",
+      "GroupSimilar": "YMAP Similar 262"
     }
   },
   {
@@ -7177,7 +7372,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 102"
+      "GroupName": "Auto YMAP Group 102",
+      "GroupSimilar": "YMAP Similar 263"
     }
   },
   {
@@ -7200,7 +7396,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 101"
+      "GroupName": "Auto YMAP Group 101",
+      "GroupSimilar": "YMAP Similar 264"
     }
   },
   {
@@ -7223,7 +7420,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 103"
+      "GroupName": "Auto YMAP Group 103",
+      "GroupSimilar": "YMAP Similar 265"
     }
   },
   {
@@ -7246,7 +7444,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 103"
+      "GroupName": "Auto YMAP Group 103",
+      "GroupSimilar": "YMAP Similar 266"
     }
   },
   {
@@ -7269,7 +7468,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 101"
+      "GroupName": "Auto YMAP Group 101",
+      "GroupSimilar": "YMAP Similar 267"
     }
   },
   {
@@ -7292,7 +7492,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 103"
+      "GroupName": "Auto YMAP Group 103",
+      "GroupSimilar": "YMAP Similar 268"
     }
   },
   {
@@ -7315,7 +7516,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 101"
+      "GroupName": "Auto YMAP Group 101",
+      "GroupSimilar": "YMAP Similar 269"
     }
   },
   {
@@ -7338,7 +7540,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 104"
+      "GroupName": "Auto YMAP Group 104",
+      "GroupSimilar": "YMAP Similar 270"
     }
   },
   {
@@ -7361,7 +7564,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 104"
+      "GroupName": "Auto YMAP Group 104",
+      "GroupSimilar": "YMAP Similar 270"
     }
   },
   {
@@ -7384,7 +7588,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 104"
+      "GroupName": "Auto YMAP Group 104",
+      "GroupSimilar": "YMAP Similar 270"
     }
   },
   {
@@ -7407,7 +7612,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 104"
+      "GroupName": "Auto YMAP Group 104",
+      "GroupSimilar": "YMAP Similar 270"
     }
   },
   {
@@ -7430,7 +7636,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 104"
+      "GroupName": "Auto YMAP Group 104",
+      "GroupSimilar": "YMAP Similar 270"
     }
   },
   {
@@ -7478,7 +7685,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 105"
+      "GroupName": "Auto YMAP Group 105",
+      "GroupSimilar": "YMAP Similar 272"
     }
   },
   {
@@ -7501,7 +7709,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 106"
+      "GroupName": "Auto YMAP Group 106",
+      "GroupSimilar": "YMAP Similar 273"
     }
   },
   {
@@ -7524,7 +7733,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 107"
+      "GroupName": "Auto YMAP Group 107",
+      "GroupSimilar": "YMAP Similar 274"
     }
   },
   {
@@ -7547,7 +7757,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 108"
+      "GroupName": "Auto YMAP Group 108",
+      "GroupSimilar": "YMAP Similar 275"
     }
   },
   {
@@ -7570,7 +7781,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 108"
+      "GroupName": "Auto YMAP Group 108",
+      "GroupSimilar": "YMAP Similar 275"
     }
   },
   {
@@ -7593,7 +7805,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 108"
+      "GroupName": "Auto YMAP Group 108",
+      "GroupSimilar": "YMAP Similar 276"
     }
   },
   {
@@ -7615,7 +7828,9 @@
       "Z": 76.362656
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 277"
+    }
   },
   {
     "Name": "hei_shadowsunmesh_kt1_08",
@@ -7636,7 +7851,9 @@
       "Z": 129.52988
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 278"
+    }
   },
   {
     "Name": "hei_sm_13_exshadowmesh",
@@ -7658,7 +7875,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 109"
+      "GroupName": "Auto YMAP Group 109",
+      "GroupSimilar": "YMAP Similar 279"
     }
   },
   {
@@ -7681,7 +7899,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 109"
+      "GroupName": "Auto YMAP Group 109",
+      "GroupSimilar": "YMAP Similar 279"
     }
   },
   {
@@ -7704,7 +7923,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 109"
+      "GroupName": "Auto YMAP Group 109",
+      "GroupSimilar": "YMAP Similar 279"
     }
   },
   {
@@ -7727,7 +7947,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 109"
+      "GroupName": "Auto YMAP Group 109",
+      "GroupSimilar": "YMAP Similar 279"
     }
   },
   {
@@ -7750,7 +7971,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 109"
+      "GroupName": "Auto YMAP Group 109",
+      "GroupSimilar": "YMAP Similar 279"
     }
   },
   {
@@ -7923,7 +8145,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 112"
+      "GroupName": "Auto YMAP Group 112",
+      "GroupSimilar": "YMAP Similar 284"
     }
   },
   {
@@ -7946,7 +8169,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 112"
+      "GroupName": "Auto YMAP Group 112",
+      "GroupSimilar": "YMAP Similar 285"
     }
   },
   {
@@ -8019,7 +8243,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 112"
+      "GroupName": "Auto YMAP Group 112",
+      "GroupSimilar": "YMAP Similar 284"
     }
   },
   {
@@ -8117,7 +8342,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 115"
+      "GroupName": "Auto YMAP Group 115",
+      "GroupSimilar": "YMAP Similar 290"
     }
   },
   {
@@ -8140,7 +8366,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 116"
+      "GroupName": "Auto YMAP Group 116",
+      "GroupSimilar": "YMAP Similar 291"
     }
   },
   {
@@ -8163,7 +8390,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 117"
+      "GroupName": "Auto YMAP Group 117",
+      "GroupSimilar": "YMAP Similar 292"
     }
   },
   {
@@ -8186,7 +8414,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 118"
+      "GroupName": "Auto YMAP Group 118",
+      "GroupSimilar": "YMAP Similar 293"
     }
   },
   {
@@ -8209,7 +8438,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 119"
+      "GroupName": "Auto YMAP Group 119",
+      "GroupSimilar": "YMAP Similar 294"
     }
   },
   {
@@ -8232,7 +8462,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 120"
+      "GroupName": "Auto YMAP Group 120",
+      "GroupSimilar": "YMAP Similar 295"
     }
   },
   {
@@ -8255,7 +8486,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 121"
+      "GroupName": "Auto YMAP Group 121",
+      "GroupSimilar": "YMAP Similar 296"
     }
   },
   {
@@ -8278,7 +8510,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 122"
+      "GroupName": "Auto YMAP Group 122",
+      "GroupSimilar": "YMAP Similar 297"
     }
   },
   {
@@ -8301,7 +8534,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 123"
+      "GroupName": "Auto YMAP Group 123",
+      "GroupSimilar": "YMAP Similar 298"
     }
   },
   {
@@ -8325,7 +8559,8 @@
     "ContentFlags": 0,
     "MloName": "apa_v_mp_stilts_a",
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 121"
+      "GroupName": "Auto YMAP Group 121",
+      "GroupSimilar": "YMAP Similar 299"
     }
   },
   {
@@ -8348,7 +8583,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 124"
+      "GroupName": "Auto YMAP Group 124",
+      "GroupSimilar": "YMAP Similar 300"
     }
   },
   {
@@ -8371,7 +8607,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 125"
+      "GroupName": "Auto YMAP Group 125",
+      "GroupSimilar": "YMAP Similar 301"
     }
   },
   {
@@ -8395,7 +8632,8 @@
     "ContentFlags": 0,
     "MloName": "apa_mpapa_yacht",
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 125"
+      "GroupName": "Auto YMAP Group 125",
+      "GroupSimilar": "YMAP Similar 302"
     }
   },
   {
@@ -8418,7 +8656,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 126"
+      "GroupName": "Auto YMAP Group 126",
+      "GroupSimilar": "YMAP Similar 303"
     }
   },
   {
@@ -8442,7 +8681,8 @@
     "ContentFlags": 0,
     "MloName": "apa_mpapa_yacht",
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 126"
+      "GroupName": "Auto YMAP Group 126",
+      "GroupSimilar": "YMAP Similar 304"
     }
   },
   {
@@ -8465,7 +8705,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 127"
+      "GroupName": "Auto YMAP Group 127",
+      "GroupSimilar": "YMAP Similar 305"
     }
   },
   {
@@ -8489,7 +8730,8 @@
     "ContentFlags": 0,
     "MloName": "apa_mpapa_yacht",
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 127"
+      "GroupName": "Auto YMAP Group 127",
+      "GroupSimilar": "YMAP Similar 306"
     }
   },
   {
@@ -8512,7 +8754,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 128"
+      "GroupName": "Auto YMAP Group 128",
+      "GroupSimilar": "YMAP Similar 307"
     }
   },
   {
@@ -8536,7 +8779,8 @@
     "ContentFlags": 0,
     "MloName": "apa_mpapa_yacht",
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 128"
+      "GroupName": "Auto YMAP Group 128",
+      "GroupSimilar": "YMAP Similar 308"
     }
   },
   {
@@ -8559,7 +8803,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 129"
+      "GroupName": "Auto YMAP Group 129",
+      "GroupSimilar": "YMAP Similar 309"
     }
   },
   {
@@ -8583,7 +8828,8 @@
     "ContentFlags": 0,
     "MloName": "apa_mpapa_yacht",
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 129"
+      "GroupName": "Auto YMAP Group 129",
+      "GroupSimilar": "YMAP Similar 310"
     }
   },
   {
@@ -8606,7 +8852,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 130"
+      "GroupName": "Auto YMAP Group 130",
+      "GroupSimilar": "YMAP Similar 311"
     }
   },
   {
@@ -8630,7 +8877,8 @@
     "ContentFlags": 0,
     "MloName": "apa_mpapa_yacht",
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 130"
+      "GroupName": "Auto YMAP Group 130",
+      "GroupSimilar": "YMAP Similar 312"
     }
   },
   {
@@ -8653,7 +8901,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 131"
+      "GroupName": "Auto YMAP Group 131",
+      "GroupSimilar": "YMAP Similar 313"
     }
   },
   {
@@ -8677,7 +8926,8 @@
     "ContentFlags": 0,
     "MloName": "apa_mpapa_yacht",
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 131"
+      "GroupName": "Auto YMAP Group 131",
+      "GroupSimilar": "YMAP Similar 314"
     }
   },
   {
@@ -8700,7 +8950,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 132"
+      "GroupName": "Auto YMAP Group 132",
+      "GroupSimilar": "YMAP Similar 315"
     }
   },
   {
@@ -8724,7 +8975,8 @@
     "ContentFlags": 0,
     "MloName": "apa_mpapa_yacht",
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 132"
+      "GroupName": "Auto YMAP Group 132",
+      "GroupSimilar": "YMAP Similar 316"
     }
   },
   {
@@ -8747,7 +8999,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 133"
+      "GroupName": "Auto YMAP Group 133",
+      "GroupSimilar": "YMAP Similar 317"
     }
   },
   {
@@ -8771,7 +9024,8 @@
     "ContentFlags": 0,
     "MloName": "apa_mpapa_yacht",
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 133"
+      "GroupName": "Auto YMAP Group 133",
+      "GroupSimilar": "YMAP Similar 318"
     }
   },
   {
@@ -8794,7 +9048,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 134"
+      "GroupName": "Auto YMAP Group 134",
+      "GroupSimilar": "YMAP Similar 319"
     }
   },
   {
@@ -8818,7 +9073,8 @@
     "ContentFlags": 0,
     "MloName": "apa_mpapa_yacht",
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 134"
+      "GroupName": "Auto YMAP Group 134",
+      "GroupSimilar": "YMAP Similar 320"
     }
   },
   {
@@ -8841,7 +9097,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 135"
+      "GroupName": "Auto YMAP Group 135",
+      "GroupSimilar": "YMAP Similar 321"
     }
   },
   {
@@ -8865,7 +9122,8 @@
     "ContentFlags": 0,
     "MloName": "apa_mpapa_yacht",
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 135"
+      "GroupName": "Auto YMAP Group 135",
+      "GroupSimilar": "YMAP Similar 322"
     }
   },
   {
@@ -8888,7 +9146,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 136"
+      "GroupName": "Auto YMAP Group 136",
+      "GroupSimilar": "YMAP Similar 323"
     }
   },
   {
@@ -8912,7 +9171,8 @@
     "ContentFlags": 0,
     "MloName": "apa_mpapa_yacht",
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 136"
+      "GroupName": "Auto YMAP Group 136",
+      "GroupSimilar": "YMAP Similar 324"
     }
   },
   {
@@ -8935,7 +9195,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 137"
+      "GroupName": "Auto YMAP Group 137",
+      "GroupSimilar": "YMAP Similar 325"
     }
   },
   {
@@ -8959,7 +9220,8 @@
     "ContentFlags": 0,
     "MloName": "apa_mpapa_yacht",
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 137"
+      "GroupName": "Auto YMAP Group 137",
+      "GroupSimilar": "YMAP Similar 326"
     }
   },
   {
@@ -8982,7 +9244,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 138"
+      "GroupName": "Auto YMAP Group 138",
+      "GroupSimilar": "YMAP Similar 327"
     }
   },
   {
@@ -9006,7 +9269,8 @@
     "ContentFlags": 0,
     "MloName": "apa_mpapa_yacht",
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 138"
+      "GroupName": "Auto YMAP Group 138",
+      "GroupSimilar": "YMAP Similar 328"
     }
   },
   {
@@ -9029,7 +9293,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 139"
+      "GroupName": "Auto YMAP Group 139",
+      "GroupSimilar": "YMAP Similar 329"
     }
   },
   {
@@ -9053,7 +9318,8 @@
     "ContentFlags": 0,
     "MloName": "apa_mpapa_yacht",
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 139"
+      "GroupName": "Auto YMAP Group 139",
+      "GroupSimilar": "YMAP Similar 330"
     }
   },
   {
@@ -9076,7 +9342,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 140"
+      "GroupName": "Auto YMAP Group 140",
+      "GroupSimilar": "YMAP Similar 331"
     }
   },
   {
@@ -9100,7 +9367,8 @@
     "ContentFlags": 0,
     "MloName": "apa_mpapa_yacht",
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 140"
+      "GroupName": "Auto YMAP Group 140",
+      "GroupSimilar": "YMAP Similar 332"
     }
   },
   {
@@ -9123,7 +9391,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 141"
+      "GroupName": "Auto YMAP Group 141",
+      "GroupSimilar": "YMAP Similar 333"
     }
   },
   {
@@ -9147,7 +9416,8 @@
     "ContentFlags": 0,
     "MloName": "apa_mpapa_yacht",
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 141"
+      "GroupName": "Auto YMAP Group 141",
+      "GroupSimilar": "YMAP Similar 334"
     }
   },
   {
@@ -9170,7 +9440,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 142"
+      "GroupName": "Auto YMAP Group 142",
+      "GroupSimilar": "YMAP Similar 335"
     }
   },
   {
@@ -9194,7 +9465,8 @@
     "ContentFlags": 0,
     "MloName": "apa_mpapa_yacht",
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 142"
+      "GroupName": "Auto YMAP Group 142",
+      "GroupSimilar": "YMAP Similar 336"
     }
   },
   {
@@ -9217,7 +9489,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 143"
+      "GroupName": "Auto YMAP Group 143",
+      "GroupSimilar": "YMAP Similar 337"
     }
   },
   {
@@ -9241,7 +9514,8 @@
     "ContentFlags": 0,
     "MloName": "apa_mpapa_yacht",
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 143"
+      "GroupName": "Auto YMAP Group 143",
+      "GroupSimilar": "YMAP Similar 338"
     }
   },
   {
@@ -9264,7 +9538,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 144"
+      "GroupName": "Auto YMAP Group 144",
+      "GroupSimilar": "YMAP Similar 339"
     }
   },
   {
@@ -9288,7 +9563,8 @@
     "ContentFlags": 0,
     "MloName": "apa_mpapa_yacht",
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 144"
+      "GroupName": "Auto YMAP Group 144",
+      "GroupSimilar": "YMAP Similar 340"
     }
   },
   {
@@ -9311,7 +9587,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 145"
+      "GroupName": "Auto YMAP Group 145",
+      "GroupSimilar": "YMAP Similar 341"
     }
   },
   {
@@ -9335,7 +9612,8 @@
     "ContentFlags": 0,
     "MloName": "apa_mpapa_yacht",
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 145"
+      "GroupName": "Auto YMAP Group 145",
+      "GroupSimilar": "YMAP Similar 342"
     }
   },
   {
@@ -9358,7 +9636,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 146"
+      "GroupName": "Auto YMAP Group 146",
+      "GroupSimilar": "YMAP Similar 343"
     }
   },
   {
@@ -9382,7 +9661,8 @@
     "ContentFlags": 0,
     "MloName": "apa_mpapa_yacht",
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 146"
+      "GroupName": "Auto YMAP Group 146",
+      "GroupSimilar": "YMAP Similar 344"
     }
   },
   {
@@ -9405,7 +9685,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 147"
+      "GroupName": "Auto YMAP Group 147",
+      "GroupSimilar": "YMAP Similar 345"
     }
   },
   {
@@ -9429,7 +9710,8 @@
     "ContentFlags": 0,
     "MloName": "apa_mpapa_yacht",
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 147"
+      "GroupName": "Auto YMAP Group 147",
+      "GroupSimilar": "YMAP Similar 346"
     }
   },
   {
@@ -9452,7 +9734,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 148"
+      "GroupName": "Auto YMAP Group 148",
+      "GroupSimilar": "YMAP Similar 347"
     }
   },
   {
@@ -9476,7 +9759,8 @@
     "ContentFlags": 0,
     "MloName": "apa_mpapa_yacht",
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 148"
+      "GroupName": "Auto YMAP Group 148",
+      "GroupSimilar": "YMAP Similar 348"
     }
   },
   {
@@ -9499,7 +9783,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 149"
+      "GroupName": "Auto YMAP Group 149",
+      "GroupSimilar": "YMAP Similar 349"
     }
   },
   {
@@ -9523,7 +9808,8 @@
     "ContentFlags": 0,
     "MloName": "apa_mpapa_yacht",
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 149"
+      "GroupName": "Auto YMAP Group 149",
+      "GroupSimilar": "YMAP Similar 350"
     }
   },
   {
@@ -9546,7 +9832,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 150"
+      "GroupName": "Auto YMAP Group 150",
+      "GroupSimilar": "YMAP Similar 351"
     }
   },
   {
@@ -9570,7 +9857,8 @@
     "ContentFlags": 0,
     "MloName": "apa_mpapa_yacht",
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 150"
+      "GroupName": "Auto YMAP Group 150",
+      "GroupSimilar": "YMAP Similar 352"
     }
   },
   {
@@ -9593,7 +9881,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 151"
+      "GroupName": "Auto YMAP Group 151",
+      "GroupSimilar": "YMAP Similar 353"
     }
   },
   {
@@ -9617,7 +9906,8 @@
     "ContentFlags": 0,
     "MloName": "apa_mpapa_yacht",
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 151"
+      "GroupName": "Auto YMAP Group 151",
+      "GroupSimilar": "YMAP Similar 354"
     }
   },
   {
@@ -9640,7 +9930,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 152"
+      "GroupName": "Auto YMAP Group 152",
+      "GroupSimilar": "YMAP Similar 355"
     }
   },
   {
@@ -9664,7 +9955,8 @@
     "ContentFlags": 0,
     "MloName": "apa_mpapa_yacht",
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 152"
+      "GroupName": "Auto YMAP Group 152",
+      "GroupSimilar": "YMAP Similar 356"
     }
   },
   {
@@ -9687,7 +9979,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 153"
+      "GroupName": "Auto YMAP Group 153",
+      "GroupSimilar": "YMAP Similar 357"
     }
   },
   {
@@ -9711,7 +10004,8 @@
     "ContentFlags": 0,
     "MloName": "apa_mpapa_yacht",
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 153"
+      "GroupName": "Auto YMAP Group 153",
+      "GroupSimilar": "YMAP Similar 358"
     }
   },
   {
@@ -9734,7 +10028,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 154"
+      "GroupName": "Auto YMAP Group 154",
+      "GroupSimilar": "YMAP Similar 359"
     }
   },
   {
@@ -9758,7 +10053,8 @@
     "ContentFlags": 0,
     "MloName": "apa_mpapa_yacht",
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 154"
+      "GroupName": "Auto YMAP Group 154",
+      "GroupSimilar": "YMAP Similar 360"
     }
   },
   {
@@ -9781,7 +10077,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 155"
+      "GroupName": "Auto YMAP Group 155",
+      "GroupSimilar": "YMAP Similar 361"
     }
   },
   {
@@ -9805,7 +10102,8 @@
     "ContentFlags": 0,
     "MloName": "apa_mpapa_yacht",
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 155"
+      "GroupName": "Auto YMAP Group 155",
+      "GroupSimilar": "YMAP Similar 362"
     }
   },
   {
@@ -9828,7 +10126,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 156"
+      "GroupName": "Auto YMAP Group 156",
+      "GroupSimilar": "YMAP Similar 363"
     }
   },
   {
@@ -9852,7 +10151,8 @@
     "ContentFlags": 0,
     "MloName": "apa_mpapa_yacht",
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 156"
+      "GroupName": "Auto YMAP Group 156",
+      "GroupSimilar": "YMAP Similar 364"
     }
   },
   {
@@ -9875,7 +10175,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 157"
+      "GroupName": "Auto YMAP Group 157",
+      "GroupSimilar": "YMAP Similar 365"
     }
   },
   {
@@ -9899,7 +10200,8 @@
     "ContentFlags": 0,
     "MloName": "apa_mpapa_yacht",
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 157"
+      "GroupName": "Auto YMAP Group 157",
+      "GroupSimilar": "YMAP Similar 366"
     }
   },
   {
@@ -9922,7 +10224,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 158"
+      "GroupName": "Auto YMAP Group 158",
+      "GroupSimilar": "YMAP Similar 367"
     }
   },
   {
@@ -9946,7 +10249,8 @@
     "ContentFlags": 0,
     "MloName": "apa_mpapa_yacht",
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 158"
+      "GroupName": "Auto YMAP Group 158",
+      "GroupSimilar": "YMAP Similar 368"
     }
   },
   {
@@ -9969,7 +10273,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 159"
+      "GroupName": "Auto YMAP Group 159",
+      "GroupSimilar": "YMAP Similar 369"
     }
   },
   {
@@ -9993,7 +10298,8 @@
     "ContentFlags": 0,
     "MloName": "apa_mpapa_yacht",
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 159"
+      "GroupName": "Auto YMAP Group 159",
+      "GroupSimilar": "YMAP Similar 370"
     }
   },
   {
@@ -10016,7 +10322,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 160"
+      "GroupName": "Auto YMAP Group 160",
+      "GroupSimilar": "YMAP Similar 371"
     }
   },
   {
@@ -10040,7 +10347,8 @@
     "ContentFlags": 0,
     "MloName": "apa_mpapa_yacht",
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 160"
+      "GroupName": "Auto YMAP Group 160",
+      "GroupSimilar": "YMAP Similar 372"
     }
   },
   {
@@ -10687,7 +10995,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 164"
+      "GroupName": "Auto YMAP Group 164",
+      "GroupSimilar": "YMAP Similar 376"
     }
   },
   {
@@ -10710,7 +11019,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 165"
+      "GroupName": "Auto YMAP Group 165",
+      "GroupSimilar": "YMAP Similar 377"
     }
   },
   {
@@ -10733,7 +11043,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 166"
+      "GroupName": "Auto YMAP Group 166",
+      "GroupSimilar": "YMAP Similar 378"
     }
   },
   {
@@ -10756,7 +11067,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 167"
+      "GroupName": "Auto YMAP Group 167",
+      "GroupSimilar": "YMAP Similar 379"
     }
   },
   {
@@ -10779,7 +11091,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 168"
+      "GroupName": "Auto YMAP Group 168",
+      "GroupSimilar": "YMAP Similar 380"
     }
   },
   {
@@ -10802,7 +11115,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 169"
+      "GroupName": "Auto YMAP Group 169",
+      "GroupSimilar": "YMAP Similar 381"
     }
   },
   {
@@ -10825,7 +11139,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 170"
+      "GroupName": "Auto YMAP Group 170",
+      "GroupSimilar": "YMAP Similar 382"
     }
   },
   {
@@ -10848,7 +11163,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 171"
+      "GroupName": "Auto YMAP Group 171",
+      "GroupSimilar": "YMAP Similar 383"
     }
   },
   {
@@ -10871,7 +11187,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 172"
+      "GroupName": "Auto YMAP Group 172",
+      "GroupSimilar": "YMAP Similar 384"
     }
   },
   {
@@ -10894,7 +11211,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 173"
+      "GroupName": "Auto YMAP Group 173",
+      "GroupSimilar": "YMAP Similar 385"
     }
   },
   {
@@ -10917,7 +11235,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 164"
+      "GroupName": "Auto YMAP Group 164",
+      "GroupSimilar": "YMAP Similar 386"
     }
   },
   {
@@ -10940,7 +11259,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 164"
+      "GroupName": "Auto YMAP Group 164",
+      "GroupSimilar": "YMAP Similar 387"
     }
   },
   {
@@ -10963,7 +11283,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 164"
+      "GroupName": "Auto YMAP Group 164",
+      "GroupSimilar": "YMAP Similar 387"
     }
   },
   {
@@ -10986,7 +11307,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 164"
+      "GroupName": "Auto YMAP Group 164",
+      "GroupSimilar": "YMAP Similar 386"
     }
   },
   {
@@ -11009,7 +11331,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 164"
+      "GroupName": "Auto YMAP Group 164",
+      "GroupSimilar": "YMAP Similar 386"
     }
   },
   {
@@ -11032,7 +11355,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 165"
+      "GroupName": "Auto YMAP Group 165",
+      "GroupSimilar": "YMAP Similar 388"
     }
   },
   {
@@ -11055,7 +11379,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 165"
+      "GroupName": "Auto YMAP Group 165",
+      "GroupSimilar": "YMAP Similar 388"
     }
   },
   {
@@ -11078,7 +11403,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 165"
+      "GroupName": "Auto YMAP Group 165",
+      "GroupSimilar": "YMAP Similar 388"
     }
   },
   {
@@ -11101,7 +11427,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 165"
+      "GroupName": "Auto YMAP Group 165",
+      "GroupSimilar": "YMAP Similar 388"
     }
   },
   {
@@ -11124,7 +11451,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 165"
+      "GroupName": "Auto YMAP Group 165",
+      "GroupSimilar": "YMAP Similar 388"
     }
   },
   {
@@ -11147,7 +11475,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 166"
+      "GroupName": "Auto YMAP Group 166",
+      "GroupSimilar": "YMAP Similar 389"
     }
   },
   {
@@ -11170,7 +11499,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 166"
+      "GroupName": "Auto YMAP Group 166",
+      "GroupSimilar": "YMAP Similar 390"
     }
   },
   {
@@ -11193,7 +11523,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 166"
+      "GroupName": "Auto YMAP Group 166",
+      "GroupSimilar": "YMAP Similar 389"
     }
   },
   {
@@ -11216,7 +11547,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 166"
+      "GroupName": "Auto YMAP Group 166",
+      "GroupSimilar": "YMAP Similar 389"
     }
   },
   {
@@ -11239,7 +11571,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 166"
+      "GroupName": "Auto YMAP Group 166",
+      "GroupSimilar": "YMAP Similar 390"
     }
   },
   {
@@ -11262,7 +11595,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 167"
+      "GroupName": "Auto YMAP Group 167",
+      "GroupSimilar": "YMAP Similar 391"
     }
   },
   {
@@ -11285,7 +11619,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 167"
+      "GroupName": "Auto YMAP Group 167",
+      "GroupSimilar": "YMAP Similar 392"
     }
   },
   {
@@ -11308,7 +11643,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 167"
+      "GroupName": "Auto YMAP Group 167",
+      "GroupSimilar": "YMAP Similar 393"
     }
   },
   {
@@ -11331,7 +11667,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 167"
+      "GroupName": "Auto YMAP Group 167",
+      "GroupSimilar": "YMAP Similar 391"
     }
   },
   {
@@ -11354,7 +11691,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 167"
+      "GroupName": "Auto YMAP Group 167",
+      "GroupSimilar": "YMAP Similar 393"
     }
   },
   {
@@ -11377,7 +11715,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 168"
+      "GroupName": "Auto YMAP Group 168",
+      "GroupSimilar": "YMAP Similar 394"
     }
   },
   {
@@ -11400,7 +11739,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 168"
+      "GroupName": "Auto YMAP Group 168",
+      "GroupSimilar": "YMAP Similar 394"
     }
   },
   {
@@ -11423,7 +11763,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 168"
+      "GroupName": "Auto YMAP Group 168",
+      "GroupSimilar": "YMAP Similar 394"
     }
   },
   {
@@ -11446,7 +11787,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 168"
+      "GroupName": "Auto YMAP Group 168",
+      "GroupSimilar": "YMAP Similar 395"
     }
   },
   {
@@ -11469,7 +11811,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 168"
+      "GroupName": "Auto YMAP Group 168",
+      "GroupSimilar": "YMAP Similar 394"
     }
   },
   {
@@ -11492,7 +11835,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 169"
+      "GroupName": "Auto YMAP Group 169",
+      "GroupSimilar": "YMAP Similar 396"
     }
   },
   {
@@ -11515,7 +11859,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 169"
+      "GroupName": "Auto YMAP Group 169",
+      "GroupSimilar": "YMAP Similar 397"
     }
   },
   {
@@ -11538,7 +11883,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 169"
+      "GroupName": "Auto YMAP Group 169",
+      "GroupSimilar": "YMAP Similar 396"
     }
   },
   {
@@ -11561,7 +11907,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 169"
+      "GroupName": "Auto YMAP Group 169",
+      "GroupSimilar": "YMAP Similar 396"
     }
   },
   {
@@ -11584,7 +11931,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 169"
+      "GroupName": "Auto YMAP Group 169",
+      "GroupSimilar": "YMAP Similar 396"
     }
   },
   {
@@ -11607,7 +11955,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 170"
+      "GroupName": "Auto YMAP Group 170",
+      "GroupSimilar": "YMAP Similar 398"
     }
   },
   {
@@ -11630,7 +11979,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 170"
+      "GroupName": "Auto YMAP Group 170",
+      "GroupSimilar": "YMAP Similar 399"
     }
   },
   {
@@ -11653,7 +12003,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 170"
+      "GroupName": "Auto YMAP Group 170",
+      "GroupSimilar": "YMAP Similar 398"
     }
   },
   {
@@ -11676,7 +12027,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 170"
+      "GroupName": "Auto YMAP Group 170",
+      "GroupSimilar": "YMAP Similar 398"
     }
   },
   {
@@ -11699,7 +12051,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 170"
+      "GroupName": "Auto YMAP Group 170",
+      "GroupSimilar": "YMAP Similar 398"
     }
   },
   {
@@ -11722,7 +12075,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 171"
+      "GroupName": "Auto YMAP Group 171",
+      "GroupSimilar": "YMAP Similar 400"
     }
   },
   {
@@ -11745,7 +12099,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 171"
+      "GroupName": "Auto YMAP Group 171",
+      "GroupSimilar": "YMAP Similar 400"
     }
   },
   {
@@ -11768,7 +12123,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 171"
+      "GroupName": "Auto YMAP Group 171",
+      "GroupSimilar": "YMAP Similar 400"
     }
   },
   {
@@ -11791,7 +12147,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 171"
+      "GroupName": "Auto YMAP Group 171",
+      "GroupSimilar": "YMAP Similar 400"
     }
   },
   {
@@ -11814,7 +12171,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 171"
+      "GroupName": "Auto YMAP Group 171",
+      "GroupSimilar": "YMAP Similar 400"
     }
   },
   {
@@ -11837,7 +12195,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 172"
+      "GroupName": "Auto YMAP Group 172",
+      "GroupSimilar": "YMAP Similar 384"
     }
   },
   {
@@ -11860,7 +12219,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 172"
+      "GroupName": "Auto YMAP Group 172",
+      "GroupSimilar": "YMAP Similar 384"
     }
   },
   {
@@ -11883,7 +12243,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 172"
+      "GroupName": "Auto YMAP Group 172",
+      "GroupSimilar": "YMAP Similar 401"
     }
   },
   {
@@ -11906,7 +12267,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 172"
+      "GroupName": "Auto YMAP Group 172",
+      "GroupSimilar": "YMAP Similar 401"
     }
   },
   {
@@ -11929,7 +12291,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 172"
+      "GroupName": "Auto YMAP Group 172",
+      "GroupSimilar": "YMAP Similar 401"
     }
   },
   {
@@ -11952,7 +12315,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 173"
+      "GroupName": "Auto YMAP Group 173",
+      "GroupSimilar": "YMAP Similar 402"
     }
   },
   {
@@ -11975,7 +12339,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 173"
+      "GroupName": "Auto YMAP Group 173",
+      "GroupSimilar": "YMAP Similar 385"
     }
   },
   {
@@ -11998,7 +12363,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 173"
+      "GroupName": "Auto YMAP Group 173",
+      "GroupSimilar": "YMAP Similar 402"
     }
   },
   {
@@ -12021,7 +12387,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 173"
+      "GroupName": "Auto YMAP Group 173",
+      "GroupSimilar": "YMAP Similar 402"
     }
   },
   {
@@ -12044,7 +12411,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 173"
+      "GroupName": "Auto YMAP Group 173",
+      "GroupSimilar": "YMAP Similar 402"
     }
   },
   {
@@ -12142,7 +12510,9 @@
       "Z": 48.837967
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 406"
+    }
   },
   {
     "Name": "xm_hatch_01_cutscene",
@@ -12163,7 +12533,9 @@
       "Z": 45.99595
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 407"
+    }
   },
   {
     "Name": "xm_hatch_02_cutscene",
@@ -12184,7 +12556,9 @@
       "Z": 110.456245
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 408"
+    }
   },
   {
     "Name": "xm_hatch_03_cutscene",
@@ -12205,7 +12579,9 @@
       "Z": 58.964973
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 409"
+    }
   },
   {
     "Name": "xm_hatch_04_cutscene",
@@ -12226,7 +12602,9 @@
       "Z": 23.162125
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 410"
+    }
   },
   {
     "Name": "xm_hatch_06_cutscene",
@@ -12247,7 +12625,9 @@
       "Z": 17.992771
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 411"
+    }
   },
   {
     "Name": "xm_hatch_07_cutscene",
@@ -12268,7 +12648,9 @@
       "Z": 7.235682
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 412"
+    }
   },
   {
     "Name": "xm_hatch_08_cutscene",
@@ -12289,7 +12671,9 @@
       "Z": 60.131355
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 413"
+    }
   },
   {
     "Name": "xm_hatch_09_cutscene",
@@ -12310,7 +12694,9 @@
       "Z": 106.676094
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 414"
+    }
   },
   {
     "Name": "xm_hatch_10_cutscene",
@@ -12331,7 +12717,9 @@
       "Z": 175.3184
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 415"
+    }
   },
   {
     "Name": "xm_hatch_closed",
@@ -12352,7 +12740,9 @@
       "Z": 163.31189
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 416"
+    }
   },
   {
     "Name": "xm_hatches_terrain",
@@ -12374,7 +12764,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 175"
+      "GroupName": "Auto YMAP Group 175",
+      "GroupSimilar": "YMAP Similar 417"
     }
   },
   {
@@ -12396,7 +12787,9 @@
       "Z": 716.58215
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 418"
+    }
   },
   {
     "Name": "xs_arena_banners_ipl",
@@ -12417,7 +12810,9 @@
       "Z": 50.798653
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 419"
+    }
   },
   {
     "Name": "xs_arena_interior",
@@ -12439,7 +12834,9 @@
     },
     "ContentFlags": 0,
     "MloName": "xs_x18_int_01",
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 420"
+    }
   },
   {
     "Name": "xs_arena_interior_mod",
@@ -12461,7 +12858,9 @@
     },
     "ContentFlags": 0,
     "MloName": "xs_x18_int_mod",
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 421"
+    }
   },
   {
     "Name": "xs_arena_interior_mod_2",
@@ -12483,7 +12882,9 @@
     },
     "ContentFlags": 0,
     "MloName": "xs_x18_int_mod2",
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 422"
+    }
   },
   {
     "Name": "xs_arena_interior_vip",
@@ -12505,7 +12906,9 @@
     },
     "ContentFlags": 0,
     "MloName": "xs_arena_vip",
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 423"
+    }
   },
   {
     "Name": "xm3_collision_fixes",
@@ -12527,7 +12930,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 176"
+      "GroupName": "Auto YMAP Group 176",
+      "GroupSimilar": "YMAP Similar 424"
     }
   },
   {
@@ -12549,7 +12953,9 @@
       "Z": 183.11545
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 425"
+    }
   },
   {
     "Name": "xm3_doc_sign",
@@ -12571,7 +12977,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 177"
+      "GroupName": "Auto YMAP Group 177",
+      "GroupSimilar": "YMAP Similar 426"
     }
   },
   {
@@ -12594,7 +13001,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 176"
+      "GroupName": "Auto YMAP Group 176",
+      "GroupSimilar": "YMAP Similar 427"
     }
   },
   {
@@ -12617,7 +13025,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 178"
+      "GroupName": "Auto YMAP Group 178",
+      "GroupSimilar": "YMAP Similar 428"
     }
   },
   {
@@ -12639,7 +13048,9 @@
       "Z": 220.24966
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 429"
+    }
   },
   {
     "Name": "xm3_sum2_fix",
@@ -12661,7 +13072,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 108"
+      "GroupName": "Auto YMAP Group 108",
+      "GroupSimilar": "YMAP Similar 430"
     }
   },
   {
@@ -12684,7 +13096,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 179"
+      "GroupName": "Auto YMAP Group 179",
+      "GroupSimilar": "YMAP Similar 431"
     }
   },
   {
@@ -12707,7 +13120,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 180"
+      "GroupName": "Auto YMAP Group 180",
+      "GroupSimilar": "YMAP Similar 432"
     }
   },
   {
@@ -12730,7 +13144,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 180"
+      "GroupName": "Auto YMAP Group 180",
+      "GroupSimilar": "YMAP Similar 433"
     }
   },
   {
@@ -14530,7 +14945,9 @@
     },
     "ContentFlags": 0,
     "MloName": "ch_mph3_carpark_int",
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 476"
+    }
   },
   {
     "Name": "h4_ch2_mansion_final",
@@ -14552,7 +14969,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 192"
+      "GroupName": "Auto YMAP Group 192",
+      "GroupSimilar": "YMAP Similar 477"
     }
   },
   {
@@ -14575,7 +14993,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 193"
+      "GroupName": "Auto YMAP Group 193",
+      "GroupSimilar": "YMAP Similar 478"
     }
   },
   {
@@ -14598,7 +15017,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 193"
+      "GroupName": "Auto YMAP Group 193",
+      "GroupSimilar": "YMAP Similar 478"
     }
   },
   {
@@ -14621,7 +15041,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 193"
+      "GroupName": "Auto YMAP Group 193",
+      "GroupSimilar": "YMAP Similar 478"
     }
   },
   {
@@ -14644,7 +15065,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 194"
+      "GroupName": "Auto YMAP Group 194",
+      "GroupSimilar": "YMAP Similar 479"
     }
   },
   {
@@ -14668,7 +15090,8 @@
     "ContentFlags": 0,
     "MloName": "h4_mpapa_yacht",
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 194"
+      "GroupName": "Auto YMAP Group 194",
+      "GroupSimilar": "YMAP Similar 480"
     }
   },
   {
@@ -14691,7 +15114,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 195"
+      "GroupName": "Auto YMAP Group 195",
+      "GroupSimilar": "YMAP Similar 481"
     }
   },
   {
@@ -14715,7 +15139,8 @@
     "ContentFlags": 0,
     "MloName": "h4_mpapa_yacht",
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 195"
+      "GroupName": "Auto YMAP Group 195",
+      "GroupSimilar": "YMAP Similar 482"
     }
   },
   {
@@ -14738,7 +15163,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 196"
+      "GroupName": "Auto YMAP Group 196",
+      "GroupSimilar": "YMAP Similar 483"
     }
   },
   {
@@ -14762,7 +15188,8 @@
     "ContentFlags": 0,
     "MloName": "h4_mpapa_yacht",
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 196"
+      "GroupName": "Auto YMAP Group 196",
+      "GroupSimilar": "YMAP Similar 484"
     }
   },
   {
@@ -14784,7 +15211,9 @@
       "Z": 1.0
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 485"
+    }
   },
   {
     "Name": "h4_islandx",
@@ -14805,7 +15234,9 @@
       "Z": 30.264874
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 486"
+    }
   },
   {
     "Name": "h4_islandx_disc_strandedshark",
@@ -14827,7 +15258,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 197"
+      "GroupName": "Auto YMAP Group 197",
+      "GroupSimilar": "YMAP Similar 487"
     }
   },
   {
@@ -14850,7 +15282,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 198"
+      "GroupName": "Auto YMAP Group 198",
+      "GroupSimilar": "YMAP Similar 488"
     }
   },
   {
@@ -14872,7 +15305,9 @@
       "Z": 25.952526
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 489"
+    }
   },
   {
     "Name": "h4_islandx_sea_mines",
@@ -14893,7 +15328,9 @@
       "Z": -0.46102405
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 490"
+    }
   },
   {
     "Name": "h4_aa_guns",
@@ -14914,7 +15351,9 @@
       "Z": 56.905693
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 491"
+    }
   },
   {
     "Name": "h4_beach",
@@ -14936,7 +15375,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 199"
+      "GroupName": "Auto YMAP Group 199",
+      "GroupSimilar": "YMAP Similar 492"
     }
   },
   {
@@ -14959,7 +15399,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 200"
+      "GroupName": "Auto YMAP Group 200",
+      "GroupSimilar": "YMAP Similar 493"
     }
   },
   {
@@ -14982,7 +15423,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 200"
+      "GroupName": "Auto YMAP Group 200",
+      "GroupSimilar": "YMAP Similar 494"
     }
   },
   {
@@ -15005,7 +15447,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 201"
+      "GroupName": "Auto YMAP Group 201",
+      "GroupSimilar": "YMAP Similar 495"
     }
   },
   {
@@ -15028,7 +15471,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 200"
+      "GroupName": "Auto YMAP Group 200",
+      "GroupSimilar": "YMAP Similar 496"
     }
   },
   {
@@ -15051,7 +15495,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 202"
+      "GroupName": "Auto YMAP Group 202",
+      "GroupSimilar": "YMAP Similar 497"
     }
   },
   {
@@ -15074,7 +15519,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 203"
+      "GroupName": "Auto YMAP Group 203",
+      "GroupSimilar": "YMAP Similar 498"
     }
   },
   {
@@ -15097,7 +15543,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 204"
+      "GroupName": "Auto YMAP Group 204",
+      "GroupSimilar": "YMAP Similar 499"
     }
   },
   {
@@ -15120,7 +15567,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 204"
+      "GroupName": "Auto YMAP Group 204",
+      "GroupSimilar": "YMAP Similar 499"
     }
   },
   {
@@ -15143,7 +15591,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 204"
+      "GroupName": "Auto YMAP Group 204",
+      "GroupSimilar": "YMAP Similar 500"
     }
   },
   {
@@ -15165,7 +15614,9 @@
       "Z": 39.573494
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 501"
+    }
   },
   {
     "Name": "h4_islandairstrip_propsb",
@@ -15186,7 +15637,9 @@
       "Z": 36.011612
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 502"
+    }
   },
   {
     "Name": "h4_islandx_barrack_hatch",
@@ -15207,7 +15660,9 @@
       "Z": 34.79418
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 503"
+    }
   },
   {
     "Name": "h4_islandx_barrack_props",
@@ -15229,7 +15684,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 205"
+      "GroupName": "Auto YMAP Group 205",
+      "GroupSimilar": "YMAP Similar 504"
     }
   },
   {
@@ -15251,7 +15707,9 @@
       "Z": 32.891468
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 505"
+    }
   },
   {
     "Name": "h4_islandx_checkpoint_props",
@@ -15273,7 +15731,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 206"
+      "GroupName": "Auto YMAP Group 206",
+      "GroupSimilar": "YMAP Similar 506"
     }
   },
   {
@@ -15296,7 +15755,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 207"
+      "GroupName": "Auto YMAP Group 207",
+      "GroupSimilar": "YMAP Similar 507"
     }
   },
   {
@@ -15319,7 +15779,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 208"
+      "GroupName": "Auto YMAP Group 208",
+      "GroupSimilar": "YMAP Similar 508"
     }
   },
   {
@@ -15342,7 +15803,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 209"
+      "GroupName": "Auto YMAP Group 209",
+      "GroupSimilar": "YMAP Similar 509"
     }
   },
   {
@@ -15365,7 +15827,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 210"
+      "GroupName": "Auto YMAP Group 210",
+      "GroupSimilar": "YMAP Similar 510"
     }
   },
   {
@@ -15388,7 +15851,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 211"
+      "GroupName": "Auto YMAP Group 211",
+      "GroupSimilar": "YMAP Similar 511"
     }
   },
   {
@@ -15411,7 +15875,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 212"
+      "GroupName": "Auto YMAP Group 212",
+      "GroupSimilar": "YMAP Similar 512"
     }
   },
   {
@@ -15434,7 +15899,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 213"
+      "GroupName": "Auto YMAP Group 213",
+      "GroupSimilar": "YMAP Similar 513"
     }
   },
   {
@@ -15456,7 +15922,9 @@
       "Z": 28.65795
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 514"
+    }
   },
   {
     "Name": "h4_islandx_mansion_lights",
@@ -15478,7 +15946,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 210"
+      "GroupName": "Auto YMAP Group 210",
+      "GroupSimilar": "YMAP Similar 515"
     }
   },
   {
@@ -15502,7 +15971,8 @@
     "ContentFlags": 0,
     "MloName": "h4_dlc_island_store_2",
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 214"
+      "GroupName": "Auto YMAP Group 214",
+      "GroupSimilar": "YMAP Similar 516"
     }
   },
   {
@@ -15526,7 +15996,8 @@
     "ContentFlags": 0,
     "MloName": "h4_dlc_island_store_3",
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 215"
+      "GroupName": "Auto YMAP Group 215",
+      "GroupSimilar": "YMAP Similar 517"
     }
   },
   {
@@ -15550,7 +16021,8 @@
     "ContentFlags": 0,
     "MloName": "h4_dlc_island_store_1",
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 212"
+      "GroupName": "Auto YMAP Group 212",
+      "GroupSimilar": "YMAP Similar 518"
     }
   },
   {
@@ -15574,7 +16046,8 @@
     "ContentFlags": 0,
     "MloName": "h4_dlc_island_office",
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 210"
+      "GroupName": "Auto YMAP Group 210",
+      "GroupSimilar": "YMAP Similar 519"
     }
   },
   {
@@ -15597,7 +16070,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 213"
+      "GroupName": "Auto YMAP Group 213",
+      "GroupSimilar": "YMAP Similar 520"
     }
   },
   {
@@ -15621,7 +16095,8 @@
     "ContentFlags": 0,
     "MloName": "h4_dlc_island_vault",
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 210"
+      "GroupName": "Auto YMAP Group 210",
+      "GroupSimilar": "YMAP Similar 521"
     }
   },
   {
@@ -15644,7 +16119,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 207"
+      "GroupName": "Auto YMAP Group 207",
+      "GroupSimilar": "YMAP Similar 522"
     }
   },
   {
@@ -15667,7 +16143,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 216"
+      "GroupName": "Auto YMAP Group 216",
+      "GroupSimilar": "YMAP Similar 523"
     }
   },
   {
@@ -15690,7 +16167,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 217"
+      "GroupName": "Auto YMAP Group 217",
+      "GroupSimilar": "YMAP Similar 524"
     }
   },
   {
@@ -15713,7 +16191,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 217"
+      "GroupName": "Auto YMAP Group 217",
+      "GroupSimilar": "YMAP Similar 525"
     }
   },
   {
@@ -15735,7 +16214,9 @@
       "Z": 29.561491
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 526"
+    }
   },
   {
     "Name": "h4_islandxtower",
@@ -15756,7 +16237,9 @@
       "Z": 147.34985
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 527"
+    }
   },
   {
     "Name": "h4_islandxtower_veg",
@@ -15777,7 +16260,9 @@
       "Z": 69.26032
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 528"
+    }
   },
   {
     "Name": "h4_mansion_gate_broken",
@@ -15799,7 +16284,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 213"
+      "GroupName": "Auto YMAP Group 213",
+      "GroupSimilar": "YMAP Similar 529"
     }
   },
   {
@@ -15822,7 +16308,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 213"
+      "GroupName": "Auto YMAP Group 213",
+      "GroupSimilar": "YMAP Similar 530"
     }
   },
   {
@@ -15844,7 +16331,9 @@
       "Z": 20.153988
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 531"
+    }
   },
   {
     "Name": "h4_ne_ipl_00",
@@ -15866,7 +16355,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 218"
+      "GroupName": "Auto YMAP Group 218",
+      "GroupSimilar": "YMAP Similar 532"
     }
   },
   {
@@ -15889,7 +16379,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 219"
+      "GroupName": "Auto YMAP Group 219",
+      "GroupSimilar": "YMAP Similar 533"
     }
   },
   {
@@ -15912,7 +16403,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 220"
+      "GroupName": "Auto YMAP Group 220",
+      "GroupSimilar": "YMAP Similar 534"
     }
   },
   {
@@ -15934,7 +16426,9 @@
       "Z": 44.124317
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 535"
+    }
   },
   {
     "Name": "h4_ne_ipl_04",
@@ -15956,7 +16450,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 221"
+      "GroupName": "Auto YMAP Group 221",
+      "GroupSimilar": "YMAP Similar 536"
     }
   },
   {
@@ -15979,7 +16474,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 222"
+      "GroupName": "Auto YMAP Group 222",
+      "GroupSimilar": "YMAP Similar 537"
     }
   },
   {
@@ -16002,7 +16498,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 223"
+      "GroupName": "Auto YMAP Group 223",
+      "GroupSimilar": "YMAP Similar 538"
     }
   },
   {
@@ -16025,7 +16522,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 209"
+      "GroupName": "Auto YMAP Group 209",
+      "GroupSimilar": "YMAP Similar 539"
     }
   },
   {
@@ -16048,7 +16546,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 224"
+      "GroupName": "Auto YMAP Group 224",
+      "GroupSimilar": "YMAP Similar 540"
     }
   },
   {
@@ -16071,7 +16570,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 225"
+      "GroupName": "Auto YMAP Group 225",
+      "GroupSimilar": "YMAP Similar 541"
     }
   },
   {
@@ -16094,7 +16594,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 226"
+      "GroupName": "Auto YMAP Group 226",
+      "GroupSimilar": "YMAP Similar 542"
     }
   },
   {
@@ -16117,7 +16618,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 227"
+      "GroupName": "Auto YMAP Group 227",
+      "GroupSimilar": "YMAP Similar 543"
     }
   },
   {
@@ -16140,7 +16642,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 228"
+      "GroupName": "Auto YMAP Group 228",
+      "GroupSimilar": "YMAP Similar 544"
     }
   },
   {
@@ -16163,7 +16666,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 229"
+      "GroupName": "Auto YMAP Group 229",
+      "GroupSimilar": "YMAP Similar 545"
     }
   },
   {
@@ -16186,7 +16690,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 230"
+      "GroupName": "Auto YMAP Group 230",
+      "GroupSimilar": "YMAP Similar 546"
     }
   },
   {
@@ -16209,7 +16714,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 231"
+      "GroupName": "Auto YMAP Group 231",
+      "GroupSimilar": "YMAP Similar 547"
     }
   },
   {
@@ -16232,7 +16738,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 232"
+      "GroupName": "Auto YMAP Group 232",
+      "GroupSimilar": "YMAP Similar 548"
     }
   },
   {
@@ -16255,7 +16762,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 233"
+      "GroupName": "Auto YMAP Group 233",
+      "GroupSimilar": "YMAP Similar 549"
     }
   },
   {
@@ -16278,7 +16786,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 234"
+      "GroupName": "Auto YMAP Group 234",
+      "GroupSimilar": "YMAP Similar 550"
     }
   },
   {
@@ -16301,7 +16810,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 235"
+      "GroupName": "Auto YMAP Group 235",
+      "GroupSimilar": "YMAP Similar 551"
     }
   },
   {
@@ -16324,7 +16834,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 236"
+      "GroupName": "Auto YMAP Group 236",
+      "GroupSimilar": "YMAP Similar 552"
     }
   },
   {
@@ -16347,7 +16858,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 237"
+      "GroupName": "Auto YMAP Group 237",
+      "GroupSimilar": "YMAP Similar 553"
     }
   },
   {
@@ -16370,7 +16882,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 238"
+      "GroupName": "Auto YMAP Group 238",
+      "GroupSimilar": "YMAP Similar 554"
     }
   },
   {
@@ -16393,7 +16906,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 239"
+      "GroupName": "Auto YMAP Group 239",
+      "GroupSimilar": "YMAP Similar 555"
     }
   },
   {
@@ -16416,7 +16930,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 240"
+      "GroupName": "Auto YMAP Group 240",
+      "GroupSimilar": "YMAP Similar 556"
     }
   },
   {
@@ -16439,7 +16954,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 241"
+      "GroupName": "Auto YMAP Group 241",
+      "GroupSimilar": "YMAP Similar 557"
     }
   },
   {
@@ -16462,7 +16978,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 242"
+      "GroupName": "Auto YMAP Group 242",
+      "GroupSimilar": "YMAP Similar 558"
     }
   },
   {
@@ -16485,7 +17002,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 243"
+      "GroupName": "Auto YMAP Group 243",
+      "GroupSimilar": "YMAP Similar 559"
     }
   },
   {
@@ -16508,7 +17026,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 244"
+      "GroupName": "Auto YMAP Group 244",
+      "GroupSimilar": "YMAP Similar 560"
     }
   },
   {
@@ -16531,7 +17050,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 245"
+      "GroupName": "Auto YMAP Group 245",
+      "GroupSimilar": "YMAP Similar 561"
     }
   },
   {
@@ -16554,7 +17074,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 246"
+      "GroupName": "Auto YMAP Group 246",
+      "GroupSimilar": "YMAP Similar 562"
     }
   },
   {
@@ -16577,7 +17098,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 205"
+      "GroupName": "Auto YMAP Group 205",
+      "GroupSimilar": "YMAP Similar 563"
     }
   },
   {
@@ -16600,7 +17122,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 247"
+      "GroupName": "Auto YMAP Group 247",
+      "GroupSimilar": "YMAP Similar 564"
     }
   },
   {
@@ -16623,7 +17146,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 248"
+      "GroupName": "Auto YMAP Group 248",
+      "GroupSimilar": "YMAP Similar 565"
     }
   },
   {
@@ -16646,7 +17170,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 249"
+      "GroupName": "Auto YMAP Group 249",
+      "GroupSimilar": "YMAP Similar 566"
     }
   },
   {
@@ -16669,7 +17194,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 250"
+      "GroupName": "Auto YMAP Group 250",
+      "GroupSimilar": "YMAP Similar 567"
     }
   },
   {
@@ -16692,7 +17218,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 251"
+      "GroupName": "Auto YMAP Group 251",
+      "GroupSimilar": "YMAP Similar 568"
     }
   },
   {
@@ -16715,7 +17242,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 252"
+      "GroupName": "Auto YMAP Group 252",
+      "GroupSimilar": "YMAP Similar 569"
     }
   },
   {
@@ -16738,7 +17266,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 253"
+      "GroupName": "Auto YMAP Group 253",
+      "GroupSimilar": "YMAP Similar 570"
     }
   },
   {
@@ -16761,7 +17290,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 254"
+      "GroupName": "Auto YMAP Group 254",
+      "GroupSimilar": "YMAP Similar 571"
     }
   },
   {
@@ -16783,7 +17313,9 @@
       "Z": -9.857436
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 572"
+    }
   },
   {
     "Name": "h4_islandx_placement_01",
@@ -16804,7 +17336,9 @@
       "Z": 63.897392
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 573"
+    }
   },
   {
     "Name": "h4_islandx_placement_02",
@@ -16826,7 +17360,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 249"
+      "GroupName": "Auto YMAP Group 249",
+      "GroupSimilar": "YMAP Similar 574"
     }
   },
   {
@@ -16848,7 +17383,9 @@
       "Z": 63.21514
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 575"
+    }
   },
   {
     "Name": "h4_islandx_placement_04",
@@ -16869,7 +17406,9 @@
       "Z": 92.14665
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 576"
+    }
   },
   {
     "Name": "h4_islandx_placement_05",
@@ -16890,7 +17429,9 @@
       "Z": 88.06699
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 577"
+    }
   },
   {
     "Name": "h4_islandx_placement_06",
@@ -16912,7 +17453,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 207"
+      "GroupName": "Auto YMAP Group 207",
+      "GroupSimilar": "YMAP Similar 578"
     }
   },
   {
@@ -16934,7 +17476,9 @@
       "Z": 89.08028
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 579"
+    }
   },
   {
     "Name": "h4_islandx_placement_08",
@@ -16955,7 +17499,9 @@
       "Z": 54.432087
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 580"
+    }
   },
   {
     "Name": "h4_islandx_placement_09",
@@ -16976,7 +17522,9 @@
       "Z": 58.569057
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 581"
+    }
   },
   {
     "Name": "h4_islandx_placement_10",
@@ -16997,7 +17545,9 @@
       "Z": 53.10128
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 582"
+    }
   },
   {
     "Name": "island_lodlights",
@@ -17019,7 +17569,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 255"
+      "GroupName": "Auto YMAP Group 255",
+      "GroupSimilar": "YMAP Similar 583"
     }
   },
   {
@@ -17042,7 +17593,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 256"
+      "GroupName": "Auto YMAP Group 256",
+      "GroupSimilar": "YMAP Similar 584"
     }
   },
   {
@@ -17065,7 +17617,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 256"
+      "GroupName": "Auto YMAP Group 256",
+      "GroupSimilar": "YMAP Similar 585"
     }
   },
   {
@@ -17088,7 +17641,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 256"
+      "GroupName": "Auto YMAP Group 256",
+      "GroupSimilar": "YMAP Similar 586"
     }
   },
   {
@@ -17111,7 +17665,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 256"
+      "GroupName": "Auto YMAP Group 256",
+      "GroupSimilar": "YMAP Similar 587"
     }
   },
   {
@@ -17134,7 +17689,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 256"
+      "GroupName": "Auto YMAP Group 256",
+      "GroupSimilar": "YMAP Similar 588"
     }
   },
   {
@@ -17157,7 +17713,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 256"
+      "GroupName": "Auto YMAP Group 256",
+      "GroupSimilar": "YMAP Similar 587"
     }
   },
   {
@@ -17180,7 +17737,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 257"
+      "GroupName": "Auto YMAP Group 257",
+      "GroupSimilar": "YMAP Similar 589"
     }
   },
   {
@@ -17203,7 +17761,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 258"
+      "GroupName": "Auto YMAP Group 258",
+      "GroupSimilar": "YMAP Similar 590"
     }
   },
   {
@@ -17226,7 +17785,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 259"
+      "GroupName": "Auto YMAP Group 259",
+      "GroupSimilar": "YMAP Similar 591"
     }
   },
   {
@@ -17249,7 +17809,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 257"
+      "GroupName": "Auto YMAP Group 257",
+      "GroupSimilar": "YMAP Similar 592"
     }
   },
   {
@@ -17272,7 +17833,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 260"
+      "GroupName": "Auto YMAP Group 260",
+      "GroupSimilar": "YMAP Similar 593"
     }
   },
   {
@@ -17295,7 +17857,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 259"
+      "GroupName": "Auto YMAP Group 259",
+      "GroupSimilar": "YMAP Similar 594"
     }
   },
   {
@@ -17318,7 +17881,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 261"
+      "GroupName": "Auto YMAP Group 261",
+      "GroupSimilar": "YMAP Similar 595"
     }
   },
   {
@@ -17341,7 +17905,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 262"
+      "GroupName": "Auto YMAP Group 262",
+      "GroupSimilar": "YMAP Similar 596"
     }
   },
   {
@@ -17364,7 +17929,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 261"
+      "GroupName": "Auto YMAP Group 261",
+      "GroupSimilar": "YMAP Similar 597"
     }
   },
   {
@@ -17569,7 +18135,9 @@
     },
     "ContentFlags": 0,
     "MloName": "imp_imptexp_mod_int_01",
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 605"
+    }
   },
   {
     "Name": "imp_sm_13_cargarage_a",
@@ -17849,7 +18417,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 265"
+      "GroupName": "Auto YMAP Group 265",
+      "GroupSimilar": "YMAP Similar 616"
     }
   },
   {
@@ -17873,7 +18442,8 @@
     "ContentFlags": 0,
     "MloName": "sf_dlc_office_sec",
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 107"
+      "GroupName": "Auto YMAP Group 107",
+      "GroupSimilar": "YMAP Similar 617"
     }
   },
   {
@@ -17897,7 +18467,8 @@
     "ContentFlags": 0,
     "MloName": "sf_dlc_office_sec",
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 105"
+      "GroupName": "Auto YMAP Group 105",
+      "GroupSimilar": "YMAP Similar 618"
     }
   },
   {
@@ -17920,7 +18491,9 @@
     },
     "ContentFlags": 0,
     "MloName": "sf_dlc_office_sec",
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 619"
+    }
   },
   {
     "Name": "sf_fixeroffice_kt1_08",
@@ -17942,7 +18515,9 @@
     },
     "ContentFlags": 0,
     "MloName": "sf_dlc_office_sec",
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 620"
+    }
   },
   {
     "Name": "sf_yacht_01",
@@ -17964,7 +18539,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 266"
+      "GroupName": "Auto YMAP Group 266",
+      "GroupSimilar": "YMAP Similar 621"
     }
   },
   {
@@ -17988,7 +18564,8 @@
     "ContentFlags": 0,
     "MloName": "sf_mpapa_yacht",
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 266"
+      "GroupName": "Auto YMAP Group 266",
+      "GroupSimilar": "YMAP Similar 622"
     }
   },
   {
@@ -18011,7 +18588,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 267"
+      "GroupName": "Auto YMAP Group 267",
+      "GroupSimilar": "YMAP Similar 623"
     }
   },
   {
@@ -18035,7 +18613,8 @@
     "ContentFlags": 0,
     "MloName": "sf_mpapa_yacht",
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 267"
+      "GroupName": "Auto YMAP Group 267",
+      "GroupSimilar": "YMAP Similar 624"
     }
   },
   {
@@ -18057,7 +18636,9 @@
       "Z": 3.177104
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 625"
+    }
   },
   {
     "Name": "sf_billboards",
@@ -18079,7 +18660,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 268"
+      "GroupName": "Auto YMAP Group 268",
+      "GroupSimilar": "YMAP Similar 626"
     }
   },
   {
@@ -18102,7 +18684,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 70"
+      "GroupName": "Auto YMAP Group 70",
+      "GroupSimilar": "YMAP Similar 627"
     }
   },
   {
@@ -18124,7 +18707,9 @@
       "Z": 60.468616
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 628"
+    }
   },
   {
     "Name": "sf_musicrooftop",
@@ -18146,7 +18731,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 178"
+      "GroupName": "Auto YMAP Group 178",
+      "GroupSimilar": "YMAP Similar 629"
     }
   },
   {
@@ -18168,7 +18754,9 @@
       "Z": 142.32625
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 630"
+    }
   },
   {
     "Name": "sf_plaque_bh1_05",
@@ -18190,7 +18778,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 107"
+      "GroupName": "Auto YMAP Group 107",
+      "GroupSimilar": "YMAP Similar 631"
     }
   },
   {
@@ -18212,7 +18801,9 @@
       "Z": 69.584816
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 632"
+    }
   },
   {
     "Name": "sf_plaque_kt1_05",
@@ -18233,7 +18824,9 @@
       "Z": 21.19786
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 633"
+    }
   },
   {
     "Name": "sf_plaque_kt1_08",
@@ -18254,7 +18847,9 @@
       "Z": 37.474888
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 634"
+    }
   },
   {
     "Name": "sum_lost_yacht",
@@ -18276,7 +18871,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 269"
+      "GroupName": "Auto YMAP Group 269",
+      "GroupSimilar": "YMAP Similar 635"
     }
   },
   {
@@ -18300,7 +18896,8 @@
     "ContentFlags": 0,
     "MloName": "sum_mpapa_yacht",
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 269"
+      "GroupName": "Auto YMAP Group 269",
+      "GroupSimilar": "YMAP Similar 636"
     }
   },
   {
@@ -18323,7 +18920,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 12"
+      "GroupName": "Auto YMAP Group 12",
+      "GroupSimilar": "YMAP Similar 637"
     }
   },
   {
@@ -18346,7 +18944,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 270"
+      "GroupName": "Auto YMAP Group 270",
+      "GroupSimilar": "YMAP Similar 638"
     }
   },
   {
@@ -18368,7 +18967,9 @@
       "Z": 36.762287
     },
     "ContentFlags": 0,
-    "ExtraData": {}
+    "ExtraData": {
+      "GroupSimilar": "YMAP Similar 639"
+    }
   },
   {
     "Name": "tr_tuner_shop_burton",
@@ -18390,7 +18991,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 271"
+      "GroupName": "Auto YMAP Group 271",
+      "GroupSimilar": "YMAP Similar 640"
     }
   },
   {
@@ -18413,7 +19015,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 272"
+      "GroupName": "Auto YMAP Group 272",
+      "GroupSimilar": "YMAP Similar 641"
     }
   },
   {
@@ -18436,7 +19039,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 273"
+      "GroupName": "Auto YMAP Group 273",
+      "GroupSimilar": "YMAP Similar 642"
     }
   },
   {
@@ -18459,7 +19063,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 274"
+      "GroupName": "Auto YMAP Group 274",
+      "GroupSimilar": "YMAP Similar 643"
     }
   },
   {
@@ -18482,7 +19087,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 275"
+      "GroupName": "Auto YMAP Group 275",
+      "GroupSimilar": "YMAP Similar 644"
     }
   },
   {
@@ -18505,7 +19111,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 276"
+      "GroupName": "Auto YMAP Group 276",
+      "GroupSimilar": "YMAP Similar 645"
     }
   },
   {
@@ -18528,7 +19135,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 112"
+      "GroupName": "Auto YMAP Group 112",
+      "GroupSimilar": "YMAP Similar 284"
     }
   },
   {
@@ -18655,7 +19263,8 @@
     },
     "ContentFlags": 0,
     "ExtraData": {
-      "GroupName": "Auto YMAP Group 277"
+      "GroupName": "Auto YMAP Group 277",
+      "GroupSimilar": "YMAP Similar 650"
     }
   }
 ]

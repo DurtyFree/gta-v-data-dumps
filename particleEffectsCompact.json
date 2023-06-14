@@ -3275,6 +3275,63 @@
     ]
   },
   {
+    "DictionaryName": "scr_srr_char",
+    "EffectNames": [
+      "scr_srr_char_cargo_thermal",
+      "scr_srr_char_int_impact_sparks",
+      "scr_srr_char_cargo_fire",
+      "scr_srr_char_int_impact_rpg_dust_aft",
+      "scr_srr_char_int_impact_dust_fore",
+      "scr_srr_char_int_impact_rpg_dust_fore",
+      "scr_srr_char_int_impact_dust_aft"
+    ]
+  },
+  {
+    "DictionaryName": "scr_srr_hal",
+    "EffectNames": [
+      "scr_srr_hal_appear_smoke_mtlion",
+      "scr_srr_hal_appear_smoke_pug",
+      "scr_srr_hal_smoke_pug",
+      "scr_srr_hal_smoke_deer",
+      "scr_srr_hal_appear_smoke_boar",
+      "scr_srr_hal_smoke_coyote",
+      "scr_srr_hal_appear_smoke_coyote",
+      "scr_srr_hal_smoke_boar",
+      "scr_srr_hal_ghost_haze",
+      "scr_srr_hal_appear_smoke_deer",
+      "scr_srr_hal_smoke_mtlion"
+    ]
+  },
+  {
+    "DictionaryName": "scr_srr_oper",
+    "EffectNames": [
+      "scr_srr_oper_panel_spark_wide",
+      "scr_srr_oper_panel_spark_thin",
+      "scr_srr_oper_panel_spark_mid",
+      "scr_srr_oper_airstrike"
+    ]
+  },
+  {
+    "DictionaryName": "scr_srr_resup",
+    "EffectNames": [
+      "scr_srr_resup_plane_sparks_round",
+      "scr_srr_resup_plane_sparks_wing",
+      "scr_srr_resup_plane_smoke"
+    ]
+  },
+  {
+    "DictionaryName": "scr_srr_sell",
+    "EffectNames": [
+      "scr_srr_sell_flare_smoke"
+    ]
+  },
+  {
+    "DictionaryName": "scr_srr_vs",
+    "EffectNames": [
+      "scr_srr_vs_radar_smoke"
+    ]
+  },
+  {
     "DictionaryName": "scr_ar_planes",
     "EffectNames": [
       "scr_ar_trail_smoke_slow",

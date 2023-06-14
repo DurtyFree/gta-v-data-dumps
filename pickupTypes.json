@@ -485,6 +485,21 @@
     "Model": "w_ar_bullpuprifle"
   },
   {
+    "Name": "PICKUP_WEAPON_RAYPISTOL",
+    "Hash": 3812817136,
+    "Model": "W_PI_RAYGUN"
+  },
+  {
+    "Name": "PICKUP_WEAPON_RAYCARBINE",
+    "Hash": 1959050722,
+    "Model": "W_AR_SRIFLE"
+  },
+  {
+    "Name": "PICKUP_WEAPON_RAYMINIGUN",
+    "Hash": 1000920287,
+    "Model": "W_MG_SMINIGUN"
+  },
+  {
     "Name": "PICKUP_WEAPON_PISTOLXM3",
     "Hash": 3063083075,
     "Model": "W_PI_Pistol_XM3"
@@ -500,19 +515,19 @@
     "Model": "W_AR_RailGun_XM3"
   },
   {
-    "Name": "PICKUP_WEAPON_RAYPISTOL",
-    "Hash": 3812817136,
-    "Model": "W_PI_RAYGUN"
+    "Name": "PICKUP_WEAPON_PROXMINE",
+    "Hash": 1649373715,
+    "Model": "w_ex_apmine"
   },
   {
-    "Name": "PICKUP_WEAPON_RAYCARBINE",
-    "Hash": 1959050722,
-    "Model": "W_AR_SRIFLE"
+    "Name": "PICKUP_WEAPON_HOMINGLAUNCHER",
+    "Hash": 3223238264,
+    "Model": "w_lr_homing"
   },
   {
-    "Name": "PICKUP_WEAPON_RAYMINIGUN",
-    "Hash": 1000920287,
-    "Model": "W_MG_SMINIGUN"
+    "Name": "PICKUP_AMMO_HOMINGLAUNCHER",
+    "Hash": 1548844439,
+    "Model": "prop_ld_ammo_pack_02"
   },
   {
     "Name": "PICKUP_WEAPON_BULLPUPRIFLE_MK2",
@@ -548,21 +563,6 @@
     "Name": "PICKUP_WEAPON_SPECIALCARBINE_MK2",
     "Hash": 94531552,
     "Model": "w_ar_specialcarbinemk2"
-  },
-  {
-    "Name": "PICKUP_WEAPON_PROXMINE",
-    "Hash": 1649373715,
-    "Model": "w_ex_apmine"
-  },
-  {
-    "Name": "PICKUP_WEAPON_HOMINGLAUNCHER",
-    "Hash": 3223238264,
-    "Model": "w_lr_homing"
-  },
-  {
-    "Name": "PICKUP_AMMO_HOMINGLAUNCHER",
-    "Hash": 1548844439,
-    "Model": "prop_ld_ammo_pack_02"
   },
   {
     "Name": "PICKUP_WEAPON_GUSENBERG",
@@ -625,6 +625,21 @@
     "Model": "w_sr_marksmanrifle"
   },
   {
+    "Name": "PICKUP_WEAPON_COMBATSHOTGUN",
+    "Hash": 2074855423,
+    "Model": "w_sg_pumpshotgunh4"
+  },
+  {
+    "Name": "PICKUP_WEAPON_GADGETPISTOL",
+    "Hash": 2010690963,
+    "Model": "w_pi_singleshoth4"
+  },
+  {
+    "Name": "PICKUP_WEAPON_MILITARYRIFLE",
+    "Hash": 884272848,
+    "Model": "w_ar_bullpuprifleh4"
+  },
+  {
     "Name": "PICKUP_WEAPON_FLAREGUN",
     "Hash": 3175998018,
     "Model": "w_pi_flaregun"
@@ -648,21 +663,6 @@
     "Name": "PICKUP_WEAPON_NAVYREVOLVER",
     "Hash": 3392027813,
     "Model": "w_pi_wep2_gun"
-  },
-  {
-    "Name": "PICKUP_WEAPON_COMBATSHOTGUN",
-    "Hash": 2074855423,
-    "Model": "w_sg_pumpshotgunh4"
-  },
-  {
-    "Name": "PICKUP_WEAPON_GADGETPISTOL",
-    "Hash": 2010690963,
-    "Model": "w_pi_singleshoth4"
-  },
-  {
-    "Name": "PICKUP_WEAPON_MILITARYRIFLE",
-    "Hash": 884272848,
-    "Model": "w_ar_bullpuprifleh4"
   },
   {
     "Name": "PICKUP_WEAPON_KNUCKLE",
@@ -833,5 +833,10 @@
     "Name": "PICKUP_WEAPON_STUNGUN_MP",
     "Hash": 3025681922,
     "Model": "W_PI_STUNGUN"
+  },
+  {
+    "Name": "PICKUP_WEAPON_TECPISTOL",
+    "Hash": 2292608621,
+    "Model": "W_PI_PistolSMG_M31"
   }
 ]

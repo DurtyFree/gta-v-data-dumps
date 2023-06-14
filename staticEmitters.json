@@ -11074,5 +11074,70 @@
     "Room": "sf_dlc_office_sec_room_main",
     "RadioStation": "HIDDEN_RADIO_09_HIPHOP_OLD",
     "Alarm": ""
+  },
+  {
+    "Name": "se_m23_1_dlc_int_02_m23_1_warehouse_medium_03",
+    "Position": {
+      "X": 1175.9313,
+      "Y": -3244.3884,
+      "Z": -46.17598
+    },
+    "Flags": 2852393985,
+    "Interior": "m23_1_dlc_int_02_m23_1",
+    "Room": "m23_1_dlc_int_02_m23_1_warehouse_medium",
+    "RadioStation": "Los Santos Rock Radio",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_m23_1_dlc_int_01_avngr_radio",
+    "Position": {
+      "X": -879.5,
+      "Y": -2771.0,
+      "Z": -48.5
+    },
+    "Flags": 2852394241,
+    "Interior": "m23_1_dlc_int_01_m23_1",
+    "Room": "m23_1_dlc_int_01_m23_1_gtamloroom001",
+    "RadioStation": "radio_21_dlc_xm17",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_m23_1_dlc_int_02_m23_1_warehouse_medium_01",
+    "Position": {
+      "X": 1213.3541,
+      "Y": -3244.1484,
+      "Z": -46.16395
+    },
+    "Flags": 2853442817,
+    "Interior": "m23_1_dlc_int_02_m23_1",
+    "Room": "m23_1_dlc_int_02_m23_1_warehouse_medium",
+    "RadioStation": "Los Santos Rock Radio",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_m23_1_dlc_int_02_m23_1_warehouse_medium_04",
+    "Position": {
+      "X": 1175.8655,
+      "Y": -3260.8623,
+      "Z": -46.079224
+    },
+    "Flags": 2852393985,
+    "Interior": "m23_1_dlc_int_02_m23_1",
+    "Room": "m23_1_dlc_int_02_m23_1_warehouse_medium",
+    "RadioStation": "Los Santos Rock Radio",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_m23_1_dlc_int_02_m23_1_warehouse_medium_02",
+    "Position": {
+      "X": 1213.2498,
+      "Y": -3261.1643,
+      "Z": -46.133102
+    },
+    "Flags": 2852393985,
+    "Interior": "m23_1_dlc_int_02_m23_1",
+    "Room": "m23_1_dlc_int_02_m23_1_warehouse_medium",
+    "RadioStation": "Los Santos Rock Radio",
+    "Alarm": ""
   }
 ]

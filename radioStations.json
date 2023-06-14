@@ -1441,6 +1441,26 @@
     ]
   },
   {
+    "RadioName": "HIDDEN_RADIO_34_DLC_HEI4_KULT",
+    "TranslatedLabel": null,
+    "Genre": "1",
+    "WheelPosition": 16350,
+    "IsHidden": true,
+    "MusicList": [
+      "hei4_radio_kult_music"
+    ]
+  },
+  {
+    "RadioName": "HIDDEN_RADIO_37_MOTOMAMI",
+    "TranslatedLabel": null,
+    "Genre": "3",
+    "WheelPosition": 11400,
+    "IsHidden": true,
+    "MusicList": [
+      "radio_37_motomami_music_ordered"
+    ]
+  },
+  {
     "RadioName": "HIDDEN_RADIO_ADVERTS",
     "TranslatedLabel": {
       "Hash": 0,
@@ -1962,6 +1982,27 @@
     ]
   },
   {
+    "RadioName": "HIDDEN_RADIO_FLYLO",
+    "TranslatedLabel": null,
+    "Genre": "10",
+    "WheelPosition": 14000,
+    "IsHidden": true,
+    "MusicList": [
+      "hidden_radio_flylo_tracklist"
+    ]
+  },
+  {
+    "RadioName": "HIDDEN_RADIO_IFRUIT",
+    "TranslatedLabel": null,
+    "Genre": "4",
+    "WheelPosition": 18500,
+    "IsHidden": true,
+    "MusicList": [
+      "dlc_heist3_heist3_radio_music_ord",
+      "dlc_heist3_heist3_radio_takeover_musi_ord"
+    ]
+  },
+  {
     "RadioName": "HIDDEN_RADIO_ML_PROMOTER",
     "TranslatedLabel": {
       "Hash": 0,
@@ -1985,6 +2026,16 @@
     "IsHidden": true,
     "MusicList": [
       "hidden_radio_musiclocker_promoter_music"
+    ]
+  },
+  {
+    "RadioName": "HIDDEN_RADIO_MLR",
+    "TranslatedLabel": null,
+    "Genre": "10",
+    "WheelPosition": 11400,
+    "IsHidden": true,
+    "MusicList": [
+      "hidden_radio_mlr_tracklist"
     ]
   },
   {
@@ -2089,6 +2140,16 @@
     "IsHidden": true,
     "MusicList": [
       "3644143185"
+    ]
+  },
+  {
+    "RadioName": "HIDDEN_RADIO_THE_LAB",
+    "TranslatedLabel": null,
+    "Genre": "4",
+    "WheelPosition": 15100,
+    "IsHidden": true,
+    "MusicList": [
+      "hidden_radio_the_lab_tracklist"
     ]
   },
   {

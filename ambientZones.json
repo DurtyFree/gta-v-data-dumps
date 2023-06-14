@@ -45021,41 +45021,6 @@
     ]
   },
   {
-    "Name": "az_dlc_cascon_01",
-    "Shape": "Sphere",
-    "Flags0": 2860516384,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 1140.0,
-      "Y": 235.0,
-      "Z": -50.0
-    },
-    "OuterSize": {
-      "X": 15.0,
-      "Y": 20.0,
-      "Z": 20.0
-    },
-    "InnerPosition": {
-      "X": 1142.0,
-      "Y": 232.0,
-      "Z": -50.0
-    },
-    "InnerSize": {
-      "X": 1.0,
-      "Y": 1.0,
-      "Z": 1.0
-    },
-    "AmbientEmitters": [
-      "ar_dlc_cascon_grind",
-      "ar_dlc_cascon_ham",
-      "ar_dlc_cascon_ng",
-      "ar_dlc_cascon_weld",
-      "ar_dlc_cascon_drop",
-      "ar_dlc_cascon_shouts"
-    ]
-  },
-  {
     "Name": "iz_reh_dlc_int_04_sum2_int4_basementrm",
     "Shape": "Box",
     "Flags0": 2860516389,
@@ -45151,6 +45116,41 @@
     },
     "AmbientEmitters": [
       "675754728"
+    ]
+  },
+  {
+    "Name": "az_dlc_cascon_01",
+    "Shape": "Sphere",
+    "Flags0": 2860516384,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 1140.0,
+      "Y": 235.0,
+      "Z": -50.0
+    },
+    "OuterSize": {
+      "X": 15.0,
+      "Y": 20.0,
+      "Z": 20.0
+    },
+    "InnerPosition": {
+      "X": 1142.0,
+      "Y": 232.0,
+      "Z": -50.0
+    },
+    "InnerSize": {
+      "X": 1.0,
+      "Y": 1.0,
+      "Z": 1.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_cascon_grind",
+      "ar_dlc_cascon_ham",
+      "ar_dlc_cascon_ng",
+      "ar_dlc_cascon_weld",
+      "ar_dlc_cascon_drop",
+      "ar_dlc_cascon_shouts"
     ]
   },
   {
@@ -46142,6 +46142,186 @@
     },
     "AmbientEmitters": [
       "ar_null"
+    ]
+  },
+  {
+    "Name": "iz_m23_1_dlc_int_03_m23_1_room_a",
+    "Shape": "Box",
+    "Flags0": 2860516453,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": -1931.79,
+      "Y": 3760.33,
+      "Z": -196.07
+    },
+    "OuterSize": {
+      "X": 24.35,
+      "Y": 14.29,
+      "Z": 5.6
+    },
+    "InnerPosition": {
+      "X": -1931.79,
+      "Y": 3760.33,
+      "Z": -196.07
+    },
+    "InnerSize": {
+      "X": 24.35,
+      "Y": 14.29,
+      "Z": 5.6
+    },
+    "AmbientEmitters": [
+      "iz_m23_1_dlc_int_03_m23_1_room_a_computer_rule",
+      "iz_m23_1_dlc_int_03_m23_1_room_a_oscilloscope_rule"
+    ]
+  },
+  {
+    "Name": "az_dlc_int_01_avngr",
+    "Shape": "Box",
+    "Flags0": 2860516388,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": -887.29,
+      "Y": -2770.89,
+      "Z": -48.12
+    },
+    "OuterSize": {
+      "X": 38.56,
+      "Y": 10.35,
+      "Z": 20.0
+    },
+    "InnerPosition": {
+      "X": -887.29,
+      "Y": -2770.89,
+      "Z": -48.12
+    },
+    "InnerSize": {
+      "X": 2.14,
+      "Y": 1.79,
+      "Z": 10.0
+    },
+    "AmbientEmitters": [
+      "dlc_int_01_m23_1_command_roomtone"
+    ]
+  },
+  {
+    "Name": "iz_m23_1_dlc_int_03_m23_1_room_c",
+    "Shape": "Box",
+    "Flags0": 2860516453,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": -1945.16,
+      "Y": 3737.49,
+      "Z": -194.89
+    },
+    "OuterSize": {
+      "X": 13.23,
+      "Y": 18.7,
+      "Z": 4.85
+    },
+    "InnerPosition": {
+      "X": -1945.16,
+      "Y": 3737.49,
+      "Z": -194.89
+    },
+    "InnerSize": {
+      "X": 13.23,
+      "Y": 18.7,
+      "Z": 4.85
+    },
+    "AmbientEmitters": [
+      "iz_m23_1_dlc_int_03_m23_1_room_c_light_hum_rule"
+    ]
+  },
+  {
+    "Name": "iz_m23_1_dlc_int_03_m23_1_corridor",
+    "Shape": "Box",
+    "Flags0": 2860516453,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": -1949.35,
+      "Y": 3750.03,
+      "Z": -194.36
+    },
+    "OuterSize": {
+      "X": 42.61,
+      "Y": 6.49,
+      "Z": 5.89
+    },
+    "InnerPosition": {
+      "X": -1949.35,
+      "Y": 3750.03,
+      "Z": -194.36
+    },
+    "InnerSize": {
+      "X": 42.61,
+      "Y": 6.49,
+      "Z": 5.89
+    },
+    "AmbientEmitters": []
+  },
+  {
+    "Name": "iz_m23_1_dlc_int_03_m23_1_room_b",
+    "Shape": "Box",
+    "Flags0": 2860516453,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": -1953.24,
+      "Y": 3758.02,
+      "Z": -194.89
+    },
+    "OuterSize": {
+      "X": 13.83,
+      "Y": 9.66,
+      "Z": 4.85
+    },
+    "InnerPosition": {
+      "X": -1953.24,
+      "Y": 3758.02,
+      "Z": -194.89
+    },
+    "InnerSize": {
+      "X": 13.83,
+      "Y": 9.66,
+      "Z": 4.85
+    },
+    "AmbientEmitters": [
+      "iz_m23_1_dlc_int_03_m23_1_room_b_computer_rule",
+      "iz_m23_1_dlc_int_03_m23_1_room_b_oscilloscope_rule"
+    ]
+  },
+  {
+    "Name": "iz_m23_1_dlc_int_03_m23_1_iaa_facility_room",
+    "Shape": "Box",
+    "Flags0": 2860516453,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": -1905.85,
+      "Y": 3749.81,
+      "Z": -177.56
+    },
+    "OuterSize": {
+      "X": 44.4,
+      "Y": 34.09,
+      "Z": 48.04
+    },
+    "InnerPosition": {
+      "X": -1905.85,
+      "Y": 3749.81,
+      "Z": -177.56
+    },
+    "InnerSize": {
+      "X": 44.4,
+      "Y": 34.09,
+      "Z": 48.04
+    },
+    "AmbientEmitters": [
+      "iz_m23_1_dlc_int_03_m23_1_iaa_facility_room_light_hum_rule"
     ]
   }
 ]

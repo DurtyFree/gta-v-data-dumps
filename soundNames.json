@@ -448,6 +448,10 @@
     "AudioRef": "0"
   },
   {
+    "AudioName": "Click_Special",
+    "AudioRef": "WEB_NAVIGATION_SOUNDS_PHONE"
+  },
+  {
     "AudioName": "Garage_Door_Open",
     "AudioRef": "GTAO_Script_Doors_Faded_Screen_Sounds"
   },
@@ -1876,6 +1880,10 @@
     "AudioRef": "GTAO_SMG_Hangar_Computer_Sounds"
   },
   {
+    "AudioName": "DLC_Fixer_Agency_Computer_Soundset",
+    "AudioRef": "0"
+  },
+  {
     "AudioName": "Click_Cancel",
     "AudioRef": "DLC_Biker_Computer_Sounds"
   },
@@ -2000,20 +2008,12 @@
     "AudioRef": "0"
   },
   {
-    "AudioName": "DLC_Fixer_Agency_Computer_Soundset",
-    "AudioRef": "0"
-  },
-  {
     "AudioName": "Log_In",
     "AudioRef": "DLC_GR_MOC_Computer_Sounds"
   },
   {
     "AudioName": "ATM_WINDOW",
     "AudioRef": "HUD_FRONTEND_DEFAULT_SOUNDSET"
-  },
-  {
-    "AudioName": "Click_Special",
-    "AudioRef": "WEB_NAVIGATION_SOUNDS_PHONE"
   },
   {
     "AudioName": "Click_Special",
@@ -4232,6 +4232,14 @@
     "AudioRef": "Go_Kart_Death_Match_Soundset"
   },
   {
+    "AudioName": "Par_Beaten",
+    "AudioRef": "Bike_Time_Trials_Soundset"
+  },
+  {
+    "AudioName": "Fail",
+    "AudioRef": "Bike_Time_Trials_Soundset"
+  },
+  {
     "AudioName": "MP_RANK_UP",
     "AudioRef": "HUD_FRONTEND_DEFAULT_SOUNDSET"
   },
@@ -4314,6 +4322,18 @@
   {
     "AudioName": "Barge_Door",
     "AudioRef": "dlc_h4_Prep_FC_Sounds"
+  },
+  {
+    "AudioName": "Countdown_123",
+    "AudioRef": "Bike_Time_Trials_Soundset"
+  },
+  {
+    "AudioName": "Countdown_Go",
+    "AudioRef": "Bike_Time_Trials_Soundset"
+  },
+  {
+    "AudioName": "Checkpoint",
+    "AudioRef": "Bike_Time_Trials_Soundset"
   },
   {
     "AudioName": "collect_part",
@@ -4442,6 +4462,10 @@
   {
     "AudioName": "DRUGS_VOMIT",
     "AudioRef": "FAMILY_5_SOUNDS"
+  },
+  {
+    "AudioName": "Collect_Shard",
+    "AudioRef": "Ghost_Hunt_Sounds"
   },
   {
     "AudioName": "PRM2_BEDROOM_AMANDA_SNORE_MASTER",
@@ -4706,6 +4730,22 @@
   {
     "AudioName": "Ingame_Despawn",
     "AudioRef": "Freemode_Mirror_Slash_sounds"
+  },
+  {
+    "AudioName": "Lazer_Takeoff_Oneshot",
+    "AudioRef": "Aircraft_Carrier_Raid_Sounds"
+  },
+  {
+    "AudioName": "Attach",
+    "AudioRef": "GTAO_Tracker_Plant_Sounds"
+  },
+  {
+    "AudioName": "Deliver_Parcel",
+    "AudioRef": "DLC_MP2023_1_Small_And_Agile_Sounds"
+  },
+  {
+    "AudioName": "Delivery_Success",
+    "AudioRef": "DLC_MP2023_1_Small_And_Agile_Sounds"
   },
   {
     "AudioName": "GTAO_XM3_FRM_IG6_STASH_ENTRY_Door_Breach_Kick",
@@ -6160,6 +6200,22 @@
     "AudioRef": "DLC_H3_Circuit_Racing_Sounds"
   },
   {
+    "AudioName": "Push_Loop",
+    "AudioRef": "DLC_MP2023_1_LSA_6_Trolley_sounds"
+  },
+  {
+    "AudioName": "Radar_Hack_Button_Success",
+    "AudioRef": "Cayo_Perico_Attrition_Mode_Sounds"
+  },
+  {
+    "AudioName": "Radar_Hack_Button_Fail",
+    "AudioRef": "Cayo_Perico_Attrition_Mode_Sounds"
+  },
+  {
+    "AudioName": "Container_Door_Lock_Shoot",
+    "AudioRef": "DLC_MP2023_1_LSA_1_Sounds"
+  },
+  {
     "AudioName": "Overheat_Loop",
     "AudioRef": "DLC_H4_anims_glass_cutter_Sounds"
   },
@@ -6296,6 +6352,10 @@
     "AudioRef": "GTAO_Script_Doors_Sounds"
   },
   {
+    "AudioName": "Switch_Loadout",
+    "AudioRef": "Cayo_Perico_Attrition_Mode_Sounds"
+  },
+  {
     "AudioName": "player_drugged_loop",
     "AudioRef": "DLC_MPSUM2_ULP2_Rogue_Drones"
   },
@@ -6320,6 +6380,26 @@
     "AudioRef": "Halloween_Adversary_Sounds"
   },
   {
+    "AudioName": "Attack_Big_Shake_Hit",
+    "AudioRef": "DLC_MP2023_1_AVGNR_Interior_SFX"
+  },
+  {
+    "AudioName": "Explosion_Shake",
+    "AudioRef": "dlc_xm_avngr_sounds"
+  },
+  {
+    "AudioName": "Magnet_Deactivate",
+    "AudioRef": "DLC_MP2023_1_LSA_6_Trolley_sounds"
+  },
+  {
+    "AudioName": "Lock_Scrape_Loop",
+    "AudioRef": "DLC_MP2023_1_LSA_6_Trolley_sounds"
+  },
+  {
+    "AudioName": "Elevator_Up",
+    "AudioRef": "dlc_mp2023_1_IAA_sounds"
+  },
+  {
     "AudioName": "Motor_01",
     "AudioRef": "FREIGHT_ELEVATOR_SOUNDS"
   },
@@ -6340,12 +6420,20 @@
     "AudioRef": "Union_Depository_Elevator_Sounds"
   },
   {
+    "AudioName": "Hang_Up",
+    "AudioRef": "Phone_SoundSet_Default"
+  },
+  {
     "AudioName": "dlc_ch_heist_finale_HEALTH_DRAIN_ZONE_coughs_sounds",
     "AudioRef": "0"
   },
   {
-    "AudioName": "Hang_Up",
-    "AudioRef": "Phone_SoundSet_Default"
+    "AudioName": "AR_On",
+    "AudioRef": "LSA_3_Sounds"
+  },
+  {
+    "AudioName": "AR_Off",
+    "AudioRef": "LSA_3_Sounds"
   },
   {
     "AudioName": "Fall_Land",
@@ -6418,6 +6506,10 @@
   {
     "AudioName": "Pickup_Keyring",
     "AudioRef": "dlc_h4_heist_finale_sounds_soundset"
+  },
+  {
+    "AudioName": "destroyed",
+    "AudioRef": "DLC_MP2023_1_LSA_6_sj_sounds"
   },
   {
     "AudioName": "Rider_War_Loop",

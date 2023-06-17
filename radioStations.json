@@ -56,7 +56,7 @@
       "radio_02_pop_djsolo",
       "radio_02_pop_idents",
       "general_adverts",
-      "1821325676"
+      "hash_6c8f396c_enyrahbaaaaaaaaaaaaaaaaaaa_collision"
     ]
   },
   {
@@ -282,7 +282,7 @@
     "MusicList": [
       "radio_11_talk_02_idents",
       "country_adverts",
-      "2746617118"
+      "hash_a3b60d1e_bbyzmdaaaaa_collision"
     ]
   },
   {
@@ -423,7 +423,7 @@
       "radio_16_silverlake_djsolo",
       "general_adverts",
       "radio_16_silverlake_idents",
-      "1031162635",
+      "hash_3d764b0b_kbmpxpbaaaa_collision",
       "MIRRORPARK_LOCKED",
       "radio_16_silverlake_music_new"
     ]
@@ -1015,33 +1015,6 @@
     ]
   },
   {
-    "RadioName": "collision_a96j7f",
-    "TranslatedLabel": {
-      "Hash": 0,
-      "English": null,
-      "German": null,
-      "French": null,
-      "Italian": null,
-      "Russian": null,
-      "Polish": null,
-      "Name": "collision_a96j7f",
-      "TraditionalChinese": null,
-      "SimplifiedChinese": null,
-      "Spanish": null,
-      "Japanese": null,
-      "Korean": null,
-      "Portuguese": null,
-      "Mexican": null
-    },
-    "Genre": "14",
-    "WheelPosition": 17000,
-    "IsHidden": false,
-    "MusicList": [
-      "radio_17_funk_music",
-      "radio_17_funk_music_new"
-    ]
-  },
-  {
     "RadioName": "DLC_BATTLE_MIX1_CLUB_PRIV",
     "TranslatedLabel": {
       "Hash": 0,
@@ -1196,7 +1169,7 @@
     "IsHidden": true,
     "MusicList": [
       "radio_02_pop_music",
-      "1821325676"
+      "hash_6c8f396c_enyrahbaaaaaaaaaaaaaaaaaaa_collision"
     ]
   },
   {
@@ -1382,7 +1355,7 @@
     "WheelPosition": 12000,
     "IsHidden": true,
     "MusicList": [
-      "38213488",
+      "hash_02471770_imiaolaaa_collision",
       "radio_12_reggae_music_new"
     ]
   },
@@ -1436,13 +1409,56 @@
     "WheelPosition": 16000,
     "IsHidden": true,
     "MusicList": [
-      "1031162635",
+      "hash_3d764b0b_kbmpxpbaaaa_collision",
       "radio_16_silverlake_music_new"
     ]
   },
   {
-    "RadioName": "HIDDEN_RADIO_34_DLC_HEI4_KULT",
-    "TranslatedLabel": null,
+    "RadioName": "hidden_radio_17_funk",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "hidden_radio_17_funk",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
+    },
+    "Genre": "14",
+    "WheelPosition": 17000,
+    "IsHidden": true,
+    "MusicList": [
+      "radio_17_funk_music",
+      "radio_17_funk_music_new"
+    ]
+  },
+  {
+    "RadioName": "hidden_radio_34_dlc_hei4_kult",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "hidden_radio_34_dlc_hei4_kult",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
+    },
     "Genre": "1",
     "WheelPosition": 16350,
     "IsHidden": true,
@@ -1451,8 +1467,24 @@
     ]
   },
   {
-    "RadioName": "HIDDEN_RADIO_37_MOTOMAMI",
-    "TranslatedLabel": null,
+    "RadioName": "hidden_radio_37_motomami",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "hidden_radio_37_motomami",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
+    },
     "Genre": "3",
     "WheelPosition": 11400,
     "IsHidden": true,
@@ -1509,8 +1541,8 @@
     "WheelPosition": 1000,
     "IsHidden": true,
     "MusicList": [
-      "4063246911",
-      "1958876401"
+      "hash_f2303a3f_kscxrbaa_collision",
+      "hash_74c214f1_uppwiicaaaaaaaaaa_collision"
     ]
   },
   {
@@ -1536,7 +1568,7 @@
     "WheelPosition": 1000,
     "IsHidden": true,
     "MusicList": [
-      "2593146671"
+      "hash_9a90472f_igqvujaaa_collision"
     ]
   },
   {
@@ -1982,8 +2014,24 @@
     ]
   },
   {
-    "RadioName": "HIDDEN_RADIO_FLYLO",
-    "TranslatedLabel": null,
+    "RadioName": "hidden_radio_flylo",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "hidden_radio_flylo",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
+    },
     "Genre": "10",
     "WheelPosition": 14000,
     "IsHidden": true,
@@ -1992,8 +2040,24 @@
     ]
   },
   {
-    "RadioName": "HIDDEN_RADIO_IFRUIT",
-    "TranslatedLabel": null,
+    "RadioName": "hidden_radio_ifruit",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "hidden_radio_ifruit",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
+    },
     "Genre": "4",
     "WheelPosition": 18500,
     "IsHidden": true,
@@ -2029,8 +2093,24 @@
     ]
   },
   {
-    "RadioName": "HIDDEN_RADIO_MLR",
-    "TranslatedLabel": null,
+    "RadioName": "hidden_radio_mlr",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "hidden_radio_mlr",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
+    },
     "Genre": "10",
     "WheelPosition": 11400,
     "IsHidden": true,
@@ -2139,12 +2219,28 @@
     "WheelPosition": 18000,
     "IsHidden": true,
     "MusicList": [
-      "3644143185"
+      "hash_d9353651_absfvcaaaaaaaaaaa_collision"
     ]
   },
   {
-    "RadioName": "HIDDEN_RADIO_THE_LAB",
-    "TranslatedLabel": null,
+    "RadioName": "hidden_radio_the_lab",
+    "TranslatedLabel": {
+      "Hash": 0,
+      "English": null,
+      "German": null,
+      "French": null,
+      "Italian": null,
+      "Russian": null,
+      "Polish": null,
+      "Name": "hidden_radio_the_lab",
+      "TraditionalChinese": null,
+      "SimplifiedChinese": null,
+      "Spanish": null,
+      "Japanese": null,
+      "Korean": null,
+      "Portuguese": null,
+      "Mexican": null
+    },
     "Genre": "4",
     "WheelPosition": 15100,
     "IsHidden": true,

@@ -1,133 +1,133 @@
 {
-  "version": "1.1",
+  "version": "1.2",
   "flags": {
     "CBaseArchetypeDefFlags": [
       {
-        "name": "_UNK_01",
+        "name": "FLAG_WET_ROAD_REFLECTION",
         "description": "???"
       },
       {
-        "name": "_UNK_02",
+        "name": "FLAG_DONT_FADE",
         "description": "???"
       },
       {
-        "name": "_UNK_03",
+        "name": "FLAG_DRAW_LAST",
         "description": "???"
       },
       {
-        "name": "_UNK_04",
+        "name": "FLAG_PROP_CLIMBABLE_BY_AI",
         "description": "???"
       },
       {
-        "name": "_UNK_05",
+        "name": "FLAG_SUPPRESS_HD_TXDS",
         "description": "???"
       },
       {
-        "name": "STATIC",
-        "description": "Entity is Invincible/will not interact with dynamic Dynamic. Enables a indestructibility for archetype, making it static for props."
+        "name": "FLAG_IS_FIXED",
+        "description": "Entity is Fixed/will not interact with Dynamic objects. Enables a indestructibility for archetype, making it static for props."
       },
       {
-        "name": "_UNK_07",
+        "name": "FLAG_DONT_WRITE_ZBUFFER",
         "description": "???"
       },
       {
-        "name": "INSTANCE",
+        "name": "FLAG_TOUGHFORBULLETS",
         "description": "This flag is used in instanced archetypes, used in instancedData in #map files."
       },
       {
-        "name": "_UNK_09",
+        "name": "FLAG_IS_GENERIC",
         "description": "???"
       },
       {
-        "name": "BONE_ANIMS",
+        "name": "FLAG_HAS_ANIM",
         "description": "This flag is used in archetypes with bones inside models (YCD)."
       },
       {
-        "name": "UV_ANIMS",
+        "name": "FLAG_HAS_UVANIM",
         "description": "This flag is used in archetypes with UV animations (YCD)."
       },
       {
-        "name": "_BLOCK_LIGHTS_AND_SHADOWS",
+        "name": "FLAG_SHADOW_ONLY",
         "description": "Blocks lights and shadows and does not render the model. [Credits to DPS] Note from DPS: I will have to do more research in depth for that to be sure."
       },
       {
-        "name": "_UNK_13",
+        "name": "FLAG_DAMAGE_MODEL",
         "description": "???"
       },
       {
-        "name": "DONT_CAST_SHADOWS",
+        "name": "FLAG_DONT_CAST_SHADOWS",
         "description": "Object will not cast Shadows (Used with overlays/decals). [Credits to Dekurwinator]"
       },
       {
-        "name": "_UNK_15",
+        "name": "FLAG_CAST_TEXTURE_SHADOWS",
         "description": "???"
       },
       {
-        "name": "_UNK_16",
+        "name": "FLAG_DONT_COLLIDE_WITH_FLYER",
         "description": "???"
       },
       {
-        "name": "RENDER_DOUBLE_SIDED",
+        "name": "FLAG_IS_TREE",
         "description": "Double-sided rendering. [Credits to cpmodding]"
       },
       {
-        "name": "DYNAMIC",
-        "description": "This flag enables a destructibility for archetype, making it dynamic for props. Needed for GET_CLOSEST_OBJECT_OF_TYPE native."
+        "name": "FLAG_IS_TYPE_OBJECT",
+        "description": "This flag enables a destructibility for archetype, making it dynamic for props. Needed for GET_CLOSEST_OBJECT_OF_TYPE native and other OBJECT related natives like CREATE_OBJECT."
       },
       {
-        "name": "_UNK_19",
+        "name": "FLAG_OVERRIDE_PHYSICS_BOUNDS",
         "description": "???"
       },
       {
-        "name": "_ANIMATIONS",
-        "description": "Allows to play ycd animations on the object. Only available for objects with flag 131072 (DYNAMIC)"
+        "name": "FLAG_AUTOSTART_ANIM",
+        "description": "Allows to play ycd animations on dynamic objects. Only available for objects with flag FLAG_IS_TYPE_OBJECT"
       },
       {
-        "name": "_UNK_21",
+        "name": "FLAG_HAS_PRE_REFLECTED_WATER_PROXY",
         "description": "???"
       },
       {
-        "name": "_UNK_22",
+        "name": "FLAG_HAS_DRAWABLE_PROXY_FOR_WATER_REFLECTIONS",
         "description": "???"
       },
       {
-        "name": "_UNK_23",
+        "name": "FLAG_DOES_NOT_PROVIDE_AI_COVER",
         "description": "???"
       },
       {
-        "name": "_UNK_24",
+        "name": "FLAG_DOES_NOT_PROVIDE_PLAYER_COVER",
         "description": "???"
       },
       {
-        "name": "_UNK_25",
+        "name": "FLAG_IS_LADDER_DEPRECATED",
         "description": "???"
       },
       {
-        "name": "_UNK_26",
+        "name": "FLAG_HAS_CLOTH",
         "description": "???"
       },
       {
-        "name": "USE_SPECIAL_ATTRIBUTE",
-        "description": "Enables special attribute for door archetypes (?). [Credits to Dekurwinator]"
+        "name": "FLAG_DOOR_PHYSICS",
+        "description": "Enables special attribute for door archetypes. [Credits to Dekurwinator]"
       },
       {
-        "name": "_UNK_28",
+        "name": "FLAG_IS_FIXED_FOR_NAVIGATION",
         "description": "???"
       },
       {
-        "name": "DISABLE_RED_VERTEX",
+        "name": "FLAG_DONT_AVOID_BY_PEDS",
         "description": "Disable red vertex channel for object. [Credits to DPS]"
       },
       {
-        "name": "DISABLE_GREEN_VERTEX",
+        "name": "FLAG_USE_AMBIENT_SCALE",
         "description": "Disable green vertex channel for object. Props commonly use this. Makes archetypes with white vertexes dont glow at night. [Credits to Dekurwinator]"
       },
       {
-        "name": "DISABLE_BLUE_VERTEX",
+        "name": "FLAG_IS_DEBUG",
         "description": "Disable blue vertex channel for object. [Credits to DPS]"
       },
       {
-        "name": "DISABLE_ALPHA_VERTEX",
+        "name": "FLAG_HAS_ALPHA_SHADOW",
         "description": "Disable Alpha vertex channel for object. [Credits to DPS]"
       }
     ],
@@ -653,35 +653,35 @@
     ],
     "CMloArchetypeDefCEntityDefFlags": [
       {
-        "name": "ALLOW_FULL_ROTATION",
+        "name": "FLAG_FULLMATRIX",
         "description": "Allow full rotation. [Credits to dexyfex]"
       },
       {
-        "name": "_UNK_02",
+        "name": "FLAG_STREAM_LOWPRIORITY",
         "description": "???"
       },
       {
-        "name": "DISABLE_EMBEDDED_COLLISIONS",
+        "name": "FLAG_DONT_INSTANCE_COLLISION",
         "description": "Disable embbedded collisions. [Credits to dexyfex]"
       },
       {
-        "name": "_UNK_04",
+        "name": "FLAG_LOD_IS_IN_PARENT_MAPDATA",
         "description": "???"
       },
       {
-        "name": "_UNK_05",
+        "name": "FLAG_LOD_ADOPTME",
         "description": "???"
       },
       {
-        "name": "STATIC",
-        "description": "Static entity. [Credits to dexyfex]"
+        "name": "FLAG_IS_FIXED",
+        "description": "Static entity. Fixed/will not interact with Dynamic objects. [Credits to dexyfex]"
       },
       {
-        "name": "_UNK_07",
+        "name": "FLAG_IS_INTERIOR_LOD",
         "description": "???"
       },
       {
-        "name": "_UNK_08",
+        "name": "FLAG_DRAWABLELODUSEALTFADE",
         "description": "???"
       },
       {
@@ -689,7 +689,7 @@
         "description": "???"
       },
       {
-        "name": "_UNK_10",
+        "name": "FLAG_LIGHTS_IGNORE_DAY_NIGHT_SETTINGS",
         "description": "???"
       },
       {
@@ -725,15 +725,15 @@
         "description": "???"
       },
       {
-        "name": "DISABLE_ARCHETYPE_EXTENSIONS",
+        "name": "FLAG_DOESNOTSPAWNPEDS",
         "description": "Disables archetype extensions. [Credits to DPS]"
       },
       {
-        "name": "_UNK_20",
+        "name": "FLAG_LIGHTS_CAST_STATIC_SHADOWS",
         "description": "???"
       },
       {
-        "name": "_UNK_21",
+        "name": "FLAG_LIGHTS_CAST_DYNAMIC_SHADOWS",
         "description": "???"
       },
       {
@@ -741,143 +741,143 @@
         "description": "???"
       },
       {
-        "name": "_UNK_23",
+        "name": "FLAG_DONT_RENDER_IN_SHADOWS",
         "description": "???"
       },
       {
-        "name": "DO_NOT_STREAM",
+        "name": "FLAG_ONLY_RENDER_IN_SHADOWS",
         "description": "Object won't stream (or be invisible). [Credits to Carl Johnson]"
       },
       {
-        "name": "NO_REFLECTIONS",
+        "name": "FLAG_DONT_RENDER_IN_REFLECTIONS",
         "description": "Object will not cast reflections. [Credits to DPS]"
       },
       {
-        "name": "INTERIOR_PROXY",
+        "name": "FLAG_ONLY_RENDER_IN_REFLECTIONS",
         "description": "Interior proxy. [Credits to dexyfex]"
       },
       {
-        "name": "_UNK_27",
+        "name": "FLAG_DONT_RENDER_IN_WATER_REFLECTIONS",
         "description": "???"
       },
       {
-        "name": "REFLECTION_PROXY",
+        "name": "FLAG_ONLY_RENDER_IN_WATER_REFLECTIONS",
         "description": "Refection proxy. [Credits to dexyfex]"
       },
       {
-        "name": "_UNK_29",
+        "name": "FLAG_DONT_RENDER_IN_MIRROR_REFLECTIONS",
         "description": "???"
       },
       {
-        "name": "MIRROR_PROXY",
+        "name": "FLAG_ONLY_RENDER_IN_MIRROR_REFLECTIONS",
         "description": "Mirror proxy. [Credits to dexyfex]"
       },
       {
-        "name": "_UNK_31",
+        "name": "FLAG_LIGHTS_PRIORITYA",
         "description": "???"
       },
       {
-        "name": "_UNK_32",
+        "name": "FLAG_LIGHTS_PRIORITYB",
         "description": "???"
       }
     ],
     "CMloArchetypeDefRoomFlags": [
       {
-        "name": "_UNK_01",
+        "name": "ROOM_FREEZEVEHICLES",
         "description": "???"
       },
       {
-        "name": "DISABLE_WANTED_LEVEL",
+        "name": "ROOM_FREEZEPEDS",
         "description": "Controls whether if shooting a gun in a interior will or will not alert the police. It would have something to do with sound from inside to MLO is heard outside. Should be used in homes or private property, but only in rooms that are private like bedrooms, bathrooms and not in common or open rooms like living, dinning and kitchens. Example enabled: https://www.youtube.com/watch?v=PV2hZy2oZYg Example disabled: https://www.youtube.com/watch?v=DGUQBz9lJ88"
       },
       {
-        "name": "DISABLE_EXTERIOR_SHADOWS",
+        "name": "ROOM_NO_DIR_LIGHT",
         "description": "Disables Interior shadowcasting in exterior. [Credits to DPS]"
       },
       {
-        "name": "_UNK_04",
+        "name": "ROOM_NO_EXTERIOR_LIGHTS",
         "description": "???"
       },
       {
-        "name": "_UNK_05",
+        "name": "ROOM_FORCE_FREEZE",
         "description": "???"
       },
       {
-        "name": "REDUCE_VEHICLE_POPULATION",
+        "name": "ROOM_REDUCE_CARS",
         "description": "Reduces vehicle population creating by 66% (applies 0.33 modifier) when player is in this room. [Credits to Disquse]"
       },
       {
-        "name": "REDUCE_PED_POPULATION",
+        "name": "ROOM_REDUCE_PEDS",
         "description": "Reduces peds population creating by 66% (applies 0.33 modifier) when player is in this room. [Credits to Disquse]"
       },
       {
-        "name": "_UNK_08",
+        "name": "ROOM_FORCE_DIR_LIGHT_ON",
         "description": "???"
       },
       {
-        "name": "DISABLE_ALL_LIMBO",
+        "name": "ROOM_DONT_RENDER_EXTERIOR",
         "description": "Disables all limbo portals. [Credits to DPS]"
       },
       {
-        "name": "GOT_MIRRORS",
+        "name": "ROOM_MIRROR_POTENTIALLY_VISIBLE",
         "description": "Used in rooms with mirrors. [Credits to Disquse] Note from DPS: Game will hardcode this flag into rooms with mirrors anyway, so this flag is useless."
       }
     ],
     "CMloArchetypeDefPortalFlags": [
       {
-        "name": "DISABLE_EXTERIOR_RENDERING",
+        "name": "INTINFO_PORTAL_ONE_WAY",
         "description": "You can see from the interior to the exterior, but not vice versa. Used for windows in interiors such as the ammunation in Vinewood. [Credits to DPS]"
       },
       {
-        "name": "DISABLE_INTERIOR_RENDERING",
+        "name": "INTINFO_PORTAL_LINK",
         "description": "You can see from the exterior into the interior, but not vice versa. Used for connecting two MLOs together, such as V_MICHAEL and V_MICHAEL_GARAGE. [Credits to DPS]"
       },
       {
-        "name": "MIRROR",
-        "description": "Mirror. [Credits to dexyfex]"
+        "name": "INTINFO_PORTAL_MIRROR",
+        "description": "Mirror. No direct entrance? [Credits to dexyfex]"
       },
       {
-        "name": "RENDER_OUTSIDE_EXTRA_BLOOM",
+        "name": "INTINFO_PORTAL_IGNORE_MODIFIER",
         "description": "Portal will render the outside with much more bloom. Generaly windows use this. Will not only make a portal appear with more bloom but will also make the player NOT glow when you are near the portal (so a portal to limbo room without flag 8 will cause a player to glow when near)"
       },
       {
-        "name": "_UNK_05",
+        "name": "INTINFO_PORTAL_MIRROR_USING_EXPENSIVE_SHADERS",
         "description": "???"
       },
       {
-        "name": "RENDER_LIMBO_AS_LOD",
+        "name": "INTINFO_PORTAL_LOWLODONLY",
         "description": "Renders limbo as LOD. Used in the roof window of V_MICHAEL. [Credits to DPS]"
       },
       {
-        "name": "_DISABLE_PORTAL_WHILE_DOOR_CLOSED",
+        "name": "INTINFO_PORTAL_ALLOWCLOSING",
         "description": "Disable portal while a door is closed as an attached entity. Note that Rockstar frequently uses this portal, even when there are not any attached entities. May have other functions. [Credits to DPS]"
       },
       {
-        "name": "_UNK_08",
+        "name": "INTINFO_PORTAL_MIRROR_CAN_SEE_DIRECTIONAL_LIGHT",
         "description": "???"
       },
       {
-        "name": "ENABLE_LIMBO_PORTAL_REFLECTIONS",
+        "name": "INTINFO_PORTAL_MIRROR_USING_PORTAL_TRAVERSAL",
         "description": "Enables limbo portals in mirror portal reflections, but does not enable limbo entities. [Credits to DPS]"
       },
       {
-        "name": "_UNK_10",
+        "name": "INTINFO_PORTAL_MIRROR_FLOOR",
         "description": "???"
       },
       {
-        "name": "RENDER_LIMBO_ENTITIES_REFLECTION",
+        "name": "INTINFO_PORTAL_MIRROR_CAN_SEE_EXTERIOR_VIEW",
         "description": "Renders limbo entities in portal reflections. [Credits to DPS]"
       },
       {
-        "name": "_UNK_12",
+        "name": "INTINFO_PORTAL_WATER_SURFACE",
         "description": "???"
       },
       {
-        "name": "_UNK_13",
+        "name": "INTINFO_PORTAL_WATER_SURFACE_EXTEND_TO_HORIZON",
         "description": "???"
       },
       {
-        "name": "_BLEND_TIMECYCLE_WITH_EXTERIOR",
+        "name": "INTINFO_PORTAL_USE_LIGHT_BLEED",
         "description": "Tells the portal to blend the timecycle with the outside world so when the player is near the portal, the room time cycle is blended with the outside world. Makes see through glass doors? Interior timecycle farclipping gets ignored and the entire world distance is rendered."
       }
     ],
@@ -1013,47 +1013,47 @@
     ],
     "CCarGenFlags": [
       {
-        "name": "HIGH_PRIORITY",
+        "name": "FLAG_HIGHPRIORITY",
         "description": "Seems to make the cargen almost-always spawn. [Credits to Monky]"
       },
       {
-        "name": "_UNK_02",
+        "name": "FLAG_IGNORE_DENSITY",
         "description": "???"
       },
       {
-        "name": "POLICE",
+        "name": "FLAG_POLICE",
         "description": "Spawns police police2 police3 policeb or sherrif."
       },
       {
-        "name": "FIRETRUCK",
+        "name": "FLAG_FIRETRUCK",
         "description": "Spawns 'firetruk'."
       },
       {
-        "name": "AMBULANCE",
+        "name": "FLAG_AMBULANCE",
         "description": "Spawns 'ambulance'. [Credits to Monky]"
       },
       {
-        "name": "_COMMON_UNK_00",
+        "name": "FLAG_DURING_DAY",
         "description": "Commonly used"
       },
       {
-        "name": "_COMMON_UNK_01",
+        "name": "FLAG_AT_NIGHT",
         "description": "Commonly used"
       },
       {
-        "name": "_UNK_08",
+        "name": "FLAG_ALIGN_LEFT",
         "description": "???"
       },
       {
-        "name": "_UNK_09",
+        "name": "FLAG_ALIGN_RIGHT",
         "description": "???"
       },
       {
-        "name": "SP_ENABLE",
+        "name": "FLAG_SINGLE_PLAYER",
         "description": "SP Enable"
       },
       {
-        "name": "MP_ENABLE",
+        "name": "FLAG_NETWORK",
         "description": "MP Enable"
       },
       {
@@ -1325,7 +1325,7 @@
         "description": ""
       },
       {
-        "name": "EVENTS_IN_RADIUS_TRIGGER_DISPUTES",
+        "name": "EVENTS_IN_RADIUS_TRIGGER_THREAT_RESPONSE",
         "description": ""
       },
       {
@@ -1409,300 +1409,312 @@
     ],
     "IMapContentFlags": [
       {
-        "name": "HAS_PHYSICS_INSTANCES_01",
-        "description": "This map contains physics instances."
+        "name": "CONTENTFLAG_ENTITIES_HD",
+        "description": "???"
       },
       {
-        "name": "HAS_LOD_ENTITIES",
+        "name": "CONTENTFLAG_ENTITIES_LOD",
+        "description": "???"
+      },
+      {
+        "name": "CONTENTFLAG_ENTITIES_CONTAINERLOD",
         "description": "This map contains LOD entities."
       },
       {
-        "name": "HAS_SLOD2_ENTITIES",
+        "name": "CONTENTFLAG_MASK_LODS",
         "description": "This map contains LOD entities type, as SLOD2 and higher."
       },
       {
-        "name": "HAS_INTERIOR_INSTANCE",
+        "name": "CONTENTFLAG_MLO",
         "description": "This map contains interior instance."
       },
       {
-        "name": "HAS_SLOD1_ENTITIES",
+        "name": "CONTENTFLAG_BLOCKINFO",
         "description": "This map contains SLOD1 entities type."
       },
       {
-        "name": "HAS_OCCLUDERS",
+        "name": "CONTENTFLAG_OCCLUDER",
         "description": "This map contains box/model occluders."
       },
       {
-        "name": "HAS_PHYSICS_INSTANCES_02",
+        "name": "CONTENTFLAG_ENTITIES_USING_PHYSICS",
         "description": "This map contains physics instances."
       },
       {
-        "name": "HAS_LOD_LIGHTS",
+        "name": "CONTENTFLAG_LOD_LIGHTS",
         "description": "This map contains LOD lights."
       },
       {
-        "name": "HAS_DISTANT_LOD_LIGHTS",
+        "name": "CONTENTFLAG_DISTANT_LOD_LIGHTS",
         "description": "This map contains distant LOD lights."
       },
       {
-        "name": "STREAM_CRITICAL",
+        "name": "CONTENTFLAG_ENTITIES_CRITICAL",
         "description": "This map is ‘critical’ and should be placed in the ‘critical’ box streamer slot. Used for maps with tall objects such as lamp posts and trees."
       },
       {
-        "name": "HAS_GRASS_INSTANCES",
+        "name": "CONTENTFLAG_MASK_ENTITIES",
+        "description": "???"
+      },
+      {
+        "name": "CONTENTFLAG_INSTANCE_LIST",
         "description": "This map contains grass instances from instancedData in fwMapData."
+      },
+      {
+        "name": "CONTENTFLAG_MASK_RETAINED",
+        "description": "???"
       }
     ],
     "AnimationFlags": [
       {
-        "name": "LOOP",
+        "name": "AF_LOOPING",
         "description": "Keep repeating animation."
       },
       {
-        "name": "STOP_AT_LAST_FRAME",
+        "name": "AF_HOLD_LAST_FRAME",
         "description": "Stop animation at the last animation frame."
       },
       {
-        "name": "REPOSITION_WHEN_FINISHED",
+        "name": "AF_REPOSITION_WHEN_FINISHED",
         "description": "Matches the peds physical representation position with the visual representation position after the animation ended."
       },
       {
-        "name": "NOT_INTERRUPTABLE",
+        "name": "AF_NOT_INTERRUPTABLE",
         "description": "Animation can't be interrupted by external events."
       },
       {
-        "name": "UPPER_BODY_ONLY",
+        "name": "AF_UPPERBODY",
         "description": "Only animate upper body of ped model."
       },
       {
-        "name": "SECONDARY",
+        "name": "AF_SECONDARY",
         "description": "Animation runs in the secondary task slot which enables the player to for example move."
       },
       {
-        "name": "REORIENT_WHEN_FINISHED",
+        "name": "AF_REORIENT_WHEN_FINISHED",
         "description": "Matches the peds physical representation direction with the visual representation direction after the animation ended."
       },
       {
-        "name": "ABORT_ON_PED_MOVEMENT",
+        "name": "AF_ABORT_ON_PED_MOVEMENT",
         "description": "Ends the animation as soon as the ped tries to move."
       },
       {
-        "name": "ADDITIVE",
+        "name": "AF_ADDITIVE",
         "description": "Playback the animation additively. Only works with special animations."
       },
       {
-        "name": "TURN_OFF_COLLISION",
+        "name": "AF_TURN_OFF_COLLISION",
         "description": "Disables collision direction while animation is playing."
       },
       {
-        "name": "OVERRIDE_PHYSICS",
+        "name": "AF_OVERRIDE_PHYSICS",
         "description": "Do not apply any physic forces while animation is playing. Also turns off collision"
       },
       {
-        "name": "IGNORE_GRAVITY",
+        "name": "AF_IGNORE_GRAVITY",
         "description": "Do not apply gravity while animation is playing."
       },
       {
-        "name": "EXTRACT_INITIAL_OFFSET",
+        "name": "AF_EXTRACT_INITIAL_OFFSET",
         "description": "Extracts the initial offset of the playback position. To be used when playing synced animations on different peds."
       },
       {
-        "name": "EXIT_AFTER_INTERRUPTED",
+        "name": "AF_EXIT_AFTER_INTERRUPTED",
         "description": "Exits the animation after getting interrupted by a different task (e.g. Natural Motion)"
       },
       {
-        "name": "TAG_SYNC_IN",
+        "name": "AF_TAG_SYNC_IN",
         "description": "Sync the animation whilst blending in"
       },
       {
-        "name": "TAG_SYNC_OUT",
+        "name": "AF_TAG_SYNC_OUT",
         "description": "Sync the animation whilst blending out."
       },
       {
-        "name": "TAG_SYNC_CONTINUOUS",
+        "name": "AF_TAG_SYNC_CONTINUOUS",
         "description": "Sync the animation all the time."
       },
       {
-        "name": "FORCE_START",
+        "name": "AF_FORCE_START",
         "description": "Force the animation to start even if the ped is falling, ragdolling, ..."
       },
       {
-        "name": "USE_KINEMATIC_PHYSICS",
+        "name": "AF_USE_KINEMATIC_PHYSICS",
         "description": "Use the kinematic physics mode on the entity for the duration of the animation."
       },
       {
-        "name": "USE_MOVER_EXTRACTION",
+        "name": "AF_USE_MOVER_EXTRACTION",
         "description": "Updates the peds capsule position every frame based on the animation. Used with USE_KINEMATIC_PHYSICS."
       },
       {
-        "name": "HIDE_WEAPON",
+        "name": "AF_HIDE_WEAPON",
         "description": "Hides the weapon during animation."
       },
       {
-        "name": "ENDS_IN_DEAD_POSE",
+        "name": "AF_ENDS_IN_DEAD_POSE",
         "description": "Kills the ped after the animation finished."
       },
       {
-        "name": "ACTIVATE_RAGDOLL_ON_COLLISION",
+        "name": "AF_ACTIVATE_RAGDOLL_ON_COLLISION",
         "description": "If the peds ragdoll makes contact with anything physical active ragdoll and fall over."
       },
       {
-        "name": "DONT_EXIT_ON_DEATH",
+        "name": "AF_DONT_EXIT_ON_DEATH",
         "description": "Prevents secondary animation task to end on death."
       },
       {
-        "name": "ABORT_ON_WEAPON_DAMAGE",
+        "name": "AF_ABORT_ON_WEAPON_DAMAGE",
         "description": "Cancels the animation on damage events. Also works if NOT_INTERRUPTABLE is set."
       },
       {
-        "name": "DISABLE_FORCED_PHYSICS_UPDATE",
+        "name": "AF_DISABLE_FORCED_PHYSICS_UPDATE",
         "description": "Prevent adjusting the capsule on the enter state of the animation."
       },
       {
-        "name": "PROCESS_ATTACHMENTS_ON_START",
+        "name": "AF_PROCESS_ATTACHMENTS_ON_START",
         "description": "Forces the attachments to be processed at the start of the animation."
       },
       {
-        "name": "EXPAND_PED_CAPSULE_FROM_SKELETON",
+        "name": "AF_EXPAND_PED_CAPSULE_FROM_SKELETON",
         "description": "Expands the capsule to the extents of the skeleton."
       },
       {
-        "name": "USE_ALTERNATIVE_FP_ANIM",
+        "name": "AF_USE_ALTERNATIVE_FP_ANIM",
         "description": "Plays an alternative version of the animation if the player is in first person mode."
       },
       {
-        "name": "BLENDOUT_WRT_LAST_FRAME",
+        "name": "AF_BLENDOUT_WRT_LAST_FRAME",
         "description": "Starts blending out the animation earlier, so that blend out duration finishes with the animation."
       },
       {
-        "name": "USE_FULL_BLENDING",
+        "name": "AF_USE_FULL_BLENDING",
         "description": "Use full blending for this anim and override the heading/position adjustment."
       }
     ],
     "WarningButtonFlags": [
       {
-        "name": "SELECT",
-        "description": "[RETURN] Key. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+        "name": "FE_WARNING_SELECT",
+        "description": "See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
       },
       {
-        "name": "OK_01",
-        "description": "[RETURN] Key. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+        "name": "FE_WARNING_OK",
+        "description": "See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
       },
       {
-        "name": "YES",
-        "description": "[RETURN] Key. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+        "name": "FE_WARNING_YES",
+        "description": "See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
       },
       {
-        "name": "BACK_01",
-        "description": "[ESC] Key. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+        "name": "FE_WARNING_BACK",
+        "description": "See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
       },
       {
-        "name": "CANCEL_01",
-        "description": "[ESC] Key. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+        "name": "FE_WARNING_CANCEL",
+        "description": "See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
       },
       {
-        "name": "NO_01",
-        "description": "[ESC] Key. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+        "name": "FE_WARNING_OK_CANCEL",
+        "description": "See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
       },
       {
-        "name": "RETRY_01",
-        "description": "[SPACEBAR] Key. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+        "name": "FE_WARNING_NO",
+        "description": "See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
       },
       {
-        "name": "RESTART",
-        "description": "[SPACEBAR] Key. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+        "name": "FE_WARNING_YES_NO",
+        "description": "See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
       },
       {
-        "name": "BACK_02",
-        "description": "[ESC] Key. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+        "name": "FE_WARNING_RETRY",
+        "description": "See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
       },
       {
-        "name": "SOCIAL_CLUB_01",
-        "description": "[RETURN] Key. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+        "name": "FE_WARNING_RESTART",
+        "description": "See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
       },
       {
-        "name": "SPECTATE",
-        "description": "[SPACEBAR] Key. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+        "name": "FE_WARNING_SKIP",
+        "description": "See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
       },
       {
-        "name": "OK_02",
-        "description": "[ESC] Key. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+        "name": "FE_WARNING_QUIT",
+        "description": "See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
       },
       {
-        "name": "CANCEL_TRANSFER",
-        "description": "[ESC] Key. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+        "name": "FE_WARNING_ADJUST_LEFTRIGHT",
+        "description": "See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
       },
       {
-        "name": "LOADING_SPINNER",
-        "description": "Loading spinner / indicator. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+        "name": "FE_WARNING_IGNORE",
+        "description": "See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
       },
       {
-        "name": "NO_02",
-        "description": "No - Return to Grand Theft Auto V [ESC] Key. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+        "name": "FE_WARNING_SHARE",
+        "description": "See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
       },
       {
-        "name": "CANCEL_02",
-        "description": "[ESC] Key. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+        "name": "FE_WARNING_SIGNIN",
+        "description": "See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
       },
       {
-        "name": "SCROLL",
-        "description": "Up/down arrow symbols. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+        "name": "FE_WARNING_CONTINUE",
+        "description": "See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
       },
       {
-        "name": "SOCIAL_CLUB_SIGN_UP",
-        "description": "[RETURN] Key. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+        "name": "FE_WARNING_ADJUST_STICKLEFTRIGHT",
+        "description": "See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
       },
       {
-        "name": "CONFIRM",
-        "description": "[RETURN] Key. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+        "name": "FE_WARNING_ADJUST_UPDOWN",
+        "description": "See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
       },
       {
-        "name": "QUEUE",
-        "description": "[RETURN] Key. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+        "name": "FE_WARNING_OVERWRITE",
+        "description": "See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
       },
       {
-        "name": "RETRY_02",
-        "description": "[RETURN] Key. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+        "name": "FE_WARNING_SOCIAL_CLUB",
+        "description": "See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
       },
       {
-        "name": "BACK_03",
-        "description": "[ESC] Key. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+        "name": "FE_WARNING_CONFIRM",
+        "description": "See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
       },
       {
-        "name": "SOCIAL_CLUB_02",
-        "description": "[RETURN] Key. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+        "name": "FE_WARNING_CONTNOSAVE",
+        "description": "See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
       },
       {
-        "name": "SKIP",
-        "description": "[SPACEBAR] Key. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+        "name": "FE_WARNING_RETRY_ON_A",
+        "description": "See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
       },
       {
-        "name": "QUIT",
-        "description": "[ESC] Key. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+        "name": "FE_WARNING_BACK_WITH_ACCEPT_SOUND",
+        "description": "See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
       },
       {
-        "name": "ADJUST_01",
-        "description": "Left arrow key + right arrow key. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+        "name": "FE_WARNING_SPINNER",
+        "description": "See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
       },
       {
-        "name": "NO_TEXT",
-        "description": "[SPACEBAR] Key. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+        "name": "FE_WARNING_RETURNSP",
+        "description": "See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
       },
       {
-        "name": "SHARE",
-        "description": "[SPACEBAR] Key. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+        "name": "FE_WARNING_CANCEL_ON_B",
+        "description": "See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
       },
       {
-        "name": "SIGN_IN",
-        "description": "[SPACEBAR] Key. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+        "name": "FE_WARNING_YES_NO_CANCEL",
+        "description": "See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
       },
       {
-        "name": "CONTINUE",
-        "description": "[RETURN] Key. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+        "name": "FE_WARNING_NOSOUND",
+        "description": "See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
       },
       {
-        "name": "ADJUST_02",
-        "description": "Left arrow key + right arrow key. See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
+        "name": "FE_WARNING_EXIT",
+        "description": "See https://i.imgur.com/bZrSmn0.png (PC) or https://i.imgur.com/LDWrTMC.png (Console) for examples."
       }
     ]
   }

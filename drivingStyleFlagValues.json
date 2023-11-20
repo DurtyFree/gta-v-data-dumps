@@ -1,126 +1,134 @@
 [
   {
-    "name": "_STOP_BEFORE_VEHICLES",
+    "name": "DF_STOP_FOR_CARS",
     "description": "Stops before vehicles."
   },
   {
-    "name": "_STOP_BEFORE_PEDS",
+    "name": "DF_STOP_FOR_PEDS",
     "description": "Stops before peds."
   },
   {
-    "name": "_AVOID_VEHICLES",
+    "name": "DF_SWERVE_AROUND_ALL_CARS",
     "description": "Avoids vehicles."
   },
   {
-    "name": "_AVOID_EMPTY_VEHICLES",
+    "name": "DF_STEER_AROUND_STATIONARY_CARS",
     "description": "Avoids empty vehicles."
   },
   {
-    "name": "_AVOID_PEDS",
+    "name": "DF_STEER_AROUND_PEDS",
     "description": "Avoids peds."
   },
   {
-    "name": "_AVOID_OBJECTS",
+    "name": "DF_STEER_AROUND_OBJECTS",
     "description": "Avoids objects."
   },
   {
-    "name": "_UNK_07",
-    "description": "???"
+    "name": "DF_DONT_STEER_AROUND_PLAYER_PED",
+    "description": "Will not avoid drive by player ped"
   },
   {
-    "name": "_STOP_AT_TRAFFICLIGHTS",
+    "name": "DF_STOP_AT_LIGHTS",
     "description": "Stops at traffic lights."
   },
   {
-    "name": "_USE_BLINKERS",
-    "description": "Uses blinkers."
+    "name": "DF_GO_OFF_ROAD_WHEN_AVOIDING",
+    "description": "When avoiding anything, allow for going off road."
   },
   {
-    "name": "_ALLOW_WRONG_WAY",
-    "description": "Allows going wrong way. Only does it if the correct lane is full, will try to reach the correct lane again a.s.a.p."
+    "name": "DF_DRIVE_INTO_ONCOMING_TRAFFIC",
+    "description": "Allows going wrong way. Only does it if the correct lane is full, will try to reach the correct lane again as soon as possible."
   },
   {
-    "name": "_DRIVE_REVERSE_GEAR",
+    "name": "DF_DRIVE_IN_REVERSE",
     "description": "Drives in reverse gear."
   },
   {
-    "name": "_UNK_12",
-    "description": "???"
+    "name": "DF_USE_WANDER_FALLBACK_INSTEAD_OF_STRAIGHT_LINE",
+    "description": "If pathfinding fails, cruise randomly instead of going on a straight line."
   },
   {
-    "name": "_UNK_13",
-    "description": "???"
+    "name": "DF_AVOID_RESTRICTED_AREAS",
+    "description": "Avoid restricted areas."
   },
   {
-    "name": "_UNK_14",
-    "description": "???"
+    "name": "DF_PREVENT_BACKGROUND_PATHFINDING",
+    "description": "These only work on MISSION_CRUISE."
   },
   {
-    "name": "_FOLLOW_SPEED_LIMIT",
+    "name": "DF_ADJUST_CRUISE_SPEED_BASED_ON_ROAD_SPEED",
     "description": "Follow road speed limit."
   },
   {
-    "name": "_UNK_16",
-    "description": "Unknown. Flag seems not to be used in Rockstar's decompiled scripts"
+    "name": "DF_PREVENT_JOIN_IN_ROAD_DIRECTION_WHEN_MOVING",
+    "description": "Flag seems not to be used in Rockstar's decompiled scripts"
   },
   {
-    "name": "_UNK_17",
-    "description": "Unknown. Flag seems not to be used in Rockstar's decompiled scripts"
+    "name": "DF_DONT_AVOID_TARGET",
+    "description": "Flag seems not to be used in Rockstar's decompiled scripts"
   },
   {
-    "name": "_UNK_18",
-    "description": "Unknown. Flag seems not to be used in Rockstar's decompiled scripts"
+    "name": "DF_TARGET_POSITION_OVERRIDES_ENTITY",
+    "description": "Flag seems not to be used in Rockstar's decompiled scripts"
   },
   {
-    "name": "_TAKE_SHORTEST_PATH",
-    "description": "Take the shortest path. Removes most pathing limits, the driver even goes on dirt roads."
+    "name": "DF_USE_SHORT_CUT_LINKS",
+    "description": "Take the shortest path. Removes most pathing limits, the driver even goes on dirt roads. Use if you're going to be primarily driving off road."
   },
   {
-    "name": "_RECKLESS",
-    "description": "Previously named: Allow overtaking vehicles if possible."
+    "name": "DF_CHANGE_LANES_AROUND_OBSTRUCTIONS",
+    "description": "Will change lanes to drive around obstructions. Previously named: Allow overtaking vehicles if possible."
   },
   {
-    "name": "_UNK_21",
-    "description": "Unknown. Flag seems not to be used in Rockstar's decompiled scripts"
-  },
-  {
-    "name": "_UNK_22",
+    "name": "DF_AVOID_TARGET_COORS",
     "description": "???"
   },
   {
-    "name": "_IGNORE_ROADS",
-    "description": "Ignore roads, uses local pathing, only works within 200~ meters around the player."
+    "name": "DF_USE_SWITCHED_OFF_NODES",
+    "description": "Will allow for using switched off street nodes. Cruise tasks ignore this anyway--only used for goto's."
   },
   {
-    "name": "_UNK_24",
-    "description": "Unknown. Flag seems not to be used in Rockstar's decompiled scripts"
+    "name": "DF_PREFER_NAVMESH_ROUTE",
+    "description": "Take the shortest path. Removes most pathing limits, the driver even goes on dirt roads. Use if you're going to be primarily driving off road."
   },
   {
-    "name": "_IGNORE_ALL_PATHING",
+    "name": "DF_PLANE_TAXI_MODE",
+    "description": "Only works for planes using MISSION_GOTO, will cause them to drive along the ground instead of fly."
+  },
+  {
+    "name": "DF_FORCE_STRAIGHT_LINE",
     "description": "Ignore all pathing, goes straight to destination."
   },
   {
-    "name": "_UNK_26",
+    "name": "DF_USE_STRING_PULLING_AT_JUNCTIONS",
     "description": "???"
   },
   {
-    "name": "_UNK_27",
-    "description": "Unknown. Flag seems not to be used in Rockstar's decompiled scripts"
+    "name": "DF_AVOID_ADVERSE_CONDITIONS",
+    "description": "Flag seems not to be used in Rockstar's decompiled scripts"
   },
   {
-    "name": "_UNK_28",
-    "description": "Unknown. Flag seems not to be used in Rockstar's decompiled scripts"
+    "name": "DF_AVOID_TURNS",
+    "description": "Flag seems not to be used in Rockstar's decompiled scripts"
   },
   {
-    "name": "_UNK_29",
-    "description": "Unknown. Flag seems not to be used in Rockstar's decompiled scripts"
+    "name": "DF_EXTEND_ROUTE_WITH_WANDERS_RESULTS",
+    "description": "Flag seems not to be used in Rockstar's decompiled scripts"
   },
   {
-    "name": "_AVOID_HIGHWAYS_WHEN_POSSIBLE",
+    "name": "DF_AVOID_HIGHWAYS",
     "description": "Avoid highways when possible, will use the highway if there is no other way to get to the destination."
   },
   {
-    "name": "_UNK_31",
+    "name": "DF_FORCE_JOIN_IN_ROAD_DIRECTION",
+    "description": "???"
+  },
+  {
+    "name": "DF_DONT_TERMINATE_TASK_WHEN_ACHIEVED",
+    "description": "???"
+  },
+  {
+    "name": "DF_LAST_FLAG",
     "description": "???"
   }
 ]

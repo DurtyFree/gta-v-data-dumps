@@ -1,6 +1,6 @@
 [
   {
-    "Name": "hash_96574fa8_wyhngjaa_collision",
+    "Name": "hash_96574fa8_umdqmkj_collision",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -26,14 +26,14 @@
       "Z": 5.64
     },
     "AmbientEmitters": [
-      "hash_966bc535_kinbvadaaaaaaa_collision",
-      "hash_1a1ba51e_bfzbfsaaaaa_collision",
-      "hash_1e405b13_kpoxiiaaaaaaaaaaa_collision",
-      "hash_1cc09790_efpoydbaaaaaaa_collision"
+      "hash_966bc535_algxmdoj_collision",
+      "hash_1a1ba51e_dzugkga_collision",
+      "hash_1e405b13_ybkngck_collision",
+      "hash_1cc09790_mqlzwrl_collision"
     ]
   },
   {
-    "Name": "hash_f32cd5b3_hdwghbaaaaaaaa_collision",
+    "Name": "hash_f32cd5b3_jvfxuua_collision",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -59,13 +59,13 @@
       "Z": 4.0
     },
     "AmbientEmitters": [
-      "hash_46a0db7c_gjfiambaaaaaa_collision",
-      "hash_101cc9d1_tyywnwc_collision",
-      "hash_6267e90b_lckruzcaaaaaaaaaaaaa_collision"
+      "hash_46a0db7c_jufrvqb_collision",
+      "hash_101cc9d1_baizccp_collision",
+      "hash_6267e90b_gcbwpxk_collision"
     ]
   },
   {
-    "Name": "hash_96574fa8_wyhngjaa_collision",
+    "Name": "hash_96574fa8_umdqmkj_collision",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -91,14 +91,14 @@
       "Z": 5.64
     },
     "AmbientEmitters": [
-      "hash_966bc535_kinbvadaaaaaaa_collision",
-      "hash_1a1ba51e_bfzbfsaaaaa_collision",
-      "hash_1e405b13_kpoxiiaaaaaaaaaaa_collision",
-      "hash_1cc09790_efpoydbaaaaaaa_collision"
+      "hash_966bc535_algxmdoj_collision",
+      "hash_1a1ba51e_dzugkga_collision",
+      "hash_1e405b13_ybkngck_collision",
+      "hash_1cc09790_mqlzwrl_collision"
     ]
   },
   {
-    "Name": "hash_f32cd5b3_hdwghbaaaaaaaa_collision",
+    "Name": "hash_f32cd5b3_jvfxuua_collision",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -124,9 +124,9 @@
       "Z": 4.0
     },
     "AmbientEmitters": [
-      "hash_46a0db7c_gjfiambaaaaaa_collision",
-      "hash_101cc9d1_tyywnwc_collision",
-      "hash_6267e90b_lckruzcaaaaaaaaaaaaa_collision"
+      "hash_46a0db7c_jufrvqb_collision",
+      "hash_101cc9d1_baizccp_collision",
+      "hash_6267e90b_gcbwpxk_collision"
     ]
   },
   {
@@ -160,11 +160,11 @@
     ]
   },
   {
-    "Name": "hash_603d1e00_aoasuyba_collision",
+    "Name": "hash_603d1e00_agkdomc_collision",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
-    "Flags2": 2925811771,
+    "Flags2": 0,
     "OuterPosition": {
       "X": 161.0,
       "Y": -1659.0,
@@ -186,7 +186,7 @@
       "Z": 10.0
     },
     "AmbientEmitters": [
-      "hash_9946a5e9_oswdfuaaaaaaa_collision",
+      "hash_9946a5e9_mbazdlu_collision",
       "ar_construction_jackhammer_general"
     ]
   },
@@ -218,10 +218,10 @@
     },
     "AmbientEmitters": [
       "ar_birds_finches_day",
-      "hash_ae379492_iuwlxbaaaaaaaaaaaa_collision",
+      "hash_ae379492_abboqan_collision",
       "ar_birds_finches_song_day",
       "ar_birds_sparrows_day",
-      "hash_677dbeee_isikccaaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_677dbeee_qoaffpj_collision",
       "ar_crickets_c",
       "ar_crickets_c_far",
       "ar_crickets_g",
@@ -229,17 +229,17 @@
       "ar_cicadas_b",
       "ar_birds_hawk_day",
       "ar_birds_crow_day",
-      "hash_13fc6e08_mqbtmraaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_13fc6e08_emnacss_collision",
       "ar_birds_goldfinches_day",
-      "hash_dca9c228_fosksraaaaa_collision",
+      "hash_dca9c228_cfbefea_collision",
       "ar_chipmunk",
       "ar_squirrel",
       "ar_raccoon",
       "ar_grasshopper_chirp_and_fly",
       "ar_crickets_f",
       "ar_crickets_f_far",
-      "hash_07f7333d_ecguslbaaaaaaaaaaaaaaaaaaaaaaaa_collision",
-      "hash_680714e8_sjwbohaaaaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_07f7333d_kafvozx_collision",
+      "hash_680714e8_rjzjmbb_collision",
       "da_cicada_a",
       "da_cricket_a",
       "da_city_noise_countryside"
@@ -346,12 +346,12 @@
     "AmbientEmitters": [
       "ar_birds_seagulls_24hr",
       "ar_birds_seagulls_day",
-      "hash_0aa3215a_sdggnoaaaaaaaaaaaaaaaaaaaaa_collision",
-      "hash_29026375_tpmvydaaaaaaaaaaaaaaa_collision"
+      "hash_0aa3215a_flkmvw_collision",
+      "hash_29026375_izsokv_collision"
     ]
   },
   {
-    "Name": "hash_2b61e401_sssiefaaaaaaa_collision",
+    "Name": "hash_2b61e401_thwwqzoa_collision",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -385,7 +385,7 @@
     ]
   },
   {
-    "Name": "hash_6b957601_kvgkqaaaaaa_collision",
+    "Name": "hash_6b957601_utpbwg_collision",
     "Shape": "Box",
     "Flags0": 2860516452,
     "Flags1": 0,
@@ -411,7 +411,7 @@
       "Z": 1.0
     },
     "AmbientEmitters": [
-      "hash_befb0e15_rvevtraaaaaaaaaaaaa_collision"
+      "hash_befb0e15_rpiyaaba_collision"
     ]
   },
   {
@@ -445,7 +445,7 @@
     ]
   },
   {
-    "Name": "hash_94015a01_xvmdgebaaaaaaaaaa_collision",
+    "Name": "hash_94015a01_ihbgorn_collision",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -475,7 +475,7 @@
     ]
   },
   {
-    "Name": "hash_d763c801_btdphdbaaaaaaaa_collision",
+    "Name": "hash_d763c801_iowaxioa_collision",
     "Shape": "Box",
     "Flags0": 2860516385,
     "Flags1": 0,
@@ -501,21 +501,21 @@
       "Z": 9.0
     },
     "AmbientEmitters": [
-      "hash_bb133463_ygccbeaaa_collision",
-      "hash_4925aa41_mpfforaaaaa_collision",
-      "hash_b2c47080_ywqlmkaaaaaaaaaaaaaaaaaa_collision",
-      "hash_faf67a6e_kxuoaxaaaaaaaaaaaaaaaaaaaaaaaa_collision",
-      "hash_8a7b8709_guczaeaaaaaaaaaaaa_collision",
-      "hash_40bbd2c4_ghggbgaaaaa_collision",
-      "hash_2e5a0430_oynvapaaaaaaaa_collision",
-      "hash_58048316_mbvfjmaaaaaaaaaaaaaaaaaaaa_collision",
-      "hash_8a426791_bgyihdaaaaaaaaaaaaaaaaa_collision",
+      "hash_bb133463_aiyityaz_collision",
+      "hash_4925aa41_bhkhwfg_collision",
+      "hash_b2c47080_xlsrxcg_collision",
+      "hash_faf67a6e_edklmnj_collision",
+      "hash_8a7b8709_ofeoxrd_collision",
+      "hash_40bbd2c4_pxcevdw_collision",
+      "hash_2e5a0430_vamxmro_collision",
+      "hash_58048316_muprqoq_collision",
+      "hash_8a426791_ewqpgmv_collision",
       "hash_de5d0fc5_mienbta_collision",
-      "hash_77ce29e5_mblpfccaa_collision"
+      "hash_77ce29e5_angwebt_collision"
     ]
   },
   {
-    "Name": "hash_e2ee1901_cqseolbaaaaaaaaaaaaa_collision",
+    "Name": "AZ_LS_SIRENS_CITY",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -545,7 +545,7 @@
     ]
   },
   {
-    "Name": "hash_f66fef02_xhejtiaaaaaaaaaaaaaaaaaaaa_collision",
+    "Name": "hash_f66fef02_zxlzggt_collision",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -571,7 +571,7 @@
       "Z": 13.76
     },
     "AmbientEmitters": [
-      "hash_7867d683_nxtomeaa_collision"
+      "hash_7867d683_nnxtnyv_collision"
     ]
   },
   {
@@ -672,12 +672,12 @@
     "AmbientEmitters": [
       "ar_birds_seagulls_24hr",
       "ar_birds_seagulls_day",
-      "hash_0aa3215a_sdggnoaaaaaaaaaaaaaaaaaaaaa_collision",
-      "hash_29026375_tpmvydaaaaaaaaaaaaaaa_collision"
+      "hash_0aa3215a_flkmvw_collision",
+      "hash_29026375_izsokv_collision"
     ]
   },
   {
-    "Name": "hash_a34d5e03_dvkdfnaaaaaaaaaaaaaaaaaaaaa_collision",
+    "Name": "hash_a34d5e03_kokggup_collision",
     "Shape": "Line",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -703,8 +703,8 @@
       "Z": 49.5
     },
     "AmbientEmitters": [
-      "hash_dc058f73_jygmcvbaaaa_collision",
-      "hash_4bc5f4eb_iixklobaaaaaaaa_collision",
+      "hash_dc058f73_ndiuwvr_collision",
+      "hash_4bc5f4eb_tvtoiqo_collision",
       "hash_65da5cec_lwipyw_collision"
     ]
   },
@@ -768,7 +768,7 @@
     },
     "AmbientEmitters": [
       "ar_birds_finches_day",
-      "hash_ae379492_iuwlxbaaaaaaaaaaaa_collision",
+      "hash_ae379492_abboqan_collision",
       "ar_birds_finches_song_day",
       "ar_crickets_c",
       "ar_crickets_c_far",
@@ -777,9 +777,9 @@
       "ar_cicadas_b",
       "ar_birds_hawk_day",
       "ar_birds_crow_day",
-      "hash_13fc6e08_mqbtmraaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_13fc6e08_emnacss_collision",
       "ar_birds_goldfinches_day",
-      "hash_dca9c228_fosksraaaaa_collision",
+      "hash_dca9c228_cfbefea_collision",
       "ar_chipmunk",
       "ar_squirrel",
       "ar_raccoon",
@@ -788,8 +788,8 @@
       "ar_crickets_f_far",
       "hash_b3315f4a_qypczod_collision",
       "hash_783b3a87_fvvcvgh_collision",
-      "hash_07f7333d_ecguslbaaaaaaaaaaaaaaaaaaaaaaaa_collision",
-      "hash_680714e8_sjwbohaaaaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_07f7333d_kafvozx_collision",
+      "hash_680714e8_rjzjmbb_collision",
       "da_cicada_a",
       "da_cricket_a",
       "da_city_noise_forest"
@@ -885,7 +885,7 @@
       "ar_construction_piledriver_2",
       "hash_59a89e72_jsnjzdsa_collision",
       "hash_80b10e08_oayualf_collision",
-      "hash_9946a5e9_oswdfuaaaaaaa_collision",
+      "hash_9946a5e9_mbazdlu_collision",
       "ar_construction_hammering",
       "ar_construction_welding",
       "hash_4875e31f_yrybpgg_collision",
@@ -998,7 +998,7 @@
     },
     "AmbientEmitters": [
       "hash_4cd46b8d_evqxqdg_collision",
-      "hash_a08270e7_prfevno_collision",
+      "GAtageProto::scalar",
       "hash_6a6467c0_apzlejx_collision"
     ]
   },
@@ -1032,7 +1032,7 @@
       "ar_birds_loon_dusk",
       "ar_birds_duck",
       "ar_flies",
-      "hash_0aa3215a_sdggnoaaaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_0aa3215a_flkmvw_collision",
       "da_city_noise_countryside"
     ]
   },
@@ -1098,8 +1098,8 @@
     "AmbientEmitters": [
       "ar_birds_seagulls_24hr",
       "ar_birds_seagulls_day",
-      "hash_0aa3215a_sdggnoaaaaaaaaaaaaaaaaaaaaa_collision",
-      "hash_29026375_tpmvydaaaaaaaaaaaaaaa_collision"
+      "hash_0aa3215a_flkmvw_collision",
+      "hash_29026375_izsokv_collision"
     ]
   },
   {
@@ -1140,7 +1140,7 @@
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
-    "Flags2": 1627927312,
+    "Flags2": 0,
     "OuterPosition": {
       "X": -1392.0,
       "Y": -616.0,
@@ -1234,7 +1234,7 @@
       "ar_birds_hawk_day",
       "ar_fly_infrequent",
       "ar_birds_crow_day",
-      "hash_13fc6e08_mqbtmraaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_13fc6e08_emnacss_collision",
       "ar_birds_hawk_day",
       "ar_birds_quail_day",
       "ar_birds_crow_dusk",
@@ -1243,8 +1243,8 @@
       "ar_crickets_b",
       "ar_crickets_b_far",
       "ar_grasshopper_chirp",
-      "hash_07f7333d_ecguslbaaaaaaaaaaaaaaaaaaaaaaaa_collision",
-      "hash_680714e8_sjwbohaaaaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_07f7333d_kafvozx_collision",
+      "hash_680714e8_rjzjmbb_collision",
       "hash_99411532_sjjxonf_collision",
       "hash_1602dcb9_kquutzm_collision",
       "hash_aa70cb20_ehnypmf_collision",
@@ -1382,8 +1382,8 @@
     "AmbientEmitters": [
       "ar_birds_seagulls_24hr",
       "ar_birds_seagulls_day",
-      "hash_0aa3215a_sdggnoaaaaaaaaaaaaaaaaaaaaa_collision",
-      "hash_29026375_tpmvydaaaaaaaaaaaaaaa_collision"
+      "hash_0aa3215a_flkmvw_collision",
+      "hash_29026375_izsokv_collision"
     ]
   },
   {
@@ -1506,9 +1506,9 @@
     },
     "AmbientEmitters": [
       "ar_birds_sparrows_day",
-      "hash_677dbeee_isikccaaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_677dbeee_qoaffpj_collision",
       "ar_birds_crow_day",
-      "hash_13fc6e08_mqbtmraaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_13fc6e08_emnacss_collision",
       "da_cicada_a",
       "da_cricket_a",
       "da_city_noise_industrial"
@@ -1705,7 +1705,7 @@
       "Z": 13.76
     },
     "AmbientEmitters": [
-      "hash_7867d683_nxtomeaa_collision"
+      "hash_7867d683_nnxtnyv_collision"
     ]
   },
   {
@@ -1765,7 +1765,7 @@
       "Z": 1.0
     },
     "AmbientEmitters": [
-      "hash_befb0e15_rvevtraaaaaaaaaaaaa_collision"
+      "hash_befb0e15_rpiyaaba_collision"
     ]
   },
   {
@@ -1864,7 +1864,7 @@
       "Z": 1.0
     },
     "AmbientEmitters": [
-      "hash_a08270e7_prfevno_collision",
+      "GAtageProto::scalar",
       "hash_6a6467c0_apzlejx_collision"
     ]
   },
@@ -1960,7 +1960,7 @@
       "ar_construction_piledriver_3",
       "hash_59a89e72_jsnjzdsa_collision",
       "hash_80b10e08_oayualf_collision",
-      "hash_9946a5e9_oswdfuaaaaaaa_collision",
+      "hash_9946a5e9_mbazdlu_collision",
       "ar_construction_hammering",
       "ar_construction_welding",
       "ar_construction_nailgun",
@@ -2147,8 +2147,8 @@
       "hash_74ac29d6_yydzfnd_collision",
       "ar_birds_crow_day",
       "ar_birds_crow_distant",
-      "hash_07f7333d_ecguslbaaaaaaaaaaaaaaaaaaaaaaaa_collision",
-      "hash_680714e8_sjwbohaaaaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_07f7333d_kafvozx_collision",
+      "hash_680714e8_rjzjmbb_collision",
       "da_cicada_a",
       "da_cricket_h",
       "da_cicada_c",
@@ -2183,7 +2183,7 @@
     },
     "AmbientEmitters": [
       "ar_birds_hawk_day",
-      "hash_13fc6e08_mqbtmraaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_13fc6e08_emnacss_collision",
       "ar_chipmunk",
       "hash_7a168719_aevvgfel_collision",
       "hash_25c99083_vxcaecp_collision",
@@ -2466,7 +2466,7 @@
       "ar_birds_hawk_day",
       "ar_fly_infrequent",
       "ar_birds_crow_day",
-      "hash_13fc6e08_mqbtmraaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_13fc6e08_emnacss_collision",
       "ar_birds_hawk_day",
       "ar_birds_quail_day",
       "ar_birds_crow_dusk",
@@ -2475,8 +2475,8 @@
       "ar_crickets_b",
       "ar_crickets_b_far",
       "ar_grasshopper_chirp",
-      "hash_07f7333d_ecguslbaaaaaaaaaaaaaaaaaaaaaaaa_collision",
-      "hash_680714e8_sjwbohaaaaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_07f7333d_kafvozx_collision",
+      "hash_680714e8_rjzjmbb_collision",
       "da_cicada_a",
       "da_cricket_a",
       "da_city_noise_desert"
@@ -2572,8 +2572,8 @@
     "AmbientEmitters": [
       "ar_birds_seagulls_24hr",
       "ar_birds_seagulls_day",
-      "hash_0aa3215a_sdggnoaaaaaaaaaaaaaaaaaaaaa_collision",
-      "hash_29026375_tpmvydaaaaaaaaaaaaaaa_collision"
+      "hash_0aa3215a_flkmvw_collision",
+      "hash_29026375_izsokv_collision"
     ]
   },
   {
@@ -2825,7 +2825,7 @@
     },
     "AmbientEmitters": [
       "hash_6cd3eae3_nkryqvs_collision",
-      "hash_dc058f73_jygmcvbaaaa_collision",
+      "hash_dc058f73_ndiuwvr_collision",
       "hash_a7d940c9_vissdsh_collision"
     ]
   },
@@ -2965,7 +2965,7 @@
       "hash_733d5510_uzhzmqk_collision",
       "hash_a507b8a4_jcacyae_collision",
       "hash_96f51c7f_uqiegad_collision",
-      "hash_6ddc5c2f_bcungvfy_collision"
+      "hash_6ddc5c2f_wwfeebab_collision"
     ]
   },
   {
@@ -3185,8 +3185,8 @@
       "hash_74ac29d6_yydzfnd_collision",
       "ar_birds_crow_day",
       "ar_birds_crow_distant",
-      "hash_07f7333d_ecguslbaaaaaaaaaaaaaaaaaaaaaaaa_collision",
-      "hash_680714e8_sjwbohaaaaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_07f7333d_kafvozx_collision",
+      "hash_680714e8_rjzjmbb_collision",
       "da_cicada_a",
       "da_cricket_h",
       "da_city_noise_countryside"
@@ -3351,7 +3351,7 @@
     },
     "AmbientEmitters": [
       "hash_4cd46b8d_evqxqdg_collision",
-      "hash_a08270e7_prfevno_collision",
+      "GAtageProto::scalar",
       "hash_6a6467c0_apzlejx_collision"
     ]
   },
@@ -3429,12 +3429,12 @@
     },
     "AmbientEmitters": [
       "ar_birds_finches_day",
-      "hash_ae379492_iuwlxbaaaaaaaaaaaa_collision",
+      "hash_ae379492_abboqan_collision",
       "ar_birds_hawk_day",
       "ar_birds_crow_day",
-      "hash_13fc6e08_mqbtmraaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_13fc6e08_emnacss_collision",
       "ar_birds_goldfinches_day",
-      "hash_dca9c228_fosksraaaaa_collision",
+      "hash_dca9c228_cfbefea_collision",
       "hash_7a168719_aevvgfel_collision",
       "da_city_noise_countryside"
     ]
@@ -3536,8 +3536,8 @@
     "AmbientEmitters": [
       "ar_birds_seagulls_24hr",
       "ar_birds_seagulls_day",
-      "hash_0aa3215a_sdggnoaaaaaaaaaaaaaaaaaaaaa_collision",
-      "hash_29026375_tpmvydaaaaaaaaaaaaaaa_collision"
+      "hash_0aa3215a_flkmvw_collision",
+      "hash_29026375_izsokv_collision"
     ]
   },
   {
@@ -3881,7 +3881,7 @@
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
-    "Flags2": 1627927312,
+    "Flags2": 0,
     "OuterPosition": {
       "X": -802.0,
       "Y": -380.0,
@@ -4010,12 +4010,12 @@
       "hash_ea54ccd7_luwpxdm_collision",
       "ar_coyotes_night",
       "ar_birds_crow_day",
-      "hash_13fc6e08_mqbtmraaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_13fc6e08_emnacss_collision",
       "ar_birds_owl_night",
       "ar_grasshopper_chirp_and_fly",
       "ar_grasshopper_fly",
-      "hash_07f7333d_ecguslbaaaaaaaaaaaaaaaaaaaaaaaa_collision",
-      "hash_680714e8_sjwbohaaaaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_07f7333d_kafvozx_collision",
+      "hash_680714e8_rjzjmbb_collision",
       "da_cicada_a",
       "da_cricket_h",
       "da_city_noise_desert"
@@ -4118,7 +4118,7 @@
     },
     "AmbientEmitters": [
       "hash_4cd46b8d_evqxqdg_collision",
-      "hash_a08270e7_prfevno_collision",
+      "GAtageProto::scalar",
       "hash_6a6467c0_apzlejx_collision"
     ]
   },
@@ -4159,7 +4159,7 @@
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
-    "Flags2": 1627927312,
+    "Flags2": 0,
     "OuterPosition": {
       "X": -1229.0,
       "Y": -1302.0,
@@ -4182,7 +4182,7 @@
     },
     "AmbientEmitters": [
       "ar_vehicles_car_horns_day",
-      "hash_a356f4de_aavalawe_collision"
+      "hash_a356f4de_msxafsaa_collision"
     ]
   },
   {
@@ -4287,12 +4287,12 @@
       "hash_ea54ccd7_luwpxdm_collision",
       "ar_coyotes_night",
       "ar_birds_crow_day",
-      "hash_13fc6e08_mqbtmraaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_13fc6e08_emnacss_collision",
       "ar_birds_owl_night",
       "ar_grasshopper_chirp_and_fly",
       "ar_grasshopper_fly",
-      "hash_07f7333d_ecguslbaaaaaaaaaaaaaaaaaaaaaaaa_collision",
-      "hash_680714e8_sjwbohaaaaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_07f7333d_kafvozx_collision",
+      "hash_680714e8_rjzjmbb_collision",
       "da_cicada_a",
       "da_cricket_h",
       "da_city_noise_desert"
@@ -4460,7 +4460,7 @@
     },
     "AmbientEmitters": [
       "hash_4cd46b8d_evqxqdg_collision",
-      "hash_a08270e7_prfevno_collision",
+      "GAtageProto::scalar",
       "hash_6a6467c0_apzlejx_collision"
     ]
   },
@@ -4713,7 +4713,7 @@
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
-    "Flags2": 3404292756,
+    "Flags2": 0,
     "OuterPosition": {
       "X": -881.8,
       "Y": 121.9,
@@ -5061,7 +5061,7 @@
     ]
   },
   {
-    "Name": "hash_b65ced26_anrmwfsz_collision",
+    "Name": "hash_b65ced26_rfodzjma_collision",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -5088,7 +5088,7 @@
     },
     "AmbientEmitters": [
       "hash_d0c2c349_qzsttoz_collision",
-      "hash_fc8ffc5c_abridmhs_collision",
+      "hash_fc8ffc5c_pexrfnba_collision",
       "hash_415592f3_acfaucpw_collision",
       "hash_82bb5c70_acewaryt_collision",
       "hash_029faae3_haozqbf_collision",
@@ -5260,8 +5260,8 @@
     "AmbientEmitters": [
       "ar_birds_seagulls_24hr",
       "ar_birds_seagulls_day",
-      "hash_0aa3215a_sdggnoaaaaaaaaaaaaaaaaaaaaa_collision",
-      "hash_29026375_tpmvydaaaaaaaaaaaaaaa_collision"
+      "hash_0aa3215a_flkmvw_collision",
+      "hash_29026375_izsokv_collision"
     ]
   },
   {
@@ -5325,7 +5325,7 @@
       "Z": 45.2
     },
     "AmbientEmitters": [
-      "hash_dc058f73_jygmcvbaaaa_collision",
+      "hash_dc058f73_ndiuwvr_collision",
       "hash_59418fe2_fxqadqr_collision",
       "hash_6cd3eae3_nkryqvs_collision"
     ]
@@ -5423,7 +5423,7 @@
     },
     "AmbientEmitters": [
       "hash_4cd46b8d_evqxqdg_collision",
-      "hash_a08270e7_prfevno_collision",
+      "GAtageProto::scalar",
       "hash_6a6467c0_apzlejx_collision"
     ]
   },
@@ -6072,7 +6072,7 @@
       "Z": 1.0
     },
     "AmbientEmitters": [
-      "hash_befb0e15_rvevtraaaaaaaaaaaaa_collision"
+      "hash_befb0e15_rpiyaaba_collision"
     ]
   },
   {
@@ -6207,7 +6207,7 @@
       "ar_vehicles_ambulance_24hr",
       "ar_vehicles_firetruck_24hr",
       "ar_vehicles_reversing_day",
-      "hash_9946a5e9_oswdfuaaaaaaa_collision",
+      "hash_9946a5e9_mbazdlu_collision",
       "ar_vehicles_car_alarms_24hr",
       "ar_vehicles_car_alarm_set",
       "ar_construction_jackhammer_general",
@@ -6246,7 +6246,7 @@
     },
     "AmbientEmitters": [
       "ar_birds_sparrows_town_day",
-      "hash_677dbeee_isikccaaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_677dbeee_qoaffpj_collision",
       "ar_vehicles_car_horns_day",
       "ar_vehicles_truck_horns_day",
       "ar_birds_starling_day",
@@ -6255,7 +6255,7 @@
       "ar_crickets_c_city",
       "hash_25c99083_vxcaecp_collision",
       "hash_7b426081_qfjrlnea_collision",
-      "hash_f699e7db_alqpttrw_collision",
+      "hash_f699e7db_zlvekyka_collision",
       "hash_be231518_uxrmapm_collision",
       "hash_6decdd6e_cwgsty_collision",
       "ar_vehicles_brakes_distant",
@@ -6423,7 +6423,7 @@
     },
     "AmbientEmitters": [
       "hash_6cd3eae3_nkryqvs_collision",
-      "hash_dc058f73_jygmcvbaaaa_collision",
+      "hash_dc058f73_ndiuwvr_collision",
       "hash_5fd6589b_kumpdin_collision"
     ]
   },
@@ -6945,7 +6945,7 @@
     },
     "AmbientEmitters": [
       "hash_65da5cec_lwipyw_collision",
-      "hash_dc058f73_jygmcvbaaaa_collision",
+      "hash_dc058f73_ndiuwvr_collision",
       "hash_6c4f2fa2_dazxvvh_collision"
     ]
   },
@@ -7258,8 +7258,8 @@
     "AmbientEmitters": [
       "ar_birds_seagulls_24hr",
       "ar_birds_seagulls_day",
-      "hash_0aa3215a_sdggnoaaaaaaaaaaaaaaaaaaaaa_collision",
-      "hash_29026375_tpmvydaaaaaaaaaaaaaaa_collision"
+      "hash_0aa3215a_flkmvw_collision",
+      "hash_29026375_izsokv_collision"
     ]
   },
   {
@@ -7406,8 +7406,8 @@
     "AmbientEmitters": [
       "ar_birds_seagulls_24hr",
       "ar_birds_seagulls_day",
-      "hash_0aa3215a_sdggnoaaaaaaaaaaaaaaaaaaaaa_collision",
-      "hash_29026375_tpmvydaaaaaaaaaaaaaaa_collision"
+      "hash_0aa3215a_flkmvw_collision",
+      "hash_29026375_izsokv_collision"
     ]
   },
   {
@@ -7622,7 +7622,7 @@
     },
     "AmbientEmitters": [
       "hash_4cd46b8d_evqxqdg_collision",
-      "hash_a08270e7_prfevno_collision",
+      "GAtageProto::scalar",
       "hash_6a6467c0_apzlejx_collision"
     ]
   },
@@ -7687,11 +7687,11 @@
     "AmbientEmitters": []
   },
   {
-    "Name": "hash_e287ed39_qtgycaf_collision",
+    "Name": "camCinematicMountedCamera__IsValid",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
-    "Flags2": 1627927312,
+    "Flags2": 0,
     "OuterPosition": {
       "X": 26.0,
       "Y": -893.0,
@@ -7966,8 +7966,8 @@
     "AmbientEmitters": [
       "ar_birds_seagulls_24hr",
       "ar_birds_seagulls_day",
-      "hash_0aa3215a_sdggnoaaaaaaaaaaaaaaaaaaaaa_collision",
-      "hash_29026375_tpmvydaaaaaaaaaaaaaaa_collision"
+      "hash_0aa3215a_flkmvw_collision",
+      "hash_29026375_izsokv_collision"
     ]
   },
   {
@@ -8318,8 +8318,8 @@
       "hash_783b3a87_fvvcvgh_collision",
       "ar_birds_crow_day",
       "ar_birds_crow_distant",
-      "hash_07f7333d_ecguslbaaaaaaaaaaaaaaaaaaaaaaaa_collision",
-      "hash_680714e8_sjwbohaaaaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_07f7333d_kafvozx_collision",
+      "hash_680714e8_rjzjmbb_collision",
       "da_cicada_a",
       "da_cricket_h",
       "da_cicada_c",
@@ -8527,7 +8527,7 @@
     ]
   },
   {
-    "Name": "hash_a6ce5d3e_aoknywkh_collision",
+    "Name": "hash_a6ce5d3e_yhckhbna_collision",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -8860,7 +8860,7 @@
     },
     "AmbientEmitters": [
       "hash_65da5cec_lwipyw_collision",
-      "hash_dc058f73_jygmcvbaaaa_collision",
+      "hash_dc058f73_ndiuwvr_collision",
       "hash_63c2d5af_aiyzhpdo_collision",
       "hash_b99de452_axiegyi_collision"
     ]
@@ -9097,7 +9097,7 @@
       "hash_7997e62f_giksvse_collision",
       "hash_01733f21_udxnggz_collision",
       "hash_b25b832f_hpsdjhn_collision",
-      "hash_677dbeee_isikccaaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_677dbeee_qoaffpj_collision",
       "hash_ea54ccd7_luwpxdm_collision",
       "ar_squirrel"
     ]
@@ -9581,7 +9581,7 @@
       "ar_birds_hawk_day",
       "ar_fly_infrequent",
       "ar_birds_crow_day",
-      "hash_13fc6e08_mqbtmraaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_13fc6e08_emnacss_collision",
       "ar_birds_hawk_day",
       "ar_birds_quail_day",
       "ar_birds_crow_dusk",
@@ -9591,8 +9591,8 @@
       "ar_crickets_b_far",
       "ar_grasshopper_chirp",
       "hash_291d7f91_anvucgno_collision",
-      "hash_07f7333d_ecguslbaaaaaaaaaaaaaaaaaaaaaaaa_collision",
-      "hash_680714e8_sjwbohaaaaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_07f7333d_kafvozx_collision",
+      "hash_680714e8_rjzjmbb_collision",
       "hash_9e5d4aae_zeeufnb_collision",
       "hash_99411532_sjjxonf_collision",
       "hash_1602dcb9_kquutzm_collision",
@@ -9792,8 +9792,8 @@
       "ar_birds_rooster",
       "hash_783b3a87_fvvcvgh_collision",
       "ar_birds_crow_distant",
-      "hash_07f7333d_ecguslbaaaaaaaaaaaaaaaaaaaaaaaa_collision",
-      "hash_680714e8_sjwbohaaaaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_07f7333d_kafvozx_collision",
+      "hash_680714e8_rjzjmbb_collision",
       "da_cicada_a",
       "da_cricket_h",
       "da_cicada_c",
@@ -10319,8 +10319,8 @@
     "AmbientEmitters": [
       "ar_birds_seagulls_24hr",
       "ar_birds_seagulls_day",
-      "hash_0aa3215a_sdggnoaaaaaaaaaaaaaaaaaaaaa_collision",
-      "hash_29026375_tpmvydaaaaaaaaaaaaaaa_collision"
+      "hash_0aa3215a_flkmvw_collision",
+      "hash_29026375_izsokv_collision"
     ]
   },
   {
@@ -10768,7 +10768,7 @@
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
-    "Flags2": 1627927312,
+    "Flags2": 0,
     "OuterPosition": {
       "X": -644.0,
       "Y": -787.0,
@@ -11195,7 +11195,7 @@
     },
     "AmbientEmitters": [
       "hash_65da5cec_lwipyw_collision",
-      "hash_dc058f73_jygmcvbaaaa_collision",
+      "hash_dc058f73_ndiuwvr_collision",
       "hash_be823789_egrhoq_collision"
     ]
   },
@@ -11226,7 +11226,7 @@
       "Z": 1.0
     },
     "AmbientEmitters": [
-      "hash_befb0e15_rvevtraaaaaaaaaaaaa_collision"
+      "hash_befb0e15_rpiyaaba_collision"
     ]
   },
   {
@@ -11833,8 +11833,8 @@
     "AmbientEmitters": [
       "ar_birds_seagulls_24hr",
       "ar_birds_seagulls_day",
-      "hash_0aa3215a_sdggnoaaaaaaaaaaaaaaaaaaaaa_collision",
-      "hash_29026375_tpmvydaaaaaaaaaaaaaaa_collision"
+      "hash_0aa3215a_flkmvw_collision",
+      "hash_29026375_izsokv_collision"
     ]
   },
   {
@@ -11897,7 +11897,7 @@
     },
     "AmbientEmitters": [
       "hash_d0c2c349_qzsttoz_collision",
-      "hash_fc8ffc5c_abridmhs_collision",
+      "hash_fc8ffc5c_pexrfnba_collision",
       "hash_0c91358a_lcrcaev_collision",
       "hash_58f5d95d_amggvysb_collision",
       "ar_construction_welding",
@@ -12148,10 +12148,10 @@
     },
     "AmbientEmitters": [
       "ar_birds_sparrows_town_day",
-      "hash_677dbeee_isikccaaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_677dbeee_qoaffpj_collision",
       "ar_vehicles_car_horns_day",
       "ar_vehicles_truck_horns_day",
-      "hash_f699e7db_alqpttrw_collision",
+      "hash_f699e7db_zlvekyka_collision",
       "hash_7b426081_qfjrlnea_collision",
       "hash_6decdd6e_cwgsty_collision",
       "hash_be231518_uxrmapm_collision",
@@ -12567,8 +12567,8 @@
       "ar_birds_owl_night",
       "ar_katydids",
       "hash_783b3a87_fvvcvgh_collision",
-      "hash_07f7333d_ecguslbaaaaaaaaaaaaaaaaaaaaaaaa_collision",
-      "hash_680714e8_sjwbohaaaaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_07f7333d_kafvozx_collision",
+      "hash_680714e8_rjzjmbb_collision",
       "ar_birds_crow_day",
       "ar_birds_crow_distant",
       "da_cicada_a",
@@ -12734,7 +12734,7 @@
     "AmbientEmitters": []
   },
   {
-    "Name": "hash_c4be195f_kljcptl_collision",
+    "Name": "hash_c4be195f_yyifgqj_collision",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -12862,11 +12862,11 @@
     },
     "AmbientEmitters": [
       "ar_birds_sparrows_town_day",
-      "hash_677dbeee_isikccaaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_677dbeee_qoaffpj_collision",
       "ar_vehicles_car_horns_day",
       "ar_vehicles_truck_horns_day",
       "ar_birds_crow_distant",
-      "hash_f699e7db_alqpttrw_collision",
+      "hash_f699e7db_zlvekyka_collision",
       "hash_be231518_uxrmapm_collision",
       "da_cicada_a",
       "da_cricket_a",
@@ -13226,7 +13226,7 @@
     },
     "AmbientEmitters": [
       "hash_4cd46b8d_evqxqdg_collision",
-      "hash_a08270e7_prfevno_collision",
+      "GAtageProto::scalar",
       "hash_6a6467c0_apzlejx_collision"
     ]
   },
@@ -13302,12 +13302,12 @@
       "hash_ea54ccd7_luwpxdm_collision",
       "ar_coyotes_night",
       "ar_birds_crow_day",
-      "hash_13fc6e08_mqbtmraaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_13fc6e08_emnacss_collision",
       "ar_birds_owl_night",
       "ar_grasshopper_chirp_and_fly",
       "ar_grasshopper_fly",
-      "hash_07f7333d_ecguslbaaaaaaaaaaaaaaaaaaaaaaaa_collision",
-      "hash_680714e8_sjwbohaaaaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_07f7333d_kafvozx_collision",
+      "hash_680714e8_rjzjmbb_collision",
       "da_cicada_a",
       "da_cricket_h",
       "da_city_noise_desert"
@@ -13345,7 +13345,7 @@
       "hash_4ae18a13_pqrpqed_collision",
       "ar_flies",
       "hash_21d8fe5e_iluluyh_collision",
-      "hash_9c9df3e6_aginhby_collision",
+      "hash_9c9df3e6_zmxccfa_collision",
       "hash_f5fe34ff_hfazilm_collision",
       "hash_2ea02646_acesfjrt_collision",
       "ar_fly_24hr_no_occ"
@@ -13962,7 +13962,7 @@
     },
     "AmbientEmitters": [
       "hash_5a1ec579_elpygui_collision",
-      "hash_dc058f73_jygmcvbaaaa_collision",
+      "hash_dc058f73_ndiuwvr_collision",
       "hash_de51adbd_cjkuvpe_collision"
     ]
   },
@@ -14098,7 +14098,7 @@
       "Z": 37.8
     },
     "AmbientEmitters": [
-      "hash_dc058f73_jygmcvbaaaa_collision",
+      "hash_dc058f73_ndiuwvr_collision",
       "hash_c9a8c005_cqducts_collision",
       "hash_6cd3eae3_nkryqvs_collision"
     ]
@@ -14274,7 +14274,7 @@
       "hash_6a6467c0_apzlejx_collision",
       "hash_b564266b_pazcega_collision",
       "ar_marina_splashing",
-      "hash_a08270e7_prfevno_collision",
+      "GAtageProto::scalar",
       "hash_4cd46b8d_evqxqdg_collision"
     ]
   },
@@ -15019,7 +15019,7 @@
       "ar_cicadas_b",
       "ar_fly_infrequent",
       "ar_birds_crow_day",
-      "hash_13fc6e08_mqbtmraaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_13fc6e08_emnacss_collision",
       "ar_birds_hawk_day",
       "ar_birds_crow_dusk",
       "ar_crickets_b",
@@ -15032,7 +15032,7 @@
     ]
   },
   {
-    "Name": "hash_fa08256f_bqzrfnb_collision",
+    "Name": "hash_fa08256f_cjsfenb_collision",
     "Shape": "Box",
     "Flags0": 2860516389,
     "Flags1": 0,
@@ -15321,7 +15321,7 @@
     ]
   },
   {
-    "Name": "hash_50301d73_deerwro_collision",
+    "Name": "hash_50301d73_uladzxc_collision",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -15515,7 +15515,7 @@
     "AmbientEmitters": [
       "hash_b66a1415_aecmvoa_collision",
       "hash_8b84b3dd_gckxazm_collision",
-      "hash_cdd3328d_itiuzjy_collision",
+      "hash_cdd3328d_uyvovlj_collision",
       "hash_2c46ef6f_cokzzhda_collision",
       "hash_618ad9f6_qkplolb_collision",
       "hash_4fb0b642_acnlfmpu_collision",
@@ -15589,8 +15589,8 @@
     "AmbientEmitters": [
       "ar_birds_seagulls_24hr",
       "ar_birds_seagulls_day",
-      "hash_0aa3215a_sdggnoaaaaaaaaaaaaaaaaaaaaa_collision",
-      "hash_29026375_tpmvydaaaaaaaaaaaaaaa_collision"
+      "hash_0aa3215a_flkmvw_collision",
+      "hash_29026375_izsokv_collision"
     ]
   },
   {
@@ -16139,8 +16139,8 @@
       "hash_783b3a87_fvvcvgh_collision",
       "ar_birds_crow_day",
       "ar_birds_crow_distant",
-      "hash_07f7333d_ecguslbaaaaaaaaaaaaaaaaaaaaaaaa_collision",
-      "hash_680714e8_sjwbohaaaaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_07f7333d_kafvozx_collision",
+      "hash_680714e8_rjzjmbb_collision",
       "da_cicada_a",
       "da_cricket_h",
       "da_cicada_c",
@@ -16694,7 +16694,7 @@
     },
     "AmbientEmitters": [
       "hash_4cd46b8d_evqxqdg_collision",
-      "hash_a08270e7_prfevno_collision",
+      "GAtageProto::scalar",
       "hash_6a6467c0_apzlejx_collision"
     ]
   },
@@ -16732,9 +16732,9 @@
       "ar_cicadas_b",
       "ar_birds_hawk_day",
       "ar_birds_crow_day",
-      "hash_13fc6e08_mqbtmraaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_13fc6e08_emnacss_collision",
       "ar_birds_goldfinches_day",
-      "hash_dca9c228_fosksraaaaa_collision",
+      "hash_dca9c228_cfbefea_collision",
       "ar_chipmunk",
       "ar_squirrel",
       "ar_raccoon",
@@ -16743,8 +16743,8 @@
       "ar_crickets_f_far",
       "hash_b3315f4a_qypczod_collision",
       "hash_783b3a87_fvvcvgh_collision",
-      "hash_07f7333d_ecguslbaaaaaaaaaaaaaaaaaaaaaaaa_collision",
-      "hash_680714e8_sjwbohaaaaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_07f7333d_kafvozx_collision",
+      "hash_680714e8_rjzjmbb_collision",
       "da_cicada_a",
       "da_cricket_a",
       "da_city_noise_forest"
@@ -16997,14 +16997,14 @@
       "Z": 2.0
     },
     "AmbientEmitters": [
-      "hash_bb133463_ygccbeaaa_collision",
-      "hash_4925aa41_mpfforaaaaa_collision",
-      "hash_b2c47080_ywqlmkaaaaaaaaaaaaaaaaaa_collision",
-      "hash_faf67a6e_kxuoaxaaaaaaaaaaaaaaaaaaaaaaaa_collision",
-      "hash_8a7b8709_guczaeaaaaaaaaaaaa_collision",
+      "hash_bb133463_aiyityaz_collision",
+      "hash_4925aa41_bhkhwfg_collision",
+      "hash_b2c47080_xlsrxcg_collision",
+      "hash_faf67a6e_edklmnj_collision",
+      "hash_8a7b8709_ofeoxrd_collision",
       "hash_7dbb91b6_rdwuznc_collision",
       "hash_6c816f32_ipayziy_collision",
-      "hash_2e5a0430_oynvapaaaaaaaa_collision",
+      "hash_2e5a0430_vamxmro_collision",
       "hash_5e16525c_qfafqxc_collision",
       "hash_781beb2b_gavoifr_collision",
       "hash_4db3b197_nqwbwoz_collision",
@@ -17135,7 +17135,7 @@
     },
     "AmbientEmitters": [
       "hash_4cd46b8d_evqxqdg_collision",
-      "hash_a08270e7_prfevno_collision",
+      "GAtageProto::scalar",
       "hash_6a6467c0_apzlejx_collision"
     ]
   },
@@ -17262,8 +17262,8 @@
       "ar_birds_owl_night",
       "ar_katydids",
       "hash_783b3a87_fvvcvgh_collision",
-      "hash_07f7333d_ecguslbaaaaaaaaaaaaaaaaaaaaaaaa_collision",
-      "hash_680714e8_sjwbohaaaaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_07f7333d_kafvozx_collision",
+      "hash_680714e8_rjzjmbb_collision",
       "ar_birds_crow_distant",
       "ar_birds_crow_day",
       "da_cicada_a",
@@ -17277,7 +17277,7 @@
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
-    "Flags2": 3404292756,
+    "Flags2": 0,
     "OuterPosition": {
       "X": -689.0,
       "Y": -2008.0,
@@ -17301,12 +17301,12 @@
     "AmbientEmitters": [
       "ar_vehicles_car_horns_rush_evening",
       "ar_vehicles_car_horns_rush_morning",
-      "hash_9946a5e9_oswdfuaaaaaaa_collision",
+      "hash_9946a5e9_mbazdlu_collision",
       "ar_construction_jackhammer_general",
       "ar_vehicles_brakes_distant",
       "ar_vehicles_car_horns_night",
       "hash_be231518_uxrmapm_collision",
-      "hash_f699e7db_alqpttrw_collision"
+      "hash_f699e7db_zlvekyka_collision"
     ]
   },
   {
@@ -17368,10 +17368,10 @@
     "AmbientEmitters": [
       "ar_birds_seagulls_24hr",
       "ar_birds_seagulls_day",
-      "hash_0aa3215a_sdggnoaaaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_0aa3215a_flkmvw_collision",
       "ar_birds_seabird_day",
       "ar_birds_seabird_distant",
-      "hash_29026375_tpmvydaaaaaaaaaaaaaaa_collision"
+      "hash_29026375_izsokv_collision"
     ]
   },
   {
@@ -17463,8 +17463,8 @@
     "AmbientEmitters": [
       "ar_birds_seagulls_24hr",
       "ar_birds_seagulls_day",
-      "hash_0aa3215a_sdggnoaaaaaaaaaaaaaaaaaaaaa_collision",
-      "hash_29026375_tpmvydaaaaaaaaaaaaaaa_collision"
+      "hash_0aa3215a_flkmvw_collision",
+      "hash_29026375_izsokv_collision"
     ]
   },
   {
@@ -17657,11 +17657,11 @@
       "Z": 2.0
     },
     "AmbientEmitters": [
-      "hash_bb133463_ygccbeaaa_collision",
-      "hash_4925aa41_mpfforaaaaa_collision",
-      "hash_b2c47080_ywqlmkaaaaaaaaaaaaaaaaaa_collision",
-      "hash_faf67a6e_kxuoaxaaaaaaaaaaaaaaaaaaaaaaaa_collision",
-      "hash_8a7b8709_guczaeaaaaaaaaaaaa_collision",
+      "hash_bb133463_aiyityaz_collision",
+      "hash_4925aa41_bhkhwfg_collision",
+      "hash_b2c47080_xlsrxcg_collision",
+      "hash_faf67a6e_edklmnj_collision",
+      "hash_8a7b8709_ofeoxrd_collision",
       "hash_f753a834_zksjrr_collision"
     ]
   },
@@ -17700,7 +17700,7 @@
       "ar_birds_hawk_day",
       "ar_fly_infrequent",
       "ar_birds_crow_day",
-      "hash_13fc6e08_mqbtmraaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_13fc6e08_emnacss_collision",
       "ar_birds_hawk_day",
       "ar_birds_quail_day",
       "ar_birds_crow_dusk",
@@ -17708,8 +17708,8 @@
       "ar_crickets_b",
       "ar_crickets_b_far",
       "ar_grasshopper_chirp",
-      "hash_07f7333d_ecguslbaaaaaaaaaaaaaaaaaaaaaaaa_collision",
-      "hash_680714e8_sjwbohaaaaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_07f7333d_kafvozx_collision",
+      "hash_680714e8_rjzjmbb_collision",
       "hash_99411532_sjjxonf_collision",
       "hash_1602dcb9_kquutzm_collision",
       "hash_aa70cb20_ehnypmf_collision",
@@ -17850,7 +17850,7 @@
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
-    "Flags2": 3404292756,
+    "Flags2": 0,
     "OuterPosition": {
       "X": 975.0,
       "Y": -1100.0,
@@ -17921,9 +17921,9 @@
       "Z": 77.83
     },
     "AmbientEmitters": [
-      "hash_bb133463_ygccbeaaa_collision",
-      "hash_4925aa41_mpfforaaaaa_collision",
-      "hash_b2c47080_ywqlmkaaaaaaaaaaaaaaaaaa_collision",
+      "hash_bb133463_aiyityaz_collision",
+      "hash_4925aa41_bhkhwfg_collision",
+      "hash_b2c47080_xlsrxcg_collision",
       "hash_0cb3b636_ptwmife_collision"
     ]
   },
@@ -18016,7 +18016,7 @@
     },
     "AmbientEmitters": [
       "ar_birds_sparrows_town_day",
-      "hash_677dbeee_isikccaaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_677dbeee_qoaffpj_collision",
       "ar_vehicles_car_horns_day",
       "ar_birds_starling_day",
       "hash_b25b832f_hpsdjhn_collision",
@@ -18025,7 +18025,7 @@
       "hash_c2c05f2f_aeljhhit_collision",
       "ar_leaf_blower",
       "hash_be231518_uxrmapm_collision",
-      "hash_f699e7db_alqpttrw_collision",
+      "hash_f699e7db_zlvekyka_collision",
       "ar_distant_mower",
       "da_cicada_a",
       "da_cricket_a",
@@ -18416,11 +18416,11 @@
       "ar_bullfrog_night",
       "ar_birds_owl_night",
       "ar_katydids",
-      "hash_f699e7db_alqpttrw_collision",
+      "hash_f699e7db_zlvekyka_collision",
       "ar_birds_crow_day",
       "ar_birds_crow_distant",
-      "hash_07f7333d_ecguslbaaaaaaaaaaaaaaaaaaaaaaaa_collision",
-      "hash_680714e8_sjwbohaaaaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_07f7333d_kafvozx_collision",
+      "hash_680714e8_rjzjmbb_collision",
       "da_cicada_a",
       "da_cricket_h",
       "da_city_noise_countryside"
@@ -18470,7 +18470,7 @@
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
-    "Flags2": 3404292756,
+    "Flags2": 0,
     "OuterPosition": {
       "X": -1032.0,
       "Y": -1099.0,
@@ -18567,8 +18567,8 @@
     "AmbientEmitters": [
       "ar_birds_seagulls_24hr",
       "ar_birds_seagulls_day",
-      "hash_0aa3215a_sdggnoaaaaaaaaaaaaaaaaaaaaa_collision",
-      "hash_29026375_tpmvydaaaaaaaaaaaaaaa_collision"
+      "hash_0aa3215a_flkmvw_collision",
+      "hash_29026375_izsokv_collision"
     ]
   },
   {
@@ -18792,7 +18792,7 @@
     },
     "AmbientEmitters": [
       "hash_4cd46b8d_evqxqdg_collision",
-      "hash_a08270e7_prfevno_collision",
+      "GAtageProto::scalar",
       "hash_6a6467c0_apzlejx_collision"
     ]
   },
@@ -18825,8 +18825,8 @@
     "AmbientEmitters": [
       "ar_birds_seagulls_24hr",
       "ar_birds_seagulls_day",
-      "hash_0aa3215a_sdggnoaaaaaaaaaaaaaaaaaaaaa_collision",
-      "hash_29026375_tpmvydaaaaaaaaaaaaaaa_collision"
+      "hash_0aa3215a_flkmvw_collision",
+      "hash_29026375_izsokv_collision"
     ]
   },
   {
@@ -18897,7 +18897,7 @@
     "AmbientEmitters": [
       "ar_birds_hawk_day",
       "ar_birds_quail_day",
-      "hash_13fc6e08_mqbtmraaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_13fc6e08_emnacss_collision",
       "ar_rattlesnake",
       "ar_crickets_d",
       "ar_crickets_d_far",
@@ -19383,11 +19383,11 @@
     },
     "AmbientEmitters": [
       "ar_birds_sparrows_day",
-      "hash_677dbeee_isikccaaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_677dbeee_qoaffpj_collision",
       "ar_birds_crow_day",
-      "hash_13fc6e08_mqbtmraaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_13fc6e08_emnacss_collision",
       "hash_6decdd6e_cwgsty_collision",
-      "hash_f699e7db_alqpttrw_collision",
+      "hash_f699e7db_zlvekyka_collision",
       "hash_be231518_uxrmapm_collision",
       "da_cicada_a",
       "da_cricket_a",
@@ -19481,7 +19481,7 @@
       "Z": 46.0
     },
     "AmbientEmitters": [
-      "hash_dc058f73_jygmcvbaaaa_collision",
+      "hash_dc058f73_ndiuwvr_collision",
       "hash_57e1079a_fhtovdw_collision",
       "hash_5a1ec579_elpygui_collision"
     ]
@@ -20087,12 +20087,12 @@
       "Z": 4.0
     },
     "AmbientEmitters": [
-      "hash_bb133463_ygccbeaaa_collision",
-      "hash_4925aa41_mpfforaaaaa_collision",
-      "hash_b2c47080_ywqlmkaaaaaaaaaaaaaaaaaa_collision",
-      "hash_faf67a6e_kxuoaxaaaaaaaaaaaaaaaaaaaaaaaa_collision",
-      "hash_8a7b8709_guczaeaaaaaaaaaaaa_collision",
-      "hash_2e5a0430_oynvapaaaaaaaa_collision",
+      "hash_bb133463_aiyityaz_collision",
+      "hash_4925aa41_bhkhwfg_collision",
+      "hash_b2c47080_xlsrxcg_collision",
+      "hash_faf67a6e_edklmnj_collision",
+      "hash_8a7b8709_ofeoxrd_collision",
+      "hash_2e5a0430_vamxmro_collision",
       "hash_100ddd39_jhxodna_collision",
       "hash_34a695a1_mgwqfxv_collision"
     ]
@@ -20186,24 +20186,24 @@
     },
     "AmbientEmitters": [
       "ar_birds_finches_day",
-      "hash_ae379492_iuwlxbaaaaaaaaaaaa_collision",
+      "hash_ae379492_abboqan_collision",
       "ar_birds_finches_song_day",
       "ar_birds_sparrows_day",
-      "hash_677dbeee_isikccaaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_677dbeee_qoaffpj_collision",
       "ar_crickets_c",
       "ar_crickets_c_far",
       "ar_crickets_g",
       "ar_crickets_g_far",
       "hash_25c99083_vxcaecp_collision",
       "ar_birds_crow_day",
-      "hash_13fc6e08_mqbtmraaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_13fc6e08_emnacss_collision",
       "ar_birds_goldfinches_day",
-      "hash_dca9c228_fosksraaaaa_collision",
+      "hash_dca9c228_cfbefea_collision",
       "hash_11d821b5_tfrrype_collision",
       "ar_crickets_f",
       "ar_crickets_f_far",
-      "hash_07f7333d_ecguslbaaaaaaaaaaaaaaaaaaaaaaaa_collision",
-      "hash_680714e8_sjwbohaaaaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_07f7333d_kafvozx_collision",
+      "hash_680714e8_rjzjmbb_collision",
       "da_cicada_a",
       "da_cricket_a",
       "da_city_noise_countryside"
@@ -20306,7 +20306,7 @@
     },
     "AmbientEmitters": [
       "hash_65da5cec_lwipyw_collision",
-      "hash_dc058f73_jygmcvbaaaa_collision",
+      "hash_dc058f73_ndiuwvr_collision",
       "hash_be823789_egrhoq_collision"
     ]
   },
@@ -20468,7 +20468,7 @@
     },
     "AmbientEmitters": [
       "hash_4cd46b8d_evqxqdg_collision",
-      "hash_a08270e7_prfevno_collision",
+      "GAtageProto::scalar",
       "hash_6a6467c0_apzlejx_collision"
     ]
   },
@@ -20702,7 +20702,7 @@
     },
     "AmbientEmitters": [
       "hash_65da5cec_lwipyw_collision",
-      "hash_dc058f73_jygmcvbaaaa_collision",
+      "hash_dc058f73_ndiuwvr_collision",
       "hash_011c5f91_fwkulyd_collision"
     ]
   },
@@ -21109,12 +21109,12 @@
       "Z": 26.84
     },
     "AmbientEmitters": [
-      "hash_7867d683_nxtomeaa_collision",
+      "hash_7867d683_nnxtnyv_collision",
       "hash_e139b363_okgffsz_collision",
       "hash_fd8bec07_abqqila_collision",
       "hash_60246f7d_peecmyf_collision",
       "hash_1a9f9883_yfopgj_collision",
-      "hash_2ce43d0c_eghkbue_collision",
+      "hash_2ce43d0c_wlxhwnd_collision",
       "hash_f995d668_deeqszh_collision",
       "hash_075371e3_sjyging_collision",
       "hash_dfb38048_kjujtky_collision",
@@ -21419,8 +21419,8 @@
     "AmbientEmitters": [
       "ar_birds_seagulls_24hr",
       "ar_birds_seagulls_day",
-      "hash_0aa3215a_sdggnoaaaaaaaaaaaaaaaaaaaaa_collision",
-      "hash_29026375_tpmvydaaaaaaaaaaaaaaa_collision"
+      "hash_0aa3215a_flkmvw_collision",
+      "hash_29026375_izsokv_collision"
     ]
   },
   {
@@ -21450,7 +21450,7 @@
       "Z": 52.0
     },
     "AmbientEmitters": [
-      "hash_dc058f73_jygmcvbaaaa_collision",
+      "hash_dc058f73_ndiuwvr_collision",
       "hash_8170e040_ertagkr_collision",
       "hash_5a1ec579_elpygui_collision"
     ]
@@ -21650,7 +21650,7 @@
       "Z": 13.0
     },
     "AmbientEmitters": [
-      "hash_13fc6e08_mqbtmraaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_13fc6e08_emnacss_collision",
       "ar_birds_starling_day",
       "hash_25c99083_vxcaecp_collision",
       "ar_crickets_c_city"
@@ -21853,10 +21853,10 @@
     "AmbientEmitters": [
       "ar_birds_seagulls_24hr",
       "ar_birds_seagulls_day",
-      "hash_0aa3215a_sdggnoaaaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_0aa3215a_flkmvw_collision",
       "ar_birds_seabird_day",
       "ar_birds_seabird_distant",
-      "hash_29026375_tpmvydaaaaaaaaaaaaaaa_collision"
+      "hash_29026375_izsokv_collision"
     ]
   },
   {
@@ -22113,7 +22113,7 @@
       "ar_construction_piledriver_1",
       "hash_59a89e72_jsnjzdsa_collision",
       "hash_80b10e08_oayualf_collision",
-      "hash_9946a5e9_oswdfuaaaaaaa_collision",
+      "hash_9946a5e9_mbazdlu_collision",
       "ar_construction_hammering",
       "ar_construction_welding",
       "ar_construction_nailgun",
@@ -22184,7 +22184,7 @@
       "ar_birds_loon_dusk",
       "ar_birds_duck",
       "ar_flies",
-      "hash_0aa3215a_sdggnoaaaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_0aa3215a_flkmvw_collision",
       "da_city_noise_countryside"
     ]
   },
@@ -22254,7 +22254,7 @@
       "Z": 10.0
     },
     "AmbientEmitters": [
-      "hash_9946a5e9_oswdfuaaaaaaa_collision",
+      "hash_9946a5e9_mbazdlu_collision",
       "ar_trash_rustle",
       "ar_animals_alley_cat"
     ]
@@ -22478,7 +22478,7 @@
       "hash_ea54ccd7_luwpxdm_collision",
       "ar_coyotes_night",
       "ar_birds_crow_day",
-      "hash_13fc6e08_mqbtmraaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_13fc6e08_emnacss_collision",
       "ar_birds_owl_night",
       "ar_grasshopper_chirp_and_fly",
       "ar_grasshopper_fly",
@@ -22672,7 +22672,7 @@
     },
     "AmbientEmitters": [
       "hash_4cd46b8d_evqxqdg_collision",
-      "hash_a08270e7_prfevno_collision",
+      "GAtageProto::scalar",
       "hash_6a6467c0_apzlejx_collision"
     ]
   },
@@ -22681,7 +22681,7 @@
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
-    "Flags2": 473391478,
+    "Flags2": 0,
     "OuterPosition": {
       "X": 1721.73,
       "Y": 3742.5,
@@ -22773,7 +22773,7 @@
       "ar_birds_hawk_day",
       "ar_fly_infrequent",
       "ar_birds_crow_day",
-      "hash_13fc6e08_mqbtmraaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_13fc6e08_emnacss_collision",
       "ar_birds_hawk_day",
       "ar_birds_quail_day",
       "ar_birds_crow_dusk",
@@ -22782,8 +22782,8 @@
       "ar_crickets_b",
       "ar_crickets_b_far",
       "ar_grasshopper_chirp",
-      "hash_07f7333d_ecguslbaaaaaaaaaaaaaaaaaaaaaaaa_collision",
-      "hash_680714e8_sjwbohaaaaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_07f7333d_kafvozx_collision",
+      "hash_680714e8_rjzjmbb_collision",
       "da_cicada_a",
       "da_cricket_a",
       "da_city_noise_desert"
@@ -22892,7 +22892,7 @@
       "ar_crickets_c_far",
       "ar_coyotes_night",
       "ar_birds_crow_day",
-      "hash_13fc6e08_mqbtmraaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_13fc6e08_emnacss_collision",
       "ar_grasshopper_chirp_and_fly",
       "ar_birds_song_sparrow_dawn",
       "da_cicada_a",
@@ -23280,7 +23280,7 @@
     },
     "AmbientEmitters": [
       "hash_4cd46b8d_evqxqdg_collision",
-      "hash_a08270e7_prfevno_collision",
+      "GAtageProto::scalar",
       "hash_6a6467c0_apzlejx_collision"
     ]
   },
@@ -23641,8 +23641,8 @@
     "AmbientEmitters": [
       "ar_birds_seagulls_24hr",
       "ar_birds_seagulls_day",
-      "hash_0aa3215a_sdggnoaaaaaaaaaaaaaaaaaaaaa_collision",
-      "hash_29026375_tpmvydaaaaaaaaaaaaaaa_collision"
+      "hash_0aa3215a_flkmvw_collision",
+      "hash_29026375_izsokv_collision"
     ]
   },
   {
@@ -24016,8 +24016,8 @@
     "AmbientEmitters": [
       "ar_birds_seagulls_24hr",
       "ar_birds_seagulls_day",
-      "hash_0aa3215a_sdggnoaaaaaaaaaaaaaaaaaaaaa_collision",
-      "hash_29026375_tpmvydaaaaaaaaaaaaaaa_collision"
+      "hash_0aa3215a_flkmvw_collision",
+      "hash_29026375_izsokv_collision"
     ]
   },
   {
@@ -24174,7 +24174,7 @@
     },
     "AmbientEmitters": [
       "hash_4cd46b8d_evqxqdg_collision",
-      "hash_a08270e7_prfevno_collision",
+      "GAtageProto::scalar",
       "hash_6a6467c0_apzlejx_collision"
     ]
   },
@@ -24315,7 +24315,7 @@
       "ar_fly_24hr",
       "ar_flies",
       "hash_21d8fe5e_iluluyh_collision",
-      "hash_9c9df3e6_aginhby_collision",
+      "hash_9c9df3e6_zmxccfa_collision",
       "hash_233e4fb6_pmfovh_collision",
       "hash_c3d790e6_vsiqkpm_collision",
       "hash_b9006b51_lwfqcfg_collision",
@@ -24472,7 +24472,7 @@
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
-    "Flags2": 3404292756,
+    "Flags2": 0,
     "OuterPosition": {
       "X": -1772.0,
       "Y": -607.0,
@@ -24559,9 +24559,9 @@
       "ar_birds_finches_song_day",
       "ar_birds_hawk_day",
       "ar_birds_crow_day",
-      "hash_13fc6e08_mqbtmraaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_13fc6e08_emnacss_collision",
       "ar_birds_goldfinches_day",
-      "hash_dca9c228_fosksraaaaa_collision",
+      "hash_dca9c228_cfbefea_collision",
       "ar_chipmunk",
       "hash_7a168719_aevvgfel_collision",
       "da_city_noise_countryside"
@@ -24640,10 +24640,10 @@
     },
     "AmbientEmitters": [
       "ar_birds_sparrows_town_day",
-      "hash_677dbeee_isikccaaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_677dbeee_qoaffpj_collision",
       "ar_birds_crow_distant",
       "hash_7b426081_qfjrlnea_collision",
-      "hash_f699e7db_alqpttrw_collision",
+      "hash_f699e7db_zlvekyka_collision",
       "hash_be231518_uxrmapm_collision",
       "hash_6decdd6e_cwgsty_collision",
       "da_cicada_a",
@@ -24738,7 +24738,7 @@
       "Z": 10.0
     },
     "AmbientEmitters": [
-      "hash_853cc96c_lfoxbuw_collision"
+      "hash_853cc96c_trainlk_collision"
     ]
   },
   {
@@ -24967,7 +24967,7 @@
       "ar_marina_clanging",
       "ar_marina_splashing",
       "ar_marina_knocking",
-      "hash_a08270e7_prfevno_collision",
+      "GAtageProto::scalar",
       "hash_4cd46b8d_evqxqdg_collision"
     ]
   },
@@ -25077,7 +25077,7 @@
       "ar_birds_hawk_day",
       "ar_fly_infrequent",
       "ar_birds_crow_day",
-      "hash_13fc6e08_mqbtmraaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_13fc6e08_emnacss_collision",
       "ar_birds_hawk_day",
       "ar_birds_quail_day",
       "ar_birds_crow_dusk",
@@ -25086,8 +25086,8 @@
       "ar_crickets_b",
       "ar_crickets_b_far",
       "ar_grasshopper_chirp",
-      "hash_07f7333d_ecguslbaaaaaaaaaaaaaaaaaaaaaaaa_collision",
-      "hash_680714e8_sjwbohaaaaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_07f7333d_kafvozx_collision",
+      "hash_680714e8_rjzjmbb_collision",
       "hash_9e5d4aae_zeeufnb_collision",
       "hash_99411532_sjjxonf_collision",
       "hash_1602dcb9_kquutzm_collision",
@@ -25244,7 +25244,7 @@
       "Z": 47.2
     },
     "AmbientEmitters": [
-      "hash_dc058f73_jygmcvbaaaa_collision",
+      "hash_dc058f73_ndiuwvr_collision",
       "hash_eae1d845_npekqpz_collision",
       "hash_6cd3eae3_nkryqvs_collision"
     ]
@@ -25477,7 +25477,7 @@
     },
     "AmbientEmitters": [
       "hash_4cd46b8d_evqxqdg_collision",
-      "hash_a08270e7_prfevno_collision",
+      "GAtageProto::scalar",
       "hash_6a6467c0_apzlejx_collision"
     ]
   },
@@ -25592,7 +25592,7 @@
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
-    "Flags2": 3404292756,
+    "Flags2": 0,
     "OuterPosition": {
       "X": 942.76,
       "Y": -2052.87,
@@ -27099,7 +27099,7 @@
       "ar_birds_hawk_day",
       "ar_fly_infrequent",
       "ar_birds_crow_day",
-      "hash_13fc6e08_mqbtmraaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_13fc6e08_emnacss_collision",
       "ar_birds_hawk_day",
       "ar_birds_quail_day",
       "ar_birds_crow_dusk",
@@ -27108,8 +27108,8 @@
       "ar_crickets_b",
       "ar_crickets_b_far",
       "ar_grasshopper_chirp",
-      "hash_07f7333d_ecguslbaaaaaaaaaaaaaaaaaaaaaaaa_collision",
-      "hash_680714e8_sjwbohaaaaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_07f7333d_kafvozx_collision",
+      "hash_680714e8_rjzjmbb_collision",
       "hash_99411532_sjjxonf_collision",
       "hash_1602dcb9_kquutzm_collision",
       "hash_aa70cb20_ehnypmf_collision",
@@ -27182,7 +27182,7 @@
       "Z": 1.0
     },
     "AmbientEmitters": [
-      "hash_befb0e15_rvevtraaaaaaaaaaaaa_collision"
+      "hash_befb0e15_rpiyaaba_collision"
     ]
   },
   {
@@ -27243,11 +27243,11 @@
     },
     "AmbientEmitters": [
       "ar_birds_sparrows_town_day",
-      "hash_677dbeee_isikccaaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_677dbeee_qoaffpj_collision",
       "ar_vehicles_truck_horns_day",
       "ar_birds_crow_distant",
       "hash_7b426081_qfjrlnea_collision",
-      "hash_f699e7db_alqpttrw_collision",
+      "hash_f699e7db_zlvekyka_collision",
       "hash_be231518_uxrmapm_collision",
       "hash_6decdd6e_cwgsty_collision",
       "ar_vehicles_brakes_distant",
@@ -27370,7 +27370,7 @@
     },
     "AmbientEmitters": [
       "hash_d0c2c349_qzsttoz_collision",
-      "hash_fc8ffc5c_abridmhs_collision",
+      "hash_fc8ffc5c_pexrfnba_collision",
       "hash_0c91358a_lcrcaev_collision",
       "hash_58f5d95d_amggvysb_collision",
       "ar_construction_welding",
@@ -27825,7 +27825,7 @@
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
-    "Flags2": 473391478,
+    "Flags2": 0,
     "OuterPosition": {
       "X": -125.0,
       "Y": 6325.0,
@@ -28327,10 +28327,10 @@
     },
     "AmbientEmitters": [
       "ar_birds_finches_day",
-      "hash_ae379492_iuwlxbaaaaaaaaaaaa_collision",
+      "hash_ae379492_abboqan_collision",
       "ar_birds_finches_song_day",
       "ar_birds_sparrows_day",
-      "hash_677dbeee_isikccaaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_677dbeee_qoaffpj_collision",
       "ar_crickets_c",
       "ar_crickets_c_far",
       "ar_crickets_g",
@@ -28338,9 +28338,9 @@
       "ar_cicadas_b",
       "ar_birds_hawk_day",
       "ar_birds_crow_day",
-      "hash_13fc6e08_mqbtmraaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_13fc6e08_emnacss_collision",
       "ar_birds_goldfinches_day",
-      "hash_dca9c228_fosksraaaaa_collision",
+      "hash_dca9c228_cfbefea_collision",
       "ar_chipmunk",
       "ar_squirrel",
       "ar_raccoon",
@@ -28348,8 +28348,8 @@
       "ar_crickets_f",
       "ar_crickets_f_far",
       "hash_db9793ea_ipdiywa_collision",
-      "hash_07f7333d_ecguslbaaaaaaaaaaaaaaaaaaaaaaaa_collision",
-      "hash_680714e8_sjwbohaaaaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_07f7333d_kafvozx_collision",
+      "hash_680714e8_rjzjmbb_collision",
       "da_cicada_a",
       "da_cricket_a",
       "da_city_noise_countryside"
@@ -28442,7 +28442,7 @@
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
-    "Flags2": 3404292756,
+    "Flags2": 0,
     "OuterPosition": {
       "X": 1139.0,
       "Y": -599.0,
@@ -28494,12 +28494,12 @@
       "Z": 2.0
     },
     "AmbientEmitters": [
-      "hash_bb133463_ygccbeaaa_collision",
-      "hash_4925aa41_mpfforaaaaa_collision",
-      "hash_faf67a6e_kxuoaxaaaaaaaaaaaaaaaaaaaaaaaa_collision",
-      "hash_8a7b8709_guczaeaaaaaaaaaaaa_collision",
+      "hash_bb133463_aiyityaz_collision",
+      "hash_4925aa41_bhkhwfg_collision",
+      "hash_faf67a6e_edklmnj_collision",
+      "hash_8a7b8709_ofeoxrd_collision",
       "hash_92ca62b0_askpgvsm_collision",
-      "hash_2e5a0430_oynvapaaaaaaaa_collision",
+      "hash_2e5a0430_vamxmro_collision",
       "hash_1285e229_xouflan_collision",
       "hash_3dc7b8ac_rbprwp_collision",
       "hash_74d31b89_xwuonlf_collision",
@@ -28541,7 +28541,7 @@
       "Z": 20.0
     },
     "AmbientEmitters": [
-      "hash_9946a5e9_oswdfuaaaaaaa_collision",
+      "hash_9946a5e9_mbazdlu_collision",
       "hash_80b10e08_oayualf_collision",
       "hash_41d8c5ff_brbncra_collision",
       "hash_27e36ec1_cxtxdny_collision",
@@ -28591,12 +28591,12 @@
       "hash_ea54ccd7_luwpxdm_collision",
       "ar_coyotes_night",
       "ar_birds_crow_day",
-      "hash_13fc6e08_mqbtmraaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_13fc6e08_emnacss_collision",
       "ar_birds_owl_night",
       "ar_grasshopper_chirp_and_fly",
       "ar_grasshopper_fly",
-      "hash_07f7333d_ecguslbaaaaaaaaaaaaaaaaaaaaaaaa_collision",
-      "hash_680714e8_sjwbohaaaaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_07f7333d_kafvozx_collision",
+      "hash_680714e8_rjzjmbb_collision",
       "da_cicada_a",
       "da_cricket_h",
       "da_city_noise_desert"
@@ -28692,7 +28692,7 @@
       "ar_fly_24hr",
       "ar_trash_rustle_light",
       "ar_trash_rustle",
-      "hash_a41ea7ac_erjjwgu_collision"
+      "hash_a41ea7ac_hfnepwe_collision"
     ]
   },
   {
@@ -29111,8 +29111,8 @@
       "hash_74ac29d6_yydzfnd_collision",
       "ar_birds_crow_day",
       "ar_birds_crow_distant",
-      "hash_07f7333d_ecguslbaaaaaaaaaaaaaaaaaaaaaaaa_collision",
-      "hash_680714e8_sjwbohaaaaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_07f7333d_kafvozx_collision",
+      "hash_680714e8_rjzjmbb_collision",
       "da_cicada_a",
       "da_cricket_h",
       "da_city_noise_countryside"
@@ -29379,7 +29379,7 @@
       "Z": 5.0
     },
     "AmbientEmitters": [
-      "hash_fc8ffc5c_abridmhs_collision",
+      "hash_fc8ffc5c_pexrfnba_collision",
       "hash_d0c2c349_qzsttoz_collision",
       "hash_0c91358a_lcrcaev_collision",
       "hash_58f5d95d_amggvysb_collision",
@@ -29522,7 +29522,7 @@
       "hash_6a6467c0_apzlejx_collision",
       "hash_b564266b_pazcega_collision",
       "ar_marina_splashing",
-      "hash_a08270e7_prfevno_collision",
+      "GAtageProto::scalar",
       "hash_4cd46b8d_evqxqdg_collision"
     ]
   },
@@ -29713,7 +29713,7 @@
     },
     "AmbientEmitters": [
       "hash_5a1ec579_elpygui_collision",
-      "hash_dc058f73_jygmcvbaaaa_collision",
+      "hash_dc058f73_ndiuwvr_collision",
       "hash_b49647f9_bwxvuzv_collision"
     ]
   },
@@ -30277,12 +30277,12 @@
       "hash_ea54ccd7_luwpxdm_collision",
       "ar_coyotes_night",
       "ar_birds_crow_day",
-      "hash_13fc6e08_mqbtmraaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_13fc6e08_emnacss_collision",
       "ar_birds_owl_night",
       "ar_grasshopper_chirp_and_fly",
       "ar_grasshopper_fly",
-      "hash_07f7333d_ecguslbaaaaaaaaaaaaaaaaaaaaaaaa_collision",
-      "hash_680714e8_sjwbohaaaaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_07f7333d_kafvozx_collision",
+      "hash_680714e8_rjzjmbb_collision",
       "da_cicada_a",
       "da_cricket_h",
       "da_city_noise_desert"
@@ -30376,7 +30376,7 @@
     },
     "AmbientEmitters": [
       "hash_4cd46b8d_evqxqdg_collision",
-      "hash_a08270e7_prfevno_collision",
+      "GAtageProto::scalar",
       "hash_6a6467c0_apzlejx_collision"
     ]
   },
@@ -30409,8 +30409,8 @@
     "AmbientEmitters": [
       "ar_birds_seagulls_24hr",
       "ar_birds_seagulls_day",
-      "hash_0aa3215a_sdggnoaaaaaaaaaaaaaaaaaaaaa_collision",
-      "hash_29026375_tpmvydaaaaaaaaaaaaaaa_collision"
+      "hash_0aa3215a_flkmvw_collision",
+      "hash_29026375_izsokv_collision"
     ]
   },
   {
@@ -30667,7 +30667,7 @@
       "Z": 9.0
     },
     "AmbientEmitters": [
-      "hash_dc058f73_jygmcvbaaaa_collision",
+      "hash_dc058f73_ndiuwvr_collision",
       "hash_65da5cec_lwipyw_collision",
       "hash_137049e6_qahjhuga_collision"
     ]
@@ -30947,10 +30947,10 @@
     },
     "AmbientEmitters": [
       "ar_birds_finches_day",
-      "hash_ae379492_iuwlxbaaaaaaaaaaaa_collision",
+      "hash_ae379492_abboqan_collision",
       "ar_birds_finches_song_day",
       "ar_birds_sparrows_day",
-      "hash_677dbeee_isikccaaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_677dbeee_qoaffpj_collision",
       "ar_crickets_c",
       "ar_crickets_c_far",
       "ar_crickets_g",
@@ -30958,9 +30958,9 @@
       "ar_cicadas_b",
       "ar_birds_hawk_day",
       "ar_birds_crow_day",
-      "hash_13fc6e08_mqbtmraaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_13fc6e08_emnacss_collision",
       "ar_birds_goldfinches_day",
-      "hash_dca9c228_fosksraaaaa_collision",
+      "hash_dca9c228_cfbefea_collision",
       "ar_chipmunk",
       "ar_squirrel",
       "ar_raccoon",
@@ -30968,8 +30968,8 @@
       "ar_crickets_f",
       "ar_crickets_f_far",
       "hash_74ac29d6_yydzfnd_collision",
-      "hash_07f7333d_ecguslbaaaaaaaaaaaaaaaaaaaaaaaa_collision",
-      "hash_680714e8_sjwbohaaaaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_07f7333d_kafvozx_collision",
+      "hash_680714e8_rjzjmbb_collision",
       "da_cicada_a",
       "da_cricket_a",
       "da_city_noise_forest"
@@ -31592,8 +31592,8 @@
       "ar_katydids",
       "ar_birds_crow_day",
       "ar_birds_crow_distant",
-      "hash_07f7333d_ecguslbaaaaaaaaaaaaaaaaaaaaaaaa_collision",
-      "hash_680714e8_sjwbohaaaaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_07f7333d_kafvozx_collision",
+      "hash_680714e8_rjzjmbb_collision",
       "da_cicada_a",
       "da_cricket_h",
       "da_city_noise_countryside"
@@ -31887,12 +31887,12 @@
       "hash_ea54ccd7_luwpxdm_collision",
       "ar_coyotes_night",
       "ar_birds_crow_day",
-      "hash_13fc6e08_mqbtmraaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_13fc6e08_emnacss_collision",
       "ar_birds_owl_night",
       "ar_grasshopper_chirp_and_fly",
       "ar_grasshopper_fly",
-      "hash_07f7333d_ecguslbaaaaaaaaaaaaaaaaaaaaaaaa_collision",
-      "hash_680714e8_sjwbohaaaaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_07f7333d_kafvozx_collision",
+      "hash_680714e8_rjzjmbb_collision",
       "da_cicada_a",
       "da_cricket_h",
       "da_city_noise_desert"
@@ -32121,7 +32121,7 @@
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
-    "Flags2": 1627927312,
+    "Flags2": 0,
     "OuterPosition": {
       "X": 115.0,
       "Y": -81.0,
@@ -32308,7 +32308,7 @@
     },
     "AmbientEmitters": [
       "hash_4cd46b8d_evqxqdg_collision",
-      "hash_a08270e7_prfevno_collision",
+      "GAtageProto::scalar",
       "hash_6a6467c0_apzlejx_collision"
     ]
   },
@@ -32438,8 +32438,8 @@
       "Z": 100.0
     },
     "AmbientEmitters": [
-      "hash_677dbeee_isikccaaaaaaaaaaaaaaaaaaaa_collision",
-      "hash_13fc6e08_mqbtmraaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_677dbeee_qoaffpj_collision",
+      "hash_13fc6e08_emnacss_collision",
       "ar_crickets_c_far",
       "ar_crickets_g_far",
       "ar_crickets_c",
@@ -32975,7 +32975,7 @@
       "ar_cicadas_b",
       "ar_fly_infrequent",
       "ar_birds_crow_day",
-      "hash_13fc6e08_mqbtmraaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_13fc6e08_emnacss_collision",
       "ar_birds_hawk_day",
       "ar_birds_quail_day",
       "ar_birds_crow_dusk",
@@ -32984,8 +32984,8 @@
       "ar_grasshopper_chirp",
       "ar_birds_salton_cheep",
       "ar_birds_salton_peep",
-      "hash_07f7333d_ecguslbaaaaaaaaaaaaaaaaaaaaaaaa_collision",
-      "hash_680714e8_sjwbohaaaaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_07f7333d_kafvozx_collision",
+      "hash_680714e8_rjzjmbb_collision",
       "hash_349f4c84_qxlnfn_collision",
       "hash_3ee96118_aegwynqq_collision",
       "hash_33e08566_avmyxxf_collision",
@@ -37277,9 +37277,9 @@
       "ar_dlc_hei_acc_metal_creaking",
       "ar_dlc_hei_oneshot_industrial_bangs_carrier",
       "ar_dlc_hei_acc_radar_dish",
-      "hash_29026375_tpmvydaaaaaaaaaaaaaaa_collision",
+      "hash_29026375_izsokv_collision",
       "ar_birds_seagulls_24hr",
-      "hash_0aa3215a_sdggnoaaaaaaaaaaaaaaaaaaaaa_collision",
+      "hash_0aa3215a_flkmvw_collision",
       "ar_dlc_hei_acc_gun_turret_01",
       "ar_dlc_hei_acc_gun_turret_02",
       "ar_dlc_hei_acc_gun_turret_03",
@@ -38290,7 +38290,7 @@
     },
     "AmbientEmitters": [
       "hash_4cd46b8d_evqxqdg_collision",
-      "hash_a08270e7_prfevno_collision",
+      "GAtageProto::scalar",
       "hash_6a6467c0_apzlejx_collision"
     ]
   },
@@ -38362,7 +38362,7 @@
     },
     "AmbientEmitters": [
       "hash_4cd46b8d_evqxqdg_collision",
-      "hash_a08270e7_prfevno_collision",
+      "GAtageProto::scalar",
       "hash_6a6467c0_apzlejx_collision"
     ]
   },
@@ -38471,7 +38471,7 @@
     },
     "AmbientEmitters": [
       "hash_4cd46b8d_evqxqdg_collision",
-      "hash_a08270e7_prfevno_collision",
+      "GAtageProto::scalar",
       "hash_6a6467c0_apzlejx_collision"
     ]
   },
@@ -39423,7 +39423,7 @@
     },
     "AmbientEmitters": [
       "hash_4cd46b8d_evqxqdg_collision",
-      "hash_a08270e7_prfevno_collision",
+      "GAtageProto::scalar",
       "hash_6a6467c0_apzlejx_collision"
     ]
   },
@@ -39809,7 +39809,7 @@
     },
     "AmbientEmitters": [
       "hash_4cd46b8d_evqxqdg_collision",
-      "hash_a08270e7_prfevno_collision",
+      "GAtageProto::scalar",
       "hash_6a6467c0_apzlejx_collision"
     ]
   },
@@ -40029,7 +40029,7 @@
     },
     "AmbientEmitters": [
       "hash_4cd46b8d_evqxqdg_collision",
-      "hash_a08270e7_prfevno_collision",
+      "GAtageProto::scalar",
       "hash_6a6467c0_apzlejx_collision"
     ]
   },
@@ -40582,7 +40582,7 @@
     },
     "AmbientEmitters": [
       "hash_4cd46b8d_evqxqdg_collision",
-      "hash_a08270e7_prfevno_collision",
+      "GAtageProto::scalar",
       "hash_6a6467c0_apzlejx_collision"
     ]
   },
@@ -40771,7 +40771,7 @@
     },
     "AmbientEmitters": [
       "hash_4cd46b8d_evqxqdg_collision",
-      "hash_a08270e7_prfevno_collision",
+      "GAtageProto::scalar",
       "hash_6a6467c0_apzlejx_collision"
     ]
   },

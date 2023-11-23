@@ -6,7 +6,7 @@ This is a collection of various GTA V data dumps mostly useful for modding &amp;
 [![Pleb Masters Forge Logo](https://i.imgur.com/hotlSPf.png)](https://forge.plebmasters.de)
 [![Durty Map Editor Logo](https://i.imgur.com/WsRJv3u.png)](https://durty.me)
 
-## All data up2date as of GTA V update: **v2944 (Online 1.67) [DLC: mp2023_01_g9ec]**
+## All data up2date as of GTA V update: **v3028 (Online 1.67) [DLC: mp2023_01_g9ec]**
 ---
 ### Please create an issue if you have any problems with the data, so I can improve my generator. You are also welcome to create issues for dumps you would like to see.
 ---

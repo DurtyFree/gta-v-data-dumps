@@ -9954,95 +9954,6 @@
     "Alarm": ""
   },
   {
-    "Name": "se_xm3_dlc_int_02_xm3_radioemitter",
-    "Position": {
-      "X": 523.0,
-      "Y": -2634.0,
-      "Z": -49.0
-    },
-    "Flags": [
-      "FLAG_ID_STATICEMITTER_ENABLED",
-      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
-      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
-      "FLAG_ID_STATICEMITTER_MAX"
-    ],
-    "Interior": "xm3_dlc_int_02_xm3",
-    "Room": "xm3_dlc_int_02_xm3_gtamloroom001",
-    "RadioStation": "HIDDEN_RADIO_01_CLASS_ROCK",
-    "Alarm": ""
-  },
-  {
-    "Name": "se_xm3_dlc_int_01_xm3_radioemitter",
-    "Position": {
-      "X": 483.1,
-      "Y": -2623.1,
-      "Z": -48.9
-    },
-    "Flags": [
-      "FLAG_ID_STATICEMITTER_ENABLED",
-      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
-      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
-      "FLAG_ID_STATICEMITTER_MAX"
-    ],
-    "Interior": "xm3_dlc_int_01_xm3",
-    "Room": "xm3_dlc_int_01_xm3_main_room",
-    "RadioStation": "radio_34_dlc_hei4_kult",
-    "Alarm": ""
-  },
-  {
-    "Name": "se_xm3_dlc_int_03_xm3_radioemitter_main_area",
-    "Position": {
-      "X": 561.5,
-      "Y": -420.0,
-      "Z": -66.0
-    },
-    "Flags": [
-      "FLAG_ID_STATICEMITTER_ENABLED",
-      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
-      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
-      "FLAG_ID_STATICEMITTER_MAX"
-    ],
-    "Interior": "xm3_dlc_int_03_xm3",
-    "Room": "xm3_dlc_int_03_xm3_intwaremed_room",
-    "RadioStation": "HIDDEN_RADIO_03_HIPHOP_NEW",
-    "Alarm": ""
-  },
-  {
-    "Name": "se_xm3_dlc_lab_radioemitter_exterior",
-    "Position": {
-      "X": 591.0,
-      "Y": -417.0,
-      "Z": 26.2
-    },
-    "Flags": [
-      "FLAG_ID_STATICEMITTER_ENABLED",
-      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
-      "FLAG_ID_STATICEMITTER_MAX"
-    ],
-    "Interior": "",
-    "Room": "",
-    "RadioStation": "HIDDEN_RADIO_03_HIPHOP_NEW",
-    "Alarm": ""
-  },
-  {
-    "Name": "se_xm3_dlc_int_03_xm3_radioemitter_office",
-    "Position": {
-      "X": 556.9,
-      "Y": -414.5,
-      "Z": -68.9
-    },
-    "Flags": [
-      "FLAG_ID_STATICEMITTER_ENABLED",
-      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
-      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
-      "FLAG_ID_STATICEMITTER_MAX"
-    ],
-    "Interior": "xm3_dlc_int_03_xm3",
-    "Room": "xm3_dlc_int_03_xm3_intwaremed_office",
-    "RadioStation": "HIDDEN_RADIO_03_HIPHOP_NEW",
-    "Alarm": ""
-  },
-  {
     "Name": "se_dlc_aw_xs_x18_int_mod2_garage_radio",
     "Position": {
       "X": 172.9,
@@ -10177,6 +10088,95 @@
     "Alarm": ""
   },
   {
+    "Name": "se_xm3_dlc_int_02_xm3_radioemitter",
+    "Position": {
+      "X": 523.0,
+      "Y": -2634.0,
+      "Z": -49.0
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "xm3_dlc_int_02_xm3",
+    "Room": "xm3_dlc_int_02_xm3_gtamloroom001",
+    "RadioStation": "HIDDEN_RADIO_01_CLASS_ROCK",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_xm3_dlc_int_01_xm3_radioemitter",
+    "Position": {
+      "X": 483.1,
+      "Y": -2623.1,
+      "Z": -48.9
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "xm3_dlc_int_01_xm3",
+    "Room": "xm3_dlc_int_01_xm3_main_room",
+    "RadioStation": "radio_34_dlc_hei4_kult",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_xm3_dlc_int_03_xm3_radioemitter_main_area",
+    "Position": {
+      "X": 561.5,
+      "Y": -420.0,
+      "Z": -66.0
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "xm3_dlc_int_03_xm3",
+    "Room": "xm3_dlc_int_03_xm3_intwaremed_room",
+    "RadioStation": "HIDDEN_RADIO_03_HIPHOP_NEW",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_xm3_dlc_lab_radioemitter_exterior",
+    "Position": {
+      "X": 591.0,
+      "Y": -417.0,
+      "Z": 26.2
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "",
+    "Room": "",
+    "RadioStation": "HIDDEN_RADIO_03_HIPHOP_NEW",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_xm3_dlc_int_03_xm3_radioemitter_office",
+    "Position": {
+      "X": 556.9,
+      "Y": -414.5,
+      "Z": -68.9
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "xm3_dlc_int_03_xm3",
+    "Room": "xm3_dlc_int_03_xm3_intwaremed_office",
+    "RadioStation": "HIDDEN_RADIO_03_HIPHOP_NEW",
+    "Alarm": ""
+  },
+  {
     "Name": "se_xm_int_02_lounge_radio",
     "Position": {
       "X": 361.0,
@@ -10263,6 +10263,131 @@
     "Interior": "xm_x17dlc_int_sub",
     "Room": "xm_x17dlc_int_sub_rm_command",
     "RadioStation": "",
+    "Alarm": ""
+  },
+  {
+    "Name": "dlc_h3_fm_cashier_radio_03",
+    "Position": {
+      "X": -1985.0,
+      "Y": 246.0,
+      "Z": 87.0
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_FILLSINTERIORSPACE",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "",
+    "Room": "",
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01",
+    "Alarm": ""
+  },
+  {
+    "Name": "dlc_h3_arcade_planning_room_radio_emitter",
+    "Position": {
+      "X": 2717.0,
+      "Y": -363.0,
+      "Z": -53.3
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "ch_dlc_plan",
+    "Room": "ch_dlc_plan_main_rm",
+    "RadioStation": "hidden_radio_arcade_edm",
+    "Alarm": ""
+  },
+  {
+    "Name": "dlc_h3_arcade_main_area_music_emitter",
+    "Position": {
+      "X": 2721.0,
+      "Y": -381.0,
+      "Z": -48.0
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "ch_dlc_arcade",
+    "Room": "ch_dlc_arcade_mainw_rm",
+    "RadioStation": "hidden_radio_arcade_edm",
+    "Alarm": ""
+  },
+  {
+    "Name": "dlc_h3_fm_cashier_radio_02",
+    "Position": {
+      "X": -1221.0,
+      "Y": 628.0,
+      "Z": 138.0
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_FILLSINTERIORSPACE",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "",
+    "Room": "",
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01",
+    "Alarm": ""
+  },
+  {
+    "Name": "dlc_h3_fm_cashier_radio_04",
+    "Position": {
+      "X": -1984.0,
+      "Y": 228.0,
+      "Z": 87.0
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_FILLSINTERIORSPACE",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "",
+    "Room": "",
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01",
+    "Alarm": ""
+  },
+  {
+    "Name": "dlc_h3_fm_cashier_radio_01",
+    "Position": {
+      "X": -1226.0,
+      "Y": 622.0,
+      "Z": 138.0
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_FILLSINTERIORSPACE",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "",
+    "Room": "",
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01",
+    "Alarm": ""
+  },
+  {
+    "Name": "dlc_h3_fm_prep_explosives_radio",
+    "Position": {
+      "X": 1742.0,
+      "Y": 3863.0,
+      "Z": 36.0
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_FILLSINTERIORSPACE",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "",
+    "Room": "",
+    "RadioStation": "HIDDEN_RADIO_06_COUNTRY",
     "Alarm": ""
   },
   {
@@ -11502,131 +11627,6 @@
     "Interior": "hei_dlc_apart_high_new",
     "Room": "hash_051d0372_omlqzrw_collision",
     "RadioStation": "Los Santos Rock Radio",
-    "Alarm": ""
-  },
-  {
-    "Name": "dlc_h3_fm_cashier_radio_03",
-    "Position": {
-      "X": -1985.0,
-      "Y": 246.0,
-      "Z": 87.0
-    },
-    "Flags": [
-      "FLAG_ID_STATICEMITTER_ENABLED",
-      "FLAG_ID_STATICEMITTER_FILLSINTERIORSPACE",
-      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
-      "FLAG_ID_STATICEMITTER_MAX"
-    ],
-    "Interior": "",
-    "Room": "",
-    "RadioStation": "HIDDEN_RADIO_07_DANCE_01",
-    "Alarm": ""
-  },
-  {
-    "Name": "dlc_h3_arcade_planning_room_radio_emitter",
-    "Position": {
-      "X": 2717.0,
-      "Y": -363.0,
-      "Z": -53.3
-    },
-    "Flags": [
-      "FLAG_ID_STATICEMITTER_ENABLED",
-      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
-      "FLAG_ID_STATICEMITTER_MAX"
-    ],
-    "Interior": "ch_dlc_plan",
-    "Room": "ch_dlc_plan_main_rm",
-    "RadioStation": "hidden_radio_arcade_edm",
-    "Alarm": ""
-  },
-  {
-    "Name": "dlc_h3_arcade_main_area_music_emitter",
-    "Position": {
-      "X": 2721.0,
-      "Y": -381.0,
-      "Z": -48.0
-    },
-    "Flags": [
-      "FLAG_ID_STATICEMITTER_ENABLED",
-      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
-      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
-      "FLAG_ID_STATICEMITTER_MAX"
-    ],
-    "Interior": "ch_dlc_arcade",
-    "Room": "ch_dlc_arcade_mainw_rm",
-    "RadioStation": "hidden_radio_arcade_edm",
-    "Alarm": ""
-  },
-  {
-    "Name": "dlc_h3_fm_cashier_radio_02",
-    "Position": {
-      "X": -1221.0,
-      "Y": 628.0,
-      "Z": 138.0
-    },
-    "Flags": [
-      "FLAG_ID_STATICEMITTER_ENABLED",
-      "FLAG_ID_STATICEMITTER_FILLSINTERIORSPACE",
-      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
-      "FLAG_ID_STATICEMITTER_MAX"
-    ],
-    "Interior": "",
-    "Room": "",
-    "RadioStation": "HIDDEN_RADIO_07_DANCE_01",
-    "Alarm": ""
-  },
-  {
-    "Name": "dlc_h3_fm_cashier_radio_04",
-    "Position": {
-      "X": -1984.0,
-      "Y": 228.0,
-      "Z": 87.0
-    },
-    "Flags": [
-      "FLAG_ID_STATICEMITTER_ENABLED",
-      "FLAG_ID_STATICEMITTER_FILLSINTERIORSPACE",
-      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
-      "FLAG_ID_STATICEMITTER_MAX"
-    ],
-    "Interior": "",
-    "Room": "",
-    "RadioStation": "HIDDEN_RADIO_07_DANCE_01",
-    "Alarm": ""
-  },
-  {
-    "Name": "dlc_h3_fm_cashier_radio_01",
-    "Position": {
-      "X": -1226.0,
-      "Y": 622.0,
-      "Z": 138.0
-    },
-    "Flags": [
-      "FLAG_ID_STATICEMITTER_ENABLED",
-      "FLAG_ID_STATICEMITTER_FILLSINTERIORSPACE",
-      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
-      "FLAG_ID_STATICEMITTER_MAX"
-    ],
-    "Interior": "",
-    "Room": "",
-    "RadioStation": "HIDDEN_RADIO_07_DANCE_01",
-    "Alarm": ""
-  },
-  {
-    "Name": "dlc_h3_fm_prep_explosives_radio",
-    "Position": {
-      "X": 1742.0,
-      "Y": 3863.0,
-      "Z": 36.0
-    },
-    "Flags": [
-      "FLAG_ID_STATICEMITTER_ENABLED",
-      "FLAG_ID_STATICEMITTER_FILLSINTERIORSPACE",
-      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
-      "FLAG_ID_STATICEMITTER_MAX"
-    ],
-    "Interior": "",
-    "Room": "",
-    "RadioStation": "HIDDEN_RADIO_06_COUNTRY",
     "Alarm": ""
   },
   {
@@ -14751,6 +14751,110 @@
     "Interior": "m23_1_dlc_int_02_m23_1",
     "Room": "m23_1_dlc_int_02_m23_1_warehouse_medium",
     "RadioStation": "Los Santos Rock Radio",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_m23_2_dlc_int_salvage_radioemitter_shop_floor_01",
+    "Position": {
+      "X": 1095.59,
+      "Y": -2266.24,
+      "Z": -45.76
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m23_2_dlc_int_salvage",
+    "Room": "m23_2_dlc_int_salvage_shop_floor",
+    "RadioStation": "HIDDEN_RADIO_03_HIPHOP_NEW",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_m23_2_dlc_int_salvage_radioemitter_shop_floor_04",
+    "Position": {
+      "X": 1079.54,
+      "Y": -2266.19,
+      "Z": -45.79
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m23_2_dlc_int_salvage",
+    "Room": "m23_2_dlc_int_salvage_shop_floor",
+    "RadioStation": "HIDDEN_RADIO_03_HIPHOP_NEW",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_m23_2_dlc_int_salvage_radioemitter_shop_floor_02",
+    "Position": {
+      "X": 1095.58,
+      "Y": -2284.75,
+      "Z": -45.74
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m23_2_dlc_int_salvage",
+    "Room": "m23_2_dlc_int_salvage_shop_floor",
+    "RadioStation": "HIDDEN_RADIO_03_HIPHOP_NEW",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_m23_2_dlc_int_salvage_radioemitter_shop_floor_03",
+    "Position": {
+      "X": 1087.6,
+      "Y": -2284.78,
+      "Z": -45.76
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m23_2_dlc_int_salvage",
+    "Room": "m23_2_dlc_int_salvage_shop_floor",
+    "RadioStation": "HIDDEN_RADIO_03_HIPHOP_NEW",
+    "Alarm": ""
+  },
+  {
+    "Name": "dlc_23_2_casino_floor_muffled_emitter_01",
+    "Position": {
+      "X": 828.8,
+      "Y": -2195.0,
+      "Z": -44.6
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m23_2_dlc_int_casinobase",
+    "Room": "m23_2_dlc_int_casinobase_podium_room",
+    "RadioStation": "",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_m23_2_dlc_int_salvage_radioemitter_shop_office_01",
+    "Position": {
+      "X": 1075.0,
+      "Y": -2282.0,
+      "Z": -45.7
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m23_2_dlc_int_salvage",
+    "Room": "m23_2_dlc_int_salvage_shop_office",
+    "RadioStation": "HIDDEN_RADIO_03_HIPHOP_NEW",
     "Alarm": ""
   }
 ]

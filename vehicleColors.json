@@ -1912,6 +1912,167 @@
       "TranslatedLabel": null,
       "FontColorHex": "FF000000",
       "FontOutlineColorHex": "FF2BFF05"
+    },
+    {
+      "Index": 6,
+      "Name": "3415587924",
+      "TranslatedLabel": {
+        "Hash": 4254428142,
+        "English": "eCola",
+        "German": "eCola",
+        "French": "eCola",
+        "Italian": "eCola",
+        "Russian": "eCola",
+        "Polish": "eCola",
+        "Name": null,
+        "TraditionalChinese": "Eµ可樂",
+        "SimplifiedChinese": "易可乐",
+        "Spanish": "eCola",
+        "Japanese": "「eCola」",
+        "Korean": "이콜라",
+        "Portuguese": "eCola",
+        "Mexican": "eCola"
+      },
+      "FontColorHex": "FFFEFEFE",
+      "FontOutlineColorHex": "FFBBBBBB"
+    },
+    {
+      "Index": 7,
+      "Name": "238109074",
+      "TranslatedLabel": {
+        "Hash": 2568856316,
+        "English": "Las Venturas",
+        "German": "Las Venturas",
+        "French": "Las Venturas",
+        "Italian": "Las Venturas",
+        "Russian": "Las Venturas",
+        "Polish": "Las Venturas",
+        "Name": null,
+        "TraditionalChinese": "拉斯紋查斯",
+        "SimplifiedChinese": "拉斯文加斯",
+        "Spanish": "Las Venturas",
+        "Japanese": "ラスベンチュラス",
+        "Korean": "라스 벤투라스",
+        "Portuguese": "Las Venturas",
+        "Mexican": "Las Venturas"
+      },
+      "FontColorHex": "FF011866",
+      "FontOutlineColorHex": "FF82A2BB"
+    },
+    {
+      "Index": 8,
+      "Name": "2417608029",
+      "TranslatedLabel": {
+        "Hash": 2327840321,
+        "English": "Liberty City",
+        "German": "Liberty City",
+        "French": "Liberty City",
+        "Italian": "Liberty City",
+        "Russian": "Liberty City",
+        "Polish": "Liberty City",
+        "Name": null,
+        "TraditionalChinese": "自由市",
+        "SimplifiedChinese": "自由市",
+        "Spanish": "Liberty City",
+        "Japanese": "リバティーシティ",
+        "Korean": "리버티 시티",
+        "Portuguese": "Liberty City",
+        "Mexican": "Liberty City"
+      },
+      "FontColorHex": "FF0D147E",
+      "FontOutlineColorHex": "FF000000"
+    },
+    {
+      "Index": 9,
+      "Name": "2697684672",
+      "TranslatedLabel": {
+        "Hash": 3298064873,
+        "English": "LS Car Meet",
+        "German": "LS Car Meet",
+        "French": "Salon auto de LS",
+        "Italian": "Autoraduno di LS",
+        "Russian": "LS Car Meet",
+        "Polish": "Klub samochodowy LS",
+        "Name": null,
+        "TraditionalChinese": "洛聖都車聚",
+        "SimplifiedChinese": "洛圣都车友会",
+        "Spanish": "Club automovilístico de LS",
+        "Japanese": "LSカーミーティング",
+        "Korean": "LS 자동차 모임",
+        "Portuguese": "Evento de Carros LS",
+        "Mexican": "Club de coches de LS"
+      },
+      "FontColorHex": "FF000000",
+      "FontOutlineColorHex": "FF000000"
+    },
+    {
+      "Index": 10,
+      "Name": "1922959974",
+      "TranslatedLabel": {
+        "Hash": 68517854,
+        "English": "LS Panic",
+        "German": "LS Panic",
+        "French": "LS Panic",
+        "Italian": "LS Panic",
+        "Russian": "LS Panic",
+        "Polish": "LS Panic",
+        "Name": "CMOD_PLA_10",
+        "TraditionalChinese": "洛聖都顫慄隊",
+        "SimplifiedChinese": "洛圣都颤栗队",
+        "Spanish": "LS Panic",
+        "Japanese": "LSパニック",
+        "Korean": "LS 패닉",
+        "Portuguese": "LS Panic",
+        "Mexican": "LS Panic"
+      },
+      "FontColorHex": "FFFED40E",
+      "FontOutlineColorHex": "FF552E7F"
+    },
+    {
+      "Index": 11,
+      "Name": "2235084699",
+      "TranslatedLabel": {
+        "Hash": 4001322162,
+        "English": "LS Pounders",
+        "German": "LS Pounders",
+        "French": "LS Pounders",
+        "Italian": "LS Pounders",
+        "Russian": "LS Pounders",
+        "Polish": "LS Pounders",
+        "Name": null,
+        "TraditionalChinese": "洛聖都搗蛋鬼隊",
+        "SimplifiedChinese": "洛圣都捣蛋者队",
+        "Spanish": "LS Pounders",
+        "Japanese": "LSパウンダーズ",
+        "Korean": "LS 파운더즈",
+        "Portuguese": "LS Pounders",
+        "Mexican": "LS Pounders"
+      },
+      "FontColorHex": "FFF4BB2E",
+      "FontOutlineColorHex": "FF000000"
+    },
+    {
+      "Index": 12,
+      "Name": "1439453379",
+      "TranslatedLabel": {
+        "Hash": 2696001812,
+        "English": "Sprunk",
+        "German": "Sprunk",
+        "French": "Sprunk",
+        "Italian": "Sprunk",
+        "Russian": "Sprunk",
+        "Polish": "Sprunk",
+        "Name": null,
+        "TraditionalChinese": "霜碧",
+        "SimplifiedChinese": "霜碧",
+        "Spanish": "Sprunk",
+        "Japanese": "「Sprunk」",
+        "Korean": "스프렁크",
+        "Portuguese": "Sprunk",
+        "Mexican": "Sprunk"
+      },
+      "FontColorHex": "FFFEFEFE",
+      "FontOutlineColorHex": "FF39D363"
     }
   ]
 }

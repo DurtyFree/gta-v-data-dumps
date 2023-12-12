@@ -4410,6 +4410,101 @@
     "ModificationsCount": 34
   },
   {
+    "Name": "DLC_mp2023_02_Casino_Podium",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 26
+  },
+  {
+    "Name": "DLC_mp2023_02_Casino_Storage",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 49
+  },
+  {
+    "Name": "DLC_mp2023_02_SalvageYard",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 50
+  },
+  {
+    "Name": "DLC_mp2023_02_Chicken_Warehouse",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 132
+  },
+  {
+    "Name": "DLC_mp2023_02_Salvage_Office",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 46
+  },
+  {
+    "Name": "DLC_mp2023_02_Garage",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 47
+  },
+  {
+    "Name": "DLC_mp2023_02_Salvage_sphere",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 5
+  },
+  {
+    "Name": "DLC_mp2023_02_cargoship_bridge",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 24
+  },
+  {
+    "Name": "DLC_mp2023_02_Garage_b1",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 47
+  },
+  {
+    "Name": "DLC_mp2023_02_Garage_b3",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 47
+  },
+  {
+    "Name": "DLC_mp2023_02_Garage_b4",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 47
+  },
+  {
+    "Name": "DLC_mp2023_02_Garage_b5",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 47
+  },
+  {
+    "Name": "DLC_mp2023_CS_Garage",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 4
+  },
+  {
+    "Name": "DLC_mp2023_counterfeit",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 29
+  },
+  {
+    "Name": "DLC_mp2023_02_cargoship_door",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 14
+  },
+  {
+    "Name": "DLC_mp2023_02_maze_rob",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 132
+  },
+  {
+    "Name": "DLC_mp2023_02_casino_rob",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 39
+  },
+  {
+    "Name": "DLC_mp2023_02_Race_AO",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 3
+  },
+  {
+    "Name": "DLC_mp2023_02_Maze_Shad",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 1
+  },
+  {
     "Name": "AP1_01_C_NoFog",
     "DlcName": "TitleUpdate",
     "ModificationsCount": 3
@@ -5083,6 +5178,26 @@
     "Name": "Dax_TripBlend02",
     "DlcName": "TitleUpdate",
     "ModificationsCount": 4
+  },
+  {
+    "Name": "DragRaceGearBad",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 30
+  },
+  {
+    "Name": "DragRaceGearGood",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 30
+  },
+  {
+    "Name": "DragRaceGearPerf",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 30
+  },
+  {
+    "Name": "DragRaceBloom",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 2
   },
   {
     "Name": "li",

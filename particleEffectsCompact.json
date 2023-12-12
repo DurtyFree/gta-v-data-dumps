@@ -3332,6 +3332,97 @@
     ]
   },
   {
+    "DictionaryName": "cut_sv",
+    "EffectNames": [
+      "cs_sv_rob_sub_nose_splashes",
+      "cs_sv_yard_car_wheel_smoke",
+      "cs_sv_yard_trip_dust_chest",
+      "cs_sv_rob_ship_drips",
+      "cs_sv_rob_sub_drips",
+      "cs_sv_rr_heli_downwash",
+      "cs_sv_yard_trip_dust_knee",
+      "cs_sv_cbr_tyre_smoke",
+      "cs_sv_yard_trip_dust_foot",
+      "cs_sv_rr_door_gas",
+      "cs_sv_cbr_litter",
+      "cs_sv_rob_sub_nose_sand_spray",
+      "cs_sv_cbr_train_sparks",
+      "cs_sv_rr_heli_exhaust",
+      "cs_sv_yard_car_exhaust"
+    ]
+  },
+  {
+    "DictionaryName": "scr_sv_cbr",
+    "EffectNames": [
+      "scr_sv_cbr_glass_smash"
+    ]
+  },
+  {
+    "DictionaryName": "scr_sv_drag",
+    "EffectNames": [
+      "scr_sv_drag_shift_bad",
+      "scr_sv_drag_burnout",
+      "scr_sv_drag_shift_ok",
+      "scr_sv_drag_shift_good"
+    ]
+  },
+  {
+    "DictionaryName": "scr_sv_drift",
+    "EffectNames": [
+      "scr_sv_drift_cc_persist",
+      "scr_sv_drag_wheel_fric_smoke",
+      "scr_sv_drift_cc_trigger",
+      "scr_sv_drag_wheel_fric_sand"
+    ]
+  },
+  {
+    "DictionaryName": "scr_sv_re",
+    "EffectNames": [
+      "scr_sv_re_truck_smoke"
+    ]
+  },
+  {
+    "DictionaryName": "scr_sv_rob_cas",
+    "EffectNames": [
+      "scr_sv_rob_cas_room_gas",
+      "scr_sv_rob_cas_trailer_liq_exp",
+      "scr_sv_rob_cas_liq_splash",
+      "scr_sv_rob_cas_liq_pour_brown",
+      "scr_sv_rob_cas_liq_pour_black",
+      "scr_sv_rob_cas_vent_gas",
+      "scr_sv_rob_cas_liq_pour_green"
+    ]
+  },
+  {
+    "DictionaryName": "scr_sv_rob_pol",
+    "EffectNames": [
+      "scr_sv_rob_pol_room_gas",
+      "scr_sv_rob_pol_vent_gas",
+      "scr_sv_rob_pol_ac_gas"
+    ]
+  },
+  {
+    "DictionaryName": "scr_sv_rob_ship",
+    "EffectNames": [
+      "scr_sv_rob_ship_funnel_smoke"
+    ]
+  },
+  {
+    "DictionaryName": "scr_sv_rob_sub",
+    "EffectNames": [
+      "scr_sv_rob_sub_console_sparks",
+      "scr_sv_rob_sub_blowtorch_flame",
+      "scr_sv_rob_sub_crane_drips"
+    ]
+  },
+  {
+    "DictionaryName": "weap_sv_sl",
+    "EffectNames": [
+      "muz_sv_sl",
+      "muz_sv_sl_empty"
+    ]
+  },
+  {
     "DictionaryName": "scr_ar_planes",
     "EffectNames": [
       "scr_ar_trail_smoke_slow",

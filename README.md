@@ -24,12 +24,12 @@ This is a collection of various GTA V data dumps mostly useful for modding &amp;
 - **Ped Overlay Collections (Tattoos)** ([pedOverlayCollections.json](pedOverlayCollections.json)) **37** ped overlay collections with **3371** overlays in total (Usable tattos/badges with ped decoration native)
 - **Timecycle Modifiers** ([timecycleModifiers.json](timecycleModifiers.json)) **1044** timecycle modifiers in total (Usable with TIMECYCLE MODIFIER natives)
 - **Explosion Types names** ([explosionTypesCompact.json](explosionTypesCompact.json)) **81** explosion types in total (Usable with ADD EXPLOSION native)
-- **Cam Shake Types names** ([camShakeTypesCompact.json](camShakeTypesCompact.json)) **22** cam shake types in total (Usable with SHAKE CAM & SHAKE GAMEPLAY cam natives)
+- **Cam Shake Types names** ([camShakeTypesCompact.json](camShakeTypesCompact.json)) **23** cam shake types in total (Usable with SHAKE CAM & SHAKE GAMEPLAY cam natives)
 - **Audio / Sound names & ref names** ([soundNames.json](soundNames.json)) **2204** audio names from a total of **62** unique audio refs (Usable with PLAY_SOUND natives)
 - **Pickup Types names** ([pickupTypes.json](pickupTypes.json)) **173** pickup types in total (Usable with CREATE PICKUP natives)
 - **Vehicle Mod Kits & Mods** ([vehicleModKits.json](vehicleModKits.json)) **534** vehicle mod kits with **30418** mods in total (Usable with SET_VEHICLE_MOD_KIT,SET_VEHICLE_LIVERY & SET_VEHICLE_MOD natives)
 - **Vehicles** ([vehicles.json](vehicles.json)) **848** vehicle infos in total (Usable with VEHICLE natives)
-- **AnimpostFX names** ([animPostFxNamesCompact.json](animPostFxNamesCompact.json)) **163** animpostfx names in total (Usable with ANIMPOSTFX natives)
+- **AnimpostFX names** ([animPostFxNamesCompact.json](animPostFxNamesCompact.json)) **165** animpostfx names in total (Usable with ANIMPOSTFX natives)
 - **Ped Component Variations** with cloth names and translations ([pedComponentVariations.json](pedComponentVariations.json)) **32167** component variations & **5617** ped props from a total of **92** ped component variation collections (Usable with COMPONENT VARIATION & PED PROP natives)
 - **Ped Component Variations** without cloth names and translations ([pedComponentVariations_free.json](pedComponentVariations_free.json)) **32167** component variations & **5617** ped props from a total of **92** ped component variation collections (Usable with COMPONENT VARIATION & PED PROP natives)
 - **Ped Apparel Restriction tag names** ([animPostFxNamesCompact.json](animPostFxNamesCompact.json)) **474** ped apparel restriction tags in total (Usable with PED RESTRICTION natives)
@@ -50,7 +50,7 @@ This is a collection of various GTA V data dumps mostly useful for modding &amp;
 - **Music Event names** ([musicEventNames.json](musicEventNames.json)) **1585** music event names in total (Usable with MUSIC_EVENT natives)
 - **Mission Audio Bank names** ([missionAudioBankNames.json](missionAudioBankNames.json)) **22** mission audio bank names in total (Usable with MISSION_AUDIO_BANK natives)
 - **Ambient Audio Bank names** ([ambientAudioBankNames.json](ambientAudioBankNames.json)) **144** ambient audio bank names in total (Usable with AMBIENT_AUDIO_BANK natives)
-- **Script Audio Bank names** ([scriptAudioBankNames.json](scriptAudioBankNames.json)) **588** script audio bank names in total (Usable with SCRIPT_AUDIO_BANK natives)
+- **Script Audio Bank names** ([scriptAudioBankNames.json](scriptAudioBankNames.json)) **598** script audio bank names in total (Usable with SCRIPT_AUDIO_BANK natives)
 - **Mission Complete Audio names** ([missionCompleteAudioNames.json](missionCompleteAudioNames.json)) **4** mission complete audio names in total (Usable with PLAY_MISSION_COMPLETE_AUDIO native)
 - **Police Report names** ([policeReportNames.json](policeReportNames.json)) **50** police report names in total (Usable with PLAY_​POLICE_​REPORT native)
 - **Audio Scene names** ([audioSceneNames.json](audioSceneNames.json)) **1147** audio scene names in total (Usable with AUDIO_SCENE natives)
@@ -60,8 +60,8 @@ This is a collection of various GTA V data dumps mostly useful for modding &amp;
 
 ## **Objects location dumps**
 Object location dumps contain positions of various objects of a specific type, on the GTA V map (including all interiors / MLOs).
-- **Vending Machines** ([worldVendingMachines.json](objectslocations/worldVendingMachines.json)) **334** in total
-- **Bin/Dumpster/Recycle Bins** ([worldBinsDumpsters.json](objectslocations/worldBinsDumpsters.json) & [worldRecycleBins.json](objectslocations/worldRecycleBins.json)) **7756** bins/dumpsters in total & **127** recycle bins in total
+- **Vending Machines** ([worldVendingMachines.json](objectslocations/worldVendingMachines.json)) **337** in total
+- **Bin/Dumpster/Recycle Bins** ([worldBinsDumpsters.json](objectslocations/worldBinsDumpsters.json) & [worldRecycleBins.json](objectslocations/worldRecycleBins.json)) **7758** bins/dumpsters in total & **130** recycle bins in total
 - **Gas Pump Stations** ([worldGasPumps.json](objectslocations/worldGasPumps.json)) **157** in total
 - **Jukeboxes** ([worldJukeboxes.json](objectslocations/worldJukeboxes.json)) **6** in total
 - **Dart Discs** ([worldDartDiscs.json](objectslocations/worldDartDiscs.json)) **13** in total
@@ -70,24 +70,24 @@ Object location dumps contain positions of various objects of a specific type, o
 - **Telescopes** ([worldTelescopes.json](objectslocations/worldTelescopes.json)) **116** in total
 - **News Paper Dispenser** ([worldNewsPaperDispensers.json](objectslocations/worldNewsPaperDispensers.json)) **796** in total
 - **ATMs** ([worldAtms.json](objectslocations/worldAtms.json)) **121** in total
-- **Public Phones** ([worldPublicPhones.json](objectslocations/worldPublicPhones.json) & [worldExtraPhones.json](objectslocations/worldExtraPhones.json)) **432** public phones in total & **311** extra phones in total
+- **Public Phones** ([worldPublicPhones.json](objectslocations/worldPublicPhones.json) & [worldExtraPhones.json](objectslocations/worldExtraPhones.json)) **432** public phones in total & **317** extra phones in total
 - **Radio Towers** ([worldRadioTowers.json](objectslocations/worldRadioTowers.json)) **86** in total
 - **Antennas** ([worldAntennas.json](objectslocations/worldAntennas.json)) **15** in total
 - **Mobile Masts** ([worldMobileMasts.json](objectslocations/worldMobileMasts.json)) **8** in total
 - **Air Masts** ([worldAirMasts.json](objectslocations/worldAirMasts.json)) **16** in total
-- **Fire Hydrants, Hoses & Drisers** ([worldFireHydrantDriser.json](objectslocations/worldFireHydrantDriser.json)) **1430** in total
+- **Fire Hydrants, Hoses & Drisers** ([worldFireHydrantDriser.json](objectslocations/worldFireHydrantDriser.json)) **1442** in total
 - **Post Boxes** ([worldPostBoxes.json](objectslocations/worldPostBoxes.json)) **195** in total
 - **Letter Boxes** ([worldLetterBoxes.json](objectslocations/worldLetterBoxes.json)) **378** in total
 - **Harvest fields** (orange trees, vine grapes, corns, salad, pumpkin, tomatoes) ([worldHarvestFields.json](objectslocations/worldHarvestFields.json)) **623** in total
 - **Fruit stands** ([worldFruitStands.json](objectslocations/worldFruitStands.json)) **13** in total
-- **Seats** (Benches, Chairs etc.) ([worldSeats.json](objectslocations/worldSeats.json)) **8009** in total
+- **Seats** (Benches, Chairs etc.) ([worldSeats.json](objectslocations/worldSeats.json)) **8028** in total
 - **Food stands** (Hotdogs & Burger) ([worldFoodStands.json](objectslocations/worldFoodStands.json)) **23** in total
 - **Container cabins** ([worldContainerCabins.json](objectslocations/worldContainerCabins.json)) **154** in total
 - **Street lights** ([worldStreetLights.json](objectslocations/worldStreetLights.json)) **5873** in total
 - **Traffic lights** ([worldTrafficLights.json](objectslocations/worldTrafficLights.json)) **1058** in total
-- **Cctv cameras** ([worldCctvs.json](objectslocations/worldCctvs.json)) **1639** in total
+- **Cctv cameras** ([worldCctvs.json](objectslocations/worldCctvs.json)) **1641** in total
 - **Electricity boxes** ([worldElectricityBoxes.json](objectslocations/worldElectricityBoxes.json)) **1905** in total
-- **Wrecked vehicles** ([worldWreckedCars.json](objectslocations/worldWreckedCars.json) & [worldWreckedBikes.json](objectslocations/worldWreckedBikes.json)) **484** wrecked cars in total & **148** wrecked bikes in total
+- **Wrecked vehicles** ([worldWreckedCars.json](objectslocations/worldWreckedCars.json) & [worldWreckedBikes.json](objectslocations/worldWreckedBikes.json)) **489** wrecked cars in total & **150** wrecked bikes in total
 - **Oil jacks** ([worldOilJacks.json](objectslocations/worldOilJacks.json)) **62** in total
 - **Satellite dishes** ([worldSatDishes.json](objectslocations/worldSatDishes.json)) **834** in total
 

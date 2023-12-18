@@ -3861,6 +3861,45 @@
     }
   },
   {
+    "Name": "prop_watercooler_dark",
+    "Position": {
+      "X": 861.8471,
+      "Y": -2280.7466,
+      "Z": -50.000004
+    },
+    "Rotation": {
+      "X": 0.0,
+      "Y": -0.0,
+      "Z": -90.00001
+    }
+  },
+  {
+    "Name": "prop_watercooler_dark",
+    "Position": {
+      "X": 1073.9016,
+      "Y": -2285.1912,
+      "Z": -47.6
+    },
+    "Rotation": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 174.99992
+    }
+  },
+  {
+    "Name": "prop_watercooler",
+    "Position": {
+      "X": -401.1254,
+      "Y": -4119.04,
+      "Z": 25.552433
+    },
+    "Rotation": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 129.99997
+    }
+  },
+  {
     "Name": "prop_watercooler",
     "Position": {
       "X": 1114.1558,

@@ -500,6 +500,21 @@
     "Model": "W_AR_RailGun_XM3"
   },
   {
+    "Name": "PICKUP_WEAPON_RAYPISTOL",
+    "Hash": 3812817136,
+    "Model": "W_PI_RAYGUN"
+  },
+  {
+    "Name": "PICKUP_WEAPON_RAYCARBINE",
+    "Hash": 1959050722,
+    "Model": "W_AR_SRIFLE"
+  },
+  {
+    "Name": "PICKUP_WEAPON_RAYMINIGUN",
+    "Hash": 1000920287,
+    "Model": "W_MG_SMINIGUN"
+  },
+  {
     "Name": "PICKUP_WEAPON_BULLPUPRIFLE_MK2",
     "Hash": 2349845267,
     "Model": "W_AR_BullpupRifleMK2"
@@ -533,21 +548,6 @@
     "Name": "PICKUP_WEAPON_SPECIALCARBINE_MK2",
     "Hash": 94531552,
     "Model": "w_ar_specialcarbinemk2"
-  },
-  {
-    "Name": "PICKUP_WEAPON_RAYPISTOL",
-    "Hash": 3812817136,
-    "Model": "W_PI_RAYGUN"
-  },
-  {
-    "Name": "PICKUP_WEAPON_RAYCARBINE",
-    "Hash": 1959050722,
-    "Model": "W_AR_SRIFLE"
-  },
-  {
-    "Name": "PICKUP_WEAPON_RAYMINIGUN",
-    "Hash": 1000920287,
-    "Model": "W_MG_SMINIGUN"
   },
   {
     "Name": "PICKUP_WEAPON_PROXMINE",
@@ -670,6 +670,11 @@
     "Model": "w_pi_flaregun_shell"
   },
   {
+    "Name": "PICKUP_WEAPON_COMBATPDW",
+    "Hash": 2023061218,
+    "Model": "W_SB_PDW"
+  },
+  {
     "Name": "PICKUP_WEAPON_KNUCKLE",
     "Hash": 4254904030,
     "Model": "W_ME_Knuckle"
@@ -680,24 +685,9 @@
     "Model": "W_PI_SingleShot"
   },
   {
-    "Name": "PICKUP_WEAPON_COMBATPDW",
-    "Hash": 2023061218,
-    "Model": "W_SB_PDW"
-  },
-  {
     "Name": "PICKUP_PORTABLE_CRATE_FIXED_INCAR",
     "Hash": 3993904883,
     "Model": "PROP_DRUG_PACKAGE"
-  },
-  {
-    "Name": "PICKUP_WEAPON_MACHETE",
-    "Hash": 3626334911,
-    "Model": "w_me_machette_lr"
-  },
-  {
-    "Name": "PICKUP_WEAPON_MACHINEPISTOL",
-    "Hash": 4123384540,
-    "Model": "W_SB_CompactSMG"
   },
   {
     "Name": "PICKUP_WEAPON_COMPACTRIFLE",
@@ -708,6 +698,16 @@
     "Name": "PICKUP_WEAPON_DBSHOTGUN",
     "Hash": 4192395039,
     "Model": "w_sg_doublebarrel"
+  },
+  {
+    "Name": "PICKUP_WEAPON_MACHETE",
+    "Hash": 3626334911,
+    "Model": "w_me_machette_lr"
+  },
+  {
+    "Name": "PICKUP_WEAPON_MACHINEPISTOL",
+    "Hash": 4123384540,
+    "Model": "W_SB_CompactSMG"
   },
   {
     "Name": "PICKUP_WEAPON_FLASHLIGHT",
@@ -863,5 +863,10 @@
     "Name": "PICKUP_WEAPON_HACKINGDEVICE",
     "Hash": 2962605638,
     "Model": "W_AM_HackDevice_M32"
+  },
+  {
+    "Name": "PICKUP_WEAPON_STUNROD",
+    "Hash": 518706036,
+    "Model": "W_ME_Rod_M41"
   }
 ]

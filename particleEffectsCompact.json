@@ -82,6 +82,7 @@
       "veh_backfire",
       "weap_hvy_turbulance_water",
       "exp_xs_mine_spike",
+      "exp_air_snowball",
       "ent_amb_leaves_pine",
       "ent_amb_fountain_double",
       "ent_amb_exhaust_thin",
@@ -527,6 +528,7 @@
       "bul_decal_water",
       "veh_exhaust_truck_rig",
       "ent_amb_snow_mist_upper",
+      "exp_grd_snowball",
       "wheel_decal_water_Tank",
       "ent_amb_fbi_falling_debris",
       "ent_dst_elec_fire",
@@ -3420,6 +3422,47 @@
     "EffectNames": [
       "muz_sv_sl",
       "muz_sv_sl_empty"
+    ]
+  },
+  {
+    "DictionaryName": "cut_sum24",
+    "EffectNames": [
+      "cs_sum24_office_plant_dirt",
+      "cs_sum24_bty6_wheel_smoke",
+      "cs_sum24_bty6_gate_impact"
+    ]
+  },
+  {
+    "DictionaryName": "scr_bh",
+    "EffectNames": [
+      "sp_bh_amb_electric_gate_sparks",
+      "scr_bh_ceo_morgue_mist",
+      "scr_bh_amb_fusebox_sparks",
+      "scr_bh_ceo_hand_blood",
+      "scr_bh_amb_electric_gate",
+      "scr_bh_int_fusebox_sparks"
+    ]
+  },
+  {
+    "DictionaryName": "scr_bh_hal",
+    "EffectNames": [
+      "scr_bh_hal_poison_gas",
+      "scr_bh_hal_zom_exp_explosion",
+      "scr_bh_hal_zom_spawn",
+      "scr_bh_hal_zom_spawn_slow",
+      "scr_bh_hal_zom_fire_body",
+      "scr_bh_hal_zom_plg_body",
+      "scr_bh_hal_zom_exp_body",
+      "scr_bh_hal_zom_plg_zone",
+      "scr_bh_hal_zom_plg_staff",
+      "scr_bh_hal_zom_fire_limb"
+    ]
+  },
+  {
+    "DictionaryName": "scr_bh_mp",
+    "EffectNames": [
+      "scr_bh_mp_terminal_exp",
+      "scr_bh_mp_terminal_sparks"
     ]
   },
   {

@@ -568,6 +568,10 @@
     "RecordedWaypointsCount": 135
   },
   {
+    "Name": "bobby_tutorial_recording",
+    "RecordedWaypointsCount": 116
+  },
+  {
     "Name": "carmod_01_intro",
     "RecordedWaypointsCount": 8
   },
@@ -706,6 +710,14 @@
   {
     "Name": "carmod_tuner_remote_outro",
     "RecordedWaypointsCount": 9
+  },
+  {
+    "Name": "carmod_vinewood_intro",
+    "RecordedWaypointsCount": 7
+  },
+  {
+    "Name": "carmod_vinewood_outro",
+    "RecordedWaypointsCount": 7
   },
   {
     "Name": "carsteal5_01",

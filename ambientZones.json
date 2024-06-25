@@ -36417,1603 +36417,6 @@
     ]
   },
   {
-    "Name": "az_h3_casino_alarm_zone_01_exterior",
-    "Shape": "Sphere",
-    "Flags0": 2860516384,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 955.0,
-      "Y": 35.0,
-      "Z": 85.0
-    },
-    "OuterSize": {
-      "X": 1000.0,
-      "Y": 1000.0,
-      "Z": 1000.0
-    },
-    "InnerPosition": {
-      "X": 955.0,
-      "Y": 35.0,
-      "Z": 85.0
-    },
-    "InnerSize": {
-      "X": 250.0,
-      "Y": 250.0,
-      "Z": 250.0
-    },
-    "AmbientEmitters": [
-      "pr_h3_casino_alarm_zone_01_exterior_main_alarm"
-    ]
-  },
-  {
-    "Name": "iz_ch_dlc_casino_back_waste_1_rm",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 2544.07,
-      "Y": -252.29,
-      "Z": -59.09
-    },
-    "OuterSize": {
-      "X": 10.56,
-      "Y": 13.89,
-      "Z": 6.49
-    },
-    "InnerPosition": {
-      "X": 2544.07,
-      "Y": -257.29,
-      "Z": -59.09
-    },
-    "InnerSize": {
-      "X": 10.56,
-      "Y": 13.89,
-      "Z": 6.49
-    },
-    "AmbientEmitters": [
-      "ar_fly_24hr",
-      "pr_ch_dlc_casino_back_waste_1_rm_buzzing"
-    ]
-  },
-  {
-    "Name": "iz_ch_dlc_casino_loading_office_rm",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 2552.54,
-      "Y": -289.44,
-      "Z": -64.45
-    },
-    "OuterSize": {
-      "X": 10.53,
-      "Y": 8.39,
-      "Z": 2.85
-    },
-    "InnerPosition": {
-      "X": 2552.54,
-      "Y": -289.44,
-      "Z": -64.45
-    },
-    "InnerSize": {
-      "X": 10.53,
-      "Y": 8.39,
-      "Z": 2.85
-    },
-    "AmbientEmitters": [
-      "pr_ch_dlc_casino_loading_office_rm_computer_01",
-      "pr_ch_dlc_casino_loading_office_rm_computer_02",
-      "pr_ch_dlc_casino_loading_office_rm_computer_03"
-    ]
-  },
-  {
-    "Name": "az_dlc_ch_plan_drone_station",
-    "Shape": "Box",
-    "Flags0": 2860516384,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 2695.36,
-      "Y": -369.47,
-      "Z": -54.87
-    },
-    "OuterSize": {
-      "X": 16.07,
-      "Y": 15.64,
-      "Z": 7.0
-    },
-    "InnerPosition": {
-      "X": 2695.52,
-      "Y": -369.46,
-      "Z": -54.87
-    },
-    "InnerSize": {
-      "X": 1.37,
-      "Y": 1.07,
-      "Z": 2.0
-    },
-    "AmbientEmitters": [
-      "ar_dlc_ch_plan_drone_station_hum"
-    ]
-  },
-  {
-    "Name": "az_ch_dlc_arcade_office_area",
-    "Shape": "Box",
-    "Flags0": 2860516388,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 2725.02,
-      "Y": -370.15,
-      "Z": -45.73
-    },
-    "OuterSize": {
-      "X": 9.11,
-      "Y": 17.49,
-      "Z": 12.0
-    },
-    "InnerPosition": {
-      "X": 2724.99,
-      "Y": -371.83,
-      "Z": -43.02
-    },
-    "InnerSize": {
-      "X": 9.05,
-      "Y": 14.05,
-      "Z": 14.0
-    },
-    "AmbientEmitters": []
-  },
-  {
-    "Name": "iz_ch_dlc_casino_heist_rm_gamingfloor_02",
-    "Shape": "Box",
-    "Flags0": 2860516385,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 2518.42,
-      "Y": -236.78,
-      "Z": -58.3
-    },
-    "OuterSize": {
-      "X": 33.68,
-      "Y": 33.71,
-      "Z": 7.9
-    },
-    "InnerPosition": {
-      "X": 2518.42,
-      "Y": -236.78,
-      "Z": -58.3
-    },
-    "InnerSize": {
-      "X": 33.68,
-      "Y": 33.71,
-      "Z": 7.9
-    },
-    "AmbientEmitters": [
-      "pr_dlc_h3_slot_machine_effects_gf_03_01",
-      "pr_dlc_h3_slot_machine_effects_gf_03_02",
-      "pr_dlc_h3_slot_machine_effects_gf_03_03"
-    ]
-  },
-  {
-    "Name": "iz_ch_dlc_casino_vault_main_rm",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 2479.41,
-      "Y": -266.92,
-      "Z": -70.19
-    },
-    "OuterSize": {
-      "X": 30.66,
-      "Y": 37.58,
-      "Z": 4.89
-    },
-    "InnerPosition": {
-      "X": 2479.41,
-      "Y": -266.92,
-      "Z": -70.19
-    },
-    "InnerSize": {
-      "X": 30.66,
-      "Y": 37.58,
-      "Z": 4.89
-    },
-    "AmbientEmitters": [
-      "pr_ch_dlc_casino_vault_main_rm_ac_unit",
-      "pr_ch_dlc_casino_vault_main_rm_ac_unit_02",
-      "pr_ch_dlc_casino_vault_main_rm_ac_unit_03",
-      "pr_ch_dlc_casino_vault_security_room_computer_01",
-      "pr_ch_dlc_casino_vault_security_room_tone"
-    ]
-  },
-  {
-    "Name": "iz_ch_dlc_casino_utility_main_rm",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 2520.28,
-      "Y": -254.24,
-      "Z": -26.87
-    },
-    "OuterSize": {
-      "X": 15.07,
-      "Y": 21.88,
-      "Z": 8.65
-    },
-    "InnerPosition": {
-      "X": 2520.28,
-      "Y": -254.24,
-      "Z": -26.87
-    },
-    "InnerSize": {
-      "X": 15.07,
-      "Y": 21.88,
-      "Z": 8.65
-    },
-    "AmbientEmitters": [
-      "pr_dlc_ch_casino_utility_rm_electrical_boxes",
-      "pr_dlc_ch_casino_utility_rm_lift_a",
-      "pr_dlc_ch_casino_utility_rm_lift_b",
-      "ar_dlc_ch_casino_utility_room_bass",
-      "pr_dlc_ch_casino_utility_rm_machinery_a",
-      "pr_dlc_ch_casino_utility_rm_machinery_b"
-    ]
-  },
-  {
-    "Name": "az_dlc_ch_plan_hacker_area",
-    "Shape": "Box",
-    "Flags0": 2860516384,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 2712.47,
-      "Y": -356.46,
-      "Z": -54.69
-    },
-    "OuterSize": {
-      "X": 8.71,
-      "Y": 9.32,
-      "Z": 5.0
-    },
-    "InnerPosition": {
-      "X": 2712.44,
-      "Y": -352.44,
-      "Z": -54.69
-    },
-    "InnerSize": {
-      "X": 3.84,
-      "Y": 0.68,
-      "Z": 2.0
-    },
-    "AmbientEmitters": [
-      "ar_dlc_ch_plan_hacker_terminal_hum",
-      "pr_dlc_ch_plan_hacker_terminal_01"
-    ]
-  },
-  {
-    "Name": "iz_ch_dlc_casino_back_laundry_rm",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 2536.83,
-      "Y": -298.3,
-      "Z": -58.31
-    },
-    "OuterSize": {
-      "X": 16.36,
-      "Y": 9.82,
-      "Z": 4.48
-    },
-    "InnerPosition": {
-      "X": 2536.83,
-      "Y": -298.3,
-      "Z": -58.31
-    },
-    "InnerSize": {
-      "X": 16.36,
-      "Y": 9.82,
-      "Z": 4.48
-    },
-    "AmbientEmitters": [
-      "pr_ch_dlc_casino_back_laundry_rm_rumble"
-    ]
-  },
-  {
-    "Name": "iz_ch_dlc_casino_utility_stairs_rm",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 2527.61,
-      "Y": -253.11,
-      "Z": -31.33
-    },
-    "OuterSize": {
-      "X": 6.43,
-      "Y": 18.16,
-      "Z": 17.87
-    },
-    "InnerPosition": {
-      "X": 2527.61,
-      "Y": -253.11,
-      "Z": -31.33
-    },
-    "InnerSize": {
-      "X": 6.43,
-      "Y": 18.16,
-      "Z": 17.87
-    },
-    "AmbientEmitters": [
-      "ar_dlc_ch_casino_electrical_room_extra_ac",
-      "ar_dlc_ch_casino_electrical_room_hum"
-    ]
-  },
-  {
-    "Name": "iz_ch_dlc_tunnel_main_rm",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 2507.29,
-      "Y": -310.69,
-      "Z": -70.0
-    },
-    "OuterSize": {
-      "X": 57.81,
-      "Y": 37.42,
-      "Z": 3.42
-    },
-    "InnerPosition": {
-      "X": 2507.29,
-      "Y": -310.69,
-      "Z": -70.0
-    },
-    "InnerSize": {
-      "X": 57.81,
-      "Y": 37.42,
-      "Z": 3.42
-    },
-    "AmbientEmitters": [
-      "pr_ch_dlc_tunnel_main_rm_dripping",
-      "pr_ch_dlc_tunnel_main_rm_dripping_02",
-      "ar_cave_rocks",
-      "ar_mine_creaks",
-      "pr_ch_dlc_tunnel_main_rm_entrance_wind"
-    ]
-  },
-  {
-    "Name": "iz_ch_dlc_casino_back_waste_3_rm",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 2543.09,
-      "Y": -214.69,
-      "Z": -59.22
-    },
-    "OuterSize": {
-      "X": 6.82,
-      "Y": 7.13,
-      "Z": 6.22
-    },
-    "InnerPosition": {
-      "X": 2543.09,
-      "Y": -214.69,
-      "Z": -59.22
-    },
-    "InnerSize": {
-      "X": 6.82,
-      "Y": 7.13,
-      "Z": 6.22
-    },
-    "AmbientEmitters": [
-      "ar_fly_24hr",
-      "pr_ch_dlc_casino_back_waste_3_rm_buzzing"
-    ]
-  },
-  {
-    "Name": "az_ch_dlc_arcade_entrance_area",
-    "Shape": "Box",
-    "Flags0": 2860516388,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 2738.12,
-      "Y": -374.85,
-      "Z": -46.81
-    },
-    "OuterSize": {
-      "X": 2.42,
-      "Y": 6.49,
-      "Z": 12.0
-    },
-    "InnerPosition": {
-      "X": 2737.8,
-      "Y": -374.79,
-      "Z": -47.81
-    },
-    "InnerSize": {
-      "X": 2.35,
-      "Y": 3.05,
-      "Z": 5.0
-    },
-    "AmbientEmitters": []
-  },
-  {
-    "Name": "az_h3_casino_alarm_zone_02_interior",
-    "Shape": "Sphere",
-    "Flags0": 2860516384,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 2500.0,
-      "Y": -256.0,
-      "Z": -60.0
-    },
-    "OuterSize": {
-      "X": 150.0,
-      "Y": 150.0,
-      "Z": 150.0
-    },
-    "InnerPosition": {
-      "X": 2500.0,
-      "Y": -256.0,
-      "Z": -60.0
-    },
-    "InnerSize": {
-      "X": 150.0,
-      "Y": 150.0,
-      "Z": 150.0
-    },
-    "AmbientEmitters": [
-      "pr_h3_casino_alarm_zone_02_interior_main_alarm"
-    ]
-  },
-  {
-    "Name": "iz_ch_dlc_casino_vault_storage_rm",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 2516.88,
-      "Y": -278.97,
-      "Z": -70.08
-    },
-    "OuterSize": {
-      "X": 44.86,
-      "Y": 14.05,
-      "Z": 4.66
-    },
-    "InnerPosition": {
-      "X": 2516.88,
-      "Y": -278.97,
-      "Z": -70.08
-    },
-    "InnerSize": {
-      "X": 44.86,
-      "Y": 14.05,
-      "Z": 4.66
-    },
-    "AmbientEmitters": [
-      "pr_ch_dlc_casino_vault_storage_rm_ac_unit_01",
-      "pr_ch_dlc_casino_vault_storage_rm_ac_unit_02",
-      "pr_ch_dlc_casino_vault_storage_rm_ac_unit_03",
-      "pr_ch_dlc_casino_vault_storage_rm_ac_unit_04"
-    ]
-  },
-  {
-    "Name": "iz_ch_dlc_casino_back_corridor_3_rm",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 2547.85,
-      "Y": -229.71,
-      "Z": -59.44
-    },
-    "OuterSize": {
-      "X": 7.75,
-      "Y": 34.16,
-      "Z": 5.79
-    },
-    "InnerPosition": {
-      "X": 2547.85,
-      "Y": -229.71,
-      "Z": -59.44
-    },
-    "InnerSize": {
-      "X": 7.75,
-      "Y": 34.16,
-      "Z": 5.79
-    },
-    "AmbientEmitters": [
-      "ar_fly_24hr"
-    ]
-  },
-  {
-    "Name": "az_ch_dlc_arcade_stairs_and_basement",
-    "Shape": "Box",
-    "Flags0": 2860516388,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 2725.45,
-      "Y": -357.83,
-      "Z": -52.45
-    },
-    "OuterSize": {
-      "X": 6.49,
-      "Y": 24.57,
-      "Z": 15.67
-    },
-    "InnerPosition": {
-      "X": 2727.58,
-      "Y": -361.34,
-      "Z": -51.9
-    },
-    "InnerSize": {
-      "X": 3.53,
-      "Y": 7.86,
-      "Z": 9.41
-    },
-    "AmbientEmitters": []
-  },
-  {
-    "Name": "az_dlc_ch_plan_master_control",
-    "Shape": "Box",
-    "Flags0": 2860516384,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 2717.03,
-      "Y": -361.72,
-      "Z": -53.3
-    },
-    "OuterSize": {
-      "X": 18.34,
-      "Y": 8.65,
-      "Z": 5.0
-    },
-    "InnerPosition": {
-      "X": 2719.67,
-      "Y": -364.02,
-      "Z": -53.3
-    },
-    "InnerSize": {
-      "X": 4.56,
-      "Y": 0.79,
-      "Z": 2.0
-    },
-    "AmbientEmitters": [
-      "ar_dlc_ch_plan_master_control_hum",
-      "pr_dlc_ch_plan_master_control_terminal_01",
-      "pr_dlc_ch_plan_master_control_terminal_02",
-      "pr_dlc_ch_plan_master_control_terminal_03"
-    ]
-  },
-  {
-    "Name": "iz_ch_dlc_plan_main_rm",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 2702.48,
-      "Y": -375.77,
-      "Z": -53.35
-    },
-    "OuterSize": {
-      "X": 51.12,
-      "Y": 48.53,
-      "Z": 8.85
-    },
-    "InnerPosition": {
-      "X": 2702.48,
-      "Y": -375.77,
-      "Z": -53.35
-    },
-    "InnerSize": {
-      "X": 51.12,
-      "Y": 48.53,
-      "Z": 8.85
-    },
-    "AmbientEmitters": []
-  },
-  {
-    "Name": "iz_ch_dlc_casino_back_security_rm",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 2534.51,
-      "Y": -278.13,
-      "Z": -58.48
-    },
-    "OuterSize": {
-      "X": 21.54,
-      "Y": 13.63,
-      "Z": 4.15
-    },
-    "InnerPosition": {
-      "X": 2534.51,
-      "Y": -278.13,
-      "Z": -58.48
-    },
-    "InnerSize": {
-      "X": 21.54,
-      "Y": 13.63,
-      "Z": 4.15
-    },
-    "AmbientEmitters": [
-      "pr_ch_dlc_casino_back_security_rm_computers_01",
-      "pr_ch_dlc_casino_back_security_rm_computers_02",
-      "pr_ch_dlc_casino_back_security_rm_computers_scrambler",
-      "pr_ch_dlc_casino_back_security_rm_computers_03",
-      "pr_ch_dlc_casino_back_security_rm_computers_04",
-      "pr_ch_dlc_casino_back_security_rm_computers_alarms",
-      "pr_ch_dlc_casino_back_security_rm_computers_alarms"
-    ]
-  },
-  {
-    "Name": "iz_ch_dlc_casino_heist_rm_gamingfloor_01",
-    "Shape": "Box",
-    "Flags0": 2860516385,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 2480.84,
-      "Y": -278.91,
-      "Z": -56.87
-    },
-    "OuterSize": {
-      "X": 40.32,
-      "Y": 49.47,
-      "Z": 6.76
-    },
-    "InnerPosition": {
-      "X": 2480.84,
-      "Y": -278.91,
-      "Z": -56.87
-    },
-    "InnerSize": {
-      "X": 40.32,
-      "Y": 49.47,
-      "Z": 6.76
-    },
-    "AmbientEmitters": [
-      "pr_dlc_h3_slot_machine_effects_gf_01_01",
-      "pr_dlc_h3_slot_machine_effects_gf_01_02",
-      "pr_dlc_h3_slot_machine_effects_gf_01_03"
-    ]
-  },
-  {
-    "Name": "az_dlc_heist_police_station_boost",
-    "Shape": "Box",
-    "Flags0": 2860516384,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 449.0,
-      "Y": -986.0,
-      "Z": 30.0
-    },
-    "OuterSize": {
-      "X": 30.0,
-      "Y": 29.0,
-      "Z": 18.0
-    },
-    "InnerPosition": {
-      "X": 446.0,
-      "Y": -985.0,
-      "Z": 30.0
-    },
-    "InnerSize": {
-      "X": 18.0,
-      "Y": 13.0,
-      "Z": 10.0
-    },
-    "AmbientEmitters": [
-      "ar_dlc_heist_police_station_lines"
-    ]
-  },
-  {
-    "Name": "az_dlc_heist_fleeca_bank",
-    "Shape": "Box",
-    "Flags0": 2860516388,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": -2959.04,
-      "Y": 479.49,
-      "Z": 16.79
-    },
-    "OuterSize": {
-      "X": 45.0,
-      "Y": 45.0,
-      "Z": 18.0
-    },
-    "InnerPosition": {
-      "X": -2959.04,
-      "Y": 479.49,
-      "Z": 16.79
-    },
-    "InnerSize": {
-      "X": 22.0,
-      "Y": 24.0,
-      "Z": 10.0
-    },
-    "AmbientEmitters": [
-      "ar_null"
-    ]
-  },
-  {
-    "Name": "az_dlc_hei_aircraft_carrier_int_tower",
-    "Shape": "Box",
-    "Flags0": 2860516384,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 3098.0,
-      "Y": -4729.0,
-      "Z": 11.5
-    },
-    "OuterSize": {
-      "X": 50.0,
-      "Y": 60.0,
-      "Z": 23.0
-    },
-    "InnerPosition": {
-      "X": 3088.0,
-      "Y": -4704.0,
-      "Z": 16.5
-    },
-    "InnerSize": {
-      "X": 20.0,
-      "Y": 42.0,
-      "Z": 13.0
-    },
-    "AmbientEmitters": [
-      "ar_dlc_hei_aircraft_carrier_hangars_mini_alarms",
-      "ar_dlc_hei_acc_stairs_electrics_01",
-      "ar_dlc_hei_acc_stairs_pipes_01",
-      "ar_dlc_hei_acc_stairs_pipes_02",
-      "ar_dlc_hei_acc_stairs_pipes_03",
-      "ar_dlc_hei_acc_stairs_pipes_04",
-      "ar_dlc_hei_acc_stairs_electrics_02"
-    ]
-  },
-  {
-    "Name": "iz_hei_gta_milo_enginrm_gtamloroom_engine2",
-    "Shape": "Box",
-    "Flags0": 2860516385,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": -2061.91,
-      "Y": -1025.19,
-      "Z": 3.17
-    },
-    "OuterSize": {
-      "X": 15.76,
-      "Y": 18.32,
-      "Z": 2.58
-    },
-    "InnerPosition": {
-      "X": -2061.91,
-      "Y": -1025.19,
-      "Z": 3.17
-    },
-    "InnerSize": {
-      "X": 15.76,
-      "Y": 18.32,
-      "Z": 2.58
-    },
-    "AmbientEmitters": [
-      "ar_dlc_hei_chains",
-      "ar_dlc_heists_distant_gas_jet",
-      "ar_dlc_heist_yacht_engine_room_2_motor_01",
-      "ar_dlc_heist_yacht_engine_room_2_motor_02",
-      "ar_dlc_heist_yacht_engine_room_2_motor_03",
-      "ar_dlc_hei_yacht_engine_room_console_01",
-      "ar_dlc_heist_yacht_engine_room_2_steaming_01",
-      "hash_8cce8b23_lnthamaa_collision",
-      "ar_dlc_heist_yacht_engine_room_2_electrics_01"
-    ]
-  },
-  {
-    "Name": "iz_dlc_heist_v_police2_dlc_ph_cells_office",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 0.0,
-      "Y": 0.0,
-      "Z": 0.0
-    },
-    "OuterSize": {
-      "X": 0.0,
-      "Y": 0.0,
-      "Z": 0.0
-    },
-    "InnerPosition": {
-      "X": 0.0,
-      "Y": 0.0,
-      "Z": 0.0
-    },
-    "InnerSize": {
-      "X": 0.0,
-      "Y": 0.0,
-      "Z": 0.0
-    },
-    "AmbientEmitters": [
-      "ar_dlc_heist_police_station_broken_radio_cells",
-      "ar_dlc_heist_police_station_scanner_line_cells",
-      "ar_heist_dlc_police_station_cells_pc",
-      "ar_dlc_heist_police_toilets_drips"
-    ]
-  },
-  {
-    "Name": "az_dlc_hei_aircraft_carrier_alarm",
-    "Shape": "Box",
-    "Flags0": 2860516384,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 3067.0,
-      "Y": -4719.0,
-      "Z": 35.0
-    },
-    "OuterSize": {
-      "X": 1000.0,
-      "Y": 1000.0,
-      "Z": 300.0
-    },
-    "InnerPosition": {
-      "X": 3067.0,
-      "Y": -4719.0,
-      "Z": 24.3
-    },
-    "InnerSize": {
-      "X": 55.0,
-      "Y": 190.0,
-      "Z": 20.0
-    },
-    "AmbientEmitters": [
-      "ar_dlc_hei_acc_alarm_01"
-    ]
-  },
-  {
-    "Name": "iz_dlc_hei_aircraft_carrier_control_room_amb_02",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 3096.0,
-      "Y": -4703.0,
-      "Z": 12.0
-    },
-    "OuterSize": {
-      "X": 30.0,
-      "Y": 30.0,
-      "Z": 60.0
-    },
-    "InnerPosition": {
-      "X": 3096.0,
-      "Y": -4703.0,
-      "Z": 12.0
-    },
-    "InnerSize": {
-      "X": 10.0,
-      "Y": 10.0,
-      "Z": 40.0
-    },
-    "AmbientEmitters": [
-      "ar_dlc_hei_acc_metal_creaking",
-      "ar_dlc_hei_control_room_2_bg"
-    ]
-  },
-  {
-    "Name": "iz_dlc_heist_v_police2_dlc_ph_lobby_room",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 0.0,
-      "Y": 0.0,
-      "Z": 0.0
-    },
-    "OuterSize": {
-      "X": 0.0,
-      "Y": 0.0,
-      "Z": 0.0
-    },
-    "InnerPosition": {
-      "X": 0.0,
-      "Y": 0.0,
-      "Z": 0.0
-    },
-    "InnerSize": {
-      "X": 0.0,
-      "Y": 0.0,
-      "Z": 0.0
-    },
-    "AmbientEmitters": [
-      "hash_e0e5e6be_gkivipha_collision",
-      "hash_993ff1c4_azeorngv_collision",
-      "ar_dlc_heist_police_station_scanner_line"
-    ]
-  },
-  {
-    "Name": "az_hei_heist_ornate_bank_alarm",
-    "Shape": "Sphere",
-    "Flags0": 2860516384,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 235.0,
-      "Y": 216.0,
-      "Z": 110.0
-    },
-    "OuterSize": {
-      "X": 400.0,
-      "Y": 500.0,
-      "Z": 30.0
-    },
-    "InnerPosition": {
-      "X": 255.0,
-      "Y": 225.0,
-      "Z": 110.0
-    },
-    "InnerSize": {
-      "X": 25.0,
-      "Y": 10.0,
-      "Z": 10.0
-    },
-    "AmbientEmitters": [
-      "ar_hei_heist_ornate_bank_alarm_bg",
-      "ar_hei_heist_ornate_bank_alarm_01",
-      "ar_hei_heist_ornate_bank_alarm_02",
-      "ar_hei_heist_ornate_bank_alarm_03"
-    ]
-  },
-  {
-    "Name": "iz_hei_gta_milo_enginrm_gtamloroom_engine1",
-    "Shape": "Box",
-    "Flags0": 2860516385,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": -2048.64,
-      "Y": -1029.11,
-      "Z": 2.45
-    },
-    "OuterSize": {
-      "X": 39.37,
-      "Y": 23.99,
-      "Z": 4.02
-    },
-    "InnerPosition": {
-      "X": -2048.64,
-      "Y": -1029.11,
-      "Z": 2.45
-    },
-    "InnerSize": {
-      "X": 39.37,
-      "Y": 23.99,
-      "Z": 4.02
-    },
-    "AmbientEmitters": [
-      "ar_dlc_hei_chains",
-      "ar_dlc_heists_distant_gas_jet",
-      "ar_dlc_heist_yacht_engine_room_1_motor_01",
-      "ar_dlc_heist_yacht_engine_room_1_motor_02",
-      "ar_dlc_heist_yacht_engine_room_1_motor_03",
-      "ar_dlc_heist_yacht_engine_room_1_motor_04",
-      "ar_dlc_heist_yacht_engine_room_1_humming_01",
-      "ar_dlc_heist_yacht_engine_room_1_steaming_01"
-    ]
-  },
-  {
-    "Name": "az_dlc_heists_prison",
-    "Shape": "Sphere",
-    "Flags0": 2860516388,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 1675.0,
-      "Y": 2600.0,
-      "Z": 150.0
-    },
-    "OuterSize": {
-      "X": 250.0,
-      "Y": 650.0,
-      "Z": 280.0
-    },
-    "InnerPosition": {
-      "X": 1698.5,
-      "Y": 2585.6,
-      "Z": 35.0
-    },
-    "InnerSize": {
-      "X": 147.42,
-      "Y": 224.68,
-      "Z": 40.0
-    },
-    "AmbientEmitters": [
-      "ar_null"
-    ]
-  },
-  {
-    "Name": "az_dlc_heists_bahama_mamas",
-    "Shape": "Box",
-    "Flags0": 2860516388,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": -1395.2,
-      "Y": -595.5,
-      "Z": 40.36
-    },
-    "OuterSize": {
-      "X": 137.21,
-      "Y": 121.0,
-      "Z": 38.0
-    },
-    "InnerPosition": {
-      "X": -1389.6,
-      "Y": -594.69,
-      "Z": 30.36
-    },
-    "InnerSize": {
-      "X": 18.87,
-      "Y": 8.0,
-      "Z": 10.0
-    },
-    "AmbientEmitters": [
-      "ar_dlc_heists_bahama_mamas_music"
-    ]
-  },
-  {
-    "Name": "az_dlc_hei_aircraft_carrier_int_fauxclusion_02",
-    "Shape": "Box",
-    "Flags0": 2860516384,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 3072.49,
-      "Y": -4729.98,
-      "Z": -5.0
-    },
-    "OuterSize": {
-      "X": 79.99,
-      "Y": 89.0,
-      "Z": 35.0
-    },
-    "InnerPosition": {
-      "X": 3061.73,
-      "Y": -4704.67,
-      "Z": 8.0
-    },
-    "InnerSize": {
-      "X": 50.01,
-      "Y": 83.0,
-      "Z": 10.0
-    },
-    "AmbientEmitters": [
-      "ar_dlc_heists_distant_gas_jet",
-      "ar_dlc_hei_metal_squeal",
-      "ar_dlc_hei_aircraft_carrier_hangars_mini_alarms",
-      "ar_dlc_hei_acc_metal_creaking",
-      "ar_dlc_hei_oneshot_industrial_bangs_carrier",
-      "ar_dlc_hei_chains"
-    ]
-  },
-  {
-    "Name": "az_dlc_hei_aircraft_carrier_int_fauxclusion_01",
-    "Shape": "Box",
-    "Flags0": 2860516384,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 3033.69,
-      "Y": -4603.98,
-      "Z": -1.0
-    },
-    "OuterSize": {
-      "X": 98.88,
-      "Y": 158.22,
-      "Z": 27.0
-    },
-    "InnerPosition": {
-      "X": 3047.99,
-      "Y": -4635.74,
-      "Z": 8.38
-    },
-    "InnerSize": {
-      "X": 31.5,
-      "Y": 62.22,
-      "Z": 10.0
-    },
-    "AmbientEmitters": [
-      "ar_dlc_heists_distant_gas_jet",
-      "ar_dlc_hei_aircraft_carrier_hangars_mini_alarms",
-      "ar_dlc_hei_acc_metal_creaking",
-      "ar_dlc_hei_metal_squeal",
-      "ar_dlc_hei_oneshot_industrial_bangs_carrier",
-      "ar_dlc_hei_chains"
-    ]
-  },
-  {
-    "Name": "az_dlc_heists_biolab",
-    "Shape": "Box",
-    "Flags0": 2860516384,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 3560.13,
-      "Y": 3680.72,
-      "Z": 14.55
-    },
-    "OuterSize": {
-      "X": 108.13,
-      "Y": 140.91,
-      "Z": 38.11
-    },
-    "InnerPosition": {
-      "X": 3569.12,
-      "Y": 3678.67,
-      "Z": 26.17
-    },
-    "InnerSize": {
-      "X": 113.47,
-      "Y": 106.32,
-      "Z": 12.0
-    },
-    "AmbientEmitters": [
-      "ar_null"
-    ]
-  },
-  {
-    "Name": "az_dlc_heists_ornate_bank",
-    "Shape": "Box",
-    "Flags0": 2860516388,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 253.47,
-      "Y": 217.28,
-      "Z": 108.44
-    },
-    "OuterSize": {
-      "X": 73.67,
-      "Y": 56.84,
-      "Z": 26.0
-    },
-    "InnerPosition": {
-      "X": 250.75,
-      "Y": 218.11,
-      "Z": 108.44
-    },
-    "InnerSize": {
-      "X": 38.24,
-      "Y": 25.43,
-      "Z": 16.0
-    },
-    "AmbientEmitters": [
-      "ar_null"
-    ]
-  },
-  {
-    "Name": "az_dlc_hei_aircraft_carrier_int_main",
-    "Shape": "Box",
-    "Flags0": 2860516384,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 3060.95,
-      "Y": -4697.84,
-      "Z": 10.38
-    },
-    "OuterSize": {
-      "X": 200.0,
-      "Y": 450.0,
-      "Z": 50.0
-    },
-    "InnerPosition": {
-      "X": 3062.86,
-      "Y": -4704.42,
-      "Z": 5.38
-    },
-    "InnerSize": {
-      "X": 42.18,
-      "Y": 260.0,
-      "Z": 11.0
-    },
-    "AmbientEmitters": [
-      "ar_dlc_hei_engine_room_01",
-      "ar_dlc_hei_aircraft_carrier_bg"
-    ]
-  },
-  {
-    "Name": "iz_hei_gta_milo_bridge_gtamloroom_bridge",
-    "Shape": "Box",
-    "Flags0": 2860516385,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": -2080.08,
-      "Y": -1020.12,
-      "Z": 12.72
-    },
-    "OuterSize": {
-      "X": 16.38,
-      "Y": 12.79,
-      "Z": 3.93
-    },
-    "InnerPosition": {
-      "X": -2080.08,
-      "Y": -1020.12,
-      "Z": 12.72
-    },
-    "InnerSize": {
-      "X": 16.38,
-      "Y": 12.79,
-      "Z": 3.93
-    },
-    "AmbientEmitters": [
-      "ar_dlc_hei_yacht_bridge_alarms",
-      "ar_dlc_hei_yacht_bridge_console_01",
-      "ar_dlc_hei_yacht_bridge_console_02",
-      "ar_dlc_hei_yacht_bridge_console_03",
-      "ar_dlc_hei_yacht_bridge_console_04",
-      "ar_dlc_hei_yacht_bridge_console_05"
-    ]
-  },
-  {
-    "Name": "az_dlc_hei_yacht_main",
-    "Shape": "Box",
-    "Flags0": 2860516384,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": -2068.8,
-      "Y": -1023.89,
-      "Z": 7.12
-    },
-    "OuterSize": {
-      "X": 200.0,
-      "Y": 200.0,
-      "Z": 42.0
-    },
-    "InnerPosition": {
-      "X": -2068.8,
-      "Y": -1023.89,
-      "Z": 2.12
-    },
-    "InnerSize": {
-      "X": 103.58,
-      "Y": 11.62,
-      "Z": 10.0
-    },
-    "AmbientEmitters": [
-      "ar_dlc_hei_yacht_engine",
-      "ar_dlc_hei_yacht_engine_uw"
-    ]
-  },
-  {
-    "Name": "az_dlc_hei_aircraft_carrier_int_fauxclusion_03",
-    "Shape": "Box",
-    "Flags0": 2860516384,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 3074.93,
-      "Y": -4753.53,
-      "Z": 9.0
-    },
-    "OuterSize": {
-      "X": 85.29,
-      "Y": 163.03,
-      "Z": 7.0
-    },
-    "InnerPosition": {
-      "X": 3080.83,
-      "Y": -4757.88,
-      "Z": 9.38
-    },
-    "InnerSize": {
-      "X": 32.0,
-      "Y": 95.25,
-      "Z": 9.0
-    },
-    "AmbientEmitters": [
-      "ar_dlc_heists_distant_gas_jet",
-      "ar_dlc_hei_oneshot_industrial_bangs_carrier",
-      "ar_dlc_hei_metal_squeal",
-      "ar_dlc_hei_aircraft_carrier_hangars_mini_alarms",
-      "ar_dlc_hei_chains"
-    ]
-  },
-  {
-    "Name": "iz_dlc_hei_aircraft_carrier_stairs_fauxclusion",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 3096.0,
-      "Y": -4703.0,
-      "Z": 12.0
-    },
-    "OuterSize": {
-      "X": 30.0,
-      "Y": 30.0,
-      "Z": 60.0
-    },
-    "InnerPosition": {
-      "X": 3096.0,
-      "Y": -4703.0,
-      "Z": 12.0
-    },
-    "InnerSize": {
-      "X": 10.0,
-      "Y": 10.0,
-      "Z": 40.0
-    },
-    "AmbientEmitters": [
-      "ar_dlc_hei_acc_metal_creaking"
-    ]
-  },
-  {
-    "Name": "az_dlc_heist_biolab_garage",
-    "Shape": "Box",
-    "Flags0": 2860516384,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 3583.72,
-      "Y": 3663.45,
-      "Z": 41.32
-    },
-    "OuterSize": {
-      "X": 48.67,
-      "Y": 30.31,
-      "Z": 18.0
-    },
-    "InnerPosition": {
-      "X": 3586.74,
-      "Y": 3664.76,
-      "Z": 38.32
-    },
-    "InnerSize": {
-      "X": 24.8,
-      "Y": 20.42,
-      "Z": 10.0
-    },
-    "AmbientEmitters": [
-      "ar_null"
-    ]
-  },
-  {
-    "Name": "az_dlc_hei_aircraft_carrier_deck",
-    "Shape": "Box",
-    "Flags0": 2860516384,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 3067.0,
-      "Y": -4719.0,
-      "Z": 35.0
-    },
-    "OuterSize": {
-      "X": 100.0,
-      "Y": 300.0,
-      "Z": 43.0
-    },
-    "InnerPosition": {
-      "X": 3067.0,
-      "Y": -4719.0,
-      "Z": 24.3
-    },
-    "InnerSize": {
-      "X": 55.0,
-      "Y": 190.0,
-      "Z": 20.0
-    },
-    "AmbientEmitters": [
-      "ar_dlc_hei_acc_metal_creaking",
-      "ar_dlc_hei_oneshot_industrial_bangs_carrier",
-      "ar_dlc_hei_acc_radar_dish",
-      "hash_29026375_izsokv_collision",
-      "ar_birds_seagulls_24hr",
-      "hash_0aa3215a_flkmvw_collision",
-      "ar_dlc_hei_acc_gun_turret_01",
-      "ar_dlc_hei_acc_gun_turret_02",
-      "ar_dlc_hei_acc_gun_turret_03",
-      "ar_dlc_hei_acc_gun_turret_04"
-    ]
-  },
-  {
-    "Name": "iz_dlc_hei_aircraft_carrier_control_room_amb_01",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 3096.0,
-      "Y": -4703.0,
-      "Z": 12.0
-    },
-    "OuterSize": {
-      "X": 30.0,
-      "Y": 30.0,
-      "Z": 60.0
-    },
-    "InnerPosition": {
-      "X": 3096.0,
-      "Y": -4703.0,
-      "Z": 12.0
-    },
-    "InnerSize": {
-      "X": 10.0,
-      "Y": 10.0,
-      "Z": 40.0
-    },
-    "AmbientEmitters": [
-      "ar_dlc_hei_acc_metal_creaking",
-      "ar_dlc_hei_acc_control_room_alarms",
-      "ar_dlc_hei_acc_control_room_01_console_01",
-      "ar_dlc_hei_acc_control_room_01_console_02",
-      "ar_dlc_hei_acc_control_room_01_console_03",
-      "ar_dlc_hei_acc_control_room_01_console_04",
-      "ar_dlc_hei_acc_control_room_01_console_05",
-      "ar_dlc_hei_acc_control_room_01_console_06",
-      "ar_dlc_hei_acc_control_room_01_console_07",
-      "ar_dlc_hei_acc_control_room_01_console_08",
-      "ar_dlc_hei_acc_control_room_01_console_09"
-    ]
-  },
-  {
-    "Name": "az_dlc_heists_prison",
-    "Shape": "Sphere",
-    "Flags0": 2860516388,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 1675.0,
-      "Y": 2600.0,
-      "Z": 150.0
-    },
-    "OuterSize": {
-      "X": 250.0,
-      "Y": 650.0,
-      "Z": 280.0
-    },
-    "InnerPosition": {
-      "X": 1698.5,
-      "Y": 2585.6,
-      "Z": 35.0
-    },
-    "InnerSize": {
-      "X": 147.42,
-      "Y": 224.68,
-      "Z": 40.0
-    },
-    "AmbientEmitters": [
-      "ar_null"
-    ]
-  },
-  {
-    "Name": "az_dlc_heists_bahama_mamas",
-    "Shape": "Box",
-    "Flags0": 2860516388,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": -1395.2,
-      "Y": -595.5,
-      "Z": 40.36
-    },
-    "OuterSize": {
-      "X": 137.21,
-      "Y": 121.0,
-      "Z": 38.0
-    },
-    "InnerPosition": {
-      "X": -1389.6,
-      "Y": -594.69,
-      "Z": 30.36
-    },
-    "InnerSize": {
-      "X": 18.87,
-      "Y": 8.0,
-      "Z": 10.0
-    },
-    "AmbientEmitters": [
-      "ar_dlc_heists_bahama_mamas_music"
-    ]
-  },
-  {
-    "Name": "az_dlc_heists_biolab",
-    "Shape": "Box",
-    "Flags0": 2860516388,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 3560.13,
-      "Y": 3680.72,
-      "Z": 14.55
-    },
-    "OuterSize": {
-      "X": 108.13,
-      "Y": 140.91,
-      "Z": 38.11
-    },
-    "InnerPosition": {
-      "X": 3569.12,
-      "Y": 3678.67,
-      "Z": 26.17
-    },
-    "InnerSize": {
-      "X": 113.47,
-      "Y": 106.32,
-      "Z": 12.0
-    },
-    "AmbientEmitters": [
-      "ar_null"
-    ]
-  },
-  {
-    "Name": "az_dlc_heists_ornate_bank",
-    "Shape": "Box",
-    "Flags0": 2860516388,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 253.47,
-      "Y": 217.28,
-      "Z": 108.44
-    },
-    "OuterSize": {
-      "X": 73.67,
-      "Y": 56.84,
-      "Z": 26.0
-    },
-    "InnerPosition": {
-      "X": 250.75,
-      "Y": 218.11,
-      "Z": 108.44
-    },
-    "InnerSize": {
-      "X": 38.24,
-      "Y": 25.43,
-      "Z": 16.0
-    },
-    "AmbientEmitters": [
-      "ar_null"
-    ]
-  },
-  {
     "Name": "iz_hei4_int_sub_rm_missiles",
     "Shape": "Box",
     "Flags0": 2860516389,
@@ -41669,6 +40072,1603 @@
       "X": 53.69,
       "Y": 112.37,
       "Z": 50.0
+    },
+    "AmbientEmitters": [
+      "ar_null"
+    ]
+  },
+  {
+    "Name": "az_h3_casino_alarm_zone_01_exterior",
+    "Shape": "Sphere",
+    "Flags0": 2860516384,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 955.0,
+      "Y": 35.0,
+      "Z": 85.0
+    },
+    "OuterSize": {
+      "X": 1000.0,
+      "Y": 1000.0,
+      "Z": 1000.0
+    },
+    "InnerPosition": {
+      "X": 955.0,
+      "Y": 35.0,
+      "Z": 85.0
+    },
+    "InnerSize": {
+      "X": 250.0,
+      "Y": 250.0,
+      "Z": 250.0
+    },
+    "AmbientEmitters": [
+      "pr_h3_casino_alarm_zone_01_exterior_main_alarm"
+    ]
+  },
+  {
+    "Name": "iz_ch_dlc_casino_back_waste_1_rm",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 2544.07,
+      "Y": -252.29,
+      "Z": -59.09
+    },
+    "OuterSize": {
+      "X": 10.56,
+      "Y": 13.89,
+      "Z": 6.49
+    },
+    "InnerPosition": {
+      "X": 2544.07,
+      "Y": -257.29,
+      "Z": -59.09
+    },
+    "InnerSize": {
+      "X": 10.56,
+      "Y": 13.89,
+      "Z": 6.49
+    },
+    "AmbientEmitters": [
+      "ar_fly_24hr",
+      "pr_ch_dlc_casino_back_waste_1_rm_buzzing"
+    ]
+  },
+  {
+    "Name": "iz_ch_dlc_casino_loading_office_rm",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 2552.54,
+      "Y": -289.44,
+      "Z": -64.45
+    },
+    "OuterSize": {
+      "X": 10.53,
+      "Y": 8.39,
+      "Z": 2.85
+    },
+    "InnerPosition": {
+      "X": 2552.54,
+      "Y": -289.44,
+      "Z": -64.45
+    },
+    "InnerSize": {
+      "X": 10.53,
+      "Y": 8.39,
+      "Z": 2.85
+    },
+    "AmbientEmitters": [
+      "pr_ch_dlc_casino_loading_office_rm_computer_01",
+      "pr_ch_dlc_casino_loading_office_rm_computer_02",
+      "pr_ch_dlc_casino_loading_office_rm_computer_03"
+    ]
+  },
+  {
+    "Name": "az_dlc_ch_plan_drone_station",
+    "Shape": "Box",
+    "Flags0": 2860516384,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 2695.36,
+      "Y": -369.47,
+      "Z": -54.87
+    },
+    "OuterSize": {
+      "X": 16.07,
+      "Y": 15.64,
+      "Z": 7.0
+    },
+    "InnerPosition": {
+      "X": 2695.52,
+      "Y": -369.46,
+      "Z": -54.87
+    },
+    "InnerSize": {
+      "X": 1.37,
+      "Y": 1.07,
+      "Z": 2.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_ch_plan_drone_station_hum"
+    ]
+  },
+  {
+    "Name": "az_ch_dlc_arcade_office_area",
+    "Shape": "Box",
+    "Flags0": 2860516388,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 2725.02,
+      "Y": -370.15,
+      "Z": -45.73
+    },
+    "OuterSize": {
+      "X": 9.11,
+      "Y": 17.49,
+      "Z": 12.0
+    },
+    "InnerPosition": {
+      "X": 2724.99,
+      "Y": -371.83,
+      "Z": -43.02
+    },
+    "InnerSize": {
+      "X": 9.05,
+      "Y": 14.05,
+      "Z": 14.0
+    },
+    "AmbientEmitters": []
+  },
+  {
+    "Name": "iz_ch_dlc_casino_heist_rm_gamingfloor_02",
+    "Shape": "Box",
+    "Flags0": 2860516385,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 2518.42,
+      "Y": -236.78,
+      "Z": -58.3
+    },
+    "OuterSize": {
+      "X": 33.68,
+      "Y": 33.71,
+      "Z": 7.9
+    },
+    "InnerPosition": {
+      "X": 2518.42,
+      "Y": -236.78,
+      "Z": -58.3
+    },
+    "InnerSize": {
+      "X": 33.68,
+      "Y": 33.71,
+      "Z": 7.9
+    },
+    "AmbientEmitters": [
+      "pr_dlc_h3_slot_machine_effects_gf_03_01",
+      "pr_dlc_h3_slot_machine_effects_gf_03_02",
+      "pr_dlc_h3_slot_machine_effects_gf_03_03"
+    ]
+  },
+  {
+    "Name": "iz_ch_dlc_casino_vault_main_rm",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 2479.41,
+      "Y": -266.92,
+      "Z": -70.19
+    },
+    "OuterSize": {
+      "X": 30.66,
+      "Y": 37.58,
+      "Z": 4.89
+    },
+    "InnerPosition": {
+      "X": 2479.41,
+      "Y": -266.92,
+      "Z": -70.19
+    },
+    "InnerSize": {
+      "X": 30.66,
+      "Y": 37.58,
+      "Z": 4.89
+    },
+    "AmbientEmitters": [
+      "pr_ch_dlc_casino_vault_main_rm_ac_unit",
+      "pr_ch_dlc_casino_vault_main_rm_ac_unit_02",
+      "pr_ch_dlc_casino_vault_main_rm_ac_unit_03",
+      "pr_ch_dlc_casino_vault_security_room_computer_01",
+      "pr_ch_dlc_casino_vault_security_room_tone"
+    ]
+  },
+  {
+    "Name": "iz_ch_dlc_casino_utility_main_rm",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 2520.28,
+      "Y": -254.24,
+      "Z": -26.87
+    },
+    "OuterSize": {
+      "X": 15.07,
+      "Y": 21.88,
+      "Z": 8.65
+    },
+    "InnerPosition": {
+      "X": 2520.28,
+      "Y": -254.24,
+      "Z": -26.87
+    },
+    "InnerSize": {
+      "X": 15.07,
+      "Y": 21.88,
+      "Z": 8.65
+    },
+    "AmbientEmitters": [
+      "pr_dlc_ch_casino_utility_rm_electrical_boxes",
+      "pr_dlc_ch_casino_utility_rm_lift_a",
+      "pr_dlc_ch_casino_utility_rm_lift_b",
+      "ar_dlc_ch_casino_utility_room_bass",
+      "pr_dlc_ch_casino_utility_rm_machinery_a",
+      "pr_dlc_ch_casino_utility_rm_machinery_b"
+    ]
+  },
+  {
+    "Name": "az_dlc_ch_plan_hacker_area",
+    "Shape": "Box",
+    "Flags0": 2860516384,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 2712.47,
+      "Y": -356.46,
+      "Z": -54.69
+    },
+    "OuterSize": {
+      "X": 8.71,
+      "Y": 9.32,
+      "Z": 5.0
+    },
+    "InnerPosition": {
+      "X": 2712.44,
+      "Y": -352.44,
+      "Z": -54.69
+    },
+    "InnerSize": {
+      "X": 3.84,
+      "Y": 0.68,
+      "Z": 2.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_ch_plan_hacker_terminal_hum",
+      "pr_dlc_ch_plan_hacker_terminal_01"
+    ]
+  },
+  {
+    "Name": "iz_ch_dlc_casino_back_laundry_rm",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 2536.83,
+      "Y": -298.3,
+      "Z": -58.31
+    },
+    "OuterSize": {
+      "X": 16.36,
+      "Y": 9.82,
+      "Z": 4.48
+    },
+    "InnerPosition": {
+      "X": 2536.83,
+      "Y": -298.3,
+      "Z": -58.31
+    },
+    "InnerSize": {
+      "X": 16.36,
+      "Y": 9.82,
+      "Z": 4.48
+    },
+    "AmbientEmitters": [
+      "pr_ch_dlc_casino_back_laundry_rm_rumble"
+    ]
+  },
+  {
+    "Name": "iz_ch_dlc_casino_utility_stairs_rm",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 2527.61,
+      "Y": -253.11,
+      "Z": -31.33
+    },
+    "OuterSize": {
+      "X": 6.43,
+      "Y": 18.16,
+      "Z": 17.87
+    },
+    "InnerPosition": {
+      "X": 2527.61,
+      "Y": -253.11,
+      "Z": -31.33
+    },
+    "InnerSize": {
+      "X": 6.43,
+      "Y": 18.16,
+      "Z": 17.87
+    },
+    "AmbientEmitters": [
+      "ar_dlc_ch_casino_electrical_room_extra_ac",
+      "ar_dlc_ch_casino_electrical_room_hum"
+    ]
+  },
+  {
+    "Name": "iz_ch_dlc_tunnel_main_rm",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 2507.29,
+      "Y": -310.69,
+      "Z": -70.0
+    },
+    "OuterSize": {
+      "X": 57.81,
+      "Y": 37.42,
+      "Z": 3.42
+    },
+    "InnerPosition": {
+      "X": 2507.29,
+      "Y": -310.69,
+      "Z": -70.0
+    },
+    "InnerSize": {
+      "X": 57.81,
+      "Y": 37.42,
+      "Z": 3.42
+    },
+    "AmbientEmitters": [
+      "pr_ch_dlc_tunnel_main_rm_dripping",
+      "pr_ch_dlc_tunnel_main_rm_dripping_02",
+      "ar_cave_rocks",
+      "ar_mine_creaks",
+      "pr_ch_dlc_tunnel_main_rm_entrance_wind"
+    ]
+  },
+  {
+    "Name": "iz_ch_dlc_casino_back_waste_3_rm",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 2543.09,
+      "Y": -214.69,
+      "Z": -59.22
+    },
+    "OuterSize": {
+      "X": 6.82,
+      "Y": 7.13,
+      "Z": 6.22
+    },
+    "InnerPosition": {
+      "X": 2543.09,
+      "Y": -214.69,
+      "Z": -59.22
+    },
+    "InnerSize": {
+      "X": 6.82,
+      "Y": 7.13,
+      "Z": 6.22
+    },
+    "AmbientEmitters": [
+      "ar_fly_24hr",
+      "pr_ch_dlc_casino_back_waste_3_rm_buzzing"
+    ]
+  },
+  {
+    "Name": "az_ch_dlc_arcade_entrance_area",
+    "Shape": "Box",
+    "Flags0": 2860516388,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 2738.12,
+      "Y": -374.85,
+      "Z": -46.81
+    },
+    "OuterSize": {
+      "X": 2.42,
+      "Y": 6.49,
+      "Z": 12.0
+    },
+    "InnerPosition": {
+      "X": 2737.8,
+      "Y": -374.79,
+      "Z": -47.81
+    },
+    "InnerSize": {
+      "X": 2.35,
+      "Y": 3.05,
+      "Z": 5.0
+    },
+    "AmbientEmitters": []
+  },
+  {
+    "Name": "az_h3_casino_alarm_zone_02_interior",
+    "Shape": "Sphere",
+    "Flags0": 2860516384,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 2500.0,
+      "Y": -256.0,
+      "Z": -60.0
+    },
+    "OuterSize": {
+      "X": 150.0,
+      "Y": 150.0,
+      "Z": 150.0
+    },
+    "InnerPosition": {
+      "X": 2500.0,
+      "Y": -256.0,
+      "Z": -60.0
+    },
+    "InnerSize": {
+      "X": 150.0,
+      "Y": 150.0,
+      "Z": 150.0
+    },
+    "AmbientEmitters": [
+      "pr_h3_casino_alarm_zone_02_interior_main_alarm"
+    ]
+  },
+  {
+    "Name": "iz_ch_dlc_casino_vault_storage_rm",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 2516.88,
+      "Y": -278.97,
+      "Z": -70.08
+    },
+    "OuterSize": {
+      "X": 44.86,
+      "Y": 14.05,
+      "Z": 4.66
+    },
+    "InnerPosition": {
+      "X": 2516.88,
+      "Y": -278.97,
+      "Z": -70.08
+    },
+    "InnerSize": {
+      "X": 44.86,
+      "Y": 14.05,
+      "Z": 4.66
+    },
+    "AmbientEmitters": [
+      "pr_ch_dlc_casino_vault_storage_rm_ac_unit_01",
+      "pr_ch_dlc_casino_vault_storage_rm_ac_unit_02",
+      "pr_ch_dlc_casino_vault_storage_rm_ac_unit_03",
+      "pr_ch_dlc_casino_vault_storage_rm_ac_unit_04"
+    ]
+  },
+  {
+    "Name": "iz_ch_dlc_casino_back_corridor_3_rm",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 2547.85,
+      "Y": -229.71,
+      "Z": -59.44
+    },
+    "OuterSize": {
+      "X": 7.75,
+      "Y": 34.16,
+      "Z": 5.79
+    },
+    "InnerPosition": {
+      "X": 2547.85,
+      "Y": -229.71,
+      "Z": -59.44
+    },
+    "InnerSize": {
+      "X": 7.75,
+      "Y": 34.16,
+      "Z": 5.79
+    },
+    "AmbientEmitters": [
+      "ar_fly_24hr"
+    ]
+  },
+  {
+    "Name": "az_ch_dlc_arcade_stairs_and_basement",
+    "Shape": "Box",
+    "Flags0": 2860516388,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 2725.45,
+      "Y": -357.83,
+      "Z": -52.45
+    },
+    "OuterSize": {
+      "X": 6.49,
+      "Y": 24.57,
+      "Z": 15.67
+    },
+    "InnerPosition": {
+      "X": 2727.58,
+      "Y": -361.34,
+      "Z": -51.9
+    },
+    "InnerSize": {
+      "X": 3.53,
+      "Y": 7.86,
+      "Z": 9.41
+    },
+    "AmbientEmitters": []
+  },
+  {
+    "Name": "az_dlc_ch_plan_master_control",
+    "Shape": "Box",
+    "Flags0": 2860516384,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 2717.03,
+      "Y": -361.72,
+      "Z": -53.3
+    },
+    "OuterSize": {
+      "X": 18.34,
+      "Y": 8.65,
+      "Z": 5.0
+    },
+    "InnerPosition": {
+      "X": 2719.67,
+      "Y": -364.02,
+      "Z": -53.3
+    },
+    "InnerSize": {
+      "X": 4.56,
+      "Y": 0.79,
+      "Z": 2.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_ch_plan_master_control_hum",
+      "pr_dlc_ch_plan_master_control_terminal_01",
+      "pr_dlc_ch_plan_master_control_terminal_02",
+      "pr_dlc_ch_plan_master_control_terminal_03"
+    ]
+  },
+  {
+    "Name": "iz_ch_dlc_plan_main_rm",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 2702.48,
+      "Y": -375.77,
+      "Z": -53.35
+    },
+    "OuterSize": {
+      "X": 51.12,
+      "Y": 48.53,
+      "Z": 8.85
+    },
+    "InnerPosition": {
+      "X": 2702.48,
+      "Y": -375.77,
+      "Z": -53.35
+    },
+    "InnerSize": {
+      "X": 51.12,
+      "Y": 48.53,
+      "Z": 8.85
+    },
+    "AmbientEmitters": []
+  },
+  {
+    "Name": "iz_ch_dlc_casino_back_security_rm",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 2534.51,
+      "Y": -278.13,
+      "Z": -58.48
+    },
+    "OuterSize": {
+      "X": 21.54,
+      "Y": 13.63,
+      "Z": 4.15
+    },
+    "InnerPosition": {
+      "X": 2534.51,
+      "Y": -278.13,
+      "Z": -58.48
+    },
+    "InnerSize": {
+      "X": 21.54,
+      "Y": 13.63,
+      "Z": 4.15
+    },
+    "AmbientEmitters": [
+      "pr_ch_dlc_casino_back_security_rm_computers_01",
+      "pr_ch_dlc_casino_back_security_rm_computers_02",
+      "pr_ch_dlc_casino_back_security_rm_computers_scrambler",
+      "pr_ch_dlc_casino_back_security_rm_computers_03",
+      "pr_ch_dlc_casino_back_security_rm_computers_04",
+      "pr_ch_dlc_casino_back_security_rm_computers_alarms",
+      "pr_ch_dlc_casino_back_security_rm_computers_alarms"
+    ]
+  },
+  {
+    "Name": "iz_ch_dlc_casino_heist_rm_gamingfloor_01",
+    "Shape": "Box",
+    "Flags0": 2860516385,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 2480.84,
+      "Y": -278.91,
+      "Z": -56.87
+    },
+    "OuterSize": {
+      "X": 40.32,
+      "Y": 49.47,
+      "Z": 6.76
+    },
+    "InnerPosition": {
+      "X": 2480.84,
+      "Y": -278.91,
+      "Z": -56.87
+    },
+    "InnerSize": {
+      "X": 40.32,
+      "Y": 49.47,
+      "Z": 6.76
+    },
+    "AmbientEmitters": [
+      "pr_dlc_h3_slot_machine_effects_gf_01_01",
+      "pr_dlc_h3_slot_machine_effects_gf_01_02",
+      "pr_dlc_h3_slot_machine_effects_gf_01_03"
+    ]
+  },
+  {
+    "Name": "az_dlc_heist_police_station_boost",
+    "Shape": "Box",
+    "Flags0": 2860516384,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 449.0,
+      "Y": -986.0,
+      "Z": 30.0
+    },
+    "OuterSize": {
+      "X": 30.0,
+      "Y": 29.0,
+      "Z": 18.0
+    },
+    "InnerPosition": {
+      "X": 446.0,
+      "Y": -985.0,
+      "Z": 30.0
+    },
+    "InnerSize": {
+      "X": 18.0,
+      "Y": 13.0,
+      "Z": 10.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_heist_police_station_lines"
+    ]
+  },
+  {
+    "Name": "az_dlc_heist_fleeca_bank",
+    "Shape": "Box",
+    "Flags0": 2860516388,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": -2959.04,
+      "Y": 479.49,
+      "Z": 16.79
+    },
+    "OuterSize": {
+      "X": 45.0,
+      "Y": 45.0,
+      "Z": 18.0
+    },
+    "InnerPosition": {
+      "X": -2959.04,
+      "Y": 479.49,
+      "Z": 16.79
+    },
+    "InnerSize": {
+      "X": 22.0,
+      "Y": 24.0,
+      "Z": 10.0
+    },
+    "AmbientEmitters": [
+      "ar_null"
+    ]
+  },
+  {
+    "Name": "az_dlc_hei_aircraft_carrier_int_tower",
+    "Shape": "Box",
+    "Flags0": 2860516384,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 3098.0,
+      "Y": -4729.0,
+      "Z": 11.5
+    },
+    "OuterSize": {
+      "X": 50.0,
+      "Y": 60.0,
+      "Z": 23.0
+    },
+    "InnerPosition": {
+      "X": 3088.0,
+      "Y": -4704.0,
+      "Z": 16.5
+    },
+    "InnerSize": {
+      "X": 20.0,
+      "Y": 42.0,
+      "Z": 13.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_hei_aircraft_carrier_hangars_mini_alarms",
+      "ar_dlc_hei_acc_stairs_electrics_01",
+      "ar_dlc_hei_acc_stairs_pipes_01",
+      "ar_dlc_hei_acc_stairs_pipes_02",
+      "ar_dlc_hei_acc_stairs_pipes_03",
+      "ar_dlc_hei_acc_stairs_pipes_04",
+      "ar_dlc_hei_acc_stairs_electrics_02"
+    ]
+  },
+  {
+    "Name": "iz_hei_gta_milo_enginrm_gtamloroom_engine2",
+    "Shape": "Box",
+    "Flags0": 2860516385,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": -2061.91,
+      "Y": -1025.19,
+      "Z": 3.17
+    },
+    "OuterSize": {
+      "X": 15.76,
+      "Y": 18.32,
+      "Z": 2.58
+    },
+    "InnerPosition": {
+      "X": -2061.91,
+      "Y": -1025.19,
+      "Z": 3.17
+    },
+    "InnerSize": {
+      "X": 15.76,
+      "Y": 18.32,
+      "Z": 2.58
+    },
+    "AmbientEmitters": [
+      "ar_dlc_hei_chains",
+      "ar_dlc_heists_distant_gas_jet",
+      "ar_dlc_heist_yacht_engine_room_2_motor_01",
+      "ar_dlc_heist_yacht_engine_room_2_motor_02",
+      "ar_dlc_heist_yacht_engine_room_2_motor_03",
+      "ar_dlc_hei_yacht_engine_room_console_01",
+      "ar_dlc_heist_yacht_engine_room_2_steaming_01",
+      "hash_8cce8b23_lnthamaa_collision",
+      "ar_dlc_heist_yacht_engine_room_2_electrics_01"
+    ]
+  },
+  {
+    "Name": "iz_dlc_heist_v_police2_dlc_ph_cells_office",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "OuterSize": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "InnerPosition": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "InnerSize": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_heist_police_station_broken_radio_cells",
+      "ar_dlc_heist_police_station_scanner_line_cells",
+      "ar_heist_dlc_police_station_cells_pc",
+      "ar_dlc_heist_police_toilets_drips"
+    ]
+  },
+  {
+    "Name": "az_dlc_hei_aircraft_carrier_alarm",
+    "Shape": "Box",
+    "Flags0": 2860516384,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 3067.0,
+      "Y": -4719.0,
+      "Z": 35.0
+    },
+    "OuterSize": {
+      "X": 1000.0,
+      "Y": 1000.0,
+      "Z": 300.0
+    },
+    "InnerPosition": {
+      "X": 3067.0,
+      "Y": -4719.0,
+      "Z": 24.3
+    },
+    "InnerSize": {
+      "X": 55.0,
+      "Y": 190.0,
+      "Z": 20.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_hei_acc_alarm_01"
+    ]
+  },
+  {
+    "Name": "iz_dlc_hei_aircraft_carrier_control_room_amb_02",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 3096.0,
+      "Y": -4703.0,
+      "Z": 12.0
+    },
+    "OuterSize": {
+      "X": 30.0,
+      "Y": 30.0,
+      "Z": 60.0
+    },
+    "InnerPosition": {
+      "X": 3096.0,
+      "Y": -4703.0,
+      "Z": 12.0
+    },
+    "InnerSize": {
+      "X": 10.0,
+      "Y": 10.0,
+      "Z": 40.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_hei_acc_metal_creaking",
+      "ar_dlc_hei_control_room_2_bg"
+    ]
+  },
+  {
+    "Name": "iz_dlc_heist_v_police2_dlc_ph_lobby_room",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "OuterSize": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "InnerPosition": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "InnerSize": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 0.0
+    },
+    "AmbientEmitters": [
+      "hash_e0e5e6be_gkivipha_collision",
+      "hash_993ff1c4_azeorngv_collision",
+      "ar_dlc_heist_police_station_scanner_line"
+    ]
+  },
+  {
+    "Name": "az_hei_heist_ornate_bank_alarm",
+    "Shape": "Sphere",
+    "Flags0": 2860516384,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 235.0,
+      "Y": 216.0,
+      "Z": 110.0
+    },
+    "OuterSize": {
+      "X": 400.0,
+      "Y": 500.0,
+      "Z": 30.0
+    },
+    "InnerPosition": {
+      "X": 255.0,
+      "Y": 225.0,
+      "Z": 110.0
+    },
+    "InnerSize": {
+      "X": 25.0,
+      "Y": 10.0,
+      "Z": 10.0
+    },
+    "AmbientEmitters": [
+      "ar_hei_heist_ornate_bank_alarm_bg",
+      "ar_hei_heist_ornate_bank_alarm_01",
+      "ar_hei_heist_ornate_bank_alarm_02",
+      "ar_hei_heist_ornate_bank_alarm_03"
+    ]
+  },
+  {
+    "Name": "iz_hei_gta_milo_enginrm_gtamloroom_engine1",
+    "Shape": "Box",
+    "Flags0": 2860516385,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": -2048.64,
+      "Y": -1029.11,
+      "Z": 2.45
+    },
+    "OuterSize": {
+      "X": 39.37,
+      "Y": 23.99,
+      "Z": 4.02
+    },
+    "InnerPosition": {
+      "X": -2048.64,
+      "Y": -1029.11,
+      "Z": 2.45
+    },
+    "InnerSize": {
+      "X": 39.37,
+      "Y": 23.99,
+      "Z": 4.02
+    },
+    "AmbientEmitters": [
+      "ar_dlc_hei_chains",
+      "ar_dlc_heists_distant_gas_jet",
+      "ar_dlc_heist_yacht_engine_room_1_motor_01",
+      "ar_dlc_heist_yacht_engine_room_1_motor_02",
+      "ar_dlc_heist_yacht_engine_room_1_motor_03",
+      "ar_dlc_heist_yacht_engine_room_1_motor_04",
+      "ar_dlc_heist_yacht_engine_room_1_humming_01",
+      "ar_dlc_heist_yacht_engine_room_1_steaming_01"
+    ]
+  },
+  {
+    "Name": "az_dlc_heists_prison",
+    "Shape": "Sphere",
+    "Flags0": 2860516388,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 1675.0,
+      "Y": 2600.0,
+      "Z": 150.0
+    },
+    "OuterSize": {
+      "X": 250.0,
+      "Y": 650.0,
+      "Z": 280.0
+    },
+    "InnerPosition": {
+      "X": 1698.5,
+      "Y": 2585.6,
+      "Z": 35.0
+    },
+    "InnerSize": {
+      "X": 147.42,
+      "Y": 224.68,
+      "Z": 40.0
+    },
+    "AmbientEmitters": [
+      "ar_null"
+    ]
+  },
+  {
+    "Name": "az_dlc_heists_bahama_mamas",
+    "Shape": "Box",
+    "Flags0": 2860516388,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": -1395.2,
+      "Y": -595.5,
+      "Z": 40.36
+    },
+    "OuterSize": {
+      "X": 137.21,
+      "Y": 121.0,
+      "Z": 38.0
+    },
+    "InnerPosition": {
+      "X": -1389.6,
+      "Y": -594.69,
+      "Z": 30.36
+    },
+    "InnerSize": {
+      "X": 18.87,
+      "Y": 8.0,
+      "Z": 10.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_heists_bahama_mamas_music"
+    ]
+  },
+  {
+    "Name": "az_dlc_hei_aircraft_carrier_int_fauxclusion_02",
+    "Shape": "Box",
+    "Flags0": 2860516384,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 3072.49,
+      "Y": -4729.98,
+      "Z": -5.0
+    },
+    "OuterSize": {
+      "X": 79.99,
+      "Y": 89.0,
+      "Z": 35.0
+    },
+    "InnerPosition": {
+      "X": 3061.73,
+      "Y": -4704.67,
+      "Z": 8.0
+    },
+    "InnerSize": {
+      "X": 50.01,
+      "Y": 83.0,
+      "Z": 10.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_heists_distant_gas_jet",
+      "ar_dlc_hei_metal_squeal",
+      "ar_dlc_hei_aircraft_carrier_hangars_mini_alarms",
+      "ar_dlc_hei_acc_metal_creaking",
+      "ar_dlc_hei_oneshot_industrial_bangs_carrier",
+      "ar_dlc_hei_chains"
+    ]
+  },
+  {
+    "Name": "az_dlc_hei_aircraft_carrier_int_fauxclusion_01",
+    "Shape": "Box",
+    "Flags0": 2860516384,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 3033.69,
+      "Y": -4603.98,
+      "Z": -1.0
+    },
+    "OuterSize": {
+      "X": 98.88,
+      "Y": 158.22,
+      "Z": 27.0
+    },
+    "InnerPosition": {
+      "X": 3047.99,
+      "Y": -4635.74,
+      "Z": 8.38
+    },
+    "InnerSize": {
+      "X": 31.5,
+      "Y": 62.22,
+      "Z": 10.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_heists_distant_gas_jet",
+      "ar_dlc_hei_aircraft_carrier_hangars_mini_alarms",
+      "ar_dlc_hei_acc_metal_creaking",
+      "ar_dlc_hei_metal_squeal",
+      "ar_dlc_hei_oneshot_industrial_bangs_carrier",
+      "ar_dlc_hei_chains"
+    ]
+  },
+  {
+    "Name": "az_dlc_heists_biolab",
+    "Shape": "Box",
+    "Flags0": 2860516384,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 3560.13,
+      "Y": 3680.72,
+      "Z": 14.55
+    },
+    "OuterSize": {
+      "X": 108.13,
+      "Y": 140.91,
+      "Z": 38.11
+    },
+    "InnerPosition": {
+      "X": 3569.12,
+      "Y": 3678.67,
+      "Z": 26.17
+    },
+    "InnerSize": {
+      "X": 113.47,
+      "Y": 106.32,
+      "Z": 12.0
+    },
+    "AmbientEmitters": [
+      "ar_null"
+    ]
+  },
+  {
+    "Name": "az_dlc_heists_ornate_bank",
+    "Shape": "Box",
+    "Flags0": 2860516388,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 253.47,
+      "Y": 217.28,
+      "Z": 108.44
+    },
+    "OuterSize": {
+      "X": 73.67,
+      "Y": 56.84,
+      "Z": 26.0
+    },
+    "InnerPosition": {
+      "X": 250.75,
+      "Y": 218.11,
+      "Z": 108.44
+    },
+    "InnerSize": {
+      "X": 38.24,
+      "Y": 25.43,
+      "Z": 16.0
+    },
+    "AmbientEmitters": [
+      "ar_null"
+    ]
+  },
+  {
+    "Name": "az_dlc_hei_aircraft_carrier_int_main",
+    "Shape": "Box",
+    "Flags0": 2860516384,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 3060.95,
+      "Y": -4697.84,
+      "Z": 10.38
+    },
+    "OuterSize": {
+      "X": 200.0,
+      "Y": 450.0,
+      "Z": 50.0
+    },
+    "InnerPosition": {
+      "X": 3062.86,
+      "Y": -4704.42,
+      "Z": 5.38
+    },
+    "InnerSize": {
+      "X": 42.18,
+      "Y": 260.0,
+      "Z": 11.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_hei_engine_room_01",
+      "ar_dlc_hei_aircraft_carrier_bg"
+    ]
+  },
+  {
+    "Name": "iz_hei_gta_milo_bridge_gtamloroom_bridge",
+    "Shape": "Box",
+    "Flags0": 2860516385,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": -2080.08,
+      "Y": -1020.12,
+      "Z": 12.72
+    },
+    "OuterSize": {
+      "X": 16.38,
+      "Y": 12.79,
+      "Z": 3.93
+    },
+    "InnerPosition": {
+      "X": -2080.08,
+      "Y": -1020.12,
+      "Z": 12.72
+    },
+    "InnerSize": {
+      "X": 16.38,
+      "Y": 12.79,
+      "Z": 3.93
+    },
+    "AmbientEmitters": [
+      "ar_dlc_hei_yacht_bridge_alarms",
+      "ar_dlc_hei_yacht_bridge_console_01",
+      "ar_dlc_hei_yacht_bridge_console_02",
+      "ar_dlc_hei_yacht_bridge_console_03",
+      "ar_dlc_hei_yacht_bridge_console_04",
+      "ar_dlc_hei_yacht_bridge_console_05"
+    ]
+  },
+  {
+    "Name": "az_dlc_hei_yacht_main",
+    "Shape": "Box",
+    "Flags0": 2860516384,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": -2068.8,
+      "Y": -1023.89,
+      "Z": 7.12
+    },
+    "OuterSize": {
+      "X": 200.0,
+      "Y": 200.0,
+      "Z": 42.0
+    },
+    "InnerPosition": {
+      "X": -2068.8,
+      "Y": -1023.89,
+      "Z": 2.12
+    },
+    "InnerSize": {
+      "X": 103.58,
+      "Y": 11.62,
+      "Z": 10.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_hei_yacht_engine",
+      "ar_dlc_hei_yacht_engine_uw"
+    ]
+  },
+  {
+    "Name": "az_dlc_hei_aircraft_carrier_int_fauxclusion_03",
+    "Shape": "Box",
+    "Flags0": 2860516384,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 3074.93,
+      "Y": -4753.53,
+      "Z": 9.0
+    },
+    "OuterSize": {
+      "X": 85.29,
+      "Y": 163.03,
+      "Z": 7.0
+    },
+    "InnerPosition": {
+      "X": 3080.83,
+      "Y": -4757.88,
+      "Z": 9.38
+    },
+    "InnerSize": {
+      "X": 32.0,
+      "Y": 95.25,
+      "Z": 9.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_heists_distant_gas_jet",
+      "ar_dlc_hei_oneshot_industrial_bangs_carrier",
+      "ar_dlc_hei_metal_squeal",
+      "ar_dlc_hei_aircraft_carrier_hangars_mini_alarms",
+      "ar_dlc_hei_chains"
+    ]
+  },
+  {
+    "Name": "iz_dlc_hei_aircraft_carrier_stairs_fauxclusion",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 3096.0,
+      "Y": -4703.0,
+      "Z": 12.0
+    },
+    "OuterSize": {
+      "X": 30.0,
+      "Y": 30.0,
+      "Z": 60.0
+    },
+    "InnerPosition": {
+      "X": 3096.0,
+      "Y": -4703.0,
+      "Z": 12.0
+    },
+    "InnerSize": {
+      "X": 10.0,
+      "Y": 10.0,
+      "Z": 40.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_hei_acc_metal_creaking"
+    ]
+  },
+  {
+    "Name": "az_dlc_heist_biolab_garage",
+    "Shape": "Box",
+    "Flags0": 2860516384,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 3583.72,
+      "Y": 3663.45,
+      "Z": 41.32
+    },
+    "OuterSize": {
+      "X": 48.67,
+      "Y": 30.31,
+      "Z": 18.0
+    },
+    "InnerPosition": {
+      "X": 3586.74,
+      "Y": 3664.76,
+      "Z": 38.32
+    },
+    "InnerSize": {
+      "X": 24.8,
+      "Y": 20.42,
+      "Z": 10.0
+    },
+    "AmbientEmitters": [
+      "ar_null"
+    ]
+  },
+  {
+    "Name": "az_dlc_hei_aircraft_carrier_deck",
+    "Shape": "Box",
+    "Flags0": 2860516384,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 3067.0,
+      "Y": -4719.0,
+      "Z": 35.0
+    },
+    "OuterSize": {
+      "X": 100.0,
+      "Y": 300.0,
+      "Z": 43.0
+    },
+    "InnerPosition": {
+      "X": 3067.0,
+      "Y": -4719.0,
+      "Z": 24.3
+    },
+    "InnerSize": {
+      "X": 55.0,
+      "Y": 190.0,
+      "Z": 20.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_hei_acc_metal_creaking",
+      "ar_dlc_hei_oneshot_industrial_bangs_carrier",
+      "ar_dlc_hei_acc_radar_dish",
+      "hash_29026375_izsokv_collision",
+      "ar_birds_seagulls_24hr",
+      "hash_0aa3215a_flkmvw_collision",
+      "ar_dlc_hei_acc_gun_turret_01",
+      "ar_dlc_hei_acc_gun_turret_02",
+      "ar_dlc_hei_acc_gun_turret_03",
+      "ar_dlc_hei_acc_gun_turret_04"
+    ]
+  },
+  {
+    "Name": "iz_dlc_hei_aircraft_carrier_control_room_amb_01",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 3096.0,
+      "Y": -4703.0,
+      "Z": 12.0
+    },
+    "OuterSize": {
+      "X": 30.0,
+      "Y": 30.0,
+      "Z": 60.0
+    },
+    "InnerPosition": {
+      "X": 3096.0,
+      "Y": -4703.0,
+      "Z": 12.0
+    },
+    "InnerSize": {
+      "X": 10.0,
+      "Y": 10.0,
+      "Z": 40.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_hei_acc_metal_creaking",
+      "ar_dlc_hei_acc_control_room_alarms",
+      "ar_dlc_hei_acc_control_room_01_console_01",
+      "ar_dlc_hei_acc_control_room_01_console_02",
+      "ar_dlc_hei_acc_control_room_01_console_03",
+      "ar_dlc_hei_acc_control_room_01_console_04",
+      "ar_dlc_hei_acc_control_room_01_console_05",
+      "ar_dlc_hei_acc_control_room_01_console_06",
+      "ar_dlc_hei_acc_control_room_01_console_07",
+      "ar_dlc_hei_acc_control_room_01_console_08",
+      "ar_dlc_hei_acc_control_room_01_console_09"
+    ]
+  },
+  {
+    "Name": "az_dlc_heists_prison",
+    "Shape": "Sphere",
+    "Flags0": 2860516388,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 1675.0,
+      "Y": 2600.0,
+      "Z": 150.0
+    },
+    "OuterSize": {
+      "X": 250.0,
+      "Y": 650.0,
+      "Z": 280.0
+    },
+    "InnerPosition": {
+      "X": 1698.5,
+      "Y": 2585.6,
+      "Z": 35.0
+    },
+    "InnerSize": {
+      "X": 147.42,
+      "Y": 224.68,
+      "Z": 40.0
+    },
+    "AmbientEmitters": [
+      "ar_null"
+    ]
+  },
+  {
+    "Name": "az_dlc_heists_bahama_mamas",
+    "Shape": "Box",
+    "Flags0": 2860516388,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": -1395.2,
+      "Y": -595.5,
+      "Z": 40.36
+    },
+    "OuterSize": {
+      "X": 137.21,
+      "Y": 121.0,
+      "Z": 38.0
+    },
+    "InnerPosition": {
+      "X": -1389.6,
+      "Y": -594.69,
+      "Z": 30.36
+    },
+    "InnerSize": {
+      "X": 18.87,
+      "Y": 8.0,
+      "Z": 10.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_heists_bahama_mamas_music"
+    ]
+  },
+  {
+    "Name": "az_dlc_heists_biolab",
+    "Shape": "Box",
+    "Flags0": 2860516388,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 3560.13,
+      "Y": 3680.72,
+      "Z": 14.55
+    },
+    "OuterSize": {
+      "X": 108.13,
+      "Y": 140.91,
+      "Z": 38.11
+    },
+    "InnerPosition": {
+      "X": 3569.12,
+      "Y": 3678.67,
+      "Z": 26.17
+    },
+    "InnerSize": {
+      "X": 113.47,
+      "Y": 106.32,
+      "Z": 12.0
+    },
+    "AmbientEmitters": [
+      "ar_null"
+    ]
+  },
+  {
+    "Name": "az_dlc_heists_ornate_bank",
+    "Shape": "Box",
+    "Flags0": 2860516388,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 253.47,
+      "Y": 217.28,
+      "Z": 108.44
+    },
+    "OuterSize": {
+      "X": 73.67,
+      "Y": 56.84,
+      "Z": 26.0
+    },
+    "InnerPosition": {
+      "X": 250.75,
+      "Y": 218.11,
+      "Z": 108.44
+    },
+    "InnerSize": {
+      "X": 38.24,
+      "Y": 25.43,
+      "Z": 16.0
     },
     "AmbientEmitters": [
       "ar_null"
@@ -46788,5 +46788,713 @@
       "pr_m23_2_dlc_int_salvage_neon_02",
       "pr_m23_2_dlc_int_salvage_pc"
     ]
+  },
+  {
+    "Name": "iz_m24_1_aircraft_carrier_control_room_amb_02",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": -3260.1,
+      "Y": 3918.7,
+      "Z": 12.0
+    },
+    "OuterSize": {
+      "X": 30.0,
+      "Y": 30.0,
+      "Z": 60.0
+    },
+    "InnerPosition": {
+      "X": -3260.1,
+      "Y": 3918.7,
+      "Z": 12.0
+    },
+    "InnerSize": {
+      "X": 10.0,
+      "Y": 10.0,
+      "Z": 40.0
+    },
+    "AmbientEmitters": [
+      "ar_m24_1_acc_metal_creaking",
+      "ar_m24_1_control_room_2_bg"
+    ]
+  },
+  {
+    "Name": "iz_m24_1_aircraft_carrier_stairs_fauxclusion",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": -3260.1,
+      "Y": 3918.7,
+      "Z": 12.0
+    },
+    "OuterSize": {
+      "X": 30.0,
+      "Y": 30.0,
+      "Z": 60.0
+    },
+    "InnerPosition": {
+      "X": -3260.1,
+      "Y": 3918.7,
+      "Z": 12.0
+    },
+    "InnerSize": {
+      "X": 10.0,
+      "Y": 10.0,
+      "Z": 40.0
+    },
+    "AmbientEmitters": [
+      "ar_m24_1_acc_metal_creaking"
+    ]
+  },
+  {
+    "Name": "iz_m24_1_dlc_int_bounty_room_entrance",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 566.2,
+      "Y": -2680.9,
+      "Z": -48.4
+    },
+    "OuterSize": {
+      "X": 4.36,
+      "Y": 6.1,
+      "Z": 3.4
+    },
+    "InnerPosition": {
+      "X": 566.2,
+      "Y": -2680.9,
+      "Z": -48.4
+    },
+    "InnerSize": {
+      "X": 4.36,
+      "Y": 6.1,
+      "Z": 3.4
+    },
+    "AmbientEmitters": []
+  },
+  {
+    "Name": "az_m24_1_aircraft_carrier_int_fauxclusion_01",
+    "Shape": "Box",
+    "Flags0": 2860516384,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": -3248.7,
+      "Y": 4019.18,
+      "Z": -1.0
+    },
+    "OuterSize": {
+      "X": 98.88,
+      "Y": 158.22,
+      "Z": 27.0
+    },
+    "InnerPosition": {
+      "X": -3234.7,
+      "Y": 3987.46,
+      "Z": 8.38
+    },
+    "InnerSize": {
+      "X": 31.5,
+      "Y": 62.22,
+      "Z": 10.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_heists_distant_gas_jet",
+      "ar_m24_1_aircraft_carrier_hangars_mini_alarms",
+      "ar_m24_1_acc_metal_creaking",
+      "ar_m24_1_metal_squeal",
+      "ar_m24_1_oneshot_industrial_bangs_carrier",
+      "ar_m24_1_chains"
+    ]
+  },
+  {
+    "Name": "az_m24_1_aircraft_carrier_int_tower",
+    "Shape": "Box",
+    "Flags0": 2860516384,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": -3257.24,
+      "Y": 3956.32,
+      "Z": 24.96
+    },
+    "OuterSize": {
+      "X": 50.0,
+      "Y": 60.0,
+      "Z": 23.0
+    },
+    "InnerPosition": {
+      "X": -3259.13,
+      "Y": 3927.53,
+      "Z": 16.6
+    },
+    "InnerSize": {
+      "X": 20.0,
+      "Y": 42.0,
+      "Z": 13.0
+    },
+    "AmbientEmitters": [
+      "ar_m24_1_aircraft_carrier_hangars_mini_alarms",
+      "ar_m24_1_acc_stairs_electrics_01",
+      "ar_m24_1_acc_stairs_pipes_01",
+      "ar_m24_1_acc_stairs_pipes_02",
+      "ar_m24_1_acc_stairs_pipes_03",
+      "ar_m24_1_acc_stairs_pipes_04",
+      "ar_m24_1_acc_stairs_electrics_02"
+    ]
+  },
+  {
+    "Name": "iz_m24_1_dlc_int_bounty_room_lower_corridor",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 567.73,
+      "Y": -2679.98,
+      "Z": -52.1
+    },
+    "OuterSize": {
+      "X": 6.82,
+      "Y": 4.26,
+      "Z": 3.6
+    },
+    "InnerPosition": {
+      "X": 567.73,
+      "Y": -2679.98,
+      "Z": -52.1
+    },
+    "InnerSize": {
+      "X": 6.82,
+      "Y": 4.26,
+      "Z": 3.6
+    },
+    "AmbientEmitters": []
+  },
+  {
+    "Name": "az_m24_1_aircraft_carrier_int_main",
+    "Shape": "Box",
+    "Flags0": 2860516384,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": -3237.27,
+      "Y": 3935.96,
+      "Z": 12.85
+    },
+    "OuterSize": {
+      "X": 200.0,
+      "Y": 450.0,
+      "Z": 50.0
+    },
+    "InnerPosition": {
+      "X": -3235.36,
+      "Y": 3929.38,
+      "Z": 7.62
+    },
+    "InnerSize": {
+      "X": 42.18,
+      "Y": 260.0,
+      "Z": 11.0
+    },
+    "AmbientEmitters": [
+      "ar_m24_1_engine_room_01",
+      "ar_m24_1_aircraft_carrier_bg"
+    ]
+  },
+  {
+    "Name": "iz_m24_1_dlc_int_bounty_room_holding00",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 562.19,
+      "Y": -2684.55,
+      "Z": -48.52
+    },
+    "OuterSize": {
+      "X": 4.74,
+      "Y": 3.93,
+      "Z": 3.15
+    },
+    "InnerPosition": {
+      "X": 562.19,
+      "Y": -2684.55,
+      "Z": -48.52
+    },
+    "InnerSize": {
+      "X": 4.74,
+      "Y": 3.93,
+      "Z": 3.15
+    },
+    "AmbientEmitters": []
+  },
+  {
+    "Name": "az_m24_1_aircraft_carrier_int_fauxclusion_03",
+    "Shape": "Box",
+    "Flags0": 2860516384,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": -3248.67,
+      "Y": 3859.65,
+      "Z": 7.75
+    },
+    "OuterSize": {
+      "X": 85.29,
+      "Y": 163.03,
+      "Z": 7.0
+    },
+    "InnerPosition": {
+      "X": -3242.67,
+      "Y": 3859.48,
+      "Z": 8.24
+    },
+    "InnerSize": {
+      "X": 32.0,
+      "Y": 95.25,
+      "Z": 9.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_heists_distant_gas_jet",
+      "ar_m24_1_oneshot_industrial_bangs_carrier",
+      "ar_m24_1_metal_squeal",
+      "ar_m24_1_aircraft_carrier_hangars_mini_alarms",
+      "ar_m24_1_chains"
+    ]
+  },
+  {
+    "Name": "az_m24_1_aircraft_carrier_deck",
+    "Shape": "Box",
+    "Flags0": 2860516384,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": -3231.0,
+      "Y": 3914.0,
+      "Z": 35.0
+    },
+    "OuterSize": {
+      "X": 100.0,
+      "Y": 300.0,
+      "Z": 43.0
+    },
+    "InnerPosition": {
+      "X": -3231.0,
+      "Y": 3914.0,
+      "Z": 24.3
+    },
+    "InnerSize": {
+      "X": 55.0,
+      "Y": 190.0,
+      "Z": 20.0
+    },
+    "AmbientEmitters": [
+      "ar_m24_1_acc_metal_creaking",
+      "ar_m24_1_oneshot_industrial_bangs_carrier",
+      "ar_m24_1_acc_radar_dish",
+      "hash_29026375_izsokv_collision",
+      "ar_birds_seagulls_24hr",
+      "hash_0aa3215a_flkmvw_collision"
+    ]
+  },
+  {
+    "Name": "iz_m24_1_dlc_int_bounty_room_main",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 561.71,
+      "Y": -2691.46,
+      "Z": -48.41
+    },
+    "OuterSize": {
+      "X": 11.79,
+      "Y": 15.01,
+      "Z": 3.43
+    },
+    "InnerPosition": {
+      "X": 561.71,
+      "Y": -2691.46,
+      "Z": -48.41
+    },
+    "InnerSize": {
+      "X": 11.79,
+      "Y": 15.01,
+      "Z": 3.43
+    },
+    "AmbientEmitters": []
+  },
+  {
+    "Name": "az_m23_1_dlc_int_01_m23_1_extra",
+    "Shape": "Box",
+    "Flags0": 2860516384,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": -1905.85,
+      "Y": 3749.81,
+      "Z": -100.0
+    },
+    "OuterSize": {
+      "X": 100.0,
+      "Y": 100.0,
+      "Z": 100.0
+    },
+    "InnerPosition": {
+      "X": -1905.85,
+      "Y": 3749.81,
+      "Z": -100.0
+    },
+    "InnerSize": {
+      "X": 150.0,
+      "Y": 150.0,
+      "Z": 150.0
+    },
+    "AmbientEmitters": [
+      "az_m23_1_dlc_int_01_m23_1_extra_ar_fac_ann"
+    ]
+  },
+  {
+    "Name": "iz_m24_1_dlc_int_mod_room_main",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 649.72,
+      "Y": -2690.76,
+      "Z": -47.38
+    },
+    "OuterSize": {
+      "X": 27.49,
+      "Y": 13.98,
+      "Z": 5.82
+    },
+    "InnerPosition": {
+      "X": 649.72,
+      "Y": -2690.76,
+      "Z": -47.38
+    },
+    "InnerSize": {
+      "X": 27.49,
+      "Y": 13.98,
+      "Z": 5.82
+    },
+    "AmbientEmitters": []
+  },
+  {
+    "Name": "iz_m23_2_int_counterfeit_mainroom",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 932.57,
+      "Y": -2269.46,
+      "Z": -49.0
+    },
+    "OuterSize": {
+      "X": 24.2,
+      "Y": 13.28,
+      "Z": 4.81
+    },
+    "InnerPosition": {
+      "X": 932.57,
+      "Y": -2269.46,
+      "Z": -49.0
+    },
+    "InnerSize": {
+      "X": 24.2,
+      "Y": 13.28,
+      "Z": 4.81
+    },
+    "AmbientEmitters": [
+      "pr_dlc_23_02_cash_warehouse_dryers_01",
+      "pr_dlc_23_02_cash_warehouse_dryers_02",
+      "pr_dlc_23_02_cash_warehouse_dryers_04",
+      "pr_dlc_23_02_cash_warehouse_dryers_05"
+    ]
+  },
+  {
+    "Name": "iz_m24_1_dlc_int_bounty_room_stairwell",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 562.39,
+      "Y": -2679.98,
+      "Z": -50.6
+    },
+    "OuterSize": {
+      "X": 3.86,
+      "Y": 4.26,
+      "Z": 6.6
+    },
+    "InnerPosition": {
+      "X": 562.39,
+      "Y": -2679.98,
+      "Z": -50.6
+    },
+    "InnerSize": {
+      "X": 3.86,
+      "Y": 4.26,
+      "Z": 6.6
+    },
+    "AmbientEmitters": []
+  },
+  {
+    "Name": "iz_m24_1_dlc_int_bounty_room_pq",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 568.46,
+      "Y": -2703.97,
+      "Z": -48.6
+    },
+    "OuterSize": {
+      "X": 4.52,
+      "Y": 6.28,
+      "Z": 3.0
+    },
+    "InnerPosition": {
+      "X": 568.46,
+      "Y": -2703.97,
+      "Z": -48.6
+    },
+    "InnerSize": {
+      "X": 4.52,
+      "Y": 6.28,
+      "Z": 3.0
+    },
+    "AmbientEmitters": []
+  },
+  {
+    "Name": "az_m24_1_aircraft_carrier_int_fauxclusion_02",
+    "Shape": "Box",
+    "Flags0": 2860516384,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": -3223.73,
+      "Y": 3944.96,
+      "Z": -5.0
+    },
+    "OuterSize": {
+      "X": 79.99,
+      "Y": 89.0,
+      "Z": 35.0
+    },
+    "InnerPosition": {
+      "X": -3233.02,
+      "Y": 3913.09,
+      "Z": 8.0
+    },
+    "InnerSize": {
+      "X": 50.01,
+      "Y": 83.0,
+      "Z": 10.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_heists_distant_gas_jet",
+      "ar_m24_1_metal_squeal",
+      "ar_m24_1_aircraft_carrier_hangars_mini_alarms",
+      "ar_m24_1_acc_metal_creaking",
+      "ar_m24_1_oneshot_industrial_bangs_carrier",
+      "ar_m24_1_chains"
+    ]
+  },
+  {
+    "Name": "iz_m24_1_aircraft_carrier_control_room_amb_01",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": -3260.1,
+      "Y": 3918.7,
+      "Z": 12.0
+    },
+    "OuterSize": {
+      "X": 30.0,
+      "Y": 30.0,
+      "Z": 60.0
+    },
+    "InnerPosition": {
+      "X": -3260.1,
+      "Y": 3918.7,
+      "Z": 12.0
+    },
+    "InnerSize": {
+      "X": 10.0,
+      "Y": 10.0,
+      "Z": 40.0
+    },
+    "AmbientEmitters": [
+      "ar_m24_1_acc_metal_creaking",
+      "ar_m24_1_acc_control_room_alarms",
+      "ar_m24_1_acc_control_room_01_console_01",
+      "ar_m24_1_acc_control_room_01_console_02",
+      "ar_m24_1_acc_control_room_01_console_03",
+      "ar_m24_1_acc_control_room_01_console_04",
+      "ar_m24_1_acc_control_room_01_console_05",
+      "ar_m24_1_acc_control_room_01_console_06",
+      "ar_m24_1_acc_control_room_01_console_07",
+      "ar_m24_1_acc_control_room_01_console_08",
+      "ar_m24_1_acc_control_room_01_console_09"
+    ]
+  },
+  {
+    "Name": "iz_m24_1_dlc_int_bounty_room_main002",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 568.42,
+      "Y": -2704.28,
+      "Z": -48.72
+    },
+    "OuterSize": {
+      "X": 4.45,
+      "Y": 5.42,
+      "Z": 2.76
+    },
+    "InnerPosition": {
+      "X": 568.42,
+      "Y": -2704.28,
+      "Z": -48.72
+    },
+    "InnerSize": {
+      "X": 4.45,
+      "Y": 5.42,
+      "Z": 2.76
+    },
+    "AmbientEmitters": []
+  },
+  {
+    "Name": "az_m24_1_aircraft_carrier_alarm",
+    "Shape": "Box",
+    "Flags0": 2860516384,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": -3231.0,
+      "Y": 3914.0,
+      "Z": 35.0
+    },
+    "OuterSize": {
+      "X": 1000.0,
+      "Y": 1000.0,
+      "Z": 300.0
+    },
+    "InnerPosition": {
+      "X": -3231.0,
+      "Y": 3914.0,
+      "Z": 24.3
+    },
+    "InnerSize": {
+      "X": 55.0,
+      "Y": 190.0,
+      "Z": 20.0
+    },
+    "AmbientEmitters": [
+      "ar_m24_1_acc_alarm_01"
+    ]
+  },
+  {
+    "Name": "iz_m24_1_dlc_int_bounty_room_office",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 562.71,
+      "Y": -2702.42,
+      "Z": -48.3
+    },
+    "OuterSize": {
+      "X": 6.98,
+      "Y": 9.6,
+      "Z": 3.6
+    },
+    "InnerPosition": {
+      "X": 562.71,
+      "Y": -2702.42,
+      "Z": -48.3
+    },
+    "InnerSize": {
+      "X": 6.98,
+      "Y": 9.6,
+      "Z": 3.6
+    },
+    "AmbientEmitters": []
+  },
+  {
+    "Name": "iz_m24_1_dlc_int_bounty_room_cell",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 562.55,
+      "Y": -2685.34,
+      "Z": -48.5
+    },
+    "OuterSize": {
+      "X": 4.02,
+      "Y": 2.35,
+      "Z": 3.19
+    },
+    "InnerPosition": {
+      "X": 562.55,
+      "Y": -2685.34,
+      "Z": -48.5
+    },
+    "InnerSize": {
+      "X": 4.02,
+      "Y": 2.35,
+      "Z": 3.19
+    },
+    "AmbientEmitters": []
+  },
+  {
+    "Name": "iz_m24_1_dlc_int_bounty_room_garage",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 567.25,
+      "Y": -2689.27,
+      "Z": -52.29
+    },
+    "OuterSize": {
+      "X": 15.78,
+      "Y": 14.36,
+      "Z": 3.22
+    },
+    "InnerPosition": {
+      "X": 567.25,
+      "Y": -2689.27,
+      "Z": -52.29
+    },
+    "InnerSize": {
+      "X": 15.78,
+      "Y": 14.36,
+      "Z": 3.22
+    },
+    "AmbientEmitters": []
   }
 ]

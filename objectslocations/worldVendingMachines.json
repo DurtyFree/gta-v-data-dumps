@@ -3900,6 +3900,32 @@
     }
   },
   {
+    "Name": "prop_vend_soda_02",
+    "Position": {
+      "X": 564.59283,
+      "Y": -2678.454,
+      "Z": -49.04712
+    },
+    "Rotation": {
+      "X": 0.0,
+      "Y": -0.0,
+      "Z": 0.0
+    }
+  },
+  {
+    "Name": "prop_watercooler",
+    "Position": {
+      "X": 567.3789,
+      "Y": -2693.6953,
+      "Z": -50.0
+    },
+    "Rotation": {
+      "X": 0.0,
+      "Y": -0.0,
+      "Z": -85.00001
+    }
+  },
+  {
     "Name": "prop_watercooler",
     "Position": {
       "X": 1114.1558,

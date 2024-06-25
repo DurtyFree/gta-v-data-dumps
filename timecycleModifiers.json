@@ -4505,6 +4505,21 @@
     "ModificationsCount": 1
   },
   {
+    "Name": "DLC_mp2024_01_BountyHunter_01",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 54
+  },
+  {
+    "Name": "DLC_mp2024_01_BountyHunter_cell",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 54
+  },
+  {
+    "Name": "DLC_mp2024_01_BountyHunter_02",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 54
+  },
+  {
     "Name": "AP1_01_C_NoFog",
     "DlcName": "TitleUpdate",
     "ModificationsCount": 3

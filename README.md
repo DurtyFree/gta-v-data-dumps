@@ -32,7 +32,7 @@ This is a collection of various GTA V data dumps mostly useful for modding &amp;
 - **AnimpostFX names** ([animPostFxNamesCompact.json](animPostFxNamesCompact.json)) **167** animpostfx names in total (Usable with ANIMPOSTFX natives)
 - **Ped Component Variations** with cloth names and translations ([pedComponentVariations.json](pedComponentVariations.json)) **32682** component variations & **5759** ped props from a total of **90** ped component variation collections (Usable with COMPONENT VARIATION & PED PROP natives)
 - **Ped Component Variations** without cloth names and translations ([pedComponentVariations_free.json](pedComponentVariations_free.json)) **32682** component variations & **5759** ped props from a total of **90** ped component variation collections (Usable with COMPONENT VARIATION & PED PROP natives)
-- **Ped Apparel Restriction tag names** ([animPostFxNamesCompact.json](animPostFxNamesCompact.json)) **476** ped apparel restriction tags in total (Usable with PED RESTRICTION natives)
+- **Ped Apparel Restriction tag names** ([pedApparelRestrictionTags.json](pedApparelRestrictionTags.json)) **476** ped apparel restriction tags in total (Usable with PED RESTRICTION natives)
 - **Waypoint recording names** ([waypointRecordings.json](waypointRecordings.json)) **810** waypoint recording infos in total (Usable with WAYPOINT RECORDING natives)
 - **Garages** ([garages.json](garages.json)) **32** garage infos in total (Usable with GARAGE natives)
 - **Vehicle Handlings** ([vehicleHandlings.json](vehicleHandlings.json)) **791** vehicle handling infos in total (Shared for all existing vehicles, see handling id in vehicles dump)

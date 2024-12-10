@@ -485,21 +485,6 @@
     "Model": "w_ar_bullpuprifle"
   },
   {
-    "Name": "PICKUP_WEAPON_PISTOLXM3",
-    "Hash": 3063083075,
-    "Model": "W_PI_Pistol_XM3"
-  },
-  {
-    "Name": "PICKUP_WEAPON_CANDYCANE",
-    "Hash": 1337246736,
-    "Model": "W_ME_Candy_XM3"
-  },
-  {
-    "Name": "PICKUP_WEAPON_RAILGUNXM3",
-    "Hash": 4109932467,
-    "Model": "W_AR_RailGun_XM3"
-  },
-  {
     "Name": "PICKUP_WEAPON_RAYPISTOL",
     "Hash": 3812817136,
     "Model": "W_PI_RAYGUN"
@@ -548,6 +533,21 @@
     "Name": "PICKUP_WEAPON_SPECIALCARBINE_MK2",
     "Hash": 94531552,
     "Model": "w_ar_specialcarbinemk2"
+  },
+  {
+    "Name": "PICKUP_WEAPON_PISTOLXM3",
+    "Hash": 3063083075,
+    "Model": "W_PI_Pistol_XM3"
+  },
+  {
+    "Name": "PICKUP_WEAPON_CANDYCANE",
+    "Hash": 1337246736,
+    "Model": "W_ME_Candy_XM3"
+  },
+  {
+    "Name": "PICKUP_WEAPON_RAILGUNXM3",
+    "Hash": 4109932467,
+    "Model": "W_AR_RailGun_XM3"
   },
   {
     "Name": "PICKUP_WEAPON_PROXMINE",
@@ -868,5 +868,10 @@
     "Name": "PICKUP_WEAPON_STUNROD",
     "Hash": 518706036,
     "Model": "W_ME_Rod_M41"
+  },
+  {
+    "Name": "PICKUP_WEAPON_STRICKLER",
+    "Hash": 3791167784,
+    "Model": "W_AR_BullpupRifleM42"
   }
 ]

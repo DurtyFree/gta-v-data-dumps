@@ -3466,6 +3466,161 @@
     ]
   },
   {
+    "DictionaryName": "cut_xm24",
+    "EffectNames": [
+      "cs_xm24_titan_smoke_linger",
+      "cs_xm24_titan_exp2_cannon",
+      "cs_xm24_titan_console_sparks",
+      "cs_xm24_cig_smoke",
+      "cs_xm24_titan_exp_cannon",
+      "cs_xm24_titan_pedestal_sparks",
+      "cs_xm24_titan_engine_burst",
+      "cs_xm24_titan_window_smash",
+      "cs_xm24_cig_smoke_exhale",
+      "cs_xm24_titan_engine_trail",
+      "scr_hr_mfh_expdrop_exp_trail_sp",
+      "cs_xm24_titan_turbulance_dust",
+      "cs_xm24_crate_impact",
+      "cs_xm24_titan_wreck_fire",
+      "sp_cs_xm24_titan_console_sparks",
+      "cs_xm24_titan_muz_cannon"
+    ]
+  },
+  {
+    "DictionaryName": "ent_hr_rob_whistle",
+    "EffectNames": [
+      "ent_amb_hr_rob_vault_gas_leak"
+    ]
+  },
+  {
+    "DictionaryName": "scr_hr_adv",
+    "EffectNames": [
+      "scr_hr_adv_van_smoke"
+    ]
+  },
+  {
+    "DictionaryName": "scr_hr_lny_races",
+    "EffectNames": [
+      "scr_hr_lny_firework_burst",
+      "scr_hr_lny_firework_launch_dog",
+      "scr_hr_lny_firework_burst_pig",
+      "scr_hr_lny_firework_launch_sheep",
+      "scr_hr_lny_firework_launch_snake",
+      "scr_hr_lny_firework_launch_dragon",
+      "scr_hr_lny_firework_launch_burst_small",
+      "scr_hr_lny_firework_burst_star",
+      "scr_hr_lny_firework_burst_rooster",
+      "scr_hr_lny_firework_launch_rat",
+      "scr_hr_lny_firework_launch_elephant",
+      "scr_hr_lny_firework_launch_horse",
+      "scr_hr_lny_firework_launch_pig",
+      "scr_hr_lny_firework_burst_snake",
+      "scr_hr_lny_firework_burst_cat",
+      "scr_hr_lny_firework_burst_horse",
+      "scr_hr_lny_firework_burst_heart",
+      "scr_hr_lny_firework_launch_shape_star",
+      "scr_hr_lny_firework_burst_rat",
+      "scr_hr_lny_firework_skyline",
+      "scr_hr_lny_firework_launch_rooster",
+      "scr_hr_lny_firework_launch_buffalo",
+      "scr_hr_lny_firework_burst_monkey",
+      "scr_hr_lny_firework_burst_buffalo",
+      "scr_hr_lny_firework_launch_shape_face",
+      "scr_hr_lny_firework_burst_small",
+      "scr_hr_lny_firework_burst_face",
+      "scr_hr_lny_firework_burst_rabbit",
+      "scr_hr_lny_firework_launch_rabbit",
+      "scr_hr_lny_firework_fountain_tall_spawn",
+      "scr_hr_lny_firework_burst_dog",
+      "scr_hr_lny_firework_launch",
+      "scr_hr_lny_firework_launch_burst_large",
+      "scr_hr_lny_firework_burst_tiger",
+      "scr_hr_lny_firework_launch_shape_heart",
+      "sp_hr_lny_firework_launch_trail",
+      "scr_hr_lny_firework_launch_cat",
+      "scr_hr_lny_firework_launch_monkey",
+      "scr_hr_lny_firework_fountain_tall",
+      "sp_hr_lny_firework_trail",
+      "scr_hr_lny_firework_launch_tiger",
+      "scr_hr_lny_firework_burst_sheep",
+      "scr_hr_lny_firework_launch_burst",
+      "scr_hr_lny_firework_burst_dragon",
+      "scr_hr_lny_firework_burst_large",
+      "scr_hr_lny_firework_burst_elephant"
+    ]
+  },
+  {
+    "DictionaryName": "scr_hr_mfh",
+    "EffectNames": [
+      "scr_hr_mfh_moc_exp",
+      "scr_hr_mfh_expdrop_exp",
+      "scr_hr_mfh_prop_smoke",
+      "scr_hr_mfh_missile_exp",
+      "scr_hr_mfh_container_destroy",
+      "scr_hr_mfh_gascage_exp",
+      "scr_hr_mfh_shark_attack_loop",
+      "scr_hr_mfh_sub_exp",
+      "scr_hr_mfh_plane_crash",
+      "scr_hr_mfh_hideout_exp",
+      "scr_hr_mfh_missile_trail",
+      "scr_hr_mfh_shark_attack_bite",
+      "scr_hr_mfh_expdrop_exp_trail_sp",
+      "scr_hr_mfh_shark_attack_release"
+    ]
+  },
+  {
+    "DictionaryName": "scr_hr_rob_cargo",
+    "EffectNames": [
+      "scr_hr_rob_plane_engine_trail",
+      "scr_hr_rob_plane_engine_burst",
+      "scr_hr_rob_plane_water_splash"
+    ]
+  },
+  {
+    "DictionaryName": "scr_hr_rob_data",
+    "EffectNames": [
+      "scr_hr_rob_eye_scanner",
+      "scr_hr_rob_handler_smoke",
+      "scr_hr_rob_emp_charge_exp"
+    ]
+  },
+  {
+    "DictionaryName": "scr_hr_rob_fort",
+    "EffectNames": [
+      "scr_hr_rob_kinetic_pulse"
+    ]
+  },
+  {
+    "DictionaryName": "scr_hr_rob_pent",
+    "EffectNames": [
+      "scr_hr_rob_floor_vent_gas",
+      "scr_hr_rob_tula_engine_smoke"
+    ]
+  },
+  {
+    "DictionaryName": "scr_hr_rob_whistle",
+    "EffectNames": [
+      "scr_hr_rob_vault_gas_leak",
+      "scr_hr_rob_vault_gas_haze"
+    ]
+  },
+  {
+    "DictionaryName": "weap_hr_duster2",
+    "EffectNames": [
+      "weap_hr_duster2_mg"
+    ]
+  },
+  {
+    "DictionaryName": "weap_hr_titan2",
+    "EffectNames": [
+      "muz_hr_titan2_40",
+      "exp_hr_titan2_40_grd",
+      "muz_hr_titan2_105",
+      "exp_hr_titan2_40_air",
+      "muz_hr_titan2_25"
+    ]
+  },
+  {
     "DictionaryName": "scr_ar_planes",
     "EffectNames": [
       "scr_ar_trail_smoke_slow",

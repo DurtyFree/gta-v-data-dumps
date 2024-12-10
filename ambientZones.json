@@ -130,7 +130,7 @@
     ]
   },
   {
-    "Name": "hash_45512d00_ftenzv_collision",
+    "Name": "az_walla_ls_vespucci_06",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -385,7 +385,7 @@
     ]
   },
   {
-    "Name": "hash_6b957601_utpbwg_collision",
+    "Name": "az_lesters_house_cameras_01",
     "Shape": "Box",
     "Flags0": 2860516452,
     "Flags1": 0,
@@ -709,7 +709,7 @@
     ]
   },
   {
-    "Name": "hash_21ce1e05_xcksanb_collision",
+    "Name": "iz_v_policehub_ph_lobby_room",
     "Shape": "Box",
     "Flags0": 2860516389,
     "Flags1": 0,
@@ -1648,7 +1648,7 @@
     ]
   },
   {
-    "Name": "hash_f47c440c_cphffel_collision",
+    "Name": "iz_v_lab_lab_lab2",
     "Shape": "Box",
     "Flags0": 2860516389,
     "Flags1": 0,
@@ -1709,7 +1709,7 @@
     ]
   },
   {
-    "Name": "hash_8d04c70d_ecnuvke_collision",
+    "Name": "az_los_santos_shipyard_substation",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -1739,7 +1739,7 @@
     ]
   },
   {
-    "Name": "hash_9f9bde0d_ytuxqog_collision",
+    "Name": "az_lesters_house_cameras_02",
     "Shape": "Box",
     "Flags0": 2860516452,
     "Flags1": 0,
@@ -1930,7 +1930,7 @@
     ]
   },
   {
-    "Name": "hash_12cb5b0f_hyvbckv_collision",
+    "Name": "az_los_santos_construction_site_03",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -2186,13 +2186,13 @@
       "hash_13fc6e08_emnacss_collision",
       "ar_chipmunk",
       "hash_7a168719_aevvgfel_collision",
-      "hash_25c99083_vxcaecp_collision",
+      "ar_cicadas_b_city",
       "ar_crickets_e_far",
       "da_city_noise_forest"
     ]
   },
   {
-    "Name": "hash_90caa211_homzzyi_collision",
+    "Name": "az_walla_ls_del_perro_04",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -2637,7 +2637,7 @@
     ]
   },
   {
-    "Name": "hash_515cc214_fbvztat_collision",
+    "Name": "az_los_santos_train_tracks_01",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -2708,7 +2708,7 @@
     ]
   },
   {
-    "Name": "hash_631fee14_bstxqew_collision",
+    "Name": "az_los_santos_docks_substation",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -2908,7 +2908,7 @@
     ]
   },
   {
-    "Name": "hash_96d17616_pydjdyw_collision",
+    "Name": "az_industrial_area_distant",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -3029,7 +3029,7 @@
     ]
   },
   {
-    "Name": "hash_465e2c17_eshoejd_collision",
+    "Name": "az_los_santos_train_tracks_02",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -3260,7 +3260,7 @@
     ]
   },
   {
-    "Name": "hash_65c78118_vjxygm_collision",
+    "Name": "iz_v_lab_lab_poolroom",
     "Shape": "Box",
     "Flags0": 2860516389,
     "Flags1": 0,
@@ -3440,7 +3440,7 @@
     ]
   },
   {
-    "Name": "hash_794a971a_eleaqai_collision",
+    "Name": "az_los_santos_downtown_park",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -3691,7 +3691,7 @@
     ]
   },
   {
-    "Name": "hash_a79df51c_qltcepe_collision",
+    "Name": "az_walla_ls_vespucci_10",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -3721,7 +3721,7 @@
     ]
   },
   {
-    "Name": "hash_16b9f91d_pvbmgba_collision",
+    "Name": "az_walla_ls_rockford_01",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -3844,7 +3844,7 @@
     ]
   },
   {
-    "Name": "hash_c7017f1d_catcged_collision",
+    "Name": "az_los_santos_port_cranes_03",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -3877,7 +3877,7 @@
     ]
   },
   {
-    "Name": "hash_1b53931e_evpvkvq_collision",
+    "Name": "az_los_santos_rockford",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -3940,7 +3940,7 @@
     ]
   },
   {
-    "Name": "hash_2e620e1e_zpirhml_collision",
+    "Name": "iz_v_lab_lab_coldroom",
     "Shape": "Box",
     "Flags0": 2860516389,
     "Flags1": 0,
@@ -3970,7 +3970,7 @@
     ]
   },
   {
-    "Name": "hash_5973251e_clwjonr_collision",
+    "Name": "az_big_zones_arid_05",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -4465,7 +4465,7 @@
     ]
   },
   {
-    "Name": "hash_de2f5222_gmuhcg_collision",
+    "Name": "az_walla_ls_downtown_04",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -4495,7 +4495,7 @@
     ]
   },
   {
-    "Name": "hash_e9d99622_qrqwzvq_collision",
+    "Name": "az_los_santos_airport_area",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -4990,7 +4990,7 @@
       "hash_17bb8bec_pyactou_collision",
       "ar_fly_24hr",
       "hash_1f307ebc_dlfwofc_collision",
-      "hash_5deb9cb2_aacsbgq_collision"
+      "ar_chicken_factory_chickens_shriek"
     ]
   },
   {
@@ -5359,7 +5359,7 @@
     "AmbientEmitters": []
   },
   {
-    "Name": "hash_97960329_fasytec_collision",
+    "Name": "az_ls_kortz_centre_01",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -5608,7 +5608,7 @@
       "ar_fly_infrequent",
       "ar_birds_finches_day",
       "ar_birds_finches_song_day",
-      "hash_25c99083_vxcaecp_collision"
+      "ar_cicadas_b_city"
     ]
   },
   {
@@ -6046,7 +6046,7 @@
     ]
   },
   {
-    "Name": "hash_a2ace42f_aczyjrjd_collision",
+    "Name": "az_lesters_house_cameras_05",
     "Shape": "Box",
     "Flags0": 2860516452,
     "Flags1": 0,
@@ -6253,9 +6253,9 @@
       "hash_b25b832f_hpsdjhn_collision",
       "ar_birds_crow_distant",
       "ar_crickets_c_city",
-      "hash_25c99083_vxcaecp_collision",
+      "ar_cicadas_b_city",
       "hash_7b426081_qfjrlnea_collision",
-      "hash_f699e7db_zlvekyka_collision",
+      "hash_f699e7db_alqpttrw_collision",
       "hash_be231518_uxrmapm_collision",
       "hash_6decdd6e_cwgsty_collision",
       "ar_vehicles_brakes_distant",
@@ -6640,7 +6640,7 @@
     ]
   },
   {
-    "Name": "hash_d8e9d433_klogbit_collision",
+    "Name": "az_walla_ls_vespucci_02",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -6888,7 +6888,7 @@
     ]
   },
   {
-    "Name": "hash_3d8f4435_tfiszyfa_collision",
+    "Name": "az_hospital_entrance_02",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -6914,7 +6914,7 @@
       "Z": 20.0
     },
     "AmbientEmitters": [
-      "hash_6b9e3b67_ejislca_collision"
+      "er_hospital_entrance_02"
     ]
   },
   {
@@ -7131,7 +7131,7 @@
     "AmbientEmitters": []
   },
   {
-    "Name": "hash_f0231736_gjpvvtba_collision",
+    "Name": "az_los_santos_richman_park_01",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -7167,7 +7167,7 @@
     ]
   },
   {
-    "Name": "hash_20ec6437_ahnatbsx_collision",
+    "Name": "az_walla_ls_vespucci_04",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -7474,7 +7474,7 @@
     ]
   },
   {
-    "Name": "hash_43aeb639_ahgrsnq_collision",
+    "Name": "az_walla_ls_florence_02",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -7504,7 +7504,7 @@
     ]
   },
   {
-    "Name": "hash_69edf639_gedcyet_collision",
+    "Name": "az_walla_ls_vespucci_08",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -7808,7 +7808,7 @@
     "AmbientEmitters": []
   },
   {
-    "Name": "hash_b8ac723a_lqqfhbf_collision",
+    "Name": "az_walla_ls_eclipse_02",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -8161,7 +8161,7 @@
       "ar_animals_urban_dog",
       "hash_d67c841b_dplwbqo_collision",
       "ar_birds_crow_day",
-      "hash_07798f63_dsaidr_collision",
+      "ar_mosquito_infrequent",
       "hash_4a82025c_gtnewra_collision",
       "hash_53b267f9_aywrqfm_collision"
     ]
@@ -8206,7 +8206,7 @@
     ]
   },
   {
-    "Name": "hash_7db2113d_trwipww_collision",
+    "Name": "az_walla_ls_downtown_01",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -8721,7 +8721,7 @@
     ]
   },
   {
-    "Name": "hash_9ebfd140_scoxphc_collision",
+    "Name": "az_los_santos_richman_valley",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -8803,7 +8803,7 @@
     ]
   },
   {
-    "Name": "hash_f8658140_etslcpd_collision",
+    "Name": "az_biker_camp_trailer_small_03",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -9449,7 +9449,7 @@
     ]
   },
   {
-    "Name": "hash_f27d4548_pmwstje_collision",
+    "Name": "az_car_park_reflections_00",
     "Shape": "Box",
     "Flags0": 2860532772,
     "Flags1": 0,
@@ -9516,7 +9516,7 @@
     ]
   },
   {
-    "Name": "hash_83c41d49_lkogwmz_collision",
+    "Name": "az_walla_ls_downtown_06",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -9590,7 +9590,7 @@
       "ar_crickets_b",
       "ar_crickets_b_far",
       "ar_grasshopper_chirp",
-      "hash_291d7f91_anvucgno_collision",
+      "ar_birds_rooster_zancudo_01",
       "hash_07f7333d_kafvozx_collision",
       "hash_680714e8_rjzjmbb_collision",
       "hash_9e5d4aae_zeeufnb_collision",
@@ -9831,7 +9831,7 @@
     ]
   },
   {
-    "Name": "hash_4818014c_zxjcgiv_collision",
+    "Name": "az_los_santos_port_cranes_01",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -9896,7 +9896,7 @@
     ]
   },
   {
-    "Name": "hash_5828984d_olpkatv_collision",
+    "Name": "az_skyscraper_crane",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -9922,7 +9922,7 @@
       "Z": 20.0
     },
     "AmbientEmitters": [
-      "hash_bad3db5c_bpnbdlr_collision"
+      "er_skyscraper_crane_01"
     ]
   },
   {
@@ -10040,7 +10040,7 @@
     ]
   },
   {
-    "Name": "hash_3a79e24f_zgkbqfda_collision",
+    "Name": "az_los_santos_docks_bridge_02",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -10539,7 +10539,7 @@
       "ar_vehicles_reversing_day",
       "ar_docks_truck_stop",
       "hash_edcc8e62_fuwbwey_collision",
-      "hash_26ebf8fd_mgtayvna_collision",
+      "ar_quarry_shift_start",
       "hash_122eabe1_vwzfomga_collision"
     ]
   },
@@ -10764,7 +10764,7 @@
     "AmbientEmitters": []
   },
   {
-    "Name": "hash_7b023053_gkyaqrt_collision",
+    "Name": "az_los_santos_kayton",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -10822,7 +10822,7 @@
       "Z": 10.0
     },
     "AmbientEmitters": [
-      "hash_25c99083_vxcaecp_collision",
+      "ar_cicadas_b_city",
       "ar_crickets_c_city",
       "ar_birds_tiny_wings",
       "ar_birds_mockingbird_day",
@@ -10833,7 +10833,7 @@
     ]
   },
   {
-    "Name": "hash_a1812653_ucxdmzd_collision",
+    "Name": "az_los_santos_vinewood_bowl",
     "Shape": "Sphere",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -11200,7 +11200,7 @@
     ]
   },
   {
-    "Name": "hash_8f403d56_gjiiifh_collision",
+    "Name": "az_lesters_house_cameras_03",
     "Shape": "Box",
     "Flags0": 2860516452,
     "Flags1": 0,
@@ -11398,7 +11398,7 @@
     ]
   },
   {
-    "Name": "hash_aa4eb157_ddsfzxs_collision",
+    "Name": "az_los_santos_port_se",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -11431,7 +11431,7 @@
       "ar_vehicles_reversing_day",
       "hash_80b10e08_oayualf_collision",
       "ar_docks_alarms",
-      "hash_dc0760d8_gozagtq_collision",
+      "ar_dock_building_hum_01",
       "ar_vehicles_brakes_distant"
     ]
   },
@@ -11587,7 +11587,7 @@
       "Z": 40.0
     },
     "AmbientEmitters": [
-      "hash_cc86030e_dqawaek_collision"
+      "er_beach_pier_01"
     ]
   },
   {
@@ -11621,7 +11621,7 @@
     ]
   },
   {
-    "Name": "hash_f8c3c158_acpqlpho_collision",
+    "Name": "az_lesters_house_ext_rear",
     "Shape": "Box",
     "Flags0": 2860516452,
     "Flags1": 0,
@@ -12151,7 +12151,7 @@
       "hash_677dbeee_qoaffpj_collision",
       "ar_vehicles_car_horns_day",
       "ar_vehicles_truck_horns_day",
-      "hash_f699e7db_zlvekyka_collision",
+      "hash_f699e7db_alqpttrw_collision",
       "hash_7b426081_qfjrlnea_collision",
       "hash_6decdd6e_cwgsty_collision",
       "hash_be231518_uxrmapm_collision",
@@ -12163,7 +12163,7 @@
     ]
   },
   {
-    "Name": "hash_3b59c25c_vijtghd_collision",
+    "Name": "az_walla_ls_rockford_03",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -12365,7 +12365,7 @@
     ]
   },
   {
-    "Name": "hash_7c70795d_qttuvrc_collision",
+    "Name": "az_walla_ls_del_perro_05",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -12835,7 +12835,7 @@
     ]
   },
   {
-    "Name": "hash_f9e31060_vkutoj_collision",
+    "Name": "az_big_zones_ls_04_a",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -12866,7 +12866,7 @@
       "ar_vehicles_car_horns_day",
       "ar_vehicles_truck_horns_day",
       "ar_birds_crow_distant",
-      "hash_f699e7db_zlvekyka_collision",
+      "hash_f699e7db_alqpttrw_collision",
       "hash_be231518_uxrmapm_collision",
       "da_cicada_a",
       "da_cricket_a",
@@ -12947,7 +12947,7 @@
     ]
   },
   {
-    "Name": "hash_1f172d61_abhcwahg_collision",
+    "Name": "iz_v_lab_lab_waste",
     "Shape": "Box",
     "Flags0": 2860516389,
     "Flags1": 0,
@@ -13007,7 +13007,7 @@
       "hash_559d7aab_egeugnv_collision",
       "hash_3b5a4625_aafjlgsf_collision",
       "hash_723c33ec_hpdeeie_collision",
-      "hash_25c99083_vxcaecp_collision",
+      "ar_cicadas_b_city",
       "ar_birds_robin_day",
       "ar_birds_tiny_wings"
     ]
@@ -13043,7 +13043,7 @@
     ]
   },
   {
-    "Name": "hash_fcdf0061_alydeska_collision",
+    "Name": "az_los_santos_centre_highway_02",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -14012,7 +14012,7 @@
     ]
   },
   {
-    "Name": "hash_5a338869_acgsfyui_collision",
+    "Name": "az_los_santos_rockford_park_01",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -15025,7 +15025,7 @@
       "ar_crickets_b",
       "ar_crickets_b_far",
       "ar_grasshopper_chirp",
-      "hash_716bf1a2_kypvchj_collision",
+      "ar_coyotes_night_distant",
       "da_cicada_a",
       "da_cricket_a",
       "da_city_noise_desert"
@@ -15062,7 +15062,7 @@
     ]
   },
   {
-    "Name": "hash_0d4bc970_vjowjmz_collision",
+    "Name": "az_walla_ls_florence_04",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -15281,7 +15281,7 @@
       "ar_flies",
       "ar_fly",
       "ar_birds_seagulls_day",
-      "hash_a0e07a08_ufonbwoa_collision",
+      "ar_birds_black_legged_stilt",
       "ar_animals_rat_squeak",
       "ar_trash_rustle",
       "ar_trash_rustle_light"
@@ -15321,7 +15321,7 @@
     ]
   },
   {
-    "Name": "hash_50301d73_uladzxc_collision",
+    "Name": "az_los_santos_florence",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -15456,7 +15456,7 @@
     ]
   },
   {
-    "Name": "hash_efc96073_aongotmd_collision",
+    "Name": "az_walla_ls_eclipse_01",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -15515,7 +15515,7 @@
     "AmbientEmitters": [
       "hash_b66a1415_aecmvoa_collision",
       "hash_8b84b3dd_gckxazm_collision",
-      "hash_cdd3328d_uyvovlj_collision",
+      "hash_cdd3328d_itiuzjy_collision",
       "hash_2c46ef6f_cokzzhda_collision",
       "hash_618ad9f6_qkplolb_collision",
       "hash_4fb0b642_acnlfmpu_collision",
@@ -15688,7 +15688,7 @@
     ]
   },
   {
-    "Name": "hash_49fe1475_xmduscd_collision",
+    "Name": "az_walla_ls_del_perro_02",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -15845,7 +15845,7 @@
       "ar_flies",
       "ar_fly",
       "ar_birds_seagulls_day",
-      "hash_a0e07a08_ufonbwoa_collision",
+      "ar_birds_black_legged_stilt",
       "ar_animals_rat_squeak",
       "ar_trash_can_drop",
       "ar_trash_rustle",
@@ -16258,8 +16258,8 @@
       "hash_3e75b1f1_bkriilu_collision",
       "ar_bat_shriek",
       "hash_9e498802_oceqcfn_collision",
-      "hash_2eb975ff_hhdyngs_collision",
-      "hash_1c71d170_wpslfxo_collision"
+      "ar_cave_dripping_01",
+      "ar_cave_dripping_02"
     ]
   },
   {
@@ -16444,7 +16444,7 @@
     ]
   },
   {
-    "Name": "hash_3dfd0c7a_buepud_collision",
+    "Name": "az_biker_camp_trailer_small_02",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -16780,7 +16780,7 @@
       "ar_animals_alley_cat",
       "ar_animals_urban_dog",
       "ar_crickets_c_city",
-      "hash_25c99083_vxcaecp_collision",
+      "ar_cicadas_b_city",
       "ar_birds_starling_day"
     ]
   },
@@ -16936,7 +16936,7 @@
     ]
   },
   {
-    "Name": "hash_8ac9997e_tnjvtjs_collision",
+    "Name": "iz_v_mugshot_mugshot_room02",
     "Shape": "Box",
     "Flags0": 2860516389,
     "Flags1": 0,
@@ -16965,7 +16965,7 @@
       "hash_23b5852a_psphchc_collision",
       "hash_276daa59_audhdqq_collision",
       "hash_e419fbb1_nvmpjib_collision",
-      "hash_60ad8da5_okvcvcda_collision",
+      "ar_mugshot_room_screams_01",
       "hash_c5f05a7e_gmledgj_collision",
       "hash_2998a44d_jqbghly_collision"
     ]
@@ -17273,7 +17273,7 @@
     ]
   },
   {
-    "Name": "hash_c62cee81_wdfnqjta_collision",
+    "Name": "az_los_santos_los_puerta",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -17306,11 +17306,11 @@
       "ar_vehicles_brakes_distant",
       "ar_vehicles_car_horns_night",
       "hash_be231518_uxrmapm_collision",
-      "hash_f699e7db_zlvekyka_collision"
+      "hash_f699e7db_alqpttrw_collision"
     ]
   },
   {
-    "Name": "hash_d1c07781_aerpcih_collision",
+    "Name": "az_los_santos_rockford_park_02",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -17405,7 +17405,7 @@
     ]
   },
   {
-    "Name": "hash_84223d82_hrsrusz_collision",
+    "Name": "az_hospital_entrance",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -17431,7 +17431,7 @@
       "Z": 45.0
     },
     "AmbientEmitters": [
-      "hash_7b5d196e_ezuexjl_collision"
+      "er_hospital_entrance"
     ]
   },
   {
@@ -17531,7 +17531,7 @@
       "ar_flies",
       "ar_fly",
       "ar_birds_seagulls_day",
-      "hash_a0e07a08_ufonbwoa_collision",
+      "ar_birds_black_legged_stilt",
       "ar_animals_rat_squeak",
       "ar_trash_can_drop",
       "ar_trash_rustle",
@@ -17601,7 +17601,7 @@
     ]
   },
   {
-    "Name": "hash_6a548384_ldjubzb_collision",
+    "Name": "az_walla_ls_florence_01",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -17846,7 +17846,7 @@
     ]
   },
   {
-    "Name": "hash_74c3bc85_tzotokr_collision",
+    "Name": "az_los_santos_la_mesa",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -18025,7 +18025,7 @@
       "hash_c2c05f2f_aeljhhit_collision",
       "ar_leaf_blower",
       "hash_be231518_uxrmapm_collision",
-      "hash_f699e7db_zlvekyka_collision",
+      "hash_f699e7db_alqpttrw_collision",
       "ar_distant_mower",
       "da_cicada_a",
       "da_cricket_a",
@@ -18135,7 +18135,7 @@
     ]
   },
   {
-    "Name": "hash_1e941d88_gmhcnzd_collision",
+    "Name": "az_los_santos_stillwater_north",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -18416,7 +18416,7 @@
       "ar_bullfrog_night",
       "ar_birds_owl_night",
       "ar_katydids",
-      "hash_f699e7db_zlvekyka_collision",
+      "hash_f699e7db_alqpttrw_collision",
       "ar_birds_crow_day",
       "ar_birds_crow_distant",
       "hash_07f7333d_kafvozx_collision",
@@ -18905,7 +18905,7 @@
     ]
   },
   {
-    "Name": "hash_de182c8c_dyhpsxs_collision",
+    "Name": "az_los_santos_shipyard_substation_02",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -18935,7 +18935,7 @@
     ]
   },
   {
-    "Name": "hash_13752d8d_jwykzmz_collision",
+    "Name": "az_los_santos_centre_highway_01",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -19102,7 +19102,7 @@
     ]
   },
   {
-    "Name": "hash_06397c8e_hizbkzt_collision",
+    "Name": "az_los_santos_vinewood_hills",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -19200,7 +19200,7 @@
       "ar_flies",
       "ar_fly",
       "ar_birds_seagulls_day",
-      "hash_a0e07a08_ufonbwoa_collision",
+      "ar_birds_black_legged_stilt",
       "ar_animals_rat_squeak",
       "ar_trash_can_drop",
       "ar_trash_rustle",
@@ -19356,7 +19356,7 @@
     ]
   },
   {
-    "Name": "hash_a2afa28f_kpoqknk_collision",
+    "Name": "az_big_zones_ls_docks_01",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -19387,7 +19387,7 @@
       "ar_birds_crow_day",
       "hash_13fc6e08_emnacss_collision",
       "hash_6decdd6e_cwgsty_collision",
-      "hash_f699e7db_zlvekyka_collision",
+      "hash_f699e7db_alqpttrw_collision",
       "hash_be231518_uxrmapm_collision",
       "da_cicada_a",
       "da_cricket_a",
@@ -19771,7 +19771,7 @@
     ]
   },
   {
-    "Name": "hash_6299f695_lomzkoh_collision",
+    "Name": "az_los_santos_port_w",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -19872,7 +19872,7 @@
     ]
   },
   {
-    "Name": "hash_a70cce95_dagvosg_collision",
+    "Name": "az_walla_ls_del_perro_03",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -20015,7 +20015,7 @@
     ]
   },
   {
-    "Name": "hash_dfcbc896_hvwrkuj_collision",
+    "Name": "az_industrial_area_distant_b",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -20194,7 +20194,7 @@
       "ar_crickets_c_far",
       "ar_crickets_g",
       "ar_crickets_g_far",
-      "hash_25c99083_vxcaecp_collision",
+      "ar_cicadas_b_city",
       "ar_birds_crow_day",
       "hash_13fc6e08_emnacss_collision",
       "ar_birds_goldfinches_day",
@@ -20746,7 +20746,7 @@
     ]
   },
   {
-    "Name": "hash_b46cfe9a_etjzark_collision",
+    "Name": "az_walla_ls_downtown_07",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -21150,7 +21150,7 @@
     "AmbientEmitters": []
   },
   {
-    "Name": "hash_d5ea5a9d_oldehvga_collision",
+    "Name": "az_walla_ls_kayton_01",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -21486,7 +21486,7 @@
     ]
   },
   {
-    "Name": "hash_0720b0a0_dbtwctr_collision",
+    "Name": "az_walla_ls_vespucci_01",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -21652,7 +21652,7 @@
     "AmbientEmitters": [
       "hash_13fc6e08_emnacss_collision",
       "ar_birds_starling_day",
-      "hash_25c99083_vxcaecp_collision",
+      "ar_cicadas_b_city",
       "ar_crickets_c_city"
     ]
   },
@@ -22082,7 +22082,7 @@
     ]
   },
   {
-    "Name": "hash_411437a4_gsazixd_collision",
+    "Name": "az_los_santos_construction_site_01",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -22378,7 +22378,7 @@
     ]
   },
   {
-    "Name": "hash_2db064a5_ahqfovm_collision",
+    "Name": "az_ls_kortz_centre_long_fountain",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -22708,7 +22708,7 @@
     ]
   },
   {
-    "Name": "hash_a58644a7_armcsozw_collision",
+    "Name": "az_los_santos_vinewood_hills_observatory",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -22931,7 +22931,7 @@
     ]
   },
   {
-    "Name": "hash_cb2491a8_jftwqo_collision",
+    "Name": "az_los_santos_morningwood_theatre_01",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -22961,7 +22961,7 @@
     ]
   },
   {
-    "Name": "hash_002331a9_vqjbvsca_collision",
+    "Name": "az_los_santos_port_n",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -23253,7 +23253,7 @@
     "AmbientEmitters": []
   },
   {
-    "Name": "hash_3f1f19aa_aaalykoy_collision",
+    "Name": "az_port_wooden_bridge_01",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -23458,7 +23458,7 @@
     ]
   },
   {
-    "Name": "hash_55e8daad_kglysjh_collision",
+    "Name": "az_walla_ls_florence_03",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -23609,7 +23609,7 @@
     "AmbientEmitters": [
       "hash_962ec67b_usufzt_collision",
       "hash_3aa9fe50_ihzjmgo_collision",
-      "hash_4d4f6290_lopzyau_collision"
+      "ar_fib_toilets_drips"
     ]
   },
   {
@@ -23863,7 +23863,7 @@
       "ar_flies",
       "ar_fly",
       "ar_birds_seagulls_day",
-      "hash_a0e07a08_ufonbwoa_collision",
+      "ar_birds_black_legged_stilt",
       "ar_animals_rat_squeak",
       "ar_trash_can_drop",
       "ar_trash_rustle",
@@ -24147,7 +24147,7 @@
     ]
   },
   {
-    "Name": "hash_64a364b2_agxkevoj_collision",
+    "Name": "az_port_wooden_bridge_02",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -24323,7 +24323,7 @@
     ]
   },
   {
-    "Name": "hash_33aa89b3_ylggxaf_collision",
+    "Name": "az_walla_ls_vespucci_05",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -24468,7 +24468,7 @@
     ]
   },
   {
-    "Name": "hash_00a9e2b5_zkfudq_collision",
+    "Name": "az_los_santos_del_perro",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -24643,7 +24643,7 @@
       "hash_677dbeee_qoaffpj_collision",
       "ar_birds_crow_distant",
       "hash_7b426081_qfjrlnea_collision",
-      "hash_f699e7db_zlvekyka_collision",
+      "hash_f699e7db_alqpttrw_collision",
       "hash_be231518_uxrmapm_collision",
       "hash_6decdd6e_cwgsty_collision",
       "da_cicada_a",
@@ -24842,7 +24842,7 @@
     ]
   },
   {
-    "Name": "hash_0f2cc0b8_ojkzvpba_collision",
+    "Name": "az_walla_ls_vespucci_03",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -25188,7 +25188,7 @@
     "AmbientEmitters": []
   },
   {
-    "Name": "hash_a2f0dbba_aasqgfdj_collision",
+    "Name": "az_walla_ls_downtown_03",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -26040,7 +26040,7 @@
     "AmbientEmitters": []
   },
   {
-    "Name": "hash_6f1064c2_wmlgyua_collision",
+    "Name": "az_los_santos_centre_highway_03",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -26442,7 +26442,7 @@
     ]
   },
   {
-    "Name": "hash_090e5dc6_idowxdc_collision",
+    "Name": "az_walla_ls_rockford_02",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -26504,7 +26504,7 @@
     ]
   },
   {
-    "Name": "hash_58b453c6_apgiuppb_collision",
+    "Name": "az_walla_ls_vespucci_07",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -26575,7 +26575,7 @@
     ]
   },
   {
-    "Name": "hash_bf173cc6_iryeziq_collision",
+    "Name": "az_los_santos_la_mesa_bridge_01",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -26783,7 +26783,7 @@
     "AmbientEmitters": [
       "ar_birds_seabird_day",
       "ar_birds_seabird_distant",
-      "hash_a0e07a08_ufonbwoa_collision",
+      "ar_birds_black_legged_stilt",
       "hash_b9cf9aaa_sutnyaaa_collision"
     ]
   },
@@ -26986,7 +26986,7 @@
       "hash_9f1104fd_aayqndpl_collision",
       "hash_dfcc88f1_fspekmb_collision",
       "hash_a1183227_vynbceb_collision",
-      "hash_d0948474_ayetkmcs_collision",
+      "ar_alley_crickets_c",
       "hash_061ed595_uiwuucf_collision",
       "hash_42644e1f_aelbcwyz_collision",
       "hash_8a3a26a2_qrcnzhq_collision"
@@ -27148,7 +27148,7 @@
       "ar_flies",
       "ar_fly",
       "ar_birds_seagulls_day",
-      "hash_a0e07a08_ufonbwoa_collision",
+      "ar_birds_black_legged_stilt",
       "ar_animals_rat_squeak",
       "ar_trash_can_drop",
       "ar_trash_rustle",
@@ -27156,7 +27156,7 @@
     ]
   },
   {
-    "Name": "hash_b57a09c9_nkyvcfm_collision",
+    "Name": "az_lesters_house_cameras_04",
     "Shape": "Box",
     "Flags0": 2860516452,
     "Flags1": 0,
@@ -27247,7 +27247,7 @@
       "ar_vehicles_truck_horns_day",
       "ar_birds_crow_distant",
       "hash_7b426081_qfjrlnea_collision",
-      "hash_f699e7db_zlvekyka_collision",
+      "hash_f699e7db_alqpttrw_collision",
       "hash_be231518_uxrmapm_collision",
       "hash_6decdd6e_cwgsty_collision",
       "ar_vehicles_brakes_distant",
@@ -27410,7 +27410,7 @@
       "ar_animals_urban_dog",
       "hash_d67c841b_dplwbqo_collision",
       "ar_birds_crow_day",
-      "hash_07798f63_dsaidr_collision",
+      "ar_mosquito_infrequent",
       "hash_4a82025c_gtnewra_collision",
       "hash_53b267f9_aywrqfm_collision"
     ]
@@ -27882,7 +27882,7 @@
     ]
   },
   {
-    "Name": "hash_745593cf_epcptov_collision",
+    "Name": "az_big_zones_air_traffic_distant",
     "Shape": "Sphere",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -28131,7 +28131,7 @@
     "AmbientEmitters": []
   },
   {
-    "Name": "hash_4bdf72d1_gpqatze_collision",
+    "Name": "iz_v_lab_lab_lab1",
     "Shape": "Box",
     "Flags0": 2860516389,
     "Flags1": 0,
@@ -28438,7 +28438,7 @@
     ]
   },
   {
-    "Name": "hash_a238c5d3_absmvtsy_collision",
+    "Name": "az_los_santos_stillwater",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -28692,7 +28692,7 @@
       "ar_fly_24hr",
       "ar_trash_rustle_light",
       "ar_trash_rustle",
-      "hash_a41ea7ac_hfnepwe_collision"
+      "hash_a41ea7ac_erjjwgu_collision"
     ]
   },
   {
@@ -28836,7 +28836,7 @@
     ]
   },
   {
-    "Name": "hash_b15014d7_ijznrgt_collision",
+    "Name": "iz_v_mugshot_mugshot_room",
     "Shape": "Box",
     "Flags0": 2860516389,
     "Flags1": 0,
@@ -28867,13 +28867,13 @@
       "hash_276daa59_audhdqq_collision",
       "hash_890dc1e0_evzpvhn_collision",
       "hash_e419fbb1_nvmpjib_collision",
-      "hash_60ad8da5_okvcvcda_collision",
+      "ar_mugshot_room_screams_01",
       "hash_c5f05a7e_gmledgj_collision",
       "hash_2998a44d_jqbghly_collision"
     ]
   },
   {
-    "Name": "hash_89b4e9d8_exkzvwl_collision",
+    "Name": "iz_v_lesters_interior",
     "Shape": "Box",
     "Flags0": 2860516389,
     "Flags1": 0,
@@ -29148,7 +29148,7 @@
       "ar_flies",
       "ar_fly",
       "ar_birds_seagulls_day",
-      "hash_a0e07a08_ufonbwoa_collision",
+      "ar_birds_black_legged_stilt",
       "ar_animals_rat_squeak",
       "ar_trash_can_drop",
       "ar_trash_rustle",
@@ -29260,7 +29260,7 @@
     ]
   },
   {
-    "Name": "hash_c95e83db_dcrbkhs_collision",
+    "Name": "az_los_santos_port_cranes_02",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -29527,7 +29527,7 @@
     ]
   },
   {
-    "Name": "hash_28b0e1de_yjevrqm_collision",
+    "Name": "az_biker_camp_trailer_small_01",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -30319,7 +30319,7 @@
     ]
   },
   {
-    "Name": "hash_911237e5_tibgwnca_collision",
+    "Name": "az_walla_ls_downtown_05",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -30574,14 +30574,14 @@
       "ar_flies",
       "ar_fly",
       "ar_birds_seagulls_day",
-      "hash_a0e07a08_ufonbwoa_collision",
+      "ar_birds_black_legged_stilt",
       "ar_animals_rat_squeak",
       "ar_trash_rustle",
       "ar_trash_rustle_light"
     ]
   },
   {
-    "Name": "hash_219f0ee7_wzpbmue_collision",
+    "Name": "az_walla_ls_rockford_05",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -30743,7 +30743,7 @@
     ]
   },
   {
-    "Name": "hash_b107f7e8_ckhudmda_collision",
+    "Name": "az_walla_ls_downtown_02",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -31492,7 +31492,7 @@
     "AmbientEmitters": []
   },
   {
-    "Name": "hash_7d481ced_fqqgyuv_collision",
+    "Name": "az_walla_ls_vespucci_09",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -32117,7 +32117,7 @@
     ]
   },
   {
-    "Name": "hash_d15387f3_urcoxab_collision",
+    "Name": "az_los_santos_vinewood",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -32219,7 +32219,7 @@
     ]
   },
   {
-    "Name": "hash_ffbb9cf4_dudlily_collision",
+    "Name": "az_los_santos_rancho_toilets_01",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -32253,7 +32253,7 @@
     ]
   },
   {
-    "Name": "hash_00d3e1f5_arvawcxy_collision",
+    "Name": "az_car_park_reflections_01",
     "Shape": "Box",
     "Flags0": 2860532772,
     "Flags1": 0,
@@ -32443,7 +32443,7 @@
       "ar_crickets_c_far",
       "ar_crickets_g_far",
       "ar_crickets_c",
-      "hash_25c99083_vxcaecp_collision",
+      "ar_cicadas_b_city",
       "hash_8e393785_pmmleta_collision",
       "ar_afb_hum_01",
       "ar_afb_hum_01",
@@ -32518,13 +32518,13 @@
       "ar_animals_urban_dog",
       "hash_d67c841b_dplwbqo_collision",
       "ar_birds_crow_day",
-      "hash_07798f63_dsaidr_collision",
+      "ar_mosquito_infrequent",
       "hash_4a82025c_gtnewra_collision",
       "hash_53b267f9_aywrqfm_collision"
     ]
   },
   {
-    "Name": "hash_583fb0f8_ahtmoyu_collision",
+    "Name": "az_walla_ls_del_perro_01",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -32817,7 +32817,7 @@
     ]
   },
   {
-    "Name": "hash_eda8a6fb_pxpxszea_collision",
+    "Name": "az_walla_ls_rockford_04",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -32847,7 +32847,7 @@
     ]
   },
   {
-    "Name": "hash_0e43acfc_gczbrts_collision",
+    "Name": "az_biker_camp_trailer_small_04",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -32912,7 +32912,7 @@
     ]
   },
   {
-    "Name": "hash_29d040fc_qqrbgxc_collision",
+    "Name": "az_los_santos_docks_bridge_01",
     "Shape": "Box",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -33065,7 +33065,7 @@
     ]
   },
   {
-    "Name": "hash_c6d643fc_ystgnic_collision",
+    "Name": "az_lesters_house_ext",
     "Shape": "Box",
     "Flags0": 2860516452,
     "Flags1": 0,
@@ -33406,7 +33406,7 @@
       "Z": 190.0
     },
     "AmbientEmitters": [
-      "hash_a2c3a554_aalqdxgc_collision"
+      "er_skyscraper_ladder_reverb_01"
     ]
   },
   {
@@ -33438,628 +33438,6 @@
     "AmbientEmitters": [
       "ar_trailer_rain",
       "ar_trailer_dog"
-    ]
-  },
-  {
-    "Name": "iz_xs_x18_int_mod_arena_mod_rm",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 210.81,
-      "Y": 5185.36,
-      "Z": -85.59
-    },
-    "OuterSize": {
-      "X": 42.75,
-      "Y": 43.63,
-      "Z": 9.43
-    },
-    "InnerPosition": {
-      "X": 210.81,
-      "Y": 5185.36,
-      "Z": -85.59
-    },
-    "InnerSize": {
-      "X": 42.75,
-      "Y": 43.63,
-      "Z": 9.43
-    },
-    "AmbientEmitters": [
-      "pr_dlc_aw_iz_xs_x18_int_mod_arena_ac_01"
-    ]
-  },
-  {
-    "Name": "az_arena_crowd_dynamics",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 2800.5,
-      "Y": -3795.43,
-      "Z": 188.27
-    },
-    "OuterSize": {
-      "X": 370.5,
-      "Y": 172.52,
-      "Z": 200.0
-    },
-    "InnerPosition": {
-      "X": 2800.75,
-      "Y": -3795.5,
-      "Z": 188.27
-    },
-    "InnerSize": {
-      "X": 198.82,
-      "Y": 36.0,
-      "Z": 220.0
-    },
-    "AmbientEmitters": []
-  },
-  {
-    "Name": "iz_xs_x18_int_01_arena_room",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 2800.0,
-      "Y": -3794.62,
-      "Z": 188.27
-    },
-    "OuterSize": {
-      "X": 445.95,
-      "Y": 272.32,
-      "Z": 98.55
-    },
-    "InnerPosition": {
-      "X": 2800.0,
-      "Y": -3794.62,
-      "Z": 188.27
-    },
-    "InnerSize": {
-      "X": 445.95,
-      "Y": 272.32,
-      "Z": 98.55
-    },
-    "AmbientEmitters": [
-      "ar_cab_whistle"
-    ]
-  },
-  {
-    "Name": "iz_xs_x18_int_mod2_mod2_room",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 179.47,
-      "Y": 5184.71,
-      "Z": 12.2
-    },
-    "OuterSize": {
-      "X": 14.42,
-      "Y": 4.43,
-      "Z": 1.55
-    },
-    "InnerPosition": {
-      "X": 179.47,
-      "Y": 5184.71,
-      "Z": 12.2
-    },
-    "InnerSize": {
-      "X": 14.42,
-      "Y": 4.43,
-      "Z": 1.55
-    },
-    "AmbientEmitters": [
-      "pr_dlc_aw_iz_xs_x18_int_mod_arena_garage_ac_02",
-      "pr_dlc_aw_iz_xs_x18_int_mod_arena_garage_ac_03",
-      "pr_dlc_aw_iz_xs_x18_int_mod_arena_garage_ac_04",
-      "pr_dlc_aw_iz_xs_x18_int_mod_arena_garage_ac_01"
-    ]
-  },
-  {
-    "Name": "iz_xs_x18_int_mod_arena_room",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 444.54,
-      "Y": 5181.77,
-      "Z": -71.83
-    },
-    "OuterSize": {
-      "X": 445.95,
-      "Y": 270.46,
-      "Z": 137.55
-    },
-    "InnerPosition": {
-      "X": 444.54,
-      "Y": 5181.77,
-      "Z": -71.83
-    },
-    "InnerSize": {
-      "X": 445.95,
-      "Y": 270.46,
-      "Z": 137.55
-    },
-    "AmbientEmitters": [
-      "ar_arena_construction_reversing",
-      "ar_arena_construction_grinder",
-      "ar_arena_construction_piledriver",
-      "ar_arena_construction_welding",
-      "ar_arena_construction_hammering"
-    ]
-  },
-  {
-    "Name": "iz_xs_x18_int_mod_arena_mod_rm2",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 178.65,
-      "Y": 5180.19,
-      "Z": -86.77
-    },
-    "OuterSize": {
-      "X": 21.62,
-      "Y": 6.96,
-      "Z": 6.01
-    },
-    "InnerPosition": {
-      "X": 178.65,
-      "Y": 5180.19,
-      "Z": -86.77
-    },
-    "InnerSize": {
-      "X": 21.62,
-      "Y": 6.96,
-      "Z": 6.01
-    },
-    "AmbientEmitters": [
-      "pr_dlc_aw_iz_xs_x18_int_mod_arena_ac_02",
-      "pr_dlc_aw_iz_xs_x18_int_mod_arena_ac_03",
-      "pr_dlc_aw_iz_xs_x18_int_mod_arena_ac_04",
-      "pr_dlc_aw_iz_xs_x18_int_mod_arena_ac_05"
-    ]
-  },
-  {
-    "Name": "iz_xs_x18_int_mod_arena_office_rm",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 200.75,
-      "Y": 5170.34,
-      "Z": -86.55
-    },
-    "OuterSize": {
-      "X": 22.59,
-      "Y": 19.7,
-      "Z": 6.09
-    },
-    "InnerPosition": {
-      "X": 200.75,
-      "Y": 5170.34,
-      "Z": -86.55
-    },
-    "InnerSize": {
-      "X": 22.59,
-      "Y": 19.7,
-      "Z": 6.09
-    },
-    "AmbientEmitters": []
-  },
-  {
-    "Name": "iz_xs_arena_vip_vip_room",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 2803.91,
-      "Y": -3941.22,
-      "Z": 184.35
-    },
-    "OuterSize": {
-      "X": 33.92,
-      "Y": 25.76,
-      "Z": 6.86
-    },
-    "InnerPosition": {
-      "X": 2803.91,
-      "Y": -3941.22,
-      "Z": 184.35
-    },
-    "InnerSize": {
-      "X": 33.92,
-      "Y": 25.76,
-      "Z": 6.86
-    },
-    "AmbientEmitters": [
-      "pr_dlc_aw_arena_vip_fridge"
-    ]
-  },
-  {
-    "Name": "iz_xm3_dlc_int_01_xm3_main_room",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 484.76,
-      "Y": -2625.01,
-      "Z": -48.72
-    },
-    "OuterSize": {
-      "X": 9.61,
-      "Y": 4.22,
-      "Z": 2.69
-    },
-    "InnerPosition": {
-      "X": 484.76,
-      "Y": -2625.01,
-      "Z": -48.72
-    },
-    "InnerSize": {
-      "X": 9.61,
-      "Y": 4.22,
-      "Z": 2.69
-    },
-    "AmbientEmitters": [
-      "pr_xm3_dlc_int_01_xm3_main_room_extractorfan_01",
-      "pr_xm3_dlc_int_01_xm3_main_room_lsdequipment_01",
-      "pr_xm3_dlc_int_01_xm3_main_room_neonlight_01"
-    ]
-  },
-  {
-    "Name": "iz_xm3_dlc_int_04_xm3_corridortop",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 490.17,
-      "Y": -2559.89,
-      "Z": -58.83
-    },
-    "OuterSize": {
-      "X": 22.97,
-      "Y": 6.83,
-      "Z": 3.12
-    },
-    "InnerPosition": {
-      "X": 490.17,
-      "Y": -2559.89,
-      "Z": -58.83
-    },
-    "InnerSize": {
-      "X": 22.97,
-      "Y": 6.83,
-      "Z": 3.12
-    },
-    "AmbientEmitters": [
-      "ar_null"
-    ]
-  },
-  {
-    "Name": "iz_xm3_dlc_int_04_xm3_topoff_mid",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 494.99,
-      "Y": -2566.27,
-      "Z": -48.34
-    },
-    "OuterSize": {
-      "X": 22.88,
-      "Y": 19.33,
-      "Z": 3.81
-    },
-    "InnerPosition": {
-      "X": 494.99,
-      "Y": -2566.27,
-      "Z": -48.34
-    },
-    "InnerSize": {
-      "X": 22.88,
-      "Y": 19.33,
-      "Z": 3.81
-    },
-    "AmbientEmitters": [
-      "pr_xm3_dlc_int_04_xm3_topoff_mid_ceilingvent_01",
-      "pr_xm3_dlc_int_04_xm3_topoff_mid_ceilingvent_02",
-      "pr_xm3_dlc_int_04_xm3_topoff_mid_ceilingvent_03",
-      "pr_xm3_dlc_int_04_xm3_topoff_mid_ceilingvent_04",
-      "pr_xm3_dlc_int_04_xm3_topoff_mid_labfridge_01",
-      "pr_xm3_dlc_int_04_xm3_topoff_mid_beepy_stuff",
-      "pr_xm3_dlc_int_04_xm3_topoff_mid_beepy_stuff_02"
-    ]
-  },
-  {
-    "Name": "iz_xm3_dlc_int_03_xm3_intwaremed_room",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 572.29,
-      "Y": -430.61,
-      "Z": -66.1
-    },
-    "OuterSize": {
-      "X": 48.56,
-      "Y": 57.56,
-      "Z": 10.5
-    },
-    "InnerPosition": {
-      "X": 572.29,
-      "Y": -430.61,
-      "Z": -66.1
-    },
-    "InnerSize": {
-      "X": 48.56,
-      "Y": 57.56,
-      "Z": 9.29
-    },
-    "AmbientEmitters": [
-      "ar_null"
-    ]
-  },
-  {
-    "Name": "iz_xm3_dlc_int_03_xm3_intwaremed_office",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 557.54,
-      "Y": -419.37,
-      "Z": -69.42
-    },
-    "OuterSize": {
-      "X": 9.08,
-      "Y": 9.98,
-      "Z": 2.64
-    },
-    "InnerPosition": {
-      "X": 557.54,
-      "Y": -419.37,
-      "Z": -69.42
-    },
-    "InnerSize": {
-      "X": 9.08,
-      "Y": 9.98,
-      "Z": 2.64
-    },
-    "AmbientEmitters": [
-      "pr_xm3_dlc_int_03_xm3_intwaremed_office_fridge_01"
-    ]
-  },
-  {
-    "Name": "iz_xm3_dlc_int_04_xm3_topoff_left",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 508.6,
-      "Y": -2566.15,
-      "Z": -48.21
-    },
-    "OuterSize": {
-      "X": 8.23,
-      "Y": 16.8,
-      "Z": 3.96
-    },
-    "InnerPosition": {
-      "X": 508.6,
-      "Y": -2566.15,
-      "Z": -48.21
-    },
-    "InnerSize": {
-      "X": 8.23,
-      "Y": 16.8,
-      "Z": 3.96
-    },
-    "AmbientEmitters": [
-      "pr_xm3_dlc_int_04_xm3_topoff_left_labfridge_01",
-      "pr_xm3_dlc_int_04_xm3_topoff_left_beepy_stuff_01",
-      "pr_xm3_dlc_int_04_xm3_topoff_left_beepy_stuff_02"
-    ]
-  },
-  {
-    "Name": "iz_xm3_dlc_int_04_xm3_corridorbottom",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 490.17,
-      "Y": -2560.41,
-      "Z": -63.69
-    },
-    "OuterSize": {
-      "X": 22.97,
-      "Y": 7.38,
-      "Z": 2.99
-    },
-    "InnerPosition": {
-      "X": 490.17,
-      "Y": -2560.41,
-      "Z": -63.69
-    },
-    "InnerSize": {
-      "X": 22.97,
-      "Y": 7.38,
-      "Z": 2.99
-    },
-    "AmbientEmitters": [
-      "ar_null"
-    ]
-  },
-  {
-    "Name": "iz_xm3_dlc_int_04_xm3_mainstairs",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 494.99,
-      "Y": -2551.29,
-      "Z": -53.61
-    },
-    "OuterSize": {
-      "X": 6.49,
-      "Y": 10.63,
-      "Z": 13.56
-    },
-    "InnerPosition": {
-      "X": 494.99,
-      "Y": -2551.29,
-      "Z": -53.61
-    },
-    "InnerSize": {
-      "X": 6.49,
-      "Y": 10.63,
-      "Z": 13.56
-    },
-    "AmbientEmitters": [
-      "ar_null"
-    ]
-  },
-  {
-    "Name": "az_dlc_xm3_lab_ext_01",
-    "Shape": "Box",
-    "Flags0": 2860516384,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 603.25,
-      "Y": -440.33,
-      "Z": 26.9
-    },
-    "OuterSize": {
-      "X": 120.0,
-      "Y": 114.16,
-      "Z": 30.0
-    },
-    "InnerPosition": {
-      "X": 600.18,
-      "Y": -438.65,
-      "Z": 25.9
-    },
-    "InnerSize": {
-      "X": 37.25,
-      "Y": 60.29,
-      "Z": 22.0
-    },
-    "AmbientEmitters": [
-      "ar_null"
-    ]
-  },
-  {
-    "Name": "iz_xm3_dlc_int_04_xm3_topoff_right",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 481.44,
-      "Y": -2566.32,
-      "Z": -48.36
-    },
-    "OuterSize": {
-      "X": 8.07,
-      "Y": 16.58,
-      "Z": 3.63
-    },
-    "InnerPosition": {
-      "X": 481.44,
-      "Y": -2566.32,
-      "Z": -48.36
-    },
-    "InnerSize": {
-      "X": 8.07,
-      "Y": 16.58,
-      "Z": 3.63
-    },
-    "AmbientEmitters": [
-      "pr_xm3_dlc_int_04_xm3_topoff_right_minifridge_01",
-      "pr_xm3_dlc_int_04_xm3_topoff_right_filter_01",
-      "pr_xm3_dlc_int_04_xm3_topoff_right_filter_02",
-      "pr_xm3_dlc_int_04_xm3_topoff_right_beepy_01",
-      "pr_xm3_dlc_int_04_xm3_topoff_right_pc_01"
-    ]
-  },
-  {
-    "Name": "iz_xm3_dlc_int_04_xm3_backstairs",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 487.63,
-      "Y": -2568.36,
-      "Z": -61.31
-    },
-    "OuterSize": {
-      "X": 4.61,
-      "Y": 10.13,
-      "Z": 7.76
-    },
-    "InnerPosition": {
-      "X": 487.63,
-      "Y": -2568.36,
-      "Z": -61.31
-    },
-    "InnerSize": {
-      "X": 4.61,
-      "Y": 10.13,
-      "Z": 7.76
-    },
-    "AmbientEmitters": [
-      "pr_xm3_dlc_int_04_xm3_backstairs_lights_01",
-      "pr_xm3_dlc_int_04_xm3_backstairs_lights_02",
-      "pr_xm3_dlc_int_04_xm3_backstairs_lights_03"
-    ]
-  },
-  {
-    "Name": "iz_xm3_dlc_int_02_xm3_gtamloroom001",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 521.63,
-      "Y": -2619.43,
-      "Z": -47.98
-    },
-    "OuterSize": {
-      "X": 20.04,
-      "Y": 41.82,
-      "Z": 4.05
-    },
-    "InnerPosition": {
-      "X": 521.63,
-      "Y": -2619.43,
-      "Z": -47.98
-    },
-    "InnerSize": {
-      "X": 20.04,
-      "Y": 41.82,
-      "Z": 4.05
-    },
-    "AmbientEmitters": [
-      "ar_null"
     ]
   },
   {
@@ -36417,6 +35795,748 @@
     ]
   },
   {
+    "Name": "iz_xm3_dlc_int_01_xm3_main_room",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 484.76,
+      "Y": -2625.01,
+      "Z": -48.72
+    },
+    "OuterSize": {
+      "X": 9.61,
+      "Y": 4.22,
+      "Z": 2.69
+    },
+    "InnerPosition": {
+      "X": 484.76,
+      "Y": -2625.01,
+      "Z": -48.72
+    },
+    "InnerSize": {
+      "X": 9.61,
+      "Y": 4.22,
+      "Z": 2.69
+    },
+    "AmbientEmitters": [
+      "pr_xm3_dlc_int_01_xm3_main_room_extractorfan_01",
+      "pr_xm3_dlc_int_01_xm3_main_room_lsdequipment_01",
+      "pr_xm3_dlc_int_01_xm3_main_room_neonlight_01"
+    ]
+  },
+  {
+    "Name": "iz_xm3_dlc_int_04_xm3_corridortop",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 490.17,
+      "Y": -2559.89,
+      "Z": -58.83
+    },
+    "OuterSize": {
+      "X": 22.97,
+      "Y": 6.83,
+      "Z": 3.12
+    },
+    "InnerPosition": {
+      "X": 490.17,
+      "Y": -2559.89,
+      "Z": -58.83
+    },
+    "InnerSize": {
+      "X": 22.97,
+      "Y": 6.83,
+      "Z": 3.12
+    },
+    "AmbientEmitters": [
+      "ar_null"
+    ]
+  },
+  {
+    "Name": "iz_xm3_dlc_int_04_xm3_topoff_mid",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 494.99,
+      "Y": -2566.27,
+      "Z": -48.34
+    },
+    "OuterSize": {
+      "X": 22.88,
+      "Y": 19.33,
+      "Z": 3.81
+    },
+    "InnerPosition": {
+      "X": 494.99,
+      "Y": -2566.27,
+      "Z": -48.34
+    },
+    "InnerSize": {
+      "X": 22.88,
+      "Y": 19.33,
+      "Z": 3.81
+    },
+    "AmbientEmitters": [
+      "pr_xm3_dlc_int_04_xm3_topoff_mid_ceilingvent_01",
+      "pr_xm3_dlc_int_04_xm3_topoff_mid_ceilingvent_02",
+      "pr_xm3_dlc_int_04_xm3_topoff_mid_ceilingvent_03",
+      "pr_xm3_dlc_int_04_xm3_topoff_mid_ceilingvent_04",
+      "pr_xm3_dlc_int_04_xm3_topoff_mid_labfridge_01",
+      "pr_xm3_dlc_int_04_xm3_topoff_mid_beepy_stuff",
+      "pr_xm3_dlc_int_04_xm3_topoff_mid_beepy_stuff_02"
+    ]
+  },
+  {
+    "Name": "iz_xm3_dlc_int_03_xm3_intwaremed_room",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 572.29,
+      "Y": -430.61,
+      "Z": -66.1
+    },
+    "OuterSize": {
+      "X": 48.56,
+      "Y": 57.56,
+      "Z": 10.5
+    },
+    "InnerPosition": {
+      "X": 572.29,
+      "Y": -430.61,
+      "Z": -66.1
+    },
+    "InnerSize": {
+      "X": 48.56,
+      "Y": 57.56,
+      "Z": 9.29
+    },
+    "AmbientEmitters": [
+      "ar_null"
+    ]
+  },
+  {
+    "Name": "iz_xm3_dlc_int_03_xm3_intwaremed_office",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 557.54,
+      "Y": -419.37,
+      "Z": -69.42
+    },
+    "OuterSize": {
+      "X": 9.08,
+      "Y": 9.98,
+      "Z": 2.64
+    },
+    "InnerPosition": {
+      "X": 557.54,
+      "Y": -419.37,
+      "Z": -69.42
+    },
+    "InnerSize": {
+      "X": 9.08,
+      "Y": 9.98,
+      "Z": 2.64
+    },
+    "AmbientEmitters": [
+      "pr_xm3_dlc_int_03_xm3_intwaremed_office_fridge_01"
+    ]
+  },
+  {
+    "Name": "iz_xm3_dlc_int_04_xm3_topoff_left",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 508.6,
+      "Y": -2566.15,
+      "Z": -48.21
+    },
+    "OuterSize": {
+      "X": 8.23,
+      "Y": 16.8,
+      "Z": 3.96
+    },
+    "InnerPosition": {
+      "X": 508.6,
+      "Y": -2566.15,
+      "Z": -48.21
+    },
+    "InnerSize": {
+      "X": 8.23,
+      "Y": 16.8,
+      "Z": 3.96
+    },
+    "AmbientEmitters": [
+      "pr_xm3_dlc_int_04_xm3_topoff_left_labfridge_01",
+      "pr_xm3_dlc_int_04_xm3_topoff_left_beepy_stuff_01",
+      "pr_xm3_dlc_int_04_xm3_topoff_left_beepy_stuff_02"
+    ]
+  },
+  {
+    "Name": "iz_xm3_dlc_int_04_xm3_corridorbottom",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 490.17,
+      "Y": -2560.41,
+      "Z": -63.69
+    },
+    "OuterSize": {
+      "X": 22.97,
+      "Y": 7.38,
+      "Z": 2.99
+    },
+    "InnerPosition": {
+      "X": 490.17,
+      "Y": -2560.41,
+      "Z": -63.69
+    },
+    "InnerSize": {
+      "X": 22.97,
+      "Y": 7.38,
+      "Z": 2.99
+    },
+    "AmbientEmitters": [
+      "ar_null"
+    ]
+  },
+  {
+    "Name": "iz_xm3_dlc_int_04_xm3_mainstairs",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 494.99,
+      "Y": -2551.29,
+      "Z": -53.61
+    },
+    "OuterSize": {
+      "X": 6.49,
+      "Y": 10.63,
+      "Z": 13.56
+    },
+    "InnerPosition": {
+      "X": 494.99,
+      "Y": -2551.29,
+      "Z": -53.61
+    },
+    "InnerSize": {
+      "X": 6.49,
+      "Y": 10.63,
+      "Z": 13.56
+    },
+    "AmbientEmitters": [
+      "ar_null"
+    ]
+  },
+  {
+    "Name": "az_dlc_xm3_lab_ext_01",
+    "Shape": "Box",
+    "Flags0": 2860516384,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 603.25,
+      "Y": -440.33,
+      "Z": 26.9
+    },
+    "OuterSize": {
+      "X": 120.0,
+      "Y": 114.16,
+      "Z": 30.0
+    },
+    "InnerPosition": {
+      "X": 600.18,
+      "Y": -438.65,
+      "Z": 25.9
+    },
+    "InnerSize": {
+      "X": 37.25,
+      "Y": 60.29,
+      "Z": 22.0
+    },
+    "AmbientEmitters": [
+      "ar_null"
+    ]
+  },
+  {
+    "Name": "iz_xm3_dlc_int_04_xm3_topoff_right",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 481.44,
+      "Y": -2566.32,
+      "Z": -48.36
+    },
+    "OuterSize": {
+      "X": 8.07,
+      "Y": 16.58,
+      "Z": 3.63
+    },
+    "InnerPosition": {
+      "X": 481.44,
+      "Y": -2566.32,
+      "Z": -48.36
+    },
+    "InnerSize": {
+      "X": 8.07,
+      "Y": 16.58,
+      "Z": 3.63
+    },
+    "AmbientEmitters": [
+      "pr_xm3_dlc_int_04_xm3_topoff_right_minifridge_01",
+      "pr_xm3_dlc_int_04_xm3_topoff_right_filter_01",
+      "pr_xm3_dlc_int_04_xm3_topoff_right_filter_02",
+      "pr_xm3_dlc_int_04_xm3_topoff_right_beepy_01",
+      "pr_xm3_dlc_int_04_xm3_topoff_right_pc_01"
+    ]
+  },
+  {
+    "Name": "iz_xm3_dlc_int_04_xm3_backstairs",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 487.63,
+      "Y": -2568.36,
+      "Z": -61.31
+    },
+    "OuterSize": {
+      "X": 4.61,
+      "Y": 10.13,
+      "Z": 7.76
+    },
+    "InnerPosition": {
+      "X": 487.63,
+      "Y": -2568.36,
+      "Z": -61.31
+    },
+    "InnerSize": {
+      "X": 4.61,
+      "Y": 10.13,
+      "Z": 7.76
+    },
+    "AmbientEmitters": [
+      "pr_xm3_dlc_int_04_xm3_backstairs_lights_01",
+      "pr_xm3_dlc_int_04_xm3_backstairs_lights_02",
+      "pr_xm3_dlc_int_04_xm3_backstairs_lights_03"
+    ]
+  },
+  {
+    "Name": "iz_xm3_dlc_int_02_xm3_gtamloroom001",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 521.63,
+      "Y": -2619.43,
+      "Z": -47.98
+    },
+    "OuterSize": {
+      "X": 20.04,
+      "Y": 41.82,
+      "Z": 4.05
+    },
+    "InnerPosition": {
+      "X": 521.63,
+      "Y": -2619.43,
+      "Z": -47.98
+    },
+    "InnerSize": {
+      "X": 20.04,
+      "Y": 41.82,
+      "Z": 4.05
+    },
+    "AmbientEmitters": [
+      "ar_null"
+    ]
+  },
+  {
+    "Name": "iz_xs_x18_int_mod_arena_mod_rm",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 210.81,
+      "Y": 5185.36,
+      "Z": -85.59
+    },
+    "OuterSize": {
+      "X": 42.75,
+      "Y": 43.63,
+      "Z": 9.43
+    },
+    "InnerPosition": {
+      "X": 210.81,
+      "Y": 5185.36,
+      "Z": -85.59
+    },
+    "InnerSize": {
+      "X": 42.75,
+      "Y": 43.63,
+      "Z": 9.43
+    },
+    "AmbientEmitters": [
+      "pr_dlc_aw_iz_xs_x18_int_mod_arena_ac_01"
+    ]
+  },
+  {
+    "Name": "az_arena_crowd_dynamics",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 2800.5,
+      "Y": -3795.43,
+      "Z": 188.27
+    },
+    "OuterSize": {
+      "X": 370.5,
+      "Y": 172.52,
+      "Z": 200.0
+    },
+    "InnerPosition": {
+      "X": 2800.75,
+      "Y": -3795.5,
+      "Z": 188.27
+    },
+    "InnerSize": {
+      "X": 198.82,
+      "Y": 36.0,
+      "Z": 220.0
+    },
+    "AmbientEmitters": []
+  },
+  {
+    "Name": "iz_xs_x18_int_01_arena_room",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 2800.0,
+      "Y": -3794.62,
+      "Z": 188.27
+    },
+    "OuterSize": {
+      "X": 445.95,
+      "Y": 272.32,
+      "Z": 98.55
+    },
+    "InnerPosition": {
+      "X": 2800.0,
+      "Y": -3794.62,
+      "Z": 188.27
+    },
+    "InnerSize": {
+      "X": 445.95,
+      "Y": 272.32,
+      "Z": 98.55
+    },
+    "AmbientEmitters": [
+      "ar_cab_whistle"
+    ]
+  },
+  {
+    "Name": "iz_xs_x18_int_mod2_mod2_room",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 179.47,
+      "Y": 5184.71,
+      "Z": 12.2
+    },
+    "OuterSize": {
+      "X": 14.42,
+      "Y": 4.43,
+      "Z": 1.55
+    },
+    "InnerPosition": {
+      "X": 179.47,
+      "Y": 5184.71,
+      "Z": 12.2
+    },
+    "InnerSize": {
+      "X": 14.42,
+      "Y": 4.43,
+      "Z": 1.55
+    },
+    "AmbientEmitters": [
+      "pr_dlc_aw_iz_xs_x18_int_mod_arena_garage_ac_02",
+      "pr_dlc_aw_iz_xs_x18_int_mod_arena_garage_ac_03",
+      "pr_dlc_aw_iz_xs_x18_int_mod_arena_garage_ac_04",
+      "pr_dlc_aw_iz_xs_x18_int_mod_arena_garage_ac_01"
+    ]
+  },
+  {
+    "Name": "iz_xs_x18_int_mod_arena_room",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 444.54,
+      "Y": 5181.77,
+      "Z": -71.83
+    },
+    "OuterSize": {
+      "X": 445.95,
+      "Y": 270.46,
+      "Z": 137.55
+    },
+    "InnerPosition": {
+      "X": 444.54,
+      "Y": 5181.77,
+      "Z": -71.83
+    },
+    "InnerSize": {
+      "X": 445.95,
+      "Y": 270.46,
+      "Z": 137.55
+    },
+    "AmbientEmitters": [
+      "ar_arena_construction_reversing",
+      "ar_arena_construction_grinder",
+      "ar_arena_construction_piledriver",
+      "ar_arena_construction_welding",
+      "ar_arena_construction_hammering"
+    ]
+  },
+  {
+    "Name": "iz_xs_x18_int_mod_arena_mod_rm2",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 178.65,
+      "Y": 5180.19,
+      "Z": -86.77
+    },
+    "OuterSize": {
+      "X": 21.62,
+      "Y": 6.96,
+      "Z": 6.01
+    },
+    "InnerPosition": {
+      "X": 178.65,
+      "Y": 5180.19,
+      "Z": -86.77
+    },
+    "InnerSize": {
+      "X": 21.62,
+      "Y": 6.96,
+      "Z": 6.01
+    },
+    "AmbientEmitters": [
+      "pr_dlc_aw_iz_xs_x18_int_mod_arena_ac_02",
+      "pr_dlc_aw_iz_xs_x18_int_mod_arena_ac_03",
+      "pr_dlc_aw_iz_xs_x18_int_mod_arena_ac_04",
+      "pr_dlc_aw_iz_xs_x18_int_mod_arena_ac_05"
+    ]
+  },
+  {
+    "Name": "iz_xs_x18_int_mod_arena_office_rm",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 200.75,
+      "Y": 5170.34,
+      "Z": -86.55
+    },
+    "OuterSize": {
+      "X": 22.59,
+      "Y": 19.7,
+      "Z": 6.09
+    },
+    "InnerPosition": {
+      "X": 200.75,
+      "Y": 5170.34,
+      "Z": -86.55
+    },
+    "InnerSize": {
+      "X": 22.59,
+      "Y": 19.7,
+      "Z": 6.09
+    },
+    "AmbientEmitters": []
+  },
+  {
+    "Name": "iz_xs_arena_vip_vip_room",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 2803.91,
+      "Y": -3941.22,
+      "Z": 184.35
+    },
+    "OuterSize": {
+      "X": 33.92,
+      "Y": 25.76,
+      "Z": 6.86
+    },
+    "InnerPosition": {
+      "X": 2803.91,
+      "Y": -3941.22,
+      "Z": 184.35
+    },
+    "InnerSize": {
+      "X": 33.92,
+      "Y": 25.76,
+      "Z": 6.86
+    },
+    "AmbientEmitters": [
+      "pr_dlc_aw_arena_vip_fridge"
+    ]
+  },
+  {
+    "Name": "az_dlc_heists_prison",
+    "Shape": "Sphere",
+    "Flags0": 2860516388,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 1675.0,
+      "Y": 2600.0,
+      "Z": 150.0
+    },
+    "OuterSize": {
+      "X": 250.0,
+      "Y": 650.0,
+      "Z": 280.0
+    },
+    "InnerPosition": {
+      "X": 1698.5,
+      "Y": 2585.6,
+      "Z": 35.0
+    },
+    "InnerSize": {
+      "X": 147.42,
+      "Y": 224.68,
+      "Z": 40.0
+    },
+    "AmbientEmitters": [
+      "ar_null"
+    ]
+  },
+  {
+    "Name": "az_dlc_heists_bahama_mamas",
+    "Shape": "Box",
+    "Flags0": 2860516388,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": -1395.2,
+      "Y": -595.5,
+      "Z": 40.36
+    },
+    "OuterSize": {
+      "X": 137.21,
+      "Y": 121.0,
+      "Z": 38.0
+    },
+    "InnerPosition": {
+      "X": -1389.6,
+      "Y": -594.69,
+      "Z": 30.36
+    },
+    "InnerSize": {
+      "X": 18.87,
+      "Y": 8.0,
+      "Z": 10.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_heists_bahama_mamas_music"
+    ]
+  },
+  {
+    "Name": "az_dlc_heists_biolab",
+    "Shape": "Box",
+    "Flags0": 2860516388,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 3560.13,
+      "Y": 3680.72,
+      "Z": 14.55
+    },
+    "OuterSize": {
+      "X": 108.13,
+      "Y": 140.91,
+      "Z": 38.11
+    },
+    "InnerPosition": {
+      "X": 3569.12,
+      "Y": 3678.67,
+      "Z": 26.17
+    },
+    "InnerSize": {
+      "X": 113.47,
+      "Y": 106.32,
+      "Z": 12.0
+    },
+    "AmbientEmitters": [
+      "ar_null"
+    ]
+  },
+  {
+    "Name": "az_dlc_heists_ornate_bank",
+    "Shape": "Box",
+    "Flags0": 2860516388,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 253.47,
+      "Y": 217.28,
+      "Z": 108.44
+    },
+    "OuterSize": {
+      "X": 73.67,
+      "Y": 56.84,
+      "Z": 26.0
+    },
+    "InnerPosition": {
+      "X": 250.75,
+      "Y": 218.11,
+      "Z": 108.44
+    },
+    "InnerSize": {
+      "X": 38.24,
+      "Y": 25.43,
+      "Z": 16.0
+    },
+    "AmbientEmitters": [
+      "ar_null"
+    ]
+  },
+  {
     "Name": "iz_hei4_int_sub_rm_missiles",
     "Shape": "Box",
     "Flags0": 2860516389,
@@ -36800,7 +36920,7 @@
       "ar_flies",
       "ar_dlc_h4_ih_insects_cicadas_tropical_day",
       "ar_dlc_h4_ih_insects_locust_ratchet_tropical_day",
-      "hash_07798f63_dsaidr_collision",
+      "ar_mosquito_infrequent",
       "ar_dlc_h4_ih_birds_creepy_macaw",
       "ar_dlc_h4_ih_birds_pauraque",
       "ar_dlc_h4_ih_birds_parakeet",
@@ -37246,7 +37366,7 @@
       "ar_dlc_h4_ih_insects_cricket_synth_fm_day",
       "ar_dlc_h4_ih_insects_locust_ratchet_tropical_day",
       "ar_dlc_h4_ih_insects_cricket_synth_am_night",
-      "hash_07798f63_dsaidr_collision",
+      "ar_mosquito_infrequent",
       "ar_dlc_h4_ih_animals_rattle_snake",
       "ar_dlc_h4_ih_insects_grasshopper_day",
       "ar_dlc_h4_ih_insects_cicada_rasp_b_c_day",
@@ -37663,7 +37783,7 @@
       "Z": 100.0
     },
     "AmbientEmitters": [
-      "hash_07798f63_dsaidr_collision"
+      "ar_mosquito_infrequent"
     ]
   },
   {
@@ -37861,7 +37981,7 @@
       "ar_flies",
       "ar_dlc_h4_ih_insects_cicadas_tropical_day",
       "ar_dlc_h4_ih_insects_locust_ratchet_tropical_day",
-      "hash_07798f63_dsaidr_collision",
+      "ar_mosquito_infrequent",
       "ar_dlc_h4_ih_birds_creepy_macaw",
       "ar_dlc_h4_ih_birds_pauraque",
       "ar_dlc_h4_ih_birds_parakeet",
@@ -38050,7 +38170,7 @@
     "AmbientEmitters": [
       "ar_flies",
       "ar_dlc_h4_ih_insects_locust_ratchet_tropical_day",
-      "hash_07798f63_dsaidr_collision",
+      "ar_mosquito_infrequent",
       "ar_dlc_h4_ih_birds_parakeet",
       "ar_dlc_h4_ih_birds_pidgeon",
       "hash_7997e62f_giksvse_collision",
@@ -39292,7 +39412,7 @@
       "ar_dlc_h4_ih_insects_cricket_synth_fm_day",
       "ar_dlc_h4_ih_insects_locust_ratchet_tropical_day",
       "ar_dlc_h4_ih_insects_cricket_synth_am_night",
-      "hash_07798f63_dsaidr_collision",
+      "ar_mosquito_infrequent",
       "ar_dlc_h4_ih_animals_rattle_snake",
       "ar_dlc_h4_ih_insects_grasshopper_day",
       "ar_dlc_h4_ih_insects_cicada_rasp_b_c_day",
@@ -39540,7 +39660,7 @@
       "ar_flies",
       "ar_dlc_h4_ih_insects_cicadas_tropical_day",
       "ar_dlc_h4_ih_insects_locust_ratchet_tropical_day",
-      "hash_07798f63_dsaidr_collision",
+      "ar_mosquito_infrequent",
       "ar_dlc_h4_ih_birds_creepy_macaw",
       "ar_dlc_h4_ih_birds_parakeet",
       "ar_dlc_h4_ih_birds_chicken",
@@ -41552,126 +41672,6 @@
       "ar_dlc_hei_acc_control_room_01_console_07",
       "ar_dlc_hei_acc_control_room_01_console_08",
       "ar_dlc_hei_acc_control_room_01_console_09"
-    ]
-  },
-  {
-    "Name": "az_dlc_heists_prison",
-    "Shape": "Sphere",
-    "Flags0": 2860516388,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 1675.0,
-      "Y": 2600.0,
-      "Z": 150.0
-    },
-    "OuterSize": {
-      "X": 250.0,
-      "Y": 650.0,
-      "Z": 280.0
-    },
-    "InnerPosition": {
-      "X": 1698.5,
-      "Y": 2585.6,
-      "Z": 35.0
-    },
-    "InnerSize": {
-      "X": 147.42,
-      "Y": 224.68,
-      "Z": 40.0
-    },
-    "AmbientEmitters": [
-      "ar_null"
-    ]
-  },
-  {
-    "Name": "az_dlc_heists_bahama_mamas",
-    "Shape": "Box",
-    "Flags0": 2860516388,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": -1395.2,
-      "Y": -595.5,
-      "Z": 40.36
-    },
-    "OuterSize": {
-      "X": 137.21,
-      "Y": 121.0,
-      "Z": 38.0
-    },
-    "InnerPosition": {
-      "X": -1389.6,
-      "Y": -594.69,
-      "Z": 30.36
-    },
-    "InnerSize": {
-      "X": 18.87,
-      "Y": 8.0,
-      "Z": 10.0
-    },
-    "AmbientEmitters": [
-      "ar_dlc_heists_bahama_mamas_music"
-    ]
-  },
-  {
-    "Name": "az_dlc_heists_biolab",
-    "Shape": "Box",
-    "Flags0": 2860516388,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 3560.13,
-      "Y": 3680.72,
-      "Z": 14.55
-    },
-    "OuterSize": {
-      "X": 108.13,
-      "Y": 140.91,
-      "Z": 38.11
-    },
-    "InnerPosition": {
-      "X": 3569.12,
-      "Y": 3678.67,
-      "Z": 26.17
-    },
-    "InnerSize": {
-      "X": 113.47,
-      "Y": 106.32,
-      "Z": 12.0
-    },
-    "AmbientEmitters": [
-      "ar_null"
-    ]
-  },
-  {
-    "Name": "az_dlc_heists_ornate_bank",
-    "Shape": "Box",
-    "Flags0": 2860516388,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 253.47,
-      "Y": 217.28,
-      "Z": 108.44
-    },
-    "OuterSize": {
-      "X": 73.67,
-      "Y": 56.84,
-      "Z": 26.0
-    },
-    "InnerPosition": {
-      "X": 250.75,
-      "Y": 218.11,
-      "Z": 108.44
-    },
-    "InnerSize": {
-      "X": 38.24,
-      "Y": 25.43,
-      "Z": 16.0
-    },
-    "AmbientEmitters": [
-      "ar_null"
     ]
   },
   {
@@ -47496,5 +47496,72 @@
       "Z": 3.22
     },
     "AmbientEmitters": []
+  },
+  {
+    "Name": "iz_m24_2_int_hacker_basement_room_workshop",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 735.0,
+      "Y": -996.15,
+      "Z": -40.99
+    },
+    "OuterSize": {
+      "X": 17.62,
+      "Y": 17.28,
+      "Z": 6.39
+    },
+    "InnerPosition": {
+      "X": 735.0,
+      "Y": -996.15,
+      "Z": -40.99
+    },
+    "InnerSize": {
+      "X": 17.62,
+      "Y": 17.28,
+      "Z": 6.39
+    },
+    "AmbientEmitters": [
+      "ar_sewing_machines",
+      "pr_m24_2_int_hacker_basement_neon_sign",
+      "pr_m24_2_int_hacker_basement_small_fan_01",
+      "pr_m24_2_int_hacker_basement_small_fan_02",
+      "pr_m24_2_int_hacker_basement_small_fan_03"
+    ]
+  },
+  {
+    "Name": "iz_m24_2_int_hacker_basement_room_main",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 745.62,
+      "Y": -993.19,
+      "Z": -45.87
+    },
+    "OuterSize": {
+      "X": 23.91,
+      "Y": 12.74,
+      "Z": 4.41
+    },
+    "InnerPosition": {
+      "X": 745.62,
+      "Y": -993.19,
+      "Z": -45.87
+    },
+    "InnerSize": {
+      "X": 23.91,
+      "Y": 12.74,
+      "Z": 4.41
+    },
+    "AmbientEmitters": [
+      "pr_m24_2_int_hacker_basement_main_room_big_fan",
+      "pr_m24_2_int_hacker_basement_main_room_server_cornere",
+      "pr_m24_2_int_hacker_basement_main_room_hacker_pc_01",
+      "pr_m24_2_int_hacker_basement_main_room_hacker_pc_02"
+    ]
   }
 ]

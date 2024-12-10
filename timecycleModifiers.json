@@ -4520,6 +4520,36 @@
     "ModificationsCount": 54
   },
   {
+    "Name": "DLC_mp2024_02_Gen_Office",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 36
+  },
+  {
+    "Name": "DLC_mp2024_02_Hacker",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 38
+  },
+  {
+    "Name": "DLC_mp2024_02_Garage",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 38
+  },
+  {
+    "Name": "Lunar_NewYear_LapOfHonor",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 4
+  },
+  {
+    "Name": "Lunar_NewYear_Spectacle",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 1
+  },
+  {
+    "Name": "Lunar_NewYear_TheBigBash",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 4
+  },
+  {
     "Name": "AP1_01_C_NoFog",
     "DlcName": "TitleUpdate",
     "ModificationsCount": 3
@@ -5213,6 +5243,21 @@
     "Name": "DragRaceBloom",
     "DlcName": "TitleUpdate",
     "ModificationsCount": 2
+  },
+  {
+    "Name": "NitrousLight",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 25
+  },
+  {
+    "Name": "NitrousDark",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 25
+  },
+  {
+    "Name": "420WeedVan",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 38
   },
   {
     "Name": "li",

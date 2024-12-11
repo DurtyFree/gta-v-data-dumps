@@ -3926,6 +3926,58 @@
     }
   },
   {
+    "Name": "prop_vend_soda_01",
+    "Position": {
+      "X": 741.94165,
+      "Y": -998.8908,
+      "Z": -46.424206
+    },
+    "Rotation": {
+      "X": 0.0,
+      "Y": -0.0,
+      "Z": 180.0
+    }
+  },
+  {
+    "Name": "prop_watercooler_dark",
+    "Position": {
+      "X": 742.7591,
+      "Y": -999.13794,
+      "Z": -47.37716
+    },
+    "Rotation": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 175.99994
+    }
+  },
+  {
+    "Name": "prop_vend_soda_01",
+    "Position": {
+      "X": 726.8523,
+      "Y": -992.8725,
+      "Z": -40.942825
+    },
+    "Rotation": {
+      "X": 0.0,
+      "Y": 0.0,
+      "Z": 90.00001
+    }
+  },
+  {
+    "Name": "prop_watercooler_dark",
+    "Position": {
+      "X": 2148.525,
+      "Y": 4789.7744,
+      "Z": -47.375
+    },
+    "Rotation": {
+      "X": 0.0,
+      "Y": -0.0,
+      "Z": -4.999957
+    }
+  },
+  {
     "Name": "prop_watercooler",
     "Position": {
       "X": 1114.1558,

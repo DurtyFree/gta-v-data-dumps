@@ -43,6 +43,7 @@
   {
     "Name": "vehicles_futo_interior",
     "VehicleModels": [
+      null,
       null
     ]
   },
@@ -1946,30 +1947,6 @@
     ]
   },
   {
-    "Name": "alpha",
-    "VehicleModels": [
-      null
-    ]
-  },
-  {
-    "Name": "jester",
-    "VehicleModels": [
-      null
-    ]
-  },
-  {
-    "Name": "turismor",
-    "VehicleModels": [
-      null
-    ]
-  },
-  {
-    "Name": "vestra",
-    "VehicleModels": [
-      null
-    ]
-  },
-  {
     "Name": "huntley",
     "VehicleModels": [
       null
@@ -1989,6 +1966,30 @@
   },
   {
     "Name": "zentorno",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "alpha",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "jester",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "turismor",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vestra",
     "VehicleModels": [
       null
     ]
@@ -3225,75 +3226,7 @@
     "Name": "vehicles_faction_interior",
     "VehicleModels": [
       null,
-      null
-    ]
-  },
-  {
-    "Name": "vehicles_bob_w_interior",
-    "VehicleModels": [
       null,
-      null
-    ]
-  },
-  {
-    "Name": "vehicles_tornado_w_interior",
-    "VehicleModels": [
-      null
-    ]
-  },
-  {
-    "Name": "vehicles_cav_w_interior",
-    "VehicleModels": [
-      null,
-      null
-    ]
-  },
-  {
-    "Name": "vehicles_faction_w_interior",
-    "VehicleModels": [
-      null,
-      null
-    ]
-  },
-  {
-    "Name": "faction3",
-    "VehicleModels": [
-      null
-    ]
-  },
-  {
-    "Name": "sabregt2",
-    "VehicleModels": [
-      null
-    ]
-  },
-  {
-    "Name": "minivan2",
-    "VehicleModels": [
-      null
-    ]
-  },
-  {
-    "Name": "slamvan3",
-    "VehicleModels": [
-      null
-    ]
-  },
-  {
-    "Name": "tornado5",
-    "VehicleModels": [
-      null
-    ]
-  },
-  {
-    "Name": "virgo2",
-    "VehicleModels": [
-      null
-    ]
-  },
-  {
-    "Name": "virgo3",
-    "VehicleModels": [
       null
     ]
   },
@@ -3318,6 +3251,20 @@
   {
     "Name": "vehicles_schaf_w_interior",
     "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_cav_w_interior",
+    "VehicleModels": [
+      null,
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_faction_w_interior",
+    "VehicleModels": [
+      null,
       null
     ]
   },
@@ -3365,6 +3312,61 @@
   },
   {
     "Name": "buccaneer2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_bob_w_interior",
+    "VehicleModels": [
+      null,
+      null
+    ]
+  },
+  {
+    "Name": "vehicles_tornado_w_interior",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "faction3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "sabregt2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "minivan2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "slamvan3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "tornado5",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "virgo2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "virgo3",
     "VehicleModels": [
       null
     ]
@@ -3559,6 +3561,7 @@
   {
     "Name": "vehicles_banshee_w_interior",
     "VehicleModels": [
+      null,
       null
     ]
   },
@@ -5111,6 +5114,7 @@
   {
     "Name": "freightcar2",
     "VehicleModels": [
+      null,
       null
     ]
   },
@@ -5662,6 +5666,108 @@
   },
   {
     "Name": "coquette5",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "driftcheburek",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "driftjester3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "jester5",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "driftfuto2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "polterminus",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "polfaction2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "polcaracara",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "polcoquette4",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "duster2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "youga5",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "chavosv6",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "titan2",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "cargobob5",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "uranus",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "banshee3",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "firebolt",
+    "VehicleModels": [
+      null
+    ]
+  },
+  {
+    "Name": "coquette6",
     "VehicleModels": [
       null
     ]

@@ -3978,6 +3978,32 @@
     }
   },
   {
+    "Name": "prop_vend_soda_01",
+    "Position": {
+      "X": 24.635748,
+      "Y": -1395.4542,
+      "Z": -74.0472
+    },
+    "Rotation": {
+      "X": 0.0,
+      "Y": -0.0,
+      "Z": 0.0
+    }
+  },
+  {
+    "Name": "prop_watercooler_dark",
+    "Position": {
+      "X": 27.489494,
+      "Y": -1397.7985,
+      "Z": -75.0007
+    },
+    "Rotation": {
+      "X": 0.0,
+      "Y": -0.0,
+      "Z": -90.00001
+    }
+  },
+  {
     "Name": "prop_watercooler",
     "Position": {
       "X": 1114.1558,

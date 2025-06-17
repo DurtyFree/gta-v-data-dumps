@@ -568,8 +568,8 @@
     "RecordedWaypointsCount": 135
   },
   {
-    "Name": "bobby_tutorial_recording",
-    "RecordedWaypointsCount": 116
+    "Name": "bossdrivetoconstructionsite01",
+    "RecordedWaypointsCount": 144
   },
   {
     "Name": "carmod_01_intro",
@@ -958,6 +958,38 @@
   {
     "Name": "escapefbi3bx",
     "RecordedWaypointsCount": 274
+  },
+  {
+    "Name": "escortflatbed03stop1",
+    "RecordedWaypointsCount": 105
+  },
+  {
+    "Name": "escortflatbed03stop2",
+    "RecordedWaypointsCount": 163
+  },
+  {
+    "Name": "escortflatbed03stop3",
+    "RecordedWaypointsCount": 198
+  },
+  {
+    "Name": "escortflatbed03stop4",
+    "RecordedWaypointsCount": 263
+  },
+  {
+    "Name": "escortflatbed03stop5",
+    "RecordedWaypointsCount": 283
+  },
+  {
+    "Name": "escortflatbed03stop6",
+    "RecordedWaypointsCount": 336
+  },
+  {
+    "Name": "escortflatbed03stop7",
+    "RecordedWaypointsCount": 404
+  },
+  {
+    "Name": "escortflatbed04",
+    "RecordedWaypointsCount": 501
   },
   {
     "Name": "excile2_0",
@@ -1536,6 +1568,14 @@
     "RecordedWaypointsCount": 143
   },
   {
+    "Name": "hellfire01",
+    "RecordedWaypointsCount": 182
+  },
+  {
+    "Name": "hellfire03",
+    "RecordedWaypointsCount": 156
+  },
+  {
     "Name": "hfbiupstairs",
     "RecordedWaypointsCount": 92
   },
@@ -1750,6 +1790,14 @@
   {
     "Name": "lamar1_trigger",
     "RecordedWaypointsCount": 8
+  },
+  {
+    "Name": "leftfordead1",
+    "RecordedWaypointsCount": 461
+  },
+  {
+    "Name": "leftfordead13",
+    "RecordedWaypointsCount": 380
   },
   {
     "Name": "les1b_front_door",
@@ -2740,6 +2788,22 @@
     "RecordedWaypointsCount": 482
   },
   {
+    "Name": "s25tepedfleea",
+    "RecordedWaypointsCount": 19
+  },
+  {
+    "Name": "s25tepedfleeb",
+    "RecordedWaypointsCount": 50
+  },
+  {
+    "Name": "s25tepedfleec",
+    "RecordedWaypointsCount": 11
+  },
+  {
+    "Name": "s25tepedfleed",
+    "RecordedWaypointsCount": 25
+  },
+  {
     "Name": "searace0_route1",
     "RecordedWaypointsCount": 351
   },
@@ -3234,6 +3298,26 @@
   {
     "Name": "tvintrostairs",
     "RecordedWaypointsCount": 15
+  },
+  {
+    "Name": "tyc3lockupcntropen1",
+    "RecordedWaypointsCount": 24
+  },
+  {
+    "Name": "tyc3lockupcntropen2",
+    "RecordedWaypointsCount": 4
+  },
+  {
+    "Name": "tyc3lockupcntropen3a",
+    "RecordedWaypointsCount": 8
+  },
+  {
+    "Name": "tyc3lockupcntropen3b",
+    "RecordedWaypointsCount": 3
+  },
+  {
+    "Name": "tyc5veh22",
+    "RecordedWaypointsCount": 485
   },
   {
     "Name": "valet",

@@ -23,6 +23,7 @@
       "ped_underwater_disturb_dirt",
       "water_boat_wash",
       "water_splash_obj_in",
+      "exp_air_vehicle",
       "blood_stab",
       "ent_brk_metal_frag",
       "bul_water_heli",
@@ -149,6 +150,7 @@
       "veh_vent_heli_frogger",
       "ent_amb_wind_litter_dir",
       "bul_stungun_metal",
+      "exp_grd_post",
       "veh_respray_smoke",
       "ent_amb_foundry_molten_pour",
       "blood_stab_uw",
@@ -168,6 +170,7 @@
       "ent_amb_trop_fish_swarm_angel",
       "ent_anim_street_sweep",
       "wheel_fric_grass_bike",
+      "scr_fire_object_alt",
       "water_boat_rev",
       "ent_ray_shipwreck_bubbles",
       "bang_wood",
@@ -239,6 +242,7 @@
       "weap_hvy_turbulance_dirt",
       "fire_wrecked_car",
       "veh_plane_eject",
+      "scr_fire_map_alt",
       "ent_ray_prologue_elec_crackle",
       "exp_grd_petrol_pump_sp",
       "ent_amb_tnl_bubbles_lge",
@@ -464,6 +468,7 @@
       "bul_carmetal",
       "veh_slipstream",
       "exp_grd_boat",
+      "bul_sb_hal_skel_bone",
       "ent_amb_leaves_oak_g",
       "wheel_fric_hard_dusty_Tank",
       "water_jetski_bow1_mounted",
@@ -496,6 +501,7 @@
       "blood_entry_sniper",
       "wheel_decal_mud_Bike",
       "fire_object",
+      "exp_air_post",
       "proj_disturb_dust",
       "bullet_shotgun_tracer",
       "water_splash_sub_null_loop",
@@ -521,6 +527,7 @@
       "proj_grenade_smoke",
       "scr_agency3b_sprinkler_off",
       "ent_brk_blood",
+      "scr_fire_petrol_alt",
       "exp_grd_bzgas_smoke",
       "ent_sht_petrol_fire",
       "ent_amb_water_drips_spawned_lg",
@@ -794,6 +801,7 @@
       "water_splash_generic",
       "scrape_blood",
       "ent_amb_moths_cupboard",
+      "exp_air_vehicle_lod",
       "bul_glass_heli",
       "ent_amb_smoke_factory_white",
       "muz_railgun",
@@ -850,6 +858,7 @@
       "ped_underwater_trails",
       "bul_sand_loose",
       "ped_foot_decal_blood",
+      "scr_exp_alt",
       "water_splash_bicycle_in",
       "lens_water",
       "veh_wheel_puncture",
@@ -909,6 +918,7 @@
       "wheel_decal_blood",
       "env_fog",
       "blood_wheel",
+      "bul_sb_hal_skel_armour",
       "veh_petrol_leak_bike",
       "ent_amb_int_waterfall_runoff",
       "ent_dst_glass_bulb",
@@ -3618,6 +3628,70 @@
       "muz_hr_titan2_105",
       "exp_hr_titan2_40_air",
       "muz_hr_titan2_25"
+    ]
+  },
+  {
+    "DictionaryName": "cut_sb",
+    "EffectNames": [
+      "cut_sb_lsia_champagne_pour",
+      "cut_sb_lsia_wheel_skid"
+    ]
+  },
+  {
+    "DictionaryName": "scr_sb",
+    "EffectNames": [
+      "scr_sb_weed_burn_flames_1a",
+      "scr_sb_weed_burn_smoke_2c",
+      "scr_sb_weed_burn_flames_1b",
+      "scr_sb_tycoon_banknotes",
+      "scr_sb_cash_trolley_flames",
+      "scr_sb_cash_trolley2_flames",
+      "scr_sb_weed_burn_flames_1c",
+      "scr_sb_tycoon_laundry_disturb",
+      "scr_sb_cash_door_smoke",
+      "scr_sb_smoke_exploded_tank",
+      "scr_sb_cash_trolley3_flames",
+      "scr_sb_weed_burn_flames",
+      "scr_sb_boat_damage_smoke",
+      "scr_sb_cash_stack_flames",
+      "scr_sb_par_package_flash_red",
+      "scr_sb_heli_camera_flash",
+      "scr_sb_weed_burn_smoke_2b",
+      "scr_sb_fire_pool_flame",
+      "scr_sb_cash_crate_flames",
+      "scr_sb_cash_warehouse_smoke",
+      "scr_sb_cash_pile4_flames",
+      "scr_sb_weed_burn_smoke_2a",
+      "scr_sb_cash_pile_flames",
+      "scr_sb_cash_box_flames"
+    ]
+  },
+  {
+    "DictionaryName": "scr_sb_col",
+    "EffectNames": [
+      "scr_sb_col_confetti_gold",
+      "scr_sb_col_confetti"
+    ]
+  },
+  {
+    "DictionaryName": "scr_sb_hal",
+    "EffectNames": [
+      "scr_sb_hal_zom_spawn_dirt",
+      "scr_sb_hal_zom_split_smoke_body",
+      "sp_sb_hal_zom_dj_death_trail",
+      "scr_sb_hal_zom_deck_float",
+      "scr_sb_hal_skel_smoke_body",
+      "scr_sb_hal_ramius_drips_med",
+      "scr_sb_hal_zom_dj_base",
+      "scr_sb_hal_ramius_drips_sm",
+      "scr_sb_hal_zom_spawn_sand",
+      "scr_sb_hal_zom_tamer_smoke",
+      "scr_sb_hal_zom_split_spawn",
+      "scr_sb_hal_ramius_drips_lg",
+      "scr_sb_hal_zom_dj_death",
+      "scr_sb_hal_zom_spawn_sand_slow",
+      "scr_sb_hal_zom_dj_mc",
+      "scr_sb_hal_zom_spawn_dirt_slow"
     ]
   },
   {

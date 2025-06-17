@@ -15381,7 +15381,7 @@
         "Garment": "All",
         "Price": 26700,
         "Facing": "TATTOO_FRONT_LEFT",
-        "UpdateGroup": "LEG_LEFT_UPPER_BACK",
+        "UpdateGroup": "LEG_LEFT_UPPER_SLEEVE",
         "AwardLevel": 0
       },
       {
@@ -15393,7 +15393,7 @@
         "Garment": "All",
         "Price": 26700,
         "Facing": "TATTOO_FRONT_LEFT",
-        "UpdateGroup": "LEG_LEFT_UPPER_BACK",
+        "UpdateGroup": "LEG_LEFT_UPPER_SLEEVE",
         "AwardLevel": 0
       },
       {

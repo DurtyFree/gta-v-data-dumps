@@ -24738,7 +24738,7 @@
       "Z": 10.0
     },
     "AmbientEmitters": [
-      "hash_853cc96c_trainlk_collision"
+      "hash_853cc96c_lfoxbuw_collision"
     ]
   },
   {
@@ -45021,41 +45021,6 @@
     ]
   },
   {
-    "Name": "az_dlc_cascon_01",
-    "Shape": "Sphere",
-    "Flags0": 2860516384,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 1140.0,
-      "Y": 235.0,
-      "Z": -50.0
-    },
-    "OuterSize": {
-      "X": 15.0,
-      "Y": 20.0,
-      "Z": 20.0
-    },
-    "InnerPosition": {
-      "X": 1142.0,
-      "Y": 232.0,
-      "Z": -50.0
-    },
-    "InnerSize": {
-      "X": 1.0,
-      "Y": 1.0,
-      "Z": 1.0
-    },
-    "AmbientEmitters": [
-      "ar_dlc_cascon_grind",
-      "ar_dlc_cascon_ham",
-      "ar_dlc_cascon_ng",
-      "ar_dlc_cascon_weld",
-      "ar_dlc_cascon_drop",
-      "ar_dlc_cascon_shouts"
-    ]
-  },
-  {
     "Name": "iz_reh_dlc_int_04_sum2_int4_basementrm",
     "Shape": "Box",
     "Flags0": 2860516389,
@@ -45151,6 +45116,41 @@
     },
     "AmbientEmitters": [
       "hash_284732e8_ctjznmx_collision"
+    ]
+  },
+  {
+    "Name": "az_dlc_cascon_01",
+    "Shape": "Sphere",
+    "Flags0": 2860516384,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 1140.0,
+      "Y": 235.0,
+      "Z": -50.0
+    },
+    "OuterSize": {
+      "X": 15.0,
+      "Y": 20.0,
+      "Z": 20.0
+    },
+    "InnerPosition": {
+      "X": 1142.0,
+      "Y": 232.0,
+      "Z": -50.0
+    },
+    "InnerSize": {
+      "X": 1.0,
+      "Y": 1.0,
+      "Z": 1.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_cascon_grind",
+      "ar_dlc_cascon_ham",
+      "ar_dlc_cascon_ng",
+      "ar_dlc_cascon_weld",
+      "ar_dlc_cascon_drop",
+      "ar_dlc_cascon_shouts"
     ]
   },
   {
@@ -47563,5 +47563,369 @@
       "pr_m24_2_int_hacker_basement_main_room_hacker_pc_01",
       "pr_m24_2_int_hacker_basement_main_room_hacker_pc_02"
     ]
+  },
+  {
+    "Name": "iz_m25_1_int_tycoon_studio_mid_rm_mid_bedroom",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 67.83,
+      "Y": -80.04,
+      "Z": -74.04
+    },
+    "OuterSize": {
+      "X": 4.06,
+      "Y": 7.39,
+      "Z": 2.54
+    },
+    "InnerPosition": {
+      "X": 67.83,
+      "Y": -80.04,
+      "Z": -74.04
+    },
+    "InnerSize": {
+      "X": 4.06,
+      "Y": 7.39,
+      "Z": 2.54
+    },
+    "AmbientEmitters": []
+  },
+  {
+    "Name": "iz_m25_1_int_tycoon_studio_lo_rm_bathroom",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": -29.39,
+      "Y": -76.94,
+      "Z": -73.85
+    },
+    "OuterSize": {
+      "X": 3.51,
+      "Y": 1.58,
+      "Z": 2.5
+    },
+    "InnerPosition": {
+      "X": -29.39,
+      "Y": -76.94,
+      "Z": -73.85
+    },
+    "InnerSize": {
+      "X": 3.51,
+      "Y": 1.58,
+      "Z": 2.5
+    },
+    "AmbientEmitters": []
+  },
+  {
+    "Name": "iz_m25_1_int_tycoon_studio_lo_rm_bedroom",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": -24.42,
+      "Y": -79.73,
+      "Z": -73.77
+    },
+    "OuterSize": {
+      "X": 2.61,
+      "Y": 3.45,
+      "Z": 2.67
+    },
+    "InnerPosition": {
+      "X": -24.42,
+      "Y": -79.73,
+      "Z": -73.77
+    },
+    "InnerSize": {
+      "X": 2.61,
+      "Y": 3.45,
+      "Z": 2.67
+    },
+    "AmbientEmitters": []
+  },
+  {
+    "Name": "iz_m25_1_int_tycoon_studio_lo_rm_living",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": -23.46,
+      "Y": -74.29,
+      "Z": -73.85
+    },
+    "OuterSize": {
+      "X": 10.63,
+      "Y": 7.44,
+      "Z": 2.5
+    },
+    "InnerPosition": {
+      "X": -23.46,
+      "Y": -74.29,
+      "Z": -73.85
+    },
+    "InnerSize": {
+      "X": 10.63,
+      "Y": 7.44,
+      "Z": 2.5
+    },
+    "AmbientEmitters": []
+  },
+  {
+    "Name": "iz_m25_1_int_tycoon_studio_mid_rm_mid_lounge",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 60.6,
+      "Y": -81.79,
+      "Z": -73.9
+    },
+    "OuterSize": {
+      "X": 11.87,
+      "Y": 11.99,
+      "Z": 2.83
+    },
+    "InnerPosition": {
+      "X": 60.6,
+      "Y": -81.79,
+      "Z": -73.9
+    },
+    "InnerSize": {
+      "X": 11.87,
+      "Y": 11.99,
+      "Z": 2.83
+    },
+    "AmbientEmitters": []
+  },
+  {
+    "Name": "iz_m25_1_int_tycoon_studio_mid_rm_mid_bath",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 64.88,
+      "Y": -78.05,
+      "Z": -73.85
+    },
+    "OuterSize": {
+      "X": 1.86,
+      "Y": 3.12,
+      "Z": 2.92
+    },
+    "InnerPosition": {
+      "X": 64.88,
+      "Y": -78.05,
+      "Z": -73.85
+    },
+    "InnerSize": {
+      "X": 1.86,
+      "Y": 3.12,
+      "Z": 2.92
+    },
+    "AmbientEmitters": []
+  },
+  {
+    "Name": "iz_m25_1_int_tycoon_car_wash_gtamloroom004",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 25.6,
+      "Y": -1390.41,
+      "Z": -73.3
+    },
+    "OuterSize": {
+      "X": 4.18,
+      "Y": 3.93,
+      "Z": 3.59
+    },
+    "InnerPosition": {
+      "X": 25.6,
+      "Y": -1390.41,
+      "Z": -73.3
+    },
+    "InnerSize": {
+      "X": 4.18,
+      "Y": 3.93,
+      "Z": 3.59
+    },
+    "AmbientEmitters": []
+  },
+  {
+    "Name": "iz_m25_1_int_tycoon_smoke_heli_room_main",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": -1162.51,
+      "Y": -1538.9,
+      "Z": -48.87
+    },
+    "OuterSize": {
+      "X": 9.84,
+      "Y": 9.88,
+      "Z": 4.75
+    },
+    "InnerPosition": {
+      "X": -1162.51,
+      "Y": -1538.9,
+      "Z": -48.87
+    },
+    "InnerSize": {
+      "X": 9.84,
+      "Y": 9.88,
+      "Z": 4.75
+    },
+    "AmbientEmitters": []
+  },
+  {
+    "Name": "iz_m25_1_int_tycoon_car_wash_gtamloroom001",
+    "Shape": "Box",
+    "Flags0": 2860516385,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 24.02,
+      "Y": -1398.9,
+      "Z": -73.3
+    },
+    "OuterSize": {
+      "X": 7.29,
+      "Y": 8.06,
+      "Z": 3.59
+    },
+    "InnerPosition": {
+      "X": 24.02,
+      "Y": -1398.9,
+      "Z": -73.3
+    },
+    "InnerSize": {
+      "X": 7.29,
+      "Y": 8.06,
+      "Z": 3.59
+    },
+    "AmbientEmitters": []
+  },
+  {
+    "Name": "iz_m25_1_int_tycoon_car_wash_gtamloroom003",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 14.21,
+      "Y": -1397.14,
+      "Z": -72.91
+    },
+    "OuterSize": {
+      "X": 12.33,
+      "Y": 11.23,
+      "Z": 4.37
+    },
+    "InnerPosition": {
+      "X": 14.21,
+      "Y": -1397.14,
+      "Z": -72.91
+    },
+    "InnerSize": {
+      "X": 12.33,
+      "Y": 11.23,
+      "Z": 4.37
+    },
+    "AmbientEmitters": []
+  },
+  {
+    "Name": "iz_m25_1_int_tycoon_studio_lo_rm_hallway",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": -19.69,
+      "Y": -81.15,
+      "Z": -73.83
+    },
+    "OuterSize": {
+      "X": 1.69,
+      "Y": 6.28,
+      "Z": 4.06
+    },
+    "InnerPosition": {
+      "X": -19.69,
+      "Y": -81.15,
+      "Z": -73.83
+    },
+    "InnerSize": {
+      "X": 1.69,
+      "Y": 6.28,
+      "Z": 4.06
+    },
+    "AmbientEmitters": []
+  },
+  {
+    "Name": "iz_m25_1_int_tycoon_car_wash_gtamloroom005",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 25.93,
+      "Y": -1393.62,
+      "Z": -73.3
+    },
+    "OuterSize": {
+      "X": 3.19,
+      "Y": 2.5,
+      "Z": 3.59
+    },
+    "InnerPosition": {
+      "X": 25.93,
+      "Y": -1393.62,
+      "Z": -73.3
+    },
+    "InnerSize": {
+      "X": 3.19,
+      "Y": 2.5,
+      "Z": 3.59
+    },
+    "AmbientEmitters": []
+  },
+  {
+    "Name": "iz_m25_1_int_tycoon_studio_mid_rm_mid_hall",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 64.08,
+      "Y": -86.67,
+      "Z": -74.03
+    },
+    "OuterSize": {
+      "X": 1.55,
+      "Y": 0.09,
+      "Z": 2.49
+    },
+    "InnerPosition": {
+      "X": 64.08,
+      "Y": -86.67,
+      "Z": -74.03
+    },
+    "InnerSize": {
+      "X": 1.55,
+      "Y": 0.09,
+      "Z": 2.49
+    },
+    "AmbientEmitters": []
   }
 ]

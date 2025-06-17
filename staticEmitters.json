@@ -6077,7 +6077,7 @@
     "Alarm": ""
   },
   {
-    "Name": "hash_e5adc979_uhzmgjl_collision",
+    "Name": "hash_e5adc979_mcmagaz_collision",
     "Position": {
       "X": 2829.3,
       "Y": -629.3,
@@ -14944,6 +14944,40 @@
     "Interior": "m24_2_int_office_gen",
     "Room": "m24_2_int_office_gen_room_main",
     "RadioStation": "HIDDEN_RADIO_06_COUNTRY",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_m25_1_int_tycoon_car_wash_gtamloroom003",
+    "Position": {
+      "X": 19.56,
+      "Y": -1400.0,
+      "Z": -74.0
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m25_1_int_tycoon_car_wash",
+    "Room": "m25_1_int_tycoon_car_wash_gtamloroom003",
+    "RadioStation": "HIDDEN_RADIO_01_CLASS_ROCK",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_m25_1_int_tycoon_smoke_heli_room_main",
+    "Position": {
+      "X": -1160.59,
+      "Y": -1539.72,
+      "Z": -46.57
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m25_1_int_tycoon_smoke_heli",
+    "Room": "m25_1_int_tycoon_smoke_heli_room_main",
+    "RadioStation": "HIDDEN_RADIO_01_CLASS_ROCK",
     "Alarm": ""
   }
 ]

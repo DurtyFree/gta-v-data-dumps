@@ -208,6 +208,7 @@
       "ent_dst_gen_water_spray",
       "ent_amb_butterflys_swarm",
       "ent_amb_steam_vent_open_lgt",
+      "ent_dst_billboard",
       "veh_vent_heli_cargobob",
       "water_splash_sub_null_trig",
       "veh_light_red",
@@ -3692,6 +3693,84 @@
       "scr_sb_hal_zom_spawn_sand_slow",
       "scr_sb_hal_zom_dj_mc",
       "scr_sb_hal_zom_spawn_dirt_slow"
+    ]
+  },
+  {
+    "DictionaryName": "cut_avi",
+    "EffectNames": [
+      "cs_avi_champagne_spray",
+      "cut_sec_helicopter_impact",
+      "cs_avi_muz_assault_rifle",
+      "cs_avi_blood_entry",
+      "cut_sec_helicopter_damage"
+    ]
+  },
+  {
+    "DictionaryName": "scr_man",
+    "EffectNames": [
+      "scr_man_avi_missile_exp",
+      "scr_man_avi_drink_pour",
+      "scr_man_avi_door_blast",
+      "scr_man_avi_keypad_sparks"
+    ]
+  },
+  {
+    "DictionaryName": "scr_man_col",
+    "EffectNames": [
+      "scr_man_col_confetti",
+      "scr_man_col_confetti_gold"
+    ]
+  },
+  {
+    "DictionaryName": "scr_man_oj",
+    "EffectNames": [
+      "scr_man_oj_fire_pool_flames",
+      "scr_man_oj_fire_blade_wreck_back",
+      "scr_man_oj_fire_dumpster_flames",
+      "scr_man_oj_fire_gas_haze",
+      "scr_man_oj_fire_jackal_wreck_front",
+      "scr_man_oj_fire_asea_wreck_front",
+      "scr_man_oj_fire_smoke_studio",
+      "scr_man_oj_fire_smoke_garage",
+      "scr_man_oj_fire_blade_wreck_front",
+      "scr_man_oj_fire_smoke_apart",
+      "scr_man_oj_fire_gas_leak",
+      "scr_man_oj_fire_window_flames",
+      "scr_man_oj_fire_roof_flames",
+      "scr_man_oj_fire_asea_wreck_back",
+      "scr_man_oj_fire_jackal_wreck_back"
+    ]
+  },
+  {
+    "DictionaryName": "scr_man_surv",
+    "EffectNames": [
+      "scr_man_surv_food_appear",
+      "scr_man_surv_veh_club",
+      "scr_man_surv_hippy_impact",
+      "scr_man_surv_veh_weevil",
+      "scr_man_surv_veh_scramjet",
+      "scr_man_surv_veh_taco",
+      "scr_man_surv_veh_fbi2",
+      "scr_man_surv_yeti_appear",
+      "scr_man_surv_alien_impact",
+      "scr_man_surv_zombie_eject",
+      "scr_man_surv_weed_smoke",
+      "scr_man_surv_alien_muz",
+      "scr_man_surv_veh_blista3",
+      "scr_man_surv_hippy_muz",
+      "scr_man_surv_actfig_muz",
+      "scr_man_surv_actfig_eject",
+      "scr_man_surv_zombie_impact",
+      "scr_man_surv_actfig_impact",
+      "scr_man_surv_veh_speedo2",
+      "scr_man_surv_hippy_eject",
+      "scr_man_surv_alien_eject",
+      "scr_man_surv_actfig_appear",
+      "scr_man_surv_food_muz",
+      "scr_man_surv_food_eject",
+      "scr_man_surv_poker_chips_exp",
+      "scr_man_surv_zombie_muz",
+      "scr_man_surv_food_impact"
     ]
   },
   {

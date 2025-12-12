@@ -288,6 +288,42 @@
     "RecordedWaypointsCount": 55
   },
   {
+    "Name": "avi2contactfoot",
+    "RecordedWaypointsCount": 35
+  },
+  {
+    "Name": "avi2contactveh",
+    "RecordedWaypointsCount": 180
+  },
+  {
+    "Name": "avi3bike03",
+    "RecordedWaypointsCount": 35
+  },
+  {
+    "Name": "avi3bike04",
+    "RecordedWaypointsCount": 36
+  },
+  {
+    "Name": "avi3bike05",
+    "RecordedWaypointsCount": 27
+  },
+  {
+    "Name": "avi3bike06",
+    "RecordedWaypointsCount": 33
+  },
+  {
+    "Name": "avi6_ally3",
+    "RecordedWaypointsCount": 60
+  },
+  {
+    "Name": "avi6_w_mic_east",
+    "RecordedWaypointsCount": 60
+  },
+  {
+    "Name": "avi6_w_mic_tongva",
+    "RecordedWaypointsCount": 60
+  },
+  {
     "Name": "bar2_clowncar1a",
     "RecordedWaypointsCount": 26
   },
@@ -562,6 +598,10 @@
   {
     "Name": "bigscorea80",
     "RecordedWaypointsCount": 41
+  },
+  {
+    "Name": "bikerformationrec",
+    "RecordedWaypointsCount": 308
   },
   {
     "Name": "boatdepotfarms",
@@ -850,6 +890,34 @@
   {
     "Name": "dgfrankentry",
     "RecordedWaypointsCount": 16
+  },
+  {
+    "Name": "dlc2_2025_mission5veh11",
+    "RecordedWaypointsCount": 63
+  },
+  {
+    "Name": "dlc2_2025_mission5veh18",
+    "RecordedWaypointsCount": 40
+  },
+  {
+    "Name": "dlc2_2025_mission5veh19",
+    "RecordedWaypointsCount": 36
+  },
+  {
+    "Name": "dlc2_2025_mission5veh20",
+    "RecordedWaypointsCount": 37
+  },
+  {
+    "Name": "dlc2_2025_mission5veh21",
+    "RecordedWaypointsCount": 101
+  },
+  {
+    "Name": "dlc2_2025_mission5veh22",
+    "RecordedWaypointsCount": 164
+  },
+  {
+    "Name": "dlc2_2025_mission5veh23",
+    "RecordedWaypointsCount": 103
   },
   {
     "Name": "dlcassfzarrf",
@@ -1960,6 +2028,10 @@
     "RecordedWaypointsCount": 80
   },
   {
+    "Name": "mulecustom01",
+    "RecordedWaypointsCount": 275
+  },
+  {
     "Name": "multirace0_route3",
     "RecordedWaypointsCount": 432
   },
@@ -2960,6 +3032,10 @@
     "RecordedWaypointsCount": 39
   },
   {
+    "Name": "stockade01",
+    "RecordedWaypointsCount": 509
+  },
+  {
     "Name": "strclub1_friend_enter",
     "RecordedWaypointsCount": 15
   },
@@ -2994,6 +3070,10 @@
   {
     "Name": "taxi_oj_gyn",
     "RecordedWaypointsCount": 9
+  },
+  {
+    "Name": "tbcchar",
+    "RecordedWaypointsCount": 99
   },
   {
     "Name": "towerguard01",

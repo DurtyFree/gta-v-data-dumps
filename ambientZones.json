@@ -6255,7 +6255,7 @@
       "ar_crickets_c_city",
       "ar_cicadas_b_city",
       "hash_7b426081_qfjrlnea_collision",
-      "hash_f699e7db_alqpttrw_collision",
+      "hash_f699e7db_zlvekyka_collision",
       "hash_be231518_uxrmapm_collision",
       "hash_6decdd6e_cwgsty_collision",
       "ar_vehicles_brakes_distant",
@@ -12151,7 +12151,7 @@
       "hash_677dbeee_qoaffpj_collision",
       "ar_vehicles_car_horns_day",
       "ar_vehicles_truck_horns_day",
-      "hash_f699e7db_alqpttrw_collision",
+      "hash_f699e7db_zlvekyka_collision",
       "hash_7b426081_qfjrlnea_collision",
       "hash_6decdd6e_cwgsty_collision",
       "hash_be231518_uxrmapm_collision",
@@ -12866,7 +12866,7 @@
       "ar_vehicles_car_horns_day",
       "ar_vehicles_truck_horns_day",
       "ar_birds_crow_distant",
-      "hash_f699e7db_alqpttrw_collision",
+      "hash_f699e7db_zlvekyka_collision",
       "hash_be231518_uxrmapm_collision",
       "da_cicada_a",
       "da_cricket_a",
@@ -17003,7 +17003,7 @@
       "hash_faf67a6e_edklmnj_collision",
       "hash_8a7b8709_ofeoxrd_collision",
       "hash_7dbb91b6_rdwuznc_collision",
-      "hash_6c816f32_ipayziy_collision",
+      "hash_6c816f32_tjalopi_collision",
       "hash_2e5a0430_vamxmro_collision",
       "hash_5e16525c_qfafqxc_collision",
       "hash_781beb2b_gavoifr_collision",
@@ -17306,7 +17306,7 @@
       "ar_vehicles_brakes_distant",
       "ar_vehicles_car_horns_night",
       "hash_be231518_uxrmapm_collision",
-      "hash_f699e7db_alqpttrw_collision"
+      "hash_f699e7db_zlvekyka_collision"
     ]
   },
   {
@@ -17895,7 +17895,7 @@
     ]
   },
   {
-    "Name": "hash_b0138085_wdxcyra_collision",
+    "Name": "hash_b0138085_awqdlrf_collision",
     "Shape": "Box",
     "Flags0": 2860516385,
     "Flags1": 0,
@@ -18025,7 +18025,7 @@
       "hash_c2c05f2f_aeljhhit_collision",
       "ar_leaf_blower",
       "hash_be231518_uxrmapm_collision",
-      "hash_f699e7db_alqpttrw_collision",
+      "hash_f699e7db_zlvekyka_collision",
       "ar_distant_mower",
       "da_cicada_a",
       "da_cricket_a",
@@ -18416,7 +18416,7 @@
       "ar_bullfrog_night",
       "ar_birds_owl_night",
       "ar_katydids",
-      "hash_f699e7db_alqpttrw_collision",
+      "hash_f699e7db_zlvekyka_collision",
       "ar_birds_crow_day",
       "ar_birds_crow_distant",
       "hash_07f7333d_kafvozx_collision",
@@ -19387,7 +19387,7 @@
       "ar_birds_crow_day",
       "hash_13fc6e08_emnacss_collision",
       "hash_6decdd6e_cwgsty_collision",
-      "hash_f699e7db_alqpttrw_collision",
+      "hash_f699e7db_zlvekyka_collision",
       "hash_be231518_uxrmapm_collision",
       "da_cicada_a",
       "da_cricket_a",
@@ -21657,7 +21657,7 @@
     ]
   },
   {
-    "Name": "hash_21547ba1_ljgngit_collision",
+    "Name": "hash_21547ba1_qmzeauk_collision",
     "Shape": "Sphere",
     "Flags0": 2860516388,
     "Flags1": 0,
@@ -24643,7 +24643,7 @@
       "hash_677dbeee_qoaffpj_collision",
       "ar_birds_crow_distant",
       "hash_7b426081_qfjrlnea_collision",
-      "hash_f699e7db_alqpttrw_collision",
+      "hash_f699e7db_zlvekyka_collision",
       "hash_be231518_uxrmapm_collision",
       "hash_6decdd6e_cwgsty_collision",
       "da_cicada_a",
@@ -27247,7 +27247,7 @@
       "ar_vehicles_truck_horns_day",
       "ar_birds_crow_distant",
       "hash_7b426081_qfjrlnea_collision",
-      "hash_f699e7db_alqpttrw_collision",
+      "hash_f699e7db_zlvekyka_collision",
       "hash_be231518_uxrmapm_collision",
       "hash_6decdd6e_cwgsty_collision",
       "ar_vehicles_brakes_distant",
@@ -28865,7 +28865,7 @@
       "hash_23b5852a_psphchc_collision",
       "hash_5b7ce070_bmjfwqz_collision",
       "hash_276daa59_audhdqq_collision",
-      "hash_890dc1e0_evzpvhn_collision",
+      "hash_890dc1e0_sgjmrqe_collision",
       "hash_e419fbb1_nvmpjib_collision",
       "ar_mugshot_room_screams_01",
       "hash_c5f05a7e_gmledgj_collision",
@@ -33441,6 +33441,628 @@
     ]
   },
   {
+    "Name": "iz_xm3_dlc_int_01_xm3_main_room",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 484.76,
+      "Y": -2625.01,
+      "Z": -48.72
+    },
+    "OuterSize": {
+      "X": 9.61,
+      "Y": 4.22,
+      "Z": 2.69
+    },
+    "InnerPosition": {
+      "X": 484.76,
+      "Y": -2625.01,
+      "Z": -48.72
+    },
+    "InnerSize": {
+      "X": 9.61,
+      "Y": 4.22,
+      "Z": 2.69
+    },
+    "AmbientEmitters": [
+      "pr_xm3_dlc_int_01_xm3_main_room_extractorfan_01",
+      "pr_xm3_dlc_int_01_xm3_main_room_lsdequipment_01",
+      "pr_xm3_dlc_int_01_xm3_main_room_neonlight_01"
+    ]
+  },
+  {
+    "Name": "iz_xm3_dlc_int_04_xm3_corridortop",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 490.17,
+      "Y": -2559.89,
+      "Z": -58.83
+    },
+    "OuterSize": {
+      "X": 22.97,
+      "Y": 6.83,
+      "Z": 3.12
+    },
+    "InnerPosition": {
+      "X": 490.17,
+      "Y": -2559.89,
+      "Z": -58.83
+    },
+    "InnerSize": {
+      "X": 22.97,
+      "Y": 6.83,
+      "Z": 3.12
+    },
+    "AmbientEmitters": [
+      "ar_null"
+    ]
+  },
+  {
+    "Name": "iz_xm3_dlc_int_04_xm3_topoff_mid",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 494.99,
+      "Y": -2566.27,
+      "Z": -48.34
+    },
+    "OuterSize": {
+      "X": 22.88,
+      "Y": 19.33,
+      "Z": 3.81
+    },
+    "InnerPosition": {
+      "X": 494.99,
+      "Y": -2566.27,
+      "Z": -48.34
+    },
+    "InnerSize": {
+      "X": 22.88,
+      "Y": 19.33,
+      "Z": 3.81
+    },
+    "AmbientEmitters": [
+      "pr_xm3_dlc_int_04_xm3_topoff_mid_ceilingvent_01",
+      "pr_xm3_dlc_int_04_xm3_topoff_mid_ceilingvent_02",
+      "pr_xm3_dlc_int_04_xm3_topoff_mid_ceilingvent_03",
+      "pr_xm3_dlc_int_04_xm3_topoff_mid_ceilingvent_04",
+      "pr_xm3_dlc_int_04_xm3_topoff_mid_labfridge_01",
+      "pr_xm3_dlc_int_04_xm3_topoff_mid_beepy_stuff",
+      "pr_xm3_dlc_int_04_xm3_topoff_mid_beepy_stuff_02"
+    ]
+  },
+  {
+    "Name": "iz_xm3_dlc_int_03_xm3_intwaremed_room",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 572.29,
+      "Y": -430.61,
+      "Z": -66.1
+    },
+    "OuterSize": {
+      "X": 48.56,
+      "Y": 57.56,
+      "Z": 10.5
+    },
+    "InnerPosition": {
+      "X": 572.29,
+      "Y": -430.61,
+      "Z": -66.1
+    },
+    "InnerSize": {
+      "X": 48.56,
+      "Y": 57.56,
+      "Z": 9.29
+    },
+    "AmbientEmitters": [
+      "ar_null"
+    ]
+  },
+  {
+    "Name": "iz_xm3_dlc_int_03_xm3_intwaremed_office",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 557.54,
+      "Y": -419.37,
+      "Z": -69.42
+    },
+    "OuterSize": {
+      "X": 9.08,
+      "Y": 9.98,
+      "Z": 2.64
+    },
+    "InnerPosition": {
+      "X": 557.54,
+      "Y": -419.37,
+      "Z": -69.42
+    },
+    "InnerSize": {
+      "X": 9.08,
+      "Y": 9.98,
+      "Z": 2.64
+    },
+    "AmbientEmitters": [
+      "pr_xm3_dlc_int_03_xm3_intwaremed_office_fridge_01"
+    ]
+  },
+  {
+    "Name": "iz_xm3_dlc_int_04_xm3_topoff_left",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 508.6,
+      "Y": -2566.15,
+      "Z": -48.21
+    },
+    "OuterSize": {
+      "X": 8.23,
+      "Y": 16.8,
+      "Z": 3.96
+    },
+    "InnerPosition": {
+      "X": 508.6,
+      "Y": -2566.15,
+      "Z": -48.21
+    },
+    "InnerSize": {
+      "X": 8.23,
+      "Y": 16.8,
+      "Z": 3.96
+    },
+    "AmbientEmitters": [
+      "pr_xm3_dlc_int_04_xm3_topoff_left_labfridge_01",
+      "pr_xm3_dlc_int_04_xm3_topoff_left_beepy_stuff_01",
+      "pr_xm3_dlc_int_04_xm3_topoff_left_beepy_stuff_02"
+    ]
+  },
+  {
+    "Name": "iz_xm3_dlc_int_04_xm3_corridorbottom",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 490.17,
+      "Y": -2560.41,
+      "Z": -63.69
+    },
+    "OuterSize": {
+      "X": 22.97,
+      "Y": 7.38,
+      "Z": 2.99
+    },
+    "InnerPosition": {
+      "X": 490.17,
+      "Y": -2560.41,
+      "Z": -63.69
+    },
+    "InnerSize": {
+      "X": 22.97,
+      "Y": 7.38,
+      "Z": 2.99
+    },
+    "AmbientEmitters": [
+      "ar_null"
+    ]
+  },
+  {
+    "Name": "iz_xm3_dlc_int_04_xm3_mainstairs",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 494.99,
+      "Y": -2551.29,
+      "Z": -53.61
+    },
+    "OuterSize": {
+      "X": 6.49,
+      "Y": 10.63,
+      "Z": 13.56
+    },
+    "InnerPosition": {
+      "X": 494.99,
+      "Y": -2551.29,
+      "Z": -53.61
+    },
+    "InnerSize": {
+      "X": 6.49,
+      "Y": 10.63,
+      "Z": 13.56
+    },
+    "AmbientEmitters": [
+      "ar_null"
+    ]
+  },
+  {
+    "Name": "az_dlc_xm3_lab_ext_01",
+    "Shape": "Box",
+    "Flags0": 2860516384,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 603.25,
+      "Y": -440.33,
+      "Z": 26.9
+    },
+    "OuterSize": {
+      "X": 120.0,
+      "Y": 114.16,
+      "Z": 30.0
+    },
+    "InnerPosition": {
+      "X": 600.18,
+      "Y": -438.65,
+      "Z": 25.9
+    },
+    "InnerSize": {
+      "X": 37.25,
+      "Y": 60.29,
+      "Z": 22.0
+    },
+    "AmbientEmitters": [
+      "ar_null"
+    ]
+  },
+  {
+    "Name": "iz_xm3_dlc_int_04_xm3_topoff_right",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 481.44,
+      "Y": -2566.32,
+      "Z": -48.36
+    },
+    "OuterSize": {
+      "X": 8.07,
+      "Y": 16.58,
+      "Z": 3.63
+    },
+    "InnerPosition": {
+      "X": 481.44,
+      "Y": -2566.32,
+      "Z": -48.36
+    },
+    "InnerSize": {
+      "X": 8.07,
+      "Y": 16.58,
+      "Z": 3.63
+    },
+    "AmbientEmitters": [
+      "pr_xm3_dlc_int_04_xm3_topoff_right_minifridge_01",
+      "pr_xm3_dlc_int_04_xm3_topoff_right_filter_01",
+      "pr_xm3_dlc_int_04_xm3_topoff_right_filter_02",
+      "pr_xm3_dlc_int_04_xm3_topoff_right_beepy_01",
+      "pr_xm3_dlc_int_04_xm3_topoff_right_pc_01"
+    ]
+  },
+  {
+    "Name": "iz_xm3_dlc_int_04_xm3_backstairs",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 487.63,
+      "Y": -2568.36,
+      "Z": -61.31
+    },
+    "OuterSize": {
+      "X": 4.61,
+      "Y": 10.13,
+      "Z": 7.76
+    },
+    "InnerPosition": {
+      "X": 487.63,
+      "Y": -2568.36,
+      "Z": -61.31
+    },
+    "InnerSize": {
+      "X": 4.61,
+      "Y": 10.13,
+      "Z": 7.76
+    },
+    "AmbientEmitters": [
+      "pr_xm3_dlc_int_04_xm3_backstairs_lights_01",
+      "pr_xm3_dlc_int_04_xm3_backstairs_lights_02",
+      "pr_xm3_dlc_int_04_xm3_backstairs_lights_03"
+    ]
+  },
+  {
+    "Name": "iz_xm3_dlc_int_02_xm3_gtamloroom001",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 521.63,
+      "Y": -2619.43,
+      "Z": -47.98
+    },
+    "OuterSize": {
+      "X": 20.04,
+      "Y": 41.82,
+      "Z": 4.05
+    },
+    "InnerPosition": {
+      "X": 521.63,
+      "Y": -2619.43,
+      "Z": -47.98
+    },
+    "InnerSize": {
+      "X": 20.04,
+      "Y": 41.82,
+      "Z": 4.05
+    },
+    "AmbientEmitters": [
+      "ar_null"
+    ]
+  },
+  {
+    "Name": "iz_xs_x18_int_mod_arena_mod_rm",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 210.81,
+      "Y": 5185.36,
+      "Z": -85.59
+    },
+    "OuterSize": {
+      "X": 42.75,
+      "Y": 43.63,
+      "Z": 9.43
+    },
+    "InnerPosition": {
+      "X": 210.81,
+      "Y": 5185.36,
+      "Z": -85.59
+    },
+    "InnerSize": {
+      "X": 42.75,
+      "Y": 43.63,
+      "Z": 9.43
+    },
+    "AmbientEmitters": [
+      "pr_dlc_aw_iz_xs_x18_int_mod_arena_ac_01"
+    ]
+  },
+  {
+    "Name": "az_arena_crowd_dynamics",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 2800.5,
+      "Y": -3795.43,
+      "Z": 188.27
+    },
+    "OuterSize": {
+      "X": 370.5,
+      "Y": 172.52,
+      "Z": 200.0
+    },
+    "InnerPosition": {
+      "X": 2800.75,
+      "Y": -3795.5,
+      "Z": 188.27
+    },
+    "InnerSize": {
+      "X": 198.82,
+      "Y": 36.0,
+      "Z": 220.0
+    },
+    "AmbientEmitters": []
+  },
+  {
+    "Name": "iz_xs_x18_int_01_arena_room",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 2800.0,
+      "Y": -3794.62,
+      "Z": 188.27
+    },
+    "OuterSize": {
+      "X": 445.95,
+      "Y": 272.32,
+      "Z": 98.55
+    },
+    "InnerPosition": {
+      "X": 2800.0,
+      "Y": -3794.62,
+      "Z": 188.27
+    },
+    "InnerSize": {
+      "X": 445.95,
+      "Y": 272.32,
+      "Z": 98.55
+    },
+    "AmbientEmitters": [
+      "ar_cab_whistle"
+    ]
+  },
+  {
+    "Name": "iz_xs_x18_int_mod2_mod2_room",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 179.47,
+      "Y": 5184.71,
+      "Z": 12.2
+    },
+    "OuterSize": {
+      "X": 14.42,
+      "Y": 4.43,
+      "Z": 1.55
+    },
+    "InnerPosition": {
+      "X": 179.47,
+      "Y": 5184.71,
+      "Z": 12.2
+    },
+    "InnerSize": {
+      "X": 14.42,
+      "Y": 4.43,
+      "Z": 1.55
+    },
+    "AmbientEmitters": [
+      "pr_dlc_aw_iz_xs_x18_int_mod_arena_garage_ac_02",
+      "pr_dlc_aw_iz_xs_x18_int_mod_arena_garage_ac_03",
+      "pr_dlc_aw_iz_xs_x18_int_mod_arena_garage_ac_04",
+      "pr_dlc_aw_iz_xs_x18_int_mod_arena_garage_ac_01"
+    ]
+  },
+  {
+    "Name": "iz_xs_x18_int_mod_arena_room",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 444.54,
+      "Y": 5181.77,
+      "Z": -71.83
+    },
+    "OuterSize": {
+      "X": 445.95,
+      "Y": 270.46,
+      "Z": 137.55
+    },
+    "InnerPosition": {
+      "X": 444.54,
+      "Y": 5181.77,
+      "Z": -71.83
+    },
+    "InnerSize": {
+      "X": 445.95,
+      "Y": 270.46,
+      "Z": 137.55
+    },
+    "AmbientEmitters": [
+      "ar_arena_construction_reversing",
+      "ar_arena_construction_grinder",
+      "ar_arena_construction_piledriver",
+      "ar_arena_construction_welding",
+      "ar_arena_construction_hammering"
+    ]
+  },
+  {
+    "Name": "iz_xs_x18_int_mod_arena_mod_rm2",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 178.65,
+      "Y": 5180.19,
+      "Z": -86.77
+    },
+    "OuterSize": {
+      "X": 21.62,
+      "Y": 6.96,
+      "Z": 6.01
+    },
+    "InnerPosition": {
+      "X": 178.65,
+      "Y": 5180.19,
+      "Z": -86.77
+    },
+    "InnerSize": {
+      "X": 21.62,
+      "Y": 6.96,
+      "Z": 6.01
+    },
+    "AmbientEmitters": [
+      "pr_dlc_aw_iz_xs_x18_int_mod_arena_ac_02",
+      "pr_dlc_aw_iz_xs_x18_int_mod_arena_ac_03",
+      "pr_dlc_aw_iz_xs_x18_int_mod_arena_ac_04",
+      "pr_dlc_aw_iz_xs_x18_int_mod_arena_ac_05"
+    ]
+  },
+  {
+    "Name": "iz_xs_x18_int_mod_arena_office_rm",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 200.75,
+      "Y": 5170.34,
+      "Z": -86.55
+    },
+    "OuterSize": {
+      "X": 22.59,
+      "Y": 19.7,
+      "Z": 6.09
+    },
+    "InnerPosition": {
+      "X": 200.75,
+      "Y": 5170.34,
+      "Z": -86.55
+    },
+    "InnerSize": {
+      "X": 22.59,
+      "Y": 19.7,
+      "Z": 6.09
+    },
+    "AmbientEmitters": []
+  },
+  {
+    "Name": "iz_xs_arena_vip_vip_room",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 2803.91,
+      "Y": -3941.22,
+      "Z": 184.35
+    },
+    "OuterSize": {
+      "X": 33.92,
+      "Y": 25.76,
+      "Z": 6.86
+    },
+    "InnerPosition": {
+      "X": 2803.91,
+      "Y": -3941.22,
+      "Z": 184.35
+    },
+    "InnerSize": {
+      "X": 33.92,
+      "Y": 25.76,
+      "Z": 6.86
+    },
+    "AmbientEmitters": [
+      "pr_dlc_aw_arena_vip_fridge"
+    ]
+  },
+  {
     "Name": "az_dlc_xm_int_facility_server_group_east_07",
     "Shape": "Box",
     "Flags0": 2860516388,
@@ -35792,748 +36414,6 @@
     "AmbientEmitters": [
       "az_dlc_xm_int_facility_server_hum",
       "az_dlc_xm_int_facility2_server_clicks"
-    ]
-  },
-  {
-    "Name": "iz_xm3_dlc_int_01_xm3_main_room",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 484.76,
-      "Y": -2625.01,
-      "Z": -48.72
-    },
-    "OuterSize": {
-      "X": 9.61,
-      "Y": 4.22,
-      "Z": 2.69
-    },
-    "InnerPosition": {
-      "X": 484.76,
-      "Y": -2625.01,
-      "Z": -48.72
-    },
-    "InnerSize": {
-      "X": 9.61,
-      "Y": 4.22,
-      "Z": 2.69
-    },
-    "AmbientEmitters": [
-      "pr_xm3_dlc_int_01_xm3_main_room_extractorfan_01",
-      "pr_xm3_dlc_int_01_xm3_main_room_lsdequipment_01",
-      "pr_xm3_dlc_int_01_xm3_main_room_neonlight_01"
-    ]
-  },
-  {
-    "Name": "iz_xm3_dlc_int_04_xm3_corridortop",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 490.17,
-      "Y": -2559.89,
-      "Z": -58.83
-    },
-    "OuterSize": {
-      "X": 22.97,
-      "Y": 6.83,
-      "Z": 3.12
-    },
-    "InnerPosition": {
-      "X": 490.17,
-      "Y": -2559.89,
-      "Z": -58.83
-    },
-    "InnerSize": {
-      "X": 22.97,
-      "Y": 6.83,
-      "Z": 3.12
-    },
-    "AmbientEmitters": [
-      "ar_null"
-    ]
-  },
-  {
-    "Name": "iz_xm3_dlc_int_04_xm3_topoff_mid",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 494.99,
-      "Y": -2566.27,
-      "Z": -48.34
-    },
-    "OuterSize": {
-      "X": 22.88,
-      "Y": 19.33,
-      "Z": 3.81
-    },
-    "InnerPosition": {
-      "X": 494.99,
-      "Y": -2566.27,
-      "Z": -48.34
-    },
-    "InnerSize": {
-      "X": 22.88,
-      "Y": 19.33,
-      "Z": 3.81
-    },
-    "AmbientEmitters": [
-      "pr_xm3_dlc_int_04_xm3_topoff_mid_ceilingvent_01",
-      "pr_xm3_dlc_int_04_xm3_topoff_mid_ceilingvent_02",
-      "pr_xm3_dlc_int_04_xm3_topoff_mid_ceilingvent_03",
-      "pr_xm3_dlc_int_04_xm3_topoff_mid_ceilingvent_04",
-      "pr_xm3_dlc_int_04_xm3_topoff_mid_labfridge_01",
-      "pr_xm3_dlc_int_04_xm3_topoff_mid_beepy_stuff",
-      "pr_xm3_dlc_int_04_xm3_topoff_mid_beepy_stuff_02"
-    ]
-  },
-  {
-    "Name": "iz_xm3_dlc_int_03_xm3_intwaremed_room",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 572.29,
-      "Y": -430.61,
-      "Z": -66.1
-    },
-    "OuterSize": {
-      "X": 48.56,
-      "Y": 57.56,
-      "Z": 10.5
-    },
-    "InnerPosition": {
-      "X": 572.29,
-      "Y": -430.61,
-      "Z": -66.1
-    },
-    "InnerSize": {
-      "X": 48.56,
-      "Y": 57.56,
-      "Z": 9.29
-    },
-    "AmbientEmitters": [
-      "ar_null"
-    ]
-  },
-  {
-    "Name": "iz_xm3_dlc_int_03_xm3_intwaremed_office",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 557.54,
-      "Y": -419.37,
-      "Z": -69.42
-    },
-    "OuterSize": {
-      "X": 9.08,
-      "Y": 9.98,
-      "Z": 2.64
-    },
-    "InnerPosition": {
-      "X": 557.54,
-      "Y": -419.37,
-      "Z": -69.42
-    },
-    "InnerSize": {
-      "X": 9.08,
-      "Y": 9.98,
-      "Z": 2.64
-    },
-    "AmbientEmitters": [
-      "pr_xm3_dlc_int_03_xm3_intwaremed_office_fridge_01"
-    ]
-  },
-  {
-    "Name": "iz_xm3_dlc_int_04_xm3_topoff_left",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 508.6,
-      "Y": -2566.15,
-      "Z": -48.21
-    },
-    "OuterSize": {
-      "X": 8.23,
-      "Y": 16.8,
-      "Z": 3.96
-    },
-    "InnerPosition": {
-      "X": 508.6,
-      "Y": -2566.15,
-      "Z": -48.21
-    },
-    "InnerSize": {
-      "X": 8.23,
-      "Y": 16.8,
-      "Z": 3.96
-    },
-    "AmbientEmitters": [
-      "pr_xm3_dlc_int_04_xm3_topoff_left_labfridge_01",
-      "pr_xm3_dlc_int_04_xm3_topoff_left_beepy_stuff_01",
-      "pr_xm3_dlc_int_04_xm3_topoff_left_beepy_stuff_02"
-    ]
-  },
-  {
-    "Name": "iz_xm3_dlc_int_04_xm3_corridorbottom",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 490.17,
-      "Y": -2560.41,
-      "Z": -63.69
-    },
-    "OuterSize": {
-      "X": 22.97,
-      "Y": 7.38,
-      "Z": 2.99
-    },
-    "InnerPosition": {
-      "X": 490.17,
-      "Y": -2560.41,
-      "Z": -63.69
-    },
-    "InnerSize": {
-      "X": 22.97,
-      "Y": 7.38,
-      "Z": 2.99
-    },
-    "AmbientEmitters": [
-      "ar_null"
-    ]
-  },
-  {
-    "Name": "iz_xm3_dlc_int_04_xm3_mainstairs",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 494.99,
-      "Y": -2551.29,
-      "Z": -53.61
-    },
-    "OuterSize": {
-      "X": 6.49,
-      "Y": 10.63,
-      "Z": 13.56
-    },
-    "InnerPosition": {
-      "X": 494.99,
-      "Y": -2551.29,
-      "Z": -53.61
-    },
-    "InnerSize": {
-      "X": 6.49,
-      "Y": 10.63,
-      "Z": 13.56
-    },
-    "AmbientEmitters": [
-      "ar_null"
-    ]
-  },
-  {
-    "Name": "az_dlc_xm3_lab_ext_01",
-    "Shape": "Box",
-    "Flags0": 2860516384,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 603.25,
-      "Y": -440.33,
-      "Z": 26.9
-    },
-    "OuterSize": {
-      "X": 120.0,
-      "Y": 114.16,
-      "Z": 30.0
-    },
-    "InnerPosition": {
-      "X": 600.18,
-      "Y": -438.65,
-      "Z": 25.9
-    },
-    "InnerSize": {
-      "X": 37.25,
-      "Y": 60.29,
-      "Z": 22.0
-    },
-    "AmbientEmitters": [
-      "ar_null"
-    ]
-  },
-  {
-    "Name": "iz_xm3_dlc_int_04_xm3_topoff_right",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 481.44,
-      "Y": -2566.32,
-      "Z": -48.36
-    },
-    "OuterSize": {
-      "X": 8.07,
-      "Y": 16.58,
-      "Z": 3.63
-    },
-    "InnerPosition": {
-      "X": 481.44,
-      "Y": -2566.32,
-      "Z": -48.36
-    },
-    "InnerSize": {
-      "X": 8.07,
-      "Y": 16.58,
-      "Z": 3.63
-    },
-    "AmbientEmitters": [
-      "pr_xm3_dlc_int_04_xm3_topoff_right_minifridge_01",
-      "pr_xm3_dlc_int_04_xm3_topoff_right_filter_01",
-      "pr_xm3_dlc_int_04_xm3_topoff_right_filter_02",
-      "pr_xm3_dlc_int_04_xm3_topoff_right_beepy_01",
-      "pr_xm3_dlc_int_04_xm3_topoff_right_pc_01"
-    ]
-  },
-  {
-    "Name": "iz_xm3_dlc_int_04_xm3_backstairs",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 487.63,
-      "Y": -2568.36,
-      "Z": -61.31
-    },
-    "OuterSize": {
-      "X": 4.61,
-      "Y": 10.13,
-      "Z": 7.76
-    },
-    "InnerPosition": {
-      "X": 487.63,
-      "Y": -2568.36,
-      "Z": -61.31
-    },
-    "InnerSize": {
-      "X": 4.61,
-      "Y": 10.13,
-      "Z": 7.76
-    },
-    "AmbientEmitters": [
-      "pr_xm3_dlc_int_04_xm3_backstairs_lights_01",
-      "pr_xm3_dlc_int_04_xm3_backstairs_lights_02",
-      "pr_xm3_dlc_int_04_xm3_backstairs_lights_03"
-    ]
-  },
-  {
-    "Name": "iz_xm3_dlc_int_02_xm3_gtamloroom001",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 521.63,
-      "Y": -2619.43,
-      "Z": -47.98
-    },
-    "OuterSize": {
-      "X": 20.04,
-      "Y": 41.82,
-      "Z": 4.05
-    },
-    "InnerPosition": {
-      "X": 521.63,
-      "Y": -2619.43,
-      "Z": -47.98
-    },
-    "InnerSize": {
-      "X": 20.04,
-      "Y": 41.82,
-      "Z": 4.05
-    },
-    "AmbientEmitters": [
-      "ar_null"
-    ]
-  },
-  {
-    "Name": "iz_xs_x18_int_mod_arena_mod_rm",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 210.81,
-      "Y": 5185.36,
-      "Z": -85.59
-    },
-    "OuterSize": {
-      "X": 42.75,
-      "Y": 43.63,
-      "Z": 9.43
-    },
-    "InnerPosition": {
-      "X": 210.81,
-      "Y": 5185.36,
-      "Z": -85.59
-    },
-    "InnerSize": {
-      "X": 42.75,
-      "Y": 43.63,
-      "Z": 9.43
-    },
-    "AmbientEmitters": [
-      "pr_dlc_aw_iz_xs_x18_int_mod_arena_ac_01"
-    ]
-  },
-  {
-    "Name": "az_arena_crowd_dynamics",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 2800.5,
-      "Y": -3795.43,
-      "Z": 188.27
-    },
-    "OuterSize": {
-      "X": 370.5,
-      "Y": 172.52,
-      "Z": 200.0
-    },
-    "InnerPosition": {
-      "X": 2800.75,
-      "Y": -3795.5,
-      "Z": 188.27
-    },
-    "InnerSize": {
-      "X": 198.82,
-      "Y": 36.0,
-      "Z": 220.0
-    },
-    "AmbientEmitters": []
-  },
-  {
-    "Name": "iz_xs_x18_int_01_arena_room",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 2800.0,
-      "Y": -3794.62,
-      "Z": 188.27
-    },
-    "OuterSize": {
-      "X": 445.95,
-      "Y": 272.32,
-      "Z": 98.55
-    },
-    "InnerPosition": {
-      "X": 2800.0,
-      "Y": -3794.62,
-      "Z": 188.27
-    },
-    "InnerSize": {
-      "X": 445.95,
-      "Y": 272.32,
-      "Z": 98.55
-    },
-    "AmbientEmitters": [
-      "ar_cab_whistle"
-    ]
-  },
-  {
-    "Name": "iz_xs_x18_int_mod2_mod2_room",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 179.47,
-      "Y": 5184.71,
-      "Z": 12.2
-    },
-    "OuterSize": {
-      "X": 14.42,
-      "Y": 4.43,
-      "Z": 1.55
-    },
-    "InnerPosition": {
-      "X": 179.47,
-      "Y": 5184.71,
-      "Z": 12.2
-    },
-    "InnerSize": {
-      "X": 14.42,
-      "Y": 4.43,
-      "Z": 1.55
-    },
-    "AmbientEmitters": [
-      "pr_dlc_aw_iz_xs_x18_int_mod_arena_garage_ac_02",
-      "pr_dlc_aw_iz_xs_x18_int_mod_arena_garage_ac_03",
-      "pr_dlc_aw_iz_xs_x18_int_mod_arena_garage_ac_04",
-      "pr_dlc_aw_iz_xs_x18_int_mod_arena_garage_ac_01"
-    ]
-  },
-  {
-    "Name": "iz_xs_x18_int_mod_arena_room",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 444.54,
-      "Y": 5181.77,
-      "Z": -71.83
-    },
-    "OuterSize": {
-      "X": 445.95,
-      "Y": 270.46,
-      "Z": 137.55
-    },
-    "InnerPosition": {
-      "X": 444.54,
-      "Y": 5181.77,
-      "Z": -71.83
-    },
-    "InnerSize": {
-      "X": 445.95,
-      "Y": 270.46,
-      "Z": 137.55
-    },
-    "AmbientEmitters": [
-      "ar_arena_construction_reversing",
-      "ar_arena_construction_grinder",
-      "ar_arena_construction_piledriver",
-      "ar_arena_construction_welding",
-      "ar_arena_construction_hammering"
-    ]
-  },
-  {
-    "Name": "iz_xs_x18_int_mod_arena_mod_rm2",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 178.65,
-      "Y": 5180.19,
-      "Z": -86.77
-    },
-    "OuterSize": {
-      "X": 21.62,
-      "Y": 6.96,
-      "Z": 6.01
-    },
-    "InnerPosition": {
-      "X": 178.65,
-      "Y": 5180.19,
-      "Z": -86.77
-    },
-    "InnerSize": {
-      "X": 21.62,
-      "Y": 6.96,
-      "Z": 6.01
-    },
-    "AmbientEmitters": [
-      "pr_dlc_aw_iz_xs_x18_int_mod_arena_ac_02",
-      "pr_dlc_aw_iz_xs_x18_int_mod_arena_ac_03",
-      "pr_dlc_aw_iz_xs_x18_int_mod_arena_ac_04",
-      "pr_dlc_aw_iz_xs_x18_int_mod_arena_ac_05"
-    ]
-  },
-  {
-    "Name": "iz_xs_x18_int_mod_arena_office_rm",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 200.75,
-      "Y": 5170.34,
-      "Z": -86.55
-    },
-    "OuterSize": {
-      "X": 22.59,
-      "Y": 19.7,
-      "Z": 6.09
-    },
-    "InnerPosition": {
-      "X": 200.75,
-      "Y": 5170.34,
-      "Z": -86.55
-    },
-    "InnerSize": {
-      "X": 22.59,
-      "Y": 19.7,
-      "Z": 6.09
-    },
-    "AmbientEmitters": []
-  },
-  {
-    "Name": "iz_xs_arena_vip_vip_room",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 2803.91,
-      "Y": -3941.22,
-      "Z": 184.35
-    },
-    "OuterSize": {
-      "X": 33.92,
-      "Y": 25.76,
-      "Z": 6.86
-    },
-    "InnerPosition": {
-      "X": 2803.91,
-      "Y": -3941.22,
-      "Z": 184.35
-    },
-    "InnerSize": {
-      "X": 33.92,
-      "Y": 25.76,
-      "Z": 6.86
-    },
-    "AmbientEmitters": [
-      "pr_dlc_aw_arena_vip_fridge"
-    ]
-  },
-  {
-    "Name": "az_dlc_heists_prison",
-    "Shape": "Sphere",
-    "Flags0": 2860516388,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 1675.0,
-      "Y": 2600.0,
-      "Z": 150.0
-    },
-    "OuterSize": {
-      "X": 250.0,
-      "Y": 650.0,
-      "Z": 280.0
-    },
-    "InnerPosition": {
-      "X": 1698.5,
-      "Y": 2585.6,
-      "Z": 35.0
-    },
-    "InnerSize": {
-      "X": 147.42,
-      "Y": 224.68,
-      "Z": 40.0
-    },
-    "AmbientEmitters": [
-      "ar_null"
-    ]
-  },
-  {
-    "Name": "az_dlc_heists_bahama_mamas",
-    "Shape": "Box",
-    "Flags0": 2860516388,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": -1395.2,
-      "Y": -595.5,
-      "Z": 40.36
-    },
-    "OuterSize": {
-      "X": 137.21,
-      "Y": 121.0,
-      "Z": 38.0
-    },
-    "InnerPosition": {
-      "X": -1389.6,
-      "Y": -594.69,
-      "Z": 30.36
-    },
-    "InnerSize": {
-      "X": 18.87,
-      "Y": 8.0,
-      "Z": 10.0
-    },
-    "AmbientEmitters": [
-      "ar_dlc_heists_bahama_mamas_music"
-    ]
-  },
-  {
-    "Name": "az_dlc_heists_biolab",
-    "Shape": "Box",
-    "Flags0": 2860516388,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 3560.13,
-      "Y": 3680.72,
-      "Z": 14.55
-    },
-    "OuterSize": {
-      "X": 108.13,
-      "Y": 140.91,
-      "Z": 38.11
-    },
-    "InnerPosition": {
-      "X": 3569.12,
-      "Y": 3678.67,
-      "Z": 26.17
-    },
-    "InnerSize": {
-      "X": 113.47,
-      "Y": 106.32,
-      "Z": 12.0
-    },
-    "AmbientEmitters": [
-      "ar_null"
-    ]
-  },
-  {
-    "Name": "az_dlc_heists_ornate_bank",
-    "Shape": "Box",
-    "Flags0": 2860516388,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 253.47,
-      "Y": 217.28,
-      "Z": 108.44
-    },
-    "OuterSize": {
-      "X": 73.67,
-      "Y": 56.84,
-      "Z": 26.0
-    },
-    "InnerPosition": {
-      "X": 250.75,
-      "Y": 218.11,
-      "Z": 108.44
-    },
-    "InnerSize": {
-      "X": 38.24,
-      "Y": 25.43,
-      "Z": 16.0
-    },
-    "AmbientEmitters": [
-      "ar_null"
     ]
   },
   {
@@ -40198,693 +40078,6 @@
     ]
   },
   {
-    "Name": "az_h3_casino_alarm_zone_01_exterior",
-    "Shape": "Sphere",
-    "Flags0": 2860516384,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 955.0,
-      "Y": 35.0,
-      "Z": 85.0
-    },
-    "OuterSize": {
-      "X": 1000.0,
-      "Y": 1000.0,
-      "Z": 1000.0
-    },
-    "InnerPosition": {
-      "X": 955.0,
-      "Y": 35.0,
-      "Z": 85.0
-    },
-    "InnerSize": {
-      "X": 250.0,
-      "Y": 250.0,
-      "Z": 250.0
-    },
-    "AmbientEmitters": [
-      "pr_h3_casino_alarm_zone_01_exterior_main_alarm"
-    ]
-  },
-  {
-    "Name": "iz_ch_dlc_casino_back_waste_1_rm",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 2544.07,
-      "Y": -252.29,
-      "Z": -59.09
-    },
-    "OuterSize": {
-      "X": 10.56,
-      "Y": 13.89,
-      "Z": 6.49
-    },
-    "InnerPosition": {
-      "X": 2544.07,
-      "Y": -257.29,
-      "Z": -59.09
-    },
-    "InnerSize": {
-      "X": 10.56,
-      "Y": 13.89,
-      "Z": 6.49
-    },
-    "AmbientEmitters": [
-      "ar_fly_24hr",
-      "pr_ch_dlc_casino_back_waste_1_rm_buzzing"
-    ]
-  },
-  {
-    "Name": "iz_ch_dlc_casino_loading_office_rm",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 2552.54,
-      "Y": -289.44,
-      "Z": -64.45
-    },
-    "OuterSize": {
-      "X": 10.53,
-      "Y": 8.39,
-      "Z": 2.85
-    },
-    "InnerPosition": {
-      "X": 2552.54,
-      "Y": -289.44,
-      "Z": -64.45
-    },
-    "InnerSize": {
-      "X": 10.53,
-      "Y": 8.39,
-      "Z": 2.85
-    },
-    "AmbientEmitters": [
-      "pr_ch_dlc_casino_loading_office_rm_computer_01",
-      "pr_ch_dlc_casino_loading_office_rm_computer_02",
-      "pr_ch_dlc_casino_loading_office_rm_computer_03"
-    ]
-  },
-  {
-    "Name": "az_dlc_ch_plan_drone_station",
-    "Shape": "Box",
-    "Flags0": 2860516384,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 2695.36,
-      "Y": -369.47,
-      "Z": -54.87
-    },
-    "OuterSize": {
-      "X": 16.07,
-      "Y": 15.64,
-      "Z": 7.0
-    },
-    "InnerPosition": {
-      "X": 2695.52,
-      "Y": -369.46,
-      "Z": -54.87
-    },
-    "InnerSize": {
-      "X": 1.37,
-      "Y": 1.07,
-      "Z": 2.0
-    },
-    "AmbientEmitters": [
-      "ar_dlc_ch_plan_drone_station_hum"
-    ]
-  },
-  {
-    "Name": "az_ch_dlc_arcade_office_area",
-    "Shape": "Box",
-    "Flags0": 2860516388,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 2725.02,
-      "Y": -370.15,
-      "Z": -45.73
-    },
-    "OuterSize": {
-      "X": 9.11,
-      "Y": 17.49,
-      "Z": 12.0
-    },
-    "InnerPosition": {
-      "X": 2724.99,
-      "Y": -371.83,
-      "Z": -43.02
-    },
-    "InnerSize": {
-      "X": 9.05,
-      "Y": 14.05,
-      "Z": 14.0
-    },
-    "AmbientEmitters": []
-  },
-  {
-    "Name": "iz_ch_dlc_casino_heist_rm_gamingfloor_02",
-    "Shape": "Box",
-    "Flags0": 2860516385,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 2518.42,
-      "Y": -236.78,
-      "Z": -58.3
-    },
-    "OuterSize": {
-      "X": 33.68,
-      "Y": 33.71,
-      "Z": 7.9
-    },
-    "InnerPosition": {
-      "X": 2518.42,
-      "Y": -236.78,
-      "Z": -58.3
-    },
-    "InnerSize": {
-      "X": 33.68,
-      "Y": 33.71,
-      "Z": 7.9
-    },
-    "AmbientEmitters": [
-      "pr_dlc_h3_slot_machine_effects_gf_03_01",
-      "pr_dlc_h3_slot_machine_effects_gf_03_02",
-      "pr_dlc_h3_slot_machine_effects_gf_03_03"
-    ]
-  },
-  {
-    "Name": "iz_ch_dlc_casino_vault_main_rm",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 2479.41,
-      "Y": -266.92,
-      "Z": -70.19
-    },
-    "OuterSize": {
-      "X": 30.66,
-      "Y": 37.58,
-      "Z": 4.89
-    },
-    "InnerPosition": {
-      "X": 2479.41,
-      "Y": -266.92,
-      "Z": -70.19
-    },
-    "InnerSize": {
-      "X": 30.66,
-      "Y": 37.58,
-      "Z": 4.89
-    },
-    "AmbientEmitters": [
-      "pr_ch_dlc_casino_vault_main_rm_ac_unit",
-      "pr_ch_dlc_casino_vault_main_rm_ac_unit_02",
-      "pr_ch_dlc_casino_vault_main_rm_ac_unit_03",
-      "pr_ch_dlc_casino_vault_security_room_computer_01",
-      "pr_ch_dlc_casino_vault_security_room_tone"
-    ]
-  },
-  {
-    "Name": "iz_ch_dlc_casino_utility_main_rm",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 2520.28,
-      "Y": -254.24,
-      "Z": -26.87
-    },
-    "OuterSize": {
-      "X": 15.07,
-      "Y": 21.88,
-      "Z": 8.65
-    },
-    "InnerPosition": {
-      "X": 2520.28,
-      "Y": -254.24,
-      "Z": -26.87
-    },
-    "InnerSize": {
-      "X": 15.07,
-      "Y": 21.88,
-      "Z": 8.65
-    },
-    "AmbientEmitters": [
-      "pr_dlc_ch_casino_utility_rm_electrical_boxes",
-      "pr_dlc_ch_casino_utility_rm_lift_a",
-      "pr_dlc_ch_casino_utility_rm_lift_b",
-      "ar_dlc_ch_casino_utility_room_bass",
-      "pr_dlc_ch_casino_utility_rm_machinery_a",
-      "pr_dlc_ch_casino_utility_rm_machinery_b"
-    ]
-  },
-  {
-    "Name": "az_dlc_ch_plan_hacker_area",
-    "Shape": "Box",
-    "Flags0": 2860516384,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 2712.47,
-      "Y": -356.46,
-      "Z": -54.69
-    },
-    "OuterSize": {
-      "X": 8.71,
-      "Y": 9.32,
-      "Z": 5.0
-    },
-    "InnerPosition": {
-      "X": 2712.44,
-      "Y": -352.44,
-      "Z": -54.69
-    },
-    "InnerSize": {
-      "X": 3.84,
-      "Y": 0.68,
-      "Z": 2.0
-    },
-    "AmbientEmitters": [
-      "ar_dlc_ch_plan_hacker_terminal_hum",
-      "pr_dlc_ch_plan_hacker_terminal_01"
-    ]
-  },
-  {
-    "Name": "iz_ch_dlc_casino_back_laundry_rm",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 2536.83,
-      "Y": -298.3,
-      "Z": -58.31
-    },
-    "OuterSize": {
-      "X": 16.36,
-      "Y": 9.82,
-      "Z": 4.48
-    },
-    "InnerPosition": {
-      "X": 2536.83,
-      "Y": -298.3,
-      "Z": -58.31
-    },
-    "InnerSize": {
-      "X": 16.36,
-      "Y": 9.82,
-      "Z": 4.48
-    },
-    "AmbientEmitters": [
-      "pr_ch_dlc_casino_back_laundry_rm_rumble"
-    ]
-  },
-  {
-    "Name": "iz_ch_dlc_casino_utility_stairs_rm",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 2527.61,
-      "Y": -253.11,
-      "Z": -31.33
-    },
-    "OuterSize": {
-      "X": 6.43,
-      "Y": 18.16,
-      "Z": 17.87
-    },
-    "InnerPosition": {
-      "X": 2527.61,
-      "Y": -253.11,
-      "Z": -31.33
-    },
-    "InnerSize": {
-      "X": 6.43,
-      "Y": 18.16,
-      "Z": 17.87
-    },
-    "AmbientEmitters": [
-      "ar_dlc_ch_casino_electrical_room_extra_ac",
-      "ar_dlc_ch_casino_electrical_room_hum"
-    ]
-  },
-  {
-    "Name": "iz_ch_dlc_tunnel_main_rm",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 2507.29,
-      "Y": -310.69,
-      "Z": -70.0
-    },
-    "OuterSize": {
-      "X": 57.81,
-      "Y": 37.42,
-      "Z": 3.42
-    },
-    "InnerPosition": {
-      "X": 2507.29,
-      "Y": -310.69,
-      "Z": -70.0
-    },
-    "InnerSize": {
-      "X": 57.81,
-      "Y": 37.42,
-      "Z": 3.42
-    },
-    "AmbientEmitters": [
-      "pr_ch_dlc_tunnel_main_rm_dripping",
-      "pr_ch_dlc_tunnel_main_rm_dripping_02",
-      "ar_cave_rocks",
-      "ar_mine_creaks",
-      "pr_ch_dlc_tunnel_main_rm_entrance_wind"
-    ]
-  },
-  {
-    "Name": "iz_ch_dlc_casino_back_waste_3_rm",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 2543.09,
-      "Y": -214.69,
-      "Z": -59.22
-    },
-    "OuterSize": {
-      "X": 6.82,
-      "Y": 7.13,
-      "Z": 6.22
-    },
-    "InnerPosition": {
-      "X": 2543.09,
-      "Y": -214.69,
-      "Z": -59.22
-    },
-    "InnerSize": {
-      "X": 6.82,
-      "Y": 7.13,
-      "Z": 6.22
-    },
-    "AmbientEmitters": [
-      "ar_fly_24hr",
-      "pr_ch_dlc_casino_back_waste_3_rm_buzzing"
-    ]
-  },
-  {
-    "Name": "az_ch_dlc_arcade_entrance_area",
-    "Shape": "Box",
-    "Flags0": 2860516388,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 2738.12,
-      "Y": -374.85,
-      "Z": -46.81
-    },
-    "OuterSize": {
-      "X": 2.42,
-      "Y": 6.49,
-      "Z": 12.0
-    },
-    "InnerPosition": {
-      "X": 2737.8,
-      "Y": -374.79,
-      "Z": -47.81
-    },
-    "InnerSize": {
-      "X": 2.35,
-      "Y": 3.05,
-      "Z": 5.0
-    },
-    "AmbientEmitters": []
-  },
-  {
-    "Name": "az_h3_casino_alarm_zone_02_interior",
-    "Shape": "Sphere",
-    "Flags0": 2860516384,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 2500.0,
-      "Y": -256.0,
-      "Z": -60.0
-    },
-    "OuterSize": {
-      "X": 150.0,
-      "Y": 150.0,
-      "Z": 150.0
-    },
-    "InnerPosition": {
-      "X": 2500.0,
-      "Y": -256.0,
-      "Z": -60.0
-    },
-    "InnerSize": {
-      "X": 150.0,
-      "Y": 150.0,
-      "Z": 150.0
-    },
-    "AmbientEmitters": [
-      "pr_h3_casino_alarm_zone_02_interior_main_alarm"
-    ]
-  },
-  {
-    "Name": "iz_ch_dlc_casino_vault_storage_rm",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 2516.88,
-      "Y": -278.97,
-      "Z": -70.08
-    },
-    "OuterSize": {
-      "X": 44.86,
-      "Y": 14.05,
-      "Z": 4.66
-    },
-    "InnerPosition": {
-      "X": 2516.88,
-      "Y": -278.97,
-      "Z": -70.08
-    },
-    "InnerSize": {
-      "X": 44.86,
-      "Y": 14.05,
-      "Z": 4.66
-    },
-    "AmbientEmitters": [
-      "pr_ch_dlc_casino_vault_storage_rm_ac_unit_01",
-      "pr_ch_dlc_casino_vault_storage_rm_ac_unit_02",
-      "pr_ch_dlc_casino_vault_storage_rm_ac_unit_03",
-      "pr_ch_dlc_casino_vault_storage_rm_ac_unit_04"
-    ]
-  },
-  {
-    "Name": "iz_ch_dlc_casino_back_corridor_3_rm",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 2547.85,
-      "Y": -229.71,
-      "Z": -59.44
-    },
-    "OuterSize": {
-      "X": 7.75,
-      "Y": 34.16,
-      "Z": 5.79
-    },
-    "InnerPosition": {
-      "X": 2547.85,
-      "Y": -229.71,
-      "Z": -59.44
-    },
-    "InnerSize": {
-      "X": 7.75,
-      "Y": 34.16,
-      "Z": 5.79
-    },
-    "AmbientEmitters": [
-      "ar_fly_24hr"
-    ]
-  },
-  {
-    "Name": "az_ch_dlc_arcade_stairs_and_basement",
-    "Shape": "Box",
-    "Flags0": 2860516388,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 2725.45,
-      "Y": -357.83,
-      "Z": -52.45
-    },
-    "OuterSize": {
-      "X": 6.49,
-      "Y": 24.57,
-      "Z": 15.67
-    },
-    "InnerPosition": {
-      "X": 2727.58,
-      "Y": -361.34,
-      "Z": -51.9
-    },
-    "InnerSize": {
-      "X": 3.53,
-      "Y": 7.86,
-      "Z": 9.41
-    },
-    "AmbientEmitters": []
-  },
-  {
-    "Name": "az_dlc_ch_plan_master_control",
-    "Shape": "Box",
-    "Flags0": 2860516384,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 2717.03,
-      "Y": -361.72,
-      "Z": -53.3
-    },
-    "OuterSize": {
-      "X": 18.34,
-      "Y": 8.65,
-      "Z": 5.0
-    },
-    "InnerPosition": {
-      "X": 2719.67,
-      "Y": -364.02,
-      "Z": -53.3
-    },
-    "InnerSize": {
-      "X": 4.56,
-      "Y": 0.79,
-      "Z": 2.0
-    },
-    "AmbientEmitters": [
-      "ar_dlc_ch_plan_master_control_hum",
-      "pr_dlc_ch_plan_master_control_terminal_01",
-      "pr_dlc_ch_plan_master_control_terminal_02",
-      "pr_dlc_ch_plan_master_control_terminal_03"
-    ]
-  },
-  {
-    "Name": "iz_ch_dlc_plan_main_rm",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 2702.48,
-      "Y": -375.77,
-      "Z": -53.35
-    },
-    "OuterSize": {
-      "X": 51.12,
-      "Y": 48.53,
-      "Z": 8.85
-    },
-    "InnerPosition": {
-      "X": 2702.48,
-      "Y": -375.77,
-      "Z": -53.35
-    },
-    "InnerSize": {
-      "X": 51.12,
-      "Y": 48.53,
-      "Z": 8.85
-    },
-    "AmbientEmitters": []
-  },
-  {
-    "Name": "iz_ch_dlc_casino_back_security_rm",
-    "Shape": "Box",
-    "Flags0": 2860516389,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 2534.51,
-      "Y": -278.13,
-      "Z": -58.48
-    },
-    "OuterSize": {
-      "X": 21.54,
-      "Y": 13.63,
-      "Z": 4.15
-    },
-    "InnerPosition": {
-      "X": 2534.51,
-      "Y": -278.13,
-      "Z": -58.48
-    },
-    "InnerSize": {
-      "X": 21.54,
-      "Y": 13.63,
-      "Z": 4.15
-    },
-    "AmbientEmitters": [
-      "pr_ch_dlc_casino_back_security_rm_computers_01",
-      "pr_ch_dlc_casino_back_security_rm_computers_02",
-      "pr_ch_dlc_casino_back_security_rm_computers_scrambler",
-      "pr_ch_dlc_casino_back_security_rm_computers_03",
-      "pr_ch_dlc_casino_back_security_rm_computers_04",
-      "pr_ch_dlc_casino_back_security_rm_computers_alarms",
-      "pr_ch_dlc_casino_back_security_rm_computers_alarms"
-    ]
-  },
-  {
-    "Name": "iz_ch_dlc_casino_heist_rm_gamingfloor_01",
-    "Shape": "Box",
-    "Flags0": 2860516385,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 2480.84,
-      "Y": -278.91,
-      "Z": -56.87
-    },
-    "OuterSize": {
-      "X": 40.32,
-      "Y": 49.47,
-      "Z": 6.76
-    },
-    "InnerPosition": {
-      "X": 2480.84,
-      "Y": -278.91,
-      "Z": -56.87
-    },
-    "InnerSize": {
-      "X": 40.32,
-      "Y": 49.47,
-      "Z": 6.76
-    },
-    "AmbientEmitters": [
-      "pr_dlc_h3_slot_machine_effects_gf_01_01",
-      "pr_dlc_h3_slot_machine_effects_gf_01_02",
-      "pr_dlc_h3_slot_machine_effects_gf_01_03"
-    ]
-  },
-  {
     "Name": "az_dlc_heist_police_station_boost",
     "Shape": "Box",
     "Flags0": 2860516384,
@@ -41672,6 +40865,813 @@
       "ar_dlc_hei_acc_control_room_01_console_07",
       "ar_dlc_hei_acc_control_room_01_console_08",
       "ar_dlc_hei_acc_control_room_01_console_09"
+    ]
+  },
+  {
+    "Name": "az_dlc_heists_prison",
+    "Shape": "Sphere",
+    "Flags0": 2860516388,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 1675.0,
+      "Y": 2600.0,
+      "Z": 150.0
+    },
+    "OuterSize": {
+      "X": 250.0,
+      "Y": 650.0,
+      "Z": 280.0
+    },
+    "InnerPosition": {
+      "X": 1698.5,
+      "Y": 2585.6,
+      "Z": 35.0
+    },
+    "InnerSize": {
+      "X": 147.42,
+      "Y": 224.68,
+      "Z": 40.0
+    },
+    "AmbientEmitters": [
+      "ar_null"
+    ]
+  },
+  {
+    "Name": "az_dlc_heists_bahama_mamas",
+    "Shape": "Box",
+    "Flags0": 2860516388,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": -1395.2,
+      "Y": -595.5,
+      "Z": 40.36
+    },
+    "OuterSize": {
+      "X": 137.21,
+      "Y": 121.0,
+      "Z": 38.0
+    },
+    "InnerPosition": {
+      "X": -1389.6,
+      "Y": -594.69,
+      "Z": 30.36
+    },
+    "InnerSize": {
+      "X": 18.87,
+      "Y": 8.0,
+      "Z": 10.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_heists_bahama_mamas_music"
+    ]
+  },
+  {
+    "Name": "az_dlc_heists_biolab",
+    "Shape": "Box",
+    "Flags0": 2860516388,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 3560.13,
+      "Y": 3680.72,
+      "Z": 14.55
+    },
+    "OuterSize": {
+      "X": 108.13,
+      "Y": 140.91,
+      "Z": 38.11
+    },
+    "InnerPosition": {
+      "X": 3569.12,
+      "Y": 3678.67,
+      "Z": 26.17
+    },
+    "InnerSize": {
+      "X": 113.47,
+      "Y": 106.32,
+      "Z": 12.0
+    },
+    "AmbientEmitters": [
+      "ar_null"
+    ]
+  },
+  {
+    "Name": "az_dlc_heists_ornate_bank",
+    "Shape": "Box",
+    "Flags0": 2860516388,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 253.47,
+      "Y": 217.28,
+      "Z": 108.44
+    },
+    "OuterSize": {
+      "X": 73.67,
+      "Y": 56.84,
+      "Z": 26.0
+    },
+    "InnerPosition": {
+      "X": 250.75,
+      "Y": 218.11,
+      "Z": 108.44
+    },
+    "InnerSize": {
+      "X": 38.24,
+      "Y": 25.43,
+      "Z": 16.0
+    },
+    "AmbientEmitters": [
+      "ar_null"
+    ]
+  },
+  {
+    "Name": "az_h3_casino_alarm_zone_01_exterior",
+    "Shape": "Sphere",
+    "Flags0": 2860516384,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 955.0,
+      "Y": 35.0,
+      "Z": 85.0
+    },
+    "OuterSize": {
+      "X": 1000.0,
+      "Y": 1000.0,
+      "Z": 1000.0
+    },
+    "InnerPosition": {
+      "X": 955.0,
+      "Y": 35.0,
+      "Z": 85.0
+    },
+    "InnerSize": {
+      "X": 250.0,
+      "Y": 250.0,
+      "Z": 250.0
+    },
+    "AmbientEmitters": [
+      "pr_h3_casino_alarm_zone_01_exterior_main_alarm"
+    ]
+  },
+  {
+    "Name": "iz_ch_dlc_casino_back_waste_1_rm",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 2544.07,
+      "Y": -252.29,
+      "Z": -59.09
+    },
+    "OuterSize": {
+      "X": 10.56,
+      "Y": 13.89,
+      "Z": 6.49
+    },
+    "InnerPosition": {
+      "X": 2544.07,
+      "Y": -257.29,
+      "Z": -59.09
+    },
+    "InnerSize": {
+      "X": 10.56,
+      "Y": 13.89,
+      "Z": 6.49
+    },
+    "AmbientEmitters": [
+      "ar_fly_24hr",
+      "pr_ch_dlc_casino_back_waste_1_rm_buzzing"
+    ]
+  },
+  {
+    "Name": "iz_ch_dlc_casino_loading_office_rm",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 2552.54,
+      "Y": -289.44,
+      "Z": -64.45
+    },
+    "OuterSize": {
+      "X": 10.53,
+      "Y": 8.39,
+      "Z": 2.85
+    },
+    "InnerPosition": {
+      "X": 2552.54,
+      "Y": -289.44,
+      "Z": -64.45
+    },
+    "InnerSize": {
+      "X": 10.53,
+      "Y": 8.39,
+      "Z": 2.85
+    },
+    "AmbientEmitters": [
+      "pr_ch_dlc_casino_loading_office_rm_computer_01",
+      "pr_ch_dlc_casino_loading_office_rm_computer_02",
+      "pr_ch_dlc_casino_loading_office_rm_computer_03"
+    ]
+  },
+  {
+    "Name": "az_dlc_ch_plan_drone_station",
+    "Shape": "Box",
+    "Flags0": 2860516384,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 2695.36,
+      "Y": -369.47,
+      "Z": -54.87
+    },
+    "OuterSize": {
+      "X": 16.07,
+      "Y": 15.64,
+      "Z": 7.0
+    },
+    "InnerPosition": {
+      "X": 2695.52,
+      "Y": -369.46,
+      "Z": -54.87
+    },
+    "InnerSize": {
+      "X": 1.37,
+      "Y": 1.07,
+      "Z": 2.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_ch_plan_drone_station_hum"
+    ]
+  },
+  {
+    "Name": "az_ch_dlc_arcade_office_area",
+    "Shape": "Box",
+    "Flags0": 2860516388,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 2725.02,
+      "Y": -370.15,
+      "Z": -45.73
+    },
+    "OuterSize": {
+      "X": 9.11,
+      "Y": 17.49,
+      "Z": 12.0
+    },
+    "InnerPosition": {
+      "X": 2724.99,
+      "Y": -371.83,
+      "Z": -43.02
+    },
+    "InnerSize": {
+      "X": 9.05,
+      "Y": 14.05,
+      "Z": 14.0
+    },
+    "AmbientEmitters": []
+  },
+  {
+    "Name": "iz_ch_dlc_casino_heist_rm_gamingfloor_02",
+    "Shape": "Box",
+    "Flags0": 2860516385,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 2518.42,
+      "Y": -236.78,
+      "Z": -58.3
+    },
+    "OuterSize": {
+      "X": 33.68,
+      "Y": 33.71,
+      "Z": 7.9
+    },
+    "InnerPosition": {
+      "X": 2518.42,
+      "Y": -236.78,
+      "Z": -58.3
+    },
+    "InnerSize": {
+      "X": 33.68,
+      "Y": 33.71,
+      "Z": 7.9
+    },
+    "AmbientEmitters": [
+      "pr_dlc_h3_slot_machine_effects_gf_03_01",
+      "pr_dlc_h3_slot_machine_effects_gf_03_02",
+      "pr_dlc_h3_slot_machine_effects_gf_03_03"
+    ]
+  },
+  {
+    "Name": "iz_ch_dlc_casino_vault_main_rm",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 2479.41,
+      "Y": -266.92,
+      "Z": -70.19
+    },
+    "OuterSize": {
+      "X": 30.66,
+      "Y": 37.58,
+      "Z": 4.89
+    },
+    "InnerPosition": {
+      "X": 2479.41,
+      "Y": -266.92,
+      "Z": -70.19
+    },
+    "InnerSize": {
+      "X": 30.66,
+      "Y": 37.58,
+      "Z": 4.89
+    },
+    "AmbientEmitters": [
+      "pr_ch_dlc_casino_vault_main_rm_ac_unit",
+      "pr_ch_dlc_casino_vault_main_rm_ac_unit_02",
+      "pr_ch_dlc_casino_vault_main_rm_ac_unit_03",
+      "pr_ch_dlc_casino_vault_security_room_computer_01",
+      "pr_ch_dlc_casino_vault_security_room_tone"
+    ]
+  },
+  {
+    "Name": "iz_ch_dlc_casino_utility_main_rm",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 2520.28,
+      "Y": -254.24,
+      "Z": -26.87
+    },
+    "OuterSize": {
+      "X": 15.07,
+      "Y": 21.88,
+      "Z": 8.65
+    },
+    "InnerPosition": {
+      "X": 2520.28,
+      "Y": -254.24,
+      "Z": -26.87
+    },
+    "InnerSize": {
+      "X": 15.07,
+      "Y": 21.88,
+      "Z": 8.65
+    },
+    "AmbientEmitters": [
+      "pr_dlc_ch_casino_utility_rm_electrical_boxes",
+      "pr_dlc_ch_casino_utility_rm_lift_a",
+      "pr_dlc_ch_casino_utility_rm_lift_b",
+      "ar_dlc_ch_casino_utility_room_bass",
+      "pr_dlc_ch_casino_utility_rm_machinery_a",
+      "pr_dlc_ch_casino_utility_rm_machinery_b"
+    ]
+  },
+  {
+    "Name": "az_dlc_ch_plan_hacker_area",
+    "Shape": "Box",
+    "Flags0": 2860516384,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 2712.47,
+      "Y": -356.46,
+      "Z": -54.69
+    },
+    "OuterSize": {
+      "X": 8.71,
+      "Y": 9.32,
+      "Z": 5.0
+    },
+    "InnerPosition": {
+      "X": 2712.44,
+      "Y": -352.44,
+      "Z": -54.69
+    },
+    "InnerSize": {
+      "X": 3.84,
+      "Y": 0.68,
+      "Z": 2.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_ch_plan_hacker_terminal_hum",
+      "pr_dlc_ch_plan_hacker_terminal_01"
+    ]
+  },
+  {
+    "Name": "iz_ch_dlc_casino_back_laundry_rm",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 2536.83,
+      "Y": -298.3,
+      "Z": -58.31
+    },
+    "OuterSize": {
+      "X": 16.36,
+      "Y": 9.82,
+      "Z": 4.48
+    },
+    "InnerPosition": {
+      "X": 2536.83,
+      "Y": -298.3,
+      "Z": -58.31
+    },
+    "InnerSize": {
+      "X": 16.36,
+      "Y": 9.82,
+      "Z": 4.48
+    },
+    "AmbientEmitters": [
+      "pr_ch_dlc_casino_back_laundry_rm_rumble"
+    ]
+  },
+  {
+    "Name": "iz_ch_dlc_casino_utility_stairs_rm",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 2527.61,
+      "Y": -253.11,
+      "Z": -31.33
+    },
+    "OuterSize": {
+      "X": 6.43,
+      "Y": 18.16,
+      "Z": 17.87
+    },
+    "InnerPosition": {
+      "X": 2527.61,
+      "Y": -253.11,
+      "Z": -31.33
+    },
+    "InnerSize": {
+      "X": 6.43,
+      "Y": 18.16,
+      "Z": 17.87
+    },
+    "AmbientEmitters": [
+      "ar_dlc_ch_casino_electrical_room_extra_ac",
+      "ar_dlc_ch_casino_electrical_room_hum"
+    ]
+  },
+  {
+    "Name": "iz_ch_dlc_tunnel_main_rm",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 2507.29,
+      "Y": -310.69,
+      "Z": -70.0
+    },
+    "OuterSize": {
+      "X": 57.81,
+      "Y": 37.42,
+      "Z": 3.42
+    },
+    "InnerPosition": {
+      "X": 2507.29,
+      "Y": -310.69,
+      "Z": -70.0
+    },
+    "InnerSize": {
+      "X": 57.81,
+      "Y": 37.42,
+      "Z": 3.42
+    },
+    "AmbientEmitters": [
+      "pr_ch_dlc_tunnel_main_rm_dripping",
+      "pr_ch_dlc_tunnel_main_rm_dripping_02",
+      "ar_cave_rocks",
+      "ar_mine_creaks",
+      "pr_ch_dlc_tunnel_main_rm_entrance_wind"
+    ]
+  },
+  {
+    "Name": "iz_ch_dlc_casino_back_waste_3_rm",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 2543.09,
+      "Y": -214.69,
+      "Z": -59.22
+    },
+    "OuterSize": {
+      "X": 6.82,
+      "Y": 7.13,
+      "Z": 6.22
+    },
+    "InnerPosition": {
+      "X": 2543.09,
+      "Y": -214.69,
+      "Z": -59.22
+    },
+    "InnerSize": {
+      "X": 6.82,
+      "Y": 7.13,
+      "Z": 6.22
+    },
+    "AmbientEmitters": [
+      "ar_fly_24hr",
+      "pr_ch_dlc_casino_back_waste_3_rm_buzzing"
+    ]
+  },
+  {
+    "Name": "az_ch_dlc_arcade_entrance_area",
+    "Shape": "Box",
+    "Flags0": 2860516388,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 2738.12,
+      "Y": -374.85,
+      "Z": -46.81
+    },
+    "OuterSize": {
+      "X": 2.42,
+      "Y": 6.49,
+      "Z": 12.0
+    },
+    "InnerPosition": {
+      "X": 2737.8,
+      "Y": -374.79,
+      "Z": -47.81
+    },
+    "InnerSize": {
+      "X": 2.35,
+      "Y": 3.05,
+      "Z": 5.0
+    },
+    "AmbientEmitters": []
+  },
+  {
+    "Name": "az_h3_casino_alarm_zone_02_interior",
+    "Shape": "Sphere",
+    "Flags0": 2860516384,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 2500.0,
+      "Y": -256.0,
+      "Z": -60.0
+    },
+    "OuterSize": {
+      "X": 150.0,
+      "Y": 150.0,
+      "Z": 150.0
+    },
+    "InnerPosition": {
+      "X": 2500.0,
+      "Y": -256.0,
+      "Z": -60.0
+    },
+    "InnerSize": {
+      "X": 150.0,
+      "Y": 150.0,
+      "Z": 150.0
+    },
+    "AmbientEmitters": [
+      "pr_h3_casino_alarm_zone_02_interior_main_alarm"
+    ]
+  },
+  {
+    "Name": "iz_ch_dlc_casino_vault_storage_rm",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 2516.88,
+      "Y": -278.97,
+      "Z": -70.08
+    },
+    "OuterSize": {
+      "X": 44.86,
+      "Y": 14.05,
+      "Z": 4.66
+    },
+    "InnerPosition": {
+      "X": 2516.88,
+      "Y": -278.97,
+      "Z": -70.08
+    },
+    "InnerSize": {
+      "X": 44.86,
+      "Y": 14.05,
+      "Z": 4.66
+    },
+    "AmbientEmitters": [
+      "pr_ch_dlc_casino_vault_storage_rm_ac_unit_01",
+      "pr_ch_dlc_casino_vault_storage_rm_ac_unit_02",
+      "pr_ch_dlc_casino_vault_storage_rm_ac_unit_03",
+      "pr_ch_dlc_casino_vault_storage_rm_ac_unit_04"
+    ]
+  },
+  {
+    "Name": "iz_ch_dlc_casino_back_corridor_3_rm",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 2547.85,
+      "Y": -229.71,
+      "Z": -59.44
+    },
+    "OuterSize": {
+      "X": 7.75,
+      "Y": 34.16,
+      "Z": 5.79
+    },
+    "InnerPosition": {
+      "X": 2547.85,
+      "Y": -229.71,
+      "Z": -59.44
+    },
+    "InnerSize": {
+      "X": 7.75,
+      "Y": 34.16,
+      "Z": 5.79
+    },
+    "AmbientEmitters": [
+      "ar_fly_24hr"
+    ]
+  },
+  {
+    "Name": "az_ch_dlc_arcade_stairs_and_basement",
+    "Shape": "Box",
+    "Flags0": 2860516388,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 2725.45,
+      "Y": -357.83,
+      "Z": -52.45
+    },
+    "OuterSize": {
+      "X": 6.49,
+      "Y": 24.57,
+      "Z": 15.67
+    },
+    "InnerPosition": {
+      "X": 2727.58,
+      "Y": -361.34,
+      "Z": -51.9
+    },
+    "InnerSize": {
+      "X": 3.53,
+      "Y": 7.86,
+      "Z": 9.41
+    },
+    "AmbientEmitters": []
+  },
+  {
+    "Name": "az_dlc_ch_plan_master_control",
+    "Shape": "Box",
+    "Flags0": 2860516384,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 2717.03,
+      "Y": -361.72,
+      "Z": -53.3
+    },
+    "OuterSize": {
+      "X": 18.34,
+      "Y": 8.65,
+      "Z": 5.0
+    },
+    "InnerPosition": {
+      "X": 2719.67,
+      "Y": -364.02,
+      "Z": -53.3
+    },
+    "InnerSize": {
+      "X": 4.56,
+      "Y": 0.79,
+      "Z": 2.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_ch_plan_master_control_hum",
+      "pr_dlc_ch_plan_master_control_terminal_01",
+      "pr_dlc_ch_plan_master_control_terminal_02",
+      "pr_dlc_ch_plan_master_control_terminal_03"
+    ]
+  },
+  {
+    "Name": "iz_ch_dlc_plan_main_rm",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 2702.48,
+      "Y": -375.77,
+      "Z": -53.35
+    },
+    "OuterSize": {
+      "X": 51.12,
+      "Y": 48.53,
+      "Z": 8.85
+    },
+    "InnerPosition": {
+      "X": 2702.48,
+      "Y": -375.77,
+      "Z": -53.35
+    },
+    "InnerSize": {
+      "X": 51.12,
+      "Y": 48.53,
+      "Z": 8.85
+    },
+    "AmbientEmitters": []
+  },
+  {
+    "Name": "iz_ch_dlc_casino_back_security_rm",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 2534.51,
+      "Y": -278.13,
+      "Z": -58.48
+    },
+    "OuterSize": {
+      "X": 21.54,
+      "Y": 13.63,
+      "Z": 4.15
+    },
+    "InnerPosition": {
+      "X": 2534.51,
+      "Y": -278.13,
+      "Z": -58.48
+    },
+    "InnerSize": {
+      "X": 21.54,
+      "Y": 13.63,
+      "Z": 4.15
+    },
+    "AmbientEmitters": [
+      "pr_ch_dlc_casino_back_security_rm_computers_01",
+      "pr_ch_dlc_casino_back_security_rm_computers_02",
+      "pr_ch_dlc_casino_back_security_rm_computers_scrambler",
+      "pr_ch_dlc_casino_back_security_rm_computers_03",
+      "pr_ch_dlc_casino_back_security_rm_computers_04",
+      "pr_ch_dlc_casino_back_security_rm_computers_alarms",
+      "pr_ch_dlc_casino_back_security_rm_computers_alarms"
+    ]
+  },
+  {
+    "Name": "iz_ch_dlc_casino_heist_rm_gamingfloor_01",
+    "Shape": "Box",
+    "Flags0": 2860516385,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 2480.84,
+      "Y": -278.91,
+      "Z": -56.87
+    },
+    "OuterSize": {
+      "X": 40.32,
+      "Y": 49.47,
+      "Z": 6.76
+    },
+    "InnerPosition": {
+      "X": 2480.84,
+      "Y": -278.91,
+      "Z": -56.87
+    },
+    "InnerSize": {
+      "X": 40.32,
+      "Y": 49.47,
+      "Z": 6.76
+    },
+    "AmbientEmitters": [
+      "pr_dlc_h3_slot_machine_effects_gf_01_01",
+      "pr_dlc_h3_slot_machine_effects_gf_01_02",
+      "pr_dlc_h3_slot_machine_effects_gf_01_03"
     ]
   },
   {
@@ -45021,6 +45021,41 @@
     ]
   },
   {
+    "Name": "az_dlc_cascon_01",
+    "Shape": "Sphere",
+    "Flags0": 2860516384,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": 1140.0,
+      "Y": 235.0,
+      "Z": -50.0
+    },
+    "OuterSize": {
+      "X": 15.0,
+      "Y": 20.0,
+      "Z": 20.0
+    },
+    "InnerPosition": {
+      "X": 1142.0,
+      "Y": 232.0,
+      "Z": -50.0
+    },
+    "InnerSize": {
+      "X": 1.0,
+      "Y": 1.0,
+      "Z": 1.0
+    },
+    "AmbientEmitters": [
+      "ar_dlc_cascon_grind",
+      "ar_dlc_cascon_ham",
+      "ar_dlc_cascon_ng",
+      "ar_dlc_cascon_weld",
+      "ar_dlc_cascon_drop",
+      "ar_dlc_cascon_shouts"
+    ]
+  },
+  {
     "Name": "iz_reh_dlc_int_04_sum2_int4_basementrm",
     "Shape": "Box",
     "Flags0": 2860516389,
@@ -45116,41 +45151,6 @@
     },
     "AmbientEmitters": [
       "hash_284732e8_ctjznmx_collision"
-    ]
-  },
-  {
-    "Name": "az_dlc_cascon_01",
-    "Shape": "Sphere",
-    "Flags0": 2860516384,
-    "Flags1": 0,
-    "Flags2": 0,
-    "OuterPosition": {
-      "X": 1140.0,
-      "Y": 235.0,
-      "Z": -50.0
-    },
-    "OuterSize": {
-      "X": 15.0,
-      "Y": 20.0,
-      "Z": 20.0
-    },
-    "InnerPosition": {
-      "X": 1142.0,
-      "Y": 232.0,
-      "Z": -50.0
-    },
-    "InnerSize": {
-      "X": 1.0,
-      "Y": 1.0,
-      "Z": 1.0
-    },
-    "AmbientEmitters": [
-      "ar_dlc_cascon_grind",
-      "ar_dlc_cascon_ham",
-      "ar_dlc_cascon_ng",
-      "ar_dlc_cascon_weld",
-      "ar_dlc_cascon_drop",
-      "ar_dlc_cascon_shouts"
     ]
   },
   {
@@ -47927,5 +47927,41 @@
       "Z": 2.49
     },
     "AmbientEmitters": []
+  },
+  {
+    "Name": "iz_m25_2_int_mansion_rm_pool_spa",
+    "Shape": "Box",
+    "Flags0": 2860516389,
+    "Flags1": 0,
+    "Flags2": 0,
+    "OuterPosition": {
+      "X": -2599.37,
+      "Y": 1882.33,
+      "Z": 164.24
+    },
+    "OuterSize": {
+      "X": 15.42,
+      "Y": 25.15,
+      "Z": 3.5
+    },
+    "InnerPosition": {
+      "X": -2599.37,
+      "Y": 1882.33,
+      "Z": 164.24
+    },
+    "InnerSize": {
+      "X": 15.42,
+      "Y": 25.15,
+      "Z": 3.26
+    },
+    "AmbientEmitters": [
+      "ar_dlc_25-2_mansion_spa_room_drips",
+      "pr_dlc_25-2_mansion_spa_room_pool",
+      "pr_dlc_25-2_mansion_spa_room_water_01",
+      "pr_dlc_25-2_mansion_spa_room_water_02",
+      "pr_dlc_25-2_mansion_spa_room_whalesong_01",
+      "pr_dlc_25-2_mansion_spa_room_froggies",
+      "pr_dlc_25-2_mansion_spa_room_froggies2"
+    ]
   }
 ]

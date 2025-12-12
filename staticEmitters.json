@@ -6077,7 +6077,7 @@
     "Alarm": ""
   },
   {
-    "Name": "hash_e5adc979_mcmagaz_collision",
+    "Name": "hash_e5adc979_uhzmgjl_collision",
     "Position": {
       "X": 2829.3,
       "Y": -629.3,
@@ -9954,95 +9954,6 @@
     "Alarm": ""
   },
   {
-    "Name": "se_xm_int_02_lounge_radio",
-    "Position": {
-      "X": 361.0,
-      "Y": 4840.0,
-      "Z": -59.0
-    },
-    "Flags": [
-      "FLAG_ID_STATICEMITTER_ENABLED",
-      "FLAG_ID_STATICEMITTER_FILLSINTERIORSPACE",
-      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
-      "FLAG_ID_STATICEMITTER_MAX"
-    ],
-    "Interior": "xm_x17dlc_int_02",
-    "Room": "xm_x17dlc_int_02_int02_base_data",
-    "RadioStation": "radio_21_dlc_xm17",
-    "Alarm": ""
-  },
-  {
-    "Name": "se_xm_int_01_avngr_radio",
-    "Position": {
-      "X": 520.0,
-      "Y": 4748.0,
-      "Z": -69.0
-    },
-    "Flags": [
-      "FLAG_ID_STATICEMITTER_ENABLED",
-      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
-      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
-      "FLAG_ID_STATICEMITTER_MAX"
-    ],
-    "Interior": "xm_x17dlc_int_01",
-    "Room": "xm_x17dlc_int_01_gtamloroom001",
-    "RadioStation": "radio_21_dlc_xm17",
-    "Alarm": ""
-  },
-  {
-    "Name": "se_xm_int_02_bedroom_radio",
-    "Position": {
-      "X": 368.0,
-      "Y": 4823.0,
-      "Z": -59.0
-    },
-    "Flags": [
-      "FLAG_ID_STATICEMITTER_ENABLED",
-      "FLAG_ID_STATICEMITTER_FILLSINTERIORSPACE",
-      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
-      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
-      "FLAG_ID_STATICEMITTER_MAX"
-    ],
-    "Interior": "xm_x17dlc_int_02",
-    "Room": "xm_x17dlc_int_02_int02_base_bedrom",
-    "RadioStation": "radio_21_dlc_xm17",
-    "Alarm": ""
-  },
-  {
-    "Name": "se_mp_garage_m_radio",
-    "Position": {
-      "X": 202.23,
-      "Y": -994.03,
-      "Z": -98.65
-    },
-    "Flags": [
-      "FLAG_ID_STATICEMITTER_ENABLED",
-      "FLAG_ID_STATICEMITTER_FILLSINTERIORSPACE",
-      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
-      "FLAG_ID_STATICEMITTER_MAX"
-    ],
-    "Interior": "v_garagem",
-    "Room": "v_garagem_gtamloroom002",
-    "RadioStation": "radio_03_hiphop_new",
-    "Alarm": ""
-  },
-  {
-    "Name": "se_xm_x17dlc_int_sub_stream",
-    "Position": {
-      "X": 513.0,
-      "Y": 4861.5,
-      "Z": -62.6
-    },
-    "Flags": [
-      "FLAG_ID_STATICEMITTER_ENABLED",
-      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS"
-    ],
-    "Interior": "xm_x17dlc_int_sub",
-    "Room": "xm_x17dlc_int_sub_rm_command",
-    "RadioStation": "",
-    "Alarm": ""
-  },
-  {
     "Name": "se_xm3_dlc_int_02_xm3_radioemitter",
     "Position": {
       "X": 523.0,
@@ -10263,6 +10174,398 @@
     "Interior": "xs_x18_int_mod",
     "Room": "xs_x18_int_mod_arena_mod_rm",
     "RadioStation": "",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_xm_int_02_lounge_radio",
+    "Position": {
+      "X": 361.0,
+      "Y": 4840.0,
+      "Z": -59.0
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_FILLSINTERIORSPACE",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "xm_x17dlc_int_02",
+    "Room": "xm_x17dlc_int_02_int02_base_data",
+    "RadioStation": "radio_21_dlc_xm17",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_xm_int_01_avngr_radio",
+    "Position": {
+      "X": 520.0,
+      "Y": 4748.0,
+      "Z": -69.0
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "xm_x17dlc_int_01",
+    "Room": "xm_x17dlc_int_01_gtamloroom001",
+    "RadioStation": "radio_21_dlc_xm17",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_xm_int_02_bedroom_radio",
+    "Position": {
+      "X": 368.0,
+      "Y": 4823.0,
+      "Z": -59.0
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_FILLSINTERIORSPACE",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "xm_x17dlc_int_02",
+    "Room": "xm_x17dlc_int_02_int02_base_bedrom",
+    "RadioStation": "radio_21_dlc_xm17",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_mp_garage_m_radio",
+    "Position": {
+      "X": 202.23,
+      "Y": -994.03,
+      "Z": -98.65
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_FILLSINTERIORSPACE",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "v_garagem",
+    "Room": "v_garagem_gtamloroom002",
+    "RadioStation": "radio_03_hiphop_new",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_xm_x17dlc_int_sub_stream",
+    "Position": {
+      "X": 513.0,
+      "Y": 4861.5,
+      "Z": -62.6
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS"
+    ],
+    "Interior": "xm_x17dlc_int_sub",
+    "Room": "xm_x17dlc_int_sub_rm_command",
+    "RadioStation": "",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_h4_dlc_int_02_h4_lobby",
+    "Position": {
+      "X": 1571.9,
+      "Y": 244.5,
+      "Z": -45.35
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH"
+    ],
+    "Interior": "h4_dlc_int_02_h4",
+    "Room": "h4_dlc_int_02_h4_lobby",
+    "RadioStation": "radio_32_dlc_hei4_mm_club",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_h4_dlc_int_02_h4_main_front_01",
+    "Position": {
+      "X": 1553.4,
+      "Y": 244.6,
+      "Z": -45.83
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH"
+    ],
+    "Interior": "h4_dlc_int_02_h4",
+    "Room": "h4_dlc_int_02_h4_int_01_main_area",
+    "RadioStation": "radio_32_dlc_hei4_mm_club",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_h4_dlc_int_02_h4_main_front_02",
+    "Position": {
+      "X": 1552.9,
+      "Y": 256.5,
+      "Z": -45.95
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH"
+    ],
+    "Interior": "h4_dlc_int_02_h4",
+    "Room": "h4_dlc_int_02_h4_int_01_main_area",
+    "RadioStation": "radio_32_dlc_hei4_mm_club",
+    "Alarm": ""
+  },
+  {
+    "Name": "dlc_h4_se_mpjo",
+    "Position": {
+      "X": 1210.0,
+      "Y": -455.0,
+      "Z": 69.0
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "",
+    "Room": "",
+    "RadioStation": "radio_27_dlc_prhei4",
+    "Alarm": ""
+  },
+  {
+    "Name": "dlc_h4_se_safe_codes_penthouse_music_entryway",
+    "Position": {
+      "X": 980.0,
+      "Y": 57.0,
+      "Z": 118.0
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH"
+    ],
+    "Interior": "",
+    "Room": "",
+    "RadioStation": "",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc_hei4_island_beach_party_music_new_01_left",
+    "Position": {
+      "X": 4896.5,
+      "Y": -4908.0,
+      "Z": 3.5
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "",
+    "Room": "",
+    "RadioStation": "radio_30_dlc_hei4_mix1_reverb",
+    "Alarm": ""
+  },
+  {
+    "Name": "dlc_h4_se_safe_codes_penthouse_music",
+    "Position": {
+      "X": 946.5,
+      "Y": 16.0,
+      "Z": 119.5
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH"
+    ],
+    "Interior": "",
+    "Room": "",
+    "RadioStation": "",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc_hei4_island_beach_party_music_new_03_reverb",
+    "Position": {
+      "X": 4935.9,
+      "Y": -4891.2,
+      "Z": 26.47
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "",
+    "Room": "",
+    "RadioStation": "radio_30_dlc_hei4_mix1_reverb",
+    "Alarm": ""
+  },
+  {
+    "Name": "dlc_h4_se_safe_codes_penthouse_music_lounge",
+    "Position": {
+      "X": 963.0,
+      "Y": 47.5,
+      "Z": 118.0
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH"
+    ],
+    "Interior": "",
+    "Room": "",
+    "RadioStation": "",
+    "Alarm": ""
+  },
+  {
+    "Name": "dlc_h4_se_safe_codes_room_music",
+    "Position": {
+      "X": 2486.1,
+      "Y": -274.0,
+      "Z": -38.3
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "ch_dlc_casino_hotel",
+    "Room": "ch_dlc_casino_hotel_casino_hotel_corridor_2_rm",
+    "RadioStation": "hidden_radio_casino_penthouse_p",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_hei4_int_sub_stream",
+    "Position": {
+      "X": 1558.9827,
+      "Y": 382.14902,
+      "Z": -48.12495
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED"
+    ],
+    "Interior": "h4_int_sub_h4",
+    "Room": "h4_int_sub_h4_rm_command",
+    "RadioStation": "",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_h4_dlc_int_02_h4_main_room_cutscenes",
+    "Position": {
+      "X": 1570.46,
+      "Y": 249.99,
+      "Z": -47.2
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH"
+    ],
+    "Interior": "h4_dlc_int_02_h4",
+    "Room": "h4_dlc_int_02_h4_int_01_main_area",
+    "RadioStation": "radio_32_dlc_hei4_mm_club",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_h4_dlc_int_02_h4_main_bar",
+    "Position": {
+      "X": 1570.46,
+      "Y": 249.99,
+      "Z": -45.29
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH"
+    ],
+    "Interior": "h4_dlc_int_02_h4",
+    "Room": "h4_dlc_int_02_h4_int_01_main_area",
+    "RadioStation": "radio_32_dlc_hei4_mm_club",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc_hei4_island_beach_party_music_new_02_right",
+    "Position": {
+      "X": 4890.4,
+      "Y": -4907.3,
+      "Z": 3.5
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "",
+    "Room": "",
+    "RadioStation": "radio_30_dlc_hei4_mix1_reverb",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_hei4_int_sub_mess_radio",
+    "Position": {
+      "X": 1563.2,
+      "Y": 385.5,
+      "Z": -53.211
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "h4_int_sub_h4",
+    "Room": "h4_int_sub_h4_rm_mess",
+    "RadioStation": "Space 103.2",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_h4_dlc_int_02_h4_entrance_doorway",
+    "Position": {
+      "X": 986.36,
+      "Y": 77.92,
+      "Z": 81.66
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH"
+    ],
+    "Interior": "",
+    "Room": "",
+    "RadioStation": "radio_31_dlc_hei4_km_club",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc_hei4_island_beach_party_music_new_04_reverb",
+    "Position": {
+      "X": 4965.4,
+      "Y": -4942.4,
+      "Z": 15.52
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "",
+    "Room": "",
+    "RadioStation": "radio_30_dlc_hei4_mix1_reverb",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_h4_dlc_int_02_h4_bogs",
+    "Position": {
+      "X": 1546.7,
+      "Y": 256.7,
+      "Z": -47.2
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH"
+    ],
+    "Interior": "h4_dlc_int_02_h4",
+    "Room": "h4_dlc_int_02_h4_int_01_bogs",
+    "RadioStation": "radio_32_dlc_hei4_mm_club",
     "Alarm": ""
   },
   {
@@ -11502,309 +11805,6 @@
     "Interior": "hei_dlc_apart_high_new",
     "Room": "hash_051d0372_omlqzrw_collision",
     "RadioStation": "Los Santos Rock Radio",
-    "Alarm": ""
-  },
-  {
-    "Name": "se_h4_dlc_int_02_h4_lobby",
-    "Position": {
-      "X": 1571.9,
-      "Y": 244.5,
-      "Z": -45.35
-    },
-    "Flags": [
-      "FLAG_ID_STATICEMITTER_ENABLED",
-      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
-      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH"
-    ],
-    "Interior": "h4_dlc_int_02_h4",
-    "Room": "h4_dlc_int_02_h4_lobby",
-    "RadioStation": "radio_32_dlc_hei4_mm_club",
-    "Alarm": ""
-  },
-  {
-    "Name": "se_h4_dlc_int_02_h4_main_front_01",
-    "Position": {
-      "X": 1553.4,
-      "Y": 244.6,
-      "Z": -45.83
-    },
-    "Flags": [
-      "FLAG_ID_STATICEMITTER_ENABLED",
-      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
-      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH"
-    ],
-    "Interior": "h4_dlc_int_02_h4",
-    "Room": "h4_dlc_int_02_h4_int_01_main_area",
-    "RadioStation": "radio_32_dlc_hei4_mm_club",
-    "Alarm": ""
-  },
-  {
-    "Name": "se_h4_dlc_int_02_h4_main_front_02",
-    "Position": {
-      "X": 1552.9,
-      "Y": 256.5,
-      "Z": -45.95
-    },
-    "Flags": [
-      "FLAG_ID_STATICEMITTER_ENABLED",
-      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
-      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH"
-    ],
-    "Interior": "h4_dlc_int_02_h4",
-    "Room": "h4_dlc_int_02_h4_int_01_main_area",
-    "RadioStation": "radio_32_dlc_hei4_mm_club",
-    "Alarm": ""
-  },
-  {
-    "Name": "dlc_h4_se_mpjo",
-    "Position": {
-      "X": 1210.0,
-      "Y": -455.0,
-      "Z": 69.0
-    },
-    "Flags": [
-      "FLAG_ID_STATICEMITTER_ENABLED",
-      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
-      "FLAG_ID_STATICEMITTER_MAX"
-    ],
-    "Interior": "",
-    "Room": "",
-    "RadioStation": "radio_27_dlc_prhei4",
-    "Alarm": ""
-  },
-  {
-    "Name": "dlc_h4_se_safe_codes_penthouse_music_entryway",
-    "Position": {
-      "X": 980.0,
-      "Y": 57.0,
-      "Z": 118.0
-    },
-    "Flags": [
-      "FLAG_ID_STATICEMITTER_ENABLED",
-      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH"
-    ],
-    "Interior": "",
-    "Room": "",
-    "RadioStation": "",
-    "Alarm": ""
-  },
-  {
-    "Name": "se_dlc_hei4_island_beach_party_music_new_01_left",
-    "Position": {
-      "X": 4896.5,
-      "Y": -4908.0,
-      "Z": 3.5
-    },
-    "Flags": [
-      "FLAG_ID_STATICEMITTER_ENABLED",
-      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
-      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
-      "FLAG_ID_STATICEMITTER_MAX"
-    ],
-    "Interior": "",
-    "Room": "",
-    "RadioStation": "radio_30_dlc_hei4_mix1_reverb",
-    "Alarm": ""
-  },
-  {
-    "Name": "dlc_h4_se_safe_codes_penthouse_music",
-    "Position": {
-      "X": 946.5,
-      "Y": 16.0,
-      "Z": 119.5
-    },
-    "Flags": [
-      "FLAG_ID_STATICEMITTER_ENABLED",
-      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH"
-    ],
-    "Interior": "",
-    "Room": "",
-    "RadioStation": "",
-    "Alarm": ""
-  },
-  {
-    "Name": "se_dlc_hei4_island_beach_party_music_new_03_reverb",
-    "Position": {
-      "X": 4935.9,
-      "Y": -4891.2,
-      "Z": 26.47
-    },
-    "Flags": [
-      "FLAG_ID_STATICEMITTER_ENABLED",
-      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
-      "FLAG_ID_STATICEMITTER_MAX"
-    ],
-    "Interior": "",
-    "Room": "",
-    "RadioStation": "radio_30_dlc_hei4_mix1_reverb",
-    "Alarm": ""
-  },
-  {
-    "Name": "dlc_h4_se_safe_codes_penthouse_music_lounge",
-    "Position": {
-      "X": 963.0,
-      "Y": 47.5,
-      "Z": 118.0
-    },
-    "Flags": [
-      "FLAG_ID_STATICEMITTER_ENABLED",
-      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH"
-    ],
-    "Interior": "",
-    "Room": "",
-    "RadioStation": "",
-    "Alarm": ""
-  },
-  {
-    "Name": "dlc_h4_se_safe_codes_room_music",
-    "Position": {
-      "X": 2486.1,
-      "Y": -274.0,
-      "Z": -38.3
-    },
-    "Flags": [
-      "FLAG_ID_STATICEMITTER_ENABLED",
-      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
-      "FLAG_ID_STATICEMITTER_MAX"
-    ],
-    "Interior": "ch_dlc_casino_hotel",
-    "Room": "ch_dlc_casino_hotel_casino_hotel_corridor_2_rm",
-    "RadioStation": "hidden_radio_casino_penthouse_p",
-    "Alarm": ""
-  },
-  {
-    "Name": "se_hei4_int_sub_stream",
-    "Position": {
-      "X": 1558.9827,
-      "Y": 382.14902,
-      "Z": -48.12495
-    },
-    "Flags": [
-      "FLAG_ID_STATICEMITTER_ENABLED"
-    ],
-    "Interior": "h4_int_sub_h4",
-    "Room": "h4_int_sub_h4_rm_command",
-    "RadioStation": "",
-    "Alarm": ""
-  },
-  {
-    "Name": "se_h4_dlc_int_02_h4_main_room_cutscenes",
-    "Position": {
-      "X": 1570.46,
-      "Y": 249.99,
-      "Z": -47.2
-    },
-    "Flags": [
-      "FLAG_ID_STATICEMITTER_ENABLED",
-      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
-      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH"
-    ],
-    "Interior": "h4_dlc_int_02_h4",
-    "Room": "h4_dlc_int_02_h4_int_01_main_area",
-    "RadioStation": "radio_32_dlc_hei4_mm_club",
-    "Alarm": ""
-  },
-  {
-    "Name": "se_h4_dlc_int_02_h4_main_bar",
-    "Position": {
-      "X": 1570.46,
-      "Y": 249.99,
-      "Z": -45.29
-    },
-    "Flags": [
-      "FLAG_ID_STATICEMITTER_ENABLED",
-      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
-      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH"
-    ],
-    "Interior": "h4_dlc_int_02_h4",
-    "Room": "h4_dlc_int_02_h4_int_01_main_area",
-    "RadioStation": "radio_32_dlc_hei4_mm_club",
-    "Alarm": ""
-  },
-  {
-    "Name": "se_dlc_hei4_island_beach_party_music_new_02_right",
-    "Position": {
-      "X": 4890.4,
-      "Y": -4907.3,
-      "Z": 3.5
-    },
-    "Flags": [
-      "FLAG_ID_STATICEMITTER_ENABLED",
-      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
-      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
-      "FLAG_ID_STATICEMITTER_MAX"
-    ],
-    "Interior": "",
-    "Room": "",
-    "RadioStation": "radio_30_dlc_hei4_mix1_reverb",
-    "Alarm": ""
-  },
-  {
-    "Name": "se_hei4_int_sub_mess_radio",
-    "Position": {
-      "X": 1563.2,
-      "Y": 385.5,
-      "Z": -53.211
-    },
-    "Flags": [
-      "FLAG_ID_STATICEMITTER_ENABLED",
-      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
-      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
-      "FLAG_ID_STATICEMITTER_MAX"
-    ],
-    "Interior": "h4_int_sub_h4",
-    "Room": "h4_int_sub_h4_rm_mess",
-    "RadioStation": "Space 103.2",
-    "Alarm": ""
-  },
-  {
-    "Name": "se_h4_dlc_int_02_h4_entrance_doorway",
-    "Position": {
-      "X": 986.36,
-      "Y": 77.92,
-      "Z": 81.66
-    },
-    "Flags": [
-      "FLAG_ID_STATICEMITTER_ENABLED",
-      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH"
-    ],
-    "Interior": "",
-    "Room": "",
-    "RadioStation": "radio_31_dlc_hei4_km_club",
-    "Alarm": ""
-  },
-  {
-    "Name": "se_dlc_hei4_island_beach_party_music_new_04_reverb",
-    "Position": {
-      "X": 4965.4,
-      "Y": -4942.4,
-      "Z": 15.52
-    },
-    "Flags": [
-      "FLAG_ID_STATICEMITTER_ENABLED",
-      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
-      "FLAG_ID_STATICEMITTER_MAX"
-    ],
-    "Interior": "",
-    "Room": "",
-    "RadioStation": "radio_30_dlc_hei4_mix1_reverb",
-    "Alarm": ""
-  },
-  {
-    "Name": "se_h4_dlc_int_02_h4_bogs",
-    "Position": {
-      "X": 1546.7,
-      "Y": 256.7,
-      "Z": -47.2
-    },
-    "Flags": [
-      "FLAG_ID_STATICEMITTER_ENABLED",
-      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
-      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH"
-    ],
-    "Interior": "h4_dlc_int_02_h4",
-    "Room": "h4_dlc_int_02_h4_int_01_bogs",
-    "RadioStation": "radio_32_dlc_hei4_mm_club",
     "Alarm": ""
   },
   {
@@ -14978,6 +14978,1074 @@
     "Interior": "m25_1_int_tycoon_smoke_heli",
     "Room": "m25_1_int_tycoon_smoke_heli_room_main",
     "RadioStation": "HIDDEN_RADIO_01_CLASS_ROCK",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_basement_garage_top_loc_1",
+    "Position": {
+      "X": -2571.03,
+      "Y": 1919.22,
+      "Z": 156.5
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m25_2_int_mansion_garage",
+    "Room": "m25_2_int_mansion_garage_gar_roomtop",
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_basement_lobby_03_loc_2",
+    "Position": {
+      "X": -1651.51,
+      "Y": 479.56,
+      "Z": 114.62
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m25_2_int_mansion_2",
+    "Room": "m25_2_int_mansion_2_rm_lobby_03",
+    "RadioStation": "Soulwax FM",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_basement_club_02_loc_1",
+    "Position": {
+      "X": -2580.88,
+      "Y": 1871.94,
+      "Z": 158.95
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m25_2_int_mansion_2",
+    "Room": "m25_2_int_mansion_2_rm_club",
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_basement_garage_top_loc_3",
+    "Position": {
+      "X": 550.91,
+      "Y": 768.05,
+      "Z": 194.0
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m25_2_int_mansion_garage",
+    "Room": "m25_2_int_mansion_garage_gar_roomtop",
+    "RadioStation": "Soulwax FM",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_mansion_arcade_loc_3",
+    "Position": {
+      "X": 540.45,
+      "Y": 762.05,
+      "Z": 199.44
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m25_2_int_mansion",
+    "Room": "m25_2_int_mansion_rm_arcade",
+    "RadioStation": "Soulwax FM",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_mansion_cigar_room_loc_2",
+    "Position": {
+      "X": -1639.28,
+      "Y": 488.11,
+      "Z": 130.62
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m25_2_int_mansion",
+    "Room": "m25_2_int_mansion_rm_cigar_room",
+    "RadioStation": "Soulwax FM",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_mansion_guest_bedroom_loc_3",
+    "Position": {
+      "X": 530.23,
+      "Y": 746.53,
+      "Z": 199.07
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m25_2_int_mansion",
+    "Room": "m25_2_int_mansion_rm_guest_bedroom",
+    "RadioStation": "Soulwax FM",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_mansion_trophy_room_loc_2",
+    "Position": {
+      "X": -1656.84,
+      "Y": 476.95,
+      "Z": 126.58
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m25_2_int_mansion",
+    "Room": "m25_2_int_mansion_rm_trophy",
+    "RadioStation": "Soulwax FM",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_mansion_kitchen_loc_3",
+    "Position": {
+      "X": 546.21,
+      "Y": 727.49,
+      "Z": 203.32
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m25_2_int_mansion",
+    "Room": "m25_2_int_mansion_rm_kitchen_dinning",
+    "RadioStation": "Soulwax FM",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_basement_armoury_loc_3",
+    "Position": {
+      "X": 555.8,
+      "Y": 745.13,
+      "Z": 191.96
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m25_2_int_mansion_2",
+    "Room": "m25_2_int_mansion_2_rm_armoury",
+    "RadioStation": "Soulwax FM",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_mansion_master_bedroom_loc_1",
+    "Position": {
+      "X": -2579.12,
+      "Y": 1873.84,
+      "Z": 165.15
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m25_2_int_mansion",
+    "Room": "m25_2_int_mansion_rm_mainx_bedroom",
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_mansion_exterior_pool_bar_loc_3",
+    "Position": {
+      "X": 510.24,
+      "Y": 706.35,
+      "Z": 196.71
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "",
+    "Room": "",
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_basement_lobby_02_loc_3",
+    "Position": {
+      "X": 547.91,
+      "Y": 734.02,
+      "Z": 187.73
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m25_2_int_mansion_2",
+    "Room": "m25_2_int_mansion_2_rm_lobby_02",
+    "RadioStation": "Soulwax FM",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_mansion_master_bedroom_loc_3",
+    "Position": {
+      "X": 565.53,
+      "Y": 721.7,
+      "Z": 200.44
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m25_2_int_mansion",
+    "Room": "m25_2_int_mansion_rm_mainx_bedroom",
+    "RadioStation": "Soulwax FM",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_basement_armoury_loc_2",
+    "Position": {
+      "X": -1657.03,
+      "Y": 493.03,
+      "Z": 119.87
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m25_2_int_mansion_2",
+    "Room": "m25_2_int_mansion_2_rm_armoury",
+    "RadioStation": "Soulwax FM",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_basement_club_01_loc_3",
+    "Position": {
+      "X": 565.91,
+      "Y": 725.61,
+      "Z": 193.95
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m25_2_int_mansion_2",
+    "Room": "m25_2_int_mansion_2_rm_club",
+    "RadioStation": "Soulwax FM",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_mansion_kitchen_loc_1",
+    "Position": {
+      "X": -2594.31,
+      "Y": 1886.85,
+      "Z": 169.32
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m25_2_int_mansion",
+    "Room": "m25_2_int_mansion_rm_kitchen_dinning",
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_mansion_exterior_pool_bar_loc_2",
+    "Position": {
+      "X": -1622.89,
+      "Y": 440.1,
+      "Z": 124.58
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "",
+    "Room": "",
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_mansion_exterior_pool_bar_loc_1",
+    "Position": {
+      "X": -2634.89,
+      "Y": 1873.36,
+      "Z": 161.85
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "",
+    "Room": "",
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_mansion_office_loc_3",
+    "Position": {
+      "X": 554.77,
+      "Y": 718.76,
+      "Z": 204.32
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m25_2_int_mansion",
+    "Room": "m25_2_int_mansion_rm_offce",
+    "RadioStation": "Soulwax FM",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_mansion_guest_bedroom_loc_2",
+    "Position": {
+      "X": -1667.55,
+      "Y": 468.04,
+      "Z": 127.53
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m25_2_int_mansion",
+    "Room": "m25_2_int_mansion_rm_guest_bedroom",
+    "RadioStation": "Soulwax FM",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_mansion_exterior_central_loc_2",
+    "Position": {
+      "X": -1659.02,
+      "Y": 464.6,
+      "Z": 130.94
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "",
+    "Room": "",
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_mansion_lobby_loc_2",
+    "Position": {
+      "X": -1654.12,
+      "Y": 478.68,
+      "Z": 131.5
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m25_2_int_mansion",
+    "Room": "m25_2_int_mansion_rm_lobby",
+    "RadioStation": "Soulwax FM",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_basement_club_01_loc_1",
+    "Position": {
+      "X": -2576.33,
+      "Y": 1876.02,
+      "Z": 159.0
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m25_2_int_mansion_2",
+    "Room": "m25_2_int_mansion_2_rm_club",
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_mansion_gallery_loc_2",
+    "Position": {
+      "X": -1641.83,
+      "Y": 482.98,
+      "Z": 125.78
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m25_2_int_mansion",
+    "Room": "m25_2_int_mansion_rm_gallery",
+    "RadioStation": "Soulwax FM",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_basement_lobby_02_loc_2",
+    "Position": {
+      "X": -1651.02,
+      "Y": 479.96,
+      "Z": 120.23
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m25_2_int_mansion_2",
+    "Room": "m25_2_int_mansion_2_rm_lobby_02",
+    "RadioStation": "Soulwax FM",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_basement_lobby_03_loc_1",
+    "Position": {
+      "X": -2587.51,
+      "Y": 1891.48,
+      "Z": 153.39
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m25_2_int_mansion_2",
+    "Room": "m25_2_int_mansion_2_rm_lobby_03",
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_basement_garage_loc_1",
+    "Position": {
+      "X": -2571.03,
+      "Y": 1919.22,
+      "Z": 153.24
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m25_2_int_mansion_garage",
+    "Room": "m25_2_int_mansion_garage_gar_roombot",
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_mansion_exterior_terrace_loc_1",
+    "Position": {
+      "X": -2602.25,
+      "Y": 1868.87,
+      "Z": 170.13
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "",
+    "Room": "",
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_mansion_office_loc_1",
+    "Position": {
+      "X": -2590.06,
+      "Y": 1876.7,
+      "Z": 168.95
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m25_2_int_mansion",
+    "Room": "m25_2_int_mansion_rm_offce",
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_basement_lobby_03_loc_3",
+    "Position": {
+      "X": 542.49,
+      "Y": 731.48,
+      "Z": 187.89
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m25_2_int_mansion_2",
+    "Room": "m25_2_int_mansion_2_rm_lobby_03",
+    "RadioStation": "Soulwax FM",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_basement_garage_top_loc_2",
+    "Position": {
+      "X": -1678.24,
+      "Y": 492.84,
+      "Z": 121.0
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m25_2_int_mansion_garage",
+    "Room": "m25_2_int_mansion_garage_gar_roomtop",
+    "RadioStation": "Soulwax FM",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_basement_mod_garage_loc_3",
+    "Position": {
+      "X": 528.18,
+      "Y": 758.15,
+      "Z": 200.55
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m25_2_int_mansion_2",
+    "Room": "m25_2_int_mansion_2_rm_mod_garage",
+    "RadioStation": "Soulwax FM",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_basement_club_02_loc_2",
+    "Position": {
+      "X": -1630.19,
+      "Y": 491.93,
+      "Z": 120.81
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m25_2_int_mansion_2",
+    "Room": "m25_2_int_mansion_2_rm_club",
+    "RadioStation": "Soulwax FM",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_mansion_cigar_room_loc_3",
+    "Position": {
+      "X": 558.98,
+      "Y": 726.52,
+      "Z": 204.01
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m25_2_int_mansion",
+    "Room": "m25_2_int_mansion_rm_cigar_room",
+    "RadioStation": "Soulwax FM",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_mansion_gallery_loc_3",
+    "Position": {
+      "X": 551.78,
+      "Y": 729.28,
+      "Z": 198.43
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m25_2_int_mansion",
+    "Room": "m25_2_int_mansion_rm_gallery",
+    "RadioStation": "Soulwax FM",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_basement_mod_garage_loc_1",
+    "Position": {
+      "X": -2581.15,
+      "Y": 1877.63,
+      "Z": 154.85
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m25_2_int_mansion_2",
+    "Room": "m25_2_int_mansion_2_rm_mod_garage",
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_mansion_exterior_central_loc_1",
+    "Position": {
+      "X": -2601.3,
+      "Y": 1905.8,
+      "Z": 169.6
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "",
+    "Room": "",
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_mansion_trophy_room_loc_3",
+    "Position": {
+      "X": 542.69,
+      "Y": 738.68,
+      "Z": 200.01
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m25_2_int_mansion",
+    "Room": "m25_2_int_mansion_rm_trophy",
+    "RadioStation": "Soulwax FM",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_basement_garage_loc_3",
+    "Position": {
+      "X": 550.91,
+      "Y": 768.05,
+      "Z": 189.54
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m25_2_int_mansion_garage",
+    "Room": "m25_2_int_mansion_garage_gar_roombot",
+    "RadioStation": "Soulwax FM",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_mansion_exterior_central_loc_3",
+    "Position": {
+      "X": 528.65,
+      "Y": 736.92,
+      "Z": 204.71
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "",
+    "Room": "",
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_basement_lobby_02_loc_1",
+    "Position": {
+      "X": -2588.05,
+      "Y": 1893.82,
+      "Z": 157.03
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m25_2_int_mansion_2",
+    "Room": "m25_2_int_mansion_2_rm_lobby_02",
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_mansion_master_bedroom_loc_2",
+    "Position": {
+      "X": -1630.77,
+      "Y": 493.12,
+      "Z": 126.68
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m25_2_int_mansion",
+    "Room": "m25_2_int_mansion_rm_mainx_bedroom",
+    "RadioStation": "Soulwax FM",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_mansion_arcade_loc_2",
+    "Position": {
+      "X": -1678.43,
+      "Y": 472.74,
+      "Z": 127.2
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m25_2_int_mansion",
+    "Room": "m25_2_int_mansion_rm_arcade",
+    "RadioStation": "Soulwax FM",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_mansion_kitchen_loc_2",
+    "Position": {
+      "X": -1645.64,
+      "Y": 477.13,
+      "Z": 129.94
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m25_2_int_mansion",
+    "Room": "m25_2_int_mansion_rm_kitchen_dinning",
+    "RadioStation": "Soulwax FM",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_mansion_trophy_room_loc_1",
+    "Position": {
+      "X": -2587.92,
+      "Y": 1902.99,
+      "Z": 164.28
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m25_2_int_mansion",
+    "Room": "m25_2_int_mansion_rm_trophy",
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_basement_club_01_loc_2",
+    "Position": {
+      "X": -1635.23,
+      "Y": 495.35,
+      "Z": 120.99
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m25_2_int_mansion_2",
+    "Room": "m25_2_int_mansion_2_rm_club",
+    "RadioStation": "Soulwax FM",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_basement_armoury_loc_1",
+    "Position": {
+      "X": -2574.47,
+      "Y": 1897.84,
+      "Z": 158.83
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m25_2_int_mansion_2",
+    "Room": "m25_2_int_mansion_2_rm_armoury",
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_basement_mod_garage_loc_2",
+    "Position": {
+      "X": -1635.52,
+      "Y": 490.05,
+      "Z": 116.2
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m25_2_int_mansion_2",
+    "Room": "m25_2_int_mansion_2_rm_mod_garage",
+    "RadioStation": "Soulwax FM",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_mansion_arcade_loc_1",
+    "Position": {
+      "X": -2589.55,
+      "Y": 1922.05,
+      "Z": 164.94
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m25_2_int_mansion",
+    "Room": "m25_2_int_mansion_rm_arcade",
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_mansion_lobby_loc_3",
+    "Position": {
+      "X": 542.88,
+      "Y": 738.68,
+      "Z": 204.0
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m25_2_int_mansion",
+    "Room": "m25_2_int_mansion_rm_lobby",
+    "RadioStation": "Soulwax FM",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_mansion_guest_bedroom_loc_1",
+    "Position": {
+      "X": -2594.96,
+      "Y": 1911.98,
+      "Z": 164.31
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m25_2_int_mansion",
+    "Room": "m25_2_int_mansion_rm_guest_bedroom",
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_basement_garage_loc_2",
+    "Position": {
+      "X": -1678.24,
+      "Y": 492.84,
+      "Z": 116.4
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m25_2_int_mansion_garage",
+    "Room": "m25_2_int_mansion_garage_gar_roombot",
+    "RadioStation": "Soulwax FM",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_mansion_lobby_loc_1",
+    "Position": {
+      "X": -2587.12,
+      "Y": 1898.68,
+      "Z": 169.5
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m25_2_int_mansion",
+    "Room": "m25_2_int_mansion_rm_lobby",
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_mansion_exterior_terrace_loc_3",
+    "Position": {
+      "X": 545.35,
+      "Y": 704.53,
+      "Z": 204.95
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "",
+    "Room": "",
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_basement_club_02_loc_3",
+    "Position": {
+      "X": 564.61,
+      "Y": 719.6,
+      "Z": 194.11
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m25_2_int_mansion_2",
+    "Room": "m25_2_int_mansion_2_rm_club",
+    "RadioStation": "Soulwax FM",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_mansion_exterior_terrace_loc_2",
+    "Position": {
+      "X": -1623.55,
+      "Y": 468.78,
+      "Z": 131.05
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "",
+    "Room": "",
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_mansion_cigar_room_loc_1",
+    "Position": {
+      "X": -2582.56,
+      "Y": 1881.92,
+      "Z": 168.64
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m25_2_int_mansion",
+    "Room": "m25_2_int_mansion_rm_cigar_room",
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_mansion_office_loc_2",
+    "Position": {
+      "X": -1632.0,
+      "Y": 482.91,
+      "Z": 130.67
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m25_2_int_mansion",
+    "Room": "m25_2_int_mansion_rm_offce",
+    "RadioStation": "Soulwax FM",
+    "Alarm": ""
+  },
+  {
+    "Name": "se_dlc25-2_mansion_gallery_loc_1",
+    "Position": {
+      "X": -2584.98,
+      "Y": 1885.89,
+      "Z": 163.01
+    },
+    "Flags": [
+      "FLAG_ID_STATICEMITTER_ENABLED",
+      "FLAG_ID_STATICEMITTER_STARTSTOPIMMEDIATELYATTIMELIMITS",
+      "FLAG_ID_STATICEMITTER_FORCEMAXPATHDEPTH",
+      "FLAG_ID_STATICEMITTER_MAX"
+    ],
+    "Interior": "m25_2_int_mansion",
+    "Room": "m25_2_int_mansion_rm_gallery",
+    "RadioStation": "HIDDEN_RADIO_07_DANCE_01",
     "Alarm": ""
   }
 ]

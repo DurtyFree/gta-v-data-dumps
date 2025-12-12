@@ -3967,7 +3967,7 @@
   {
     "Name": "h4_sub_vehiclebay",
     "DlcName": "TitleUpdate",
-    "ModificationsCount": 38
+    "ModificationsCount": 34
   },
   {
     "Name": "h4_sub_main",
@@ -4567,12 +4567,112 @@
   {
     "Name": "DLC_MP2025_01_LSIA_INTRO_CS",
     "DlcName": "TitleUpdate",
-    "ModificationsCount": 4
+    "ModificationsCount": 5
   },
   {
     "Name": "DLC_MP2025_01_LSIA_INTRO_CS_PLN",
     "DlcName": "TitleUpdate",
     "ModificationsCount": 5
+  },
+  {
+    "Name": "DLC_mp2025_02_MANSION",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 31
+  },
+  {
+    "Name": "DLC_mp2025_02_MANSION_LOWER",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 45
+  },
+  {
+    "Name": "DLC_mp2025_02_MANSION_BAR",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 45
+  },
+  {
+    "Name": "DLC_mp2025_02_MANSION_ARMORY",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 43
+  },
+  {
+    "Name": "DLC_mp2025_02_MANSION_Vault",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 53
+  },
+  {
+    "Name": "DLC_mp2025_02_MANSION_Garage",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 55
+  },
+  {
+    "Name": "DLC_mp2025_02_MANSION_LOWER_02",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 52
+  },
+  {
+    "Name": "DLC_mp2025_02_MANSION_Stairs_01",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 50
+  },
+  {
+    "Name": "DLC_mp2025_02_MANSION_Stairs_02",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 50
+  },
+  {
+    "Name": "DLC_mp2025_02_MANSION_Big_Garag",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 50
+  },
+  {
+    "Name": "DLC_mp2025_02_MANSION_Stairs_03",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 45
+  },
+  {
+    "Name": "DLC_mp2025_02_MANSION_cinema",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 43
+  },
+  {
+    "Name": "DLC_mp2025_02_XM25_AVI5_EXT",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 3
+  },
+  {
+    "Name": "DLC_mp2025_02_XM25_AVI6_RESCUE",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 45
+  },
+  {
+    "Name": "DLC_mp2025_02_MANSION_arcade",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 26
+  },
+  {
+    "Name": "LightPollutionHills_mp2025_02",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 10
+  },
+  {
+    "Name": "DLC_mp2025_02_MANSION_Blend_01",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 33
+  },
+  {
+    "Name": "DLC_MP2025_XM26_AVI6",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 30
+  },
+  {
+    "Name": "DLC_mp2025_02_MANSION_Swim_Pool",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 31
+  },
+  {
+    "Name": "DLC_mp2025_02_XM25_MANSION_INT",
+    "DlcName": "TitleUpdate",
+    "ModificationsCount": 31
   },
   {
     "Name": "AP1_01_C_NoFog",
@@ -5052,7 +5152,7 @@
   {
     "Name": "RemixDrone",
     "DlcName": "TitleUpdate",
-    "ModificationsCount": 28
+    "ModificationsCount": 24
   },
   {
     "Name": "ArenaWheelPurple01",
